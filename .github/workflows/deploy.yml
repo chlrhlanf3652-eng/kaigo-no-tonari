@@ -31,6 +31,9 @@ jobs:
         run: |
           python3 build_hubs.py
           python3 build.py
+          # 未作成ページへのリンクを「準備中」に落とし、上位ページへ誘導する。
+          # これを飛ばすと、公開サイトに 404 になるリンクがそのまま出る。
+          python3 postprocess.py
           python3 build_sitemap.py
 
       - name: Verify output
