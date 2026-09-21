@@ -48,6 +48,7 @@
 ## カテゴリ・都道府県ページ
 
 - [デイサービスを地域から探す｜費用の見方と本人が嫌がるときの対処｜かいごのとなり](https://kaigonotonari.com/day-service/)
+- [福祉用具レンタルを地域から探す｜要介護度別の対象品目と住宅改修20万円｜かいごのとなり](https://kaigonotonari.com/fukushi-yogu/)
 - [訪問介護（ホームヘルプ）の事業所を地域から探す｜かいごのとなり](https://kaigonotonari.com/houmon-kaigo/)
 - [東京都の訪問介護を市区町村から探す｜掲載20エリア【2026年9月更新】](https://kaigonotonari.com/houmon-kaigo/tokyo/)
 - [訪問看護を地域から探す｜医療保険と介護保険どちらで使うか｜かいごのとなり](https://kaigonotonari.com/houmon-kango/)
