@@ -1,0 +1,83 @@
+name: Build and deploy
+
+# main に push すると、ページを生成して GitHub Pages に公開する。
+# 生成物（各 index.html / sitemap.xml / robots.txt）はリポジトリに commit しなくてよい。
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate pages
+        run: |
+          python3 build_hubs.py
+          python3 build.py
+          python3 build_sitemap.py
+
+      - name: Verify output
+        run: |
+          set -e
+          python3 - <<'PY'
+          import json, pathlib, re, sys
+          bad = []
+          for p in pathlib.Path('.').rglob('index.html'):
+              if set(p.parts) & {'dist-artifact', 'node_modules'}:
+                  continue
+              h = p.read_text(encoding='utf-8')
+              # JSON-LD が壊れていたら公開しない
+              for block in re.findall(r'<script type="application/ld\+json">(.*?)</script>', h, re.S):
+                  try:
+                      json.loads(block)
+                  except Exception as e:
+                      bad.append(f"{p}: invalid JSON-LD ({e})")
+              # 目次アンカーの切れを検出
+              ids = set(re.findall(r'id="([^"]+)"', h))
+              for a in re.findall(r'href="#([^"]+)"', h):
+                  if a not in ids:
+                      bad.append(f"{p}: broken anchor #{a}")
+          if bad:
+              print("\n".join(bad)); sys.exit(1)
+          print("verify OK")
+          PY
+
+      - name: Stage site
+        run: |
+          mkdir -p _site
+          rsync -a --exclude '.git' --exclude '.github' --exclude '_site' \
+                --exclude 'dist-artifact' --exclude 'templates' --exclude 'content' \
+                --exclude 'data' --exclude 'docs' --exclude 'node_modules' \
+                --exclude '*.py' --exclude 'README.md' --exclude '*.zip' \
+                ./ _site/
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

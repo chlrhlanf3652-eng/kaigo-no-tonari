@@ -1,0 +1,320 @@
+{
+  "slug": "houmon-kaigo_tokyo_setagaya",
+  "category": {
+    "id": "houmon-kaigo",
+    "name": "訪問介護",
+    "path": "/houmon-kaigo/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "setagaya",
+    "city_name": "世田谷区"
+  },
+  "seo": {
+    "title": "世田谷区の訪問介護12事業所｜料金と選び方【2026年9月更新】",
+    "description": "東京都世田谷区の訪問介護（ホームヘルプ）事業所を地域別に掲載。1級地の料金の目安、できること・できないこと、あんしんすこやかセンターへの相談から利用開始までの流れをわかりやすく解説します。",
+    "canonical": "https://kaigonotonari.com/houmon-kaigo/tokyo/setagaya/",
+    "og_title": "世田谷区の訪問介護事業所一覧｜料金の目安と選び方",
+    "og_description": "世田谷区の訪問介護事業所を掲載。料金の目安、できること・できないこと、利用開始までの流れを解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-houmon-kaigo.jpg"
+  },
+  "h1": "世田谷区の訪問介護事業所一覧｜料金の目安と選び方",
+  "published": "2026-09-21",
+  "modified": "2026-09-21",
+  "count_label": "掲載：12事業所",
+  "lead": "東京都世田谷区で訪問介護（ホームヘルプ）を探している方へ。区内の事業所を連絡先つきで掲載し、あわせて自己負担額の目安、ヘルパーに頼めること・頼めないこと、相談から利用開始までの流れをまとめました。はじめて介護保険を使う方は、まず「あんしんすこやかセンター」への相談から始めるのが近道です。",
+  "listing_note": "世田谷区内の訪問介護事業所から12件を掲載しています（2026年9月時点）。区内には200件を超える事業所があり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "玉川ケアサービス",
+      "telephone": "03-3709-6776",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "玉川台1-13-14 用賀武井ビル301、302"
+      },
+      "_tags": [
+        "用賀・玉川エリア",
+        "訪問介護"
+      ],
+      "parentOrganization": "（有）玉川ケアサービス",
+      "identifier": "1371200872",
+      "faxNumber": "03-3709-7772",
+      "_hours": "9:00〜17:00",
+      "_closed": "日・祝・年末年始"
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヘルパーステーション スマイライフ経堂",
+      "telephone": "03-6413-9383",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "経堂2-4-8 アンティロープ経堂B"
+      },
+      "_tags": [
+        "経堂エリア",
+        "訪問介護"
+      ],
+      "parentOrganization": "（株）スマイライフ",
+      "identifier": "1371211093",
+      "faxNumber": "03-6413-9398",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・夏季・年末年始"
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "じりつのいえ",
+      "telephone": "03-3426-0768",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "豪徳寺1-41-6"
+      },
+      "_tags": [
+        "豪徳寺エリア",
+        "訪問介護"
+      ],
+      "parentOrganization": "NPO法人 自立の家",
+      "identifier": "1371216936",
+      "faxNumber": "03-6413-9664",
+      "_hours": "10:00〜18:00",
+      "_closed": "土・日・祝・年末年始"
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "やさしい手 三軒茶屋訪問介護事業所",
+      "telephone": "050-1752-1303",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "太子堂1-12-39 三軒茶屋ビル2階"
+      },
+      "_tags": [
+        "三軒茶屋エリア",
+        "全国展開"
+      ],
+      "parentOrganization": "（株）やさしい手",
+      "identifier": "1371201797",
+      "faxNumber": "050-3535-7820",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始"
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "SOMPOケア世田谷訪問介護",
+      "telephone": "03-5431-0373",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "三軒茶屋1-37-8 ワコーレ三軒茶屋64ビル10階"
+      },
+      "_tags": [
+        "三軒茶屋エリア",
+        "大手法人"
+      ],
+      "parentOrganization": "SOMPOケア（株）",
+      "identifier": "1371214907",
+      "faxNumber": "03-5431-0374",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始"
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ベネッセ介護センター祖師谷",
+      "telephone": "03-5727-9361",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "砧6-9-3 ハーモニーハイツ205"
+      },
+      "_tags": [
+        "祖師谷・砧エリア",
+        "大手法人"
+      ],
+      "parentOrganization": "（株）ベネッセスタイルケア",
+      "identifier": "1371211036",
+      "faxNumber": "03-5727-9362",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始"
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ニチイケアセンター世田谷松原",
+      "telephone": "03-5329-0721",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "赤堤4-36-19 関口ビル中1階"
+      },
+      "_tags": [
+        "松原・赤堤エリア",
+        "大手法人"
+      ],
+      "parentOrganization": "（株）ニチイ学館",
+      "identifier": "1371215839",
+      "faxNumber": "03-3325-5010",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始"
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ホームヘルプサービス ソラスト世田谷",
+      "telephone": "03-5426-6651",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "桜新町2-31-5 桜新町二丁目ビル3階"
+      },
+      "_tags": [
+        "桜新町エリア",
+        "大手法人"
+      ],
+      "parentOrganization": "（株）ソラスト",
+      "identifier": "1371202282",
+      "faxNumber": "03-3706-0082",
+      "_hours": "9:00〜17:30",
+      "_closed": "土・日・祝"
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアリッツ経堂",
+      "telephone": "03-6413-1804",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "桜1-63-19 グリーンネスト1階"
+      },
+      "_tags": [
+        "経堂・桜エリア",
+        "訪問介護"
+      ],
+      "parentOrganization": "（株）ケアリッツ・アンド・パートナーズ",
+      "identifier": "1371215847",
+      "faxNumber": "03-6413-1805",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始"
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "はなケア 用賀サービスセンター",
+      "telephone": "03-6411-7591",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "用賀4-33-17"
+      },
+      "_tags": [
+        "用賀エリア",
+        "訪問介護"
+      ],
+      "parentOrganization": "（株）はなケア",
+      "identifier": "1371208255",
+      "faxNumber": "03-6411-7594",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日"
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ホームヘルパーステーションきたざわ苑",
+      "telephone": "03-5453-5620",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "北沢5-24-18"
+      },
+      "_tags": [
+        "北沢エリア",
+        "社会福祉法人系"
+      ],
+      "parentOrganization": "（社福）正吉福祉会",
+      "identifier": "1371202290",
+      "faxNumber": "03-5453-5621",
+      "_hours": "8:30〜17:30",
+      "_closed": "年中無休"
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "千山の里 ヘルパーステーション",
+      "telephone": "03-3300-1850",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "南烏山2-32-28 千山の里1階"
+      },
+      "_tags": [
+        "烏山エリア",
+        "併設施設あり"
+      ],
+      "parentOrganization": "（有）千山の里",
+      "identifier": "1371205699",
+      "faxNumber": "03-3300-1851",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始"
+    }
+  ],
+  "faq": [
+    {
+      "q": "世田谷区で訪問介護を使うには、まず何をすればいいですか？",
+      "a": "お住まいの地区を担当する「あんしんすこやかセンター（地域包括支援センター）」に相談するのが最初の一歩です。要介護認定の申請方法から、ケアマネジャー（居宅介護支援事業所）の紹介まで無料で案内してもらえます。"
+    },
+    {
+      "q": "訪問介護の自己負担はいくらくらいですか？",
+      "a": "世田谷区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたります。自己負担1割の場合、身体介護20分以上30分未満で約278円、生活援助20分以上45分未満で約204円が目安です（各種加算は別途）。"
+    },
+    {
+      "q": "ヘルパーに家族の分の食事や庭の草むしりも頼めますか？",
+      "a": "介護保険の訪問介護では頼めません。訪問介護は利用者本人の生活に必要な支援に限られ、家族分の家事、来客対応、庭の手入れ、大掃除などは対象外です。保険外の自費サービスや家事代行を併用する方法があります。"
+    },
+    {
+      "q": "事業所は途中で変更できますか？",
+      "a": "変更できます。担当のケアマネジャーに相談すれば、ケアプランを見直したうえで別の訪問介護事業所に切り替えられます。相性やシフトの都合で変更する方は珍しくありません。"
+    },
+    {
+      "q": "要介護認定の結果が出る前でもサービスを使えますか？",
+      "a": "申請日にさかのぼってサービスを利用できる「暫定ケアプラン」という仕組みがあります。ただし想定より低い介護度で認定された場合、超過分が全額自己負担になるリスクがあります。利用を急ぐ場合は、必ずケアマネジャーとリスクを確認したうえで進めてください。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}takuhai-bento/tokyo/setagaya/\">世田谷区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}koreisha-chintai/tokyo/setagaya/\">世田谷区の高齢者可賃貸<small>断られない部屋探し</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/setagaya/\">世田谷区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/setagaya/\">世田谷区のデイサービス<small>通所介護</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/setagaya/\">世田谷区の見守りサービス<small>ひとり暮らしの安否確認</small></a>\n      <a href=\"{{ROOT}}kaigo-taxi/tokyo/setagaya/\">世田谷区の介護タクシー<small>通院・外出の送迎</small></a>",
+  "nearby_heading": "近隣エリアの訪問介護",
+  "nearby": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/meguro/\">目黒区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/shibuya/\">渋谷区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/suginami/\">杉並区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/ota/\">大田区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/komae/\">狛江市</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/chofu/\">調布市</a>",
+  "sources": [
+    "厚生労働省「介護事業所・生活関連情報検索（介護サービス情報公表システム）」",
+    "世田谷区「あんしんすこやかセンター（地域包括支援センター）一覧」",
+    "世田谷区「要介護・要支援認定申請からサービスの利用まで」",
+    "令和6年度介護報酬改定 訪問介護 基本報酬単位数／介護報酬の地域区分（1級地・1単位11.40円）"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>どこに相談すればいい？</h4>\n        <p>介護がはじめての方は、まず地域の相談窓口へ。無料で手続きを案内してもらえます。</p>\n        <a class=\"btn\" href=\"{{ROOT}}guide/anshin-sukoyaka/\">世田谷区の相談窓口を見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>世田谷区は1級地（1単位11.40円）</li>\n          <li>身体介護30分未満で約278円（1割）</li>\n          <li>家族分の家事・草むしりは保険対象外</li>\n          <li>最初の相談はあんしんすこやかセンター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/caremanager/\">ケアマネジャーの選び方</a></li>\n          <li><a href=\"{{ROOT}}guide/kubun-shikyu-gendo/\">区分支給限度基準額とは</a></li>\n          <li><a href=\"{{ROOT}}guide/jihi-service/\">介護保険外サービスの相場</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s5\">利用の流れ</a>",
+  "hero_image": "assets/ogp-houmon-kaigo.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "setagaya"
+  }
+}

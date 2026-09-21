@@ -1,0 +1,168 @@
+{
+  "slug": "takuhai-bento_tokyo_setagaya",
+  "category": {
+    "id": "takuhai-bento",
+    "name": "宅配弁当・配食サービス",
+    "path": "/takuhai-bento/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "setagaya",
+    "city_name": "世田谷区"
+  },
+  "seo": {
+    "title": "世田谷区の高齢者向け宅配弁当6社｜料金比較【2026年9月更新】",
+    "description": "東京都世田谷区に配達する高齢者向け宅配弁当・配食サービスを比較。まごころ弁当・ライフデリ・宅配クック123の料金と配達エリア、やわらか食やムース食などの食形態、安否確認の有無、区の配食サービスまで解説します。",
+    "canonical": "https://kaigonotonari.com/takuhai-bento/tokyo/setagaya/",
+    "og_title": "世田谷区の高齢者向け宅配弁当・配食サービス比較",
+    "og_description": "世田谷区に配達する高齢者向け宅配弁当を料金・食形態・安否確認で比較。区の配食サービスも解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-takuhai-bento.jpg"
+  },
+  "h1": "世田谷区の高齢者向け宅配弁当・配食サービス比較",
+  "published": "2026-09-21",
+  "modified": "2026-09-21",
+  "count_label": "掲載：6サービス",
+  "lead": "「親が自分で食事を作らなくなった」「ひとり暮らしの食事が心配」。世田谷区に配達している高齢者向けの宅配弁当・配食サービスを、料金・配達エリア・食形態・安否確認の有無で比較しました。噛む力が落ちた方向けの<strong>やわらか食・ムース食</strong>や、<strong>腎臓食・透析食・カロリー調整食</strong>まで対応できるサービスもあります。",
+  "listing_note": "2026年9月時点で世田谷区への配達を公表しているサービスを掲載しています。配達エリアは町域単位で細かく分かれているため、申し込み前に必ずご自宅の住所で確認してください。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "まごころ弁当 世田谷中央店",
+      "telephone": "03-6413-0600",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "桜3-7-15"
+      },
+      "areaServed": "世田谷区中心部",
+      "_tags": [
+        "高齢者専門",
+        "手渡し",
+        "年末年始以外ほぼ無休"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "まごころ弁当 世田谷北店",
+      "telephone": "03-6260-8365",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "粕谷3-1-27 NKコート K101"
+      },
+      "areaServed": "世田谷区（一部）・杉並区（一部）・調布市（一部）",
+      "_tags": [
+        "高齢者専門",
+        "手渡し",
+        "烏山・千歳台方面"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "まごころ弁当 世田谷狛江店",
+      "telephone": "03-6413-8861",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "若林5-5-1 マイステージ世田谷若林1階"
+      },
+      "areaServed": "世田谷区・狛江市・調布市東部",
+      "_tags": [
+        "高齢者専門",
+        "手渡し",
+        "狛江市もカバー"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "まごころ弁当 渋谷本店",
+      "telephone": "03-6805-4636",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "三宿2-7-9"
+      },
+      "areaServed": "渋谷区全域・目黒区一部・世田谷区一部",
+      "_tags": [
+        "高齢者専門",
+        "手渡し",
+        "三宿・池尻方面"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ライフデリ 世田谷成城店",
+      "telephone": "0120-080-141",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "調布市",
+        "streetAddress": "佐須町3-35-3"
+      },
+      "areaServed": "世田谷区",
+      "_tags": [
+        "治療食対応",
+        "介護食対応",
+        "料金公開あり"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "宅配クック123（世田谷区配達対応）",
+      "areaServed": "世田谷区内50以上の町域",
+      "_tags": [
+        "高齢者専門",
+        "区内ほぼ全域",
+        "担当店舗は要確認"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "宅配弁当に介護保険は使えますか？",
+      "a": "民間の宅配弁当は介護保険の給付対象外で、全額自己負担です。ただし世田谷区には利用者負担1食500円の配食サービス事業があり、対象要件を満たす方は利用できます。詳しくは各総合支所保健福祉課へお問い合わせください。"
+    },
+    {
+      "q": "安否確認もしてもらえますか？",
+      "a": "高齢者専門の配食サービスの多くは「手渡し」を基本としており、応答がない場合に緊急連絡先へ連絡する体制を持つ事業者もあります。置き配のみの宅食サービスでは安否確認にならないため、ひとり暮らしの方は手渡し対応かを必ず確認してください。"
+    },
+    {
+      "q": "噛む力・飲み込む力が落ちた場合のお弁当はありますか？",
+      "a": "「やわらか食」「ムース食」といった介護食に対応する事業者があります。ライフデリ世田谷成城店の場合、やわらか食はおかずのみ750円、ムース食はおかずのみ680円です。嚥下の状態によって適した形態が異なるため、主治医や管理栄養士に確認したうえで選んでください。"
+    },
+    {
+      "q": "塩分やカロリーの制限食も頼めますか？",
+      "a": "カロリー調整食、腎臓食、透析食などの治療食に対応する事業者があります。ライフデリ世田谷成城店ではカロリー調整食おかずのみ780円、腎臓食860円、透析食870円です。医師の指示内容を事業者に正確に伝えることが大切です。"
+    },
+    {
+      "q": "毎日でなく週2回だけの利用もできますか？",
+      "a": "多くの高齢者向け配食サービスは1食単位・曜日指定での注文に対応しています。まずは夕食だけ、週2〜3回から始めて様子を見る方が多いです。契約前に最低注文数と休止・キャンセルの締め切り時間を確認しておくと安心です。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/setagaya/\">世田谷区の訪問介護<small>調理・買い物の支援も</small></a>\n      <a href=\"{{ROOT}}koreisha-chintai/tokyo/setagaya/\">世田谷区の高齢者可賃貸<small>断られない部屋探し</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/setagaya/\">世田谷区の見守りサービス<small>ひとり暮らしの安否確認</small></a>\n      <a href=\"{{ROOT}}kaji-daiko/tokyo/setagaya/\">世田谷区の家事代行<small>掃除・調理の保険外支援</small></a>\n      <a href=\"{{ROOT}}kaimono-daiko/tokyo/setagaya/\">世田谷区の買い物代行<small>日用品の定期便</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/setagaya/\">世田谷区のデイサービス<small>昼食つきの通所介護</small></a>",
+  "nearby_heading": "近隣エリアの宅配弁当",
+  "nearby": "<a href=\"{{ROOT}}takuhai-bento/tokyo/meguro/\">目黒区</a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/shibuya/\">渋谷区</a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/suginami/\">杉並区</a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/komae/\">狛江市</a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/chofu/\">調布市</a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/mitaka/\">三鷹市</a>",
+  "sources": [
+    "まごころ弁当 公式サイト「東京都 世田谷区の配食サービス店舗」",
+    "ライフデリ 公式サイト「ライフデリ世田谷成城店」",
+    "宅配クック123 公式サイト「店舗検索（東京都世田谷区）」",
+    "世田谷区「配食サービス」"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まずは試食から</h4>\n        <p>本人が「食べられる」と感じるかが続けられる条件です。多くの事業者が無料試食に対応しています。</p>\n        <a class=\"btn\" href=\"#s2\">配達サービスを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>高齢者向けは「手渡し＝安否確認」</li>\n          <li>やわらか食・ムース食に対応あり</li>\n          <li>腎臓食・透析食も配達できる</li>\n          <li>区の配食は1食500円（要件あり）</li>\n          <li>民間の宅配弁当は介護保険対象外</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/kaigoshoku-keitai/\">介護食の形態と選び方</a></li>\n          <li><a href=\"{{ROOT}}guide/goen-yobou/\">誤嚥を防ぐ食事の工夫</a></li>\n          <li><a href=\"{{ROOT}}guide/hitorigurashi-shokuji/\">ひとり暮らしの食事対策</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">サービス一覧</a>\n  <a class=\"m2\" href=\"#s3\">料金を見る</a>",
+  "hero_image": "assets/ogp-takuhai-bento.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "setagaya"
+  }
+}

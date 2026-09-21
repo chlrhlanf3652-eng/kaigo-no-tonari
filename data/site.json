@@ -1,0 +1,522 @@
+{
+  "site": {
+    "name": "かいごのとなり",
+    "url": "https://kaigonotonari.com",
+    "tagline": "高齢者と家族のための地域サービス情報"
+  },
+  "prefs": [
+    {
+      "id": "tokyo",
+      "name": "東京都",
+      "status": "live"
+    },
+    {
+      "id": "kanagawa",
+      "name": "神奈川県",
+      "status": "planned"
+    },
+    {
+      "id": "saitama",
+      "name": "埼玉県",
+      "status": "planned"
+    },
+    {
+      "id": "chiba",
+      "name": "千葉県",
+      "status": "planned"
+    },
+    {
+      "id": "osaka",
+      "name": "大阪府",
+      "status": "planned"
+    },
+    {
+      "id": "aichi",
+      "name": "愛知県",
+      "status": "planned"
+    },
+    {
+      "id": "hyogo",
+      "name": "兵庫県",
+      "status": "planned"
+    },
+    {
+      "id": "fukuoka",
+      "name": "福岡県",
+      "status": "planned"
+    },
+    {
+      "id": "hokkaido",
+      "name": "北海道",
+      "status": "planned"
+    },
+    {
+      "id": "kyoto",
+      "name": "京都府",
+      "status": "planned"
+    },
+    {
+      "id": "shizuoka",
+      "name": "静岡県",
+      "status": "planned"
+    },
+    {
+      "id": "hiroshima",
+      "name": "広島県",
+      "status": "planned"
+    }
+  ],
+  "cities": {
+    "tokyo": [
+      {
+        "id": "setagaya",
+        "name": "世田谷区",
+        "status": "live"
+      },
+      {
+        "id": "nerima",
+        "name": "練馬区",
+        "status": "planned"
+      },
+      {
+        "id": "ota",
+        "name": "大田区",
+        "status": "planned"
+      },
+      {
+        "id": "edogawa",
+        "name": "江戸川区",
+        "status": "planned"
+      },
+      {
+        "id": "adachi",
+        "name": "足立区",
+        "status": "planned"
+      },
+      {
+        "id": "suginami",
+        "name": "杉並区",
+        "status": "planned"
+      },
+      {
+        "id": "itabashi",
+        "name": "板橋区",
+        "status": "planned"
+      },
+      {
+        "id": "katsushika",
+        "name": "葛飾区",
+        "status": "planned"
+      },
+      {
+        "id": "shinagawa",
+        "name": "品川区",
+        "status": "planned"
+      },
+      {
+        "id": "koto",
+        "name": "江東区",
+        "status": "planned"
+      },
+      {
+        "id": "kita",
+        "name": "北区",
+        "status": "planned"
+      },
+      {
+        "id": "nakano",
+        "name": "中野区",
+        "status": "planned"
+      },
+      {
+        "id": "toshima",
+        "name": "豊島区",
+        "status": "planned"
+      },
+      {
+        "id": "shinjuku",
+        "name": "新宿区",
+        "status": "planned"
+      },
+      {
+        "id": "meguro",
+        "name": "目黒区",
+        "status": "planned"
+      },
+      {
+        "id": "sumida",
+        "name": "墨田区",
+        "status": "planned"
+      },
+      {
+        "id": "bunkyo",
+        "name": "文京区",
+        "status": "planned"
+      },
+      {
+        "id": "arakawa",
+        "name": "荒川区",
+        "status": "planned"
+      },
+      {
+        "id": "taito",
+        "name": "台東区",
+        "status": "planned"
+      },
+      {
+        "id": "shibuya",
+        "name": "渋谷区",
+        "status": "planned"
+      },
+      {
+        "id": "minato",
+        "name": "港区",
+        "status": "planned"
+      },
+      {
+        "id": "chuo",
+        "name": "中央区",
+        "status": "planned"
+      },
+      {
+        "id": "chiyoda",
+        "name": "千代田区",
+        "status": "planned"
+      },
+      {
+        "id": "hachioji",
+        "name": "八王子市",
+        "status": "planned"
+      },
+      {
+        "id": "machida",
+        "name": "町田市",
+        "status": "planned"
+      },
+      {
+        "id": "chofu",
+        "name": "調布市",
+        "status": "planned"
+      },
+      {
+        "id": "mitaka",
+        "name": "三鷹市",
+        "status": "planned"
+      },
+      {
+        "id": "musashino",
+        "name": "武蔵野市",
+        "status": "planned"
+      },
+      {
+        "id": "komae",
+        "name": "狛江市",
+        "status": "planned"
+      }
+    ]
+  },
+  "categories": [
+    {
+      "id": "houmon-kaigo",
+      "name": "訪問介護",
+      "nav": "介護サービス",
+      "tagline": "ホームヘルパーが自宅に来て、入浴・食事・掃除を手伝う介護保険サービス",
+      "hub": {
+        "title": "訪問介護（ホームヘルプ）の事業所を地域から探す｜かいごのとなり",
+        "description": "全国の訪問介護（ホームヘルプ）事業所を都道府県・市区町村から探せます。介護保険の自己負担の目安、ヘルパーに頼めること・頼めないこと、要介護認定から利用開始までの流れもあわせて解説します。",
+        "h1": "訪問介護（ホームヘルプ）を地域から探す",
+        "lead": "訪問介護は、ホームヘルパーが自宅を訪問して入浴・排せつ・食事などの<strong>身体介護</strong>と、調理・洗濯・掃除などの<strong>生活援助</strong>を行う介護保険サービスです。事業所は市区町村単位で探すのが基本になります。お住まいの地域を選んでください。",
+        "ogp": "ogp-houmon-kaigo.jpg"
+      }
+    },
+    {
+      "id": "takuhai-bento",
+      "name": "宅配弁当・配食サービス",
+      "nav": "暮らしの配達",
+      "tagline": "高齢者専門の宅配弁当。手渡しで安否確認、やわらか食や治療食にも対応",
+      "hub": {
+        "title": "高齢者向け宅配弁当・配食サービスを地域から探す｜かいごのとなり",
+        "description": "全国の高齢者向け宅配弁当・配食サービスを都道府県・市区町村から探せます。手渡しによる安否確認、やわらか食やムース食などの介護食、腎臓食・透析食といった治療食への対応、料金の目安まで解説します。",
+        "h1": "高齢者向け宅配弁当・配食サービスを地域から探す",
+        "lead": "高齢者専門の配食サービスは、ふつうの宅食と3つの点で違います。<strong>手渡しがそのまま安否確認になる</strong>こと、<strong>やわらか食・ムース食</strong>があること、<strong>腎臓食・透析食などの治療食</strong>に対応できること。お住まいの地域を選んでください。",
+        "ogp": "ogp-takuhai-bento.jpg"
+      }
+    },
+    {
+      "id": "koreisha-chintai",
+      "name": "高齢者可の賃貸",
+      "nav": "住まい",
+      "tagline": "年齢を理由に断られない部屋探し。公的な居住支援と専門サービス",
+      "hub": {
+        "title": "高齢者が借りられる賃貸の探し方を地域から調べる｜かいごのとなり",
+        "description": "高齢者の入居を受け入れている賃貸の探し方を、都道府県・市区町村ごとの相談窓口から調べられます。自治体の居住支援制度、高齢者専門の不動産サービス、入居審査を通りやすくする準備までまとめました。",
+        "h1": "高齢者が借りられる賃貸の探し方を地域から調べる",
+        "lead": "高齢者の部屋探しでつまずく理由は、年齢そのものではなく<strong>年齢にひもづく貸主の不安</strong>です。自治体の居住支援制度は市区町村ごとに内容が違うため、まずお住まいの地域の窓口を確認してください。",
+        "ogp": "ogp-koreisha-chintai.jpg"
+      }
+    },
+    {
+      "id": "mimamori",
+      "name": "見守りサービス",
+      "nav": "見守り",
+      "tagline": "ひとり暮らしの安否を、センサー・電話・訪問で確かめる仕組み",
+      "hub": {
+        "title": "高齢者の見守りサービスを地域から探す｜かいごのとなり",
+        "description": "高齢者の見守りサービスを、センサー型・通報型・電話型・訪問型のタイプ別に解説し、地域ごとに探せます。自治体の無料サービス、賃貸の入居審査での使い方、選ぶときの確認事項までまとめました。",
+        "h1": "高齢者の見守りサービスを地域から探す",
+        "lead": "見守りサービスは「何かあったときに気づける仕組み」です。<strong>センサー型・通報型・電話型・訪問型</strong>で向き不向きが大きく違い、<strong>自治体が無料または低額で提供している</strong>ものもあります。まずタイプの違いから確認してください。",
+        "ogp": "ogp-mimamori.jpg"
+      }
+    }
+  ],
+  "towns": {
+    "tokyo": {
+      "setagaya": [
+        {
+          "name": "池尻",
+          "kana": "いけじり"
+        },
+        {
+          "name": "下馬",
+          "kana": "しもうま"
+        },
+        {
+          "name": "野沢",
+          "kana": "のざわ"
+        },
+        {
+          "name": "太子堂",
+          "kana": "たいしどう"
+        },
+        {
+          "name": "三宿",
+          "kana": "みしゅく"
+        },
+        {
+          "name": "上馬",
+          "kana": "かみうま"
+        },
+        {
+          "name": "駒沢",
+          "kana": "こまざわ"
+        },
+        {
+          "name": "駒沢公園",
+          "kana": "こまざわこうえん"
+        },
+        {
+          "name": "新町",
+          "kana": "しんまち"
+        },
+        {
+          "name": "桜新町",
+          "kana": "さくらしんまち"
+        },
+        {
+          "name": "弦巻",
+          "kana": "つるまき"
+        },
+        {
+          "name": "世田谷",
+          "kana": "せたがや"
+        },
+        {
+          "name": "豪徳寺",
+          "kana": "ごうとくじ"
+        },
+        {
+          "name": "梅丘",
+          "kana": "うめがおか"
+        },
+        {
+          "name": "若林",
+          "kana": "わかばやし"
+        },
+        {
+          "name": "三軒茶屋",
+          "kana": "さんげんぢゃや"
+        },
+        {
+          "name": "北沢",
+          "kana": "きたざわ"
+        },
+        {
+          "name": "代沢",
+          "kana": "だいざわ"
+        },
+        {
+          "name": "代田",
+          "kana": "だいた"
+        },
+        {
+          "name": "大原",
+          "kana": "おおはら"
+        },
+        {
+          "name": "羽根木",
+          "kana": "はねぎ"
+        },
+        {
+          "name": "松原",
+          "kana": "まつばら"
+        },
+        {
+          "name": "赤堤",
+          "kana": "あかつつみ"
+        },
+        {
+          "name": "桜上水",
+          "kana": "さくらじょうすい"
+        },
+        {
+          "name": "宮坂",
+          "kana": "みやさか"
+        },
+        {
+          "name": "経堂",
+          "kana": "きょうどう"
+        },
+        {
+          "name": "桜",
+          "kana": "さくら"
+        },
+        {
+          "name": "桜丘",
+          "kana": "さくらがおか"
+        },
+        {
+          "name": "船橋",
+          "kana": "ふなばし"
+        },
+        {
+          "name": "八幡山",
+          "kana": "はちまんやま"
+        },
+        {
+          "name": "上北沢",
+          "kana": "かみきたざわ"
+        },
+        {
+          "name": "北烏山",
+          "kana": "きたからすやま"
+        },
+        {
+          "name": "南烏山",
+          "kana": "みなみからすやま"
+        },
+        {
+          "name": "粕谷",
+          "kana": "かすや"
+        },
+        {
+          "name": "給田",
+          "kana": "きゅうでん"
+        },
+        {
+          "name": "上祖師谷",
+          "kana": "かみそしがや"
+        },
+        {
+          "name": "成城",
+          "kana": "せいじょう"
+        },
+        {
+          "name": "喜多見",
+          "kana": "きたみ"
+        },
+        {
+          "name": "宇奈根",
+          "kana": "うなね"
+        },
+        {
+          "name": "千歳台",
+          "kana": "ちとせだい"
+        },
+        {
+          "name": "祖師谷",
+          "kana": "そしがや"
+        },
+        {
+          "name": "砧",
+          "kana": "きぬた"
+        },
+        {
+          "name": "大蔵",
+          "kana": "おおくら"
+        },
+        {
+          "name": "砧公園",
+          "kana": "きぬたこうえん"
+        },
+        {
+          "name": "岡本",
+          "kana": "おかもと"
+        },
+        {
+          "name": "鎌田",
+          "kana": "かまた"
+        },
+        {
+          "name": "深沢",
+          "kana": "ふかさわ"
+        },
+        {
+          "name": "等々力",
+          "kana": "とどろき"
+        },
+        {
+          "name": "奥沢",
+          "kana": "おくさわ"
+        },
+        {
+          "name": "東玉川",
+          "kana": "ひがしたまがわ"
+        },
+        {
+          "name": "玉川田園調布",
+          "kana": "たまがわでんえんちょうふ"
+        },
+        {
+          "name": "尾山台",
+          "kana": "おやまだい"
+        },
+        {
+          "name": "玉堤",
+          "kana": "たまづつみ"
+        },
+        {
+          "name": "中町",
+          "kana": "なかまち"
+        },
+        {
+          "name": "野毛",
+          "kana": "のげ"
+        },
+        {
+          "name": "上野毛",
+          "kana": "かみのげ"
+        },
+        {
+          "name": "玉川",
+          "kana": "たまがわ"
+        },
+        {
+          "name": "瀬田",
+          "kana": "せた"
+        },
+        {
+          "name": "玉川台",
+          "kana": "たまがわだい"
+        },
+        {
+          "name": "用賀",
+          "kana": "ようが"
+        },
+        {
+          "name": "上用賀",
+          "kana": "かみようが"
+        }
+      ]
+    }
+  }
+}

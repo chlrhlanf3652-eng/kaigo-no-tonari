@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# 生成物ではない作業用ディレクトリはクロールさせない
+Disallow: /data/
+Disallow: /content/
+Disallow: /templates/
+Disallow: /docs/
+Disallow: /dist-artifact/
+
+Sitemap: https://kaigonotonari.com/sitemap.xml

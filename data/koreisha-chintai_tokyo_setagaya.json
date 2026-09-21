@@ -1,0 +1,121 @@
+{
+  "slug": "koreisha-chintai_tokyo_setagaya",
+  "category": {
+    "id": "koreisha-chintai",
+    "name": "高齢者可の賃貸",
+    "path": "/koreisha-chintai/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "setagaya",
+    "city_name": "世田谷区"
+  },
+  "seo": {
+    "title": "世田谷区の高齢者可賃貸｜相談窓口4件【2026年9月更新】",
+    "description": "世田谷区で高齢者が借りられる賃貸の探し方。区の「お部屋探しサポート」の対象・窓口・利用の流れ、高齢者専門の不動産サービス、入居を断られにくくするための準備、サ高住など他の選択肢との比較をまとめました。",
+    "canonical": "https://kaigonotonari.com/koreisha-chintai/tokyo/setagaya/",
+    "og_title": "世田谷区の高齢者可の賃貸｜断られにくくする準備と相談窓口",
+    "og_description": "世田谷区で高齢者が借りられる賃貸の探し方。区の公的サポート、専門サービス、準備すべきことを解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-koreisha-chintai.jpg"
+  },
+  "h1": "世田谷区で高齢者が借りられる賃貸の探し方",
+  "published": "2026-09-21",
+  "modified": "2026-09-21",
+  "count_label": "相談窓口・サービス4件",
+  "lead": "「何件回っても、年齢を理由に断られた」。高齢者の部屋探しでは珍しくない話です。ただし、断られる理由には貸主側のはっきりした不安があり、そこに先回りして答えれば状況は変わります。このページでは、世田谷区が用意している<strong>公的な部屋探し支援</strong>と、高齢者専門の不動産サービス、そして<strong>審査を通りやすくするための具体的な準備</strong>をまとめました。",
+  "listing_note": "世田谷区で高齢者の部屋探しに使える窓口・サービスです（2026年9月時点）。",
+  "items": [
+    {
+      "@type": "GovernmentOffice",
+      "name": "世田谷区 住まいサポートセンター",
+      "telephone": "03-6379-1420",
+      "faxNumber": "03-6379-4233",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "松原6-3-5"
+      },
+      "areaServed": "世田谷区",
+      "_tags": [
+        "まずここから",
+        "無料"
+      ]
+    },
+    {
+      "@type": "GovernmentOffice",
+      "name": "世田谷区 都市整備政策部 居住支援課",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区"
+      },
+      "areaServed": "世田谷区",
+      "_tags": [
+        "行政窓口"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "name": "R65不動産",
+      "description": "65歳以上向けの賃貸情報サイト。全国対応で東京都・世田谷区も含む。",
+      "url": "https://r65.info/",
+      "_tags": [
+        "65歳以上専門",
+        "全国対応"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "name": "CHINTAI シニア・高齢者相談可特集",
+      "description": "大手賃貸ポータルのシニア向け特集ページ。",
+      "url": "https://www.chintai.net/feature/senior/",
+      "_tags": [
+        "物件数が多い",
+        "条件で絞り込み"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "高齢というだけで入居を断られるのは違法ではないのですか？",
+      "a": "民間の賃貸借契約では貸主に契約の自由があるため、年齢を理由に入居を断ること自体が直ちに違法とされるわけではありません。ただし国は住宅セーフティネット制度で高齢者などの入居を拒まない住宅の登録を進めており、世田谷区も「お部屋探しサポート」で理解のある物件の紹介を行っています。"
+    },
+    {
+      "q": "世田谷区のお部屋探しサポートは誰でも使えますか？",
+      "a": "60歳以上の単身・高齢者世帯のほか、障害のある方の世帯、18歳未満の子どもがいるひとり親世帯、LGBTQ、在留資格のある外国人世帯などが対象です。利用は原則3回までとされています。詳細は住まいサポートセンター（03-6379-1420）へご確認ください。"
+    },
+    {
+      "q": "保証人がいない場合はどうすればいいですか？",
+      "a": "家賃債務保証会社を利用するのが一般的です。高齢者の受け入れ実績がある保証会社もあります。加えて、緊急連絡先を2名分用意できると貸主の不安が下がり、審査が通りやすくなります。"
+    },
+    {
+      "q": "貸主が不安に思っているのは何ですか？",
+      "a": "主に家賃の支払い、室内での事故や孤独死、残置物の処理です。裏を返せば、家賃保証会社の加入、見守りサービスの導入、緊急連絡先の確保でこの3点に答えられれば、受け入れてもらえる可能性は大きく上がります。"
+    },
+    {
+      "q": "賃貸ではなくサービス付き高齢者向け住宅を選んだ方がよいのはどんな場合ですか？",
+      "a": "見守りや生活相談を住まいとセットで確保したい場合、また要介護度が上がって単身生活に不安がある場合はサービス付き高齢者向け住宅が向きます。自立して生活でき費用を抑えたい場合は一般の賃貸のほうが割安です。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/setagaya/\">世田谷区の訪問介護<small>自宅での生活を支える</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/setagaya/\">世田谷区の宅配弁当<small>手渡しで安否確認</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/setagaya/\">世田谷区の見守りサービス<small>入居審査の材料にも</small></a>\n      <a href=\"{{ROOT}}sakoju/tokyo/setagaya/\">世田谷区のサービス付き高齢者向け住宅<small>安否確認つきの住まい</small></a>\n      <a href=\"{{ROOT}}ihinseiri/tokyo/setagaya/\">世田谷区の生前整理・不用品処分<small>引っ越し前の家財整理</small></a>\n      <a href=\"{{ROOT}}jikka-baikyaku/tokyo/setagaya/\">世田谷区の実家売却・空き家相談<small>住み替えの資金づくり</small></a>",
+  "nearby_heading": "近隣エリアの高齢者可賃貸",
+  "nearby": "<a href=\"{{ROOT}}koreisha-chintai/tokyo/meguro/\">目黒区</a>\n      <a href=\"{{ROOT}}koreisha-chintai/tokyo/shibuya/\">渋谷区</a>\n      <a href=\"{{ROOT}}koreisha-chintai/tokyo/suginami/\">杉並区</a>\n      <a href=\"{{ROOT}}koreisha-chintai/tokyo/komae/\">狛江市</a>\n      <a href=\"{{ROOT}}koreisha-chintai/tokyo/chofu/\">調布市</a>\n      <a href=\"{{ROOT}}koreisha-chintai/tokyo/ota/\">大田区</a>",
+  "sources": [
+    "一般財団法人世田谷トラストまちづくり「お部屋探しサポート」／「住まいサポートセンター」",
+    "世田谷区「住まいサポートセンター（住まいに関する情報提供）」／「都市整備政策部 居住支援課」",
+    "株式会社R65「高齢者向け賃貸に関する実態調査（賃貸オーナー向け）」プレスリリース",
+    "nippon.com「持ち家でなければ住宅難民？高齢者の3人に1人が年齢を理由に入居拒否を経験」",
+    "CHINTAI「シニア・高齢者相談可の賃貸物件」"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>断られ続けているなら</h4>\n        <p>まず区の公的窓口へ。民間だけを回るより、理解のある物件にたどり着きやすくなります。</p>\n        <a class=\"btn\" href=\"#s2\">お部屋探しサポートを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>オーナーの約7割は条件次第で受け入れ検討</li>\n          <li>区の相談窓口は60歳以上が対象・無料</li>\n          <li>利用は原則3回まで</li>\n          <li>緊急連絡先・保証会社・見守りが鍵</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/housing-safety-net/\">住宅セーフティネット制度とは</a></li>\n          <li><a href=\"{{ROOT}}guide/kachin-hosho/\">家賃債務保証会社の選び方</a></li>\n          <li><a href=\"{{ROOT}}guide/sakoju-toha/\">サ高住と老人ホームの違い</a></li>\n          <li><a href=\"{{ROOT}}guide/seizen-seiri/\">生前整理の進め方</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">区の相談窓口</a>\n  <a class=\"m2\" href=\"#s4\">準備リスト</a>",
+  "towns": {
+    "pref": "tokyo",
+    "city": "setagaya"
+  },
+  "hero_image": "assets/ogp-koreisha-chintai.jpg"
+}

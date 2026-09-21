@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{TITLE}}</title>
+<meta name="description" content="{{DESCRIPTION}}">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<link rel="canonical" href="{{CANONICAL}}">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="かいごのとなり">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:title" content="{{OG_TITLE}}">
+<meta property="og:description" content="{{OG_DESCRIPTION}}">
+<meta property="og:url" content="{{CANONICAL}}">
+<meta property="og:image" content="{{OG_IMAGE}}">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ROOT}}assets/style.css">
+<script>/* 文字サイズ設定を描画前に復元（ちらつき防止） */
+try{var _fs=localStorage.getItem("kt-fs");if(_fs==="l")document.documentElement.setAttribute("data-fs","l");}catch(e){}</script>
+<script type="application/ld+json">
+{{JSONLD}}
+</script>
+</head>
+<body>
+<a class="skip" href="#main">本文へスキップ</a>
+<div class="pr">本サイトはアフィリエイトプログラムを利用しており、広告（PR）を含みます。掲載情報は各事業者・自治体の公表情報をもとに作成しています。</div>
+
+<div class="util">
+  <div class="wrap">
+    <span class="u-info">介護の相談は<b>お住まいの地域包括支援センター</b>へ（相談無料）<a href="{{ROOT}}guide/soudan-madoguchi/">窓口をさがす</a></span>
+    <div class="fs">
+      <span>文字サイズ</span>
+      <button type="button" data-fs="n" aria-pressed="true">ふつう</button>
+      <button type="button" data-fs="l" aria-pressed="false">大きい</button>
+    </div>
+  </div>
+</div>
+
+<header>
+  <div class="wrap hd">
+    <a class="logo" href="{{ROOT}}"><span>介</span>かいごのとなり</a>
+    <nav class="main" aria-label="メインメニュー">
+      <a href="{{ROOT}}houmon-kaigo/">介護サービス</a>
+      <a href="{{ROOT}}takuhai-bento/">暮らしの配達</a>
+      <a href="{{ROOT}}koreisha-chintai/">住まい</a>
+      <a href="{{ROOT}}mimamori/">見守り</a>
+      <a href="{{ROOT}}shukatsu/">終活</a>
+      <a href="{{ROOT}}guide/">制度ガイド</a>
+    </nav>
+  </div>
+</header>
+
+<div class="bc">
+  <div class="wrap">
+    <ol>
+      <li><a href="{{ROOT}}">ホーム</a></li>
+      <li><a href="{{ROOT}}{{CAT_ID}}/">{{CAT_NAME}}</a></li>
+      <li><a href="{{ROOT}}{{CAT_ID}}/{{PREF_ID}}/">{{PREF_NAME}}</a></li>
+      <li>{{CITY_NAME}}</li>
+    </ol>
+  </div>
+</div>
+
+<main id="main">
+<div class="wrap">
+  <div class="hero">
+    <h1>{{H1}}</h1>
+    <div class="meta">
+      <span>公開日：{{PUBLISHED}}</span>
+      <span>更新日：{{MODIFIED}}</span>
+      <span>{{COUNT_LABEL}}</span>
+    </div>
+    {{HERO_IMAGE}}
+    <p class="lead">{{LEAD}}</p>
+  </div>
+
+  <div class="cols">
+    <div>
+
+    <div class="toc">
+      <p>目次</p>
+      <ol>
+{{TOC}}
+      </ol>
+    </div>
+
+{{CONTENT}}
+
+{{TOWNS}}
+
+    <h2>{{CITY_NAME}}の他のサービスを探す</h2>
+    <div class="lg">
+{{RELATED}}
+    </div>
+
+    <h3>{{NEARBY_HEADING}}</h3>
+    <div class="lg">
+{{NEARBY}}
+    </div>
+
+    <div class="src">
+      <strong>参考・出典</strong>
+      <ul>
+{{SOURCES}}
+      </ul>
+      <p style="margin:10px 0 0">最終確認日：{{MODIFIED}}／制度・料金は改定される場合があります。ご利用前に各窓口・各事業者で最新情報をご確認ください。</p>
+    </div>
+
+    </div>
+
+    <aside>
+{{SIDEBAR}}
+    </aside>
+  </div>
+</div>
+</main>
+
+<footer>
+  <div class="wrap">
+    <div class="fg">
+      <div>
+        <h5>かいごのとなり</h5>
+        <p style="margin:0;font-size:13px;line-height:1.8">高齢者と家族のための地域サービス情報サイト。介護・配達・住まい・見守りを地域ごとにまとめています。</p>
+      </div>
+      <div>
+        <h5>サービスから探す</h5>
+        <ul>
+          <li><a href="{{ROOT}}houmon-kaigo/">訪問介護</a></li>
+          <li><a href="{{ROOT}}takuhai-bento/">宅配弁当・配食</a></li>
+          <li><a href="{{ROOT}}koreisha-chintai/">高齢者可賃貸</a></li>
+          <li><a href="{{ROOT}}mimamori/">見守りサービス</a></li>
+        </ul>
+      </div>
+      <div>
+        <h5>地域から探す</h5>
+        <ul>
+          <li><a href="{{ROOT}}tokyo/">東京都</a></li>
+          <li><a href="{{ROOT}}osaka/">大阪府</a></li>
+          <li><a href="{{ROOT}}kanagawa/">神奈川県</a></li>
+          <li><a href="{{ROOT}}aichi/">愛知県</a></li>
+        </ul>
+      </div>
+      <div>
+        <h5>サイトについて</h5>
+        <ul>
+          <li><a href="{{ROOT}}about/">運営者情報</a></li>
+          <li><a href="{{ROOT}}privacy/">プライバシーポリシー</a></li>
+          <li><a href="{{ROOT}}disclaimer/">免責事項</a></li>
+          <li><a href="{{ROOT}}ad-policy/">広告について</a></li>
+          <li><a href="{{ROOT}}contact/">お問い合わせ・掲載依頼</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="cp">© 2026 かいごのとなり All rights reserved.</div>
+  </div>
+</footer>
+
+<div class="mcta">
+{{MCTA}}
+</div>
+<script>
+(function(){
+  var root=document.documentElement,KEY="kt-fs";
+  function apply(v,save){
+    if(v==="l"){root.setAttribute("data-fs","l");}else{root.removeAttribute("data-fs");}
+    var bs=document.querySelectorAll(".fs button");
+    for(var i=0;i<bs.length;i++){bs[i].setAttribute("aria-pressed",String(bs[i].getAttribute("data-fs")===v));}
+    if(save){try{localStorage.setItem(KEY,v);}catch(e){}}
+  }
+  var cur="n";try{cur=localStorage.getItem(KEY)==="l"?"l":"n";}catch(e){}
+  apply(cur,false);
+  document.addEventListener("click",function(e){
+    var t=e.target;while(t&&t!==document){if(t.tagName==="BUTTON"&&t.parentNode&&t.parentNode.className==="fs"){apply(t.getAttribute("data-fs"),true);return;}t=t.parentNode;}
+  });
+})();
+</script>
+</body>
+</html>
