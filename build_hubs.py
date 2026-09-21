@@ -28,7 +28,10 @@ S = json.loads((BASE / "data" / "site.json").read_text(encoding="utf-8"))
 CATS = {c["id"]: c for c in S["categories"]}
 OG = f"{SITE}/assets/ogp-houmon-kaigo.jpg"
 # 都道府県ページ専用のカバー画像
-PREF_OGP = {("houmon-kaigo", "tokyo"): "ogp-tokyo23.jpg"}
+PREF_OGP = {
+    ("houmon-kaigo", "tokyo"): "ogp-tokyo23.jpg",
+    ("takuhai-bento", "tokyo"): "ogp-tokyo-bento.jpg",
+}
 
 
 def live_areas(cat_id, pref_id=None):
