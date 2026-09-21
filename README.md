@@ -50,6 +50,16 @@ python3 postprocess.py                         # 未作成ページへのリン�
 python3 build_sitemap.py                       # sitemap.xml / robots.txt
 ```
 
+公開後、Bing・Yandex などに更新を直接通知する場合:
+
+```bash
+python3 indexnow.py                              # sitemap.xml の全URLを送信
+python3 indexnow.py /houmon-kaigo/tokyo/nerima/  # 個別に送信
+```
+
+サイト直下の `<key>.txt` が所有者確認に使われるので消さないこと。Google は IndexNow に
+非対応のため、Google 側は sitemap 再送信と Search Console のインデックス登録リクエストで対応する。
+
 **必ずこの順番で実行する。** `postprocess.py` は生成済みHTMLを書き換えるため、`build_*.py` のあとに走らせる。
 ページを作れば、そのリンクは次のビルドで自動的にリンクへ戻る。
 
