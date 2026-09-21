@@ -127,10 +127,11 @@ def render_listing(d: dict) -> str:
             + (f'      <div class="tags">{tags}</div>\n' if tags else "")
             + "    </div>"
         )
+    city = d["area"]["city_name"]
     out.append(
         '    <div class="warn"><strong>掲載情報についてのお願い</strong><br>'
-        f'掲載内容は{d["modified"]}時点で各事業者・自治体が公表している情報にもとづいています。'
-        '変更される場合がありますので、お問い合わせの前に必ず公式情報をご確認ください。'
+        f'上記{len(d["items"])}件は、{d["modified"]}に{city}および各事業者の公表情報で確認した内容です。'
+        '営業時間・対応エリア・空き状況は変動しますので、連絡の前に必ず公式情報をご確認ください。'
         '掲載内容の訂正・削除のご依頼は運営者までご連絡ください。</div>'
     )
     return "\n".join(out)
@@ -168,10 +169,18 @@ def render_towns(d: dict) -> str:
         chips = "".join(f'<li>{esc(t["name"])}</li>' for t in sorted(group, key=lambda x: x["kana"]))
         rows.append(f'      <div class="town-row"><b>{label}</b><ul class="towns">{chips}</ul></div>')
     city = d["area"]["city_name"]
+    # 行ごとの件数から、その市区町村でいちばん厚い行を出す（ページごとに必ず変わる一文）
+    counts = [(label, len([t for t in towns if t["kana"] and t["kana"][0] in heads]))
+              for label, heads in GYO]
+    counts = [c for c in counts if c[1]]
+    top_row, top_n = max(counts, key=lambda x: x[1])
+    lead = (f'    <p>{city}の町域は{len(towns)}。五十音では{len(counts)}行にわたり、'
+            f'最も多いのは<strong>{top_row}</strong>の{top_n}件です。'
+            f'掲載事業者の対応範囲は町域単位で分かれているため、'
+            f'問い合わせのときは「{city}{towns[0]["name"]}」のように町名まで伝えてください。</p>\n')
     return (f'    <h2 id="towns">{city}の町域一覧（対応エリアの目安）</h2>\n'
-            f'    <p>{city}には{len(towns)}の町域があります。掲載事業者の対応範囲は町域単位で分かれていることが多いため、'
-            'お問い合わせの際はお住まいの町名・番地までお伝えください。</p>\n'
-            '    <div class="towns-wrap">\n' + "\n".join(rows) + "\n    </div>\n"
+            + lead
+            + '    <div class="towns-wrap">\n' + "\n".join(rows) + "\n    </div>\n"
             '    <p class="tiny">※町域ごとの事業者ページは、掲載できる事業者が3件以上そろった町域から順次公開します。</p>')
 
 

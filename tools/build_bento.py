@@ -16,6 +16,7 @@ import sys
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 from wards import WARDS as W
 from bento_data import WARDS as B, COMMON_PRICES
+from bento_tpl import BENTO
 
 BASE = pathlib.Path(__file__).parent.parent
 TODAY = "2026-09-21"
@@ -66,79 +67,6 @@ def items_of(wid, ward):
     return out
 
 
-CONTENT = """<h2 id="s1">高齢者向け宅配弁当が「ふつうの宅食」と違う3点</h2>
-    <p>スーパーの惣菜や一般的な宅食サービスでも食事はまかなえます。それでも高齢者専門の配食サービスが選ばれるのは、次の3点が理由です。</p>
-    <ul class="check">
-      <li><b>手渡しで安否確認になる</b>毎日決まった時間に顔を見て手渡すため、異変にいち早く気づけます。ひとり暮らしの方にとっては、食事そのものより大きな価値になることがあります。</li>
-      <li><b>やわらか食・ムース食がある</b>噛む力や飲み込む力が落ちた方でも食べられる形態が用意されています。一般の宅食にはほとんどありません。</li>
-      <li><b>治療食に対応できる</b>塩分・たんぱく質・カロリーを調整した腎臓食、透析食、カロリー調整食を継続して届けられます。</li>
-    </ul>
-
-    <h2 id="s2">%(ward)sに配達するサービス一覧</h2>
-    {{LISTING}}
-
-    <h2 id="s3">料金の比較（%(ld)sの公表価格）</h2>
-    <p>高齢者向け配食サービスは「おかずのみ」と「ごはんセット」で料金が分かれています。
-    ライフデリは料金を公開しているので、%(ward)sを担当する<strong>%(ld)s</strong>の価格を掲載します。
-    専門食（やわらか食・ムース食・治療食）の価格は全店共通ですが、<strong>普通食だけは店舗ごとに違います</strong>。</p>
-
-    <div class="tw">
-    <table>
-      <caption class="tiny" style="text-align:left;padding-bottom:6px">%(ld)s の料金（2026年9月時点・1食あたり・税込）</caption>
-      <thead><tr><th>食形態</th><th>おかずのみ</th><th>ごはんセット</th><th>こんな方に</th></tr></thead>
-      <tbody>
-%(prices)s
-      </tbody>
-    </table>
-    </div>
-    <p class="tiny">※まごころ弁当・宅配クック123は店舗ごとに料金が異なり、公式サイトに一律の価格表示がありません。お住まいの担当店舗に直接お問い合わせください。</p>
-
-    <div class="note"><strong>1か月あたりの目安。</strong>夕食のみ（普通食のごはんセット%(rice)d円）を週5回利用した場合、1か月でおよそ<strong>%(month)s円前後</strong>です。毎日の買い物と調理の負担、食材の廃棄を考えると、必ずしも割高ではありません。</div>
-
-    <h2 id="s4">食形態の選び方</h2>
-    <p>「食べられる形」を間違えると、本人が食べきれずに残してしまい、結局続きません。迷ったら、下の順に考えてください。</p>
-
-    <figure class="fig">
-      <svg viewBox="0 0 900 200" role="img" aria-label="食形態の段階。普通食、やわらか食、ムース食の順にやわらかくなる。">
-        <rect width="900" height="200" fill="#fcfdfd"/>
-        <g font-family="Hiragino Sans, Yu Gothic, Meiryo, sans-serif" text-anchor="middle">
-          <text x="450" y="30" font-size="15" font-weight="700" fill="#1d2b2a">噛む力・飲み込む力で選ぶ3段階</text>
-          <rect x="40" y="55" width="240" height="96" rx="10" fill="#e9f3f1" stroke="#bcd6cf"/>
-          <text x="160" y="85" font-size="18" font-weight="700" fill="#0d5344">普通食</text>
-          <text x="160" y="110" font-size="13" fill="#55636a">見た目も味も普段どおり</text>
-          <text x="160" y="132" font-size="12" fill="#55636a">食事づくりだけが負担な方</text>
-          <text x="300" y="108" font-size="24" fill="#8a9793">›</text>
-          <rect x="330" y="55" width="240" height="96" rx="10" fill="#e9f3f1" stroke="#bcd6cf"/>
-          <text x="450" y="85" font-size="18" font-weight="700" fill="#0d5344">やわらか食</text>
-          <text x="450" y="110" font-size="13" fill="#55636a">箸やスプーンでほぐれる</text>
-          <text x="450" y="132" font-size="12" fill="#55636a">硬いものを残すようになった方</text>
-          <text x="590" y="108" font-size="24" fill="#8a9793">›</text>
-          <rect x="620" y="55" width="240" height="96" rx="10" fill="#fdf1ea" stroke="#f0d0bc"/>
-          <text x="740" y="85" font-size="18" font-weight="700" fill="#a9491a">ムース食</text>
-          <text x="740" y="110" font-size="13" fill="#55636a">舌でつぶせるやわらかさ</text>
-          <text x="740" y="132" font-size="12" fill="#55636a">むせる・飲み込みにくい方</text>
-          <text x="450" y="180" font-size="12" fill="#55636a">※むせが続くときは、自己判断せず医師・歯科医師・言語聴覚士に相談してください</text>
-        </g>
-      </svg>
-      <figcaption>食形態は「噛む力」と「飲み込む力」で選びます。無料試食を使い、本人が食べきれるかを必ず確認してください。</figcaption>
-    </figure>
-
-    <h2 id="s5">%(ward)sの配食サービス（区の事業）</h2>
-    %(gov_body)s
-    <p class="tiny">なお、民間の宅配弁当は<strong>介護保険の給付対象外</strong>で、全額自己負担です。介護保険の限度額を気にせず使えるという利点もあります。</p>
-
-    <h2 id="s6">失敗しない5つのチェックポイント</h2>
-    <ul class="check">
-      <li><b>1. 置き配か、手渡しか</b>安否確認を目的にするなら手渡し一択です。応答がないときに緊急連絡先へ連絡してもらえるかも確認してください。</li>
-      <li><b>2. ご自宅の町域が配達エリアに入っているか</b>同じ%(ward)sでも、店舗によって対応する町域が異なります。「一部地域を除く」と書かれている店舗が多いので、住所を伝えて必ず確認を。</li>
-      <li><b>3. 日曜・祝日も配達があるか</b>日曜が定休の店舗もあります。毎日必要な方は、日曜分をどうするか事前に決めておきましょう。</li>
-      <li><b>4. 無料試食ができるか</b>多くの事業者が試食を用意しています。本人が「これなら食べられる」と感じるかが、続けられるかどうかを決めます。</li>
-      <li><b>5. 休止・キャンセルの締め切り時間</b>入院や外出で急に不要になることがあります。前日何時までキャンセルできるかを契約前に確認してください。</li>
-    </ul>
-
-    <h2 id="s7">よくある質問</h2>
-    {{FAQ}}
-"""
 
 
 def build(wid, site):
@@ -149,8 +77,50 @@ def build(wid, site):
     rice = d["ld_plain"][1]
     month = f"{rice * 5 * 4.3:,.0f}"
 
-    content = CONTENT % dict(ward=ward, ld=d["ld_shop"], prices=price_rows(d["ld_plain"]),
-                             rice=rice, month=month, gov_body=d["gov_body"])
+    # 普通食の値段が23区の中でどのあたりかを言い添える（区ごとに必ず変わる一文）
+    plains = sorted(v["ld_plain"][0] for v in B.values())
+    rank = plains.index(d["ld_plain"][0]) + 1
+    if rank == 1:
+        price_rank = f"当サイト掲載{len(plains)}区のなかで最も安い設定です。"
+    elif rank == len(plains):
+        price_rank = f"当サイト掲載{len(plains)}区のなかでは高めの設定です。"
+    else:
+        price_rank = (f"当サイト掲載{len(plains)}区のなかでは安いほうから{rank}番目で、"
+                      f"最も安い区より{d['ld_plain'][0] - plains[0]}円高い設定です。")
+
+    brands = sorted({("まごころ弁当" if "まごころ" in x[0] else
+                      "ライフデリ" if "ライフデリ" in x[0] else
+                      "宅配クック123" if "クック" in x[0] else "その他") for x in d["shops"]})
+    mago = sum(1 for x in d["shops"] if "まごころ" in x[0])
+    brand_note = (f"まごころ弁当が{mago}店舗と最も多く、"
+                  if mago >= 2 else "") + \
+                 ("ライフデリと宅配クック123も配達エリアに入っています。"
+                  if len(brands) >= 3 else "複数のブランドが配達エリアに入っています。")
+
+    def esc(x):
+        return x.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+    rows, inside = [], 0
+    for name, tel, loc, street, area, tags in d["shops"]:
+        where = loc if loc else "—"
+        if loc == ward:
+            inside += 1
+        rows.append('        <tr><th>%s</th><td>%s</td><td>%s</td></tr>'
+                    % (esc(name), esc(where), esc(area)))
+    if d["gov"]:
+        rows.append('        <tr><th>%s</th><td>%s</td><td>%s</td></tr>'
+                    % (esc(d["gov"]["name"]), ward + "（行政）", "区が定める対象者"))
+    shoplist = "\n".join(rows)
+    outside = len(d["shops"]) - inside
+    inside_note = (f"{ward}に店舗があるのは{inside}件で、"
+                   f"残り{outside}件は区外の店舗またはエリア対応です。"
+                   if outside else f"掲載している店舗はすべて{ward}内にあります。")
+
+    content = BENTO % dict(shoplist=shoplist, inside_note=inside_note,
+                           ward=ward, n=n, ld=d["ld_shop"], prices=price_rows(d["ld_plain"]),
+                           plain=d["ld_plain"][0], rice=rice, month=month,
+                           price_rank=price_rank, brand_note=brand_note,
+                           gov_body=d["gov_body"])
     (BASE / "content" / f"takuhai-bento_tokyo_{wid}.html").write_text(content, encoding="utf-8")
 
     gov = d["gov"]
@@ -167,12 +137,12 @@ def build(wid, site):
               f"やわらか食830円、ムース食760円です。治療食（腎臓食940円・透析食950円）はさらに上がります。"
               "価格は改定されることがあるため、申し込み前に公式情報をご確認ください。"},
         {"q": "毎日でなくても頼めますか？",
-         "a": "週に数回、夕食だけといった使い方が一般的です。曜日や食数の変更、休止にも対応している事業者が"
-              "ほとんどですが、変更の締め切り時間は事業者ごとに違うので契約前に確認してください。"},
+         "a": f"週に数回、夕食だけという使い方が一般的で、{ward}に配達する{n}件はいずれも食数と曜日を選べます。"
+              f"ただし変更・休止の締め切り時間は事業者ごとに違うため、{ward}で複数を比べるときはここも聞いておいてください。"},
         {"q": "留守のときはどうなりますか？",
-         "a": "手渡しを原則とする事業者では、応答がない場合に再訪問したり、"
-              "あらかじめ登録した緊急連絡先へ連絡したりする運用をとっています。"
-              "この対応こそが安否確認の中身なので、契約前に手順を必ず確認してください。"},
+         "a": f"{ward}に配達する事業者の多くは手渡しが原則で、応答がないときは再訪問するか、登録した緊急連絡先へ連絡します。"
+              f"この手順こそが安否確認の中身なので、{ward}で申し込む前に「何分待つか」「誰に連絡するか」まで確認してください。"
+              f"日中の不在が多いご家庭は、{ward}の見守りサービスと組み合わせたほうが確実です。"},
     ]
 
     near = W[wid]["near"][:6]
@@ -244,11 +214,11 @@ def build(wid, site):
                 f"やわらか食・ムース食・治療食の料金、手渡しによる安否確認、"
                 f"{'区の配食事業' if gov else '区の支援状況'}までまとめました。",
         "listing_note": f"2026年9月時点で{ward}への配達を公表しているサービスを掲載しています。"
-                        "配達エリアは町域単位で細かく分かれているため、申し込み前に必ずご自宅の住所で確認してください。",
+                        f"配達エリアは町域単位で細かく分かれているため、{ward}内でも申し込み前に必ずご自宅の住所で確認してください。",
         "items": items, "faq": faq, "related": related,
         "nearby_heading": "近隣エリアの宅配弁当", "nearby": nearby,
         "sources": sources, "sidebar": sidebar,
-        "mcta": '<a class="m1" href="#s2">サービス一覧</a>\n  <a class="m2" href="#s3">料金を見る</a>',
+        "mcta": '<a class="m1" href="#s2">サービス一覧</a>\n  <a class="m2" href="#s4">料金を見る</a>',
         "hero_image": "assets/ogp-takuhai-bento.jpg",
         "towns": {"pref": "tokyo", "city": wid},
     }

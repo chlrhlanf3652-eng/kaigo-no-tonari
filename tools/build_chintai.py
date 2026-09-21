@@ -13,8 +13,9 @@ import sys
 
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 from wards import WARDS as W
-from chintai_data import WARDS as C, NATIONWIDE
-from chintai_tpl import HEAD, TAIL
+from chintai_data import WARDS as C, NATIONWIDE, COVERS
+import chintai_steps
+from chintai_tpl import CHINTAI
 
 BASE = pathlib.Path(__file__).parent.parent
 TODAY = "2026-09-21"
@@ -49,41 +50,54 @@ def build(wid):
     n = len(items)
 
     neighbors = "・".join(wname(x) for x in W[wid]["near"][:3])
-    def fill(t):
-        return (t.replace("@@WARD@@", ward)
-                 .replace("@@MADOGUCHI@@", d["madoguchi"])
-                 .replace("@@NEIGHBORS@@", neighbors))
+    cov = COVERS[wid]
+    covers = "\n".join(
+        '        <tr><th>%s</th><td class="num">%s</td><td>%s</td></tr>' % (k, cov[k][0], cov[k][1])
+        for k in ("家賃", "安否", "退去"))
+    covers = (covers.replace("<th>家賃</th>", "<th>家賃を払い続けられるか</th>")
+                    .replace("<th>安否</th>", "<th>室内で事故が起きないか</th>")
+                    .replace("<th>退去</th>", "<th>退去時の対応ができるか</th>"))
 
-    content = (fill(HEAD)
-               + f'\n\n    <h2 id="s2">{ward}の居住支援</h2>\n    ' + d["body"] + "\n\n"
-               + '    <h2 id="s3">相談先・サービス一覧</h2>\n    {{LISTING}}\n\n    '
-               + fill(TAIL)
-               + '\n\n    <h2 id="s6">よくある質問</h2>\n    {{FAQ}}\n')
+    content = (CHINTAI.replace("@@COVERS@@", covers)
+                      .replace("@@STEPS@@", chintai_steps.steps(ward, d["madoguchi"], cov))
+                      .replace("@@LEAD@@", chintai_steps.lead(ward, d["madoguchi"], cov))
+                      .replace("@@CLOSE@@", chintai_steps.close(ward, cov))
+                      .replace("@@COVER_NOTE@@", cov["note"])
+                      .replace("@@WARD@@", ward)
+                      .replace("@@MADOGUCHI@@", d["madoguchi"])
+                      .replace("@@NEIGHBORS@@", neighbors)
+                      .replace("@@BODY@@", d["body"]))
     (BASE / "content" / f"koreisha-chintai_tokyo_{wid}.html").write_text(content, encoding="utf-8")
 
     faq = [
         {"q": f"{ward}で高齢者が賃貸を借りるには、まずどこに相談すればいいですか？",
-         "a": f"{d['madoguchi']}が入口です。街の不動産店を回る前にここへ相談すると、"
-              "年齢を理由に断られにくい物件や制度を先に把握できます。"},
-        {"q": "保証人がいなくても借りられますか？",
-         "a": "家賃債務保証会社を利用すれば、保証人なしでも契約できる物件があります。"
-              "一般財団法人高齢者住宅財団の家賃債務保証は公的性格のある制度で、"
-              "高齢者世帯の利用を想定しています。"
-              + ("杉並区では保証料の一部（最大30,000円）が助成されます。" if wid == "suginami" else "")},
-        {"q": "年齢を理由に断られるのは違法ではないのですか？",
-         "a": "民間の賃貸借契約では貸主に契約の自由があり、年齢を理由とする入居拒否が直ちに"
-              "違法とされるわけではありません。一方で国は住宅セーフティネット制度により、"
-              "高齢者等の入居を拒まない賃貸住宅の登録を進めています。"},
-        {"q": "ひとり暮らしで緊急連絡先になる親族がいません。",
+         "a": f"{d['madoguchi']}が入口です。{ward}の街の不動産店を回る前にここへ相談すると、"
+              f"年齢を理由に断られにくい物件と、{ward}が用意している制度を先に把握できます。"},
+        {"q": f"{ward}で保証人がいなくても借りられますか？",
+         "a": f"家賃債務保証会社を使えば保証人なしで契約できる物件があり、{ward}でも同じです。"
+              + (f"しかも{ward}では{cov['家賃'][1]}ため、保証料の負担そのものを軽くできます。"
+                 if cov["家賃"][0] == "◎" else
+                 f"ただし{ward}に保証料の助成はないので、保証会社の初回保証料（家賃の30〜50%%程度）は自己負担になります。")
+              + "一般財団法人高齢者住宅財団の家賃債務保証は公的性格のある制度で、高齢者世帯の利用を想定しています。"},
+        {"q": f"{ward}で年齢を理由に断られるのは違法ではないのですか？",
+         "a": f"民間の賃貸借契約では貸主に契約の自由があるため、{ward}に限らず年齢を理由とする入居拒否が"
+              "直ちに違法とされるわけではありません。"
+              f"国は住宅セーフティネット制度で高齢者等の入居を拒まない住宅の登録を進めており、"
+              f"{d['madoguchi']}でも登録物件の有無を確認できます。"},
+        {"q": f"ひとり暮らしで、{ward}に緊急連絡先になる親族がいません。",
          "a": "見守りサービスの導入を申し込み時に伝えると、貸主の不安に答える材料になります。"
-              + ("杉並区の高齢者等入居支援事業には、週1回の電話による安否確認が無料で付きます。"
-                 if wid == "suginami" else
-                 "センサー型・電話型・配食の手渡し型などがあり、費用も方式によって差があります。"),
+              + (f"{ward}の場合、{cov['安否'][1]}ので、まずそちらを申し込んでください。"
+                 if cov["安否"][0] in ("◎", "○") else
+                 f"{ward}には区の安否確認がないため、センサー型・電話型・配食の手渡し型などから"
+                 "自分で選ぶことになります。"),
          },
-        {"q": "一般の賃貸ではなく、サ高住のほうがよいでしょうか？",
-         "a": "ひとり暮らしに不安があるが自立して生活できる段階なら、安否確認と生活相談が"
-              "必ず付くサービス付き高齢者向け住宅（サ高住）が合う場合があります。"
-              "費用は家賃にサービス費が上乗せされます。上の比較表をご覧ください。"},
+        {"q": f"{ward}では一般の賃貸と、サ高住のどちらがよいでしょうか？",
+         "a": f"{ward}の区の制度で貸主の3つの不安を埋められるなら一般の賃貸で十分ですが、"
+              + (f"{ward}は3つのうち{sum(1 for k in ('家賃','安否','退去') if cov[k][0] in ('◎','○'))}つしか"
+                 "埋まらないため、" if sum(1 for k in ("家賃","安否","退去") if cov[k][0] in ("◎","○")) < 3
+                 else f"{ward}は3つとも埋まるため、")
+              + "ひとり暮らしへの不安が強い場合はサービス付き高齢者向け住宅も並行して検討してください。"
+              "費用と入居条件の違いは「サ高住と老人ホームの違い」にまとめています。"},
     ]
 
     nearby = "\n      ".join('<a href="{{ROOT}}koreisha-chintai/tokyo/%s/">%s</a>' % (x, wname(x))
@@ -154,7 +168,7 @@ def build(wid):
         "items": items, "faq": faq, "related": related,
         "nearby_heading": "近隣エリアの高齢者可賃貸", "nearby": nearby,
         "sources": sources, "sidebar": sidebar,
-        "mcta": '<a class="m1" href="#s2">区の居住支援</a>\n  <a class="m2" href="#s4">断られない準備</a>',
+        "mcta": '<a class="m1" href="#s2">区の居住支援</a>\n  <a class="m2" href="#s4">相談先一覧</a>',
         "hero_image": "assets/ogp-koreisha-chintai.jpg",
         "towns": {"pref": "tokyo", "city": wid},
     }

@@ -19,7 +19,8 @@ import sys
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 from wards import WARDS
 from counts import COUNTS, MADOGUCHI_OVERRIDE
-from content_tpl import HOUMON_KAIGO
+from ward_tpl import HOUMON_KAIGO
+from wardstats import summarize, ORG_DESC, RECV_DESC
 
 BASE = pathlib.Path(__file__).parent.parent
 CACHE = pathlib.Path(__file__).parent / "cache"
@@ -108,32 +109,67 @@ def build(wid, site):
     dist = "\n".join('        <tr><th>%s</th><td>%s</td></tr>'
                      % (esc(t), esc("、".join(bucket[t]))) for t in order)
 
-    content = HOUMON_KAIGO % dict(ward=ward, id=wid, center=madoguchi, center_note=note,
-                                  total=total, townc=len(towns), n=n, dist=dist)
+    # 区ごとの集計（法人の種別・受付体制・受付時間の幅）
+    st = summarize(items)
+    orgs = "\n".join(
+        '        <tr><th>%s</th><td class="num">%d件</td><td>%s</td></tr>'
+        % (k, v, ORG_DESC.get(k, "")) for k, v in st["orgs"])
+    recv = "\n".join(
+        '        <tr><th>%s</th><td class="num">%d件</td><td>%s</td></tr>'
+        % (k, v, RECV_DESC.get(k, "")) for k, v in st["recv"])
+
+    top_org, top_n = st["orgs"][0]
+    org_note = ("掲載%d件のうち%s が%d件と最も多く、%sのが特徴です。"
+                % (n, top_org, top_n, ORG_DESC.get(top_org, "").rstrip("。")))
+    nonstop = dict(st["recv"]).get("年中無休", 0)
+    weekend = nonstop + dict(st["recv"]).get("土日も受付", 0)
+    recv_note = ("掲載%d件のうち、年中無休が%d件、土日も電話を受けるところを含めると%d件です。"
+                 % (n, nonstop, weekend))
+
+    centers = rec.get("centers")
+    center_count_label = f"（区内{centers}か所）" if centers else ""
+    if centers:
+        scale_note = (f"相談窓口である{madoguchi}は区内に{centers}か所あり、"
+                      "担当する地区が決まっています。")
+    else:
+        scale_note = ""
+
+    content = HOUMON_KAIGO % dict(
+        ward=ward, id=wid, center=madoguchi, center_note=note,
+        center_count_label=center_count_label, scale_note=scale_note,
+        total=total, townc=len(towns), n=n, dist=dist,
+        orgs=orgs, org_note=org_note, recv=recv, recv_note=recv_note,
+        open_min=st["open_min"], open_max=st["open_max"])
     (BASE / "content" / f"houmon-kaigo_tokyo_{wid}.html").write_text(content, encoding="utf-8")
 
     faq = [
         {"q": f"{ward}で訪問介護を使うには、まず何をすればいいですか？",
-         "a": f"お住まいの地区を担当する「{madoguchi}（地域包括支援センター）」に相談するのが最初の一歩です。"
-              "要介護認定の申請方法から、ケアマネジャー（居宅介護支援事業所）の紹介まで無料で案内してもらえます。"},
+         "a": f"お住まいの地区を担当する「{madoguchi}（地域包括支援センター）」への相談が最初の一歩で、"
+              f"{ward}では要介護認定の申請方法からケアマネジャー（居宅介護支援事業所）の紹介まで無料で案内してもらえます。"
+              f"認定を待つあいだに事業所を下調べしておくと、{ward}内で希望の曜日・時間帯が埋まる前に押さえられます。"},
         {"q": f"{ward}には訪問介護事業所が何件ありますか？",
          "a": f"2026年9月時点で、介護情報サイトの掲載ベースで約{total}件の訪問介護事業所が{ward}内にあります。"
               f"本ページではそのうち{n}件を連絡先つきで掲載しています。"
               "全件は厚生労働省「介護サービス情報公表システム」で確認できます。"},
+        {"q": f"{ward}の担当窓口は、どうやって調べればいいですか？",
+         "a": (f"{madoguchi}は区内に{centers}か所あり、担当地区が町名で決まっています。"
+               if centers else f"{madoguchi}は区内各地に置かれ、担当地区が町名で決まっています。")
+              + f"ご自宅の町名がわかれば、{ward}の公式ホームページか、下の町域一覧で見当がつきます。"
+                f"どこに連絡してよいか迷う場合は、{ward}内でいちばん近いセンターに電話すれば担当へつないでもらえます。"},
+        {"q": f"{ward}の掲載事業所は、どこを見て絞り込めばいいですか？",
+         "a": f"上の内訳表が目安になります。曜日を気にせず相談したい場合は年中無休の{nonstop}件、"
+              f"平日の日中に電話できない場合は土日も受け付ける事業所（{weekend}件）から当たってください。"
+              "そのうえで、ご自宅の町名を伝えて対応エリアに入っているかを確認するのが確実です。"},
         {"q": "訪問介護の自己負担はいくらくらいですか？",
-         "a": f"{ward}は介護報酬の地域区分で1級地（1単位＝11.40円）にあたります。自己負担1割の場合、"
-              "身体介護20分以上30分未満で約278円、生活援助20分以上45分未満で約204円が目安です（各種加算は別途）。"},
-        {"q": "ヘルパーに家族の分の食事や庭の草むしりも頼めますか？",
-         "a": "介護保険の訪問介護では頼めません。訪問介護は利用者本人の生活に必要な支援に限られ、"
-              "家族分の家事、来客対応、庭の手入れ、大掃除などは対象外です。"
-              "保険外の自費サービスや家事代行を併用する方法があります。"},
-        {"q": "事業所は途中で変更できますか？",
-         "a": "変更できます。担当のケアマネジャーに相談すれば、ケアプランを見直したうえで"
-              "別の訪問介護事業所に切り替えられます。相性やシフトの都合で変更する方は珍しくありません。"},
-        {"q": "要介護認定の結果が出る前でもサービスを使えますか？",
-         "a": "申請日にさかのぼってサービスを利用できる「暫定ケアプラン」という仕組みがあります。"
-              "ただし想定より低い介護度で認定された場合、超過分が全額自己負担になるリスクがあります。"
-              "利用を急ぐ場合は、必ずケアマネジャーとリスクを確認したうえで進めてください。"},
+         "a": f"{ward}は介護報酬の地域区分で1級地（1単位＝11.40円）にあたるため、自己負担1割なら"
+              "身体介護20分以上30分未満で約278円、生活援助20分以上45分未満で約204円が目安になります。"
+              f"処遇改善加算や区分支給限度基準額まで含めた考え方は{ward}に限らず共通なので、"
+              "「訪問介護の料金のしくみ」にまとめました。"},
+        {"q": f"{ward}の事業所は、途中で変更できますか？",
+         "a": f"変更できます。担当のケアマネジャーに相談すれば、ケアプランを見直したうえで"
+              f"{ward}内の別の訪問介護事業所に切り替えられます。"
+              f"{ward}は掲載{n}件・区内約{total}件と候補があるので、"
+              "相性やシフトの都合で変更する方は珍しくありません。"},
     ]
 
     near = WARDS[wid]["near"][:6]
@@ -228,7 +264,9 @@ def build(wid, site):
 
 
 if __name__ == "__main__":
-    targets = sys.argv[1:] or sorted(p.stem for p in CACHE.glob("*.json"))
+    # 先頭が _ のファイルは区ではない補助データなので除く
+    targets = sys.argv[1:] or sorted(
+        p.stem for p in CACHE.glob("*.json") if not p.stem.startswith("_"))
     sp = BASE / "data" / "site.json"
     site = json.loads(sp.read_text(encoding="utf-8"))
     ok = sum(1 for t in targets if build(t, site))
