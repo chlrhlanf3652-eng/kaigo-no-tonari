@@ -1,0 +1,516 @@
+{
+  "slug": "houmon-kaigo_tokyo_nerima",
+  "category": {
+    "id": "houmon-kaigo",
+    "name": "訪問介護",
+    "path": "/houmon-kaigo/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "nerima",
+    "city_name": "練馬区"
+  },
+  "seo": {
+    "title": "練馬区の訪問介護20事業所｜料金と選び方【2026年9月更新】",
+    "description": "東京都練馬区の訪問介護（ホームヘルプ）事業所20件を連絡先つきで掲載。区内181件の中から選ぶための料金の目安、頼めること・頼めないこと、地域包括支援センターへの相談から利用開始までの流れを解説します。",
+    "canonical": "https://kaigonotonari.com/houmon-kaigo/tokyo/nerima/",
+    "og_title": "練馬区の訪問介護事業所一覧｜料金の目安と選び方",
+    "og_description": "練馬区の訪問介護事業所20件を掲載。料金の目安、できること・できないこと、利用開始までの流れを解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-houmon-kaigo.jpg"
+  },
+  "h1": "練馬区の訪問介護事業所一覧｜料金の目安と選び方",
+  "published": "2026-09-21",
+  "modified": "2026-09-21",
+  "count_label": "掲載：20事業所",
+  "lead": "東京都練馬区で訪問介護（ホームヘルプ）を探している方へ。区内にある181件の事業所から20件を連絡先つきで掲載し、あわせて自己負担額の目安、ヘルパーに頼めること・頼めないこと、相談から利用開始までの流れをまとめました。はじめて介護保険を使う方は、まず「地域包括支援センター」への相談から始めるのが近道です。",
+  "listing_note": "練馬区内の訪問介護事業所から20件を掲載しています（2026年9月時点）。区内には181件の事業所があり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問介護本舗 こねこ",
+      "telephone": "03-6908-1830",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "旭丘1-12-2 グラン・ジュテ1階"
+      },
+      "parentOrganization": "（株）こねこ",
+      "identifier": "1372012722",
+      "faxNumber": "03-6908-1831",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "旭丘",
+      "_tags": [
+        "旭丘エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "居宅移動支援事業所 エスエスピー",
+      "telephone": "03-6914-7727",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "練馬3-1-6 練馬ハイツ803"
+      },
+      "parentOrganization": "（一社）セルフサポートマネージメント",
+      "identifier": "1372008787",
+      "faxNumber": "03-6914-7727",
+      "_hours": "9:00〜18:00",
+      "_closed": "日・年末年始",
+      "_town": "練馬",
+      "_tags": [
+        "練馬エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問介護ファミリー・ホスピス大泉学園",
+      "telephone": "03-6904-5646",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "大泉学園町2-1-24"
+      },
+      "parentOrganization": "ファミリー・ホスピス（株）",
+      "identifier": "1372014579",
+      "faxNumber": "03-6904-5579",
+      "_hours": "9:00〜17:00",
+      "_closed": "土・日・年末年始",
+      "_town": "大泉学園町",
+      "_tags": [
+        "大泉学園町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアサポート サニーサイド",
+      "telephone": "03-5393-0368",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "石神井町3-17-14 コスモス石神井公園303"
+      },
+      "parentOrganization": "ＮＰＯ法人 サニーサイド",
+      "identifier": "1372002707",
+      "faxNumber": "03-5372-5353",
+      "_hours": "9:00〜18:00",
+      "_closed": "日・祝・年末年始",
+      "_town": "石神井町",
+      "_tags": [
+        "石神井町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "薬師堂介護サービス",
+      "telephone": "03-5393-5281",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "富士見台3-55-3"
+      },
+      "parentOrganization": "（医社）平真会",
+      "identifier": "1372000818",
+      "faxNumber": "03-5393-5283",
+      "_hours": "9:00〜18:00",
+      "_closed": "日・祝・夏季・年末年始",
+      "_town": "富士見台",
+      "_tags": [
+        "富士見台エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアリッツ南大泉",
+      "telephone": "03-5935-7518",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "南大泉5-31-7 ハイム京塚103"
+      },
+      "parentOrganization": "（株）ケアリッツ・アンド・パートナーズ",
+      "identifier": "1372013811",
+      "faxNumber": "03-5935-7519",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "南大泉",
+      "_tags": [
+        "南大泉エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "やすらぎ舎ヘルパーステーション",
+      "telephone": "03-5387-6060",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "大泉学園町7-12-32"
+      },
+      "parentOrganization": "（社福）章佑会",
+      "identifier": "1372001386",
+      "faxNumber": "03-5387-5588",
+      "_hours": "8:00〜18:00",
+      "_closed": "年末年始",
+      "_town": "大泉学園町",
+      "_tags": [
+        "大泉学園町エリア",
+        "土日も受付",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ときわ・ふれあいサービス",
+      "telephone": "03-5921-0776",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "平和台1-31-17"
+      },
+      "parentOrganization": "（有）ときわサービス",
+      "identifier": "1372003259",
+      "faxNumber": "03-5921-0782",
+      "_hours": "9:00〜17:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "平和台",
+      "_tags": [
+        "平和台エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ニチイケアセンター春日町",
+      "telephone": "03-5987-7060",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "春日町2-4-35 北村ビル地下1階"
+      },
+      "parentOrganization": "（株）ニチイ学館",
+      "identifier": "1372013118",
+      "faxNumber": "03-3577-2030",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "春日町",
+      "_tags": [
+        "春日町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヘルパーステーション Sango",
+      "telephone": "03-5935-8301",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "大泉学園町5-10-36 サングリーンＢ102"
+      },
+      "parentOrganization": "（株）ＦＴＳ",
+      "identifier": "1372014868",
+      "faxNumber": "03-5935-8295",
+      "_hours": "9:00〜18:00",
+      "_closed": "日・年末年始",
+      "_town": "大泉学園町",
+      "_tags": [
+        "大泉学園町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアリッツ大泉",
+      "telephone": "03-5935-4247",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "東大泉1-12-2 シャルム和泉1階"
+      },
+      "parentOrganization": "（株）ケアリッツ・アンド・パートナーズ",
+      "identifier": "1372010593",
+      "faxNumber": "03-5935-4248",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "東大泉",
+      "_tags": [
+        "東大泉エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問介護 らいじんぐ",
+      "telephone": "03-5905-6024",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "大泉町2-59-22 サニーガーデン大泉1"
+      },
+      "parentOrganization": "（株）エリアスタ",
+      "identifier": "1372002814",
+      "faxNumber": "03-5905-6023",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "大泉町",
+      "_tags": [
+        "大泉町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "はるかぜ",
+      "telephone": "03-5848-6728",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "春日町3-15-5"
+      },
+      "parentOrganization": "（同）はるかぜ",
+      "identifier": "1372013464",
+      "faxNumber": "03-5848-6729",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・夏季・年末年始",
+      "_town": "春日町",
+      "_tags": [
+        "春日町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアプランニング結い",
+      "telephone": "03-5933-2100",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "東大泉3-22-15 シンフォニープラザ1階"
+      },
+      "parentOrganization": "（有）ケアプランニング結い",
+      "identifier": "1372001501",
+      "faxNumber": "03-5387-3181",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "東大泉",
+      "_tags": [
+        "東大泉エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "大泉訪問介護事業所",
+      "telephone": "03-5905-5332",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "東大泉2-11-21"
+      },
+      "parentOrganization": "（社福）練馬区社会福祉事業団",
+      "identifier": "1372001071",
+      "faxNumber": "03-5387-2792",
+      "_hours": "8:30〜17:15",
+      "_closed": "日・年末年始",
+      "_town": "東大泉",
+      "_tags": [
+        "東大泉エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問介護 和みケア",
+      "telephone": "080-3086-6213",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "上石神井3-34-21 ライオンズマンション上石神井第2-302"
+      },
+      "parentOrganization": "（株）和み",
+      "identifier": "1375425327",
+      "faxNumber": "03-4291-7501",
+      "_hours": "8:00〜20:00",
+      "_closed": "年末年始",
+      "_town": "上石神井",
+      "_tags": [
+        "上石神井エリア",
+        "土日も受付",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヘルパーステーション ぬくもり",
+      "telephone": "03-5912-3510",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "練馬1-15-1 堀越ビル2階"
+      },
+      "parentOrganization": "東京ふれあい医療生活協同組合",
+      "identifier": "1372002996",
+      "faxNumber": "03-5912-3516",
+      "_hours": "9:00〜18:00",
+      "_closed": "年中無休",
+      "_town": "練馬",
+      "_tags": [
+        "練馬エリア",
+        "年中無休",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "石神井のそら",
+      "telephone": "03-6913-2750",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "下石神井6-22-16 ブラッサム石神井公園2階"
+      },
+      "parentOrganization": "（株）のそら",
+      "identifier": "1372006534",
+      "faxNumber": "03-6913-1360",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・年末年始",
+      "_town": "下石神井",
+      "_tags": [
+        "下石神井エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＳＯＭＰＯケア 練馬 訪問介護",
+      "telephone": "03-6915-8751",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "豊玉北4-11-10 東洋ライス東日本支店ビル1階"
+      },
+      "parentOrganization": "ＳＯＭＰＯケア（株）",
+      "identifier": "1372012185",
+      "faxNumber": "03-6915-8795",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日",
+      "_town": "豊玉北",
+      "_tags": [
+        "豊玉北エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "めぐみの会",
+      "telephone": "03-5372-2783",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "石神井町5-3-22-2階"
+      },
+      "parentOrganization": "（株）メディカル・アート",
+      "identifier": "1372003184",
+      "faxNumber": "03-5372-2784",
+      "_hours": "9:00〜18:00",
+      "_closed": "日・祝",
+      "_town": "石神井町",
+      "_tags": [
+        "石神井町エリア",
+        "訪問介護"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "練馬区で訪問介護を使うには、まず何をすればいいですか？",
+      "a": "お住まいの地区を担当する「地域包括支援センター（地域包括支援センター）」に相談するのが最初の一歩です。要介護認定の申請方法から、ケアマネジャー（居宅介護支援事業所）の紹介まで無料で案内してもらえます。"
+    },
+    {
+      "q": "練馬区には訪問介護事業所が何件ありますか？",
+      "a": "2026年9月時点で181件の訪問介護事業所が練馬区内にあります。本ページではそのうち20件を連絡先つきで掲載しています。全件は厚生労働省「介護サービス情報公表システム」で確認できます。"
+    },
+    {
+      "q": "訪問介護の自己負担はいくらくらいですか？",
+      "a": "練馬区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたります。自己負担1割の場合、身体介護20分以上30分未満で約278円、生活援助20分以上45分未満で約204円が目安です（各種加算は別途）。"
+    },
+    {
+      "q": "ヘルパーに家族の分の食事や庭の草むしりも頼めますか？",
+      "a": "介護保険の訪問介護では頼めません。訪問介護は利用者本人の生活に必要な支援に限られ、家族分の家事、来客対応、庭の手入れ、大掃除などは対象外です。保険外の自費サービスや家事代行を併用する方法があります。"
+    },
+    {
+      "q": "事業所は途中で変更できますか？",
+      "a": "変更できます。担当のケアマネジャーに相談すれば、ケアプランを見直したうえで別の訪問介護事業所に切り替えられます。相性やシフトの都合で変更する方は珍しくありません。"
+    },
+    {
+      "q": "要介護認定の結果が出る前でもサービスを使えますか？",
+      "a": "申請日にさかのぼってサービスを利用できる「暫定ケアプラン」という仕組みがあります。ただし想定より低い介護度で認定された場合、超過分が全額自己負担になるリスクがあります。利用を急ぐ場合は、必ずケアマネジャーとリスクを確認したうえで進めてください。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}takuhai-bento/tokyo/nerima/\">練馬区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}koreisha-chintai/tokyo/nerima/\">練馬区の高齢者可賃貸<small>断られない部屋探し</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/nerima/\">練馬区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/nerima/\">練馬区のデイサービス<small>通所介護</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/nerima/\">練馬区の見守りサービス<small>ひとり暮らしの安否確認</small></a>\n      <a href=\"{{ROOT}}kaigo-taxi/tokyo/nerima/\">練馬区の介護タクシー<small>通院・外出の送迎</small></a>",
+  "nearby_heading": "近隣エリアの訪問介護",
+  "nearby": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/itabashi/\">板橋区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/toshima/\">豊島区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/nakano/\">中野区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/suginami/\">杉並区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/kita/\">北区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/shinjuku/\">新宿区</a>",
+  "sources": [
+    "厚生労働省「介護事業所・生活関連情報検索（介護サービス情報公表システム）」",
+    "練馬区「地域包括支援センター一覧」",
+    "練馬区「要介護・要支援認定の申請からサービス利用までの流れ」",
+    "令和6年度介護報酬改定 訪問介護 基本報酬単位数／介護報酬の地域区分（1級地・1単位11.40円）",
+    "日本郵便 郵便番号データにもとづく練馬区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>どこに相談すればいい？</h4>\n        <p>介護がはじめての方は、まず地域の相談窓口へ。無料で手続きを案内してもらえます。</p>\n        <a class=\"btn\" href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方を見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>練馬区内の訪問介護事業所は181件</li>\n          <li>練馬区は1級地（1単位11.40円）</li>\n          <li>身体介護30分未満で約278円（1割）</li>\n          <li>最初の相談は地域包括支援センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/caremanager/\">ケアマネジャーの選び方</a></li>\n          <li><a href=\"{{ROOT}}guide/kubun-shikyu-gendo/\">区分支給限度基準額とは</a></li>\n          <li><a href=\"{{ROOT}}guide/jihi-service/\">介護保険外サービスの相場</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s5\">利用の流れ</a>",
+  "hero_image": "assets/ogp-houmon-kaigo.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "nerima"
+  }
+}
