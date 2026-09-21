@@ -1,0 +1,521 @@
+{
+  "slug": "houmon-kaigo_tokyo_chuo",
+  "category": {
+    "id": "houmon-kaigo",
+    "name": "訪問介護",
+    "path": "/houmon-kaigo/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "chuo",
+    "city_name": "中央区"
+  },
+  "seo": {
+    "title": "中央区の訪問介護20事業所｜料金と選び方【2026年9月更新】",
+    "description": "東京都中央区の訪問介護（ホームヘルプ）事業所20件を連絡先つきで掲載。区内約33件の中から選ぶための料金の目安、頼めること・頼めないこと、おとしより相談センターへの相談から利用開始までの流れを解説します。",
+    "canonical": "https://kaigonotonari.com/houmon-kaigo/tokyo/chuo/",
+    "og_title": "中央区の訪問介護事業所一覧｜料金の目安と選び方",
+    "og_description": "中央区の訪問介護事業所20件を掲載。料金の目安、できること・できないこと、利用開始までの流れを解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-houmon-kaigo.jpg"
+  },
+  "h1": "中央区の訪問介護事業所一覧｜料金の目安と選び方",
+  "published": "2026-09-21",
+  "modified": "2026-09-21",
+  "count_label": "掲載：20事業所",
+  "lead": "東京都中央区で訪問介護（ホームヘルプ）を探している方へ。区内にある約33件の事業所から20件を連絡先つきで掲載し、あわせて自己負担額の目安、ヘルパーに頼めること・頼めないこと、相談から利用開始までの流れをまとめました。はじめて介護保険を使う方は、まず「おとしより相談センター」への相談から始めるのが近道です。",
+  "listing_note": "中央区内の訪問介護事業所から20件を掲載しています（2026年9月時点）。区内には約33件の事業所があり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "クローバーケアステーション",
+      "telephone": "03-5823-7723",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "東日本橋2-8-5 東日本橋グリーンビルアネックス7階"
+      },
+      "parentOrganization": "（株）カンケイ舎",
+      "identifier": "1370200717",
+      "faxNumber": "03-5823-7721",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "東日本橋",
+      "_tags": [
+        "東日本橋エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "東京ひかりヘルパーステーション",
+      "telephone": "03-3520-8895",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "晴海1-1-28 キャナルハウス702"
+      },
+      "parentOrganization": "中央パートナーズ（株）",
+      "identifier": "1370202754",
+      "faxNumber": "03-3520-8892",
+      "_hours": "9:00〜17:00",
+      "_closed": "年中無休",
+      "_town": "晴海",
+      "_tags": [
+        "晴海エリア",
+        "年中無休",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "エールハート本部",
+      "telephone": "03-5565-7484",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "銀座3-11-1 ニュー銀座ビル8階"
+      },
+      "parentOrganization": "（株）中央ケアサービス",
+      "identifier": "1370200444",
+      "faxNumber": "03-5565-7485",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "銀座",
+      "_tags": [
+        "銀座エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ニチイケアセンター新富",
+      "telephone": "03-3538-6712",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "銀座1-16-6 鈴常ビル2階"
+      },
+      "parentOrganization": "（株）ニチイ学館",
+      "identifier": "1370200394",
+      "faxNumber": "03-3538-6713",
+      "_hours": "9:00〜17:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "銀座",
+      "_tags": [
+        "銀座エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ステムテップ",
+      "telephone": "03-6810-8652",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "日本橋浜町2-1-7-201"
+      },
+      "parentOrganization": "ステムテップ（株）",
+      "identifier": "1370202630",
+      "faxNumber": "03-6661-9087",
+      "_hours": "9:00〜19:00",
+      "_closed": "日・祝",
+      "_town": "日本橋浜町",
+      "_tags": [
+        "日本橋浜町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "聖ルカレジデンス",
+      "telephone": "03-5550-6600",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "明石町8-1"
+      },
+      "parentOrganization": "（株）聖ルカレジデンス",
+      "identifier": "1370200246",
+      "faxNumber": "03-5550-6632",
+      "_hours": "9:00〜17:30",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "明石町",
+      "_tags": [
+        "明石町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アソシケアゆうゆう ヘルパーステーション",
+      "telephone": "03-5547-4402",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "月島3-11-6"
+      },
+      "parentOrganization": "（有）アソシエイト",
+      "identifier": "1370200857",
+      "faxNumber": "03-5548-7613",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "月島",
+      "_tags": [
+        "月島エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヒーリングケア",
+      "telephone": "03-5829-6310",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "東日本橋1-3-14 小島ビル301"
+      },
+      "parentOrganization": "ヒーリングケア（株）",
+      "identifier": "1370202556",
+      "faxNumber": "03-5829-6311",
+      "_hours": "10:00〜17:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "東日本橋",
+      "_tags": [
+        "東日本橋エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "新川訪問介護ステーション",
+      "telephone": "03-3552-5670",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "新川2-27-3"
+      },
+      "parentOrganization": "（社福）賛育会",
+      "identifier": "1370200287",
+      "faxNumber": "03-3552-5636",
+      "_hours": "24時間",
+      "_closed": "土・日・祝",
+      "_town": "新川",
+      "_tags": [
+        "新川エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問介護 エンゼル",
+      "telephone": "03-5547-8180",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "勝どき2-10-14 勝どきロードス305"
+      },
+      "parentOrganization": "（株）ＡＣＡ",
+      "identifier": "1370200378",
+      "faxNumber": "03-3533-6051",
+      "_hours": "8:45〜17:45",
+      "_closed": "年中無休",
+      "_town": "勝どき",
+      "_tags": [
+        "勝どきエリア",
+        "年中無休",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ことりケア",
+      "telephone": "03-6810-9432",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "日本橋堀留町2-1-3 ハイツ日本橋602"
+      },
+      "parentOrganization": "あこがれ小鳥（同）",
+      "identifier": "1370202515",
+      "faxNumber": "03-6810-9437",
+      "_hours": "9:00〜18:00",
+      "_closed": "年中無休",
+      "_town": "日本橋堀留町",
+      "_tags": [
+        "日本橋堀留町エリア",
+        "年中無休",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "大江戸ケアセンター",
+      "telephone": "03-6226-3370",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "築地2-7-12 15山京ビル308"
+      },
+      "parentOrganization": "シンシアリーサポート（株）",
+      "identifier": "1370200907",
+      "faxNumber": "03-6226-3371",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "築地",
+      "_tags": [
+        "築地エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問介護事業所ビーフラット",
+      "telephone": "03-6661-2517",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "日本橋蛎殻町2-10-10 パークビル5階"
+      },
+      "parentOrganization": "ビーフラット（株）",
+      "identifier": "1370202796",
+      "faxNumber": "03-6667-0217",
+      "_hours": "24時間",
+      "_closed": "年中無休",
+      "_town": "日本橋蛎殻町",
+      "_tags": [
+        "日本橋蛎殻町エリア",
+        "年中無休",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヘルパーステーションあった介護",
+      "telephone": "03-6264-9725",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "日本橋人形町3-5-8 日本橋センチュリー21-302"
+      },
+      "parentOrganization": "（株）あった介護",
+      "identifier": "1370202135",
+      "faxNumber": "03-6264-9750",
+      "_hours": "9:00〜18:00",
+      "_closed": "年末年始",
+      "_town": "日本橋人形町",
+      "_tags": [
+        "日本橋人形町エリア",
+        "土日も受付",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "グッドライフケア訪問介護中央",
+      "telephone": "03-5244-9002",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "新川1-28-38 東京ダイヤビルディング2-11階"
+      },
+      "parentOrganization": "（株）グッドライフケア",
+      "identifier": "1370202705",
+      "faxNumber": "03-5244-9003",
+      "_hours": "9:00〜18:00",
+      "_closed": "年始",
+      "_town": "新川",
+      "_tags": [
+        "新川エリア",
+        "土日も受付",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あくとケア日本橋",
+      "telephone": "03-5847-6410",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "日本橋蛎殻町1-33-6 ビューハイツ日本橋201"
+      },
+      "parentOrganization": "（株）ＳＯＬ",
+      "identifier": "1370202333",
+      "faxNumber": "03-3527-3414",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "日本橋蛎殻町",
+      "_tags": [
+        "日本橋蛎殻町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＳＯＭＰＯケアあいおい訪問介護",
+      "telephone": "03-5548-2491",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "佃3-1-15"
+      },
+      "parentOrganization": "ＳＯＭＰＯケア（株）",
+      "identifier": "1370201095",
+      "faxNumber": "03-6220-1509",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・年末年始",
+      "_town": "佃",
+      "_tags": [
+        "佃エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あいけあ",
+      "telephone": "03-3664-7533",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "日本橋大伝馬町11-8 フジスタービル10階103"
+      },
+      "parentOrganization": "（株）あいけあ",
+      "identifier": "1370703686",
+      "faxNumber": "03-3664-7518",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "日本橋大伝馬町",
+      "_tags": [
+        "日本橋大伝馬町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ウィング訪問ケアステーション",
+      "telephone": "03-3553-5228",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "新富1-4-6"
+      },
+      "parentOrganization": "（社福）シルヴァーウィング",
+      "identifier": "1370202242",
+      "faxNumber": "03-3537-2555",
+      "_hours": "8:30〜18:00",
+      "_closed": "年中無休",
+      "_town": "新富",
+      "_tags": [
+        "新富エリア",
+        "年中無休",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＹＳにじむすびＡＬＳ支援センター東京",
+      "telephone": "03-5962-3597",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "日本橋兜町17-1 日本橋ロイヤルプラザ620"
+      },
+      "parentOrganization": "（株）にじむすび",
+      "identifier": "1370202440",
+      "faxNumber": "03-5962-3598",
+      "_hours": "10:00〜16:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "日本橋兜町",
+      "_tags": [
+        "日本橋兜町エリア",
+        "訪問介護"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "中央区で訪問介護を使うには、まず何をすればいいですか？",
+      "a": "お住まいの地区を担当する「おとしより相談センター（地域包括支援センター）」に相談するのが最初の一歩です。要介護認定の申請方法から、ケアマネジャー（居宅介護支援事業所）の紹介まで無料で案内してもらえます。"
+    },
+    {
+      "q": "中央区には訪問介護事業所が何件ありますか？",
+      "a": "2026年9月時点で、介護情報サイトの掲載ベースで約33件の訪問介護事業所が中央区内にあります。本ページではそのうち20件を連絡先つきで掲載しています。全件は厚生労働省「介護サービス情報公表システム」で確認できます。"
+    },
+    {
+      "q": "訪問介護の自己負担はいくらくらいですか？",
+      "a": "中央区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたります。自己負担1割の場合、身体介護20分以上30分未満で約278円、生活援助20分以上45分未満で約204円が目安です（各種加算は別途）。"
+    },
+    {
+      "q": "ヘルパーに家族の分の食事や庭の草むしりも頼めますか？",
+      "a": "介護保険の訪問介護では頼めません。訪問介護は利用者本人の生活に必要な支援に限られ、家族分の家事、来客対応、庭の手入れ、大掃除などは対象外です。保険外の自費サービスや家事代行を併用する方法があります。"
+    },
+    {
+      "q": "事業所は途中で変更できますか？",
+      "a": "変更できます。担当のケアマネジャーに相談すれば、ケアプランを見直したうえで別の訪問介護事業所に切り替えられます。相性やシフトの都合で変更する方は珍しくありません。"
+    },
+    {
+      "q": "要介護認定の結果が出る前でもサービスを使えますか？",
+      "a": "申請日にさかのぼってサービスを利用できる「暫定ケアプラン」という仕組みがあります。ただし想定より低い介護度で認定された場合、超過分が全額自己負担になるリスクがあります。利用を急ぐ場合は、必ずケアマネジャーとリスクを確認したうえで進めてください。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}takuhai-bento/tokyo/chuo/\">中央区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}koreisha-chintai/tokyo/chuo/\">中央区の高齢者可賃貸<small>断られない部屋探し</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/chuo/\">中央区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/chuo/\">中央区のデイサービス<small>通所介護</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/chuo/\">中央区の見守りサービス<small>ひとり暮らしの安否確認</small></a>\n      <a href=\"{{ROOT}}kaigo-taxi/tokyo/chuo/\">中央区の介護タクシー<small>通院・外出の送迎</small></a>",
+  "nearby_heading": "近隣エリアの訪問介護",
+  "nearby": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/chiyoda/\">千代田区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/minato/\">港区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/taito/\">台東区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/sumida/\">墨田区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/koto/\">江東区</a>",
+  "sources": [
+    "厚生労働省「介護事業所・生活関連情報検索（介護サービス情報公表システム）」",
+    "中央区「おとしより相談センター一覧」",
+    "中央区「要介護・要支援認定の申請からサービス利用までの流れ」",
+    "令和6年度介護報酬改定 訪問介護 基本報酬単位数／介護報酬の地域区分（1級地・1単位11.40円）",
+    "日本郵便 郵便番号データにもとづく中央区の町域一覧",
+    "区内事業所数の目安：ハートページナビ／LIFULL介護 各掲載件数（2026年9月時点）"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>どこに相談すればいい？</h4>\n        <p>介護がはじめての方は、まず地域の相談窓口へ。無料で手続きを案内してもらえます。</p>\n        <a class=\"btn\" href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方を見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>中央区内の訪問介護事業所は約33件</li>\n          <li>中央区は1級地（1単位11.40円）</li>\n          <li>身体介護30分未満で約278円（1割）</li>\n          <li>最初の相談はおとしより相談センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/caremanager/\">ケアマネジャーの選び方</a></li>\n          <li><a href=\"{{ROOT}}guide/kubun-shikyu-gendo/\">区分支給限度基準額とは</a></li>\n          <li><a href=\"{{ROOT}}guide/jihi-service/\">介護保険外サービスの相場</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s5\">利用の流れ</a>",
+  "hero_image": "assets/ogp-houmon-kaigo.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "chuo"
+  }
+}

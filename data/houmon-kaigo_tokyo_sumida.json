@@ -1,0 +1,517 @@
+{
+  "slug": "houmon-kaigo_tokyo_sumida",
+  "category": {
+    "id": "houmon-kaigo",
+    "name": "訪問介護",
+    "path": "/houmon-kaigo/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "sumida",
+    "city_name": "墨田区"
+  },
+  "seo": {
+    "title": "墨田区の訪問介護20事業所｜料金と選び方【2026年9月更新】",
+    "description": "東京都墨田区の訪問介護（ホームヘルプ）事業所20件を連絡先つきで掲載。区内約58件の中から選ぶための料金の目安、頼めること・頼めないこと、高齢者支援総合センターへの相談から利用開始までの流れを解説します。",
+    "canonical": "https://kaigonotonari.com/houmon-kaigo/tokyo/sumida/",
+    "og_title": "墨田区の訪問介護事業所一覧｜料金の目安と選び方",
+    "og_description": "墨田区の訪問介護事業所20件を掲載。料金の目安、できること・できないこと、利用開始までの流れを解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-houmon-kaigo.jpg"
+  },
+  "h1": "墨田区の訪問介護事業所一覧｜料金の目安と選び方",
+  "published": "2026-09-21",
+  "modified": "2026-09-21",
+  "count_label": "掲載：20事業所",
+  "lead": "東京都墨田区で訪問介護（ホームヘルプ）を探している方へ。区内にある約58件の事業所から20件を連絡先つきで掲載し、あわせて自己負担額の目安、ヘルパーに頼めること・頼めないこと、相談から利用開始までの流れをまとめました。はじめて介護保険を使う方は、まず「高齢者支援総合センター」への相談から始めるのが近道です。",
+  "listing_note": "墨田区内の訪問介護事業所から20件を掲載しています（2026年9月時点）。区内には約58件の事業所があり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "ハローケア",
+      "telephone": "03-5655-0051",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "立花5-34-11"
+      },
+      "parentOrganization": "（有）ユーエス",
+      "identifier": "1370701391",
+      "faxNumber": "03-5655-0052",
+      "_hours": "9:00〜18:00",
+      "_closed": "日・年末年始",
+      "_town": "立花",
+      "_tags": [
+        "立花エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケア＆サポート東京みかん",
+      "telephone": "03-5637-8565",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "横川5-2-12 チェリーパレス405"
+      },
+      "parentOrganization": "ＡＳｃａｒｅ＆ｓｕｐｐｏｒｔＬｉｎｋ（株）",
+      "identifier": "1370705863",
+      "faxNumber": "03-5637-8566",
+      "_hours": "9:00〜18:00",
+      "_closed": "年中無休",
+      "_town": "横川",
+      "_tags": [
+        "横川エリア",
+        "年中無休",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアセンターえがお墨田",
+      "telephone": "03-6231-9189",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "東向島5-8-2 エンディミオン2階"
+      },
+      "parentOrganization": "（株）えがお",
+      "identifier": "1370705707",
+      "faxNumber": "03-6231-9190",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "東向島",
+      "_tags": [
+        "東向島エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＳＯＭＰＯケア 東墨田 訪問介護",
+      "telephone": "03-5631-2258",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "東墨田2-3-18"
+      },
+      "parentOrganization": "ＳＯＭＰＯケア（株）",
+      "identifier": "1370705038",
+      "faxNumber": "03-5631-2259",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "東墨田",
+      "_tags": [
+        "東墨田エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "つばめ訪問介護",
+      "telephone": "03-6658-8387",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "業平4-2-9"
+      },
+      "parentOrganization": "（株）アンプラグド",
+      "identifier": "1370704817",
+      "faxNumber": "03-6658-8388",
+      "_hours": "10:00〜18:00",
+      "_closed": "土・日・祝・夏季・年末年始",
+      "_town": "業平",
+      "_tags": [
+        "業平エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "パル墨田",
+      "telephone": "03-5819-5206",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "向島3-3-1 ミリアレジデンス押上2階"
+      },
+      "parentOrganization": "労働者協同組合労協センター事業団",
+      "identifier": "1370700328",
+      "faxNumber": "03-5819-5207",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "向島",
+      "_tags": [
+        "向島エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あしたば訪問介護",
+      "telephone": "03-6905-6130",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "押上1-43-3"
+      },
+      "parentOrganization": "（株）明日葉",
+      "identifier": "1370702373",
+      "faxNumber": "03-6905-6140",
+      "_hours": "9:00〜18:00",
+      "_closed": "年中無休",
+      "_town": "押上",
+      "_tags": [
+        "押上エリア",
+        "年中無休",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ほほえみ介護サービス",
+      "telephone": "03-5608-8088",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "業平2-8-6 小倉ビル101"
+      },
+      "parentOrganization": "（有）ほほえみ介護サービス",
+      "identifier": "1370701052",
+      "faxNumber": "03-5819-4878",
+      "_hours": "9:00〜18:00",
+      "_closed": "日・年末年始",
+      "_town": "業平",
+      "_tags": [
+        "業平エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ファミリーケアすみだ",
+      "telephone": "03-5630-6818",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "墨田3-41-16 すこやかの家かねがふち2階"
+      },
+      "parentOrganization": "（社福）すこやか福祉会",
+      "identifier": "1370702068",
+      "faxNumber": "03-5630-6819",
+      "_hours": "9:00〜17:00",
+      "_closed": "年中無休",
+      "_town": "墨田",
+      "_tags": [
+        "墨田エリア",
+        "年中無休",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ドリーム訪問介護",
+      "telephone": "03-6661-8948",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "墨田4-39-1"
+      },
+      "parentOrganization": "（株）ドリーム",
+      "identifier": "1370705806",
+      "faxNumber": "03-6661-8949",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝",
+      "_town": "墨田",
+      "_tags": [
+        "墨田エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ラック厩橋",
+      "telephone": "03-5969-8524",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "本所3-4-8-2階"
+      },
+      "parentOrganization": "（株）ラックコーポレーション",
+      "identifier": "1370702407",
+      "faxNumber": "03-5969-8541",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・年末年始",
+      "_town": "本所",
+      "_tags": [
+        "本所エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヘルパーステーション マ・メゾン",
+      "telephone": "03-6657-1102",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "東向島2-31-19 スマイル・メゾン曳舟1階"
+      },
+      "parentOrganization": "（株）ライフコンサイドサービス",
+      "identifier": "1370704650",
+      "faxNumber": "03-3611-0867",
+      "_hours": "8:30〜17:30",
+      "_closed": "日・祝・年末年始",
+      "_town": "東向島",
+      "_tags": [
+        "東向島エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "こむケア",
+      "telephone": "03-5625-4250",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "江東橋3-2-2 ドルミ錦糸町大興ビル307"
+      },
+      "parentOrganization": "（同）こむ",
+      "identifier": "1370705079",
+      "faxNumber": "03-5625-4251",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・年末年始",
+      "_town": "江東橋",
+      "_tags": [
+        "江東橋エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "匠楽館ヘルパーステーション粋",
+      "telephone": "03-6801-7834",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "向島3-34-12 佐原ビル202"
+      },
+      "parentOrganization": "（株）グロープ・トレイル",
+      "identifier": "1370705970",
+      "faxNumber": "03-6801-7836",
+      "_hours": "8:00〜17:00",
+      "_closed": "日・年末年始",
+      "_town": "向島",
+      "_tags": [
+        "向島エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアサービス ひろば",
+      "telephone": "03-3613-4545",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "押上2-30-16"
+      },
+      "parentOrganization": "（有）ハーモニー",
+      "identifier": "1370701219",
+      "faxNumber": "03-3613-4546",
+      "_hours": "9:00〜18:00",
+      "_closed": "日・年末年始",
+      "_town": "押上",
+      "_tags": [
+        "押上エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアサービス マリーナ",
+      "telephone": "03-6659-9610",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "立川3-6-4"
+      },
+      "parentOrganization": "（株）古澤オフィス",
+      "identifier": "1370704239",
+      "faxNumber": "03-6659-9632",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・年末年始",
+      "_town": "立川",
+      "_tags": [
+        "立川エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "なのはな福祉サービス曳舟訪問介護事業所",
+      "telephone": "03-5630-6621",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "東向島2-46-11 柏木ビル2階"
+      },
+      "parentOrganization": "（有）なのはな福祉サービス",
+      "identifier": "1370700955",
+      "faxNumber": "03-3613-0203",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・年末年始",
+      "_town": "東向島",
+      "_tags": [
+        "東向島エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "なのはな福祉サービス大正通り 訪問介護事業所",
+      "telephone": "03-5630-6177",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "東向島4-42-4"
+      },
+      "parentOrganization": "（有）なのはな福祉サービス",
+      "identifier": "1370701318",
+      "faxNumber": "03-5630-6250",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・年末年始",
+      "_town": "東向島",
+      "_tags": [
+        "東向島エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアリッツ両国",
+      "telephone": "03-6284-0701",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "両国4-34-14 すみれハイツ1階"
+      },
+      "parentOrganization": "（株）ケアリッツ・アンド・パートナーズ",
+      "identifier": "1370705541",
+      "faxNumber": "03-6284-0702",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "両国",
+      "_tags": [
+        "両国エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ニチイケアセンター墨田",
+      "telephone": "03-5655-2061",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "東向島6-32-3 宮川ビル1階"
+      },
+      "parentOrganization": "（株）ニチイ学館",
+      "identifier": "1370701672",
+      "faxNumber": "03-3619-1500",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "東向島",
+      "_tags": [
+        "東向島エリア",
+        "訪問介護"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "墨田区で訪問介護を使うには、まず何をすればいいですか？",
+      "a": "お住まいの地区を担当する「高齢者支援総合センター（地域包括支援センター）」に相談するのが最初の一歩です。要介護認定の申請方法から、ケアマネジャー（居宅介護支援事業所）の紹介まで無料で案内してもらえます。"
+    },
+    {
+      "q": "墨田区には訪問介護事業所が何件ありますか？",
+      "a": "2026年9月時点で、介護情報サイトの掲載ベースで約58件の訪問介護事業所が墨田区内にあります。本ページではそのうち20件を連絡先つきで掲載しています。全件は厚生労働省「介護サービス情報公表システム」で確認できます。"
+    },
+    {
+      "q": "訪問介護の自己負担はいくらくらいですか？",
+      "a": "墨田区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたります。自己負担1割の場合、身体介護20分以上30分未満で約278円、生活援助20分以上45分未満で約204円が目安です（各種加算は別途）。"
+    },
+    {
+      "q": "ヘルパーに家族の分の食事や庭の草むしりも頼めますか？",
+      "a": "介護保険の訪問介護では頼めません。訪問介護は利用者本人の生活に必要な支援に限られ、家族分の家事、来客対応、庭の手入れ、大掃除などは対象外です。保険外の自費サービスや家事代行を併用する方法があります。"
+    },
+    {
+      "q": "事業所は途中で変更できますか？",
+      "a": "変更できます。担当のケアマネジャーに相談すれば、ケアプランを見直したうえで別の訪問介護事業所に切り替えられます。相性やシフトの都合で変更する方は珍しくありません。"
+    },
+    {
+      "q": "要介護認定の結果が出る前でもサービスを使えますか？",
+      "a": "申請日にさかのぼってサービスを利用できる「暫定ケアプラン」という仕組みがあります。ただし想定より低い介護度で認定された場合、超過分が全額自己負担になるリスクがあります。利用を急ぐ場合は、必ずケアマネジャーとリスクを確認したうえで進めてください。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}takuhai-bento/tokyo/sumida/\">墨田区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}koreisha-chintai/tokyo/sumida/\">墨田区の高齢者可賃貸<small>断られない部屋探し</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/sumida/\">墨田区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/sumida/\">墨田区のデイサービス<small>通所介護</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/sumida/\">墨田区の見守りサービス<small>ひとり暮らしの安否確認</small></a>\n      <a href=\"{{ROOT}}kaigo-taxi/tokyo/sumida/\">墨田区の介護タクシー<small>通院・外出の送迎</small></a>",
+  "nearby_heading": "近隣エリアの訪問介護",
+  "nearby": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/chuo/\">中央区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/taito/\">台東区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/koto/\">江東区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/arakawa/\">荒川区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/adachi/\">足立区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/katsushika/\">葛飾区</a>",
+  "sources": [
+    "厚生労働省「介護事業所・生活関連情報検索（介護サービス情報公表システム）」",
+    "墨田区「高齢者支援総合センター一覧」",
+    "墨田区「要介護・要支援認定の申請からサービス利用までの流れ」",
+    "令和6年度介護報酬改定 訪問介護 基本報酬単位数／介護報酬の地域区分（1級地・1単位11.40円）",
+    "日本郵便 郵便番号データにもとづく墨田区の町域一覧",
+    "区内事業所数の目安：ハートページナビ／LIFULL介護 各掲載件数（2026年9月時点）"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>どこに相談すればいい？</h4>\n        <p>介護がはじめての方は、まず地域の相談窓口へ。無料で手続きを案内してもらえます。</p>\n        <a class=\"btn\" href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方を見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>墨田区内の訪問介護事業所は約58件</li>\n          <li>墨田区は1級地（1単位11.40円）</li>\n          <li>身体介護30分未満で約278円（1割）</li>\n          <li>最初の相談は高齢者支援総合センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/caremanager/\">ケアマネジャーの選び方</a></li>\n          <li><a href=\"{{ROOT}}guide/kubun-shikyu-gendo/\">区分支給限度基準額とは</a></li>\n          <li><a href=\"{{ROOT}}guide/jihi-service/\">介護保険外サービスの相場</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s5\">利用の流れ</a>",
+  "hero_image": "assets/ogp-houmon-kaigo.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "sumida"
+  }
+}

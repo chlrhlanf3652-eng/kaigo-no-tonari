@@ -23,7 +23,7 @@
   "published": "2026-09-21",
   "modified": "2026-09-21",
   "count_label": "掲載：20事業所",
-  "lead": "東京都大田区で訪問介護（ホームヘルプ）を探している方へ。区内にある125件の事業所から20件を連絡先つきで掲載し、あわせて自己負担額の目安、ヘルパーに頼めること・頼めないこと、相談から利用開始までの流れをまとめました。はじめて介護保険を使う方は、まず「地域包括支援センター（さわやかサポート）」への相談から始めるのが近道です。",
+  "lead": "東京都大田区で訪問介護（ホームヘルプ）を探している方へ。区内にある約125件の事業所から20件を連絡先つきで掲載し、あわせて自己負担額の目安、ヘルパーに頼めること・頼めないこと、相談から利用開始までの流れをまとめました。はじめて介護保険を使う方は、まず「地域包括支援センター（さわやかサポート）」への相談から始めるのが近道です。",
   "listing_note": "大田区内の訪問介護事業所から20件を掲載しています（2026年9月時点）。区内には約125件の事業所があり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
@@ -500,7 +500,7 @@
   ],
   "related": "<a href=\"{{ROOT}}takuhai-bento/tokyo/ota/\">大田区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}koreisha-chintai/tokyo/ota/\">大田区の高齢者可賃貸<small>断られない部屋探し</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/ota/\">大田区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/ota/\">大田区のデイサービス<small>通所介護</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/ota/\">大田区の見守りサービス<small>ひとり暮らしの安否確認</small></a>\n      <a href=\"{{ROOT}}kaigo-taxi/tokyo/ota/\">大田区の介護タクシー<small>通院・外出の送迎</small></a>",
   "nearby_heading": "近隣エリアの訪問介護",
-  "nearby": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/shinagawa/\">品川区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/setagaya/\">世田谷区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/meguro/\">目黒区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/minato/\">港区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/shibuya/\">渋谷区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/koto/\">江東区</a>",
+  "nearby": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/shinagawa/\">品川区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/meguro/\">目黒区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/setagaya/\">世田谷区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/minato/\">港区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/shibuya/\">渋谷区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/koto/\">江東区</a>",
   "sources": [
     "厚生労働省「介護事業所・生活関連情報検索（介護サービス情報公表システム）」",
     "大田区「地域包括支援センター（さわやかサポート）一覧」",

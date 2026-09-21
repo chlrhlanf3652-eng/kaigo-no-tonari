@@ -47,41 +47,46 @@ def has_data(cat_id, pref_id, city_id):
 
 
 # ------------------------------------------------- 東京23区の事業所数データ
-# 出典: LIFULL介護 各区の訪問介護掲載件数（2026-09-21 確認）。
-#       相談窓口の名称は各区の公表情報にもとづく。
-# 数値は公的な指定事業所数そのものではなく「掲載件数の目安」である点に注意。
-TOKYO23 = [
-    ("setagaya", "世田谷区", 219, "あんしんすこやかセンター"),
-    ("adachi",   "足立区",   194, "地域包括支援センター"),
-    ("nerima",   "練馬区",   180, "地域包括支援センター"),
-    ("itabashi", "板橋区",   143, "おとしより相談センター"),
-    ("edogawa",  "江戸川区", 137, "熟年相談室"),
-    ("katsushika", "葛飾区", 136, "高齢者総合相談センター"),
-    ("suginami", "杉並区",   132, "ケア24"),
-    ("ota",      "大田区",   125, "地域包括支援センター（さわやかサポート）"),
-    ("kita",     "北区",      82, "高齢者あんしんセンター"),
-    ("shinjuku", "新宿区",    76, "高齢者総合相談センター"),
-    ("koto",     "江東区",    76, "長寿サポートセンター"),
-    ("nakano",   "中野区",    72, "地域包括支援センター"),
-    ("minato",   "港区",      65, "高齢者相談センター"),
-    ("toshima",  "豊島区",    61, "高齢者総合相談センター"),
-    ("sumida",   "墨田区",    58, "高齢者支援総合センター"),
-    ("taito",    "台東区",    54, "地域包括支援センター"),
-    ("shinagawa","品川区",    53, "在宅介護支援センター"),
-    ("meguro",   "目黒区",    48, "包括支援センター"),
-    ("arakawa",  "荒川区",    48, "地域包括支援センター"),
-    ("shibuya",  "渋谷区",    44, "地域包括支援センター"),
-    ("chuo",     "中央区",    33, "おとしより相談センター"),
-    ("bunkyo",   "文京区",    31, "高齢者あんしん相談センター"),
-    ("chiyoda",  "千代田区",  17, "高齢者あんしんセンター"),
-]
+# 事業所数は tools/counts.py（LIFULL介護の掲載件数で全区そろえたもの）。
+# 相談窓口の呼び名は収集キャッシュから拾い、キャッシュのない区だけ下の既定値を使う。
+# 出典はいずれも各区・各情報サイトの公表情報（2026-09-21 確認）。
+_MADOGUCHI_FALLBACK = {
+    "chiyoda": "高齢者あんしんセンター",
+    "adachi": "地域包括支援センター",
+    "katsushika": "高齢者総合相談センター",
+}
+
+
+def tokyo23():
+    """(id, 区名, 事業所数, 相談窓口の呼び名) を事業所数の多い順に返す。"""
+    sys.path.insert(0, str(BASE / "tools"))
+    try:
+        from wards import WARDS as W
+        from counts import COUNTS, MADOGUCHI_OVERRIDE
+    except Exception:
+        return []
+    cache = BASE / "tools" / "cache"
+    rows = []
+    for wid, w in W.items():
+        m = MADOGUCHI_OVERRIDE.get(wid)
+        if not m:
+            f = cache / f"{wid}.json"
+            if f.exists():
+                m = json.loads(f.read_text(encoding="utf-8")).get("madoguchi")
+        m = m or _MADOGUCHI_FALLBACK.get(wid, "地域包括支援センター")
+        rows.append((wid, w["name"], COUNTS.get(wid, 0), m))
+    rows.sort(key=lambda r: -r[2])
+    return rows
 
 
 def tokyo23_table(cat_id):
     """東京23区の事業所数と相談窓口の呼称を一覧にする。公開済みの区はリンクにする。"""
-    total = sum(x[2] for x in TOKYO23)
+    data = tokyo23()
+    if not data:
+        return ""
+    total = sum(x[2] for x in data)
     rows = []
-    for cid, name, cnt, center in TOKYO23:
+    for cid, name, cnt, center in data:
         if has_data(cat_id, "tokyo", cid):
             cell = f'<a href="{cid}/">{name}</a>'
             state = '<span class="ok">掲載中</span>'

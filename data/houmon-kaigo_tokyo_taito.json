@@ -1,0 +1,520 @@
+{
+  "slug": "houmon-kaigo_tokyo_taito",
+  "category": {
+    "id": "houmon-kaigo",
+    "name": "訪問介護",
+    "path": "/houmon-kaigo/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "taito",
+    "city_name": "台東区"
+  },
+  "seo": {
+    "title": "台東区の訪問介護20事業所｜料金と選び方【2026年9月更新】",
+    "description": "東京都台東区の訪問介護（ホームヘルプ）事業所20件を連絡先つきで掲載。区内約54件の中から選ぶための料金の目安、頼めること・頼めないこと、地域包括支援センターへの相談から利用開始までの流れを解説します。",
+    "canonical": "https://kaigonotonari.com/houmon-kaigo/tokyo/taito/",
+    "og_title": "台東区の訪問介護事業所一覧｜料金の目安と選び方",
+    "og_description": "台東区の訪問介護事業所20件を掲載。料金の目安、できること・できないこと、利用開始までの流れを解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-houmon-kaigo.jpg"
+  },
+  "h1": "台東区の訪問介護事業所一覧｜料金の目安と選び方",
+  "published": "2026-09-21",
+  "modified": "2026-09-21",
+  "count_label": "掲載：20事業所",
+  "lead": "東京都台東区で訪問介護（ホームヘルプ）を探している方へ。区内にある約54件の事業所から20件を連絡先つきで掲載し、あわせて自己負担額の目安、ヘルパーに頼めること・頼めないこと、相談から利用開始までの流れをまとめました。はじめて介護保険を使う方は、まず「地域包括支援センター」への相談から始めるのが近道です。",
+  "listing_note": "台東区内の訪問介護事業所から20件を掲載しています（2026年9月時点）。区内には約54件の事業所があり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "ヘルパーステーションハーモニー",
+      "telephone": "03-6279-3998",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "日本堤1-31-1"
+      },
+      "parentOrganization": "（一社）ハーモニー",
+      "identifier": "1370601989",
+      "faxNumber": "03-6279-3999",
+      "_hours": "9:00〜17:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "日本堤",
+      "_tags": [
+        "日本堤エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "しのぶケア",
+      "telephone": "03-5615-2420",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "東上野3-32-4-2階"
+      },
+      "parentOrganization": "（株）イートゥエイチ",
+      "identifier": "1370201723",
+      "faxNumber": "03-5812-4598",
+      "_hours": "24時間",
+      "_closed": "年中無休",
+      "_town": "東上野",
+      "_tags": [
+        "東上野エリア",
+        "年中無休",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアステーション ひまわり",
+      "telephone": "03-6795-0172",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "根岸5-24-7 野中第三ビル301"
+      },
+      "parentOrganization": "（有）ケアステーションひまわり",
+      "identifier": "1370701938",
+      "faxNumber": "03-6795-0143",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "根岸",
+      "_tags": [
+        "根岸エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アイ愛介護サービス",
+      "telephone": "03-3828-8511",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "池之端2-8-9"
+      },
+      "parentOrganization": "（株）アイ愛",
+      "identifier": "1370601120",
+      "faxNumber": "03-3828-8516",
+      "_hours": "9:00〜18:00",
+      "_closed": "日・祝・年末年始",
+      "_town": "池之端",
+      "_tags": [
+        "池之端エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問介護あいえん",
+      "telephone": "03-5849-4916",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "千束3-12-7-1階"
+      },
+      "parentOrganization": "（株）あいえん",
+      "identifier": "1370604504",
+      "faxNumber": "03-5849-4918",
+      "_hours": "9:00〜17:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "千束",
+      "_tags": [
+        "千束エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアセンター家族",
+      "telephone": "03-3873-1113",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "竜泉1-14-5"
+      },
+      "parentOrganization": "（有）健康ライブ",
+      "identifier": "1370603779",
+      "faxNumber": "03-5849-4171",
+      "_hours": "8:30〜22:00",
+      "_closed": "年末年始",
+      "_town": "竜泉",
+      "_tags": [
+        "竜泉エリア",
+        "土日も受付",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "さんわケア",
+      "telephone": "03-5830-7692",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "東上野2-2-7 渡邉ビル1階"
+      },
+      "parentOrganization": "ケーエム（株）",
+      "identifier": "1370603902",
+      "faxNumber": "03-5830-7693",
+      "_hours": "8:00〜19:00",
+      "_closed": "年中無休",
+      "_town": "東上野",
+      "_tags": [
+        "東上野エリア",
+        "年中無休",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "トータルサポートたいとう",
+      "telephone": "03-5824-2480",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "竜泉3-19-7"
+      },
+      "parentOrganization": "ＮＰＯ法人 トータルサポートたいとう",
+      "identifier": "1370604074",
+      "faxNumber": "03-5824-2485",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "竜泉",
+      "_tags": [
+        "竜泉エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "えにし あさくさ",
+      "telephone": "03-6458-1105",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "浅草4-46-1 アリアーテ浅草1階"
+      },
+      "parentOrganization": "（株）縁",
+      "identifier": "1370604165",
+      "faxNumber": "03-6458-1125",
+      "_hours": "9:00〜18:00",
+      "_closed": "年中無休",
+      "_town": "浅草",
+      "_tags": [
+        "浅草エリア",
+        "年中無休",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問介護ハートフル",
+      "telephone": "03-5849-4320",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "竜泉1-27-8"
+      },
+      "parentOrganization": "（同）訪問介護ハートフル",
+      "identifier": "1370604710",
+      "faxNumber": "03-5849-4340",
+      "_hours": "9:00〜17:00",
+      "_closed": "日・年末年始",
+      "_town": "竜泉",
+      "_tags": [
+        "竜泉エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ホームヘルプサービス・タンポポ",
+      "telephone": "03-3872-7806",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "浅草5-26-2 リエス浅草201"
+      },
+      "parentOrganization": "（株）オオサワ",
+      "identifier": "1370601096",
+      "faxNumber": "03-3872-1655",
+      "_hours": "9:00〜18:00",
+      "_closed": "日・祝",
+      "_town": "浅草",
+      "_tags": [
+        "浅草エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケア２１ 台東",
+      "telephone": "03-5808-4646",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "千束2-1-8 三井ビル1階"
+      },
+      "parentOrganization": "（株）ケア２１",
+      "identifier": "1370601450",
+      "faxNumber": "03-3873-2250",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "千束",
+      "_tags": [
+        "千束エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ウェルビーイング２１訪問介護事業所",
+      "telephone": "03-5827-1921",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "雷門2-6-3 ユニカ雷門ビル3階"
+      },
+      "parentOrganization": "（医社）トータルライフ医療会",
+      "identifier": "1370604199",
+      "faxNumber": "03-5827-1922",
+      "_hours": "9:00〜18:00",
+      "_closed": "年末年始",
+      "_town": "雷門",
+      "_tags": [
+        "雷門エリア",
+        "土日も受付",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアリッツ御徒町",
+      "telephone": "03-5826-8381",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "台東3-44-2 エスポワールビル1階"
+      },
+      "parentOrganization": "（株）ケアリッツ・アンド・パートナーズ",
+      "identifier": "1370604215",
+      "faxNumber": "03-5826-8382",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "台東",
+      "_tags": [
+        "台東エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアリッツ上野",
+      "telephone": "03-5808-9013",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "入谷2-25-8 池田ビル1階"
+      },
+      "parentOrganization": "（株）ケアリッツ・アンド・パートナーズ",
+      "identifier": "1370603209",
+      "faxNumber": "03-5808-9014",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "入谷",
+      "_tags": [
+        "入谷エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヘルパーステーションふるさと",
+      "telephone": "03-5808-1291",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "千束4-39-6-2階"
+      },
+      "parentOrganization": "（有）ひまわり",
+      "identifier": "1370601245",
+      "faxNumber": "03-5808-1292",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "千束",
+      "_tags": [
+        "千束エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "やさしい手浅草訪問介護事業所",
+      "telephone": "050-1752-1310",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "浅草2-34-11 リファイズ浅草401"
+      },
+      "parentOrganization": "（株）やさしい手",
+      "identifier": "1370602946",
+      "faxNumber": "050-3535-7855",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "浅草",
+      "_tags": [
+        "浅草エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "すずらん介護サービス",
+      "telephone": "03-5246-8013",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "花川戸1-13-7 第2エンゼルコーポ1階"
+      },
+      "parentOrganization": "（有）すずらん介護サービス",
+      "identifier": "1370601823",
+      "faxNumber": "03-5246-8723",
+      "_hours": "9:00〜18:00",
+      "_closed": "日・年末年始",
+      "_town": "花川戸",
+      "_tags": [
+        "花川戸エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "りゅうせんホームヘルプステーション",
+      "telephone": "03-6458-1407",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "竜泉2-10-8"
+      },
+      "parentOrganization": "（社福）台東区社会福祉事業団",
+      "identifier": "1370600304",
+      "faxNumber": "03-6458-1536",
+      "_hours": "8:30〜17:30",
+      "_closed": "年中無休",
+      "_town": "竜泉",
+      "_tags": [
+        "竜泉エリア",
+        "年中無休",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あいおん訪問介護ステーション",
+      "telephone": "03-6802-4340",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "清川2-18-3"
+      },
+      "parentOrganization": "（同）ＤｏＴ",
+      "identifier": "1370604447",
+      "faxNumber": "03-6802-4347",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "清川",
+      "_tags": [
+        "清川エリア",
+        "訪問介護"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "台東区で訪問介護を使うには、まず何をすればいいですか？",
+      "a": "お住まいの地区を担当する「地域包括支援センター（地域包括支援センター）」に相談するのが最初の一歩です。要介護認定の申請方法から、ケアマネジャー（居宅介護支援事業所）の紹介まで無料で案内してもらえます。"
+    },
+    {
+      "q": "台東区には訪問介護事業所が何件ありますか？",
+      "a": "2026年9月時点で、介護情報サイトの掲載ベースで約54件の訪問介護事業所が台東区内にあります。本ページではそのうち20件を連絡先つきで掲載しています。全件は厚生労働省「介護サービス情報公表システム」で確認できます。"
+    },
+    {
+      "q": "訪問介護の自己負担はいくらくらいですか？",
+      "a": "台東区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたります。自己負担1割の場合、身体介護20分以上30分未満で約278円、生活援助20分以上45分未満で約204円が目安です（各種加算は別途）。"
+    },
+    {
+      "q": "ヘルパーに家族の分の食事や庭の草むしりも頼めますか？",
+      "a": "介護保険の訪問介護では頼めません。訪問介護は利用者本人の生活に必要な支援に限られ、家族分の家事、来客対応、庭の手入れ、大掃除などは対象外です。保険外の自費サービスや家事代行を併用する方法があります。"
+    },
+    {
+      "q": "事業所は途中で変更できますか？",
+      "a": "変更できます。担当のケアマネジャーに相談すれば、ケアプランを見直したうえで別の訪問介護事業所に切り替えられます。相性やシフトの都合で変更する方は珍しくありません。"
+    },
+    {
+      "q": "要介護認定の結果が出る前でもサービスを使えますか？",
+      "a": "申請日にさかのぼってサービスを利用できる「暫定ケアプラン」という仕組みがあります。ただし想定より低い介護度で認定された場合、超過分が全額自己負担になるリスクがあります。利用を急ぐ場合は、必ずケアマネジャーとリスクを確認したうえで進めてください。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}takuhai-bento/tokyo/taito/\">台東区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}koreisha-chintai/tokyo/taito/\">台東区の高齢者可賃貸<small>断られない部屋探し</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/taito/\">台東区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/taito/\">台東区のデイサービス<small>通所介護</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/taito/\">台東区の見守りサービス<small>ひとり暮らしの安否確認</small></a>\n      <a href=\"{{ROOT}}kaigo-taxi/tokyo/taito/\">台東区の介護タクシー<small>通院・外出の送迎</small></a>",
+  "nearby_heading": "近隣エリアの訪問介護",
+  "nearby": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/chiyoda/\">千代田区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/chuo/\">中央区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/bunkyo/\">文京区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/arakawa/\">荒川区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/sumida/\">墨田区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/adachi/\">足立区</a>",
+  "sources": [
+    "厚生労働省「介護事業所・生活関連情報検索（介護サービス情報公表システム）」",
+    "台東区「地域包括支援センター一覧」",
+    "台東区「要介護・要支援認定の申請からサービス利用までの流れ」",
+    "令和6年度介護報酬改定 訪問介護 基本報酬単位数／介護報酬の地域区分（1級地・1単位11.40円）",
+    "日本郵便 郵便番号データにもとづく台東区の町域一覧",
+    "区内事業所数の目安：ハートページナビ／LIFULL介護 各掲載件数（2026年9月時点）"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>どこに相談すればいい？</h4>\n        <p>介護がはじめての方は、まず地域の相談窓口へ。無料で手続きを案内してもらえます。</p>\n        <a class=\"btn\" href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方を見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>台東区内の訪問介護事業所は約54件</li>\n          <li>台東区は1級地（1単位11.40円）</li>\n          <li>身体介護30分未満で約278円（1割）</li>\n          <li>最初の相談は地域包括支援センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/caremanager/\">ケアマネジャーの選び方</a></li>\n          <li><a href=\"{{ROOT}}guide/kubun-shikyu-gendo/\">区分支給限度基準額とは</a></li>\n          <li><a href=\"{{ROOT}}guide/jihi-service/\">介護保険外サービスの相場</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s5\">利用の流れ</a>",
+  "hero_image": "assets/ogp-houmon-kaigo.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "taito"
+  }
+}

@@ -1,0 +1,518 @@
+{
+  "slug": "houmon-kaigo_tokyo_kita",
+  "category": {
+    "id": "houmon-kaigo",
+    "name": "訪問介護",
+    "path": "/houmon-kaigo/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "kita",
+    "city_name": "北区"
+  },
+  "seo": {
+    "title": "北区の訪問介護20事業所｜料金と選び方【2026年9月更新】",
+    "description": "東京都北区の訪問介護（ホームヘルプ）事業所20件を連絡先つきで掲載。区内約82件の中から選ぶための料金の目安、頼めること・頼めないこと、高齢者あんしんセンターへの相談から利用開始までの流れを解説します。",
+    "canonical": "https://kaigonotonari.com/houmon-kaigo/tokyo/kita/",
+    "og_title": "北区の訪問介護事業所一覧｜料金の目安と選び方",
+    "og_description": "北区の訪問介護事業所20件を掲載。料金の目安、できること・できないこと、利用開始までの流れを解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-houmon-kaigo.jpg"
+  },
+  "h1": "北区の訪問介護事業所一覧｜料金の目安と選び方",
+  "published": "2026-09-21",
+  "modified": "2026-09-21",
+  "count_label": "掲載：20事業所",
+  "lead": "東京都北区で訪問介護（ホームヘルプ）を探している方へ。区内にある約82件の事業所から20件を連絡先つきで掲載し、あわせて自己負担額の目安、ヘルパーに頼めること・頼めないこと、相談から利用開始までの流れをまとめました。はじめて介護保険を使う方は、まず「高齢者あんしんセンター」への相談から始めるのが近道です。",
+  "listing_note": "北区内の訪問介護事業所から20件を掲載しています（2026年9月時点）。区内には約82件の事業所があり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "さくら総合ヘルパーステーション",
+      "telephone": "03-6903-2685",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "豊島8-6-3"
+      },
+      "parentOrganization": "（株）さくら総合福祉",
+      "identifier": "1371707421",
+      "faxNumber": "03-6903-2686",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・年末年始",
+      "_town": "豊島",
+      "_tags": [
+        "豊島エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "星ケアーサービス",
+      "telephone": "03-3827-7688",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "田端1-13-14"
+      },
+      "parentOrganization": "（有）星ケアーサービス",
+      "identifier": "1371701200",
+      "faxNumber": "03-3827-7638",
+      "_hours": "9:00〜18:00",
+      "_closed": "日・年始",
+      "_town": "田端",
+      "_tags": [
+        "田端エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "福祉総合支援サービス事業所 ＤＲＥＡＭ ＥＶＯ",
+      "telephone": "03-5948-5575",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "赤羽台4-10-7"
+      },
+      "parentOrganization": "（株）ヒロプランニング",
+      "identifier": "1371707546",
+      "faxNumber": "03-5948-5574",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "赤羽台",
+      "_tags": [
+        "赤羽台エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＳＯＭＰＯケア 中十条 訪問介護",
+      "telephone": "03-5963-6720",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "中十条1-4-7 インクリースビル3階"
+      },
+      "parentOrganization": "ＳＯＭＰＯケア（株）",
+      "identifier": "1371706993",
+      "faxNumber": "03-5963-6721",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "中十条",
+      "_tags": [
+        "中十条エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "西が丘訪問介護事業所",
+      "telephone": "03-3905-6002",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "西が丘1-5-7 ヴィラ西ケ丘202"
+      },
+      "parentOrganization": "（医社）岩江クリニック",
+      "identifier": "1371704725",
+      "faxNumber": "03-3905-6022",
+      "_hours": "8:00〜17:00",
+      "_closed": "日・祝・年末年始",
+      "_town": "西が丘",
+      "_tags": [
+        "西が丘エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "東京海上日動みずたま介護ＳＴ王子",
+      "telephone": "03-3927-3120",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "堀船2-19-19 パレ・ドール王子ビル2階"
+      },
+      "parentOrganization": "東京海上日動ベターライフサービス（株）",
+      "identifier": "1371706480",
+      "faxNumber": "03-3927-3121",
+      "_hours": "9:00〜18:00",
+      "_closed": "年中無休",
+      "_town": "堀船",
+      "_tags": [
+        "堀船エリア",
+        "年中無休",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ライフケア・森の郷",
+      "telephone": "03-6903-6078",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "滝野川7-16-6 パークサイド美健202"
+      },
+      "parentOrganization": "（株）グッド・ライフ",
+      "identifier": "1371706498",
+      "faxNumber": "03-6903-5670",
+      "_hours": "9:00〜18:00",
+      "_closed": "年末年始",
+      "_town": "滝野川",
+      "_tags": [
+        "滝野川エリア",
+        "土日も受付",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアネット神谷",
+      "telephone": "03-3914-5528",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "神谷1-21-10"
+      },
+      "parentOrganization": "（株）ケアネット・トキ",
+      "identifier": "1371700905",
+      "faxNumber": "03-6903-0705",
+      "_hours": "9:00〜18:00",
+      "_closed": "日（不定期）・年末年始",
+      "_town": "神谷",
+      "_tags": [
+        "神谷エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアリッツ駒込",
+      "telephone": "03-5834-7351",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "中里1-7-6 シャトー中里1階"
+      },
+      "parentOrganization": "（株）ケアリッツ・アンド・パートナーズ",
+      "identifier": "1371707462",
+      "faxNumber": "03-5834-7352",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "中里",
+      "_tags": [
+        "中里エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ニューフォワード訪問介護",
+      "telephone": "03-5842-1313",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "中里1-19-10 リブレ駒込Ｂ101"
+      },
+      "parentOrganization": "（株）ＮＥＷＦＯＲＷＡＲＤ",
+      "identifier": "1371707454",
+      "faxNumber": "03-5842-1319",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日",
+      "_town": "中里",
+      "_tags": [
+        "中里エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "サンライフ介護サービス",
+      "telephone": "03-6915-4361",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "西ケ原3-59-7 三浦ハイム102"
+      },
+      "parentOrganization": "（株）サンライフ",
+      "identifier": "1371707710",
+      "faxNumber": "03-6915-4362",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "西ケ原",
+      "_tags": [
+        "西ケ原エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ニカサ西ヶ原店",
+      "telephone": "03-6903-5947",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "西ケ原4-42-7"
+      },
+      "parentOrganization": "（株）ウェルネスセントラルケア",
+      "identifier": "1371706456",
+      "faxNumber": "03-6903-5948",
+      "_hours": "8:30〜18:30",
+      "_closed": "日・年末年始",
+      "_town": "西ケ原",
+      "_tags": [
+        "西ケ原エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアステーション カルミア",
+      "telephone": "03-3912-7370",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "東十条1-1-8 東十条ＮＰビル2階"
+      },
+      "parentOrganization": "（株）プロテクト",
+      "identifier": "1371707066",
+      "faxNumber": "03-3912-7380",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "東十条",
+      "_tags": [
+        "東十条エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "やさしい手 赤羽 訪問介護事業所",
+      "telephone": "050-1752-1341",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "赤羽2-69-4 クリニックプラザ21-3階"
+      },
+      "parentOrganization": "（株）やさしい手",
+      "identifier": "1371700590",
+      "faxNumber": "050-3535-7854",
+      "_hours": "9:00〜18:00",
+      "_closed": "日・祝・年末年始",
+      "_town": "赤羽",
+      "_tags": [
+        "赤羽エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヘルパーステーションしらゆり",
+      "telephone": "03-3598-6310",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "赤羽南1-3-1 髙橋ビル4階"
+      },
+      "parentOrganization": "（株）しらゆり",
+      "identifier": "1371702349",
+      "faxNumber": "03-3598-6320",
+      "_hours": "9:00〜18:00",
+      "_closed": "年中無休",
+      "_town": "赤羽南",
+      "_tags": [
+        "赤羽南エリア",
+        "年中無休",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "宝ケアサービス西ヶ原",
+      "telephone": "03-5980-6185",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "西ケ原3-1-12 西ヶ原創美ハイツ1階"
+      },
+      "parentOrganization": "宝ケア（株）",
+      "identifier": "1371704980",
+      "faxNumber": "03-5980-0588",
+      "_hours": "9:00〜17:00",
+      "_closed": "日・年末年始",
+      "_town": "西ケ原",
+      "_tags": [
+        "西ケ原エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアリッツ王子",
+      "telephone": "03-6903-2257",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "王子1-28-6 ＴＣＲＥ王子第二ビル1階"
+      },
+      "parentOrganization": "（株）ケアリッツ・アンド・パートナーズ",
+      "identifier": "1371707231",
+      "faxNumber": "03-6903-2258",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "王子",
+      "_tags": [
+        "王子エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヘルパーステーションのぞみ",
+      "telephone": "03-5390-5998",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "豊島3-7-2"
+      },
+      "parentOrganization": "東京ほくと医療生活協同組合",
+      "identifier": "1371701416",
+      "faxNumber": "03-5390-6525",
+      "_hours": "9:00〜17:00",
+      "_closed": "年中無休",
+      "_town": "豊島",
+      "_tags": [
+        "豊島エリア",
+        "年中無休",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "けあビジョン十条",
+      "telephone": "03-5948-5370",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "中十条2-18-1"
+      },
+      "parentOrganization": "（株）ビジュアルビジョン",
+      "identifier": "1371704618",
+      "faxNumber": "03-5948-5371",
+      "_hours": "9:00〜17:30",
+      "_closed": "土・日・祝・夏季・年末年始",
+      "_town": "中十条",
+      "_tags": [
+        "中十条エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あけぼの介護センター王子",
+      "telephone": "03-5972-1563",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "滝野川1-60-5 中野ビル1階"
+      },
+      "parentOrganization": "ケアゲート（株）",
+      "identifier": "1371707330",
+      "faxNumber": "03-5972-1565",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "滝野川",
+      "_tags": [
+        "滝野川エリア",
+        "訪問介護"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "北区で訪問介護を使うには、まず何をすればいいですか？",
+      "a": "お住まいの地区を担当する「高齢者あんしんセンター（地域包括支援センター）」に相談するのが最初の一歩です。要介護認定の申請方法から、ケアマネジャー（居宅介護支援事業所）の紹介まで無料で案内してもらえます。"
+    },
+    {
+      "q": "北区には訪問介護事業所が何件ありますか？",
+      "a": "2026年9月時点で、介護情報サイトの掲載ベースで約82件の訪問介護事業所が北区内にあります。本ページではそのうち20件を連絡先つきで掲載しています。全件は厚生労働省「介護サービス情報公表システム」で確認できます。"
+    },
+    {
+      "q": "訪問介護の自己負担はいくらくらいですか？",
+      "a": "北区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたります。自己負担1割の場合、身体介護20分以上30分未満で約278円、生活援助20分以上45分未満で約204円が目安です（各種加算は別途）。"
+    },
+    {
+      "q": "ヘルパーに家族の分の食事や庭の草むしりも頼めますか？",
+      "a": "介護保険の訪問介護では頼めません。訪問介護は利用者本人の生活に必要な支援に限られ、家族分の家事、来客対応、庭の手入れ、大掃除などは対象外です。保険外の自費サービスや家事代行を併用する方法があります。"
+    },
+    {
+      "q": "事業所は途中で変更できますか？",
+      "a": "変更できます。担当のケアマネジャーに相談すれば、ケアプランを見直したうえで別の訪問介護事業所に切り替えられます。相性やシフトの都合で変更する方は珍しくありません。"
+    },
+    {
+      "q": "要介護認定の結果が出る前でもサービスを使えますか？",
+      "a": "申請日にさかのぼってサービスを利用できる「暫定ケアプラン」という仕組みがあります。ただし想定より低い介護度で認定された場合、超過分が全額自己負担になるリスクがあります。利用を急ぐ場合は、必ずケアマネジャーとリスクを確認したうえで進めてください。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}takuhai-bento/tokyo/kita/\">北区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}koreisha-chintai/tokyo/kita/\">北区の高齢者可賃貸<small>断られない部屋探し</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/kita/\">北区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/kita/\">北区のデイサービス<small>通所介護</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/kita/\">北区の見守りサービス<small>ひとり暮らしの安否確認</small></a>\n      <a href=\"{{ROOT}}kaigo-taxi/tokyo/kita/\">北区の介護タクシー<small>通院・外出の送迎</small></a>",
+  "nearby_heading": "近隣エリアの訪問介護",
+  "nearby": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/bunkyo/\">文京区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/toshima/\">豊島区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/itabashi/\">板橋区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/arakawa/\">荒川区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/adachi/\">足立区</a>",
+  "sources": [
+    "厚生労働省「介護事業所・生活関連情報検索（介護サービス情報公表システム）」",
+    "北区「高齢者あんしんセンター一覧」",
+    "北区「要介護・要支援認定の申請からサービス利用までの流れ」",
+    "令和6年度介護報酬改定 訪問介護 基本報酬単位数／介護報酬の地域区分（1級地・1単位11.40円）",
+    "日本郵便 郵便番号データにもとづく北区の町域一覧",
+    "区内事業所数の目安：ハートページナビ／LIFULL介護 各掲載件数（2026年9月時点）"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>どこに相談すればいい？</h4>\n        <p>介護がはじめての方は、まず地域の相談窓口へ。無料で手続きを案内してもらえます。</p>\n        <a class=\"btn\" href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方を見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>北区内の訪問介護事業所は約82件</li>\n          <li>北区は1級地（1単位11.40円）</li>\n          <li>身体介護30分未満で約278円（1割）</li>\n          <li>最初の相談は高齢者あんしんセンター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/caremanager/\">ケアマネジャーの選び方</a></li>\n          <li><a href=\"{{ROOT}}guide/kubun-shikyu-gendo/\">区分支給限度基準額とは</a></li>\n          <li><a href=\"{{ROOT}}guide/jihi-service/\">介護保険外サービスの相場</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s5\">利用の流れ</a>",
+  "hero_image": "assets/ogp-houmon-kaigo.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "kita"
+  }
+}

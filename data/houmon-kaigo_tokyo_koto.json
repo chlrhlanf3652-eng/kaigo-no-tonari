@@ -1,0 +1,517 @@
+{
+  "slug": "houmon-kaigo_tokyo_koto",
+  "category": {
+    "id": "houmon-kaigo",
+    "name": "訪問介護",
+    "path": "/houmon-kaigo/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "koto",
+    "city_name": "江東区"
+  },
+  "seo": {
+    "title": "江東区の訪問介護20事業所｜料金と選び方【2026年9月更新】",
+    "description": "東京都江東区の訪問介護（ホームヘルプ）事業所20件を連絡先つきで掲載。区内約76件の中から選ぶための料金の目安、頼めること・頼めないこと、長寿サポートセンターへの相談から利用開始までの流れを解説します。",
+    "canonical": "https://kaigonotonari.com/houmon-kaigo/tokyo/koto/",
+    "og_title": "江東区の訪問介護事業所一覧｜料金の目安と選び方",
+    "og_description": "江東区の訪問介護事業所20件を掲載。料金の目安、できること・できないこと、利用開始までの流れを解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-houmon-kaigo.jpg"
+  },
+  "h1": "江東区の訪問介護事業所一覧｜料金の目安と選び方",
+  "published": "2026-09-21",
+  "modified": "2026-09-21",
+  "count_label": "掲載：20事業所",
+  "lead": "東京都江東区で訪問介護（ホームヘルプ）を探している方へ。区内にある約76件の事業所から20件を連絡先つきで掲載し、あわせて自己負担額の目安、ヘルパーに頼めること・頼めないこと、相談から利用開始までの流れをまとめました。はじめて介護保険を使う方は、まず「長寿サポートセンター」への相談から始めるのが近道です。",
+  "listing_note": "江東区内の訪問介護事業所から20件を掲載しています（2026年9月時点）。区内には約76件の事業所があり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "ケア・サポート そよかぜ",
+      "telephone": "03-5627-8477",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "大島8-22-17"
+      },
+      "parentOrganization": "（有）ケア・サポートそよかぜ",
+      "identifier": "1370803171",
+      "faxNumber": "03-5627-8478",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "大島",
+      "_tags": [
+        "大島エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ベストケアセンター江東",
+      "telephone": "03-5665-2700",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "南砂3-13-10"
+      },
+      "parentOrganization": "（株）ベストケア",
+      "identifier": "1370801068",
+      "faxNumber": "03-5665-2701",
+      "_hours": "9:00〜20:00、土・日・祝18:00まで",
+      "_closed": "年末年始",
+      "_town": "南砂",
+      "_tags": [
+        "南砂エリア",
+        "土日も受付",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ピュアサービス",
+      "telephone": "03-5809-9014",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "木場5-3-4 コータス木場401"
+      },
+      "parentOrganization": "（株）エーダン",
+      "identifier": "1370804831",
+      "faxNumber": "03-5809-9015",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "木場",
+      "_tags": [
+        "木場エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あくとケア 亀戸",
+      "telephone": "03-5875-0410",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "大島1-30-4 Ｌ－ＴＯＷＥＲ8階"
+      },
+      "parentOrganization": "（株）ＳＯＬ",
+      "identifier": "1370806075",
+      "faxNumber": "03-5875-0991",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・年末年始",
+      "_town": "大島",
+      "_tags": [
+        "大島エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "セントケア東雲",
+      "telephone": "03-5144-1070",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "東雲1-9-20 東雲キャナルコートＣＯＤＡＮ第20号棟201"
+      },
+      "parentOrganization": "セントケア東京（株）",
+      "identifier": "1370806992",
+      "faxNumber": "03-6221-0379",
+      "_hours": "9:00〜18:00",
+      "_closed": "日・年末年始",
+      "_town": "東雲",
+      "_tags": [
+        "東雲エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問介護江東",
+      "telephone": "03-5858-9347",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "大島3-27-20 マスダビル1階"
+      },
+      "parentOrganization": "ｗｅ ｃａｒｅ（株）",
+      "identifier": "1370806554",
+      "faxNumber": "050-1270-4516",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "大島",
+      "_tags": [
+        "大島エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "サンライフケア",
+      "telephone": "03-6659-7543",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "東陽5-5-2 篠崎ビル102"
+      },
+      "parentOrganization": "（株）サンライフ",
+      "identifier": "1370805630",
+      "faxNumber": "03-6659-7544",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "東陽",
+      "_tags": [
+        "東陽エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "エスパーズプランニング",
+      "telephone": "03-3641-5500",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "牡丹3-3-6 村井ビル1階"
+      },
+      "parentOrganization": "（株）エスパーズプランニング",
+      "identifier": "1370800888",
+      "faxNumber": "03-3641-5598",
+      "_hours": "9:00〜18:00",
+      "_closed": "日・年末年始",
+      "_town": "牡丹",
+      "_tags": [
+        "牡丹エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ハッピーケアセンター",
+      "telephone": "03-5858-8265",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "大島1-29-6-201"
+      },
+      "parentOrganization": "（株）ハッピーケア",
+      "identifier": "1370807271",
+      "faxNumber": "03-5858-8266",
+      "_hours": "9:00〜18:00",
+      "_closed": "年中無休",
+      "_town": "大島",
+      "_tags": [
+        "大島エリア",
+        "年中無休",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "さくら・介護ステーション大島",
+      "telephone": "03-6659-8991",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "東砂2-10-7"
+      },
+      "parentOrganization": "咲の樹ケア（株）",
+      "identifier": "1370805390",
+      "faxNumber": "03-6659-8992",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "東砂",
+      "_tags": [
+        "東砂エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "サンライフケア大島ステーション",
+      "telephone": "03-5875-1411",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "大島7-8-3"
+      },
+      "parentOrganization": "（株）サンライフ",
+      "identifier": "1370806471",
+      "faxNumber": "03-5875-3487",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・夏季・年末年始",
+      "_town": "大島",
+      "_tags": [
+        "大島エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "グッドライフケア訪問介護 江東",
+      "telephone": "03-6204-9633",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "豊洲4-2-2 豊南堂ビル4階"
+      },
+      "parentOrganization": "（株）グッドライフケア東京",
+      "identifier": "1370804690",
+      "faxNumber": "03-6204-9634",
+      "_hours": "9:00〜18:00",
+      "_closed": "年中無休",
+      "_town": "豊洲",
+      "_tags": [
+        "豊洲エリア",
+        "年中無休",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "六華園訪問介護ステーション",
+      "telephone": "03-3632-4071",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "住吉1-18-15"
+      },
+      "parentOrganization": "（社福）あそか会",
+      "identifier": "1370806331",
+      "faxNumber": "03-3632-4018",
+      "_hours": "8:30〜17:30",
+      "_closed": "日・祝・年末年始",
+      "_town": "住吉",
+      "_tags": [
+        "住吉エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ベネッセ介護センター江東",
+      "telephone": "03-5836-8050",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "亀戸6-57-20 亀戸東口駅前ビル4階"
+      },
+      "parentOrganization": "（株）ベネッセスタイルケア",
+      "identifier": "1370802793",
+      "faxNumber": "03-5836-8052",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "亀戸",
+      "_tags": [
+        "亀戸エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "カレッジケア",
+      "telephone": "03-5875-2188",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "北砂5-20-13-101"
+      },
+      "parentOrganization": "ホープウェル（株）",
+      "identifier": "1370805481",
+      "faxNumber": "03-5875-3920",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "北砂",
+      "_tags": [
+        "北砂エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "グッドワン南部営業所",
+      "telephone": "03-6457-0070",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "辰巳1-2-9-103"
+      },
+      "parentOrganization": "グッドワン（株）",
+      "identifier": "1370805994",
+      "faxNumber": "03-6457-0072",
+      "_hours": "8:30〜17:30",
+      "_closed": "日・年末年始",
+      "_town": "辰巳",
+      "_tags": [
+        "辰巳エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ａｓｓｉｓｔ介護ステーション東陽",
+      "telephone": "03-6458-6996",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "東陽4-5-11 川崎ビル307"
+      },
+      "parentOrganization": "（株）ａｓｓｉｓｔ",
+      "identifier": "1370806620",
+      "faxNumber": "03-6458-6997",
+      "_hours": "8:30〜17:30",
+      "_closed": "日・年末年始",
+      "_town": "東陽",
+      "_tags": [
+        "東陽エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "たけのこ介護サービス",
+      "telephone": "03-5677-4165",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "東砂5-14-19"
+      },
+      "parentOrganization": "（株）ライコム・コーポレーション",
+      "identifier": "1370803783",
+      "faxNumber": "03-5677-1165",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・夏季・年末年始",
+      "_town": "東砂",
+      "_tags": [
+        "東砂エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "オハナ・ケアサービス大島（訪問介護）",
+      "telephone": "03-5875-2460",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "大島5-45-14 ＳＴビル2階"
+      },
+      "parentOrganization": "（株）オハナ・ケア",
+      "identifier": "1370806273",
+      "faxNumber": "03-5875-2461",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "大島",
+      "_tags": [
+        "大島エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアリッツ亀戸",
+      "telephone": "03-5858-9667",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "亀戸5-37-6 ジャスティー亀戸ａ101"
+      },
+      "parentOrganization": "（株）ケアリッツ・アンド・パートナーズ",
+      "identifier": "1370806414",
+      "faxNumber": "03-5858-9668",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "亀戸",
+      "_tags": [
+        "亀戸エリア",
+        "訪問介護"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "江東区で訪問介護を使うには、まず何をすればいいですか？",
+      "a": "お住まいの地区を担当する「長寿サポートセンター（地域包括支援センター）」に相談するのが最初の一歩です。要介護認定の申請方法から、ケアマネジャー（居宅介護支援事業所）の紹介まで無料で案内してもらえます。"
+    },
+    {
+      "q": "江東区には訪問介護事業所が何件ありますか？",
+      "a": "2026年9月時点で、介護情報サイトの掲載ベースで約76件の訪問介護事業所が江東区内にあります。本ページではそのうち20件を連絡先つきで掲載しています。全件は厚生労働省「介護サービス情報公表システム」で確認できます。"
+    },
+    {
+      "q": "訪問介護の自己負担はいくらくらいですか？",
+      "a": "江東区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたります。自己負担1割の場合、身体介護20分以上30分未満で約278円、生活援助20分以上45分未満で約204円が目安です（各種加算は別途）。"
+    },
+    {
+      "q": "ヘルパーに家族の分の食事や庭の草むしりも頼めますか？",
+      "a": "介護保険の訪問介護では頼めません。訪問介護は利用者本人の生活に必要な支援に限られ、家族分の家事、来客対応、庭の手入れ、大掃除などは対象外です。保険外の自費サービスや家事代行を併用する方法があります。"
+    },
+    {
+      "q": "事業所は途中で変更できますか？",
+      "a": "変更できます。担当のケアマネジャーに相談すれば、ケアプランを見直したうえで別の訪問介護事業所に切り替えられます。相性やシフトの都合で変更する方は珍しくありません。"
+    },
+    {
+      "q": "要介護認定の結果が出る前でもサービスを使えますか？",
+      "a": "申請日にさかのぼってサービスを利用できる「暫定ケアプラン」という仕組みがあります。ただし想定より低い介護度で認定された場合、超過分が全額自己負担になるリスクがあります。利用を急ぐ場合は、必ずケアマネジャーとリスクを確認したうえで進めてください。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}takuhai-bento/tokyo/koto/\">江東区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}koreisha-chintai/tokyo/koto/\">江東区の高齢者可賃貸<small>断られない部屋探し</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/koto/\">江東区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/koto/\">江東区のデイサービス<small>通所介護</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/koto/\">江東区の見守りサービス<small>ひとり暮らしの安否確認</small></a>\n      <a href=\"{{ROOT}}kaigo-taxi/tokyo/koto/\">江東区の介護タクシー<small>通院・外出の送迎</small></a>",
+  "nearby_heading": "近隣エリアの訪問介護",
+  "nearby": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/chuo/\">中央区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/sumida/\">墨田区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/edogawa/\">江戸川区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/shinagawa/\">品川区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/katsushika/\">葛飾区</a>",
+  "sources": [
+    "厚生労働省「介護事業所・生活関連情報検索（介護サービス情報公表システム）」",
+    "江東区「長寿サポートセンター一覧」",
+    "江東区「要介護・要支援認定の申請からサービス利用までの流れ」",
+    "令和6年度介護報酬改定 訪問介護 基本報酬単位数／介護報酬の地域区分（1級地・1単位11.40円）",
+    "日本郵便 郵便番号データにもとづく江東区の町域一覧",
+    "区内事業所数の目安：ハートページナビ／LIFULL介護 各掲載件数（2026年9月時点）"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>どこに相談すればいい？</h4>\n        <p>介護がはじめての方は、まず地域の相談窓口へ。無料で手続きを案内してもらえます。</p>\n        <a class=\"btn\" href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方を見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>江東区内の訪問介護事業所は約76件</li>\n          <li>江東区は1級地（1単位11.40円）</li>\n          <li>身体介護30分未満で約278円（1割）</li>\n          <li>最初の相談は長寿サポートセンター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/caremanager/\">ケアマネジャーの選び方</a></li>\n          <li><a href=\"{{ROOT}}guide/kubun-shikyu-gendo/\">区分支給限度基準額とは</a></li>\n          <li><a href=\"{{ROOT}}guide/jihi-service/\">介護保険外サービスの相場</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s5\">利用の流れ</a>",
+  "hero_image": "assets/ogp-houmon-kaigo.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "koto"
+  }
+}

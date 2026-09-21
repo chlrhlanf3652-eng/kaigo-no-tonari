@@ -1,0 +1,517 @@
+{
+  "slug": "houmon-kaigo_tokyo_minato",
+  "category": {
+    "id": "houmon-kaigo",
+    "name": "訪問介護",
+    "path": "/houmon-kaigo/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "minato",
+    "city_name": "港区"
+  },
+  "seo": {
+    "title": "港区の訪問介護20事業所｜料金と選び方【2026年9月更新】",
+    "description": "東京都港区の訪問介護（ホームヘルプ）事業所20件を連絡先つきで掲載。区内約65件の中から選ぶための料金の目安、頼めること・頼めないこと、高齢者相談センターへの相談から利用開始までの流れを解説します。",
+    "canonical": "https://kaigonotonari.com/houmon-kaigo/tokyo/minato/",
+    "og_title": "港区の訪問介護事業所一覧｜料金の目安と選び方",
+    "og_description": "港区の訪問介護事業所20件を掲載。料金の目安、できること・できないこと、利用開始までの流れを解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-houmon-kaigo.jpg"
+  },
+  "h1": "港区の訪問介護事業所一覧｜料金の目安と選び方",
+  "published": "2026-09-21",
+  "modified": "2026-09-21",
+  "count_label": "掲載：20事業所",
+  "lead": "東京都港区で訪問介護（ホームヘルプ）を探している方へ。区内にある約65件の事業所から20件を連絡先つきで掲載し、あわせて自己負担額の目安、ヘルパーに頼めること・頼めないこと、相談から利用開始までの流れをまとめました。はじめて介護保険を使う方は、まず「高齢者相談センター」への相談から始めるのが近道です。",
+  "listing_note": "港区内の訪問介護事業所から20件を掲載しています（2026年9月時点）。区内には約65件の事業所があり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "Ｃａｒｅｒ訪問介護",
+      "telephone": "03-6427-1452",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "南青山3-4-2 ＢＡＳＥ南青山207"
+      },
+      "parentOrganization": "（株）トモモデザイン",
+      "identifier": "1370305490",
+      "faxNumber": "03-6427-5241",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・年末年始",
+      "_town": "南青山",
+      "_tags": [
+        "南青山エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "トータルケアサービス高輪事業所",
+      "telephone": "03-5427-5835",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "三田3-7-16 御田八幡ビル1階"
+      },
+      "parentOrganization": "（株）ティーシーエス",
+      "identifier": "1370301051",
+      "faxNumber": "03-5427-5836",
+      "_hours": "8:30〜17:30",
+      "_closed": "日",
+      "_town": "三田",
+      "_tags": [
+        "三田エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "コスモスケアステーション",
+      "telephone": "03-5405-1910",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "新橋6-5-4 ＤＩＫマンション新橋701"
+      },
+      "parentOrganization": "（有）コスモスケアステーション",
+      "identifier": "1370100727",
+      "faxNumber": "03-5405-1635",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "新橋",
+      "_tags": [
+        "新橋エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "悠々ケア 六本木",
+      "telephone": "03-6447-5047",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "六本木6-5-25"
+      },
+      "parentOrganization": "ミアヘルサ（株）",
+      "identifier": "1370304899",
+      "faxNumber": "03-6447-5048",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "六本木",
+      "_tags": [
+        "六本木エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "介護センターオフィス大和",
+      "telephone": "03-6388-0100",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "赤坂9-1-7 赤坂レジデンシャル1016"
+      },
+      "parentOrganization": "（同）オフィス大和",
+      "identifier": "1370305748",
+      "_hours": "13:00〜20:00",
+      "_closed": "土・日・年末年始",
+      "_town": "赤坂",
+      "_tags": [
+        "赤坂エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "やまぶきケア",
+      "telephone": "03-6432-9321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "南青山2-27-8-203"
+      },
+      "parentOrganization": "（株）やまぶき",
+      "identifier": "1370304014",
+      "faxNumber": "03-6432-9322",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・年末年始",
+      "_town": "南青山",
+      "_tags": [
+        "南青山エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ファミリーケアみたて",
+      "telephone": "03-5463-8616",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "港南4-5-3 都営港南四丁目アパート3"
+      },
+      "parentOrganization": "（社福）すこやか福祉会",
+      "identifier": "1370302190",
+      "faxNumber": "03-5463-8617",
+      "_hours": "9:00〜17:30",
+      "_closed": "年中無休",
+      "_town": "港南",
+      "_tags": [
+        "港南エリア",
+        "年中無休",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケア２１ 南青山",
+      "telephone": "03-6419-3721",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "南青山7-12-9 スペース朱102"
+      },
+      "parentOrganization": "（株）ケア２１",
+      "identifier": "1370305524",
+      "faxNumber": "03-3499-2521",
+      "_hours": "9:00〜18:00",
+      "_closed": "祝・夏季・年末年始",
+      "_town": "南青山",
+      "_tags": [
+        "南青山エリア",
+        "土日も受付",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アイム介護福祉支援センター",
+      "telephone": "03-6807-4882",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "赤坂7-10-9 第四文成ビル701"
+      },
+      "parentOrganization": "アイム（株）",
+      "identifier": "1370300350",
+      "faxNumber": "03-6807-4883",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・年末年始",
+      "_town": "赤坂",
+      "_tags": [
+        "赤坂エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "青山介護ヘルパーズ",
+      "telephone": "03-6447-5273",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "赤坂8-13-24 赤坂檜町レジデンス107"
+      },
+      "parentOrganization": "（有）ニマ",
+      "identifier": "1370303560",
+      "faxNumber": "03-6447-5272",
+      "_hours": "9:30〜17:30",
+      "_closed": "夏季・年末年始",
+      "_town": "赤坂",
+      "_tags": [
+        "赤坂エリア",
+        "土日も受付",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "稲穂の里",
+      "telephone": "03-6432-5889",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "高輪4-11-24 ヒルズ高輪Ｂ101"
+      },
+      "parentOrganization": "（同）稲穂",
+      "identifier": "1370305359",
+      "faxNumber": "03-6432-5889",
+      "_hours": "9:00〜18:00",
+      "_closed": "日",
+      "_town": "高輪",
+      "_tags": [
+        "高輪エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "キューピット",
+      "telephone": "03-6877-0584",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "海岸3-2-9 サンハイム田町302"
+      },
+      "parentOrganization": "（株）クイック",
+      "identifier": "1370302802",
+      "faxNumber": "03-3457-8086",
+      "_hours": "9:00〜17:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "海岸",
+      "_tags": [
+        "海岸エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ポム",
+      "telephone": "03-5419-6970",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "芝2-27-8 芝マンション403"
+      },
+      "parentOrganization": "（株）ピースオブマインド",
+      "identifier": "1370302752",
+      "faxNumber": "03-5419-6980",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・夏季・年末年始",
+      "_town": "芝",
+      "_tags": [
+        "芝エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問介護ステーションさくら川",
+      "telephone": "03-3433-0184",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "新橋6-19-2"
+      },
+      "parentOrganization": "（社福）長岡福祉協会",
+      "identifier": "1370302349",
+      "faxNumber": "03-5733-2005",
+      "_hours": "8:30〜17:30",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "新橋",
+      "_tags": [
+        "新橋エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "Ｋ港ステーション",
+      "telephone": "03-3444-1733",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "白金台2-23-4"
+      },
+      "parentOrganization": "（有）コスモス港ステーション",
+      "identifier": "1370301671",
+      "faxNumber": "03-3444-2619",
+      "_hours": "24時間",
+      "_closed": "日・祝・年末年始",
+      "_town": "白金台",
+      "_tags": [
+        "白金台エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ハービー＆マックローリン・陽だまり介護センター",
+      "telephone": "03-3473-6896",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "高輪3-19-23-702"
+      },
+      "parentOrganization": "Ｈａｒｖｅｙ＆Ｍａｃｌａｕｒｉｎ ＮＰＯ法人",
+      "identifier": "1370303784",
+      "faxNumber": "03-5423-7410",
+      "_hours": "9:00〜17:00",
+      "_closed": "日・祝・年末年始",
+      "_town": "高輪",
+      "_tags": [
+        "高輪エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヘルパーステーション・あんしんサイト",
+      "telephone": "03-6435-0791",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "芝1-10-11 コスモ金杉橋ビル9階"
+      },
+      "parentOrganization": "（株）サンビジネス",
+      "identifier": "1370303891",
+      "faxNumber": "03-3455-5821",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "芝",
+      "_tags": [
+        "芝エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ベストケア",
+      "telephone": "03-5447-8873",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "白金台2-26-10 グリーンオーク高輪台3階"
+      },
+      "parentOrganization": "（株）ベストパートナー",
+      "identifier": "1370904748",
+      "faxNumber": "03-5447-8855",
+      "_hours": "10:00〜17:00",
+      "_closed": "土・日・祝・夏季・年末年始",
+      "_town": "白金台",
+      "_tags": [
+        "白金台エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "グッドライフケア訪問介護 港",
+      "telephone": "03-6441-0895",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "東麻布1-10-11 東麻布アベビル3階"
+      },
+      "parentOrganization": "（株）グッドライフケア東京",
+      "identifier": "1370303453",
+      "faxNumber": "03-6441-0896",
+      "_hours": "9:00〜18:00",
+      "_closed": "年中無休",
+      "_town": "東麻布",
+      "_tags": [
+        "東麻布エリア",
+        "年中無休",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヘルパーステーションレッズ",
+      "telephone": "03-5797-7253",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "赤坂6-4-19 サントミビル1階"
+      },
+      "parentOrganization": "（有）三辻商店",
+      "identifier": "1370304865",
+      "faxNumber": "03-5797-7254",
+      "_hours": "10:30〜18:00",
+      "_closed": "土・日・祝・夏季・年末年始",
+      "_town": "赤坂",
+      "_tags": [
+        "赤坂エリア",
+        "訪問介護"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "港区で訪問介護を使うには、まず何をすればいいですか？",
+      "a": "お住まいの地区を担当する「高齢者相談センター（地域包括支援センター）」に相談するのが最初の一歩です。要介護認定の申請方法から、ケアマネジャー（居宅介護支援事業所）の紹介まで無料で案内してもらえます。"
+    },
+    {
+      "q": "港区には訪問介護事業所が何件ありますか？",
+      "a": "2026年9月時点で、介護情報サイトの掲載ベースで約65件の訪問介護事業所が港区内にあります。本ページではそのうち20件を連絡先つきで掲載しています。全件は厚生労働省「介護サービス情報公表システム」で確認できます。"
+    },
+    {
+      "q": "訪問介護の自己負担はいくらくらいですか？",
+      "a": "港区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたります。自己負担1割の場合、身体介護20分以上30分未満で約278円、生活援助20分以上45分未満で約204円が目安です（各種加算は別途）。"
+    },
+    {
+      "q": "ヘルパーに家族の分の食事や庭の草むしりも頼めますか？",
+      "a": "介護保険の訪問介護では頼めません。訪問介護は利用者本人の生活に必要な支援に限られ、家族分の家事、来客対応、庭の手入れ、大掃除などは対象外です。保険外の自費サービスや家事代行を併用する方法があります。"
+    },
+    {
+      "q": "事業所は途中で変更できますか？",
+      "a": "変更できます。担当のケアマネジャーに相談すれば、ケアプランを見直したうえで別の訪問介護事業所に切り替えられます。相性やシフトの都合で変更する方は珍しくありません。"
+    },
+    {
+      "q": "要介護認定の結果が出る前でもサービスを使えますか？",
+      "a": "申請日にさかのぼってサービスを利用できる「暫定ケアプラン」という仕組みがあります。ただし想定より低い介護度で認定された場合、超過分が全額自己負担になるリスクがあります。利用を急ぐ場合は、必ずケアマネジャーとリスクを確認したうえで進めてください。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}takuhai-bento/tokyo/minato/\">港区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}koreisha-chintai/tokyo/minato/\">港区の高齢者可賃貸<small>断られない部屋探し</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/minato/\">港区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/minato/\">港区のデイサービス<small>通所介護</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/minato/\">港区の見守りサービス<small>ひとり暮らしの安否確認</small></a>\n      <a href=\"{{ROOT}}kaigo-taxi/tokyo/minato/\">港区の介護タクシー<small>通院・外出の送迎</small></a>",
+  "nearby_heading": "近隣エリアの訪問介護",
+  "nearby": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/chiyoda/\">千代田区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/chuo/\">中央区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/shinagawa/\">品川区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/shibuya/\">渋谷区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/shinjuku/\">新宿区</a>",
+  "sources": [
+    "厚生労働省「介護事業所・生活関連情報検索（介護サービス情報公表システム）」",
+    "港区「高齢者相談センター一覧」",
+    "港区「要介護・要支援認定の申請からサービス利用までの流れ」",
+    "令和6年度介護報酬改定 訪問介護 基本報酬単位数／介護報酬の地域区分（1級地・1単位11.40円）",
+    "日本郵便 郵便番号データにもとづく港区の町域一覧",
+    "区内事業所数の目安：ハートページナビ／LIFULL介護 各掲載件数（2026年9月時点）"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>どこに相談すればいい？</h4>\n        <p>介護がはじめての方は、まず地域の相談窓口へ。無料で手続きを案内してもらえます。</p>\n        <a class=\"btn\" href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方を見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>港区内の訪問介護事業所は約65件</li>\n          <li>港区は1級地（1単位11.40円）</li>\n          <li>身体介護30分未満で約278円（1割）</li>\n          <li>最初の相談は高齢者相談センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/caremanager/\">ケアマネジャーの選び方</a></li>\n          <li><a href=\"{{ROOT}}guide/kubun-shikyu-gendo/\">区分支給限度基準額とは</a></li>\n          <li><a href=\"{{ROOT}}guide/jihi-service/\">介護保険外サービスの相場</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s5\">利用の流れ</a>",
+  "hero_image": "assets/ogp-houmon-kaigo.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "minato"
+  }
+}

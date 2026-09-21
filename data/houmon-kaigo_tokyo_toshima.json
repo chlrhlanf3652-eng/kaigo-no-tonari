@@ -1,0 +1,521 @@
+{
+  "slug": "houmon-kaigo_tokyo_toshima",
+  "category": {
+    "id": "houmon-kaigo",
+    "name": "訪問介護",
+    "path": "/houmon-kaigo/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "toshima",
+    "city_name": "豊島区"
+  },
+  "seo": {
+    "title": "豊島区の訪問介護20事業所｜料金と選び方【2026年9月更新】",
+    "description": "東京都豊島区の訪問介護（ホームヘルプ）事業所20件を連絡先つきで掲載。区内約61件の中から選ぶための料金の目安、頼めること・頼めないこと、高齢者総合相談センターへの相談から利用開始までの流れを解説します。",
+    "canonical": "https://kaigonotonari.com/houmon-kaigo/tokyo/toshima/",
+    "og_title": "豊島区の訪問介護事業所一覧｜料金の目安と選び方",
+    "og_description": "豊島区の訪問介護事業所20件を掲載。料金の目安、できること・できないこと、利用開始までの流れを解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-houmon-kaigo.jpg"
+  },
+  "h1": "豊島区の訪問介護事業所一覧｜料金の目安と選び方",
+  "published": "2026-09-21",
+  "modified": "2026-09-21",
+  "count_label": "掲載：20事業所",
+  "lead": "東京都豊島区で訪問介護（ホームヘルプ）を探している方へ。区内にある約61件の事業所から20件を連絡先つきで掲載し、あわせて自己負担額の目安、ヘルパーに頼めること・頼めないこと、相談から利用開始までの流れをまとめました。はじめて介護保険を使う方は、まず「高齢者総合相談センター」への相談から始めるのが近道です。",
+  "listing_note": "豊島区内の訪問介護事業所から20件を掲載しています（2026年9月時点）。区内には約61件の事業所があり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "よつばケアセンター",
+      "telephone": "03-5972-1483",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "巣鴨3-31-2 アルカディア篠Ｂ305"
+      },
+      "parentOrganization": "（株）よつば",
+      "identifier": "1371605849",
+      "faxNumber": "03-5972-1484",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "巣鴨",
+      "_tags": [
+        "巣鴨エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "さわやかケアポートとしま・訪問介護",
+      "telephone": "03-5907-4293",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "北大塚1-12-15 協同興業北大塚ビル"
+      },
+      "parentOrganization": "ウエルシアパートナーズ（株）",
+      "identifier": "1371602994",
+      "faxNumber": "03-5907-3821",
+      "_hours": "9:00〜17:30",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "北大塚",
+      "_tags": [
+        "北大塚エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "バリアフリーサポート巣鴨訪問介護事業所",
+      "telephone": "03-5961-3441",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "巣鴨2-4-2 岡田ビル705"
+      },
+      "parentOrganization": "（有）バリアフリー・サポート",
+      "identifier": "1371600873",
+      "faxNumber": "03-5961-3442",
+      "_hours": "9:00〜19:00",
+      "_closed": "年末年始",
+      "_town": "巣鴨",
+      "_tags": [
+        "巣鴨エリア",
+        "土日も受付",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アクセスポイント池袋",
+      "telephone": "03-5950-0231",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "池袋2-55-13 合田ビル1階"
+      },
+      "parentOrganization": "（株）アライブ",
+      "identifier": "1371602085",
+      "faxNumber": "03-5950-0232",
+      "_hours": "9:00〜18:30",
+      "_closed": "年末年始",
+      "_town": "池袋",
+      "_tags": [
+        "池袋エリア",
+        "土日も受付",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "リラス訪問介護センター",
+      "telephone": "03-4550-1116",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "東池袋1-23-8 東池袋ＩＳＫビル7階"
+      },
+      "parentOrganization": "（株）フロンティア",
+      "identifier": "1371605732",
+      "faxNumber": "03-6629-6281",
+      "_hours": "9:00〜19:00",
+      "_closed": "年中無休",
+      "_town": "東池袋",
+      "_tags": [
+        "東池袋エリア",
+        "年中無休",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアリッツ椎名町",
+      "telephone": "03-6908-3752",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "南長崎2-5-2 コレクティフイリデッサン101"
+      },
+      "parentOrganization": "（株）ケアリッツ・アンド・パートナーズ",
+      "identifier": "1371605856",
+      "faxNumber": "03-6908-3753",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "南長崎",
+      "_tags": [
+        "南長崎エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あい介護",
+      "telephone": "03-5981-8532",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "北大塚3-32-2 浅野ビル301"
+      },
+      "parentOrganization": "（株）あい介護",
+      "identifier": "1371705391",
+      "faxNumber": "03-5981-8532",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "北大塚",
+      "_tags": [
+        "北大塚エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "東池袋桑の実園ヘルパーステーション",
+      "telephone": "03-5810-3100",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "東池袋5-39-18"
+      },
+      "parentOrganization": "（社福）桑の実園福祉会",
+      "identifier": "1371606086",
+      "faxNumber": "03-5928-1361",
+      "_hours": "9:00〜18:00",
+      "_closed": "日・年末年始",
+      "_town": "東池袋",
+      "_tags": [
+        "東池袋エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "西池袋ホームヘルプサービス",
+      "telephone": "03-5843-3360",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "西池袋3-33-6 ＳＨＫビル2階"
+      },
+      "parentOrganization": "（同）倭ケアサービス",
+      "identifier": "1371605427",
+      "faxNumber": "03-5843-3360",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・年末年始",
+      "_town": "西池袋",
+      "_tags": [
+        "西池袋エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ラック訪問介護",
+      "telephone": "03-5953-5310",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "南大塚3-44-13 クレスト南大塚ビル602"
+      },
+      "parentOrganization": "（株）ラック・メディカルサービス",
+      "identifier": "1371605930",
+      "faxNumber": "03-3982-8150",
+      "_hours": "9:00〜18:00",
+      "_closed": "年中無休",
+      "_town": "南大塚",
+      "_tags": [
+        "南大塚エリア",
+        "年中無休",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "いずみ介護センター",
+      "telephone": "03-5926-7722",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "西池袋4-28-10"
+      },
+      "parentOrganization": "（株）いずみ介護センター",
+      "identifier": "1371606177",
+      "faxNumber": "03-5926-7897",
+      "_hours": "9:00〜18:00",
+      "_closed": "日",
+      "_town": "西池袋",
+      "_tags": [
+        "西池袋エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "おおきなき豊島",
+      "telephone": "03-5956-3630",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "南大塚3-51-2 大塚斉藤ビル201"
+      },
+      "parentOrganization": "（株）日本エルダリーケアサービス",
+      "identifier": "1371605625",
+      "faxNumber": "03-5956-3635",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "南大塚",
+      "_tags": [
+        "南大塚エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアフレンド豊島",
+      "telephone": "03-5917-0186",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "長崎2-4-9"
+      },
+      "parentOrganization": "（有）ケアフレンド",
+      "identifier": "1371602309",
+      "faxNumber": "03-5917-0189",
+      "_hours": "9:00〜18:00",
+      "_closed": "日・年末年始",
+      "_town": "長崎",
+      "_tags": [
+        "長崎エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "しずかヘルパーステーション",
+      "telephone": "03-6912-1929",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "南大塚1-46-18 ハイツタカノ105"
+      },
+      "parentOrganization": "（株）ＡｎｙｗｈｅｒｅＤｏｏｒ",
+      "identifier": "1371606185",
+      "faxNumber": "03-6912-1935",
+      "_hours": "24時間",
+      "_closed": "夏季・年末年始",
+      "_town": "南大塚",
+      "_tags": [
+        "南大塚エリア",
+        "土日も受付",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "くれあ訪問介護",
+      "telephone": "03-5957-7735",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "東池袋3-15-2 ライオンズマンション池袋708"
+      },
+      "parentOrganization": "（株）クレアフューチャー",
+      "identifier": "1371605641",
+      "faxNumber": "03-6385-7520",
+      "_hours": "9:00〜18:00",
+      "_closed": "年中無休",
+      "_town": "東池袋",
+      "_tags": [
+        "東池袋エリア",
+        "年中無休",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問介護事業所ケアリス",
+      "telephone": "03-5980-8707",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "駒込2-7-16 シェルハウス駒込501"
+      },
+      "parentOrganization": "（株）ＥＺＡＫＩ",
+      "identifier": "1371606144",
+      "faxNumber": "03-5980-8708",
+      "_hours": "24時間",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "駒込",
+      "_tags": [
+        "駒込エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケア２１ 巣鴨",
+      "telephone": "03-5940-0106",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "巣鴨1-24-3 小島ビル1階"
+      },
+      "parentOrganization": "（株）ケア２１",
+      "identifier": "1371605880",
+      "faxNumber": "03-5940-0107",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "巣鴨",
+      "_tags": [
+        "巣鴨エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アースサポート豊島",
+      "telephone": "03-5974-3400",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "上池袋1-7-7"
+      },
+      "parentOrganization": "アースサポート（株）",
+      "identifier": "1371700392",
+      "faxNumber": "03-5974-3211",
+      "_hours": "8:30〜17:30",
+      "_closed": "年中無休",
+      "_town": "上池袋",
+      "_tags": [
+        "上池袋エリア",
+        "年中無休",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアステーション オープラス",
+      "telephone": "03-3972-2680",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "要町2-4-8 大恵ビル1階"
+      },
+      "parentOrganization": "（有）オープラス",
+      "identifier": "1371602960",
+      "faxNumber": "03-3972-2681",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "要町",
+      "_tags": [
+        "要町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アミカ池袋介護センター",
+      "telephone": "03-5956-2066",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "池袋2-55-12 セピア池袋Ⅱ-705"
+      },
+      "parentOrganization": "ＡＬＳＯＫ介護（株）",
+      "identifier": "1371603653",
+      "faxNumber": "03-3985-6313",
+      "_hours": "8:30〜17:30",
+      "_closed": "土・日・年末年始",
+      "_town": "池袋",
+      "_tags": [
+        "池袋エリア",
+        "訪問介護"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "豊島区で訪問介護を使うには、まず何をすればいいですか？",
+      "a": "お住まいの地区を担当する「高齢者総合相談センター（地域包括支援センター）」に相談するのが最初の一歩です。要介護認定の申請方法から、ケアマネジャー（居宅介護支援事業所）の紹介まで無料で案内してもらえます。"
+    },
+    {
+      "q": "豊島区には訪問介護事業所が何件ありますか？",
+      "a": "2026年9月時点で、介護情報サイトの掲載ベースで約61件の訪問介護事業所が豊島区内にあります。本ページではそのうち20件を連絡先つきで掲載しています。全件は厚生労働省「介護サービス情報公表システム」で確認できます。"
+    },
+    {
+      "q": "訪問介護の自己負担はいくらくらいですか？",
+      "a": "豊島区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたります。自己負担1割の場合、身体介護20分以上30分未満で約278円、生活援助20分以上45分未満で約204円が目安です（各種加算は別途）。"
+    },
+    {
+      "q": "ヘルパーに家族の分の食事や庭の草むしりも頼めますか？",
+      "a": "介護保険の訪問介護では頼めません。訪問介護は利用者本人の生活に必要な支援に限られ、家族分の家事、来客対応、庭の手入れ、大掃除などは対象外です。保険外の自費サービスや家事代行を併用する方法があります。"
+    },
+    {
+      "q": "事業所は途中で変更できますか？",
+      "a": "変更できます。担当のケアマネジャーに相談すれば、ケアプランを見直したうえで別の訪問介護事業所に切り替えられます。相性やシフトの都合で変更する方は珍しくありません。"
+    },
+    {
+      "q": "要介護認定の結果が出る前でもサービスを使えますか？",
+      "a": "申請日にさかのぼってサービスを利用できる「暫定ケアプラン」という仕組みがあります。ただし想定より低い介護度で認定された場合、超過分が全額自己負担になるリスクがあります。利用を急ぐ場合は、必ずケアマネジャーとリスクを確認したうえで進めてください。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}takuhai-bento/tokyo/toshima/\">豊島区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}koreisha-chintai/tokyo/toshima/\">豊島区の高齢者可賃貸<small>断られない部屋探し</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/toshima/\">豊島区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/toshima/\">豊島区のデイサービス<small>通所介護</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/toshima/\">豊島区の見守りサービス<small>ひとり暮らしの安否確認</small></a>\n      <a href=\"{{ROOT}}kaigo-taxi/tokyo/toshima/\">豊島区の介護タクシー<small>通院・外出の送迎</small></a>",
+  "nearby_heading": "近隣エリアの訪問介護",
+  "nearby": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/shinjuku/\">新宿区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/bunkyo/\">文京区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/kita/\">北区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/itabashi/\">板橋区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/nerima/\">練馬区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/nakano/\">中野区</a>",
+  "sources": [
+    "厚生労働省「介護事業所・生活関連情報検索（介護サービス情報公表システム）」",
+    "豊島区「高齢者総合相談センター一覧」",
+    "豊島区「要介護・要支援認定の申請からサービス利用までの流れ」",
+    "令和6年度介護報酬改定 訪問介護 基本報酬単位数／介護報酬の地域区分（1級地・1単位11.40円）",
+    "日本郵便 郵便番号データにもとづく豊島区の町域一覧",
+    "区内事業所数の目安：ハートページナビ／LIFULL介護 各掲載件数（2026年9月時点）"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>どこに相談すればいい？</h4>\n        <p>介護がはじめての方は、まず地域の相談窓口へ。無料で手続きを案内してもらえます。</p>\n        <a class=\"btn\" href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方を見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>豊島区内の訪問介護事業所は約61件</li>\n          <li>豊島区は1級地（1単位11.40円）</li>\n          <li>身体介護30分未満で約278円（1割）</li>\n          <li>最初の相談は高齢者総合相談センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/caremanager/\">ケアマネジャーの選び方</a></li>\n          <li><a href=\"{{ROOT}}guide/kubun-shikyu-gendo/\">区分支給限度基準額とは</a></li>\n          <li><a href=\"{{ROOT}}guide/jihi-service/\">介護保険外サービスの相場</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s5\">利用の流れ</a>",
+  "hero_image": "assets/ogp-houmon-kaigo.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "toshima"
+  }
+}
