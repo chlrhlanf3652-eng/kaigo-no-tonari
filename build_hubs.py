@@ -31,6 +31,7 @@ OG = f"{SITE}/assets/ogp-houmon-kaigo.jpg"
 PREF_OGP = {
     ("houmon-kaigo", "tokyo"): "ogp-tokyo23.jpg",
     ("takuhai-bento", "tokyo"): "ogp-tokyo-bento.jpg",
+    ("koreisha-chintai", "tokyo"): "ogp-tokyo-chintai.jpg",
 }
 
 
