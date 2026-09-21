@@ -33,7 +33,7 @@ def pages():
 def main():
     built = {str(p.parent.relative_to(BASE)).replace("\\", "/").strip(".").strip("/")
              for p in pages()}
-    changed = total = 0
+    changed = total = fallbacks = 0
     missing = set()
 
     for p in pages():
@@ -41,7 +41,7 @@ def main():
         html = p.read_text(encoding="utf-8")
 
         def repl(m):
-            nonlocal total
+            nonlocal total, fallbacks
             before, href, after, inner = m.groups()
             target = posixpath.normpath(posixpath.join(here, href)).lstrip("./")
             target = "" if target == "." else target
@@ -51,6 +51,20 @@ def main():
             total += 1
             cls = re.search(r'class="([^"]*)"', before + after)
             extra = f' {cls.group(1)}' if cls else ""
+
+            # 市区町村ページが未作成でも、上位（都道府県 → カテゴリ）が
+            # あるならそこへ逃がす。行き止まりにせず、必ずどこかに着地させる。
+            up = target.split("/")
+            while len(up) > 1:
+                up.pop()
+                cand = "/".join(up)
+                if cand in built and cand != here:
+                    rel = posixpath.relpath(cand, here or ".")
+                    rel = "" if rel == "." else rel + "/"
+                    fallbacks += 1
+                    return (f'<a class="soon-link{extra}" href="{rel}">{inner}'
+                            f'<em class="soon-tag">エリア準備中</em></a>')
+
             return (f'<span class="soon-link{extra}" aria-disabled="true">{inner}'
                     f'<em class="soon-tag">準備中</em></span>')
 
@@ -59,7 +73,8 @@ def main():
             p.write_text(out, encoding="utf-8")
             changed += 1
 
-    print(f"postprocess: {changed} pages updated, {total} links marked 準備中")
+    print(f"postprocess: {changed} pages updated, {total} links marked 準備中 "
+          f"({fallbacks} は上位ページへ誘導)")
     if missing:
         print("\n未作成（リンクを準備中表示にしたページ）:")
         for m in sorted(missing):

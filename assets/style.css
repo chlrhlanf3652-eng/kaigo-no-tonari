@@ -221,6 +221,10 @@ figure.fig figcaption{font-size:13px;color:var(--ink2);padding:10px 16px;border-
 
 /* ---- 未作成ページ（リンクにしない「準備中」表示） ---- */
 .soon-link{color:#93a29e;text-decoration:none;cursor:default}
+/* 上位ページへ逃がしたリンクは押せるので、押せると分かる見た目にする */
+a.soon-link{cursor:pointer}
+a.soon-link:hover{color:var(--c);text-decoration:underline}
+a.soon-link:hover .soon-tag{background:#d9e6e2;color:#4c6b63}
 .soon-tag{font-style:normal;font-size:11px;background:#e7ebea;color:#8a9793;border-radius:99px;padding:1px 7px;margin-left:6px;white-space:nowrap;vertical-align:1px}
 .lg .soon-link{display:block;border:1px dashed var(--line);border-radius:8px;padding:11px 14px;font-size:15px;background:#fafbfb}
 .lg .soon-link small{display:block;color:#a6b2ae;font-size:12.5px}
