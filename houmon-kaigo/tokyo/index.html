@@ -66,8 +66,14 @@ try{var _fs=localStorage.getItem("kt-fs");if(_fs==="l")document.documentElement.
  ]
 }
 </script>
+<!-- Google tag (gtag.js) — 計測。描画は待たせない -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9M1VPRMRSD"></script>
+<script>
+window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
+</script>
 </head>
-<body>
+<body data-cat="houmon-kaigo" data-area="tokyo" data-ptype="pref">
 <a class="skip" href="#main">本文へスキップ</a>
 <div class="pr">本サイトはアフィリエイトプログラムを利用しており、広告（PR）を含みます。掲載情報は各事業者・自治体の公表情報をもとに作成しています。</div>
 
@@ -227,5 +233,6 @@ try{var _fs=localStorage.getItem("kt-fs");if(_fs==="l")document.documentElement.
   });
 })();
 </script>
+<script src="../../assets/measure.js" defer></script>
 </body>
 </html>

@@ -154,7 +154,7 @@ def area_grid(entries, href_of):
 
 
 def page(out_rel, root, title, desc, h1, lead, breadcrumb, content, canonical, jsonld,
-         ogp=None, hero=None):
+         ogp=None, hero=None, cat_id="", area_id="", ptype="page"):
     tpl = (BASE / "templates" / "hub.html").read_text(encoding="utf-8")
     repl = {
         "{{TITLE}}": title, "{{DESCRIPTION}}": desc, "{{OG_TITLE}}": h1,
@@ -164,6 +164,7 @@ def page(out_rel, root, title, desc, h1, lead, breadcrumb, content, canonical, j
                      f'width="{hero_wh(hero)[0]}" height="{hero_wh(hero)[1]}" '
                      f'loading="eager" fetchpriority="high">' if hero else ""),
         "{{BREADCRUMB}}": breadcrumb, "{{CONTENT}}": content,
+        "{{CAT_ID}}": cat_id, "{{AREA_ID}}": area_id, "{{PTYPE}}": ptype,
     }
     html = tpl
     for k, v in repl.items():
@@ -238,7 +239,8 @@ def build_static():
         content = "  " + partial(key, root).strip() + "\n"
         page(f"{slug}/index.html", root, title, desc, name, lead,
              crumbs(crumb), content, url,
-             ld(graph), ogp=f"{SITE}/assets/{ogp}" if ogp else None, hero=ogp)
+             ld(graph), ogp=f"{SITE}/assets/{ogp}" if ogp else None, hero=ogp,
+             ptype="static", area_id=slug)
 
 
 # ---------------------------------------------------------------- site top
@@ -268,7 +270,7 @@ def build_top():
          "訪問介護・高齢者向け宅配弁当・高齢者が借りられる賃貸を、市区町村ごとにまとめた情報サイトです。料金の目安、制度の使い方、地域の相談窓口まで、家族がはじめて介護に向き合うときに必要な情報を集めました。",
          "介護のことは、となりで調べる。",
          "親の暮らしを支えるサービスは、地域ごとに事業者も制度も違います。かいごのとなりは、<strong>市区町村単位</strong>で使える事業者と公的な相談窓口をまとめています。",
-         crumbs([("ホーム", None)]), content, f"{SITE}/", ld(graph))
+         crumbs([("ホーム", None)]), content, f"{SITE}/", ld(graph), ptype="top")
 
 
 # ------------------------------------------------------------- category hub
@@ -302,7 +304,8 @@ def build_hub(cat_id):
     page(f"{cat_id}/index.html", root, c["hub"]["title"], c["hub"]["description"],
          c["hub"]["h1"], c["hub"]["lead"],
          crumbs([("ホーム", root), (c["name"], None)]), content, url, ld(graph),
-         ogp=f"{SITE}/assets/{ogp}" if ogp else None, hero=ogp)
+         ogp=f"{SITE}/assets/{ogp}" if ogp else None, hero=ogp,
+         cat_id=cat_id, ptype="hub")
 
 
 # ---------------------------------------------------------- prefecture page
@@ -347,7 +350,8 @@ def build_pref(cat_id, pref_id):
          f"{pref['name']}の{c['name']}", c["hub"]["lead"],
          crumbs([("ホーム", root), (c["name"], f"{root}{cat_id}/"), (pref["name"], None)]),
          content, url, ld(graph),
-         ogp=f"{SITE}/assets/{hero}" if hero else None, hero=hero)
+         ogp=f"{SITE}/assets/{hero}" if hero else None, hero=hero,
+         cat_id=cat_id, area_id=pref_id, ptype="pref")
 
 
 
@@ -390,6 +394,7 @@ def build_404():
         "{{H1}}": "お探しのページが見つかりません",
         "{{LEAD}}": "URLが変わったか、まだ公開していないページの可能性があります。下の一覧からお探しください。", "{{HERO}}": "",
         "{{BREADCRUMB}}": '      <li><a href="/">ホーム</a></li>\n      <li>404</li>',
+        "{{CAT_ID}}": "", "{{AREA_ID}}": "", "{{PTYPE}}": "404",
         "{{CONTENT}}": content,
     }
     html = tpl
