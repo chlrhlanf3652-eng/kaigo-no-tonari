@@ -26,7 +26,7 @@ BASE = pathlib.Path(__file__).parent
 SITE = "https://kaigonotonari.com"
 S = json.loads((BASE / "data" / "site.json").read_text(encoding="utf-8"))
 CATS = {c["id"]: c for c in S["categories"]}
-OG = f"{SITE}/assets/ogp-houmon-kaigo.jpg"
+OG = f"{SITE}/assets/ogp-home.jpg"
 # 都道府県ページ専用のカバー画像
 PREF_OGP = {
     ("houmon-kaigo", "tokyo"): "ogp-tokyo23.jpg",
@@ -299,7 +299,8 @@ def build_top():
          "訪問介護・高齢者向け宅配弁当・高齢者が借りられる賃貸を、市区町村ごとにまとめた情報サイトです。料金の目安、制度の使い方、地域の相談窓口まで、家族がはじめて介護に向き合うときに必要な情報を集めました。",
          "介護のことは、となりで調べる。",
          "親の暮らしを支えるサービスは、地域ごとに事業者も制度も違います。かいごのとなりは、<strong>市区町村単位</strong>で使える事業者と公的な相談窓口をまとめています。",
-         crumbs([("ホーム", None)]), content, f"{SITE}/", ld(graph), ptype="top")
+         crumbs([("ホーム", None)]), content, f"{SITE}/", ld(graph),
+         hero="ogp-home.jpg", ptype="top")
 
 
 # ------------------------------------------------------------- category hub
