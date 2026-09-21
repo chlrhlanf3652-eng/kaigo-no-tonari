@@ -27,6 +27,8 @@ SITE = "https://kaigonotonari.com"
 S = json.loads((BASE / "data" / "site.json").read_text(encoding="utf-8"))
 CATS = {c["id"]: c for c in S["categories"]}
 OG = f"{SITE}/assets/ogp-houmon-kaigo.jpg"
+# 都道府県ページ専用のカバー画像
+PREF_OGP = {("houmon-kaigo", "tokyo"): "ogp-tokyo23.jpg"}
 
 
 def live_areas(cat_id, pref_id=None):
@@ -37,6 +39,93 @@ def live_areas(cat_id, pref_id=None):
 
 def has_data(cat_id, pref_id, city_id):
     return (BASE / "data" / f"{cat_id}_{pref_id}_{city_id}.json").exists()
+
+
+
+# ------------------------------------------------- 東京23区の事業所数データ
+# 出典: LIFULL介護 各区の訪問介護掲載件数（2026-09-21 確認）。
+#       相談窓口の名称は各区の公表情報にもとづく。
+# 数値は公的な指定事業所数そのものではなく「掲載件数の目安」である点に注意。
+TOKYO23 = [
+    ("setagaya", "世田谷区", 219, "あんしんすこやかセンター"),
+    ("adachi",   "足立区",   194, "地域包括支援センター"),
+    ("nerima",   "練馬区",   180, "地域包括支援センター"),
+    ("itabashi", "板橋区",   143, "おとしより相談センター"),
+    ("edogawa",  "江戸川区", 137, "熟年相談室"),
+    ("katsushika", "葛飾区", 136, "高齢者総合相談センター"),
+    ("suginami", "杉並区",   132, "ケア24"),
+    ("ota",      "大田区",   125, "地域包括支援センター（さわやかサポート）"),
+    ("kita",     "北区",      82, "高齢者あんしんセンター"),
+    ("shinjuku", "新宿区",    76, "高齢者総合相談センター"),
+    ("koto",     "江東区",    76, "長寿サポートセンター"),
+    ("nakano",   "中野区",    72, "地域包括支援センター"),
+    ("minato",   "港区",      65, "高齢者相談センター"),
+    ("toshima",  "豊島区",    61, "高齢者総合相談センター"),
+    ("sumida",   "墨田区",    58, "高齢者支援総合センター"),
+    ("taito",    "台東区",    54, "地域包括支援センター"),
+    ("shinagawa","品川区",    53, "在宅介護支援センター"),
+    ("meguro",   "目黒区",    48, "包括支援センター"),
+    ("arakawa",  "荒川区",    48, "地域包括支援センター"),
+    ("shibuya",  "渋谷区",    44, "地域包括支援センター"),
+    ("chuo",     "中央区",    33, "おとしより相談センター"),
+    ("bunkyo",   "文京区",    31, "高齢者あんしん相談センター"),
+    ("chiyoda",  "千代田区",  17, "高齢者あんしんセンター"),
+]
+
+
+def tokyo23_table(cat_id):
+    """東京23区の事業所数と相談窓口の呼称を一覧にする。公開済みの区はリンクにする。"""
+    total = sum(x[2] for x in TOKYO23)
+    rows = []
+    for cid, name, cnt, center in TOKYO23:
+        if has_data(cat_id, "tokyo", cid):
+            cell = f'<a href="{cid}/">{name}</a>'
+            state = '<span class="ok">掲載中</span>'
+        else:
+            cell = name
+            state = '<span class="soon-tag">準備中</span>'
+        rows.append(f'      <tr><th>{cell}</th><td class="num">{cnt}</td>'
+                    f'<td>{center}</td><td>{state}</td></tr>')
+    return (
+        '  <h2 id="tokyo23">東京23区の訪問介護事業所数と相談窓口の呼び名</h2>\n'
+        '  <p>同じ東京23区でも、事業所の数は区によって10倍以上の開きがあります。'
+        f'23区合計で約{total:,}件。あわせて、最初の相談先である地域包括支援センターは'
+        '区ごとに独自の愛称を使っていることが多く、これが「調べても出てこない」原因になります。'
+        'お住まいの区の呼び名をここで確認してください。</p>\n'
+        '  <div class="tw">\n'
+        '  <table>\n'
+        '    <caption class="tiny" style="text-align:left;padding-bottom:6px">'
+        '東京23区 訪問介護事業所数（多い順）と地域包括支援センターの呼称</caption>\n'
+        '    <thead><tr><th style="width:22%">区</th><th style="width:16%">事業所数の目安</th>'
+        '<th>最初の相談窓口の呼び名</th><th style="width:14%">当サイト</th></tr></thead>\n'
+        '    <tbody>\n' + "\n".join(rows) + '\n    </tbody>\n'
+        '  </table>\n'
+        '  </div>\n'
+        '  <p class="tiny">※事業所数は介護情報サイトの掲載件数（2026年9月時点）をもとにした目安で、'
+        '指定事業所数そのものではありません。休止中・新規指定の反映には時間差があります。'
+        '正確な数と一覧は厚生労働省「介護サービス情報公表システム」でご確認ください。</p>'
+    )
+
+
+def hero_wh(name, fallback=(1200, 630)):
+    """カバー画像の実寸を返す（width/height を書いてレイアウトシフトを防ぐ）。"""
+    try:
+        import struct
+        b = (BASE / "assets" / name).read_bytes()
+        if b[:8] == b"\x89PNG\r\n\x1a\n":
+            return struct.unpack(">II", b[16:24])
+        i = 2
+        while i < len(b) - 9:
+            if b[i] != 0xFF:
+                i += 1
+                continue
+            if b[i + 1] in (0xC0, 0xC1, 0xC2):
+                h, w = struct.unpack(">HH", b[i + 5:i + 9])
+                return w, h
+            i += 2 + struct.unpack(">H", b[i + 2:i + 4])[0]
+    except Exception:
+        pass
+    return fallback
 
 
 def crumbs(pairs):
@@ -68,6 +157,7 @@ def page(out_rel, root, title, desc, h1, lead, breadcrumb, content, canonical, j
         "{{CANONICAL}}": canonical, "{{OG_IMAGE}}": ogp or OG, "{{JSONLD}}": jsonld,
         "{{ROOT}}": root, "{{H1}}": h1, "{{LEAD}}": lead,
         "{{HERO}}": (f'<img class="hero-img" src="{root}assets/{hero}" alt="{h1}" '
+                     f'width="{hero_wh(hero)[0]}" height="{hero_wh(hero)[1]}" '
                      f'loading="eager" fetchpriority="high">' if hero else ""),
         "{{BREADCRUMB}}": breadcrumb, "{{CONTENT}}": content,
     }
@@ -226,6 +316,7 @@ def build_pref(cat_id, pref_id):
         f'  <p class="tiny">{pref["name"]}内で掲載中のエリアは{len(live)}件です。'
         '準備中のエリアは、掲載できる事業者情報がそろい次第の公開となります。</p>\n'
         + partial(f"pref_{cat_id}_{pref_id}", root)
+        .replace("{{TOKYO23}}", tokyo23_table(cat_id) if pref_id == "tokyo" else "")
         + f'\n  <h2 id="other">{pref["name"]}のほかのサービス</h2>\n  <div class="lg">'
         + "".join(f'<a href="{root}{o["id"]}/{pref_id}/">{pref["name"]}の{o["name"]}'
                   f'<small>{o["tagline"]}</small></a>'
@@ -244,18 +335,73 @@ def build_pref(cat_id, pref_id):
             {"@type": "ListItem", "position": 2, "name": c["name"], "item": f"{SITE}/{cat_id}/"},
             {"@type": "ListItem", "position": 3, "name": pref["name"]}]},
     ]
+    hero = PREF_OGP.get((cat_id, pref_id))
     page(f"{cat_id}/{pref_id}/index.html", root,
-         f"{pref['name']}の{c['name']}を市区町村から探す｜かいごのとなり",
+         f"{pref['name']}の{c['name']}を市区町村から探す｜掲載{len(live)}エリア【2026年9月更新】",
          f"{pref['name']}の{c['name']}を市区町村ごとにまとめています。{c['tagline']}。"
-         f"地域の相談窓口や料金の目安もあわせて確認できます。",
+         f"現在{len(live)}エリアを掲載中。地域の相談窓口の呼び名や料金の目安もあわせて確認できます。",
          f"{pref['name']}の{c['name']}", c["hub"]["lead"],
          crumbs([("ホーム", root), (c["name"], f"{root}{cat_id}/"), (pref["name"], None)]),
-         content, url, ld(graph))
+         content, url, ld(graph),
+         ogp=f"{SITE}/assets/{hero}" if hero else None, hero=hero)
+
+
+
+# ------------------------------------------------------------------ 404
+def build_404():
+    """GitHub Pages の 404 を自前のページに差し替える。
+
+    URL を手で削って辿る利用者（/houmon-kaigo/tokyo/xxx/ を打ち間違えるなど）が
+    素っ気ない標準404で離脱しないよう、その場から主要導線に戻れるようにする。
+    パスの深さが読めないので、リンクはすべてルート絶対パスで書く。
+    """
+    live = []
+    for cid in CATS:
+        for c in S["cities"].get("tokyo", []):
+            if has_data(cid, "tokyo", c["id"]):
+                live.append((f'/{cid}/tokyo/{c["id"]}/',
+                             f'{c["name"]}の{CATS[cid]["name"]}'))
+    live.sort()
+    content = (
+        '  <h2 id="cat">サービスから探す</h2>\n'
+        '  <div class="cats">'
+        + "".join(f'<a class="cat" href="/{c["id"]}/"><b>{c["name"]}</b>'
+                  f'<span>{c["tagline"]}</span></a>' for c in S["categories"])
+        + '</div>\n'
+        '  <h2 id="pages">公開中の市区町村ページ</h2>\n'
+        '  <div class="areas">'
+        + "".join(f'<a class="area live" href="{h}">{n}</a>' for h, n in live)
+        + '</div>\n'
+        '  <h2 id="help">それでも見つからないとき</h2>\n'
+        '  <p>介護がはじめての方は、お住まいの地域の相談窓口が確実です。'
+        '<a href="/guide/soudan-madoguchi/">相談窓口の探し方</a>をご覧ください。'
+        'リンク切れを見つけた場合は<a href="/contact/">お問い合わせ</a>からお知らせいただけると助かります。</p>\n'
+    )
+    tpl = (BASE / "templates" / "hub.html").read_text(encoding="utf-8")
+    repl = {
+        "{{TITLE}}": "ページが見つかりません｜かいごのとなり",
+        "{{DESCRIPTION}}": "お探しのページは見つかりませんでした。公開中のページ一覧からお探しください。",
+        "{{OG_TITLE}}": "ページが見つかりません", "{{CANONICAL}}": f"{SITE}/404.html",
+        "{{OG_IMAGE}}": OG, "{{JSONLD}}": ld([]), "{{ROOT}}": "/",
+        "{{H1}}": "お探しのページが見つかりません",
+        "{{LEAD}}": "URLが変わったか、まだ公開していないページの可能性があります。下の一覧からお探しください。", "{{HERO}}": "",
+        "{{BREADCRUMB}}": '      <li><a href="/">ホーム</a></li>\n      <li>404</li>',
+        "{{CONTENT}}": content,
+    }
+    html = tpl
+    for k, v in repl.items():
+        html = html.replace(k, v)
+    html = html.replace("{{ROOT}}", "/")
+    html = html.replace('<meta name="robots" content="index,follow,max-image-preview:large">',
+                        '<meta name="robots" content="noindex,follow">')
+    (BASE / "404.html").write_text(html, encoding="utf-8")
+    print(f"built  404.html  ({(BASE / '404.html').stat().st_size:,} bytes)")
 
 
 if __name__ == "__main__":
     build_top()
     build_static()
+    build_404()
     for cid in CATS:
         build_hub(cid)
         for pref in S["prefs"]:

@@ -12,7 +12,7 @@
 html{scroll-behavior:smooth}
 body{
   margin:0; background:#fff; color:var(--ink);
-  font-family:"Noto Sans JP","Hiragino Kaku Gothic ProN","Yu Gothic",Meiryo,sans-serif;
+  font-family:"Hiragino Sans","Hiragino Kaku Gothic ProN","Yu Gothic Medium","Yu Gothic",YuGothic,"Noto Sans JP","Meiryo",sans-serif;
   font-size:17px; line-height:1.9; -webkit-text-size-adjust:100%;
 }
 img{max-width:100%;height:auto}
@@ -128,7 +128,7 @@ footer a{color:#e5efec}
 .m1{background:var(--c);color:#fff}
 .m2{background:var(--a);color:#fff}
 @media(max-width:940px){.mcta{display:flex}}
-body{margin:0;background:#fff;color:var(--ink);font-family:"Noto Sans JP","Hiragino Kaku Gothic ProN","Yu Gothic",Meiryo,sans-serif;font-size:17px;line-height:1.9;-webkit-text-size-adjust:100%}
+body{margin:0;background:#fff;color:var(--ink);font-family:"Hiragino Sans","Hiragino Kaku Gothic ProN","Yu Gothic Medium","Yu Gothic",YuGothic,"Noto Sans JP","Meiryo",sans-serif;font-size:17px;line-height:1.9;-webkit-text-size-adjust:100%}
 .pr{background:#eef2f1;color:var(--ink2);font-size:12px;text-align:center;padding:5px 12px;line-height:1.6}
 header{border-bottom:1px solid var(--line);position:sticky;top:env(safe-area-inset-top,0px);background:#fff;z-index:20}
 .bc{background:var(--bg);border-bottom:1px solid var(--line)}
@@ -228,3 +228,14 @@ nav.main .soon-link{font-size:14px;padding:6px 10px}
 nav.main .soon-link .soon-tag,footer .soon-link .soon-tag{display:none}
 footer .soon-link{color:#7e918c}
 .cat.soon-link{display:flex;flex-direction:column;gap:6px;border:1px dashed var(--line);border-left:5px solid #cdd8d5;border-radius:var(--r);padding:18px 20px;background:#fafbfb}
+
+/* 一覧表の掲載状況バッジ */
+.ok{font-size:11px;background:#e2f0ec;color:#0d5344;border-radius:99px;padding:1px 8px;white-space:nowrap}
+table .soon-tag{margin-left:0}
+
+/* 404 ページ */
+.nf{text-align:center;padding:48px 0 8px}
+.nf .code{font-size:64px;font-weight:700;color:var(--c);line-height:1;margin:0 0 8px}
+.nf h1{border:0;padding:0;margin:0 0 10px;font-size:24px}
+.nf p{margin:0 auto;max-width:34em}
+@media(max-width:600px){.nf{padding:28px 0 4px}.nf .code{font-size:48px}}

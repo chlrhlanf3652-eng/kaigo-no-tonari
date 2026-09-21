@@ -1,0 +1,48 @@
+# かいごのとなり
+
+> 日本の高齢者と家族のための地域サービス情報サイト。訪問介護・高齢者向け宅配弁当・
+> 高齢者が借りられる賃貸などを、市区町村単位でまとめています。
+
+## このサイトの情報の出所
+
+- 事業者情報は厚生労働省「介護サービス情報公表システム」、各自治体、各事業者の公表情報にもとづきます。
+- 料金は令和6年度介護報酬改定の単位数と、介護報酬の地域区分（東京23区＝1級地・訪問介護1単位11.40円）から算出した目安です。
+- すべてのページに出典と最終確認日を記載しています。事業者の写真・口コミの無断転載は行っていません。
+- 広告（アフィリエイト）を含みますが、掲載順に報酬は反映していません（景品表示法のステルスマーケティング規制に対応）。
+
+## 市区町村ページ（事業者一覧）
+
+- [江戸川区の訪問介護20事業所｜料金と選び方【2026年9月更新】](https://kaigonotonari.com/houmon-kaigo/tokyo/edogawa/)
+- [板橋区の訪問介護20事業所｜料金と選び方【2026年9月更新】](https://kaigonotonari.com/houmon-kaigo/tokyo/itabashi/)
+- [練馬区の訪問介護20事業所｜料金と選び方【2026年9月更新】](https://kaigonotonari.com/houmon-kaigo/tokyo/nerima/)
+- [大田区の訪問介護20事業所｜料金と選び方【2026年9月更新】](https://kaigonotonari.com/houmon-kaigo/tokyo/ota/)
+- [世田谷区の訪問介護12事業所｜料金と選び方【2026年9月更新】](https://kaigonotonari.com/houmon-kaigo/tokyo/setagaya/)
+- [杉並区の訪問介護20事業所｜料金と選び方【2026年9月更新】](https://kaigonotonari.com/houmon-kaigo/tokyo/suginami/)
+- [世田谷区の高齢者可賃貸｜相談窓口4件【2026年9月更新】](https://kaigonotonari.com/koreisha-chintai/tokyo/setagaya/)
+- [世田谷区の高齢者向け宅配弁当6社｜料金比較【2026年9月更新】](https://kaigonotonari.com/takuhai-bento/tokyo/setagaya/)
+
+## カテゴリ・都道府県ページ
+
+- [訪問介護（ホームヘルプ）の事業所を地域から探す｜かいごのとなり](https://kaigonotonari.com/houmon-kaigo/)
+- [東京都の訪問介護を市区町村から探す｜掲載6エリア【2026年9月更新】](https://kaigonotonari.com/houmon-kaigo/tokyo/)
+- [高齢者が借りられる賃貸の探し方を地域から調べる｜かいごのとなり](https://kaigonotonari.com/koreisha-chintai/)
+- [東京都の高齢者可の賃貸を市区町村から探す｜掲載1エリア【2026年9月更新】](https://kaigonotonari.com/koreisha-chintai/tokyo/)
+- [高齢者の見守りサービスを地域から探す｜かいごのとなり](https://kaigonotonari.com/mimamori/)
+- [高齢者向け宅配弁当・配食サービスを地域から探す｜かいごのとなり](https://kaigonotonari.com/takuhai-bento/)
+- [東京都の宅配弁当・配食サービスを市区町村から探す｜掲載1エリア【2026年9月更新】](https://kaigonotonari.com/takuhai-bento/tokyo/)
+
+## サイト情報・ガイド
+
+- [運営者情報｜かいごのとなり](https://kaigonotonari.com/about/)
+- [広告について｜かいごのとなり](https://kaigonotonari.com/ad-policy/)
+- [お問い合わせ・掲載依頼｜かいごのとなり](https://kaigonotonari.com/contact/)
+- [免責事項｜かいごのとなり](https://kaigonotonari.com/disclaimer/)
+- [介護制度ガイド｜かいごのとなり](https://kaigonotonari.com/guide/)
+- [介護の相談窓口の探し方｜かいごのとなり](https://kaigonotonari.com/guide/soudan-madoguchi/)
+- [かいごのとなり｜高齢者と家族のための地域サービス情報](https://kaigonotonari.com/)
+- [プライバシーポリシー｜かいごのとなり](https://kaigonotonari.com/privacy/)
+
+## 引用にあたってのお願い
+
+介護保険の制度・料金は改定されます。引用の際は各ページに記載の最終確認日を添えてください。
+掲載内容の訂正・削除のご依頼は https://kaigonotonari.com/contact/ から受け付けています。
