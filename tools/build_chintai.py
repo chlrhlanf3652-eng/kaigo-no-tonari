@@ -131,7 +131,7 @@ def build(wid):
         '          <li><a href="{{ROOT}}guide/housing-safety-net/">住宅セーフティネット制度とは</a></li>\n'
         '          <li><a href="{{ROOT}}guide/kachin-hosho/">家賃債務保証のしくみ</a></li>\n'
         '          <li><a href="{{ROOT}}guide/sakoju-toha/">サ高住と老人ホームの違い</a></li>\n'
-        '          <li><a href="{{ROOT}}guide/seizen-seiri/">生前整理の進め方</a></li>\n'
+        '          <li><a href="{{ROOT}}shukatsu/#seizen">生前整理の進め方</a></li>\n'
         '        </ul>\n'
         '      </div>')
 
