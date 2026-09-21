@@ -1,0 +1,150 @@
+{
+  "slug": "takuhai-bento_tokyo_ota",
+  "category": {
+    "id": "takuhai-bento",
+    "name": "宅配弁当・配食サービス",
+    "path": "/takuhai-bento/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "ota",
+    "city_name": "大田区"
+  },
+  "seo": {
+    "title": "大田区の高齢者向け宅配弁当5社｜料金比較【2026年9月更新】",
+    "description": "東京都大田区に配達する高齢者向け宅配弁当・配食サービス5件を連絡先つきで掲載。やわらか食・ムース食・治療食の料金比較、手渡しの安否確認、区の支援状況まで解説します。",
+    "canonical": "https://kaigonotonari.com/takuhai-bento/tokyo/ota/",
+    "og_title": "大田区の高齢者向け宅配弁当｜料金比較と選び方",
+    "og_description": "大田区に配達する高齢者向け配食サービス5件を掲載。食形態別の料金、安否確認、区の事業をまとめました。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-takuhai-bento.jpg"
+  },
+  "h1": "大田区の高齢者向け宅配弁当・配食サービス｜料金比較と選び方",
+  "published": "2026-09-21",
+  "modified": "2026-09-21",
+  "count_label": "掲載：5サービス",
+  "lead": "東京都大田区で高齢者向けの宅配弁当を探している方へ。区内に配達できるサービス5件を連絡先つきで掲載し、やわらか食・ムース食・治療食の料金、手渡しによる安否確認、区の支援状況までまとめました。",
+  "listing_note": "2026年9月時点で大田区への配達を公表しているサービスを掲載しています。配達エリアは町域単位で細かく分かれているため、申し込み前に必ずご自宅の住所で確認してください。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "まごころ弁当 大田区多摩川店",
+      "telephone": "03-6451-9671",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "矢口1-5-4 まーさ金親ビル1階"
+      },
+      "areaServed": "大田区・神奈川県川崎市幸区",
+      "_tags": [
+        "高齢者専門",
+        "手渡し",
+        "川崎市側もカバー"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "まごころ弁当 大田店",
+      "telephone": "03-3759-7761",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "下丸子2-18-1"
+      },
+      "areaServed": "大田区",
+      "_tags": [
+        "高齢者専門",
+        "手渡し",
+        "下丸子・鵜の木方面"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "まごころ弁当 大田大森中央店",
+      "telephone": "03-6715-7118",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "南六郷1-1-7-102"
+      },
+      "areaServed": "大田区中心部（詳しくは要問い合わせ）",
+      "_tags": [
+        "高齢者専門",
+        "手渡し",
+        "六郷・大森方面"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ライフデリ大田店",
+      "telephone": "03-6410-2955",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "池上5-27-5 都営池上5丁目アパート5号棟103"
+      },
+      "areaServed": "大田区",
+      "_tags": [
+        "料金公開あり",
+        "治療食対応",
+        "介護食対応"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "宅配クック123（大田区配達対応）",
+      "areaServed": "大田区内（担当店舗は町域により異なる）",
+      "_tags": [
+        "高齢者専門",
+        "区内ほぼ全域",
+        "担当店舗は要確認"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "大田区で高齢者向けの宅配弁当を頼むには、どこに連絡すればいいですか？",
+      "a": "上の一覧にある事業者へ直接お電話ください。まずは配達エリアにご自宅の町名が入っているかを確認し、無料試食を申し込むのが確実です。どれを選ぶか迷う場合は、地域包括支援センターでも相談できます。"
+    },
+    {
+      "q": "宅配弁当は介護保険で安くなりますか？",
+      "a": "民間の配食サービスは介護保険の給付対象外で、全額自己負担です。そのかわり要介護認定がなくても使え、区分支給限度基準額を圧迫しないという利点があります。"
+    },
+    {
+      "q": "やわらか食やムース食は普通食よりどのくらい高いですか？",
+      "a": "ライフデリ大田店の公表価格では、ごはんセットで普通食690円に対し、やわらか食830円、ムース食760円です。治療食（腎臓食940円・透析食950円）はさらに上がります。価格は改定されることがあるため、申し込み前に公式情報をご確認ください。"
+    },
+    {
+      "q": "毎日でなくても頼めますか？",
+      "a": "週に数回、夕食だけといった使い方が一般的です。曜日や食数の変更、休止にも対応している事業者がほとんどですが、変更の締め切り時間は事業者ごとに違うので契約前に確認してください。"
+    },
+    {
+      "q": "留守のときはどうなりますか？",
+      "a": "手渡しを原則とする事業者では、応答がない場合に再訪問したり、あらかじめ登録した緊急連絡先へ連絡したりする運用をとっています。この対応こそが安否確認の中身なので、契約前に手順を必ず確認してください。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/ota/\">大田区の訪問介護<small>ホームヘルプ</small></a>\n      <a href=\"{{ROOT}}koreisha-chintai/tokyo/ota/\">大田区の高齢者可賃貸<small>断られない部屋探し</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/ota/\">大田区の見守りサービス<small>ひとり暮らしの安否確認</small></a>\n      <a href=\"{{ROOT}}kaimono-daiko/tokyo/ota/\">大田区の買い物代行<small>食材の調達</small></a>\n      <a href=\"{{ROOT}}kaji-daiko/tokyo/ota/\">大田区の家事代行<small>調理・掃除</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/ota/\">大田区のデイサービス<small>昼食つきの通所</small></a>",
+  "nearby_heading": "近隣エリアの宅配弁当",
+  "nearby": "<a href=\"{{ROOT}}takuhai-bento/tokyo/shinagawa/\">品川区</a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/meguro/\">目黒区</a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/setagaya/\">世田谷区</a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/minato/\">港区</a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/shibuya/\">渋谷区</a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/koto/\">江東区</a>",
+  "sources": [
+    "まごころ弁当 公式サイト「東京都 大田区の配食サービス店舗」",
+    "ライフデリ 公式サイト「ライフデリ大田店」（料金表を含む）",
+    "宅配クック123 公式サイト「店舗検索（東京都大田区）」",
+    "大田区 公式ホームページ 高齢者向けサービス一覧（区の配食事業の記載なし・2026年9月確認）"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>迷ったら試食から</h4>\n        <p>本人が「これなら食べられる」と感じるかが続くかどうかを決めます。多くの事業者が無料試食を用意しています。</p>\n        <a class=\"btn\" href=\"#s2\">配達するサービスを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>大田区に配達できるのは5件</li>\n          <li>普通食ごはんセット690円（ライフデリ大田店）</li>\n          <li>専門食の価格はライフデリ全店共通</li>\n          <li>区の配食事業は確認できず</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/kaigoshoku-keitai/\">介護食の食形態とは</a></li>\n          <li><a href=\"{{ROOT}}guide/goen-yobou/\">誤嚥を防ぐ食事の工夫</a></li>\n          <li><a href=\"{{ROOT}}guide/hitorigurashi-shokuji/\">ひとり暮らしの食事の整え方</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">介護の相談窓口の探し方</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">サービス一覧</a>\n  <a class=\"m2\" href=\"#s3\">料金を見る</a>",
+  "hero_image": "assets/ogp-takuhai-bento.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "ota"
+  }
+}

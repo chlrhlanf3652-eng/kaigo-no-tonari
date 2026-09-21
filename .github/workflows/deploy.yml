@@ -66,6 +66,7 @@ jobs:
                 --exclude 'dist-artifact' --exclude 'templates' --exclude 'content' \
                 --exclude 'data' --exclude 'docs' --exclude 'node_modules' \
                 --exclude '*.py' --exclude 'README.md' --exclude '*.zip' \
+                --exclude 'tools' \
                 ./ _site/
 
       - uses: actions/upload-pages-artifact@v3

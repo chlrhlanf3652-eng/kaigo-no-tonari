@@ -181,13 +181,43 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://kaigonotonari.com/koreisha-chintai/tokyo/edogawa/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://kaigonotonari.com/koreisha-chintai/tokyo/</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://kaigonotonari.com/koreisha-chintai/tokyo/itabashi/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kaigonotonari.com/koreisha-chintai/tokyo/nerima/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kaigonotonari.com/koreisha-chintai/tokyo/ota/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://kaigonotonari.com/koreisha-chintai/tokyo/setagaya/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kaigonotonari.com/koreisha-chintai/tokyo/suginami/</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -211,13 +241,43 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://kaigonotonari.com/takuhai-bento/tokyo/edogawa/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://kaigonotonari.com/takuhai-bento/tokyo/</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://kaigonotonari.com/takuhai-bento/tokyo/itabashi/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kaigonotonari.com/takuhai-bento/tokyo/nerima/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kaigonotonari.com/takuhai-bento/tokyo/ota/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://kaigonotonari.com/takuhai-bento/tokyo/setagaya/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kaigonotonari.com/takuhai-bento/tokyo/suginami/</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>

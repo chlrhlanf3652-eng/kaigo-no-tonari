@@ -1,0 +1,123 @@
+{
+  "slug": "koreisha-chintai_tokyo_itabashi",
+  "category": {
+    "id": "koreisha-chintai",
+    "name": "高齢者可の賃貸",
+    "path": "/koreisha-chintai/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "itabashi",
+    "city_name": "板橋区"
+  },
+  "seo": {
+    "title": "板橋区の高齢者可賃貸｜相談窓口5件【2026年9月更新】",
+    "description": "東京都板橋区で高齢者が賃貸を断られないための進め方。板橋りんりん住まいるネットなど区の居住支援と全国対応サービス5件を連絡先つきで掲載し、貸主の不安に先回りする5つの準備、サ高住との比較までまとめました。",
+    "canonical": "https://kaigonotonari.com/koreisha-chintai/tokyo/itabashi/",
+    "og_title": "板橋区の高齢者可賃貸｜断られないための進め方",
+    "og_description": "板橋区の居住支援と相談先5件を掲載。断られる理由と、審査を通すための準備をまとめました。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-koreisha-chintai.jpg"
+  },
+  "h1": "板橋区で高齢者が借りられる賃貸の探し方｜相談先と準備",
+  "published": "2026-09-21",
+  "modified": "2026-09-21",
+  "count_label": "相談窓口・サービス5件",
+  "lead": "東京都板橋区で高齢の親の部屋探しをしている方へ。年齢を理由に断られるのは、年齢そのものではなく年齢にひもづく3つの不安が理由です。板橋区が用意している居住支援と、貸主の不安に先回りする準備をまとめました。街の不動産店を回る前に、まず板橋りんりん住まいるネットに相談するのが近道です。",
+  "listing_note": "板橋区で高齢者の部屋探しに使える窓口・サービスです（2026年9月時点）。",
+  "items": [
+    {
+      "@type": "GovernmentOffice",
+      "name": "板橋りんりん住まいるネット（板橋区居住支援協議会の相談窓口）",
+      "telephone": "03-3579-2186",
+      "areaServed": "板橋区",
+      "description": "「物件が見つからない」「保証人がいない」方のための相談窓口。協力不動産店と連携した物件紹介のほか、入居後の伴走型支援も行います。電話相談は月曜・木曜 8:30〜17:00（無料・要予約）、対面相談は火曜 13:00〜17:00。生活保護受給中の方は対象外です。（窓口: 板橋区住宅政策課／委託先 ホッとスペース東京 03-4346-4195）",
+      "_tags": [
+        "まずここから",
+        "相談無料",
+        "入居後も支援"
+      ]
+    },
+    {
+      "@type": "GovernmentOffice",
+      "name": "板橋区 高齢者等世帯住宅情報ネットワーク",
+      "areaServed": "板橋区",
+      "description": "高齢者等の世帯に対して、民間賃貸住宅の情報を提供する区の仕組みです。協力不動産店を通じて物件を探せます。",
+      "_tags": [
+        "区の事業",
+        "協力不動産店"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "name": "一般財団法人高齢者住宅財団 家賃債務保証",
+      "url": "https://www.koujuuzai.or.jp/",
+      "description": "保証人を立てられない高齢者世帯などのために、家賃の債務を保証する公的性格の制度。制度を利用できる物件かどうかは不動産会社に確認します。",
+      "_tags": [
+        "保証人なしでも可",
+        "公的性格",
+        "全国対応"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "name": "R65不動産",
+      "url": "https://r65.info/",
+      "description": "65歳以上に特化した賃貸情報サイト。年齢を理由に断らない物件を扱う。",
+      "_tags": [
+        "65歳以上専門",
+        "全国対応"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "name": "CHINTAI シニア・高齢者相談可特集",
+      "url": "https://www.chintai.net/feature/senior/",
+      "description": "大手賃貸ポータルのシニア向け特集ページ。物件数が多く、条件で絞り込める。",
+      "_tags": [
+        "物件数が多い",
+        "条件で絞り込み"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "板橋区で高齢者が賃貸を借りるには、まずどこに相談すればいいですか？",
+      "a": "板橋りんりん住まいるネットが入口です。街の不動産店を回る前にここへ相談すると、年齢を理由に断られにくい物件や制度を先に把握できます。"
+    },
+    {
+      "q": "保証人がいなくても借りられますか？",
+      "a": "家賃債務保証会社を利用すれば、保証人なしでも契約できる物件があります。一般財団法人高齢者住宅財団の家賃債務保証は公的性格のある制度で、高齢者世帯の利用を想定しています。"
+    },
+    {
+      "q": "年齢を理由に断られるのは違法ではないのですか？",
+      "a": "民間の賃貸借契約では貸主に契約の自由があり、年齢を理由とする入居拒否が直ちに違法とされるわけではありません。一方で国は住宅セーフティネット制度により、高齢者等の入居を拒まない賃貸住宅の登録を進めています。"
+    },
+    {
+      "q": "ひとり暮らしで緊急連絡先になる親族がいません。",
+      "a": "見守りサービスの導入を申し込み時に伝えると、貸主の不安に答える材料になります。センサー型・電話型・配食の手渡し型などがあり、費用も方式によって差があります。"
+    },
+    {
+      "q": "一般の賃貸ではなく、サ高住のほうがよいでしょうか？",
+      "a": "ひとり暮らしに不安があるが自立して生活できる段階なら、安否確認と生活相談が必ず付くサービス付き高齢者向け住宅（サ高住）が合う場合があります。費用は家賃にサービス費が上乗せされます。上の比較表をご覧ください。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/itabashi/\">板橋区の訪問介護<small>ホームヘルプ</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/itabashi/\">板橋区の宅配弁当<small>手渡しで安否確認</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/itabashi/\">板橋区の見守りサービス<small>入居審査の材料になる</small></a>\n      <a href=\"{{ROOT}}sakoju/tokyo/itabashi/\">板橋区のサービス付き高齢者向け住宅<small>安否確認つきの住まい</small></a>\n      <a href=\"{{ROOT}}ihinseiri/tokyo/itabashi/\">板橋区の生前整理・不用品処分<small>引っ越し前の荷物減らし</small></a>\n      <a href=\"{{ROOT}}jikka-baikyaku/tokyo/itabashi/\">板橋区の実家売却<small>住み替えの資金</small></a>",
+  "nearby_heading": "近隣エリアの高齢者可賃貸",
+  "nearby": "<a href=\"{{ROOT}}koreisha-chintai/tokyo/nerima/\">練馬区</a>\n      <a href=\"{{ROOT}}koreisha-chintai/tokyo/kita/\">北区</a>\n      <a href=\"{{ROOT}}koreisha-chintai/tokyo/toshima/\">豊島区</a>\n      <a href=\"{{ROOT}}koreisha-chintai/tokyo/adachi/\">足立区</a>\n      <a href=\"{{ROOT}}koreisha-chintai/tokyo/shinjuku/\">新宿区</a>\n      <a href=\"{{ROOT}}koreisha-chintai/tokyo/bunkyo/\">文京区</a>",
+  "sources": [
+    "板橋区「板橋りんりん住まいるネット（板橋区居住支援協議会の相談窓口）」",
+    "板橋区「板橋区 高齢者等世帯住宅情報ネットワーク」",
+    "一般財団法人高齢者住宅財団「家賃債務保証」",
+    "株式会社R65「高齢者向け賃貸に関する実態調査（賃貸オーナー向け）」プレスリリース",
+    "国土交通省 住宅セーフティネット制度",
+    "CHINTAI「シニア・高齢者相談可の賃貸物件」"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>不動産店より先に、区の窓口へ</h4>\n        <p>板橋区では板橋りんりん住まいるネットが入口です。断られる回数を減らすための近道になります。</p>\n        <a class=\"btn\" href=\"#s2\">区の居住支援を見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>断られる理由は年齢ではなく3つの不安</li>\n          <li>板橋区の入口は板橋りんりん住まいるネット</li>\n          <li>保証会社＋見守りで審査が通りやすくなる</li>\n          <li>緊急連絡先は2名分そろえる</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/housing-safety-net/\">住宅セーフティネット制度とは</a></li>\n          <li><a href=\"{{ROOT}}guide/kachin-hosho/\">家賃債務保証のしくみ</a></li>\n          <li><a href=\"{{ROOT}}guide/sakoju-toha/\">サ高住と老人ホームの違い</a></li>\n          <li><a href=\"{{ROOT}}guide/seizen-seiri/\">生前整理の進め方</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">区の居住支援</a>\n  <a class=\"m2\" href=\"#s4\">断られない準備</a>",
+  "hero_image": "assets/ogp-koreisha-chintai.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "itabashi"
+  }
+}

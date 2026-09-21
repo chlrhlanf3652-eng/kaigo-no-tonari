@@ -1,0 +1,127 @@
+{
+  "slug": "takuhai-bento_tokyo_nerima",
+  "category": {
+    "id": "takuhai-bento",
+    "name": "宅配弁当・配食サービス",
+    "path": "/takuhai-bento/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "nerima",
+    "city_name": "練馬区"
+  },
+  "seo": {
+    "title": "練馬区の高齢者向け宅配弁当4社｜料金比較【2026年9月更新】",
+    "description": "東京都練馬区に配達する高齢者向け宅配弁当・配食サービス4件を連絡先つきで掲載。やわらか食・ムース食・治療食の料金比較、手渡しの安否確認、区の配食事業まで解説します。",
+    "canonical": "https://kaigonotonari.com/takuhai-bento/tokyo/nerima/",
+    "og_title": "練馬区の高齢者向け宅配弁当｜料金比較と選び方",
+    "og_description": "練馬区に配達する高齢者向け配食サービス4件を掲載。食形態別の料金、安否確認、区の事業をまとめました。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-takuhai-bento.jpg"
+  },
+  "h1": "練馬区の高齢者向け宅配弁当・配食サービス｜料金比較と選び方",
+  "published": "2026-09-21",
+  "modified": "2026-09-21",
+  "count_label": "掲載：4サービス",
+  "lead": "東京都練馬区で高齢者向けの宅配弁当を探している方へ。区内に配達できるサービス4件を連絡先つきで掲載し、やわらか食・ムース食・治療食の料金、手渡しによる安否確認、区の配食事業までまとめました。",
+  "listing_note": "2026年9月時点で練馬区への配達を公表しているサービスを掲載しています。配達エリアは町域単位で細かく分かれているため、申し込み前に必ずご自宅の住所で確認してください。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "まごころ弁当 練馬・中野杉並店",
+      "telephone": "03-5356-8930",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "若宮1-27-3 ユーコンメイト1階"
+      },
+      "areaServed": "中野区・杉並区（一部除く）・練馬区（一部除く）",
+      "_tags": [
+        "高齢者専門",
+        "手渡し",
+        "3区にまたがる"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ライフデリ練馬・和光店",
+      "telephone": "03-6754-8378",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "大泉町3-38-47 202"
+      },
+      "areaServed": "練馬区・和光市（一部地域除く）",
+      "_tags": [
+        "料金公開あり",
+        "治療食対応",
+        "介護食対応"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "宅配クック123（練馬区配達対応）",
+      "areaServed": "練馬区内（担当店舗は町域により異なる）",
+      "_tags": [
+        "高齢者専門",
+        "区内ほぼ全域",
+        "担当店舗は要確認"
+      ]
+    },
+    {
+      "@type": "GovernmentOffice",
+      "name": "練馬区 見守り配食事業",
+      "telephone": "03-5984-2774",
+      "faxNumber": "03-5984-1214",
+      "areaServed": "練馬区",
+      "description": "配達時に手渡しで見守り・安否確認を行い、異常を感じたときは緊急連絡先へ連絡します。弁当代は利用者の実費負担。パンフレットは各地域包括支援センターで配布しています。（窓口: 高齢者支援課 高齢給付係）",
+      "_tags": [
+        "区の事業",
+        "安否確認つき",
+        "弁当代は実費"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "練馬区で高齢者向けの宅配弁当を頼むには、どこに連絡すればいいですか？",
+      "a": "上の一覧にある事業者へ直接お電話ください。まずは配達エリアにご自宅の町名が入っているかを確認し、無料試食を申し込むのが確実です。どれを選ぶか迷う場合は、地域包括支援センターでも相談できます。"
+    },
+    {
+      "q": "宅配弁当は介護保険で安くなりますか？",
+      "a": "民間の配食サービスは介護保険の給付対象外で、全額自己負担です。そのかわり要介護認定がなくても使え、区分支給限度基準額を圧迫しないという利点があります。練馬区の区の事業を利用できる場合は、自己負担の条件が変わることがあります。"
+    },
+    {
+      "q": "やわらか食やムース食は普通食よりどのくらい高いですか？",
+      "a": "ライフデリ練馬・和光店の公表価格では、ごはんセットで普通食660円に対し、やわらか食830円、ムース食760円です。治療食（腎臓食940円・透析食950円）はさらに上がります。価格は改定されることがあるため、申し込み前に公式情報をご確認ください。"
+    },
+    {
+      "q": "毎日でなくても頼めますか？",
+      "a": "週に数回、夕食だけといった使い方が一般的です。曜日や食数の変更、休止にも対応している事業者がほとんどですが、変更の締め切り時間は事業者ごとに違うので契約前に確認してください。"
+    },
+    {
+      "q": "留守のときはどうなりますか？",
+      "a": "手渡しを原則とする事業者では、応答がない場合に再訪問したり、あらかじめ登録した緊急連絡先へ連絡したりする運用をとっています。この対応こそが安否確認の中身なので、契約前に手順を必ず確認してください。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/nerima/\">練馬区の訪問介護<small>ホームヘルプ</small></a>\n      <a href=\"{{ROOT}}koreisha-chintai/tokyo/nerima/\">練馬区の高齢者可賃貸<small>断られない部屋探し</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/nerima/\">練馬区の見守りサービス<small>ひとり暮らしの安否確認</small></a>\n      <a href=\"{{ROOT}}kaimono-daiko/tokyo/nerima/\">練馬区の買い物代行<small>食材の調達</small></a>\n      <a href=\"{{ROOT}}kaji-daiko/tokyo/nerima/\">練馬区の家事代行<small>調理・掃除</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/nerima/\">練馬区のデイサービス<small>昼食つきの通所</small></a>",
+  "nearby_heading": "近隣エリアの宅配弁当",
+  "nearby": "<a href=\"{{ROOT}}takuhai-bento/tokyo/itabashi/\">板橋区</a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/toshima/\">豊島区</a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/nakano/\">中野区</a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/suginami/\">杉並区</a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/kita/\">北区</a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/shinjuku/\">新宿区</a>",
+  "sources": [
+    "まごころ弁当 公式サイト「東京都 練馬区の配食サービス店舗」",
+    "ライフデリ 公式サイト「ライフデリ練馬・和光店」（料金表を含む）",
+    "宅配クック123 公式サイト「店舗検索（東京都練馬区）」",
+    "練馬区「練馬区 見守り配食事業」（高齢者支援課 高齢給付係）"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>迷ったら試食から</h4>\n        <p>本人が「これなら食べられる」と感じるかが続くかどうかを決めます。多くの事業者が無料試食を用意しています。</p>\n        <a class=\"btn\" href=\"#s2\">配達するサービスを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>練馬区に配達できるのは4件</li>\n          <li>普通食ごはんセット660円（ライフデリ練馬・和光店）</li>\n          <li>専門食の価格はライフデリ全店共通</li>\n          <li>区の配食事業あり</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/kaigoshoku-keitai/\">介護食の食形態とは</a></li>\n          <li><a href=\"{{ROOT}}guide/goen-yobou/\">誤嚥を防ぐ食事の工夫</a></li>\n          <li><a href=\"{{ROOT}}guide/hitorigurashi-shokuji/\">ひとり暮らしの食事の整え方</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">介護の相談窓口の探し方</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">サービス一覧</a>\n  <a class=\"m2\" href=\"#s3\">料金を見る</a>",
+  "hero_image": "assets/ogp-takuhai-bento.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "nerima"
+  }
+}
