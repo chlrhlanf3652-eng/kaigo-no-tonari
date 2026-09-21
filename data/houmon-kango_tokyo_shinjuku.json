@@ -1,0 +1,517 @@
+{
+  "slug": "houmon-kango_tokyo_shinjuku",
+  "category": {
+    "id": "houmon-kango",
+    "name": "訪問看護",
+    "path": "/houmon-kango/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "shinjuku",
+    "city_name": "新宿区"
+  },
+  "seo": {
+    "title": "新宿区の訪問看護20事業所｜主治医の指示書から始める【2026年9月更新】",
+    "description": "東京都新宿区の訪問看護ステーション20件を連絡先つきで掲載。区内約31件の中から選ぶための所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
+    "canonical": "https://kaigonotonari.com/houmon-kango/tokyo/shinjuku/",
+    "og_title": "新宿区の訪問看護ステーション一覧｜選び方と始め方",
+    "og_description": "新宿区の訪問看護ステーション20件を掲載。対応できる医療処置の確認と、主治医の指示書から始める流れを解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-houmon-kango.jpg"
+  },
+  "h1": "新宿区の訪問看護ステーション一覧｜選び方と始め方",
+  "published": "2026-09-21",
+  "modified": "2026-09-21",
+  "count_label": "掲載：20事業所",
+  "lead": "東京都新宿区で訪問看護を探している方へ。区内にある約31件のステーションから20件を連絡先つきで掲載し、あわせて所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
+  "listing_note": "新宿区内の訪問看護ステーションから20件を掲載しています（2026年9月時点）。区内には約31件のステーションがあり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "さくら訪問看護リハビリステーション",
+      "telephone": "03-6205-6451",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "大久保2-18-4 グレース橋谷田102"
+      },
+      "parentOrganization": "（株）ダイシン",
+      "identifier": "1360490302",
+      "faxNumber": "03-6205-6452",
+      "_hours": "9:00〜18:00",
+      "_closed": "年中無休",
+      "_town": "大久保",
+      "_tags": [
+        "大久保エリア",
+        "年中無休",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あわーず東京 訪問看護リハビリステーション",
+      "telephone": "03-6869-7677",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "百人町1-22-3 新宿ナショナルコート303"
+      },
+      "parentOrganization": "（株）あわーず",
+      "identifier": "1360490187",
+      "faxNumber": "03-6869-7657",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "百人町",
+      "_tags": [
+        "百人町エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "リハビリ訪問看護ステーション ハピネスケア",
+      "telephone": "03-6273-8001",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "高田馬場1-24-27 ドゥマール市川201"
+      },
+      "parentOrganization": "（株）ハピネスケア",
+      "identifier": "1360490096",
+      "faxNumber": "03-6273-8002",
+      "_hours": "8:30〜17:30",
+      "_closed": "日・年末年始",
+      "_town": "高田馬場",
+      "_tags": [
+        "高田馬場エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "目白訪問看護ステーション",
+      "telephone": "03-5988-4577",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "上落合1-23-19"
+      },
+      "parentOrganization": "（株）リープ",
+      "identifier": "1360490039",
+      "faxNumber": "03-5988-4588",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "上落合",
+      "_tags": [
+        "上落合エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "代々木訪問看護ステーション",
+      "telephone": "03-5272-4118",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "大久保2-8-2-3階"
+      },
+      "parentOrganization": "（医財）東京勤労者医療会",
+      "identifier": "1367192180",
+      "faxNumber": "03-5272-4119",
+      "_hours": "8:45〜16:45、土12:30まで",
+      "_closed": "土（午後）・日・祝・年末年始",
+      "_town": "大久保",
+      "_tags": [
+        "大久保エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "オランジェ訪問看護ステーション",
+      "telephone": "03-5937-3562",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "高田馬場4-27-15 エスカイア高田馬場108"
+      },
+      "parentOrganization": "（医社）宏彩会",
+      "identifier": "1360490237",
+      "faxNumber": "03-5937-3563",
+      "_hours": "9:00〜18:00",
+      "_closed": "年末年始",
+      "_town": "高田馬場",
+      "_tags": [
+        "高田馬場エリア",
+        "土日も受付",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "白十字訪問看護ステーション",
+      "telephone": "03-3268-1815",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "市谷砂土原町2-7 ディアコート砂土原204"
+      },
+      "parentOrganization": "（株）ケアーズ",
+      "identifier": "1367196108",
+      "faxNumber": "03-3268-1629",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・夏季・年末年始",
+      "_town": "市谷砂土原町",
+      "_tags": [
+        "市谷砂土原町エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "神楽坂訪問看護ステーション",
+      "telephone": "03-5225-4799",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "市谷山伏町2-2 神楽坂ＮＫビル1階"
+      },
+      "parentOrganization": "（医社）涼友会",
+      "identifier": "1367193394",
+      "faxNumber": "03-5261-9899",
+      "_hours": "9:00〜17:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "市谷山伏町",
+      "_tags": [
+        "市谷山伏町エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ワンダフルサポート訪問看護ステーション",
+      "telephone": "03-6279-1342",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "西新宿7-20-2 愛美堂ビル6階"
+      },
+      "parentOrganization": "ワンダフルサポート（株）",
+      "identifier": "1360490591",
+      "faxNumber": "03-6279-1343",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日",
+      "_town": "西新宿",
+      "_tags": [
+        "西新宿エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＳＯＭＰＯケア 東京 訪問看護",
+      "telephone": "03-6302-1398",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "高田馬場2-5-23 第1桂城ビル4階"
+      },
+      "parentOrganization": "ＳＯＭＰＯケア（株）",
+      "identifier": "1361290735",
+      "faxNumber": "03-6302-1273",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "高田馬場",
+      "_tags": [
+        "高田馬場エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ザオーケア訪問看護ステーション飯田橋",
+      "telephone": "03-6457-5889",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "中町15 神楽坂マンション306"
+      },
+      "parentOrganization": "アリア（株）",
+      "identifier": "1360490690",
+      "faxNumber": "03-6457-5899",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "中町",
+      "_tags": [
+        "中町エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション リカバリー",
+      "telephone": "03-5990-5882",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "西新宿6-16-12 第一丸善ビル601"
+      },
+      "parentOrganization": "Ｒｅｃｏｖｅｒｙ Ｉｎｔｅｒｎａｔｉｏｎａｌ（株）",
+      "identifier": "1360490112",
+      "faxNumber": "03-5990-5883",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "西新宿",
+      "_tags": [
+        "西新宿エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ライフホーム訪問看護リハビリステーション",
+      "telephone": "03-5497-8990",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "高田馬場3-25-23"
+      },
+      "parentOrganization": "（株）ファストヘルスケア",
+      "identifier": "1360490666",
+      "faxNumber": "03-5497-8991",
+      "_hours": "8:30〜18:00",
+      "_closed": "日・祝・年末年始",
+      "_town": "高田馬場",
+      "_tags": [
+        "高田馬場エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "セコム新宿訪問看護ステーション",
+      "telephone": "03-5368-6078",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "左門町14-17 ＴＨ左門町ビル201"
+      },
+      "parentOrganization": "セコム医療システム（株）",
+      "identifier": "1367194178",
+      "faxNumber": "03-5368-6079",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "左門町",
+      "_tags": [
+        "左門町エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "Ｆａｍｉｌｙ Ｎｕｒｓｅ 西落合",
+      "telephone": "03-3565-6915",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "西落合1-20-1 広和マンション405"
+      },
+      "parentOrganization": "（株）ウェチャーアス",
+      "identifier": "1360490609",
+      "faxNumber": "03-3565-6915",
+      "_hours": "9:00〜17:00",
+      "_closed": "日・年末年始",
+      "_town": "西落合",
+      "_tags": [
+        "西落合エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "すみれ訪問看護ステーション",
+      "telephone": "03-5937-0261",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "百人町2-23-17 Ｋ－ＧＲＡＮＤＥ203"
+      },
+      "parentOrganization": "（株）フォレスト",
+      "identifier": "1360490575",
+      "faxNumber": "03-5937-0262",
+      "_hours": "9:00〜18:00",
+      "_closed": "年中無休",
+      "_town": "百人町",
+      "_tags": [
+        "百人町エリア",
+        "年中無休",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＫＩＲＡＬＩＥ訪問看護ステーション",
+      "telephone": "03-5361-7328",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "新宿1-23-5 サンサーラ御苑503"
+      },
+      "parentOrganization": "（株）Ｒａｄｉａｎｃｅ",
+      "identifier": "1360490401",
+      "faxNumber": "03-5361-7329",
+      "_hours": "9:30〜17:30",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "新宿",
+      "_tags": [
+        "新宿エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション やごころ",
+      "telephone": "03-6908-7234",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "上落合2-11-16 ヴィヴァシェル201"
+      },
+      "parentOrganization": "（一社）想兼",
+      "identifier": "1360490310",
+      "faxNumber": "03-6908-7235",
+      "_hours": "9:00〜21:00",
+      "_closed": "年中無休",
+      "_town": "上落合",
+      "_tags": [
+        "上落合エリア",
+        "年中無休",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "共創みらい訪問看護ステーション上落合",
+      "telephone": "03-6279-2250",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "上落合2-26-3-地下1階"
+      },
+      "parentOrganization": "（株）ファーマみらい",
+      "identifier": "1360490740",
+      "faxNumber": "03-6279-2251",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "上落合",
+      "_tags": [
+        "上落合エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "在宅看護研究センター付属訪問看護ステーション",
+      "telephone": "03-5386-0662",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "高田馬場4-9-11-706"
+      },
+      "parentOrganization": "日本在宅看護システム（有）",
+      "identifier": "1367196124",
+      "faxNumber": "03-5386-0662",
+      "_hours": "9:00〜17:30",
+      "_closed": "木・土・日・祝・年末年始",
+      "_town": "高田馬場",
+      "_tags": [
+        "高田馬場エリア",
+        "訪問看護"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "新宿区で訪問看護を使うには、まず何をすればいいですか？",
+      "a": "主治医に「自宅で訪問看護を使いたい」と伝えるのが最初の一歩です。訪問看護は主治医の指示書がないと始められないため、新宿区のステーションに直接連絡してもそこで止まります。入院中なら退院支援の窓口、主治医が決まっていなければ高齢者総合相談センターが相談先です。"
+    },
+    {
+      "q": "新宿区には訪問看護ステーションが何件ありますか？",
+      "a": "2026年9月時点で、介護情報サイトの掲載ベースで約31件のステーションが新宿区内にあります。本ページではそのうち20件を連絡先つきで掲載しています。全件は厚生労働省「介護サービス情報公表システム」で確認できます。"
+    },
+    {
+      "q": "新宿区の掲載事業所は、どこを見て絞り込めばいいですか？",
+      "a": "まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。新宿区の掲載20件では年中無休が3件、土日も電話を受けるところを含めると4件あります。そのうえで、ご自宅の町名を伝えて新宿区内の対応エリアに入っているかを確認してください。"
+    },
+    {
+      "q": "新宿区で夜間や休日に急変したら、来てもらえますか？",
+      "a": "24時間の緊急対応体制をとっているステーションなら、連絡して必要と判断されれば訪問してもらえます。ただしこれは加算のかかる体制で、新宿区内でもすべてのステーションが対応しているわけではありません。上の受付体制の表は電話の受付時間であり、緊急対応の可否とは別ですので、契約前に必ず確認してください。"
+    },
+    {
+      "q": "医療保険と介護保険のどちらになりますか？",
+      "a": "要介護認定を受けていれば原則として介護保険、受けていなければ医療保険です。ただし国が定める疾病等に当てはまる場合や、急に状態が悪くなって特別訪問看護指示書が出た場合は、認定があっても医療保険になります。新宿区に限らず全国共通の分岐で、判断は主治医とステーションが行います。"
+    },
+    {
+      "q": "新宿区で訪問介護（ヘルパー）と両方使えますか？",
+      "a": "使えます。医療的なケアは訪問看護、身体介護や家事は訪問介護と役割が分かれており、両方を併用する方は珍しくありません。新宿区の訪問介護事業所は同じサイト内にまとめています。介護保険で使う場合は、どちらも区分支給限度基準額の範囲内で組むことになります。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/shinjuku/\">新宿区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/shinjuku/\">新宿区のデイサービス<small>通所介護</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/shinjuku/\">新宿区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/shinjuku/\">新宿区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/shinjuku/\">新宿区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/shinjuku/\">新宿区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアの訪問看護",
+  "nearby": "<a href=\"{{ROOT}}houmon-kango/tokyo/chiyoda/\">千代田区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/minato/\">港区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/shibuya/\">渋谷区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/nakano/\">中野区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/toshima/\">豊島区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/bunkyo/\">文京区</a>",
+  "sources": [
+    "厚生労働省「介護事業所・生活関連情報検索（介護サービス情報公表システム）」",
+    "新宿区「高齢者総合相談センター一覧」",
+    "厚生労働大臣が定める疾病等（訪問看護で医療保険が適用される範囲）",
+    "日本郵便 郵便番号データにもとづく新宿区の町域一覧",
+    "区内事業所数の目安：ハートページナビ 掲載件数（2026年9月時点）"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず主治医に相談を</h4>\n        <p>訪問看護は主治医の指示書が起点です。制度の分岐はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>新宿区内のステーションは約31件</li>\n          <li>起点は主治医の訪問看護指示書</li>\n          <li>掲載20件のうち年中無休は3件</li>\n          <li>主治医が未定なら高齢者総合相談センターへ</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}guide/houmon-kaigo-dekirukoto/\">ヘルパーに頼めること</a></li>\n          <li><a href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみ</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">問い合わせ前に</a>",
+  "hero_image": "assets/ogp-houmon-kango.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "shinjuku"
+  }
+}

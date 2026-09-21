@@ -1,0 +1,520 @@
+{
+  "slug": "houmon-kango_tokyo_toshima",
+  "category": {
+    "id": "houmon-kango",
+    "name": "訪問看護",
+    "path": "/houmon-kango/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "toshima",
+    "city_name": "豊島区"
+  },
+  "seo": {
+    "title": "豊島区の訪問看護20事業所｜主治医の指示書から始める【2026年9月更新】",
+    "description": "東京都豊島区の訪問看護ステーション20件を連絡先つきで掲載。区内約38件の中から選ぶための所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
+    "canonical": "https://kaigonotonari.com/houmon-kango/tokyo/toshima/",
+    "og_title": "豊島区の訪問看護ステーション一覧｜選び方と始め方",
+    "og_description": "豊島区の訪問看護ステーション20件を掲載。対応できる医療処置の確認と、主治医の指示書から始める流れを解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-houmon-kango.jpg"
+  },
+  "h1": "豊島区の訪問看護ステーション一覧｜選び方と始め方",
+  "published": "2026-09-21",
+  "modified": "2026-09-21",
+  "count_label": "掲載：20事業所",
+  "lead": "東京都豊島区で訪問看護を探している方へ。区内にある約38件のステーションから20件を連絡先つきで掲載し、あわせて所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
+  "listing_note": "豊島区内の訪問看護ステーションから20件を掲載しています（2026年9月時点）。区内には約38件のステーションがあり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "さわやかケアポートとしま・訪問看護",
+      "telephone": "03-5907-4292",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "北大塚1-12-15 協同興業北大塚ビル3階"
+      },
+      "parentOrganization": "ウエルシアパートナーズ（株）",
+      "identifier": "1367198401",
+      "faxNumber": "03-5907-3821",
+      "_hours": "9:00〜17:30",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "北大塚",
+      "_tags": [
+        "北大塚エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "いちご訪問看護ステーション",
+      "telephone": "03-6907-1836",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "池袋2-33-17 オリエントハイツ202"
+      },
+      "parentOrganization": "（株）ＥＭＫ",
+      "identifier": "1361690389",
+      "faxNumber": "03-6907-1837",
+      "_hours": "9:00〜17:00",
+      "_closed": "日・年末年始",
+      "_town": "池袋",
+      "_tags": [
+        "池袋エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "セコムとしま訪問看護ステーション",
+      "telephone": "03-3947-5750",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "南大塚2-35-7 平文社ビル3階"
+      },
+      "parentOrganization": "セコム医療システム（株）",
+      "identifier": "1367195944",
+      "faxNumber": "03-3947-5760",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "南大塚",
+      "_tags": [
+        "南大塚エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ナースステーション東京 池袋支店",
+      "telephone": "03-5926-9415",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "千早1-22-2 ラヴィータ要町101"
+      },
+      "parentOrganization": "（株）日本在宅ケア教育研究所",
+      "identifier": "1361690041",
+      "faxNumber": "03-5926-9416",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "千早",
+      "_tags": [
+        "千早エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーションすずめが丘",
+      "telephone": "03-6909-5337",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "要町1-25-15"
+      },
+      "parentOrganization": "（株）Ｋｓ Ｈｏｌｄｉｎｇ",
+      "identifier": "1361690264",
+      "faxNumber": "03-6909-5339",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・年末年始",
+      "_town": "要町",
+      "_tags": [
+        "要町エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "えん訪問看護ステーション東京池袋",
+      "telephone": "03-6903-1625",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "池袋3-9-6 新光池袋第3コーポ101"
+      },
+      "parentOrganization": "（株）Ｂｒｉｄｇｅ",
+      "identifier": "1361690405",
+      "faxNumber": "03-6903-1626",
+      "_hours": "8:30〜17:30",
+      "_closed": "年末年始",
+      "_town": "池袋",
+      "_tags": [
+        "池袋エリア",
+        "土日も受付",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション デライト池袋",
+      "telephone": "03-6914-3257",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "池袋2-55-12 セピア池袋Ⅱ-206"
+      },
+      "parentOrganization": "（株）Ｈ＆Ｈホールディングス",
+      "identifier": "1361690314",
+      "faxNumber": "03-6914-3258",
+      "_hours": "9:00〜18:00",
+      "_closed": "日・年末年始",
+      "_town": "池袋",
+      "_tags": [
+        "池袋エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション はな 池袋",
+      "telephone": "03-6822-6708",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "東池袋2-21-6 朝日プラザ東池袋101"
+      },
+      "parentOrganization": "（株）はな",
+      "identifier": "1361690215",
+      "faxNumber": "03-6684-1297",
+      "_hours": "8:30〜17:30",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "東池袋",
+      "_tags": [
+        "東池袋エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アットイーズ訪問看護リハビリステーション上池袋",
+      "telephone": "03-6824-5551",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "上池袋4-27-20 パーサヴィアランス上池101"
+      },
+      "parentOrganization": "イーズメディカル（株）",
+      "identifier": "1361690223",
+      "faxNumber": "03-6734-6383",
+      "_hours": "8:45〜17:45",
+      "_closed": "日・年末年始",
+      "_town": "上池袋",
+      "_tags": [
+        "上池袋エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "東池袋訪問看護リハビリステーション",
+      "telephone": "03-5904-8099",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "東池袋1-44-8 パークサイドビル5Ｅ"
+      },
+      "parentOrganization": "霜鳥恒産（株）",
+      "identifier": "1361690165",
+      "faxNumber": "03-5955-4477",
+      "_hours": "9:00〜17:00",
+      "_closed": "日・年末年始",
+      "_town": "東池袋",
+      "_tags": [
+        "東池袋エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "セントケア訪問看護ステーション池袋",
+      "telephone": "03-5911-5520",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "池袋2-35-12 井戸ビル1階"
+      },
+      "parentOrganization": "セントケア東京（株）",
+      "identifier": "1361690207",
+      "faxNumber": "03-5950-5550",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・年末年始",
+      "_town": "池袋",
+      "_tags": [
+        "池袋エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーションまんぞく",
+      "telephone": "03-6912-5426",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "池袋本町1-28-1 サンスプレンダー北池101"
+      },
+      "parentOrganization": "（株）まんぞく介護",
+      "identifier": "1361690447",
+      "faxNumber": "03-6912-6535",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝",
+      "_town": "池袋本町",
+      "_tags": [
+        "池袋本町エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "優っくり訪問看護豊島南長崎",
+      "telephone": "03-3565-6845",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "南長崎5-20-16"
+      },
+      "parentOrganization": "（社福）奉優会",
+      "identifier": "1361690470",
+      "faxNumber": "03-3565-6847",
+      "_hours": "9:00〜18:00",
+      "_closed": "年中無休",
+      "_town": "南長崎",
+      "_tags": [
+        "南長崎エリア",
+        "年中無休",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "池袋本町訪問看護ステーション",
+      "telephone": "03-3985-7882",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "池袋本町2-38-5"
+      },
+      "parentOrganization": "（一社）池袋本町訪問看護ステーション",
+      "identifier": "1361690322",
+      "faxNumber": "03-3985-7882",
+      "_hours": "9:00〜18:00",
+      "_closed": "年中無休",
+      "_town": "池袋本町",
+      "_tags": [
+        "池袋本町エリア",
+        "年中無休",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護リハビリステーションＳＯＲＡ",
+      "telephone": "03-6905-8960",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "千早3-24-3"
+      },
+      "parentOrganization": "おおぞらの（株）",
+      "identifier": "1361690173",
+      "faxNumber": "03-6905-8961",
+      "_hours": "8:45〜17:30",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "千早",
+      "_tags": [
+        "千早エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "コモド訪問看護ステーション",
+      "telephone": "03-5972-1110",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "西巣鴨3-4-10 山下ビル1階"
+      },
+      "parentOrganization": "（一社）コモド",
+      "identifier": "1361690249",
+      "faxNumber": "03-5972-1171",
+      "_hours": "8:30〜17:30",
+      "_closed": "土・日・年末年始",
+      "_town": "西巣鴨",
+      "_tags": [
+        "西巣鴨エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション はなえみ 池袋",
+      "telephone": "03-5985-4331",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "南池袋2-6-12 宮城ビル203"
+      },
+      "parentOrganization": "（株）ＬｉＤ",
+      "identifier": "1361690280",
+      "faxNumber": "03-5985-4338",
+      "_hours": "9:00〜18:00",
+      "_closed": "年中無休",
+      "_town": "南池袋",
+      "_tags": [
+        "南池袋エリア",
+        "年中無休",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション うぃんくる",
+      "telephone": "03-6555-2563",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "北大塚1-2-12 大塚第2ロイコーポ201"
+      },
+      "parentOrganization": "（株）ＧＭＳ",
+      "identifier": "1361690421",
+      "faxNumber": "03-6555-5268",
+      "_hours": "9:00〜18:00",
+      "_closed": "年中無休",
+      "_town": "北大塚",
+      "_tags": [
+        "北大塚エリア",
+        "年中無休",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション ホームケア目白",
+      "telephone": "03-6908-2915",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "目白3-13-2 アロマビル3階"
+      },
+      "parentOrganization": "（株）ミレニア",
+      "identifier": "1361690256",
+      "faxNumber": "03-6908-2916",
+      "_hours": "8:45〜17:45",
+      "_closed": "年中無休",
+      "_town": "目白",
+      "_tags": [
+        "目白エリア",
+        "年中無休",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション ホームケア池袋",
+      "telephone": "03-5928-0244",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "東池袋2-7-4 Ｋ・Ｂ東池袋4階"
+      },
+      "parentOrganization": "（株）ミレニア",
+      "identifier": "1361690033",
+      "faxNumber": "03-5928-0245",
+      "_hours": "8:45〜17:45",
+      "_closed": "年中無休",
+      "_town": "東池袋",
+      "_tags": [
+        "東池袋エリア",
+        "年中無休",
+        "訪問看護"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "豊島区で訪問看護を使うには、まず何をすればいいですか？",
+      "a": "主治医に「自宅で訪問看護を使いたい」と伝えるのが最初の一歩です。訪問看護は主治医の指示書がないと始められないため、豊島区のステーションに直接連絡してもそこで止まります。入院中なら退院支援の窓口、主治医が決まっていなければ高齢者総合相談センターが相談先です。"
+    },
+    {
+      "q": "豊島区には訪問看護ステーションが何件ありますか？",
+      "a": "2026年9月時点で、介護情報サイトの掲載ベースで約38件のステーションが豊島区内にあります。本ページではそのうち20件を連絡先つきで掲載しています。全件は厚生労働省「介護サービス情報公表システム」で確認できます。"
+    },
+    {
+      "q": "豊島区の掲載事業所は、どこを見て絞り込めばいいですか？",
+      "a": "まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。豊島区の掲載20件では年中無休が6件、土日も電話を受けるところを含めると7件あります。そのうえで、ご自宅の町名を伝えて豊島区内の対応エリアに入っているかを確認してください。"
+    },
+    {
+      "q": "豊島区で夜間や休日に急変したら、来てもらえますか？",
+      "a": "24時間の緊急対応体制をとっているステーションなら、連絡して必要と判断されれば訪問してもらえます。ただしこれは加算のかかる体制で、豊島区内でもすべてのステーションが対応しているわけではありません。上の受付体制の表は電話の受付時間であり、緊急対応の可否とは別ですので、契約前に必ず確認してください。"
+    },
+    {
+      "q": "医療保険と介護保険のどちらになりますか？",
+      "a": "要介護認定を受けていれば原則として介護保険、受けていなければ医療保険です。ただし国が定める疾病等に当てはまる場合や、急に状態が悪くなって特別訪問看護指示書が出た場合は、認定があっても医療保険になります。豊島区に限らず全国共通の分岐で、判断は主治医とステーションが行います。"
+    },
+    {
+      "q": "豊島区で訪問介護（ヘルパー）と両方使えますか？",
+      "a": "使えます。医療的なケアは訪問看護、身体介護や家事は訪問介護と役割が分かれており、両方を併用する方は珍しくありません。豊島区の訪問介護事業所は同じサイト内にまとめています。介護保険で使う場合は、どちらも区分支給限度基準額の範囲内で組むことになります。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/toshima/\">豊島区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/toshima/\">豊島区のデイサービス<small>通所介護</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/toshima/\">豊島区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/toshima/\">豊島区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/toshima/\">豊島区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/toshima/\">豊島区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアの訪問看護",
+  "nearby": "<a href=\"{{ROOT}}houmon-kango/tokyo/shinjuku/\">新宿区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/bunkyo/\">文京区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/kita/\">北区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/itabashi/\">板橋区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/nerima/\">練馬区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/nakano/\">中野区</a>",
+  "sources": [
+    "厚生労働省「介護事業所・生活関連情報検索（介護サービス情報公表システム）」",
+    "豊島区「高齢者総合相談センター一覧」",
+    "厚生労働大臣が定める疾病等（訪問看護で医療保険が適用される範囲）",
+    "日本郵便 郵便番号データにもとづく豊島区の町域一覧",
+    "区内事業所数の目安：ハートページナビ 掲載件数（2026年9月時点）"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず主治医に相談を</h4>\n        <p>訪問看護は主治医の指示書が起点です。制度の分岐はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>豊島区内のステーションは約38件</li>\n          <li>起点は主治医の訪問看護指示書</li>\n          <li>掲載20件のうち年中無休は6件</li>\n          <li>主治医が未定なら高齢者総合相談センターへ</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}guide/houmon-kaigo-dekirukoto/\">ヘルパーに頼めること</a></li>\n          <li><a href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみ</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">問い合わせ前に</a>",
+  "hero_image": "assets/ogp-houmon-kango.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "toshima"
+  }
+}

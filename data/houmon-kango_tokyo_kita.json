@@ -1,0 +1,519 @@
+{
+  "slug": "houmon-kango_tokyo_kita",
+  "category": {
+    "id": "houmon-kango",
+    "name": "訪問看護",
+    "path": "/houmon-kango/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "kita",
+    "city_name": "北区"
+  },
+  "seo": {
+    "title": "北区の訪問看護20事業所｜主治医の指示書から始める【2026年9月更新】",
+    "description": "東京都北区の訪問看護ステーション20件を連絡先つきで掲載。区内約34件の中から選ぶための所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
+    "canonical": "https://kaigonotonari.com/houmon-kango/tokyo/kita/",
+    "og_title": "北区の訪問看護ステーション一覧｜選び方と始め方",
+    "og_description": "北区の訪問看護ステーション20件を掲載。対応できる医療処置の確認と、主治医の指示書から始める流れを解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-houmon-kango.jpg"
+  },
+  "h1": "北区の訪問看護ステーション一覧｜選び方と始め方",
+  "published": "2026-09-21",
+  "modified": "2026-09-21",
+  "count_label": "掲載：20事業所",
+  "lead": "東京都北区で訪問看護を探している方へ。区内にある約34件のステーションから20件を連絡先つきで掲載し、あわせて所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
+  "listing_note": "北区内の訪問看護ステーションから20件を掲載しています（2026年9月時点）。区内には約34件のステーションがあり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション凛",
+      "telephone": "03-5939-4026",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "赤羽2-48-3 末広ビル3階"
+      },
+      "parentOrganization": "（医社）神幸会",
+      "identifier": "1361790189",
+      "faxNumber": "03-5939-4027",
+      "_hours": "9:00〜17:00",
+      "_closed": "日・年末年始",
+      "_town": "赤羽",
+      "_tags": [
+        "赤羽エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ふれあい訪問看護ステーション",
+      "telephone": "03-3911-3000",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "堀船3-31-15 ふれあいセンタービル2階"
+      },
+      "parentOrganization": "東京ふれあい医療生活協同組合",
+      "identifier": "1367192990",
+      "faxNumber": "03-3911-7208",
+      "_hours": "8:45〜17:15",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "堀船",
+      "_tags": [
+        "堀船エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あすか山訪問看護ステーション",
+      "telephone": "03-5959-3121",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "神谷1-13-10 Ｋｏｕｒｔ-Ｋ3-1階"
+      },
+      "parentOrganization": "（公財）日本訪問看護財団",
+      "identifier": "1367193725",
+      "faxNumber": "03-5959-3151",
+      "_hours": "9:00〜17:30",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "神谷",
+      "_tags": [
+        "神谷エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーションほくと",
+      "telephone": "03-5902-7156",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "豊島3-19-3 豊島ビル1階"
+      },
+      "parentOrganization": "東京ほくと医療生活協同組合",
+      "identifier": "1367195894",
+      "faxNumber": "03-3927-7751",
+      "_hours": "9:00〜17:00、土12:00まで",
+      "_closed": "土（午後）・日・祝・年末年始",
+      "_town": "豊島",
+      "_tags": [
+        "豊島エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション はな 赤羽",
+      "telephone": "03-6822-6565",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "赤羽南2-11-14 ルイケ第二マンション1階"
+      },
+      "parentOrganization": "（株）はな",
+      "identifier": "1361790288",
+      "faxNumber": "03-6685-2488",
+      "_hours": "8:30〜17:30",
+      "_closed": "日・祝",
+      "_town": "赤羽南",
+      "_tags": [
+        "赤羽南エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "赤羽病院",
+      "telephone": "03-3902-3261",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "赤羽2-2-1"
+      },
+      "parentOrganization": "（医社）埴原会",
+      "identifier": "1311770023",
+      "faxNumber": "03-3902-3264",
+      "_hours": "8:30〜17:00、土12:00まで",
+      "_closed": "土（午後）・日・祝・年末年始",
+      "_town": "赤羽",
+      "_tags": [
+        "赤羽エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アワー訪問看護ステーション赤羽",
+      "telephone": "03-6824-5872",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "浮間1-14-3 ユーコート赤羽104"
+      },
+      "parentOrganization": "ＯＵＲ（株）",
+      "identifier": "1361790445",
+      "faxNumber": "03-6701-7253",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "浮間",
+      "_tags": [
+        "浮間エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション デューン王子",
+      "telephone": "03-6903-2678",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "岸町1-6-19 青葉ビル2階"
+      },
+      "parentOrganization": "（株）Ｎ・フィールド",
+      "identifier": "1361790429",
+      "faxNumber": "03-6903-2679",
+      "_hours": "9:00〜18:00",
+      "_closed": "日・年末年始",
+      "_town": "岸町",
+      "_tags": [
+        "岸町エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "さわやか訪問看護ステーション",
+      "telephone": "03-3810-7127",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "昭和町2-7-13 ＳＫビル201"
+      },
+      "parentOrganization": "（株）メディカル オフィス ベラ",
+      "identifier": "1367196793",
+      "faxNumber": "03-3810-7130",
+      "_hours": "9:00〜18:00",
+      "_closed": "夏季・年末年始",
+      "_town": "昭和町",
+      "_tags": [
+        "昭和町エリア",
+        "土日も受付",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "大橋病院 訪問看護ステーション",
+      "telephone": "03-5963-6301",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "赤羽西6-17-8-1階"
+      },
+      "parentOrganization": "（医財）逸生会",
+      "identifier": "1361790072",
+      "faxNumber": "03-5963-6302",
+      "_hours": "8:45〜17:15",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "赤羽西",
+      "_tags": [
+        "赤羽西エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "スマイル優 訪問看護ステーション",
+      "telephone": "03-6770-6522",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "豊島3-20-12 アップステアーズａｎｎｅｘ201"
+      },
+      "parentOrganization": "（同）Ｓａｌｉｘ",
+      "identifier": "1361790312",
+      "faxNumber": "03-6704-5204",
+      "_hours": "8:30〜17:30",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "豊島",
+      "_tags": [
+        "豊島エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "神谷病院訪問看護ステーション",
+      "telephone": "03-6903-3126",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "神谷1-27-14"
+      },
+      "parentOrganization": "（医社）田島厚生会",
+      "identifier": "1367193121",
+      "faxNumber": "03-6903-3127",
+      "_hours": "9:00〜17:00、土12:30まで",
+      "_closed": "土（午後）・日・祝・年末年始",
+      "_town": "神谷",
+      "_tags": [
+        "神谷エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション ぱんだ",
+      "telephone": "03-6903-9822",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "赤羽1-66-5 グリーンコーポⅡ-301"
+      },
+      "parentOrganization": "（株）ＰＮＤ",
+      "identifier": "1361790353",
+      "faxNumber": "03-6903-9821",
+      "_hours": "10:00〜17:00",
+      "_closed": "年中無休",
+      "_town": "赤羽",
+      "_tags": [
+        "赤羽エリア",
+        "年中無休",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション ことぶき",
+      "telephone": "03-6903-2954",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "神谷1-7-12 フローラ神谷橋102"
+      },
+      "parentOrganization": "（株）ことぶき",
+      "identifier": "1361790544",
+      "faxNumber": "050-1425-3917",
+      "_hours": "8:30〜17:30",
+      "_closed": "年中無休",
+      "_town": "神谷",
+      "_tags": [
+        "神谷エリア",
+        "年中無休",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "王子神谷訪問看護リハビリステーション",
+      "telephone": "03-5902-3881",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "王子5-2-2-117"
+      },
+      "parentOrganization": "（同）ＩＭＧ",
+      "identifier": "1361790163",
+      "faxNumber": "03-5902-3882",
+      "_hours": "9:00〜18:00",
+      "_closed": "年末年始",
+      "_town": "王子",
+      "_tags": [
+        "王子エリア",
+        "土日も受付",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション トータルケア王子",
+      "telephone": "03-5948-9267",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "十条仲原2-4-3 コーポエム203"
+      },
+      "parentOrganization": "（株）トータルケア王子",
+      "identifier": "1361790528",
+      "faxNumber": "03-5948-9268",
+      "_hours": "24時間",
+      "_closed": "年中無休",
+      "_town": "十条仲原",
+      "_tags": [
+        "十条仲原エリア",
+        "年中無休",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "しりうす訪問看護ステーション",
+      "telephone": "03-5948-6805",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "赤羽北1-12-14-1階"
+      },
+      "parentOrganization": "（株）青星",
+      "identifier": "1361790452",
+      "faxNumber": "03-5948-9745",
+      "_hours": "8:30〜17:30",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "赤羽北",
+      "_tags": [
+        "赤羽北エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "花と森の訪問看護ステーションペンギン",
+      "telephone": "03-5980-7121",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "西ケ原2-3-2"
+      },
+      "parentOrganization": "（社医社）正志会",
+      "identifier": "1361790148",
+      "faxNumber": "03-5980-7127",
+      "_hours": "9:00〜17:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "西ケ原",
+      "_tags": [
+        "西ケ原エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーションももいろ",
+      "telephone": "03-6821-2360",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "浮間1-6-18"
+      },
+      "parentOrganization": "（株）ＴＯＵＲＩ",
+      "identifier": "1361790569",
+      "faxNumber": "03-6821-2361",
+      "_hours": "9:00〜17:30",
+      "_closed": "日・祝・年末年始",
+      "_town": "浮間",
+      "_tags": [
+        "浮間エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ｓｔｅｌｌａ訪問看護北ステーション",
+      "telephone": "03-5944-2699",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "昭和町1-2-24 アルテール尾久1階"
+      },
+      "parentOrganization": "ｓｔｅｌｌａ８３（株）",
+      "identifier": "1361790460",
+      "faxNumber": "03-5944-2604",
+      "_hours": "8:30〜18:30",
+      "_closed": "年中無休",
+      "_town": "昭和町",
+      "_tags": [
+        "昭和町エリア",
+        "年中無休",
+        "訪問看護"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "北区で訪問看護を使うには、まず何をすればいいですか？",
+      "a": "主治医に「自宅で訪問看護を使いたい」と伝えるのが最初の一歩です。訪問看護は主治医の指示書がないと始められないため、北区のステーションに直接連絡してもそこで止まります。入院中なら退院支援の窓口、主治医が決まっていなければ高齢者あんしんセンターが相談先です。"
+    },
+    {
+      "q": "北区には訪問看護ステーションが何件ありますか？",
+      "a": "2026年9月時点で、介護情報サイトの掲載ベースで約34件のステーションが北区内にあります。本ページではそのうち20件を連絡先つきで掲載しています。全件は厚生労働省「介護サービス情報公表システム」で確認できます。"
+    },
+    {
+      "q": "北区の掲載事業所は、どこを見て絞り込めばいいですか？",
+      "a": "まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。北区の掲載20件では年中無休が4件、土日も電話を受けるところを含めると6件あります。そのうえで、ご自宅の町名を伝えて北区内の対応エリアに入っているかを確認してください。"
+    },
+    {
+      "q": "北区で夜間や休日に急変したら、来てもらえますか？",
+      "a": "24時間の緊急対応体制をとっているステーションなら、連絡して必要と判断されれば訪問してもらえます。ただしこれは加算のかかる体制で、北区内でもすべてのステーションが対応しているわけではありません。上の受付体制の表は電話の受付時間であり、緊急対応の可否とは別ですので、契約前に必ず確認してください。"
+    },
+    {
+      "q": "医療保険と介護保険のどちらになりますか？",
+      "a": "要介護認定を受けていれば原則として介護保険、受けていなければ医療保険です。ただし国が定める疾病等に当てはまる場合や、急に状態が悪くなって特別訪問看護指示書が出た場合は、認定があっても医療保険になります。北区に限らず全国共通の分岐で、判断は主治医とステーションが行います。"
+    },
+    {
+      "q": "北区で訪問介護（ヘルパー）と両方使えますか？",
+      "a": "使えます。医療的なケアは訪問看護、身体介護や家事は訪問介護と役割が分かれており、両方を併用する方は珍しくありません。北区の訪問介護事業所は同じサイト内にまとめています。介護保険で使う場合は、どちらも区分支給限度基準額の範囲内で組むことになります。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/kita/\">北区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/kita/\">北区のデイサービス<small>通所介護</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/kita/\">北区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/kita/\">北区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/kita/\">北区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/kita/\">北区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアの訪問看護",
+  "nearby": "<a href=\"{{ROOT}}houmon-kango/tokyo/bunkyo/\">文京区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/toshima/\">豊島区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/itabashi/\">板橋区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/arakawa/\">荒川区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/adachi/\">足立区</a>",
+  "sources": [
+    "厚生労働省「介護事業所・生活関連情報検索（介護サービス情報公表システム）」",
+    "北区「高齢者あんしんセンター一覧」",
+    "厚生労働大臣が定める疾病等（訪問看護で医療保険が適用される範囲）",
+    "日本郵便 郵便番号データにもとづく北区の町域一覧",
+    "区内事業所数の目安：ハートページナビ 掲載件数（2026年9月時点）"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず主治医に相談を</h4>\n        <p>訪問看護は主治医の指示書が起点です。制度の分岐はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>北区内のステーションは約34件</li>\n          <li>起点は主治医の訪問看護指示書</li>\n          <li>掲載20件のうち年中無休は4件</li>\n          <li>主治医が未定なら高齢者あんしんセンターへ</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}guide/houmon-kaigo-dekirukoto/\">ヘルパーに頼めること</a></li>\n          <li><a href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみ</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">問い合わせ前に</a>",
+  "hero_image": "assets/ogp-houmon-kango.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "kita"
+  }
+}

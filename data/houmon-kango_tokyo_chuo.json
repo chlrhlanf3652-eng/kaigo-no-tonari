@@ -1,0 +1,512 @@
+{
+  "slug": "houmon-kango_tokyo_chuo",
+  "category": {
+    "id": "houmon-kango",
+    "name": "訪問看護",
+    "path": "/houmon-kango/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "chuo",
+    "city_name": "中央区"
+  },
+  "seo": {
+    "title": "中央区の訪問看護20事業所｜主治医の指示書から始める【2026年9月更新】",
+    "description": "東京都中央区の訪問看護ステーション20件を連絡先つきで掲載。区内約23件の中から選ぶための所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
+    "canonical": "https://kaigonotonari.com/houmon-kango/tokyo/chuo/",
+    "og_title": "中央区の訪問看護ステーション一覧｜選び方と始め方",
+    "og_description": "中央区の訪問看護ステーション20件を掲載。対応できる医療処置の確認と、主治医の指示書から始める流れを解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-houmon-kango.jpg"
+  },
+  "h1": "中央区の訪問看護ステーション一覧｜選び方と始め方",
+  "published": "2026-09-21",
+  "modified": "2026-09-21",
+  "count_label": "掲載：20事業所",
+  "lead": "東京都中央区で訪問看護を探している方へ。区内にある約23件のステーションから20件を連絡先つきで掲載し、あわせて所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
+  "listing_note": "中央区内の訪問看護ステーションから20件を掲載しています（2026年9月時点）。区内には約23件のステーションがあり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "リニエ訪問看護ステーション日本橋",
+      "telephone": "03-6206-4275",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "八丁堀2-2-5 宝ビル別館3階"
+      },
+      "parentOrganization": "（株）リニエＲ",
+      "identifier": "1360290314",
+      "faxNumber": "03-6222-8745",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "八丁堀",
+      "_tags": [
+        "八丁堀エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "医師会立中央区訪問看護ステーション",
+      "telephone": "03-3666-2992",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "日本橋小伝馬町5-1"
+      },
+      "parentOrganization": "（公社）日本橋医師会",
+      "identifier": "1367191935",
+      "faxNumber": "03-3666-2889",
+      "_hours": "9:00〜17:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "日本橋小伝馬町",
+      "_tags": [
+        "日本橋小伝馬町エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ピジョン訪問看護ステーション",
+      "telephone": "03-5801-5915",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "銀座7-15-11 銀座7ビルディング3階"
+      },
+      "parentOrganization": "ピジョンメディ（株）",
+      "identifier": "1360290306",
+      "faxNumber": "03-5801-5916",
+      "_hours": "9:00〜18:00",
+      "_closed": "年中無休",
+      "_town": "銀座",
+      "_tags": [
+        "銀座エリア",
+        "年中無休",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "プレアライズ訪問看護ステーション",
+      "telephone": "03-5542-0161",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "新川2-6-4 新川エフ2ビル2階、6階"
+      },
+      "parentOrganization": "（株）プレアライズ",
+      "identifier": "1360290058",
+      "faxNumber": "03-5542-0164",
+      "_hours": "9:30〜18:30",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "新川",
+      "_tags": [
+        "新川エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーションＫｕｕ",
+      "telephone": "03-6222-9041",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "新富1-11-5"
+      },
+      "parentOrganization": "（同）ＹＨ",
+      "identifier": "1360290348",
+      "faxNumber": "03-6222-9042",
+      "_hours": "12:00〜20:00",
+      "_closed": "土・日・祝・夏季・年末年始",
+      "_town": "新富",
+      "_tags": [
+        "新富エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "グッドライフケア訪問看護ステーション",
+      "telephone": "03-5244-9002",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "新川1-28-38 東京ダイヤビルディング2-11階"
+      },
+      "parentOrganization": "（株）グッドライフケア",
+      "identifier": "1367199102",
+      "faxNumber": "03-6630-8093",
+      "_hours": "9:00〜18:00",
+      "_closed": "年中無休",
+      "_town": "新川",
+      "_tags": [
+        "新川エリア",
+        "年中無休",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護リハビリステーション 月島フィジオス",
+      "telephone": "03-5547-4970",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "月島4-4-14"
+      },
+      "parentOrganization": "（株）オーピーティー",
+      "identifier": "1360290140",
+      "faxNumber": "03-5547-4978",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "月島",
+      "_tags": [
+        "月島エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "江戸東京訪問看護リハビリステーション",
+      "telephone": "03-6824-4083",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "日本橋人形町2-20-7 中村邸2階"
+      },
+      "parentOrganization": "（株）エンスリー",
+      "identifier": "1360290363",
+      "faxNumber": "03-6661-9388",
+      "_hours": "9:00〜18:00",
+      "_closed": "年中無休",
+      "_town": "日本橋人形町",
+      "_tags": [
+        "日本橋人形町エリア",
+        "年中無休",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ガイア訪問看護ステーション",
+      "telephone": "03-6222-8424",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "新富2-14-6 ＯＮＺＥ1852ビル7階"
+      },
+      "parentOrganization": "（株）ガイアメディケア",
+      "identifier": "1360290033",
+      "faxNumber": "03-6222-8434",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "新富",
+      "_tags": [
+        "新富エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション日本橋",
+      "telephone": "03-6322-0315",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "日本橋久松町12-4 長島ビル1階"
+      },
+      "parentOrganization": "（株）アイ・ウェイ",
+      "identifier": "1360290199",
+      "faxNumber": "03-6325-8226",
+      "_hours": "9:00〜17:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "日本橋久松町",
+      "_tags": [
+        "日本橋久松町エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション デューン月島",
+      "telephone": "03-3533-1720",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "月島3-14-9 岩﨑ビル202"
+      },
+      "parentOrganization": "（株）Ｎ・フィールド",
+      "identifier": "1360290173",
+      "faxNumber": "03-3533-1721",
+      "_hours": "9:00〜18:00",
+      "_closed": "日",
+      "_town": "月島",
+      "_tags": [
+        "月島エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "東京ひかりナースステーション",
+      "telephone": "03-3520-8862",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "晴海1-1-28 キャナルハウス901"
+      },
+      "parentOrganization": "中央パートナーズ（株）",
+      "identifier": "1360290215",
+      "faxNumber": "03-3520-8865",
+      "_hours": "9:00〜17:00",
+      "_closed": "土・日・祝",
+      "_town": "晴海",
+      "_tags": [
+        "晴海エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "聖路加国際病院訪問看護ステーション",
+      "telephone": "03-5550-7042",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "明石町1-24-6階"
+      },
+      "parentOrganization": "学校法人 聖路加国際大学",
+      "identifier": "1360290066",
+      "faxNumber": "03-5550-7508",
+      "_hours": "8:00〜16:15",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "明石町",
+      "_tags": [
+        "明石町エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "佃訪問看護ステーション",
+      "telephone": "03-3532-3205",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "佃2-5-2 石川島記念病院3階"
+      },
+      "parentOrganization": "（医社）健育会",
+      "identifier": "1360290421",
+      "faxNumber": "03-3534-3815",
+      "_hours": "8:30〜17:30",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "佃",
+      "_tags": [
+        "佃エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ｃｈｅｚｍｏｉ晴海訪問看護ステーション",
+      "telephone": "0120-03-8866",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "晴海3-13-1 ＤＥＵＸＴＯＵＲＳ ＥＡＳＴ棟4611"
+      },
+      "parentOrganization": "（株）アスウェル",
+      "identifier": "1360290272",
+      "faxNumber": "0942-37-0809",
+      "_hours": "9:00〜18:00",
+      "_closed": "日・年末年始",
+      "_town": "晴海",
+      "_tags": [
+        "晴海エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "日本財団在宅看護センター アィルビー訪問看護ステーション",
+      "telephone": "03-5875-8626",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "東京都江東区東陽5-29-47 サンフィールド1階"
+      },
+      "parentOrganization": "（株）在宅看護センター城東",
+      "identifier": "1360890196",
+      "faxNumber": "03-5875-8627",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "",
+      "_tags": [
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "みつい訪問看護ステーション",
+      "telephone": "03-5215-1507",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "東京都千代田区飯田橋1-8-9 ニューシティハイツ飯田橋703"
+      },
+      "parentOrganization": "（同）コミュニティケア",
+      "identifier": "1360190050",
+      "faxNumber": "03-5215-1508",
+      "_hours": "9:00〜18:00",
+      "_closed": "年中無休",
+      "_town": "",
+      "_tags": [
+        "年中無休",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ボンズシップ訪問看護リハビリステーション",
+      "telephone": "03-5633-7290",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "東京都江東区東陽3-10-5 丸半ビル別館3階"
+      },
+      "parentOrganization": "（株）ボンズシップ",
+      "identifier": "1360890113",
+      "faxNumber": "03-5633-8242",
+      "_hours": "8:45〜17:45",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "",
+      "_tags": [
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "いきいきＳＵＮ訪問看護リハビリステーション",
+      "telephone": "03-5809-1761",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "東京都台東区浅草橋1-32-6 コスモス浅草橋酒井ビル6階"
+      },
+      "parentOrganization": "（株）メディセプト",
+      "identifier": "1360290074",
+      "faxNumber": "03-5809-1766",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "",
+      "_tags": [
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "なごみ訪問看護ステーション",
+      "telephone": "03-6389-3189",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中央区",
+        "streetAddress": "東京都中野区中野3-47-14 シグマイーストビル"
+      },
+      "parentOrganization": "（株）なごみ訪問看護ステーション",
+      "identifier": "1361490053",
+      "faxNumber": "03-5942-4177",
+      "_hours": "9:00〜18:00",
+      "_closed": "日・祝・年末年始",
+      "_town": "",
+      "_tags": [
+        "訪問看護"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "中央区で訪問看護を使うには、まず何をすればいいですか？",
+      "a": "主治医に「自宅で訪問看護を使いたい」と伝えるのが最初の一歩です。訪問看護は主治医の指示書がないと始められないため、中央区のステーションに直接連絡してもそこで止まります。入院中なら退院支援の窓口、主治医が決まっていなければおとしより相談センターが相談先です。"
+    },
+    {
+      "q": "中央区には訪問看護ステーションが何件ありますか？",
+      "a": "2026年9月時点で、介護情報サイトの掲載ベースで約23件のステーションが中央区内にあります。本ページではそのうち20件を連絡先つきで掲載しています。全件は厚生労働省「介護サービス情報公表システム」で確認できます。"
+    },
+    {
+      "q": "中央区の掲載事業所は、どこを見て絞り込めばいいですか？",
+      "a": "まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。中央区の掲載20件では年中無休が4件、土日も電話を受けるところを含めると4件あります。そのうえで、ご自宅の町名を伝えて中央区内の対応エリアに入っているかを確認してください。"
+    },
+    {
+      "q": "中央区で夜間や休日に急変したら、来てもらえますか？",
+      "a": "24時間の緊急対応体制をとっているステーションなら、連絡して必要と判断されれば訪問してもらえます。ただしこれは加算のかかる体制で、中央区内でもすべてのステーションが対応しているわけではありません。上の受付体制の表は電話の受付時間であり、緊急対応の可否とは別ですので、契約前に必ず確認してください。"
+    },
+    {
+      "q": "医療保険と介護保険のどちらになりますか？",
+      "a": "要介護認定を受けていれば原則として介護保険、受けていなければ医療保険です。ただし国が定める疾病等に当てはまる場合や、急に状態が悪くなって特別訪問看護指示書が出た場合は、認定があっても医療保険になります。中央区に限らず全国共通の分岐で、判断は主治医とステーションが行います。"
+    },
+    {
+      "q": "中央区で訪問介護（ヘルパー）と両方使えますか？",
+      "a": "使えます。医療的なケアは訪問看護、身体介護や家事は訪問介護と役割が分かれており、両方を併用する方は珍しくありません。中央区の訪問介護事業所は同じサイト内にまとめています。介護保険で使う場合は、どちらも区分支給限度基準額の範囲内で組むことになります。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/chuo/\">中央区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/chuo/\">中央区のデイサービス<small>通所介護</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/chuo/\">中央区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/chuo/\">中央区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/chuo/\">中央区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/chuo/\">中央区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアの訪問看護",
+  "nearby": "<a href=\"{{ROOT}}houmon-kango/tokyo/chiyoda/\">千代田区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/minato/\">港区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/taito/\">台東区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/sumida/\">墨田区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/koto/\">江東区</a>",
+  "sources": [
+    "厚生労働省「介護事業所・生活関連情報検索（介護サービス情報公表システム）」",
+    "中央区「おとしより相談センター一覧」",
+    "厚生労働大臣が定める疾病等（訪問看護で医療保険が適用される範囲）",
+    "日本郵便 郵便番号データにもとづく中央区の町域一覧",
+    "区内事業所数の目安：ハートページナビ 掲載件数（2026年9月時点）"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず主治医に相談を</h4>\n        <p>訪問看護は主治医の指示書が起点です。制度の分岐はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>中央区内のステーションは約23件</li>\n          <li>起点は主治医の訪問看護指示書</li>\n          <li>掲載20件のうち年中無休は4件</li>\n          <li>主治医が未定ならおとしより相談センターへ</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}guide/houmon-kaigo-dekirukoto/\">ヘルパーに頼めること</a></li>\n          <li><a href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみ</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">問い合わせ前に</a>",
+  "hero_image": "assets/ogp-houmon-kango.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "chuo"
+  }
+}

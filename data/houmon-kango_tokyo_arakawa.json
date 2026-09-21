@@ -1,0 +1,517 @@
+{
+  "slug": "houmon-kango_tokyo_arakawa",
+  "category": {
+    "id": "houmon-kango",
+    "name": "訪問看護",
+    "path": "/houmon-kango/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "arakawa",
+    "city_name": "荒川区"
+  },
+  "seo": {
+    "title": "荒川区の訪問看護20事業所｜主治医の指示書から始める【2026年9月更新】",
+    "description": "東京都荒川区の訪問看護ステーション20件を連絡先つきで掲載。区内約26件の中から選ぶための所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
+    "canonical": "https://kaigonotonari.com/houmon-kango/tokyo/arakawa/",
+    "og_title": "荒川区の訪問看護ステーション一覧｜選び方と始め方",
+    "og_description": "荒川区の訪問看護ステーション20件を掲載。対応できる医療処置の確認と、主治医の指示書から始める流れを解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-houmon-kango.jpg"
+  },
+  "h1": "荒川区の訪問看護ステーション一覧｜選び方と始め方",
+  "published": "2026-09-21",
+  "modified": "2026-09-21",
+  "count_label": "掲載：20事業所",
+  "lead": "東京都荒川区で訪問看護を探している方へ。区内にある約26件のステーションから20件を連絡先つきで掲載し、あわせて所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
+  "listing_note": "荒川区内の訪問看護ステーションから20件を掲載しています（2026年9月時点）。区内には約26件のステーションがあり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーションナイチンゲール",
+      "telephone": "03-6806-8507",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "東日暮里2-49-2 大和コーポ204"
+      },
+      "parentOrganization": "（株）ＮｓＬｉｆｅ",
+      "identifier": "1361890278",
+      "faxNumber": "03-6806-8508",
+      "_hours": "9:00〜18:00",
+      "_closed": "年中無休",
+      "_town": "東日暮里",
+      "_tags": [
+        "東日暮里エリア",
+        "年中無休",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション てんとうむし",
+      "telephone": "03-6240-8199",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "東尾久2-30-7-1階"
+      },
+      "parentOrganization": "（株）レディバグ",
+      "identifier": "1361890062",
+      "faxNumber": "03-6240-8191",
+      "_hours": "9:00〜17:00",
+      "_closed": "日・祝・年末年始",
+      "_town": "東尾久",
+      "_tags": [
+        "東尾久エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "カガクル訪問看護ステーション荒川",
+      "telephone": "03-6807-8536",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "西日暮里6-40-5 松本ビル101"
+      },
+      "parentOrganization": "（株）科学的看護・介護研究機構",
+      "identifier": "1361590944",
+      "faxNumber": "03-6807-8663",
+      "_hours": "9:00〜17:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "西日暮里",
+      "_tags": [
+        "西日暮里エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あしすと訪問看護ステーション",
+      "telephone": "03-6806-8283",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "東日暮里1-6-9 東出ビル1階"
+      },
+      "parentOrganization": "（株）あしすと",
+      "identifier": "1361890229",
+      "faxNumber": "03-6806-8346",
+      "_hours": "8:45〜17:30",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "東日暮里",
+      "_tags": [
+        "東日暮里エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "磯医院 訪問看護ステーション",
+      "telephone": "03-5615-2760",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "南千住5-9-1"
+      },
+      "parentOrganization": "（医財）源会",
+      "identifier": "1361890047",
+      "faxNumber": "03-5615-2761",
+      "_hours": "9:00〜17:00",
+      "_closed": "日・祝・年末年始",
+      "_town": "南千住",
+      "_tags": [
+        "南千住エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "天使の翼訪問看護",
+      "telephone": "03-5901-1021",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "東尾久1-15-8-105"
+      },
+      "parentOrganization": "アンジュエール（株）",
+      "identifier": "1361890146",
+      "faxNumber": "03-5901-1022",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝",
+      "_town": "東尾久",
+      "_tags": [
+        "東尾久エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ファミーユ訪問看護ステーション",
+      "telephone": "03-6807-9531",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "東尾久8-42-12 英華ビル1階"
+      },
+      "parentOrganization": "メヴィ（株）",
+      "identifier": "1361890328",
+      "faxNumber": "03-6807-9647",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "東尾久",
+      "_tags": [
+        "東尾久エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーションＳＵＮ",
+      "telephone": "03-6458-2166",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "西日暮里6-8-8 モミービル2階"
+      },
+      "parentOrganization": "ケア・プランニング（株）",
+      "identifier": "1367197775",
+      "faxNumber": "03-5901-9555",
+      "_hours": "9:00〜17:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "西日暮里",
+      "_tags": [
+        "西日暮里エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション ホームケア荒川",
+      "telephone": "03-5615-1212",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "東日暮里5-45-12 いかるがビル503"
+      },
+      "parentOrganization": "（株）ミレニア",
+      "identifier": "1361890336",
+      "faxNumber": "03-3805-0707",
+      "_hours": "8:45〜17:45",
+      "_closed": "年中無休",
+      "_town": "東日暮里",
+      "_tags": [
+        "東日暮里エリア",
+        "年中無休",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ガイア訪問看護ステーション 日暮里",
+      "telephone": "03-5615-2671",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "東日暮里5-50-18 第二松本ビル6階"
+      },
+      "parentOrganization": "（株）ガイアメディケア",
+      "identifier": "1361890153",
+      "faxNumber": "03-5615-2672",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "東日暮里",
+      "_tags": [
+        "東日暮里エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーションみどり",
+      "telephone": "03-3892-0106",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "町屋4-1-16"
+      },
+      "parentOrganization": "（社医社）一成会",
+      "identifier": "1367192313",
+      "faxNumber": "03-3892-0187",
+      "_hours": "9:00〜17:00",
+      "_closed": "日・祝・年末年始",
+      "_town": "町屋",
+      "_tags": [
+        "町屋エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーションつばさ",
+      "telephone": "03-5692-5217",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "西尾久7-7-4 武田ビル3階"
+      },
+      "parentOrganization": "（同）ウイングケア",
+      "identifier": "1361890021",
+      "faxNumber": "03-5692-5218",
+      "_hours": "9:00〜17:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "西尾久",
+      "_tags": [
+        "西尾久エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ハレノヒ訪問看護リハビリステーション",
+      "telephone": "03-5604-5940",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "東日暮里1-17-4"
+      },
+      "parentOrganization": "（株）Ｆｕｋｕｉｋｕ",
+      "identifier": "1361890252",
+      "faxNumber": "03-5604-5941",
+      "_hours": "8:30〜17:30",
+      "_closed": "年中無休",
+      "_town": "東日暮里",
+      "_tags": [
+        "東日暮里エリア",
+        "年中無休",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "スィート・ハート 訪問看護ステーション",
+      "telephone": "03-5604-1554",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "東日暮里5-50-17 アネックスＭ301"
+      },
+      "parentOrganization": "（有）てぃーら",
+      "identifier": "1367197791",
+      "faxNumber": "03-5604-1552",
+      "_hours": "9:00〜17:00",
+      "_closed": "土・日・年末年始",
+      "_town": "東日暮里",
+      "_tags": [
+        "東日暮里エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あいず訪問看護ステーション日暮里",
+      "telephone": "03-5604-9197",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "東日暮里5-43-3 プリメーラ1階"
+      },
+      "parentOrganization": "（株） あいず",
+      "identifier": "1361890369",
+      "faxNumber": "03-5604-9198",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝",
+      "_town": "東日暮里",
+      "_tags": [
+        "東日暮里エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "きらめき訪問看護リハビリステーション日暮里事業所",
+      "telephone": "03-5615-5414",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "西日暮里2-18-4 小川ビル2階"
+      },
+      "parentOrganization": "（株）メディウェルズ",
+      "identifier": "1361890351",
+      "faxNumber": "03-5615-5415",
+      "_hours": "8:30〜17:30",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "西日暮里",
+      "_tags": [
+        "西日暮里エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション デューン荒川",
+      "telephone": "03-5604-9640",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "荒川7-22-6 フロンティアワン3階"
+      },
+      "parentOrganization": "（株）Ｎ・フィールド",
+      "identifier": "1361890187",
+      "faxNumber": "03-5604-9641",
+      "_hours": "9:00〜18:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "荒川",
+      "_tags": [
+        "荒川エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "岡田病院 訪問看護ステーション",
+      "telephone": "03-5615-2144",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "荒川5-3-1"
+      },
+      "parentOrganization": "（医社）杏精会 岡田病院",
+      "identifier": "1311870815",
+      "faxNumber": "03-3891-2258",
+      "_hours": "8:30〜17:30",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "荒川",
+      "_tags": [
+        "荒川エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "荒川区医師会訪問看護ステーション",
+      "telephone": "03-3893-2321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "西日暮里6-5-3"
+      },
+      "parentOrganization": "（一社）荒川区医師会",
+      "identifier": "1367191224",
+      "faxNumber": "03-3810-4768",
+      "_hours": "9:00〜17:00",
+      "_closed": "土・日・祝・年末年始",
+      "_town": "西日暮里",
+      "_tags": [
+        "西日暮里エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＮＳ－ＭＥＮ ＦＡＳＴ",
+      "telephone": "03-5604-5971",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "西日暮里2-49-5-401"
+      },
+      "parentOrganization": "（株）ナスメン",
+      "identifier": "1361890286",
+      "faxNumber": "03-5604-5972",
+      "_hours": "9:00〜18:00",
+      "_closed": "年中無休",
+      "_town": "西日暮里",
+      "_tags": [
+        "西日暮里エリア",
+        "年中無休",
+        "訪問看護"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "荒川区で訪問看護を使うには、まず何をすればいいですか？",
+      "a": "主治医に「自宅で訪問看護を使いたい」と伝えるのが最初の一歩です。訪問看護は主治医の指示書がないと始められないため、荒川区のステーションに直接連絡してもそこで止まります。入院中なら退院支援の窓口、主治医が決まっていなければ地域包括支援センターが相談先です。"
+    },
+    {
+      "q": "荒川区には訪問看護ステーションが何件ありますか？",
+      "a": "2026年9月時点で、介護情報サイトの掲載ベースで約26件のステーションが荒川区内にあります。本ページではそのうち20件を連絡先つきで掲載しています。全件は厚生労働省「介護サービス情報公表システム」で確認できます。"
+    },
+    {
+      "q": "荒川区の掲載事業所は、どこを見て絞り込めばいいですか？",
+      "a": "まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。荒川区の掲載20件では年中無休が4件、土日も電話を受けるところを含めると4件あります。そのうえで、ご自宅の町名を伝えて荒川区内の対応エリアに入っているかを確認してください。"
+    },
+    {
+      "q": "荒川区で夜間や休日に急変したら、来てもらえますか？",
+      "a": "24時間の緊急対応体制をとっているステーションなら、連絡して必要と判断されれば訪問してもらえます。ただしこれは加算のかかる体制で、荒川区内でもすべてのステーションが対応しているわけではありません。上の受付体制の表は電話の受付時間であり、緊急対応の可否とは別ですので、契約前に必ず確認してください。"
+    },
+    {
+      "q": "医療保険と介護保険のどちらになりますか？",
+      "a": "要介護認定を受けていれば原則として介護保険、受けていなければ医療保険です。ただし国が定める疾病等に当てはまる場合や、急に状態が悪くなって特別訪問看護指示書が出た場合は、認定があっても医療保険になります。荒川区に限らず全国共通の分岐で、判断は主治医とステーションが行います。"
+    },
+    {
+      "q": "荒川区で訪問介護（ヘルパー）と両方使えますか？",
+      "a": "使えます。医療的なケアは訪問看護、身体介護や家事は訪問介護と役割が分かれており、両方を併用する方は珍しくありません。荒川区の訪問介護事業所は同じサイト内にまとめています。介護保険で使う場合は、どちらも区分支給限度基準額の範囲内で組むことになります。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/arakawa/\">荒川区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/arakawa/\">荒川区のデイサービス<small>通所介護</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/arakawa/\">荒川区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/arakawa/\">荒川区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/arakawa/\">荒川区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/arakawa/\">荒川区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアの訪問看護",
+  "nearby": "<a href=\"{{ROOT}}houmon-kango/tokyo/bunkyo/\">文京区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/taito/\">台東区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/kita/\">北区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/sumida/\">墨田区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/adachi/\">足立区</a>",
+  "sources": [
+    "厚生労働省「介護事業所・生活関連情報検索（介護サービス情報公表システム）」",
+    "荒川区「地域包括支援センター一覧」",
+    "厚生労働大臣が定める疾病等（訪問看護で医療保険が適用される範囲）",
+    "日本郵便 郵便番号データにもとづく荒川区の町域一覧",
+    "区内事業所数の目安：ハートページナビ 掲載件数（2026年9月時点）"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず主治医に相談を</h4>\n        <p>訪問看護は主治医の指示書が起点です。制度の分岐はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>荒川区内のステーションは約26件</li>\n          <li>起点は主治医の訪問看護指示書</li>\n          <li>掲載20件のうち年中無休は4件</li>\n          <li>主治医が未定なら地域包括支援センターへ</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}guide/houmon-kaigo-dekirukoto/\">ヘルパーに頼めること</a></li>\n          <li><a href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみ</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">問い合わせ前に</a>",
+  "hero_image": "assets/ogp-houmon-kango.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "arakawa"
+  }
+}
