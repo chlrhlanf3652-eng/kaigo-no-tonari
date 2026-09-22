@@ -1,0 +1,328 @@
+{
+  "slug": "fukushi-yogu_tokyo_meguro",
+  "category": {
+    "id": "fukushi-yogu",
+    "name": "福祉用具",
+    "path": "/fukushi-yogu/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "meguro",
+    "city_name": "目黒区"
+  },
+  "seo": {
+    "title": "目黒区の福祉用具11事業所｜レンタルと購入【2026年9月更新】",
+    "description": "東京都目黒区の福祉用具貸与・特定福祉用具販売の指定事業所11件を連絡先つきで掲載。区内11件のうち貸与と販売の両方を扱う事業所がどれかを示し、年10万円までの購入費と、指定事業所から買う必要がある理由を解説します。",
+    "canonical": "https://kaigonotonari.com/fukushi-yogu/tokyo/meguro/",
+    "og_title": "目黒区の福祉用具一覧｜借りるか買うかで事業所が変わります",
+    "og_description": "目黒区の福祉用具事業所11件を掲載。ポータブルトイレや入浴用いすは購入しかできません。指定のない店で買うと保険は出ません。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-fukushi-yogu.jpg"
+  },
+  "h1": "目黒区の福祉用具一覧｜借りるか買うかで事業所が変わります",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：11事業所",
+  "lead": "東京都目黒区で福祉用具のレンタルや購入を考えている方へ。東京都の指定を受けた11件から11件を連絡先つきで掲載し、そのうち<strong>貸与と販売の両方を扱う事業所が10件</strong>あることまで示しました。介護保険で福祉用具を買う場合、<strong>指定を受けた事業者から買ったものにしか支給されません</strong>。同じ商品をネット通販で買っても1円も戻らないので、ここが最初の分かれ目になります。",
+  "listing_note": "目黒区内の福祉用具貸与・特定福祉用具販売の指定事業所から11件を掲載しています（東京都公表・2026年9月1日時点）。区内には11件が指定を受けており、そのすべてを掲載しています。「貸与と販売」「貸与のみ」「販売のみ」の表示は、東京都の一覧でその事業所がどちらのサービス種類で指定を受けているかによります。取扱商品や価格は事業所ごとに違い、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社モンパの木",
+      "telephone": "03-6321-7011",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "目黒本町５－３３－１９グリーンハイツ１階"
+      },
+      "parentOrganization": "株式会社モンパの木",
+      "identifier": "1370403808",
+      "_town": "目黒本町",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2008-07-01",
+      "_years": 18.2258726899384,
+      "_tags": [
+        "目黒本町エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社　星医療酸器南東京営業所",
+      "telephone": "03-5434-8008",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "下目黒３－９－１２レジデンシャル目黒２００号室"
+      },
+      "parentOrganization": "株式会社星医療酸器",
+      "identifier": "1370902007",
+      "_town": "下目黒",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2004-04-01",
+      "_years": 22.47501711156742,
+      "_tags": [
+        "下目黒エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "えるはあとケアセンター",
+      "telephone": "03-5734-1174",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "中央町２－６－１　２階"
+      },
+      "parentOrganization": "有限会社映光メディカル",
+      "identifier": "1371002211",
+      "_town": "中央町",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2006-08-01",
+      "_years": 20.142368240930868,
+      "_tags": [
+        "中央町エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ピース",
+      "telephone": "03-6407-9470",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "駒場３－１１－９フラッツ駒場１０１"
+      },
+      "parentOrganization": "有限会社亜々夢",
+      "identifier": "1371004258",
+      "_town": "駒場",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2016-05-01",
+      "_years": 10.392881587953456,
+      "_tags": [
+        "駒場エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ぬくもり",
+      "telephone": "03-6451-2217",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "中町１－２７－２９　１０３号室"
+      },
+      "parentOrganization": "株式会社ＣＦＸ",
+      "identifier": "1371004308",
+      "_town": "中町",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2016-08-01",
+      "_years": 10.140999315537304,
+      "_tags": [
+        "中町エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ダスキンヘルスレント中目黒ステーション",
+      "telephone": "03-6452-4040",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "上目黒５－１８－２０"
+      },
+      "parentOrganization": "株式会社ほづみ",
+      "identifier": "1371004852",
+      "_town": "上目黒",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2019-02-01",
+      "_years": 7.638603696098563,
+      "_tags": [
+        "上目黒エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ニック株式会社　目黒営業所",
+      "telephone": "03-6303-2645",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "目黒本町６－１３－２１"
+      },
+      "parentOrganization": "ニック株式会社",
+      "identifier": "1371005008",
+      "_town": "目黒本町",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2020-01-01",
+      "_years": 6.72416153319644,
+      "_tags": [
+        "目黒本町エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あうん用具サービス",
+      "telephone": "03-6421-4808",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "自由が丘１－１３－１４－７０２号"
+      },
+      "parentOrganization": "株式会社Ａｏｕｎ",
+      "identifier": "1371005313",
+      "_town": "自由が丘",
+      "_kind": "営利法人",
+      "_mix": "貸与のみ",
+      "_designated": "2022-04-01",
+      "_years": 4.476386036960986,
+      "_tags": [
+        "自由が丘エリア",
+        "貸与のみ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "グレース目黒",
+      "telephone": "03-5724-3936",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "鷹番２－２０－１７ＴＳビル５０４号"
+      },
+      "parentOrganization": "一般社団法人在宅医療協会",
+      "identifier": "1371005453",
+      "_town": "鷹番",
+      "_kind": "社団・財団",
+      "_mix": "両方",
+      "_designated": "2023-11-01",
+      "_years": 2.891170431211499,
+      "_tags": [
+        "鷹番エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "スマートケアサービス",
+      "telephone": "05036903330",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "緑が丘１－１３－２３－２３"
+      },
+      "parentOrganization": "株式会社ＪＣＥＡ",
+      "identifier": "1371005479",
+      "_town": "緑が丘",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2024-04-01",
+      "_years": 2.4750171115674195,
+      "_tags": [
+        "緑が丘エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "コスモインターリアリティー",
+      "telephone": "03-3723-7566",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "八雲２－１１－６シベレス２０３"
+      },
+      "parentOrganization": "株式会社コスモインターリアリティー",
+      "identifier": "1371213875",
+      "_town": "八雲",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2016-09-01",
+      "_years": 10.056125941136209,
+      "_tags": [
+        "八雲エリア",
+        "貸与と販売"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "目黒区で福祉用具を借りるには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければ地域包括支援センターに相談してください。福祉用具貸与もケアプランに位置づける必要があるため、目黒区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "目黒区に福祉用具の事業所は何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で目黒区内に11件の福祉用具の事業所（貸与または特定販売の指定を受けたもの）があります。本ページではそのうち11件を連絡先つきで掲載し、うち10件が貸与と販売の両方を扱っています。"
+    },
+    {
+      "q": "目黒区でポータブルトイレや入浴用のいすは、レンタルできますか？",
+      "a": "できません。これらは購入（特定福祉用具販売）の対象で、同一年度に10万円までが保険の対象になります。目黒区の掲載11件のうち販売の指定を持つのは10件なので、買う予定があるならその中から選んでください。"
+    },
+    {
+      "q": "ネット通販で買っても、目黒区から保険は出ますか？",
+      "a": "出ません。目黒区の掲載11件のうち10件が販売の指定を持っているので、その中から選んでください。購入前に目黒区の介護保険担当かケアマネジャーに相談するのが確実です。"
+    },
+    {
+      "q": "目黒区で介護ベッドを借りたいのですが、要介護1でも借りられますか？",
+      "a": "原則として対象外です。ただし医師の所見などをもとに例外的に認められる場合があり、判断するのは目黒区です。目黒区のケアマネジャー経由で相談してください。対象外になる用具の一覧は福祉用具のしくみのページにまとめています。"
+    },
+    {
+      "q": "目黒区でレンタル料金が事業所によって違うのはなぜですか？",
+      "a": "福祉用具貸与だけは単位数が決まっておらず、事業所が商品ごとに価格を設定するしくみだからです。目黒区の掲載11件は営利法人が10件と大半を占めますが、価格も品ぞろえも事業所ごとに差があるので、複数から見積もりを取ってください。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/meguro/\">目黒区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/meguro/\">目黒区のデイサービス<small>日中の預け先</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/meguro/\">目黒区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/meguro/\">目黒区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/meguro/\">目黒区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/meguro/\">目黒区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアの福祉用具",
+  "nearby": "<a href=\"{{ROOT}}fukushi-yogu/tokyo/shinagawa/\">品川区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/ota/\">大田区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/setagaya/\">世田谷区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/shibuya/\">渋谷区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "江東区「介護保険特定福祉用具購入費の支給」（支給限度額・対象種目・指定事業者要件）",
+    "厚生労働省「令和6年度介護報酬改定」福祉用具貸与・特定福祉用具販売の選択制",
+    "目黒区「地域包括支援センター一覧」",
+    "日本郵便 郵便番号データにもとづく目黒区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>買う前に確認を</h4>\n        <p>指定のない店で買うと保険は出ません。対象種目と手続きはハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>目黒区内の福祉用具事業所は11件（都指定）</li>\n          <li>掲載11件のうち貸与と販売の両方が10件</li>\n          <li>購入は年度内10万円まで（1〜3割負担）</li>\n          <li>指定事業所以外で買うと支給されません</li>\n          <li>入口はケアマネか地域包括支援センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみ</a></li>\n          <li><a href=\"{{ROOT}}houmon-kaigo/\">訪問介護</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">費用のしくみ</a>",
+  "hero_image": "assets/ogp-fukushi-yogu.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "meguro"
+  }
+}

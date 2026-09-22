@@ -1,0 +1,313 @@
+{
+  "slug": "short-stay_tokyo_arakawa",
+  "category": {
+    "id": "short-stay",
+    "name": "ショートステイ",
+    "path": "/short-stay/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "arakawa",
+    "city_name": "荒川区"
+  },
+  "seo": {
+    "title": "荒川区のショートステイ10事業所｜予約と費用【2026年9月更新】",
+    "description": "東京都荒川区の短期入所生活介護（ショートステイ）事業所10件を連絡先つきで掲載。区内10件のうち特養の空床利用型がどれかを含め、予約の取りやすさ・1級地での自己負担・食費と滞在費の見方をまとめました。",
+    "canonical": "https://kaigonotonari.com/short-stay/tokyo/arakawa/",
+    "og_title": "荒川区のショートステイ一覧｜予約が取れる事業所の見分け方",
+    "og_description": "荒川区の短期入所生活介護10件を掲載。空床利用型かどうかで予約の取りやすさが変わります。費用は食費・滞在費まで含めて解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-short-stay.jpg"
+  },
+  "h1": "荒川区のショートステイ一覧｜予約が取れる事業所の見分け方",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：10事業所",
+  "lead": "東京都荒川区で短期入所生活介護（ショートステイ）を探している方へ。東京都の指定を受けた10件から10件を連絡先つきで掲載し、そのうち特養の空床を使う<strong>空床利用型が1件</strong>あることまで示しました。ショートステイでいちばん多い壁は<strong>予約が取れないこと</strong>です。同じ区の事業所でも、専用の床を持つところと特養の空きベッドを使うところでは、押さえやすさがまったく違います。",
+  "listing_note": "荒川区内の短期入所生活介護事業所から10件を掲載しています（東京都公表・2026年9月1日時点）。区内には10件が指定を受けており、そのすべてを掲載しています。「特養の空床利用」「単独型」などの表示は東京都の一覧の事業所種別名です。空き状況は日々変わるため、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "短期入所生活介護さくら館",
+      "telephone": "03-3894-3561",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "町屋７－１０－６"
+      },
+      "parentOrganization": "社会福祉法人北養会",
+      "identifier": "1371801562",
+      "_town": "町屋",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2004-05-01",
+      "_years": 22.392881587953458,
+      "_tags": [
+        "町屋エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＡＬＳＯＫショートステイ荒川西尾久",
+      "telephone": "03-3809-7479",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "西尾久３－１５－１"
+      },
+      "parentOrganization": "ＡＬＳＯＫ介護株式会社",
+      "identifier": "1371802701",
+      "_town": "西尾久",
+      "_kind": "営利法人",
+      "_fkind": "特養以外の併設事業所型",
+      "_designated": "2009-01-01",
+      "_years": 17.72210814510609,
+      "_tags": [
+        "西尾久エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム　癒しの里南千住",
+      "telephone": "03-3803-3700",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "南千住６－６７－８"
+      },
+      "parentOrganization": "社会福祉法人三幸福祉会",
+      "identifier": "1371803378",
+      "_town": "南千住",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の空床利用型",
+      "_designated": "2012-06-01",
+      "_years": 14.30800821355236,
+      "_tags": [
+        "南千住エリア",
+        "特養の空床利用",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム　癒しの里南千住",
+      "telephone": "03-3803-3700",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "南千住６－６７－８"
+      },
+      "parentOrganization": "社会福祉法人三幸福祉会",
+      "identifier": "1371803386",
+      "_town": "南千住",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2012-06-01",
+      "_years": 14.30800821355236,
+      "_tags": [
+        "南千住エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "三河島ケアセンターそよ風",
+      "telephone": "03-5615-1770",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "荒川５－３－３"
+      },
+      "parentOrganization": "株式会社ＳＯＹＯＫＡＺＥ",
+      "identifier": "1371803493",
+      "_town": "荒川",
+      "_kind": "営利法人",
+      "_fkind": "単独型",
+      "_designated": "2012-12-01",
+      "_years": 13.806981519507186,
+      "_tags": [
+        "荒川エリア",
+        "単独型",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ショートステイ　おたけの郷",
+      "telephone": "03-3894-0310",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "町屋７－１８－１１"
+      },
+      "parentOrganization": "社会福祉法人エンゼル福祉会",
+      "identifier": "1371803543",
+      "_town": "町屋",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2013-03-01",
+      "_years": 13.560574948665298,
+      "_tags": [
+        "町屋エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "荒川区立特別養護老人ホームサンハイム荒川",
+      "telephone": "03-3805-7450",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "南千住３－１４－７"
+      },
+      "parentOrganization": "社会福祉法人カメリア会",
+      "identifier": "1371804236",
+      "_town": "南千住",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2017-04-01",
+      "_years": 9.475701574264203,
+      "_tags": [
+        "南千住エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ショートステイ町屋",
+      "telephone": "03-5692-5451",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "町屋１－３８－２０"
+      },
+      "parentOrganization": "株式会社ソラスト",
+      "identifier": "1371804483",
+      "_town": "町屋",
+      "_kind": "営利法人",
+      "_fkind": "単独型",
+      "_designated": "2019-06-01",
+      "_years": 7.310061601642711,
+      "_tags": [
+        "町屋エリア",
+        "単独型",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "荒川区立特別養護老人ホーム花の木ハイム荒川",
+      "telephone": "03-5855-3321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "荒川５－４７－２"
+      },
+      "parentOrganization": "社会福祉法人奉優会",
+      "identifier": "1371804756",
+      "_town": "荒川",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2022-04-01",
+      "_years": 4.476386036960986,
+      "_tags": [
+        "荒川エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あそか　のぞみの郷",
+      "telephone": "03-3893-3517",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "西尾久１－１－１２"
+      },
+      "parentOrganization": "社会福祉法人あそか会",
+      "identifier": "1371804897",
+      "_town": "西尾久",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2024-09-01",
+      "_years": 2.0561259411362083,
+      "_tags": [
+        "西尾久エリア",
+        "併設・専用床",
+        "開設3年以内",
+        "ショートステイ"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "荒川区でショートステイを使うには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければ地域包括支援センターに相談してください。ショートステイもケアプランに位置づける必要があるため、荒川区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "荒川区にショートステイは何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で荒川区内に10件の短期入所生活介護事業所が指定を受けています。本ページではそのうち10件を連絡先つきで掲載しています。掲載分のうち1件が特養の空床利用型です。"
+    },
+    {
+      "q": "荒川区で予約が取れないときはどうすればいいですか？",
+      "a": "まず空床利用型以外を当たってください。荒川区の掲載10件のうち9件は専用の床を持つ事業所です。それでも埋まっていれば、日程をずらすか、荒川区に隣接する区の事業所を当たります。荒川区でもお盆・年末年始・連休は数か月前から埋まります。"
+    },
+    {
+      "q": "荒川区で自己負担はいくらくらいですか？",
+      "a": "荒川区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたります。従来型個室・多床室の併設型なら1割負担で要介護3が1日約849円、要介護5が1日約1,007円が目安です。ただし荒川区でもこれとは別に食費と滞在費が全額自己負担で加わるため、総額はこの倍以上になることがあります。住民税非課税世帯などは負担限度額認定で上限をつけられます。"
+    },
+    {
+      "q": "荒川区のショートステイは何日まで連続で使えますか？",
+      "a": "荒川区でも全国共通で、連続利用は30日までです。日数の管理はケアマネジャーがしてくれます。上限の詳しい決まりはショートステイのしくみのページにまとめています。"
+    },
+    {
+      "q": "認知症があっても荒川区のショートステイを使えますか？",
+      "a": "使えます。荒川区の掲載10件のうち8件は特別養護老人ホームなどに併設されており、認知症の方の受け入れに慣れているところが多くなります。ただし環境が変わると混乱が強く出る方もいるため、荒川区でもまず1泊2日から試してください。夜間の見守り体制は事業所ごとに違います。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}day-service/tokyo/arakawa/\">荒川区のデイサービス<small>日中の預け先</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/arakawa/\">荒川区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/arakawa/\">荒川区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/arakawa/\">荒川区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/arakawa/\">荒川区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/arakawa/\">荒川区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアのショートステイ",
+  "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/bunkyo/\">文京区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/taito/\">台東区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/kita/\">北区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/sumida/\">墨田区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/adachi/\">足立区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
+    "荒川区「地域包括支援センター一覧」",
+    "日本郵便 郵便番号データにもとづく荒川区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず1泊2日から</h4>\n        <p>連続利用の上限や緊急時の預け先は、ハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}short-stay/\">ショートステイのしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>荒川区内の短期入所生活介護は10件（都指定）</li>\n          <li>掲載10件のうち空床利用型が1件</li>\n          <li>併設型・要介護3で1日約849円（1割）</li>\n          <li>食費・滞在費は全額自己負担</li>\n          <li>入口はケアマネか地域包括支援センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}short-stay/\">ショートステイのしくみ</a></li>\n          <li><a href=\"{{ROOT}}day-service/\">デイサービス</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
+  "hero_image": "assets/ogp-short-stay.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "arakawa"
+  }
+}

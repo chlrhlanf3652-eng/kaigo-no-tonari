@@ -1,0 +1,424 @@
+{
+  "slug": "fukushi-yogu_tokyo_arakawa",
+  "category": {
+    "id": "fukushi-yogu",
+    "name": "福祉用具",
+    "path": "/fukushi-yogu/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "arakawa",
+    "city_name": "荒川区"
+  },
+  "seo": {
+    "title": "荒川区の福祉用具15事業所｜レンタルと購入【2026年9月更新】",
+    "description": "東京都荒川区の福祉用具貸与・特定福祉用具販売の指定事業所15件を連絡先つきで掲載。区内15件のうち貸与と販売の両方を扱う事業所がどれかを示し、年10万円までの購入費と、指定事業所から買う必要がある理由を解説します。",
+    "canonical": "https://kaigonotonari.com/fukushi-yogu/tokyo/arakawa/",
+    "og_title": "荒川区の福祉用具一覧｜借りるか買うかで事業所が変わります",
+    "og_description": "荒川区の福祉用具事業所15件を掲載。ポータブルトイレや入浴用いすは購入しかできません。指定のない店で買うと保険は出ません。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-fukushi-yogu.jpg"
+  },
+  "h1": "荒川区の福祉用具一覧｜借りるか買うかで事業所が変わります",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：15事業所",
+  "lead": "東京都荒川区で福祉用具のレンタルや購入を考えている方へ。東京都の指定を受けた15件から15件を連絡先つきで掲載し、そのうち<strong>貸与と販売の両方を扱う事業所が15件</strong>あることまで示しました。介護保険で福祉用具を買う場合、<strong>指定を受けた事業者から買ったものにしか支給されません</strong>。同じ商品をネット通販で買っても1円も戻らないので、ここが最初の分かれ目になります。",
+  "listing_note": "荒川区内の福祉用具貸与・特定福祉用具販売の指定事業所から15件を掲載しています（東京都公表・2026年9月1日時点）。区内には15件が指定を受けており、そのすべてを掲載しています。「貸与と販売」「貸与のみ」「販売のみ」の表示は、東京都の一覧でその事業所がどちらのサービス種類で指定を受けているかによります。取扱商品や価格は事業所ごとに違い、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "ヨウコーほっとフレンド",
+      "telephone": "03-3809-2714",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "東尾久３－４－５"
+      },
+      "parentOrganization": "株式会社ヨウコーほっとフレンド",
+      "identifier": "1371800432",
+      "_town": "東尾久",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2000-02-01",
+      "_years": 26.639288158795345,
+      "_tags": [
+        "東尾久エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "大起エンゼルヘルプ",
+      "telephone": "03-3892-7260",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "東尾久１－１－４　５階"
+      },
+      "parentOrganization": "株式会社大起エンゼルヘルプ",
+      "identifier": "1371801133",
+      "_town": "東尾久",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2003-04-01",
+      "_years": 23.477070499657767,
+      "_tags": [
+        "東尾久エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "パナソニック　エイジフリーショップ荒川台東",
+      "telephone": "03-3895-1775",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "町屋８－２２－８"
+      },
+      "parentOrganization": "あすくライフインプルーブ株式会社",
+      "identifier": "1371801174",
+      "_town": "町屋",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2003-05-01",
+      "_years": 23.394934976043807,
+      "_tags": [
+        "町屋エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "しあわせステーション",
+      "telephone": "03-5850-7151",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "荒川２－４６－５"
+      },
+      "parentOrganization": "有限会社中田",
+      "identifier": "1371801232",
+      "_town": "荒川",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2003-11-01",
+      "_years": 22.8911704312115,
+      "_tags": [
+        "荒川エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "介護用品のハッコウ　荒川営業所",
+      "telephone": "03-3891-5137",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "荒川３－３３－１"
+      },
+      "parentOrganization": "株式会社白興",
+      "identifier": "1371801372",
+      "_town": "荒川",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2004-02-01",
+      "_years": 22.639288158795345,
+      "_tags": [
+        "荒川エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あっぷるちよだ日暮里駅前店",
+      "telephone": "03-3805-0136",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "西日暮里２－１７－８"
+      },
+      "parentOrganization": "株式会社千代田サービスセンター",
+      "identifier": "1371801877",
+      "_town": "西日暮里",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2005-08-01",
+      "_years": 21.141683778234086,
+      "_tags": [
+        "西日暮里エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社ライズクリエイティヴズ",
+      "telephone": "03-3805-7391",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "荒川２－２０－７"
+      },
+      "parentOrganization": "株式会社ライズクリエイティヴズ",
+      "identifier": "1371802966",
+      "_town": "荒川",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2010-08-01",
+      "_years": 16.142368240930868,
+      "_tags": [
+        "荒川エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ホットステーションＳＵＮ",
+      "telephone": "03-5901-9554",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "西日暮里６－８－８モミービル２階"
+      },
+      "parentOrganization": "ケア・プランニング株式会社",
+      "identifier": "1371802982",
+      "_town": "西日暮里",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2010-09-01",
+      "_years": 16.057494866529773,
+      "_tags": [
+        "西日暮里エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "シルバーはあと荒川",
+      "telephone": "03-5615-4680",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "南千住２－３０－１０"
+      },
+      "parentOrganization": "株式会社ベネッセキャリオス",
+      "identifier": "1371803873",
+      "_town": "南千住",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2014-05-01",
+      "_years": 12.394250513347023,
+      "_tags": [
+        "南千住エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社日本ドライ　介護用品のスマイル荒川営業所",
+      "telephone": "03-6240-8666",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "町屋１－２７－５　２階"
+      },
+      "parentOrganization": "株式会社日本ドライ",
+      "identifier": "1371803998",
+      "_town": "町屋",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2014-09-01",
+      "_years": 12.057494866529774,
+      "_tags": [
+        "町屋エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ユーアイ福祉用具",
+      "telephone": "03-6458-2251",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "西尾久７－２７－９－１０３号"
+      },
+      "parentOrganization": "株式会社介護ユーアイ",
+      "identifier": "1371804053",
+      "_town": "西尾久",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2015-06-01",
+      "_years": 11.31006160164271,
+      "_tags": [
+        "西尾久エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "福祉用具　メディサポ",
+      "telephone": "03-5604-5596",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "東日暮里４－１９－１０第２ＣＨビル２０２号"
+      },
+      "parentOrganization": "株式会社メディケアフィールド",
+      "identifier": "1371804624",
+      "_town": "東日暮里",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2021-01-01",
+      "_years": 5.722108145106092,
+      "_tags": [
+        "東日暮里エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "福祉用具ウィング　荒川",
+      "telephone": "03-6807-8601",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "西尾久２－９－１０"
+      },
+      "parentOrganization": "株式会社夢路商事",
+      "identifier": "1371804657",
+      "_town": "西尾久",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2021-05-01",
+      "_years": 5.393566050650239,
+      "_tags": [
+        "西尾久エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアラックス",
+      "telephone": "03-5615-2833",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "南千住１－１５－４トリニティ三ノ輪ビル７Ｆ"
+      },
+      "parentOrganization": "株式会社ハルコ",
+      "identifier": "1371804939",
+      "_town": "南千住",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2024-10-01",
+      "_years": 1.9739904175222451,
+      "_tags": [
+        "南千住エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "日新ライフサポート株式会社",
+      "telephone": "03-3802-1125",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "荒川区",
+        "streetAddress": "東日暮里６－２１－８"
+      },
+      "parentOrganization": "日新ライフサポート株式会社",
+      "identifier": "1371805050",
+      "_town": "東日暮里",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2026-09-01",
+      "_years": 0.057494866529774126,
+      "_tags": [
+        "東日暮里エリア",
+        "貸与と販売"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "荒川区で福祉用具を借りるには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければ地域包括支援センターに相談してください。福祉用具貸与もケアプランに位置づける必要があるため、荒川区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "荒川区に福祉用具の事業所は何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で荒川区内に15件の福祉用具の事業所（貸与または特定販売の指定を受けたもの）があります。本ページではそのうち15件を連絡先つきで掲載し、うち15件が貸与と販売の両方を扱っています。"
+    },
+    {
+      "q": "荒川区でポータブルトイレや入浴用のいすは、レンタルできますか？",
+      "a": "できません。これらは購入（特定福祉用具販売）の対象で、同一年度に10万円までが保険の対象になります。荒川区の掲載15件のうち販売の指定を持つのは15件なので、買う予定があるならその中から選んでください。"
+    },
+    {
+      "q": "ネット通販で買っても、荒川区から保険は出ますか？",
+      "a": "出ません。荒川区の掲載15件のうち15件が販売の指定を持っているので、その中から選んでください。購入前に荒川区の介護保険担当かケアマネジャーに相談するのが確実です。"
+    },
+    {
+      "q": "荒川区で介護ベッドを借りたいのですが、要介護1でも借りられますか？",
+      "a": "原則として対象外です。ただし医師の所見などをもとに例外的に認められる場合があり、判断するのは荒川区です。荒川区のケアマネジャー経由で相談してください。対象外になる用具の一覧は福祉用具のしくみのページにまとめています。"
+    },
+    {
+      "q": "荒川区でレンタル料金が事業所によって違うのはなぜですか？",
+      "a": "福祉用具貸与だけは単位数が決まっておらず、事業所が商品ごとに価格を設定するしくみだからです。荒川区の掲載15件は営利法人が15件と大半を占めますが、価格も品ぞろえも事業所ごとに差があるので、複数から見積もりを取ってください。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/arakawa/\">荒川区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/arakawa/\">荒川区のデイサービス<small>日中の預け先</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/arakawa/\">荒川区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/arakawa/\">荒川区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/arakawa/\">荒川区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/arakawa/\">荒川区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアの福祉用具",
+  "nearby": "<a href=\"{{ROOT}}fukushi-yogu/tokyo/bunkyo/\">文京区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/taito/\">台東区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/kita/\">北区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/sumida/\">墨田区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/adachi/\">足立区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "江東区「介護保険特定福祉用具購入費の支給」（支給限度額・対象種目・指定事業者要件）",
+    "厚生労働省「令和6年度介護報酬改定」福祉用具貸与・特定福祉用具販売の選択制",
+    "荒川区「地域包括支援センター一覧」",
+    "日本郵便 郵便番号データにもとづく荒川区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>買う前に確認を</h4>\n        <p>指定のない店で買うと保険は出ません。対象種目と手続きはハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>荒川区内の福祉用具事業所は15件（都指定）</li>\n          <li>掲載15件のうち貸与と販売の両方が15件</li>\n          <li>購入は年度内10万円まで（1〜3割負担）</li>\n          <li>指定事業所以外で買うと支給されません</li>\n          <li>入口はケアマネか地域包括支援センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみ</a></li>\n          <li><a href=\"{{ROOT}}houmon-kaigo/\">訪問介護</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">費用のしくみ</a>",
+  "hero_image": "assets/ogp-fukushi-yogu.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "arakawa"
+  }
+}

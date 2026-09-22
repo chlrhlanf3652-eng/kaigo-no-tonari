@@ -1,0 +1,539 @@
+{
+  "slug": "fukushi-yogu_tokyo_adachi",
+  "category": {
+    "id": "fukushi-yogu",
+    "name": "福祉用具",
+    "path": "/fukushi-yogu/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "adachi",
+    "city_name": "足立区"
+  },
+  "seo": {
+    "title": "足立区の福祉用具20事業所｜レンタルと購入【2026年9月更新】",
+    "description": "東京都足立区の福祉用具貸与・特定福祉用具販売の指定事業所20件を連絡先つきで掲載。区内52件のうち貸与と販売の両方を扱う事業所がどれかを示し、年10万円までの購入費と、指定事業所から買う必要がある理由を解説します。",
+    "canonical": "https://kaigonotonari.com/fukushi-yogu/tokyo/adachi/",
+    "og_title": "足立区の福祉用具一覧｜借りるか買うかで事業所が変わります",
+    "og_description": "足立区の福祉用具事業所20件を掲載。ポータブルトイレや入浴用いすは購入しかできません。指定のない店で買うと保険は出ません。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-fukushi-yogu.jpg"
+  },
+  "h1": "足立区の福祉用具一覧｜借りるか買うかで事業所が変わります",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：20事業所",
+  "lead": "東京都足立区で福祉用具のレンタルや購入を考えている方へ。東京都の指定を受けた52件から20件を連絡先つきで掲載し、そのうち<strong>貸与と販売の両方を扱う事業所が19件</strong>あることまで示しました。介護保険で福祉用具を買う場合、<strong>指定を受けた事業者から買ったものにしか支給されません</strong>。同じ商品をネット通販で買っても1円も戻らないので、ここが最初の分かれ目になります。",
+  "listing_note": "足立区内の福祉用具貸与・特定福祉用具販売の指定事業所から20件を掲載しています（東京都公表・2026年9月1日時点）。区内には52件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。「貸与と販売」「貸与のみ」「販売のみ」の表示は、東京都の一覧でその事業所がどちらのサービス種類で指定を受けているかによります。取扱商品や価格は事業所ごとに違い、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社セリオ東京北営業所",
+      "telephone": "03-5856-3758",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "綾瀬６－１６－１６ジュネス綾瀬１０１号室"
+      },
+      "parentOrganization": "株式会社セリオ",
+      "identifier": "1370704379",
+      "_town": "綾瀬",
+      "_kind": "営利法人",
+      "_mix": "貸与のみ",
+      "_designated": "2015-07-01",
+      "_years": 11.227926078028748,
+      "_tags": [
+        "綾瀬エリア",
+        "貸与のみ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "やさしい手　住環境事業本部　東営業所",
+      "telephone": "05017525771",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "一ツ家１－２２－２１　ウェルズ２１足立パートⅠ"
+      },
+      "parentOrganization": "株式会社やさしい手",
+      "identifier": "1371801885",
+      "_town": "一ツ家",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2005-08-01",
+      "_years": 21.141683778234086,
+      "_tags": [
+        "一ツ家エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "有限会社　福祉の家",
+      "telephone": "03-3857-2941",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "入谷４－１７－１８"
+      },
+      "parentOrganization": "有限会社福祉の家",
+      "identifier": "1372100659",
+      "_town": "入谷",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "1999-10-01",
+      "_years": 26.976043805612594,
+      "_tags": [
+        "入谷エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "城北介護センター",
+      "telephone": "03-3870-4888",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "千住宮元町３０－４"
+      },
+      "parentOrganization": "株式会社ダイユウケアシステム",
+      "identifier": "1372101152",
+      "_town": "千住宮元町",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2001-01-01",
+      "_years": 25.72210814510609,
+      "_tags": [
+        "千住宮元町エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社あおばライフケア",
+      "telephone": "03-5888-2333",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "梅島３－３３－１"
+      },
+      "parentOrganization": "株式会社あおばライフケア",
+      "identifier": "1372102804",
+      "_town": "梅島",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2002-05-01",
+      "_years": 24.39425051334702,
+      "_tags": [
+        "梅島エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヒラタ",
+      "telephone": "03-5839-3270",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "鹿浜８－１１－５ロイヤルハイム小松原１０５号室"
+      },
+      "parentOrganization": "有限会社　ヒラタ",
+      "identifier": "1372104719",
+      "_town": "鹿浜",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2005-01-01",
+      "_years": 21.72210814510609,
+      "_tags": [
+        "鹿浜エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "まっかな花",
+      "telephone": "03-5682-7117",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "谷中２－７－１３"
+      },
+      "parentOrganization": "アクティブライフ株式会社",
+      "identifier": "1372105021",
+      "_town": "谷中",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2005-07-01",
+      "_years": 21.22655715263518,
+      "_tags": [
+        "谷中エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "レンタルサービス　ソラスト東東京",
+      "telephone": "03-5831-6821",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "竹の塚１－３０－２０泰尚ビル３Ｆ"
+      },
+      "parentOrganization": "株式会社ソラスト",
+      "identifier": "1372107456",
+      "_town": "竹の塚",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2010-02-01",
+      "_years": 16.637919233401778,
+      "_tags": [
+        "竹の塚エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社　苑田メディコ",
+      "telephone": "03-5856-7820",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "保木間４－１５－１６"
+      },
+      "parentOrganization": "株式会社苑田メディコ",
+      "identifier": "1372107597",
+      "_town": "保木間",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2010-06-01",
+      "_years": 16.309377138945926,
+      "_tags": [
+        "保木間エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "らいふケア",
+      "telephone": "03-5851-5544",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "花畑５－２－８"
+      },
+      "parentOrganization": "有限会社レーザテクノジャパン",
+      "identifier": "1372109155",
+      "_town": "花畑",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2013-02-01",
+      "_years": 13.637234770704996,
+      "_tags": [
+        "花畑エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＯＨＩケアサービス",
+      "telephone": "03-6312-0553",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "保木間３－３５－１－２０２"
+      },
+      "parentOrganization": "合資会社ミラクル",
+      "identifier": "1372111706",
+      "_town": "保木間",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2017-03-01",
+      "_years": 9.560574948665298,
+      "_tags": [
+        "保木間エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あっぷけあ足立西",
+      "telephone": "03-5809-5189",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "西新井１－５－３ウィステリア大師前２階"
+      },
+      "parentOrganization": "あっぷけあスマイル株式会社",
+      "identifier": "1372112266",
+      "_town": "西新井",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2018-03-01",
+      "_years": 8.56125941136208,
+      "_tags": [
+        "西新井エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あっぷけあ大師参道",
+      "telephone": "03-6869-5302",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "西新井１－８－２サイトウビル１階"
+      },
+      "parentOrganization": "あっぷけあスーリール株式会社",
+      "identifier": "1372112639",
+      "_town": "西新井",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2018-12-01",
+      "_years": 7.808350444900753,
+      "_tags": [
+        "西新井エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社アットホーム　足立営業所",
+      "telephone": "03-3860-6790",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "六月２－３２－７"
+      },
+      "parentOrganization": "株式会社アットホーム",
+      "identifier": "1372113579",
+      "_town": "六月",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2021-07-01",
+      "_years": 5.2265571526351815,
+      "_tags": [
+        "六月エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "のるでん",
+      "telephone": "03-6806-1014",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "柳原１－１１－１１"
+      },
+      "parentOrganization": "ストレスケアリゾート株式会社",
+      "identifier": "1372114114",
+      "_town": "柳原",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2023-06-01",
+      "_years": 3.3100616016427105,
+      "_tags": [
+        "柳原エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "気宇",
+      "telephone": "09025642631",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "扇１－４４－３"
+      },
+      "parentOrganization": "株式会社ベストハンク",
+      "identifier": "1372114429",
+      "_town": "扇",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2024-06-01",
+      "_years": 2.308008213552361,
+      "_tags": [
+        "扇エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あかつき",
+      "telephone": "03-5856-5333",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "竹の塚４－２－７アーク竹ノ塚マンション１０１号室"
+      },
+      "parentOrganization": "有限会社アカツキ",
+      "identifier": "1372114486",
+      "_town": "竹の塚",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2024-09-01",
+      "_years": 2.0561259411362083,
+      "_tags": [
+        "竹の塚エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "有限会社　東関東サービス　東京支店",
+      "telephone": "03-5849-5323",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "辰沼２－６－１０"
+      },
+      "parentOrganization": "有限会社東関東サービス",
+      "identifier": "1372114767",
+      "_town": "辰沼",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2025-06-01",
+      "_years": 1.3086926762491444,
+      "_tags": [
+        "辰沼エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "パナソニックエイジフリーショップ足立",
+      "telephone": "03-4332-6833",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "新田１－１７－３"
+      },
+      "parentOrganization": "日建リース工業株式会社",
+      "identifier": "1372114940",
+      "_town": "新田",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2025-11-01",
+      "_years": 0.8898015058179329,
+      "_tags": [
+        "新田エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "福祉用具　笑楽　東京",
+      "telephone": "03-5809-5924",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "入谷９－１４－１４"
+      },
+      "parentOrganization": "株式会社ビオネスト",
+      "identifier": "1372115012",
+      "_town": "入谷",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2026-01-01",
+      "_years": 0.7227926078028748,
+      "_tags": [
+        "入谷エリア",
+        "貸与と販売"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "足立区で福祉用具を借りるには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければ地域包括支援センター（ホウカツ）に相談してください。福祉用具貸与もケアプランに位置づける必要があるため、足立区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "足立区に福祉用具の事業所は何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で足立区内に52件の福祉用具の事業所（貸与または特定販売の指定を受けたもの）があります。本ページではそのうち20件を連絡先つきで掲載し、うち19件が貸与と販売の両方を扱っています。"
+    },
+    {
+      "q": "足立区でポータブルトイレや入浴用のいすは、レンタルできますか？",
+      "a": "できません。これらは購入（特定福祉用具販売）の対象で、同一年度に10万円までが保険の対象になります。足立区の掲載20件のうち販売の指定を持つのは19件なので、買う予定があるならその中から選んでください。"
+    },
+    {
+      "q": "ネット通販で買っても、足立区から保険は出ますか？",
+      "a": "出ません。足立区の掲載20件のうち19件が販売の指定を持っているので、その中から選んでください。購入前に足立区の介護保険担当かケアマネジャーに相談するのが確実です。"
+    },
+    {
+      "q": "足立区で介護ベッドを借りたいのですが、要介護1でも借りられますか？",
+      "a": "原則として対象外です。ただし医師の所見などをもとに例外的に認められる場合があり、判断するのは足立区です。足立区のケアマネジャー経由で相談してください。対象外になる用具の一覧は福祉用具のしくみのページにまとめています。"
+    },
+    {
+      "q": "足立区でレンタル料金が事業所によって違うのはなぜですか？",
+      "a": "福祉用具貸与だけは単位数が決まっておらず、事業所が商品ごとに価格を設定するしくみだからです。足立区の掲載20件は営利法人が20件と大半を占めますが、価格も品ぞろえも事業所ごとに差があるので、複数から見積もりを取ってください。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/adachi/\">足立区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/adachi/\">足立区のデイサービス<small>日中の預け先</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/adachi/\">足立区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/adachi/\">足立区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/adachi/\">足立区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/adachi/\">足立区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアの福祉用具",
+  "nearby": "<a href=\"{{ROOT}}fukushi-yogu/tokyo/kita/\">北区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/arakawa/\">荒川区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/sumida/\">墨田区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/katsushika/\">葛飾区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/itabashi/\">板橋区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/taito/\">台東区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "江東区「介護保険特定福祉用具購入費の支給」（支給限度額・対象種目・指定事業者要件）",
+    "厚生労働省「令和6年度介護報酬改定」福祉用具貸与・特定福祉用具販売の選択制",
+    "足立区「地域包括支援センター（ホウカツ）一覧」",
+    "日本郵便 郵便番号データにもとづく足立区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>買う前に確認を</h4>\n        <p>指定のない店で買うと保険は出ません。対象種目と手続きはハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>足立区内の福祉用具事業所は52件（都指定）</li>\n          <li>掲載20件のうち貸与と販売の両方が19件</li>\n          <li>購入は年度内10万円まで（1〜3割負担）</li>\n          <li>指定事業所以外で買うと支給されません</li>\n          <li>入口はケアマネか地域包括支援センター（ホウカツ）</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみ</a></li>\n          <li><a href=\"{{ROOT}}houmon-kaigo/\">訪問介護</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">費用のしくみ</a>",
+  "hero_image": "assets/ogp-fukushi-yogu.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "adachi"
+  }
+}

@@ -1,0 +1,552 @@
+{
+  "slug": "short-stay_tokyo_itabashi",
+  "category": {
+    "id": "short-stay",
+    "name": "ショートステイ",
+    "path": "/short-stay/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "itabashi",
+    "city_name": "板橋区"
+  },
+  "seo": {
+    "title": "板橋区のショートステイ20事業所｜予約と費用【2026年9月更新】",
+    "description": "東京都板橋区の短期入所生活介護（ショートステイ）事業所20件を連絡先つきで掲載。区内24件のうち特養の空床利用型がどれかを含め、予約の取りやすさ・1級地での自己負担・食費と滞在費の見方をまとめました。",
+    "canonical": "https://kaigonotonari.com/short-stay/tokyo/itabashi/",
+    "og_title": "板橋区のショートステイ一覧｜予約が取れる事業所の見分け方",
+    "og_description": "板橋区の短期入所生活介護20件を掲載。空床利用型かどうかで予約の取りやすさが変わります。費用は食費・滞在費まで含めて解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-short-stay.jpg"
+  },
+  "h1": "板橋区のショートステイ一覧｜予約が取れる事業所の見分け方",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：20事業所",
+  "lead": "東京都板橋区で短期入所生活介護（ショートステイ）を探している方へ。東京都の指定を受けた24件から20件を連絡先つきで掲載し、そのうち特養の空床を使う<strong>空床利用型が6件</strong>あることまで示しました。ショートステイでいちばん多い壁は<strong>予約が取れないこと</strong>です。同じ区の事業所でも、専用の床を持つところと特養の空きベッドを使うところでは、押さえやすさがまったく違います。",
+  "listing_note": "板橋区内の短期入所生活介護事業所から20件を掲載しています（東京都公表・2026年9月1日時点）。区内には24件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。「特養の空床利用」「単独型」などの表示は東京都の一覧の事業所種別名です。空き状況は日々変わるため、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "東京武蔵野ホーム",
+      "telephone": "03-3959-7421",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "小茂根四丁目１１番１１号"
+      },
+      "parentOrganization": "社会福祉法人小茂根の郷",
+      "identifier": "1371900281",
+      "_town": "小茂根",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2000-03-01",
+      "_years": 26.559890485968516,
+      "_tags": [
+        "小茂根エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム　ケアポート板橋",
+      "telephone": "03-3969-3120",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "舟渡三丁目４番８号"
+      },
+      "parentOrganization": "社会福祉法人不二健育会",
+      "identifier": "1371900893",
+      "_town": "舟渡",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2000-02-01",
+      "_years": 26.639288158795345,
+      "_tags": [
+        "舟渡エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "いずみの苑",
+      "telephone": "03-5970-9101",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "東坂下２－２－２２"
+      },
+      "parentOrganization": "社会福祉法人東京援護協会",
+      "identifier": "1371900984",
+      "_town": "東坂下",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2000-02-01",
+      "_years": 26.639288158795345,
+      "_tags": [
+        "東坂下エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "加賀さくらの杜",
+      "telephone": "03-3579-0661",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "加賀２－１－１"
+      },
+      "parentOrganization": "社会福祉法人寿栄会",
+      "identifier": "1371901479",
+      "_town": "加賀",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "_tags": [
+        "加賀エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "若木ライフ",
+      "telephone": "03-3933-3900",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "若木一丁目２１番３号"
+      },
+      "parentOrganization": "社会福祉法人信隆会",
+      "identifier": "1371901990",
+      "_town": "若木",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2000-05-01",
+      "_years": 26.392881587953458,
+      "_tags": [
+        "若木エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ショートステイ　マイライフ徳丸",
+      "telephone": "03-3933-0039",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "徳丸３－３２－２８"
+      },
+      "parentOrganization": "社会福祉法人北野会",
+      "identifier": "1371903525",
+      "_town": "徳丸",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の空床利用型",
+      "_designated": "2003-04-01",
+      "_years": 23.477070499657767,
+      "_tags": [
+        "徳丸エリア",
+        "特養の空床利用",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ブルーポピー",
+      "telephone": "03-5904-0220",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "大門８－５"
+      },
+      "parentOrganization": "社会福祉法人四葉晃耀会",
+      "identifier": "1371904713",
+      "_town": "大門",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2005-04-01",
+      "_years": 21.475701574264203,
+      "_tags": [
+        "大門エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム　音羽台レジデンス",
+      "telephone": "03-3939-0200",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "成増４－３３－１"
+      },
+      "parentOrganization": "社会福祉法人翠生会",
+      "identifier": "1371906361",
+      "_town": "成増",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の空床利用型",
+      "_designated": "2008-10-01",
+      "_years": 17.973990417522245,
+      "_tags": [
+        "成増エリア",
+        "特養の空床利用",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム　板橋の里　英智園",
+      "telephone": "03-5915-0225",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "前野町３－４５－７"
+      },
+      "parentOrganization": "社会福祉法人福翠会",
+      "identifier": "1371906858",
+      "_town": "前野町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2010-12-01",
+      "_years": 15.808350444900753,
+      "_tags": [
+        "前野町エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あずさわの里　短期入所生活介護",
+      "telephone": "03-5970-5300",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "小豆沢４－１４－３"
+      },
+      "parentOrganization": "社会福祉法人相愛福祉会",
+      "identifier": "1371907997",
+      "_town": "小豆沢",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の空床利用型",
+      "_designated": "2012-06-01",
+      "_years": 14.30800821355236,
+      "_tags": [
+        "小豆沢エリア",
+        "特養の空床利用",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "クローバーのさと　ショートステイ　カウピリ板橋",
+      "telephone": "03-3957-1098",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "仲町１－４"
+      },
+      "parentOrganization": "社会福祉法人明東会",
+      "identifier": "1371909373",
+      "_town": "仲町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2014-10-01",
+      "_years": 11.97535934291581,
+      "_tags": [
+        "仲町エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アズハイムテラス成増",
+      "telephone": "03-3939-1870",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "成増１－２－３"
+      },
+      "parentOrganization": "株式会社アズパートナーズ",
+      "identifier": "1371909704",
+      "_town": "成増",
+      "_kind": "営利法人",
+      "_fkind": "単独型",
+      "_designated": "2015-05-01",
+      "_years": 11.394934976043805,
+      "_tags": [
+        "成増エリア",
+        "単独型",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "オーネスト成増短期入所生活介護事業所",
+      "telephone": "03-6904-3831",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "成増４－２９－７"
+      },
+      "parentOrganization": "社会福祉法人紫水会",
+      "identifier": "1371909720",
+      "_town": "成増",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2015-05-01",
+      "_years": 11.394934976043805,
+      "_tags": [
+        "成増エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "三園の里短期入所生活介護",
+      "telephone": "03-5967-1140",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "三園２－１５－２２"
+      },
+      "parentOrganization": "社会福祉法人相愛福祉会",
+      "identifier": "1371909985",
+      "_town": "三園",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2015-12-01",
+      "_years": 10.809034907597535,
+      "_tags": [
+        "三園エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ゆめの園りあん若葉　ショートステイ事業所",
+      "telephone": "03-3935-5780",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "若木３－１５－１"
+      },
+      "parentOrganization": "社会福祉法人ハッピーネット",
+      "identifier": "1371910512",
+      "_town": "若木",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の空床利用型",
+      "_designated": "2017-01-01",
+      "_years": 9.722108145106091,
+      "_tags": [
+        "若木エリア",
+        "特養の空床利用",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "介護老人福祉施設ケアホーム板橋",
+      "telephone": "03-5964-5600",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "向原３－７－８"
+      },
+      "parentOrganization": "社会福祉法人平成記念会",
+      "identifier": "1371911346",
+      "_town": "向原",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2019-06-01",
+      "_years": 7.310061601642711,
+      "_tags": [
+        "向原エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "介護老人福祉施設ケアホーム板橋",
+      "telephone": "03-5964-5600",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "向原三丁目7番8号"
+      },
+      "parentOrganization": "社会福祉法人平成記念会",
+      "identifier": "1371911361",
+      "_town": "向原",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の空床利用型",
+      "_designated": "2020-01-01",
+      "_years": 6.72416153319644,
+      "_tags": [
+        "向原エリア",
+        "特養の空床利用",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ショートステイ　ケアサポートいたばし",
+      "telephone": "03-5968-1765",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "高島平７－１１－４"
+      },
+      "parentOrganization": "ケアサポート株式会社",
+      "identifier": "1371911395",
+      "_town": "高島平",
+      "_kind": "営利法人",
+      "_fkind": "単独型",
+      "_designated": "2019-07-01",
+      "_years": 7.227926078028747,
+      "_tags": [
+        "高島平エリア",
+        "単独型",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム　サニーヒル板橋",
+      "telephone": "03-5939-8832",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "大原町６－８"
+      },
+      "parentOrganization": "社会福祉法人隆徳会",
+      "identifier": "1371911437",
+      "_town": "大原町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2019-10-01",
+      "_years": 6.976043805612594,
+      "_tags": [
+        "大原町エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム　みどりの苑",
+      "telephone": "03-5994-5927",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "前野町５－９－３"
+      },
+      "parentOrganization": "社会福祉法人奉優会",
+      "identifier": "1371912245",
+      "_town": "前野町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の空床利用型",
+      "_designated": "2023-04-01",
+      "_years": 3.477070499657769,
+      "_tags": [
+        "前野町エリア",
+        "特養の空床利用",
+        "ショートステイ"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "板橋区でショートステイを使うには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければおとしより相談センターに相談してください。ショートステイもケアプランに位置づける必要があるため、板橋区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "板橋区にショートステイは何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で板橋区内に24件の短期入所生活介護事業所が指定を受けています。本ページではそのうち20件を連絡先つきで掲載しています。掲載分のうち6件が特養の空床利用型です。"
+    },
+    {
+      "q": "板橋区で予約が取れないときはどうすればいいですか？",
+      "a": "まず空床利用型以外を当たってください。板橋区の掲載20件のうち14件は専用の床を持つ事業所です。それでも埋まっていれば、日程をずらすか、板橋区に隣接する区の事業所を当たります。板橋区でもお盆・年末年始・連休は数か月前から埋まります。"
+    },
+    {
+      "q": "板橋区で自己負担はいくらくらいですか？",
+      "a": "板橋区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたります。従来型個室・多床室の併設型なら1割負担で要介護3が1日約849円、要介護5が1日約1,007円が目安です。ただし板橋区でもこれとは別に食費と滞在費が全額自己負担で加わるため、総額はこの倍以上になることがあります。住民税非課税世帯などは負担限度額認定で上限をつけられます。"
+    },
+    {
+      "q": "板橋区のショートステイは何日まで連続で使えますか？",
+      "a": "板橋区でも全国共通で、連続利用は30日までです。日数の管理はケアマネジャーがしてくれます。上限の詳しい決まりはショートステイのしくみのページにまとめています。"
+    },
+    {
+      "q": "認知症があっても板橋区のショートステイを使えますか？",
+      "a": "使えます。板橋区の掲載20件のうち18件は特別養護老人ホームなどに併設されており、認知症の方の受け入れに慣れているところが多くなります。ただし環境が変わると混乱が強く出る方もいるため、板橋区でもまず1泊2日から試してください。夜間の見守り体制は事業所ごとに違います。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}day-service/tokyo/itabashi/\">板橋区のデイサービス<small>日中の預け先</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/itabashi/\">板橋区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/itabashi/\">板橋区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/itabashi/\">板橋区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/itabashi/\">板橋区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/itabashi/\">板橋区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアのショートステイ",
+  "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/nerima/\">練馬区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/kita/\">北区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/toshima/\">豊島区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/adachi/\">足立区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/shinjuku/\">新宿区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/bunkyo/\">文京区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
+    "板橋区「おとしより相談センター一覧」",
+    "日本郵便 郵便番号データにもとづく板橋区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず1泊2日から</h4>\n        <p>連続利用の上限や緊急時の預け先は、ハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}short-stay/\">ショートステイのしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>板橋区内の短期入所生活介護は24件（都指定）</li>\n          <li>掲載20件のうち空床利用型が6件</li>\n          <li>併設型・要介護3で1日約849円（1割）</li>\n          <li>食費・滞在費は全額自己負担</li>\n          <li>入口はケアマネかおとしより相談センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}short-stay/\">ショートステイのしくみ</a></li>\n          <li><a href=\"{{ROOT}}day-service/\">デイサービス</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
+  "hero_image": "assets/ogp-short-stay.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "itabashi"
+  }
+}

@@ -1,0 +1,552 @@
+{
+  "slug": "short-stay_tokyo_katsushika",
+  "category": {
+    "id": "short-stay",
+    "name": "ショートステイ",
+    "path": "/short-stay/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "katsushika",
+    "city_name": "葛飾区"
+  },
+  "seo": {
+    "title": "葛飾区のショートステイ20事業所｜予約と費用【2026年9月更新】",
+    "description": "東京都葛飾区の短期入所生活介護（ショートステイ）事業所20件を連絡先つきで掲載。区内25件のうち特養の空床利用型がどれかを含め、予約の取りやすさ・1級地での自己負担・食費と滞在費の見方をまとめました。",
+    "canonical": "https://kaigonotonari.com/short-stay/tokyo/katsushika/",
+    "og_title": "葛飾区のショートステイ一覧｜予約が取れる事業所の見分け方",
+    "og_description": "葛飾区の短期入所生活介護20件を掲載。空床利用型かどうかで予約の取りやすさが変わります。費用は食費・滞在費まで含めて解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-short-stay.jpg"
+  },
+  "h1": "葛飾区のショートステイ一覧｜予約が取れる事業所の見分け方",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：20事業所",
+  "lead": "東京都葛飾区で短期入所生活介護（ショートステイ）を探している方へ。東京都の指定を受けた25件から20件を連絡先つきで掲載し、そのうち特養の空床を使う<strong>空床利用型が4件</strong>あることまで示しました。ショートステイでいちばん多い壁は<strong>予約が取れないこと</strong>です。同じ区の事業所でも、専用の床を持つところと特養の空きベッドを使うところでは、押さえやすさがまったく違います。",
+  "listing_note": "葛飾区内の短期入所生活介護事業所から20件を掲載しています（東京都公表・2026年9月1日時点）。区内には25件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。「特養の空床利用」「単独型」などの表示は東京都の一覧の事業所種別名です。空き状況は日々変わるため、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "中川園",
+      "telephone": "03-3607-4060",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "西水元４－５－１"
+      },
+      "parentOrganization": "社会福祉法人仁生社",
+      "identifier": "1372200491",
+      "_town": "西水元",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2000-01-04",
+      "_years": 26.715947980835043,
+      "_tags": [
+        "西水元エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "水元ふれあいの家",
+      "telephone": "03-3607-7881",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "水元１－２６－２０"
+      },
+      "parentOrganization": "社会福祉法人仁生社",
+      "identifier": "1372200509",
+      "_town": "水元",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の空床利用型",
+      "_designated": "2001-04-01",
+      "_years": 25.475701574264203,
+      "_tags": [
+        "水元エリア",
+        "特養の空床利用",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "水元園",
+      "telephone": "03-3607-4060",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "西水元４－６－１"
+      },
+      "parentOrganization": "社会福祉法人仁生社",
+      "identifier": "1372200517",
+      "_town": "西水元",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の空床利用型",
+      "_designated": "2000-01-04",
+      "_years": 26.715947980835043,
+      "_tags": [
+        "西水元エリア",
+        "特養の空床利用",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "奥戸くつろぎの郷",
+      "telephone": "03-5670-1261",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "奥戸３－２５－１"
+      },
+      "parentOrganization": "社会福祉法人仁生社",
+      "identifier": "1372200525",
+      "_town": "奥戸",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2001-04-01",
+      "_years": 25.475701574264203,
+      "_tags": [
+        "奥戸エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム西水元あやめ園",
+      "telephone": "03-3826-2951",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "西水元２－２－８"
+      },
+      "parentOrganization": "社会福祉法人武蔵野会",
+      "identifier": "1372200558",
+      "_town": "西水元",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2001-04-01",
+      "_years": 25.475701574264203,
+      "_tags": [
+        "西水元エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "東四つ木ほほえみの里",
+      "telephone": "03-5698-2341",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "東四つ木２－２６－１５"
+      },
+      "parentOrganization": "社会福祉法人共生会",
+      "identifier": "1372200996",
+      "_town": "東四つ木",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2001-04-01",
+      "_years": 25.475701574264203,
+      "_tags": [
+        "東四つ木エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "西水元ナーシングホーム",
+      "telephone": "03-3607-0050",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "西水元６－１２－２"
+      },
+      "parentOrganization": "社会福祉法人東翔会",
+      "identifier": "1372201242",
+      "_town": "西水元",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2000-05-01",
+      "_years": 26.392881587953458,
+      "_tags": [
+        "西水元エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "葛飾やすらぎの郷",
+      "telephone": "03-5648-8250",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "新宿三丁目４番１０号"
+      },
+      "parentOrganization": "社会福祉法人すこやか福祉会",
+      "identifier": "1372201523",
+      "_town": "新宿",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2001-06-01",
+      "_years": 25.308692676249144,
+      "_tags": [
+        "新宿エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ショートステイかつしか苑",
+      "telephone": "03-6662-2220",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "白鳥二丁目９番１８号"
+      },
+      "parentOrganization": "社会福祉法人葛飾会",
+      "identifier": "1372202570",
+      "_town": "白鳥",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の空床利用型",
+      "_designated": "2003-12-01",
+      "_years": 22.809034907597535,
+      "_tags": [
+        "白鳥エリア",
+        "特養の空床利用",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "社会福祉法人三幸福祉会特別養護老人ホーム癒しの里亀有",
+      "telephone": "03-5629-5866",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "亀有２－６０－５"
+      },
+      "parentOrganization": "社会福祉法人三幸福祉会",
+      "identifier": "1372203347",
+      "_town": "亀有",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2005-10-01",
+      "_years": 20.974674880219027,
+      "_tags": [
+        "亀有エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "SILVER　SUPPORT　星にねがいを",
+      "telephone": "03-5693-4165",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "細田４－２－８"
+      },
+      "parentOrganization": "株式会社サンハート",
+      "identifier": "1372203354",
+      "_town": "細田",
+      "_kind": "営利法人",
+      "_fkind": "特養以外の併設事業所型",
+      "_designated": "2005-11-01",
+      "_years": 20.889801505817932,
+      "_tags": [
+        "細田エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "短期入所生活介護施設　こはるび",
+      "telephone": "03-3602-1011",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "青戸七丁目３４番６号"
+      },
+      "parentOrganization": "医療法人財団光善会",
+      "identifier": "1372203537",
+      "_town": "青戸",
+      "_kind": "医療法人",
+      "_fkind": "特養以外の併設事業所型",
+      "_designated": "2006-04-01",
+      "_years": 20.476386036960985,
+      "_tags": [
+        "青戸エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ショートステイ　ル・ソラリオン葛飾",
+      "telephone": "03-3601-3711",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "青戸４－１６－７"
+      },
+      "parentOrganization": "社会福祉法人敬仁会",
+      "identifier": "1372203883",
+      "_town": "青戸",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2007-04-01",
+      "_years": 19.477070499657767,
+      "_tags": [
+        "青戸エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "短期入所生活介護事業所　エトワール",
+      "telephone": "03-5876-1212",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "新宿６－２－１３"
+      },
+      "parentOrganization": "社会福祉法人藤寿会",
+      "identifier": "1372204535",
+      "_town": "新宿",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2009-06-01",
+      "_years": 17.308692676249144,
+      "_tags": [
+        "新宿エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "東かなまち桜園（介護予防）短期入所生活介護事業所",
+      "telephone": "03-5876-5281",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "東金町２－１３－１０"
+      },
+      "parentOrganization": "社会福祉法人清風会",
+      "identifier": "1372205938",
+      "_town": "東金町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2013-04-01",
+      "_years": 13.475701574264203,
+      "_tags": [
+        "東金町エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ショートステイ　バタフライ ヒル細田",
+      "telephone": "03-5612-1717",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "細田４－２０－１４"
+      },
+      "parentOrganization": "社会福祉法人善光会",
+      "identifier": "1372205987",
+      "_town": "細田",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2013-05-01",
+      "_years": 13.39356605065024,
+      "_tags": [
+        "細田エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アンブル宝町ショートステイ",
+      "telephone": "03-5654-8880",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "宝町１－２－９"
+      },
+      "parentOrganization": "社会福祉法人アストリー",
+      "identifier": "1372206993",
+      "_town": "宝町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2015-06-01",
+      "_years": 11.31006160164271,
+      "_tags": [
+        "宝町エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム　第二奥戸くつろぎの郷",
+      "telephone": "03-5654-6130",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "奥戸３－２５－２３"
+      },
+      "parentOrganization": "社会福祉法人仁生社",
+      "identifier": "1372207751",
+      "_town": "奥戸",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の空床利用型",
+      "_designated": "2017-04-01",
+      "_years": 9.475701574264203,
+      "_tags": [
+        "奥戸エリア",
+        "特養の空床利用",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "スマイルホーム西井掘　短期入所生活介護",
+      "telephone": "03-3692-8600",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "奥戸３－２４－１５"
+      },
+      "parentOrganization": "社会福祉法人喜清会",
+      "identifier": "1372207819",
+      "_town": "奥戸",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2017-06-01",
+      "_years": 9.308692676249144,
+      "_tags": [
+        "奥戸エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "介護老人福祉施設ケアホーム葛飾",
+      "telephone": "03-3602-5900",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "小菅１－３５－１０"
+      },
+      "parentOrganization": "社会福祉法人平成記念会",
+      "identifier": "1372208361",
+      "_town": "小菅",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2020-04-01",
+      "_years": 6.4750171115674195,
+      "_tags": [
+        "小菅エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "葛飾区でショートステイを使うには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければ高齢者総合相談センターに相談してください。ショートステイもケアプランに位置づける必要があるため、葛飾区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "葛飾区にショートステイは何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で葛飾区内に25件の短期入所生活介護事業所が指定を受けています。本ページではそのうち20件を連絡先つきで掲載しています。掲載分のうち4件が特養の空床利用型です。"
+    },
+    {
+      "q": "葛飾区で予約が取れないときはどうすればいいですか？",
+      "a": "まず空床利用型以外を当たってください。葛飾区の掲載20件のうち16件は専用の床を持つ事業所です。それでも埋まっていれば、日程をずらすか、葛飾区に隣接する区の事業所を当たります。葛飾区でもお盆・年末年始・連休は数か月前から埋まります。"
+    },
+    {
+      "q": "葛飾区で自己負担はいくらくらいですか？",
+      "a": "葛飾区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたります。従来型個室・多床室の併設型なら1割負担で要介護3が1日約849円、要介護5が1日約1,007円が目安です。ただし葛飾区でもこれとは別に食費と滞在費が全額自己負担で加わるため、総額はこの倍以上になることがあります。住民税非課税世帯などは負担限度額認定で上限をつけられます。"
+    },
+    {
+      "q": "葛飾区のショートステイは何日まで連続で使えますか？",
+      "a": "葛飾区でも全国共通で、連続利用は30日までです。日数の管理はケアマネジャーがしてくれます。上限の詳しい決まりはショートステイのしくみのページにまとめています。"
+    },
+    {
+      "q": "認知症があっても葛飾区のショートステイを使えますか？",
+      "a": "使えます。葛飾区の掲載20件のうち20件は特別養護老人ホームなどに併設されており、認知症の方の受け入れに慣れているところが多くなります。ただし環境が変わると混乱が強く出る方もいるため、葛飾区でもまず1泊2日から試してください。夜間の見守り体制は事業所ごとに違います。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}day-service/tokyo/katsushika/\">葛飾区のデイサービス<small>日中の預け先</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/katsushika/\">葛飾区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/katsushika/\">葛飾区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/katsushika/\">葛飾区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/katsushika/\">葛飾区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/katsushika/\">葛飾区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアのショートステイ",
+  "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/adachi/\">足立区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/sumida/\">墨田区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/edogawa/\">江戸川区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/koto/\">江東区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/arakawa/\">荒川区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
+    "葛飾区「高齢者総合相談センター一覧」",
+    "日本郵便 郵便番号データにもとづく葛飾区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず1泊2日から</h4>\n        <p>連続利用の上限や緊急時の預け先は、ハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}short-stay/\">ショートステイのしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>葛飾区内の短期入所生活介護は25件（都指定）</li>\n          <li>掲載20件のうち空床利用型が4件</li>\n          <li>併設型・要介護3で1日約849円（1割）</li>\n          <li>食費・滞在費は全額自己負担</li>\n          <li>入口はケアマネか高齢者総合相談センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}short-stay/\">ショートステイのしくみ</a></li>\n          <li><a href=\"{{ROOT}}day-service/\">デイサービス</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
+  "hero_image": "assets/ogp-short-stay.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "katsushika"
+  }
+}

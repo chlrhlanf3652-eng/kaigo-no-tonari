@@ -1,0 +1,540 @@
+{
+  "slug": "fukushi-yogu_tokyo_itabashi",
+  "category": {
+    "id": "fukushi-yogu",
+    "name": "福祉用具",
+    "path": "/fukushi-yogu/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "itabashi",
+    "city_name": "板橋区"
+  },
+  "seo": {
+    "title": "板橋区の福祉用具20事業所｜レンタルと購入【2026年9月更新】",
+    "description": "東京都板橋区の福祉用具貸与・特定福祉用具販売の指定事業所20件を連絡先つきで掲載。区内27件のうち貸与と販売の両方を扱う事業所がどれかを示し、年10万円までの購入費と、指定事業所から買う必要がある理由を解説します。",
+    "canonical": "https://kaigonotonari.com/fukushi-yogu/tokyo/itabashi/",
+    "og_title": "板橋区の福祉用具一覧｜借りるか買うかで事業所が変わります",
+    "og_description": "板橋区の福祉用具事業所20件を掲載。ポータブルトイレや入浴用いすは購入しかできません。指定のない店で買うと保険は出ません。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-fukushi-yogu.jpg"
+  },
+  "h1": "板橋区の福祉用具一覧｜借りるか買うかで事業所が変わります",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：20事業所",
+  "lead": "東京都板橋区で福祉用具のレンタルや購入を考えている方へ。東京都の指定を受けた27件から20件を連絡先つきで掲載し、そのうち<strong>貸与と販売の両方を扱う事業所が18件</strong>あることまで示しました。介護保険で福祉用具を買う場合、<strong>指定を受けた事業者から買ったものにしか支給されません</strong>。同じ商品をネット通販で買っても1円も戻らないので、ここが最初の分かれ目になります。",
+  "listing_note": "板橋区内の福祉用具貸与・特定福祉用具販売の指定事業所から20件を掲載しています（東京都公表・2026年9月1日時点）。区内には27件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。「貸与と販売」「貸与のみ」「販売のみ」の表示は、東京都の一覧でその事業所がどちらのサービス種類で指定を受けているかによります。取扱商品や価格は事業所ごとに違い、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "ハートケアサービス有限会社",
+      "telephone": "03-5917-6777",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "常盤台１－１９－３－１０１"
+      },
+      "parentOrganization": "ハートケアサービス有限会社",
+      "identifier": "1371900612",
+      "_town": "常盤台",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2001-07-01",
+      "_years": 25.22655715263518,
+      "_tags": [
+        "常盤台エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ベスト・ケアー　レンタル事業部",
+      "telephone": "03-3554-8156",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "小茂根１－２７－３"
+      },
+      "parentOrganization": "株式会社ベスト・ケアー",
+      "identifier": "1371902360",
+      "_town": "小茂根",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2000-08-01",
+      "_years": 26.140999315537304,
+      "_tags": [
+        "小茂根エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社ハンドベル・ケア",
+      "telephone": "03-5918-9300",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "舟渡１－１３－１０アイ・タワー３階"
+      },
+      "parentOrganization": "株式会社ハンドベル・ケア",
+      "identifier": "1371902832",
+      "_town": "舟渡",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2002-03-01",
+      "_years": 24.56125941136208,
+      "_tags": [
+        "舟渡エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あずさわ福祉本舗",
+      "telephone": "03-5914-3505",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "小豆沢１－７－１"
+      },
+      "parentOrganization": "一般社団法人福祉用具プランニング",
+      "identifier": "1371903673",
+      "_town": "小豆沢",
+      "_kind": "社団・財団",
+      "_mix": "両方",
+      "_designated": "2003-08-01",
+      "_years": 23.143052703627653,
+      "_tags": [
+        "小豆沢エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "大谷口ケアサービス福祉用具貸与事業所",
+      "telephone": "03-5964-5355",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "大谷口北町６３－１１"
+      },
+      "parentOrganization": "有限会社エスアイシー",
+      "identifier": "1371903863",
+      "_town": "大谷口北町",
+      "_kind": "営利法人",
+      "_mix": "貸与のみ",
+      "_designated": "2003-11-01",
+      "_years": 22.8911704312115,
+      "_tags": [
+        "大谷口北町エリア",
+        "貸与のみ",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "レインボーブリッジ　板橋ケアセンター",
+      "telephone": "03-5943-2951",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "板橋３－５－１５"
+      },
+      "parentOrganization": "有限会社レインボーブリッジ",
+      "identifier": "1371903921",
+      "_town": "板橋",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2004-02-01",
+      "_years": 22.639288158795345,
+      "_tags": [
+        "板橋エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "スローステップ福祉用具事業所蓮根",
+      "telephone": "03-5916-0982",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "蓮根２－１７－７"
+      },
+      "parentOrganization": "株式会社スローステップ",
+      "identifier": "1371904838",
+      "_town": "蓮根",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2005-06-01",
+      "_years": 21.308692676249144,
+      "_tags": [
+        "蓮根エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケーアイサポート福祉用具事業部",
+      "telephone": "03-6905-1054",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "大和町１０－１１　パラストネオ板橋２０２"
+      },
+      "parentOrganization": "ケーアイサポート株式会社",
+      "identifier": "1371905793",
+      "_town": "大和町",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2007-04-01",
+      "_years": 19.477070499657767,
+      "_tags": [
+        "大和町エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ジョイフルケア福祉用具事業所",
+      "telephone": "03-6905-0200",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "大山東町４－２"
+      },
+      "parentOrganization": "株式会社ジョイサービス",
+      "identifier": "1371906486",
+      "_town": "大山東町",
+      "_kind": "営利法人",
+      "_mix": "販売のみ",
+      "_designated": "2009-02-01",
+      "_years": 17.637234770704996,
+      "_tags": [
+        "大山東町エリア",
+        "販売のみ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "暮らしサポート　すまいる先生",
+      "telephone": "03-5914-6052",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "小豆沢４－５－４"
+      },
+      "parentOrganization": "株式会社チャレンジ",
+      "identifier": "1371908482",
+      "_town": "小豆沢",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2013-02-01",
+      "_years": 13.637234770704996,
+      "_tags": [
+        "小豆沢エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "はなまる介護",
+      "telephone": "03-5943-9870",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "中板橋２９－８クリテックビル３Ｆ"
+      },
+      "parentOrganization": "８７０株式会社",
+      "identifier": "1371908631",
+      "_town": "中板橋",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2013-05-01",
+      "_years": 13.39356605065024,
+      "_tags": [
+        "中板橋エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "フランスベッド株式会社　メディカル板橋営業所",
+      "telephone": "03-5943-3550",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "本町３９－１０メゾンドジュリア１０１号"
+      },
+      "parentOrganization": "フランスベッド株式会社",
+      "identifier": "1371909043",
+      "_town": "本町",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2014-02-01",
+      "_years": 12.63791923340178,
+      "_tags": [
+        "本町エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社ヤマシタ　板橋営業所",
+      "telephone": "03-3558-5520",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "泉町３９－１５"
+      },
+      "parentOrganization": "株式会社ヤマシタ",
+      "identifier": "1371910074",
+      "_town": "泉町",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2016-03-01",
+      "_years": 10.559890485968515,
+      "_tags": [
+        "泉町エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社山口サービス",
+      "telephone": "03-6915-5389",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "蓮根１－４－８"
+      },
+      "parentOrganization": "株式会社山口サービス",
+      "identifier": "1371911189",
+      "_town": "蓮根",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2019-01-01",
+      "_years": 7.723477070499658,
+      "_tags": [
+        "蓮根エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ぐうにいずケアセンター",
+      "telephone": "03-3550-5336",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "西台４－８－１３"
+      },
+      "parentOrganization": "有限会社協徳",
+      "identifier": "1371911270",
+      "_town": "西台",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2019-04-01",
+      "_years": 7.477070499657769,
+      "_tags": [
+        "西台エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "福祉用具事業所　Ｒｅ：ＡＣＴＩＶＥ",
+      "telephone": "03-6909-5460",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "大山金井町２－４パインメートⅡ　１階"
+      },
+      "parentOrganization": "株式会社ＭＥＤＩＣＡＬ　ＣＯＬＯＲ",
+      "identifier": "1371911833",
+      "_town": "大山金井町",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2021-03-01",
+      "_years": 5.560574948665297,
+      "_tags": [
+        "大山金井町エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "みちおい福祉用具",
+      "telephone": "03-6909-7890",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "徳丸３－３８－３４ヒルサイドハイツＢ１Ｆ"
+      },
+      "parentOrganization": "合同会社道生舎",
+      "identifier": "1371911882",
+      "_town": "徳丸",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2021-05-01",
+      "_years": 5.393566050650239,
+      "_tags": [
+        "徳丸エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケースタイル福祉用具レンタル東京都板橋事務所",
+      "telephone": "03-6762-6283",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "富士見町１１－１０アイエッチ富士見２０２号室"
+      },
+      "parentOrganization": "合同会社Ｋ－Ｓｔｙｌｅ",
+      "identifier": "1371911999",
+      "_town": "富士見町",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2021-10-01",
+      "_years": 4.974674880219028,
+      "_tags": [
+        "富士見町エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ニック株式会社　板橋営業所",
+      "telephone": "03-6685-5470",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "中台３－２６－１１"
+      },
+      "parentOrganization": "ニック株式会社",
+      "identifier": "1371912567",
+      "_town": "中台",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2025-02-01",
+      "_years": 1.6372347707049966,
+      "_tags": [
+        "中台エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社トーカイ板橋営業所",
+      "telephone": "03-6693-0510",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "徳丸７－２７－１ファミール高島平１階１０１号室"
+      },
+      "parentOrganization": "株式会社トーカイ",
+      "identifier": "1371912591",
+      "_town": "徳丸",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2025-04-01",
+      "_years": 1.4757015742642026,
+      "_tags": [
+        "徳丸エリア",
+        "貸与と販売"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "板橋区で福祉用具を借りるには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければおとしより相談センターに相談してください。福祉用具貸与もケアプランに位置づける必要があるため、板橋区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "板橋区に福祉用具の事業所は何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で板橋区内に27件の福祉用具の事業所（貸与または特定販売の指定を受けたもの）があります。本ページではそのうち20件を連絡先つきで掲載し、うち18件が貸与と販売の両方を扱っています。"
+    },
+    {
+      "q": "板橋区でポータブルトイレや入浴用のいすは、レンタルできますか？",
+      "a": "できません。これらは購入（特定福祉用具販売）の対象で、同一年度に10万円までが保険の対象になります。板橋区の掲載20件のうち販売の指定を持つのは19件なので、買う予定があるならその中から選んでください。"
+    },
+    {
+      "q": "ネット通販で買っても、板橋区から保険は出ますか？",
+      "a": "出ません。板橋区の掲載20件のうち19件が販売の指定を持っているので、その中から選んでください。購入前に板橋区の介護保険担当かケアマネジャーに相談するのが確実です。"
+    },
+    {
+      "q": "板橋区で介護ベッドを借りたいのですが、要介護1でも借りられますか？",
+      "a": "原則として対象外です。ただし医師の所見などをもとに例外的に認められる場合があり、判断するのは板橋区です。板橋区のケアマネジャー経由で相談してください。対象外になる用具の一覧は福祉用具のしくみのページにまとめています。"
+    },
+    {
+      "q": "板橋区でレンタル料金が事業所によって違うのはなぜですか？",
+      "a": "福祉用具貸与だけは単位数が決まっておらず、事業所が商品ごとに価格を設定するしくみだからです。板橋区の掲載20件は営利法人が19件と大半を占めますが、価格も品ぞろえも事業所ごとに差があるので、複数から見積もりを取ってください。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/itabashi/\">板橋区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/itabashi/\">板橋区のデイサービス<small>日中の預け先</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/itabashi/\">板橋区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/itabashi/\">板橋区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/itabashi/\">板橋区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/itabashi/\">板橋区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアの福祉用具",
+  "nearby": "<a href=\"{{ROOT}}fukushi-yogu/tokyo/nerima/\">練馬区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/kita/\">北区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/toshima/\">豊島区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/adachi/\">足立区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/shinjuku/\">新宿区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/bunkyo/\">文京区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "江東区「介護保険特定福祉用具購入費の支給」（支給限度額・対象種目・指定事業者要件）",
+    "厚生労働省「令和6年度介護報酬改定」福祉用具貸与・特定福祉用具販売の選択制",
+    "板橋区「おとしより相談センター一覧」",
+    "日本郵便 郵便番号データにもとづく板橋区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>買う前に確認を</h4>\n        <p>指定のない店で買うと保険は出ません。対象種目と手続きはハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>板橋区内の福祉用具事業所は27件（都指定）</li>\n          <li>掲載20件のうち貸与と販売の両方が18件</li>\n          <li>購入は年度内10万円まで（1〜3割負担）</li>\n          <li>指定事業所以外で買うと支給されません</li>\n          <li>入口はケアマネかおとしより相談センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみ</a></li>\n          <li><a href=\"{{ROOT}}houmon-kaigo/\">訪問介護</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">費用のしくみ</a>",
+  "hero_image": "assets/ogp-fukushi-yogu.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "itabashi"
+  }
+}

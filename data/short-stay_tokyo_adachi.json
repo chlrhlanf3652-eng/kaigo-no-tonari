@@ -1,0 +1,555 @@
+{
+  "slug": "short-stay_tokyo_adachi",
+  "category": {
+    "id": "short-stay",
+    "name": "ショートステイ",
+    "path": "/short-stay/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "adachi",
+    "city_name": "足立区"
+  },
+  "seo": {
+    "title": "足立区のショートステイ20事業所｜予約と費用【2026年9月更新】",
+    "description": "東京都足立区の短期入所生活介護（ショートステイ）事業所20件を連絡先つきで掲載。区内44件のうち特養の空床利用型がどれかを含め、予約の取りやすさ・1級地での自己負担・食費と滞在費の見方をまとめました。",
+    "canonical": "https://kaigonotonari.com/short-stay/tokyo/adachi/",
+    "og_title": "足立区のショートステイ一覧｜予約が取れる事業所の見分け方",
+    "og_description": "足立区の短期入所生活介護20件を掲載。空床利用型かどうかで予約の取りやすさが変わります。費用は食費・滞在費まで含めて解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-short-stay.jpg"
+  },
+  "h1": "足立区のショートステイ一覧｜予約が取れる事業所の見分け方",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：20事業所",
+  "lead": "東京都足立区で短期入所生活介護（ショートステイ）を探している方へ。東京都の指定を受けた44件から20件を連絡先つきで掲載し、そのうち特養の空床を使う<strong>空床利用型が3件</strong>あることまで示しました。ショートステイでいちばん多い壁は<strong>予約が取れないこと</strong>です。同じ区の事業所でも、専用の床を持つところと特養の空きベッドを使うところでは、押さえやすさがまったく違います。",
+  "listing_note": "足立区内の短期入所生活介護事業所から20件を掲載しています（東京都公表・2026年9月1日時点）。区内には44件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。「特養の空床利用」「単独型」などの表示は東京都の一覧の事業所種別名です。空き状況は日々変わるため、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "グレイスホーム",
+      "telephone": "03-3890-0214",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "西新井本町四丁目１３番１６号"
+      },
+      "parentOrganization": "社会福祉法人友興会",
+      "identifier": "1372100816",
+      "_town": "西新井本町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "_tags": [
+        "西新井本町エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム　六月",
+      "telephone": "03-5242-0303",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "六月１－６－１"
+      },
+      "parentOrganization": "社会福祉法人聖風会",
+      "identifier": "1372101418",
+      "_town": "六月",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2000-03-01",
+      "_years": 26.559890485968516,
+      "_tags": [
+        "六月エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム・扇",
+      "telephone": "03-3856-1199",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "扇一丁目５２番２３号"
+      },
+      "parentOrganization": "社会福祉法人聖風会",
+      "identifier": "1372101509",
+      "_town": "扇",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2000-03-01",
+      "_years": 26.559890485968516,
+      "_tags": [
+        "扇エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホームさくら",
+      "telephone": "03-5691-7150",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "皿沼２－８－８"
+      },
+      "parentOrganization": "社会福祉法人足立邦栄会",
+      "identifier": "1372101905",
+      "_town": "皿沼",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "_tags": [
+        "皿沼エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ウエルガーデン　伊興園",
+      "telephone": "03-5691-9500",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "伊興３－７－４"
+      },
+      "parentOrganization": "社会福祉法人ウエルガーデン",
+      "identifier": "1372102366",
+      "_town": "伊興",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2001-05-01",
+      "_years": 25.39356605065024,
+      "_tags": [
+        "伊興エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ショートステイ　ハピネスあだち",
+      "telephone": "03-5839-3630",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "江北３－１４－１"
+      },
+      "parentOrganization": "社会福祉法人ファミリー",
+      "identifier": "1372105450",
+      "_town": "江北",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2006-04-01",
+      "_years": 20.476386036960985,
+      "_tags": [
+        "江北エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "日介ケアセンター本木",
+      "telephone": "03-5845-5700",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "本木１－２０－５"
+      },
+      "parentOrganization": "株式会社日本介護センター",
+      "identifier": "1372106052",
+      "_town": "本木",
+      "_kind": "営利法人",
+      "_fkind": "単独型",
+      "_designated": "2006-11-01",
+      "_years": 19.890485968514717,
+      "_tags": [
+        "本木エリア",
+        "単独型",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "千住桜花苑",
+      "telephone": "03-5244-6883",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "千住元町１８－１９"
+      },
+      "parentOrganization": "社会福祉法人聖風会",
+      "identifier": "1372106433",
+      "_town": "千住元町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2007-06-01",
+      "_years": 19.310061601642712,
+      "_tags": [
+        "千住元町エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム竹の塚翔裕園",
+      "telephone": "03-5851-6050",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "竹の塚７－１９－１４"
+      },
+      "parentOrganization": "社会福祉法人長寿村",
+      "identifier": "1372107449",
+      "_town": "竹の塚",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2009-12-01",
+      "_years": 16.80766598220397,
+      "_tags": [
+        "竹の塚エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ショートステイ　ケアサポートあだち",
+      "telephone": "03-5284-3865",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "千住河原町２２－３"
+      },
+      "parentOrganization": "ケアサポート株式会社",
+      "identifier": "1372108819",
+      "_town": "千住河原町",
+      "_kind": "営利法人",
+      "_fkind": "単独型",
+      "_designated": "2012-07-01",
+      "_years": 14.225872689938399,
+      "_tags": [
+        "千住河原町エリア",
+        "単独型",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "介護老人福祉施設　ケアホーム足立",
+      "telephone": "03-3853-6800",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "入谷１－８－１５"
+      },
+      "parentOrganization": "社会福祉法人道心会",
+      "identifier": "1372110062",
+      "_town": "入谷",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2014-04-01",
+      "_years": 12.476386036960985,
+      "_tags": [
+        "入谷エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム　足立万葉苑",
+      "telephone": "03-5856-6695",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "六月２－１１－２０"
+      },
+      "parentOrganization": "社会福祉法人射水万葉会",
+      "identifier": "1372110237",
+      "_town": "六月",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2014-06-01",
+      "_years": 12.309377138945928,
+      "_tags": [
+        "六月エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ユニット型ショートステイ　ル・ソラリオン綾瀬",
+      "telephone": "03-5613-1176",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "東綾瀬３－９－１"
+      },
+      "parentOrganization": "社会福祉法人敬仁会",
+      "identifier": "1372110740",
+      "_town": "東綾瀬",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2015-04-01",
+      "_years": 11.477070499657769,
+      "_tags": [
+        "東綾瀬エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "花畑あすか苑",
+      "telephone": "03-5856-4751",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "花畑４－２０－１"
+      },
+      "parentOrganization": "社会福祉法人聖風会",
+      "identifier": "1372111557",
+      "_town": "花畑",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の空床利用型",
+      "_designated": "2016-08-01",
+      "_years": 10.140999315537304,
+      "_tags": [
+        "花畑エリア",
+        "特養の空床利用",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ショートステイ　グロリア東京",
+      "telephone": "03-5888-7833",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "中央本町５－２－８"
+      },
+      "parentOrganization": "株式会社グロリアコーポレイション",
+      "identifier": "1372112092",
+      "_town": "中央本町",
+      "_kind": "営利法人",
+      "_fkind": "単独型",
+      "_designated": "2017-10-01",
+      "_years": 8.974674880219029,
+      "_tags": [
+        "中央本町エリア",
+        "単独型",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "介護老人福祉施設ケアホーム花畑",
+      "telephone": "03-5851-6100",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "花畑８－７－６"
+      },
+      "parentOrganization": "社会福祉法人幸仁会",
+      "identifier": "1372112803",
+      "_town": "花畑",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の空床利用型",
+      "_designated": "2019-11-01",
+      "_years": 6.891170431211499,
+      "_tags": [
+        "花畑エリア",
+        "特養の空床利用",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム花ざかり",
+      "telephone": "03-6806-4888",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "中央本町２－２４－１１"
+      },
+      "parentOrganization": "社会福祉法人光塩会",
+      "identifier": "1372113512",
+      "_town": "中央本町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2021-04-01",
+      "_years": 5.475701574264202,
+      "_tags": [
+        "中央本町エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ショートステイ　タムスさくらの杜　花畑",
+      "telephone": "03-5851-8028",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "花畑３－１５－５"
+      },
+      "parentOrganization": "社会福祉法人桐和会",
+      "identifier": "1372114288",
+      "_town": "花畑",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の空床利用型",
+      "_designated": "2023-10-01",
+      "_years": 2.976043805612594,
+      "_tags": [
+        "花畑エリア",
+        "特養の空床利用",
+        "開設3年以内",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "短期入所生活介護事業所ロイヤル足立",
+      "telephone": "03-6807-1375",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "舎人３－１－１９"
+      },
+      "parentOrganization": "社会福祉法人愛心会",
+      "identifier": "1372114551",
+      "_town": "舎人",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2024-11-01",
+      "_years": 1.88911704312115,
+      "_tags": [
+        "舎人エリア",
+        "併設・専用床",
+        "開設3年以内",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ショートステイ　ハピネスもとき",
+      "telephone": "03-5650-4833",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "本木１－１４－１３"
+      },
+      "parentOrganization": "社会福祉法人ファミリー",
+      "identifier": "1372115103",
+      "_town": "本木",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2026-03-01",
+      "_years": 0.5612594113620808,
+      "_tags": [
+        "本木エリア",
+        "併設・専用床",
+        "開設3年以内",
+        "ショートステイ"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "足立区でショートステイを使うには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければ地域包括支援センター（ホウカツ）に相談してください。ショートステイもケアプランに位置づける必要があるため、足立区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "足立区にショートステイは何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で足立区内に44件の短期入所生活介護事業所が指定を受けています。本ページではそのうち20件を連絡先つきで掲載しています。掲載分のうち3件が特養の空床利用型です。"
+    },
+    {
+      "q": "足立区で予約が取れないときはどうすればいいですか？",
+      "a": "まず空床利用型以外を当たってください。足立区の掲載20件のうち17件は専用の床を持つ事業所です。それでも埋まっていれば、日程をずらすか、足立区に隣接する区の事業所を当たります。足立区でもお盆・年末年始・連休は数か月前から埋まります。"
+    },
+    {
+      "q": "足立区で自己負担はいくらくらいですか？",
+      "a": "足立区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたります。従来型個室・多床室の併設型なら1割負担で要介護3が1日約849円、要介護5が1日約1,007円が目安です。ただし足立区でもこれとは別に食費と滞在費が全額自己負担で加わるため、総額はこの倍以上になることがあります。住民税非課税世帯などは負担限度額認定で上限をつけられます。"
+    },
+    {
+      "q": "足立区のショートステイは何日まで連続で使えますか？",
+      "a": "足立区でも全国共通で、連続利用は30日までです。日数の管理はケアマネジャーがしてくれます。上限の詳しい決まりはショートステイのしくみのページにまとめています。"
+    },
+    {
+      "q": "認知症があっても足立区のショートステイを使えますか？",
+      "a": "使えます。足立区の掲載20件のうち17件は特別養護老人ホームなどに併設されており、認知症の方の受け入れに慣れているところが多くなります。ただし環境が変わると混乱が強く出る方もいるため、足立区でもまず1泊2日から試してください。夜間の見守り体制は事業所ごとに違います。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}day-service/tokyo/adachi/\">足立区のデイサービス<small>日中の預け先</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/adachi/\">足立区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/adachi/\">足立区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/adachi/\">足立区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/adachi/\">足立区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/adachi/\">足立区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアのショートステイ",
+  "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/kita/\">北区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/arakawa/\">荒川区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/sumida/\">墨田区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/katsushika/\">葛飾区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/itabashi/\">板橋区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/taito/\">台東区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
+    "足立区「地域包括支援センター（ホウカツ）一覧」",
+    "日本郵便 郵便番号データにもとづく足立区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず1泊2日から</h4>\n        <p>連続利用の上限や緊急時の預け先は、ハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}short-stay/\">ショートステイのしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>足立区内の短期入所生活介護は44件（都指定）</li>\n          <li>掲載20件のうち空床利用型が3件</li>\n          <li>併設型・要介護3で1日約849円（1割）</li>\n          <li>食費・滞在費は全額自己負担</li>\n          <li>入口はケアマネか地域包括支援センター（ホウカツ）</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}short-stay/\">ショートステイのしくみ</a></li>\n          <li><a href=\"{{ROOT}}day-service/\">デイサービス</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
+  "hero_image": "assets/ogp-short-stay.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "adachi"
+  }
+}

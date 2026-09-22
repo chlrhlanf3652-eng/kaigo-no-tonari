@@ -1,0 +1,288 @@
+{
+  "slug": "short-stay_tokyo_shibuya",
+  "category": {
+    "id": "short-stay",
+    "name": "ショートステイ",
+    "path": "/short-stay/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "shibuya",
+    "city_name": "渋谷区"
+  },
+  "seo": {
+    "title": "渋谷区のショートステイ9事業所｜予約と費用【2026年9月更新】",
+    "description": "東京都渋谷区の短期入所生活介護（ショートステイ）事業所9件を連絡先つきで掲載。区内9件のうち特養の空床利用型がどれかを含め、予約の取りやすさ・1級地での自己負担・食費と滞在費の見方をまとめました。",
+    "canonical": "https://kaigonotonari.com/short-stay/tokyo/shibuya/",
+    "og_title": "渋谷区のショートステイ一覧｜予約が取れる事業所の見分け方",
+    "og_description": "渋谷区の短期入所生活介護9件を掲載。空床利用型かどうかで予約の取りやすさが変わります。費用は食費・滞在費まで含めて解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-short-stay.jpg"
+  },
+  "h1": "渋谷区のショートステイ一覧｜予約が取れる事業所の見分け方",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：9事業所",
+  "lead": "東京都渋谷区で短期入所生活介護（ショートステイ）を探している方へ。東京都の指定を受けた9件から9件を連絡先つきで掲載し、そのうち特養の空床を使う<strong>空床利用型が0件</strong>あることまで示しました。ショートステイでいちばん多い壁は<strong>予約が取れないこと</strong>です。同じ区の事業所でも、専用の床を持つところと特養の空きベッドを使うところでは、押さえやすさがまったく違います。",
+  "listing_note": "渋谷区内の短期入所生活介護事業所から9件を掲載しています（東京都公表・2026年9月1日時点）。区内には9件が指定を受けており、そのすべてを掲載しています。「特養の空床利用」「単独型」などの表示は東京都の一覧の事業所種別名です。空き状況は日々変わるため、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "渋谷区あやめの苑・代々木",
+      "telephone": "03-3372-1103",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "渋谷区",
+        "streetAddress": "代々木３－３５－１"
+      },
+      "parentOrganization": "渋谷区",
+      "identifier": "1371300235",
+      "_town": "代々木",
+      "_kind": "地方公共団体（市町村）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2000-03-01",
+      "_years": 26.559890485968516,
+      "_tags": [
+        "代々木エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "つるとかめ",
+      "telephone": "03-3376-1341",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "渋谷区",
+        "streetAddress": "笹塚２丁目３１番８号"
+      },
+      "parentOrganization": "社会福祉法人中都",
+      "identifier": "1371300243",
+      "_town": "笹塚",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "_tags": [
+        "笹塚エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "パール代官山",
+      "telephone": "03-5458-4811",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "渋谷区",
+        "streetAddress": "鉢山町３番２７号"
+      },
+      "parentOrganization": "社会福祉法人パール",
+      "identifier": "1371300250",
+      "_town": "鉢山町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "1999-12-01",
+      "_years": 26.809034907597535,
+      "_tags": [
+        "鉢山町エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム　渋谷区美竹の丘・しぶや",
+      "telephone": "03-5464-6800",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "渋谷区",
+        "streetAddress": "渋谷１－１８－９"
+      },
+      "parentOrganization": "渋谷区",
+      "identifier": "1371301688",
+      "_town": "渋谷",
+      "_kind": "地方公共団体（市町村）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2005-12-01",
+      "_years": 20.80766598220397,
+      "_tags": [
+        "渋谷エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "渋谷区けやきの苑・西原",
+      "telephone": "03-5453-0515",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "渋谷区",
+        "streetAddress": "西原二丁目１９番１号"
+      },
+      "parentOrganization": "社会福祉法人武蔵野療園",
+      "identifier": "1371301902",
+      "_town": "西原",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2007-04-01",
+      "_years": 19.477070499657767,
+      "_tags": [
+        "西原エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "日本赤十字総合福祉センター　特別養護老人ホーム　レクロス広尾　短期入所生活介護事業兼介護",
+      "telephone": "03-6861-4800",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "渋谷区",
+        "streetAddress": "広尾４－１－２３"
+      },
+      "parentOrganization": "日本赤十字社",
+      "identifier": "1371302637",
+      "_town": "広尾",
+      "_kind": "その他法人",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2012-04-01",
+      "_years": 14.47501711156742,
+      "_tags": [
+        "広尾エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "渋谷区総合ケアコミュニティ・せせらぎ高齢者在宅サービスセンター",
+      "telephone": "03-5790-0887",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "渋谷区",
+        "streetAddress": "西原１－４０－１０"
+      },
+      "parentOrganization": "社会福祉法人奉優会",
+      "identifier": "1371302710",
+      "_town": "西原",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2012-04-01",
+      "_years": 14.47501711156742,
+      "_tags": [
+        "西原エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "杜の風・上原　短期入所生活介護正吉苑",
+      "telephone": "03-6407-4233",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "渋谷区",
+        "streetAddress": "上原２－２－１７"
+      },
+      "parentOrganization": "社会福祉法人正吉福祉会",
+      "identifier": "1371302843",
+      "_town": "上原",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2013-04-01",
+      "_years": 13.475701574264203,
+      "_tags": [
+        "上原エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "渋谷区つばめの里・本町東",
+      "telephone": "03-6383-3872",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "渋谷区",
+        "streetAddress": "本町３－４６－１"
+      },
+      "parentOrganization": "社会福祉法人奉優会",
+      "identifier": "1371303981",
+      "_town": "本町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2023-04-01",
+      "_years": 3.477070499657769,
+      "_tags": [
+        "本町エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "渋谷区でショートステイを使うには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければ地域包括支援センターに相談してください。ショートステイもケアプランに位置づける必要があるため、渋谷区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "渋谷区にショートステイは何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で渋谷区内に9件の短期入所生活介護事業所が指定を受けています。本ページではそのうち9件を連絡先つきで掲載しています。掲載分のうち0件が特養の空床利用型です。"
+    },
+    {
+      "q": "渋谷区で予約が取れないときはどうすればいいですか？",
+      "a": "まず空床利用型以外を当たってください。渋谷区の掲載9件のうち9件は専用の床を持つ事業所です。それでも埋まっていれば、日程をずらすか、渋谷区に隣接する区の事業所を当たります。渋谷区でもお盆・年末年始・連休は数か月前から埋まります。"
+    },
+    {
+      "q": "渋谷区で自己負担はいくらくらいですか？",
+      "a": "渋谷区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたります。従来型個室・多床室の併設型なら1割負担で要介護3が1日約849円、要介護5が1日約1,007円が目安です。ただし渋谷区でもこれとは別に食費と滞在費が全額自己負担で加わるため、総額はこの倍以上になることがあります。住民税非課税世帯などは負担限度額認定で上限をつけられます。"
+    },
+    {
+      "q": "渋谷区のショートステイは何日まで連続で使えますか？",
+      "a": "渋谷区でも全国共通で、連続利用は30日までです。日数の管理はケアマネジャーがしてくれます。上限の詳しい決まりはショートステイのしくみのページにまとめています。"
+    },
+    {
+      "q": "認知症があっても渋谷区のショートステイを使えますか？",
+      "a": "使えます。渋谷区の掲載9件のうち9件は特別養護老人ホームなどに併設されており、認知症の方の受け入れに慣れているところが多くなります。ただし環境が変わると混乱が強く出る方もいるため、渋谷区でもまず1泊2日から試してください。夜間の見守り体制は事業所ごとに違います。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}day-service/tokyo/shibuya/\">渋谷区のデイサービス<small>日中の預け先</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/shibuya/\">渋谷区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/shibuya/\">渋谷区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/shibuya/\">渋谷区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/shibuya/\">渋谷区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/shibuya/\">渋谷区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアのショートステイ",
+  "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/shinjuku/\">新宿区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/minato/\">港区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/meguro/\">目黒区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/setagaya/\">世田谷区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/nakano/\">中野区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
+    "渋谷区「地域包括支援センター一覧」",
+    "日本郵便 郵便番号データにもとづく渋谷区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず1泊2日から</h4>\n        <p>連続利用の上限や緊急時の預け先は、ハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}short-stay/\">ショートステイのしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>渋谷区内の短期入所生活介護は9件（都指定）</li>\n          <li>掲載9件のうち空床利用型が0件</li>\n          <li>併設型・要介護3で1日約849円（1割）</li>\n          <li>食費・滞在費は全額自己負担</li>\n          <li>入口はケアマネか地域包括支援センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}short-stay/\">ショートステイのしくみ</a></li>\n          <li><a href=\"{{ROOT}}day-service/\">デイサービス</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
+  "hero_image": "assets/ogp-short-stay.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "shibuya"
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "slug": "fukushi-yogu_tokyo_minato",
+  "category": {
+    "id": "fukushi-yogu",
+    "name": "福祉用具",
+    "path": "/fukushi-yogu/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "minato",
+    "city_name": "港区"
+  },
+  "seo": {
+    "title": "港区の福祉用具11事業所｜レンタルと購入【2026年9月更新】",
+    "description": "東京都港区の福祉用具貸与・特定福祉用具販売の指定事業所11件を連絡先つきで掲載。区内11件のうち貸与と販売の両方を扱う事業所がどれかを示し、年10万円までの購入費と、指定事業所から買う必要がある理由を解説します。",
+    "canonical": "https://kaigonotonari.com/fukushi-yogu/tokyo/minato/",
+    "og_title": "港区の福祉用具一覧｜借りるか買うかで事業所が変わります",
+    "og_description": "港区の福祉用具事業所11件を掲載。ポータブルトイレや入浴用いすは購入しかできません。指定のない店で買うと保険は出ません。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-fukushi-yogu.jpg"
+  },
+  "h1": "港区の福祉用具一覧｜借りるか買うかで事業所が変わります",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：11事業所",
+  "lead": "東京都港区で福祉用具のレンタルや購入を考えている方へ。東京都の指定を受けた11件から11件を連絡先つきで掲載し、そのうち<strong>貸与と販売の両方を扱う事業所が8件</strong>あることまで示しました。介護保険で福祉用具を買う場合、<strong>指定を受けた事業者から買ったものにしか支給されません</strong>。同じ商品をネット通販で買っても1円も戻らないので、ここが最初の分かれ目になります。",
+  "listing_note": "港区内の福祉用具貸与・特定福祉用具販売の指定事業所から11件を掲載しています（東京都公表・2026年9月1日時点）。区内には11件が指定を受けており、そのすべてを掲載しています。「貸与と販売」「貸与のみ」「販売のみ」の表示は、東京都の一覧でその事業所がどちらのサービス種類で指定を受けているかによります。取扱商品や価格は事業所ごとに違い、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "アイム介護福祉支援センター",
+      "telephone": "03-6807-4882",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "赤坂７－１０－９第四文成ビル７０１"
+      },
+      "parentOrganization": "アイム株式会社",
+      "identifier": "1370300350",
+      "_town": "赤坂",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "_tags": [
+        "赤坂エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社　ヤマシタ　港営業所",
+      "telephone": "03-5730-3000",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "三田２－１０－６三田レオマビル３Ｆ"
+      },
+      "parentOrganization": "株式会社ヤマシタ",
+      "identifier": "1370301879",
+      "_town": "三田",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2004-12-01",
+      "_years": 21.806981519507186,
+      "_tags": [
+        "三田エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社スイファ",
+      "telephone": "03-3451-2415",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "三田５－１０－３"
+      },
+      "parentOrganization": "株式会社スイファ",
+      "identifier": "1370302067",
+      "_town": "三田",
+      "_kind": "営利法人",
+      "_mix": "貸与のみ",
+      "_designated": "2005-07-01",
+      "_years": 21.22655715263518,
+      "_tags": [
+        "三田エリア",
+        "貸与のみ",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "フランスベッド株式会社　メディカル六本木営業所",
+      "telephone": "03-5575-2180",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "六本木４－１－１６　六本木ハイツ２階"
+      },
+      "parentOrganization": "フランスベッド株式会社",
+      "identifier": "1370302919",
+      "_town": "六本木",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2009-04-01",
+      "_years": 17.475701574264203,
+      "_tags": [
+        "六本木エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社　スイファ",
+      "telephone": "03-3451-2415",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "三田５－１０－３"
+      },
+      "parentOrganization": "株式会社スイファ",
+      "identifier": "1370303230",
+      "_town": "三田",
+      "_kind": "営利法人",
+      "_mix": "販売のみ",
+      "_designated": "2010-05-01",
+      "_years": 16.39425051334702,
+      "_tags": [
+        "三田エリア",
+        "販売のみ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社長門屋商店",
+      "telephone": "03-3401-8203",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "麻布十番１－５－２５"
+      },
+      "parentOrganization": "株式会社長門屋商店",
+      "identifier": "1370304378",
+      "_town": "麻布十番",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2015-05-01",
+      "_years": 11.394934976043805,
+      "_tags": [
+        "麻布十番エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "セントケア　りまいん　浜松町",
+      "telephone": "03-5402-5110",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "浜松町２－２－１５浜松町ダイヤハイツ２０３号室"
+      },
+      "parentOrganization": "セントケアりまいん株式会社",
+      "identifier": "1370304741",
+      "_town": "浜松町",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2017-01-01",
+      "_years": 9.722108145106091,
+      "_tags": [
+        "浜松町エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "Ｄｅｖｉｅｗ",
+      "telephone": "03-6809-1280",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "芝大門２－３－１１芝清水ビル２Ｆ"
+      },
+      "parentOrganization": "株式会社ケアギバー・ジャパン",
+      "identifier": "1370305334",
+      "_town": "芝大門",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2021-05-01",
+      "_years": 5.393566050650239,
+      "_tags": [
+        "芝大門エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケア六本木",
+      "telephone": "03-6260-8926",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "六本木３－１５－２１鶯ビルＢ１"
+      },
+      "parentOrganization": "合同会社Ｓｔａｒｔｉｎｇ　Ｏｖｅｒ",
+      "identifier": "1370305383",
+      "_town": "六本木",
+      "_kind": "営利法人",
+      "_mix": "貸与のみ",
+      "_designated": "2021-09-01",
+      "_years": 5.0568104038329915,
+      "_tags": [
+        "六本木エリア",
+        "貸与のみ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "８８福祉用具",
+      "telephone": "03-6434-5885",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "六本木３－１６－３５イースト六本木７０４"
+      },
+      "parentOrganization": "８８ホームメディカルケア株式会社",
+      "identifier": "1370305615",
+      "_town": "六本木",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2024-03-01",
+      "_years": 2.5598904859685145,
+      "_tags": [
+        "六本木エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ほのぼのらいふ　東京",
+      "telephone": "03-6453-0623",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "芝大門１－２－９ポートビル４階"
+      },
+      "parentOrganization": "株式会社元気な介護",
+      "identifier": "1370503441",
+      "_town": "芝大門",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2019-04-01",
+      "_years": 7.477070499657769,
+      "_tags": [
+        "芝大門エリア",
+        "貸与と販売"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "港区で福祉用具を借りるには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければ高齢者相談センターに相談してください。福祉用具貸与もケアプランに位置づける必要があるため、港区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "港区に福祉用具の事業所は何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で港区内に11件の福祉用具の事業所（貸与または特定販売の指定を受けたもの）があります。本ページではそのうち11件を連絡先つきで掲載し、うち8件が貸与と販売の両方を扱っています。"
+    },
+    {
+      "q": "港区でポータブルトイレや入浴用のいすは、レンタルできますか？",
+      "a": "できません。これらは購入（特定福祉用具販売）の対象で、同一年度に10万円までが保険の対象になります。港区の掲載11件のうち販売の指定を持つのは9件なので、買う予定があるならその中から選んでください。"
+    },
+    {
+      "q": "ネット通販で買っても、港区から保険は出ますか？",
+      "a": "出ません。港区の掲載11件のうち9件が販売の指定を持っているので、その中から選んでください。購入前に港区の介護保険担当かケアマネジャーに相談するのが確実です。"
+    },
+    {
+      "q": "港区で介護ベッドを借りたいのですが、要介護1でも借りられますか？",
+      "a": "原則として対象外です。ただし医師の所見などをもとに例外的に認められる場合があり、判断するのは港区です。港区のケアマネジャー経由で相談してください。対象外になる用具の一覧は福祉用具のしくみのページにまとめています。"
+    },
+    {
+      "q": "港区でレンタル料金が事業所によって違うのはなぜですか？",
+      "a": "福祉用具貸与だけは単位数が決まっておらず、事業所が商品ごとに価格を設定するしくみだからです。港区の掲載11件は営利法人が11件と大半を占めますが、価格も品ぞろえも事業所ごとに差があるので、複数から見積もりを取ってください。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/minato/\">港区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/minato/\">港区のデイサービス<small>日中の預け先</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/minato/\">港区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/minato/\">港区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/minato/\">港区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/minato/\">港区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアの福祉用具",
+  "nearby": "<a href=\"{{ROOT}}fukushi-yogu/tokyo/chiyoda/\">千代田区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/chuo/\">中央区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/shinagawa/\">品川区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/shibuya/\">渋谷区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/shinjuku/\">新宿区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "江東区「介護保険特定福祉用具購入費の支給」（支給限度額・対象種目・指定事業者要件）",
+    "厚生労働省「令和6年度介護報酬改定」福祉用具貸与・特定福祉用具販売の選択制",
+    "港区「高齢者相談センター一覧」",
+    "日本郵便 郵便番号データにもとづく港区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>買う前に確認を</h4>\n        <p>指定のない店で買うと保険は出ません。対象種目と手続きはハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>港区内の福祉用具事業所は11件（都指定）</li>\n          <li>掲載11件のうち貸与と販売の両方が8件</li>\n          <li>購入は年度内10万円まで（1〜3割負担）</li>\n          <li>指定事業所以外で買うと支給されません</li>\n          <li>入口はケアマネか高齢者相談センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみ</a></li>\n          <li><a href=\"{{ROOT}}houmon-kaigo/\">訪問介護</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">費用のしくみ</a>",
+  "hero_image": "assets/ogp-fukushi-yogu.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "minato"
+  }
+}

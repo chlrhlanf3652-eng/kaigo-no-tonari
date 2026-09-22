@@ -1,0 +1,536 @@
+{
+  "slug": "fukushi-yogu_tokyo_shinjuku",
+  "category": {
+    "id": "fukushi-yogu",
+    "name": "福祉用具",
+    "path": "/fukushi-yogu/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "shinjuku",
+    "city_name": "新宿区"
+  },
+  "seo": {
+    "title": "新宿区の福祉用具20事業所｜レンタルと購入【2026年9月更新】",
+    "description": "東京都新宿区の福祉用具貸与・特定福祉用具販売の指定事業所20件を連絡先つきで掲載。区内20件のうち貸与と販売の両方を扱う事業所がどれかを示し、年10万円までの購入費と、指定事業所から買う必要がある理由を解説します。",
+    "canonical": "https://kaigonotonari.com/fukushi-yogu/tokyo/shinjuku/",
+    "og_title": "新宿区の福祉用具一覧｜借りるか買うかで事業所が変わります",
+    "og_description": "新宿区の福祉用具事業所20件を掲載。ポータブルトイレや入浴用いすは購入しかできません。指定のない店で買うと保険は出ません。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-fukushi-yogu.jpg"
+  },
+  "h1": "新宿区の福祉用具一覧｜借りるか買うかで事業所が変わります",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：20事業所",
+  "lead": "東京都新宿区で福祉用具のレンタルや購入を考えている方へ。東京都の指定を受けた20件から20件を連絡先つきで掲載し、そのうち<strong>貸与と販売の両方を扱う事業所が18件</strong>あることまで示しました。介護保険で福祉用具を買う場合、<strong>指定を受けた事業者から買ったものにしか支給されません</strong>。同じ商品をネット通販で買っても1円も戻らないので、ここが最初の分かれ目になります。",
+  "listing_note": "新宿区内の福祉用具貸与・特定福祉用具販売の指定事業所から20件を掲載しています（東京都公表・2026年9月1日時点）。区内には20件が指定を受けており、そのすべてを掲載しています。「貸与と販売」「貸与のみ」「販売のみ」の表示は、東京都の一覧でその事業所がどちらのサービス種類で指定を受けているかによります。取扱商品や価格は事業所ごとに違い、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社　サン・ケアネット",
+      "telephone": "03-3353-4702",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "新宿一丁目２０番地１３号　花園公園ビル１０階"
+      },
+      "parentOrganization": "株式会社サン・ケアネット",
+      "identifier": "1370401653",
+      "_town": "新宿",
+      "_kind": "営利法人",
+      "_mix": "貸与のみ",
+      "_designated": "2002-05-01",
+      "_years": 24.39425051334702,
+      "_tags": [
+        "新宿エリア",
+        "貸与のみ",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "日本リック福祉用具貸与事業所",
+      "telephone": "03-6205-9731",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "早稲田町８５近藤ビル１階"
+      },
+      "parentOrganization": "日本リック株式会社",
+      "identifier": "1370402321",
+      "_town": "早稲田町",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2004-01-01",
+      "_years": 22.72416153319644,
+      "_tags": [
+        "早稲田町エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ダスキンヘルスレント新宿ステーション",
+      "telephone": "03-6457-5295",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "天神町６６－８ビューロー天神町１階"
+      },
+      "parentOrganization": "株式会社いつわワールド",
+      "identifier": "1370403584",
+      "_town": "天神町",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2007-09-01",
+      "_years": 19.058179329226558,
+      "_tags": [
+        "天神町エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "フランスベッド株式会社　メディカルショップ新宿店",
+      "telephone": "03-6861-8991",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "高田馬場１－３１－１６ワイム高田馬場ビル"
+      },
+      "parentOrganization": "フランスベッド株式会社",
+      "identifier": "1370403923",
+      "_town": "高田馬場",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2009-04-01",
+      "_years": 17.475701574264203,
+      "_tags": [
+        "高田馬場エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "Ｋ－ＷＯＲＫＥＲ　福祉用具貸与事業所",
+      "telephone": "03-6279-2940",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "高田馬場３－３３－１"
+      },
+      "parentOrganization": "株式会社Ｋ－ＷＯＲＫＥＲ",
+      "identifier": "1370405811",
+      "_town": "高田馬場",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2015-11-01",
+      "_years": 10.8911704312115,
+      "_tags": [
+        "高田馬場エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "シルバーはあと新宿",
+      "telephone": "03-6709-8770",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "大京町２８－１プラウド新宿御苑エンパイア１０３"
+      },
+      "parentOrganization": "株式会社ベネッセキャリオス",
+      "identifier": "1370406009",
+      "_town": "大京町",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2017-02-01",
+      "_years": 9.637234770704996,
+      "_tags": [
+        "大京町エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "大起エンゼルヘルプ　東京中央営業所",
+      "telephone": "03-5906-2030",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "西落合４－８－１９"
+      },
+      "parentOrganization": "株式会社大起エンゼルヘルプ",
+      "identifier": "1370406199",
+      "_town": "西落合",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2017-11-01",
+      "_years": 8.889801505817934,
+      "_tags": [
+        "西落合エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "Ｔｅｃｏ",
+      "telephone": "03-6304-5270",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "西新宿６－６－２新宿国際ビルディング１階"
+      },
+      "parentOrganization": "株式会社Ｔｅｃｏ",
+      "identifier": "1370406488",
+      "_town": "西新宿",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2019-06-01",
+      "_years": 7.310061601642711,
+      "_tags": [
+        "西新宿エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社ヤマシタ　新宿営業所",
+      "telephone": "03-5155-3382",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "高田馬場１－２１－１３廣池ビルディング　２０１"
+      },
+      "parentOrganization": "株式会社ヤマシタ",
+      "identifier": "1370406769",
+      "_town": "高田馬場",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2020-11-01",
+      "_years": 5.88911704312115,
+      "_tags": [
+        "高田馬場エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社ベストメディカルライフ　江田営業所",
+      "telephone": "03-5989-0013",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "西新宿１－２５－１新宿センタービル３０階"
+      },
+      "parentOrganization": "株式会社ベストメディカルライフ",
+      "identifier": "1370406835",
+      "_town": "西新宿",
+      "_kind": "営利法人",
+      "_mix": "販売のみ",
+      "_designated": "2021-06-01",
+      "_years": 5.308692676249144,
+      "_tags": [
+        "西新宿エリア",
+        "販売のみ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "メディカルケア　フナツキ",
+      "telephone": "03-3356-1173",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "新宿４－４－１７ヒロノビル　４Ｆ"
+      },
+      "parentOrganization": "株式会社フナツキ",
+      "identifier": "1370406850",
+      "_town": "新宿",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2021-09-01",
+      "_years": 5.0568104038329915,
+      "_tags": [
+        "新宿エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ひばり福祉用具サービス",
+      "telephone": "03-6258-0890",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "西新宿３－１－４第二佐山ビル　６Ｆ"
+      },
+      "parentOrganization": "シマダリビングパートナーズ株式会社",
+      "identifier": "1370406884",
+      "_town": "西新宿",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2021-11-01",
+      "_years": 4.889801505817933,
+      "_tags": [
+        "西新宿エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ユニバーサル介護サービス",
+      "telephone": "03-6416-8968",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "住吉町２－１５萩野ビル３階"
+      },
+      "parentOrganization": "株式会社唯愛国際",
+      "identifier": "1370406967",
+      "_town": "住吉町",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2022-05-01",
+      "_years": 4.394250513347022,
+      "_tags": [
+        "住吉町エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＹＯＵＲ　ＧＯＯＤ",
+      "telephone": "07084340470",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "中井２－１２－４内野マンション１０２"
+      },
+      "parentOrganization": "合同会社ｅｌｉＭａ’Ｈ",
+      "identifier": "1370407247",
+      "_town": "中井",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2024-02-01",
+      "_years": 2.639288158795346,
+      "_tags": [
+        "中井エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "介護とくらしのパートナー／エブリィ",
+      "telephone": "03-5937-1658",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "高田馬場４－１３－１２東海林ビル３階－Ｅ"
+      },
+      "parentOrganization": "株式会社メディアミックス",
+      "identifier": "1370407411",
+      "_town": "高田馬場",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2025-03-01",
+      "_years": 1.5605749486652978,
+      "_tags": [
+        "高田馬場エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヤマクル福祉用具",
+      "telephone": "03-6265-9630",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "高田馬場１－２０－７スワコモンズ１０７"
+      },
+      "parentOrganization": "株式会社アップサポート",
+      "identifier": "1370407494",
+      "_town": "高田馬場",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2025-11-01",
+      "_years": 0.8898015058179329,
+      "_tags": [
+        "高田馬場エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ナイスケア福祉用具貸与・販売事業所",
+      "telephone": "03-5937-4731",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "高田馬場４－２６－１５サルイアパートメント１０１"
+      },
+      "parentOrganization": "有限会社ナイスケア",
+      "identifier": "1370407502",
+      "_town": "高田馬場",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2025-11-01",
+      "_years": 0.8898015058179329,
+      "_tags": [
+        "高田馬場エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "つばさ　Ｆor　you　ステーション",
+      "telephone": "03-5348-7551",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "上落合３－９－６－１Ｆ"
+      },
+      "parentOrganization": "株式会社キングマザー",
+      "identifier": "1371403666",
+      "_town": "上落合",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2011-05-01",
+      "_years": 15.394934976043805,
+      "_tags": [
+        "上落合エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ハピネスケア",
+      "telephone": "03-6302-1344",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "高田馬場１－１０－１５三翔諏訪の森ハイツ第２　１０４"
+      },
+      "parentOrganization": "株式会社ハピネスケア",
+      "identifier": "1371911411",
+      "_town": "高田馬場",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2019-08-01",
+      "_years": 7.143052703627652,
+      "_tags": [
+        "高田馬場エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アップライド株式会社",
+      "telephone": "03-6908-5851",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "上落合２－２６－３上落合ビル２階"
+      },
+      "parentOrganization": "アップライド株式会社",
+      "identifier": "1372200418",
+      "_town": "上落合",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "1999-10-01",
+      "_years": 26.976043805612594,
+      "_tags": [
+        "上落合エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "新宿区で福祉用具を借りるには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければ高齢者総合相談センターに相談してください。福祉用具貸与もケアプランに位置づける必要があるため、新宿区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "新宿区に福祉用具の事業所は何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で新宿区内に20件の福祉用具の事業所（貸与または特定販売の指定を受けたもの）があります。本ページではそのうち20件を連絡先つきで掲載し、うち18件が貸与と販売の両方を扱っています。"
+    },
+    {
+      "q": "新宿区でポータブルトイレや入浴用のいすは、レンタルできますか？",
+      "a": "できません。これらは購入（特定福祉用具販売）の対象で、同一年度に10万円までが保険の対象になります。新宿区の掲載20件のうち販売の指定を持つのは19件なので、買う予定があるならその中から選んでください。"
+    },
+    {
+      "q": "ネット通販で買っても、新宿区から保険は出ますか？",
+      "a": "出ません。新宿区の掲載20件のうち19件が販売の指定を持っているので、その中から選んでください。購入前に新宿区の介護保険担当かケアマネジャーに相談するのが確実です。"
+    },
+    {
+      "q": "新宿区で介護ベッドを借りたいのですが、要介護1でも借りられますか？",
+      "a": "原則として対象外です。ただし医師の所見などをもとに例外的に認められる場合があり、判断するのは新宿区です。新宿区のケアマネジャー経由で相談してください。対象外になる用具の一覧は福祉用具のしくみのページにまとめています。"
+    },
+    {
+      "q": "新宿区でレンタル料金が事業所によって違うのはなぜですか？",
+      "a": "福祉用具貸与だけは単位数が決まっておらず、事業所が商品ごとに価格を設定するしくみだからです。新宿区の掲載20件は営利法人が20件と大半を占めますが、価格も品ぞろえも事業所ごとに差があるので、複数から見積もりを取ってください。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/shinjuku/\">新宿区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/shinjuku/\">新宿区のデイサービス<small>日中の預け先</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/shinjuku/\">新宿区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/shinjuku/\">新宿区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/shinjuku/\">新宿区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/shinjuku/\">新宿区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアの福祉用具",
+  "nearby": "<a href=\"{{ROOT}}fukushi-yogu/tokyo/chiyoda/\">千代田区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/minato/\">港区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/shibuya/\">渋谷区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/nakano/\">中野区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/toshima/\">豊島区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/bunkyo/\">文京区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "江東区「介護保険特定福祉用具購入費の支給」（支給限度額・対象種目・指定事業者要件）",
+    "厚生労働省「令和6年度介護報酬改定」福祉用具貸与・特定福祉用具販売の選択制",
+    "新宿区「高齢者総合相談センター一覧」",
+    "日本郵便 郵便番号データにもとづく新宿区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>買う前に確認を</h4>\n        <p>指定のない店で買うと保険は出ません。対象種目と手続きはハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>新宿区内の福祉用具事業所は20件（都指定）</li>\n          <li>掲載20件のうち貸与と販売の両方が18件</li>\n          <li>購入は年度内10万円まで（1〜3割負担）</li>\n          <li>指定事業所以外で買うと支給されません</li>\n          <li>入口はケアマネか高齢者総合相談センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみ</a></li>\n          <li><a href=\"{{ROOT}}houmon-kaigo/\">訪問介護</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">費用のしくみ</a>",
+  "hero_image": "assets/ogp-fukushi-yogu.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "shinjuku"
+  }
+}

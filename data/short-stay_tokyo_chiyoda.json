@@ -1,0 +1,192 @@
+{
+  "slug": "short-stay_tokyo_chiyoda",
+  "category": {
+    "id": "short-stay",
+    "name": "ショートステイ",
+    "path": "/short-stay/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "chiyoda",
+    "city_name": "千代田区"
+  },
+  "seo": {
+    "title": "千代田区のショートステイ5事業所｜予約と費用【2026年9月更新】",
+    "description": "東京都千代田区の短期入所生活介護（ショートステイ）事業所5件を連絡先つきで掲載。区内5件のうち特養の空床利用型がどれかを含め、予約の取りやすさ・1級地での自己負担・食費と滞在費の見方をまとめました。",
+    "canonical": "https://kaigonotonari.com/short-stay/tokyo/chiyoda/",
+    "og_title": "千代田区のショートステイ一覧｜予約が取れる事業所の見分け方",
+    "og_description": "千代田区の短期入所生活介護5件を掲載。空床利用型かどうかで予約の取りやすさが変わります。費用は食費・滞在費まで含めて解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-short-stay.jpg"
+  },
+  "h1": "千代田区のショートステイ一覧｜予約が取れる事業所の見分け方",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：5事業所",
+  "lead": "東京都千代田区で短期入所生活介護（ショートステイ）を探している方へ。東京都の指定を受けた5件から5件を連絡先つきで掲載し、そのうち特養の空床を使う<strong>空床利用型が1件</strong>あることまで示しました。ショートステイでいちばん多い壁は<strong>予約が取れないこと</strong>です。同じ区の事業所でも、専用の床を持つところと特養の空きベッドを使うところでは、押さえやすさがまったく違います。",
+  "listing_note": "千代田区内の短期入所生活介護事業所から5件を掲載しています（東京都公表・2026年9月1日時点）。区内には5件が指定を受けており、そのすべてを掲載しています。「特養の空床利用」「単独型」などの表示は東京都の一覧の事業所種別名です。空き状況は日々変わるため、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "千代田区立岩本町高齢者在宅サービスセンター",
+      "telephone": "03-5825-3407",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "岩本町２－１５－３岩本町ほほえみプラザ３階"
+      },
+      "parentOrganization": "社会福祉法人多摩同胞会",
+      "identifier": "1370100578",
+      "_town": "岩本町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "単独型",
+      "_designated": "2003-10-01",
+      "_years": 22.976043805612594,
+      "_tags": [
+        "岩本町エリア",
+        "単独型",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "かんだ連雀高齢者在宅サービスセンター",
+      "telephone": "03-3252-8815",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "神田淡路町２－８－１"
+      },
+      "parentOrganization": "社会福祉法人多摩同胞会",
+      "identifier": "1370100644",
+      "_town": "神田淡路町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の空床利用型",
+      "_designated": "2004-04-01",
+      "_years": 22.47501711156742,
+      "_tags": [
+        "神田淡路町エリア",
+        "特養の空床利用",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "フォーユーショートステイ　淡路",
+      "telephone": "03-5298-6028",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "神田淡路町２－１０９"
+      },
+      "parentOrganization": "社会福祉法人奉優会",
+      "identifier": "1370101352",
+      "_town": "神田淡路町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "単独型",
+      "_designated": "2013-06-01",
+      "_years": 13.308692676249144,
+      "_tags": [
+        "神田淡路町エリア",
+        "単独型",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ザ番町ハウス",
+      "telephone": "03-3238-0088",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "二番町７番地６"
+      },
+      "parentOrganization": "社会福祉法人平成会",
+      "identifier": "1370101626",
+      "_town": "二番町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2021-04-01",
+      "_years": 5.475701574264202,
+      "_tags": [
+        "二番町エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "千代田区立一番町特別養護老人ホーム",
+      "telephone": "03-3265-6131",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "一番町１２"
+      },
+      "parentOrganization": "社会福祉法人カメリア会",
+      "identifier": "1370101717",
+      "_town": "一番町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2023-04-01",
+      "_years": 3.477070499657769,
+      "_tags": [
+        "一番町エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "千代田区でショートステイを使うには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければ高齢者あんしんセンターに相談してください。ショートステイもケアプランに位置づける必要があるため、千代田区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "千代田区にショートステイは何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で千代田区内に5件の短期入所生活介護事業所が指定を受けています。本ページではそのうち5件を連絡先つきで掲載しています。掲載分のうち1件が特養の空床利用型です。"
+    },
+    {
+      "q": "千代田区で予約が取れないときはどうすればいいですか？",
+      "a": "まず空床利用型以外を当たってください。千代田区の掲載5件のうち4件は専用の床を持つ事業所です。それでも埋まっていれば、日程をずらすか、千代田区に隣接する区の事業所を当たります。千代田区でもお盆・年末年始・連休は数か月前から埋まります。"
+    },
+    {
+      "q": "千代田区で自己負担はいくらくらいですか？",
+      "a": "千代田区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたります。従来型個室・多床室の併設型なら1割負担で要介護3が1日約849円、要介護5が1日約1,007円が目安です。ただし千代田区でもこれとは別に食費と滞在費が全額自己負担で加わるため、総額はこの倍以上になることがあります。住民税非課税世帯などは負担限度額認定で上限をつけられます。"
+    },
+    {
+      "q": "千代田区のショートステイは何日まで連続で使えますか？",
+      "a": "千代田区でも全国共通で、連続利用は30日までです。日数の管理はケアマネジャーがしてくれます。上限の詳しい決まりはショートステイのしくみのページにまとめています。"
+    },
+    {
+      "q": "認知症があっても千代田区のショートステイを使えますか？",
+      "a": "使えます。千代田区の掲載5件のうち3件は特別養護老人ホームなどに併設されており、認知症の方の受け入れに慣れているところが多くなります。ただし環境が変わると混乱が強く出る方もいるため、千代田区でもまず1泊2日から試してください。夜間の見守り体制は事業所ごとに違います。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}day-service/tokyo/chiyoda/\">千代田区のデイサービス<small>日中の預け先</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/chiyoda/\">千代田区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/chiyoda/\">千代田区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/chiyoda/\">千代田区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/chiyoda/\">千代田区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/chiyoda/\">千代田区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアのショートステイ",
+  "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/chuo/\">中央区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/minato/\">港区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/shinjuku/\">新宿区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/bunkyo/\">文京区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/taito/\">台東区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
+    "千代田区「高齢者あんしんセンター一覧」",
+    "日本郵便 郵便番号データにもとづく千代田区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず1泊2日から</h4>\n        <p>連続利用の上限や緊急時の預け先は、ハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}short-stay/\">ショートステイのしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>千代田区内の短期入所生活介護は5件（都指定）</li>\n          <li>掲載5件のうち空床利用型が1件</li>\n          <li>併設型・要介護3で1日約849円（1割）</li>\n          <li>食費・滞在費は全額自己負担</li>\n          <li>入口はケアマネか高齢者あんしんセンター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}short-stay/\">ショートステイのしくみ</a></li>\n          <li><a href=\"{{ROOT}}day-service/\">デイサービス</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
+  "hero_image": "assets/ogp-short-stay.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "chiyoda"
+  }
+}

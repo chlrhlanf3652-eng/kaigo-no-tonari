@@ -1,0 +1,459 @@
+{
+  "slug": "short-stay_tokyo_koto",
+  "category": {
+    "id": "short-stay",
+    "name": "ショートステイ",
+    "path": "/short-stay/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "koto",
+    "city_name": "江東区"
+  },
+  "seo": {
+    "title": "江東区のショートステイ16事業所｜予約と費用【2026年9月更新】",
+    "description": "東京都江東区の短期入所生活介護（ショートステイ）事業所16件を連絡先つきで掲載。区内16件のうち特養の空床利用型がどれかを含め、予約の取りやすさ・1級地での自己負担・食費と滞在費の見方をまとめました。",
+    "canonical": "https://kaigonotonari.com/short-stay/tokyo/koto/",
+    "og_title": "江東区のショートステイ一覧｜予約が取れる事業所の見分け方",
+    "og_description": "江東区の短期入所生活介護16件を掲載。空床利用型かどうかで予約の取りやすさが変わります。費用は食費・滞在費まで含めて解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-short-stay.jpg"
+  },
+  "h1": "江東区のショートステイ一覧｜予約が取れる事業所の見分け方",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：16事業所",
+  "lead": "東京都江東区で短期入所生活介護（ショートステイ）を探している方へ。東京都の指定を受けた16件から16件を連絡先つきで掲載し、そのうち特養の空床を使う<strong>空床利用型が2件</strong>あることまで示しました。ショートステイでいちばん多い壁は<strong>予約が取れないこと</strong>です。同じ区の事業所でも、専用の床を持つところと特養の空きベッドを使うところでは、押さえやすさがまったく違います。",
+  "listing_note": "江東区内の短期入所生活介護事業所から16件を掲載しています（東京都公表・2026年9月1日時点）。区内には16件が指定を受けており、そのすべてを掲載しています。「特養の空床利用」「単独型」などの表示は東京都の一覧の事業所種別名です。空き状況は日々変わるため、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "あそか園",
+      "telephone": "03-3632-3615",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "住吉１－９－５"
+      },
+      "parentOrganization": "社会福祉法人あそか会",
+      "identifier": "1370800235",
+      "_town": "住吉",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の空床利用型",
+      "_designated": "2000-03-01",
+      "_years": 26.559890485968516,
+      "_tags": [
+        "住吉エリア",
+        "特養の空床利用",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "深川愛の園(指定短期入所生活介護事業所）",
+      "telephone": "03-3641-1905",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "冬木１６番７号"
+      },
+      "parentOrganization": "社会福祉法人聖救主福祉会",
+      "identifier": "1370800516",
+      "_town": "冬木",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2000-02-01",
+      "_years": 26.639288158795345,
+      "_tags": [
+        "冬木エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "寿園短期入所施設",
+      "telephone": "03-3615-4850",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "北砂２－１－１６"
+      },
+      "parentOrganization": "社会福祉法人江東ことぶき会",
+      "identifier": "1370800607",
+      "_town": "北砂",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2000-03-01",
+      "_years": 26.559890485968516,
+      "_tags": [
+        "北砂エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "らん花園",
+      "telephone": "03-5617-6060",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "塩浜２－７－２"
+      },
+      "parentOrganization": "社会福祉法人爛柯会",
+      "identifier": "1370800789",
+      "_town": "塩浜",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "単独型",
+      "_designated": "2000-07-01",
+      "_years": 26.2258726899384,
+      "_tags": [
+        "塩浜エリア",
+        "単独型",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "コスモス短期入所施設",
+      "telephone": "03-5836-5121",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "大島９－６－１６"
+      },
+      "parentOrganization": "社会福祉法人江東ことぶき会",
+      "identifier": "1370801373",
+      "_town": "大島",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "単独型",
+      "_designated": "2002-05-01",
+      "_years": 24.39425051334702,
+      "_tags": [
+        "大島エリア",
+        "単独型",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "三井陽光苑",
+      "telephone": "03-5632-3211",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "新砂三丁目３番３７号"
+      },
+      "parentOrganization": "社会福祉法人三井記念病院",
+      "identifier": "1370801399",
+      "_town": "新砂",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2002-05-01",
+      "_years": 24.39425051334702,
+      "_tags": [
+        "新砂エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "北砂ホーム",
+      "telephone": "03-5606-1731",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "北砂６－２０－３０"
+      },
+      "parentOrganization": "社会福祉法人あそか会",
+      "identifier": "1370802686",
+      "_town": "北砂",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2005-04-01",
+      "_years": 21.475701574264203,
+      "_tags": [
+        "北砂エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "老人短期入所事業　あじさい",
+      "telephone": "03-5857-8231",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "東砂４－２０－１５"
+      },
+      "parentOrganization": "社会福祉法人愛郷会",
+      "identifier": "1370803064",
+      "_town": "東砂",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2006-02-01",
+      "_years": 20.637919233401778,
+      "_tags": [
+        "東砂エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム芳香苑",
+      "telephone": "03-3527-7189",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "東雲２－２－２９"
+      },
+      "parentOrganization": "社会福祉法人桜栄会",
+      "identifier": "1370803403",
+      "_town": "東雲",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2007-04-01",
+      "_years": 19.477070499657767,
+      "_tags": [
+        "東雲エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ショートステイ　カメリア",
+      "telephone": "03-5836-2314",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "亀戸３－３６－５"
+      },
+      "parentOrganization": "社会福祉法人カメリア会",
+      "identifier": "1370804070",
+      "_town": "亀戸",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2010-03-01",
+      "_years": 16.56125941136208,
+      "_tags": [
+        "亀戸エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホームあかつき苑",
+      "telephone": "03-5875-5255",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "大島７－３８－１５"
+      },
+      "parentOrganization": "社会福祉法人暁会",
+      "identifier": "1370805168",
+      "_town": "大島",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2014-04-01",
+      "_years": 12.476386036960985,
+      "_tags": [
+        "大島エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ショートステイ 故郷の家・東京",
+      "telephone": "03-3644-0555",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "塩浜１－４－４８"
+      },
+      "parentOrganization": "社会福祉法人こころの家族",
+      "identifier": "1370806315",
+      "_town": "塩浜",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2019-07-01",
+      "_years": 7.227926078028747,
+      "_tags": [
+        "塩浜エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あそか園",
+      "telephone": "03-3632-3615",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "住吉１－９－５"
+      },
+      "parentOrganization": "社会福祉法人あそか会",
+      "identifier": "1370806786",
+      "_town": "住吉",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2022-06-01",
+      "_years": 4.309377138945927,
+      "_tags": [
+        "住吉エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "江東ホーム指定短期入所生活介護事業所",
+      "telephone": "03-3647-5081",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "東陽２－１－２"
+      },
+      "parentOrganization": "社会福祉法人あそか会",
+      "identifier": "1370807032",
+      "_town": "東陽",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2023-11-01",
+      "_years": 2.891170431211499,
+      "_tags": [
+        "東陽エリア",
+        "併設・専用床",
+        "開設3年以内",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム　タムスさくらの杜　亀戸",
+      "telephone": "03-6807-0680",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "亀戸９－６－２７"
+      },
+      "parentOrganization": "社会福祉法人春和会",
+      "identifier": "1370807339",
+      "_town": "亀戸",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2025-12-01",
+      "_years": 0.8076659822039699,
+      "_tags": [
+        "亀戸エリア",
+        "併設・専用床",
+        "開設3年以内",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム　タムスさくらの杜　亀戸",
+      "telephone": "03-6807-0680",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "亀戸９－６－２７"
+      },
+      "parentOrganization": "社会福祉法人春和会",
+      "identifier": "1370807347",
+      "_town": "亀戸",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の空床利用型",
+      "_designated": "2025-12-01",
+      "_years": 0.8076659822039699,
+      "_tags": [
+        "亀戸エリア",
+        "特養の空床利用",
+        "開設3年以内",
+        "ショートステイ"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "江東区でショートステイを使うには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければ長寿サポートセンターに相談してください。ショートステイもケアプランに位置づける必要があるため、江東区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "江東区にショートステイは何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で江東区内に16件の短期入所生活介護事業所が指定を受けています。本ページではそのうち16件を連絡先つきで掲載しています。掲載分のうち2件が特養の空床利用型です。"
+    },
+    {
+      "q": "江東区で予約が取れないときはどうすればいいですか？",
+      "a": "まず空床利用型以外を当たってください。江東区の掲載16件のうち14件は専用の床を持つ事業所です。それでも埋まっていれば、日程をずらすか、江東区に隣接する区の事業所を当たります。江東区でもお盆・年末年始・連休は数か月前から埋まります。"
+    },
+    {
+      "q": "江東区で自己負担はいくらくらいですか？",
+      "a": "江東区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたります。従来型個室・多床室の併設型なら1割負担で要介護3が1日約849円、要介護5が1日約1,007円が目安です。ただし江東区でもこれとは別に食費と滞在費が全額自己負担で加わるため、総額はこの倍以上になることがあります。住民税非課税世帯などは負担限度額認定で上限をつけられます。"
+    },
+    {
+      "q": "江東区のショートステイは何日まで連続で使えますか？",
+      "a": "江東区でも全国共通で、連続利用は30日までです。日数の管理はケアマネジャーがしてくれます。上限の詳しい決まりはショートステイのしくみのページにまとめています。"
+    },
+    {
+      "q": "認知症があっても江東区のショートステイを使えますか？",
+      "a": "使えます。江東区の掲載16件のうち14件は特別養護老人ホームなどに併設されており、認知症の方の受け入れに慣れているところが多くなります。ただし環境が変わると混乱が強く出る方もいるため、江東区でもまず1泊2日から試してください。夜間の見守り体制は事業所ごとに違います。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}day-service/tokyo/koto/\">江東区のデイサービス<small>日中の預け先</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/koto/\">江東区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/koto/\">江東区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/koto/\">江東区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/koto/\">江東区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/koto/\">江東区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアのショートステイ",
+  "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/chuo/\">中央区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/sumida/\">墨田区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/edogawa/\">江戸川区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/shinagawa/\">品川区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/katsushika/\">葛飾区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
+    "江東区「長寿サポートセンター一覧」",
+    "日本郵便 郵便番号データにもとづく江東区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず1泊2日から</h4>\n        <p>連続利用の上限や緊急時の預け先は、ハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}short-stay/\">ショートステイのしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>江東区内の短期入所生活介護は16件（都指定）</li>\n          <li>掲載16件のうち空床利用型が2件</li>\n          <li>併設型・要介護3で1日約849円（1割）</li>\n          <li>食費・滞在費は全額自己負担</li>\n          <li>入口はケアマネか長寿サポートセンター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}short-stay/\">ショートステイのしくみ</a></li>\n          <li><a href=\"{{ROOT}}day-service/\">デイサービス</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
+  "hero_image": "assets/ogp-short-stay.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "koto"
+  }
+}

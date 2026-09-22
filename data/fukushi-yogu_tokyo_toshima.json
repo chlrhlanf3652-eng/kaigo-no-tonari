@@ -1,0 +1,398 @@
+{
+  "slug": "fukushi-yogu_tokyo_toshima",
+  "category": {
+    "id": "fukushi-yogu",
+    "name": "福祉用具",
+    "path": "/fukushi-yogu/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "toshima",
+    "city_name": "豊島区"
+  },
+  "seo": {
+    "title": "豊島区の福祉用具14事業所｜レンタルと購入【2026年9月更新】",
+    "description": "東京都豊島区の福祉用具貸与・特定福祉用具販売の指定事業所14件を連絡先つきで掲載。区内14件のうち貸与と販売の両方を扱う事業所がどれかを示し、年10万円までの購入費と、指定事業所から買う必要がある理由を解説します。",
+    "canonical": "https://kaigonotonari.com/fukushi-yogu/tokyo/toshima/",
+    "og_title": "豊島区の福祉用具一覧｜借りるか買うかで事業所が変わります",
+    "og_description": "豊島区の福祉用具事業所14件を掲載。ポータブルトイレや入浴用いすは購入しかできません。指定のない店で買うと保険は出ません。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-fukushi-yogu.jpg"
+  },
+  "h1": "豊島区の福祉用具一覧｜借りるか買うかで事業所が変わります",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：14事業所",
+  "lead": "東京都豊島区で福祉用具のレンタルや購入を考えている方へ。東京都の指定を受けた14件から14件を連絡先つきで掲載し、そのうち<strong>貸与と販売の両方を扱う事業所が11件</strong>あることまで示しました。介護保険で福祉用具を買う場合、<strong>指定を受けた事業者から買ったものにしか支給されません</strong>。同じ商品をネット通販で買っても1円も戻らないので、ここが最初の分かれ目になります。",
+  "listing_note": "豊島区内の福祉用具貸与・特定福祉用具販売の指定事業所から14件を掲載しています（東京都公表・2026年9月1日時点）。区内には14件が指定を受けており、そのすべてを掲載しています。「貸与と販売」「貸与のみ」「販売のみ」の表示は、東京都の一覧でその事業所がどちらのサービス種類で指定を受けているかによります。取扱商品や価格は事業所ごとに違い、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "ユニット",
+      "telephone": "03-3980-0035",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "東池袋五丁目８番１５号"
+      },
+      "parentOrganization": "有限会社ユニット",
+      "identifier": "1371601376",
+      "_town": "東池袋",
+      "_kind": "営利法人",
+      "_mix": "販売のみ",
+      "_designated": "2006-04-01",
+      "_years": 20.476386036960985,
+      "_tags": [
+        "東池袋エリア",
+        "販売のみ",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "サン・ケアセンター",
+      "telephone": "03-3918-3571",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "西巣鴨３－１５－１０ＵＫビル２０３"
+      },
+      "parentOrganization": "有限会社サン",
+      "identifier": "1371601954",
+      "_town": "西巣鴨",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2004-08-01",
+      "_years": 22.140999315537304,
+      "_tags": [
+        "西巣鴨エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "さわやかケアポートとしま・福祉用具",
+      "telephone": "03-5907-4294",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "北大塚１－１２－１５協同興業北大塚ビル"
+      },
+      "parentOrganization": "ウエルシアパートナーズ株式会社",
+      "identifier": "1371603018",
+      "_town": "北大塚",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2006-04-01",
+      "_years": 20.476386036960985,
+      "_tags": [
+        "北大塚エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアフレンド・福祉用具",
+      "telephone": "03-3530-2789",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "長崎４－１６－２"
+      },
+      "parentOrganization": "有限会社ケアフレンド",
+      "identifier": "1371603778",
+      "_town": "長崎",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2009-11-01",
+      "_years": 16.889801505817932,
+      "_tags": [
+        "長崎エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "セントケア　りまいん　豊島",
+      "telephone": "03-5953-5033",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "東池袋３－２０－２１"
+      },
+      "parentOrganization": "セントケアりまいん株式会社",
+      "identifier": "1371604131",
+      "_town": "東池袋",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2011-07-01",
+      "_years": 15.227926078028748,
+      "_tags": [
+        "東池袋エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社ユーエスマネジメンツ　福祉用具事業所",
+      "telephone": "03-6907-3339",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "池袋２－６９－８－１階"
+      },
+      "parentOrganization": "株式会社ユーエスマネジメンツ",
+      "identifier": "1371605377",
+      "_town": "池袋",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2016-11-01",
+      "_years": 9.88911704312115,
+      "_tags": [
+        "池袋エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＳＯＭＰＯケア　豊島　福祉用具",
+      "telephone": "03-5962-0182",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "東池袋５－４４－１５東信東池袋ビル４階"
+      },
+      "parentOrganization": "ＳＯＭＰＯケア株式会社",
+      "identifier": "1371605526",
+      "_town": "東池袋",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2018-07-01",
+      "_years": 8.227241615331964,
+      "_tags": [
+        "東池袋エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "倭ケアサービス",
+      "telephone": "03-5843-3360",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "西池袋３－３３－６ＳＨＫビル２階"
+      },
+      "parentOrganization": "合同会社倭ケアサービス",
+      "identifier": "1371605682",
+      "_town": "西池袋",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2019-06-01",
+      "_years": 7.310061601642711,
+      "_tags": [
+        "西池袋エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "広洋産業株式会社",
+      "telephone": "03-3984-5640",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "南大塚３－３０－３"
+      },
+      "parentOrganization": "広洋産業株式会社",
+      "identifier": "1371605690",
+      "_town": "南大塚",
+      "_kind": "営利法人",
+      "_mix": "貸与のみ",
+      "_designated": "2019-09-01",
+      "_years": 7.058179329226557,
+      "_tags": [
+        "南大塚エリア",
+        "貸与のみ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "グローバルサポート",
+      "telephone": "03-5843-3601",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "東池袋２－４９－９第２尾形ビル２階２１号室"
+      },
+      "parentOrganization": "株式会社グローバルサポート",
+      "identifier": "1371605716",
+      "_town": "東池袋",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2020-04-01",
+      "_years": 6.4750171115674195,
+      "_tags": [
+        "東池袋エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社ミタカ　目白営業所",
+      "telephone": "03-6907-2350",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "高田２－１８－２３シャトー目白１階"
+      },
+      "parentOrganization": "株式会社ミタカ",
+      "identifier": "1371605757",
+      "_town": "高田",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2020-05-01",
+      "_years": 6.392881587953457,
+      "_tags": [
+        "高田エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ｅスコップ",
+      "telephone": "03-6907-2655",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "東池袋４－２４－８ビーバーズビル４階"
+      },
+      "parentOrganization": "株式会社Ｓ",
+      "identifier": "1371606029",
+      "_town": "東池袋",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2023-10-01",
+      "_years": 2.976043805612594,
+      "_tags": [
+        "東池袋エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "常ケアサポート",
+      "telephone": "03-5926-8748",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "長崎１－１１－１９藤澤ローヤルコーポ３階"
+      },
+      "parentOrganization": "株式会社常機構",
+      "identifier": "1371606052",
+      "_town": "長崎",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2024-01-01",
+      "_years": 2.724161533196441,
+      "_tags": [
+        "長崎エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "エーエルケア",
+      "telephone": "03-3984-1350",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "池袋本町１－８－４小川ビル２０３号室"
+      },
+      "parentOrganization": "株式会社アルバジャパン",
+      "identifier": "1371606169",
+      "_town": "池袋本町",
+      "_kind": "営利法人",
+      "_mix": "貸与のみ",
+      "_designated": "2025-04-01",
+      "_years": 1.4757015742642026,
+      "_tags": [
+        "池袋本町エリア",
+        "貸与のみ"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "豊島区で福祉用具を借りるには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければ高齢者総合相談センターに相談してください。福祉用具貸与もケアプランに位置づける必要があるため、豊島区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "豊島区に福祉用具の事業所は何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で豊島区内に14件の福祉用具の事業所（貸与または特定販売の指定を受けたもの）があります。本ページではそのうち14件を連絡先つきで掲載し、うち11件が貸与と販売の両方を扱っています。"
+    },
+    {
+      "q": "豊島区でポータブルトイレや入浴用のいすは、レンタルできますか？",
+      "a": "できません。これらは購入（特定福祉用具販売）の対象で、同一年度に10万円までが保険の対象になります。豊島区の掲載14件のうち販売の指定を持つのは12件なので、買う予定があるならその中から選んでください。"
+    },
+    {
+      "q": "ネット通販で買っても、豊島区から保険は出ますか？",
+      "a": "出ません。豊島区の掲載14件のうち12件が販売の指定を持っているので、その中から選んでください。購入前に豊島区の介護保険担当かケアマネジャーに相談するのが確実です。"
+    },
+    {
+      "q": "豊島区で介護ベッドを借りたいのですが、要介護1でも借りられますか？",
+      "a": "原則として対象外です。ただし医師の所見などをもとに例外的に認められる場合があり、判断するのは豊島区です。豊島区のケアマネジャー経由で相談してください。対象外になる用具の一覧は福祉用具のしくみのページにまとめています。"
+    },
+    {
+      "q": "豊島区でレンタル料金が事業所によって違うのはなぜですか？",
+      "a": "福祉用具貸与だけは単位数が決まっておらず、事業所が商品ごとに価格を設定するしくみだからです。豊島区の掲載14件は営利法人が14件と大半を占めますが、価格も品ぞろえも事業所ごとに差があるので、複数から見積もりを取ってください。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/toshima/\">豊島区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/toshima/\">豊島区のデイサービス<small>日中の預け先</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/toshima/\">豊島区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/toshima/\">豊島区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/toshima/\">豊島区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/toshima/\">豊島区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアの福祉用具",
+  "nearby": "<a href=\"{{ROOT}}fukushi-yogu/tokyo/shinjuku/\">新宿区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/bunkyo/\">文京区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/kita/\">北区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/itabashi/\">板橋区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/nerima/\">練馬区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/nakano/\">中野区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "江東区「介護保険特定福祉用具購入費の支給」（支給限度額・対象種目・指定事業者要件）",
+    "厚生労働省「令和6年度介護報酬改定」福祉用具貸与・特定福祉用具販売の選択制",
+    "豊島区「高齢者総合相談センター一覧」",
+    "日本郵便 郵便番号データにもとづく豊島区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>買う前に確認を</h4>\n        <p>指定のない店で買うと保険は出ません。対象種目と手続きはハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>豊島区内の福祉用具事業所は14件（都指定）</li>\n          <li>掲載14件のうち貸与と販売の両方が11件</li>\n          <li>購入は年度内10万円まで（1〜3割負担）</li>\n          <li>指定事業所以外で買うと支給されません</li>\n          <li>入口はケアマネか高齢者総合相談センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみ</a></li>\n          <li><a href=\"{{ROOT}}houmon-kaigo/\">訪問介護</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">費用のしくみ</a>",
+  "hero_image": "assets/ogp-fukushi-yogu.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "toshima"
+  }
+}

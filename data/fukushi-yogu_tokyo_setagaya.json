@@ -1,0 +1,536 @@
+{
+  "slug": "fukushi-yogu_tokyo_setagaya",
+  "category": {
+    "id": "fukushi-yogu",
+    "name": "福祉用具",
+    "path": "/fukushi-yogu/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "setagaya",
+    "city_name": "世田谷区"
+  },
+  "seo": {
+    "title": "世田谷区の福祉用具20事業所｜レンタルと購入【2026年9月更新】",
+    "description": "東京都世田谷区の福祉用具貸与・特定福祉用具販売の指定事業所20件を連絡先つきで掲載。区内35件のうち貸与と販売の両方を扱う事業所がどれかを示し、年10万円までの購入費と、指定事業所から買う必要がある理由を解説します。",
+    "canonical": "https://kaigonotonari.com/fukushi-yogu/tokyo/setagaya/",
+    "og_title": "世田谷区の福祉用具一覧｜借りるか買うかで事業所が変わります",
+    "og_description": "世田谷区の福祉用具事業所20件を掲載。ポータブルトイレや入浴用いすは購入しかできません。指定のない店で買うと保険は出ません。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-fukushi-yogu.jpg"
+  },
+  "h1": "世田谷区の福祉用具一覧｜借りるか買うかで事業所が変わります",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：20事業所",
+  "lead": "東京都世田谷区で福祉用具のレンタルや購入を考えている方へ。東京都の指定を受けた35件から20件を連絡先つきで掲載し、そのうち<strong>貸与と販売の両方を扱う事業所が20件</strong>あることまで示しました。介護保険で福祉用具を買う場合、<strong>指定を受けた事業者から買ったものにしか支給されません</strong>。同じ商品をネット通販で買っても1円も戻らないので、ここが最初の分かれ目になります。",
+  "listing_note": "世田谷区内の福祉用具貸与・特定福祉用具販売の指定事業所から20件を掲載しています（東京都公表・2026年9月1日時点）。区内には35件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。「貸与と販売」「貸与のみ」「販売のみ」の表示は、東京都の一覧でその事業所がどちらのサービス種類で指定を受けているかによります。取扱商品や価格は事業所ごとに違い、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社トーカイ東京支店",
+      "telephone": "03-5315-3110",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "北烏山９－２５－２２"
+      },
+      "parentOrganization": "株式会社トーカイ",
+      "identifier": "1370200196",
+      "_town": "北烏山",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2000-01-04",
+      "_years": 26.715947980835043,
+      "_tags": [
+        "北烏山エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "桜十字福祉用具東京事業所",
+      "telephone": "03-5357-8571",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "八幡山３－１２－２１"
+      },
+      "parentOrganization": "株式会社桜十字",
+      "identifier": "1370604231",
+      "_town": "八幡山",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2020-01-01",
+      "_years": 6.72416153319644,
+      "_tags": [
+        "八幡山エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "トータルライフケア奥沢",
+      "telephone": "03-6425-6431",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "奥沢３－４５－６鈴木第一ビル１Ｆ"
+      },
+      "parentOrganization": "株式会社トータルライフケア",
+      "identifier": "1371201367",
+      "_town": "奥沢",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2000-03-01",
+      "_years": 26.559890485968516,
+      "_tags": [
+        "奥沢エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社　あかね",
+      "telephone": "03-5433-1441",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "三軒茶屋２－１１－２０サンタワーズＤ棟８階"
+      },
+      "parentOrganization": "株式会社あかね",
+      "identifier": "1371203272",
+      "_town": "三軒茶屋",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2002-12-01",
+      "_years": 23.808350444900753,
+      "_tags": [
+        "三軒茶屋エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "やすらぎライフワークス",
+      "telephone": "03-6379-5901",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "赤堤５－１３－７"
+      },
+      "parentOrganization": "やすらぎケア株式会社",
+      "identifier": "1371206895",
+      "_town": "赤堤",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2007-06-01",
+      "_years": 19.310061601642712,
+      "_tags": [
+        "赤堤エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "レンティケアサービス城南",
+      "telephone": "03-5429-1071",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "船橋２－７－５"
+      },
+      "parentOrganization": "株式会社レンティ",
+      "identifier": "1371206952",
+      "_town": "船橋",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2007-08-01",
+      "_years": 19.143052703627653,
+      "_tags": [
+        "船橋エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アルファフリー",
+      "telephone": "03-6411-7340",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "鎌田３－１７－１ベルフレール玉川２０２"
+      },
+      "parentOrganization": "株式会社アルファフリー",
+      "identifier": "1371208008",
+      "_town": "鎌田",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2009-07-01",
+      "_years": 17.22655715263518,
+      "_tags": [
+        "鎌田エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "レンタルサービス　ソラスト西東京",
+      "telephone": "03-5315-5051",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "南烏山４－２７－８岡田ビル２Ｆ"
+      },
+      "parentOrganization": "株式会社ソラスト",
+      "identifier": "1371208370",
+      "_town": "南烏山",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2010-03-01",
+      "_years": 16.56125941136208,
+      "_tags": [
+        "南烏山エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ニック株式会社　世田谷営業所",
+      "telephone": "03-5314-3370",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "北烏山３－２５－２０"
+      },
+      "parentOrganization": "ニック株式会社",
+      "identifier": "1371209048",
+      "_town": "北烏山",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2010-11-01",
+      "_years": 15.890485968514716,
+      "_tags": [
+        "北烏山エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "シルバーはあと世田谷",
+      "telephone": "03-6805-7680",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "用賀２－３３－１１"
+      },
+      "parentOrganization": "株式会社ベネッセキャリオス",
+      "identifier": "1371209535",
+      "_town": "用賀",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2011-06-01",
+      "_years": 15.31006160164271,
+      "_tags": [
+        "用賀エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社ヤマシタ　世田谷等々力営業所",
+      "telephone": "03-5752-1072",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "玉堤２－９－１４Ｄ－ｏｎｅ　ＢＵＩＬＤＩＮＧ　１０１号室"
+      },
+      "parentOrganization": "株式会社ヤマシタ",
+      "identifier": "1371210822",
+      "_town": "玉堤",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2012-11-01",
+      "_years": 13.88911704312115,
+      "_tags": [
+        "玉堤エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "パナソニック　エイジフリーショップ世田谷",
+      "telephone": "03-5426-0909",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "経堂５－３２－８マーベラス経堂１階"
+      },
+      "parentOrganization": "日建リース工業株式会社",
+      "identifier": "1371211895",
+      "_town": "経堂",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2014-01-01",
+      "_years": 12.722792607802875,
+      "_tags": [
+        "経堂エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社愛安住　千歳船橋営業所",
+      "telephone": "03-3429-7245",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "船橋１－９－１６やまもとハウス２Ｆ"
+      },
+      "parentOrganization": "株式会社愛安住",
+      "identifier": "1371215722",
+      "_town": "船橋",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2019-09-01",
+      "_years": 7.058179329226557,
+      "_tags": [
+        "船橋エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "きずなケア",
+      "telephone": "03-5429-1096",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "祖師谷３－４－７伊地智ビル１Ｆ"
+      },
+      "parentOrganization": "株式会社絆コーポレーション",
+      "identifier": "1371216233",
+      "_town": "祖師谷",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2021-02-01",
+      "_years": 5.637234770704997,
+      "_tags": [
+        "祖師谷エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "福祉用具ＡＩケアセンター",
+      "telephone": "03-6822-1181",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "船橋１－１３－１８－２０２号"
+      },
+      "parentOrganization": "株式会社Ｓｉｎｃｅｒｅ",
+      "identifier": "1371216597",
+      "_town": "船橋",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2022-03-01",
+      "_years": 4.561259411362081,
+      "_tags": [
+        "船橋エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社ヤマシタ世田谷松原営業所",
+      "telephone": "03-3321-0312",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "赤堤４－４１－１１Ｎビル１階"
+      },
+      "parentOrganization": "株式会社ヤマシタ",
+      "identifier": "1371217082",
+      "_town": "赤堤",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2023-11-01",
+      "_years": 2.891170431211499,
+      "_tags": [
+        "赤堤エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "関東ＭＦＲ",
+      "telephone": "03-5327-5107",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "赤堤２－１０－１１－１０２"
+      },
+      "parentOrganization": "株式会社ＭＦＲ",
+      "identifier": "1371217264",
+      "_town": "赤堤",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2024-07-01",
+      "_years": 2.2258726899383983,
+      "_tags": [
+        "赤堤エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "イーライフ株式会社　世田谷営業所",
+      "telephone": "03-6413-5368",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "弦巻４－１１－２シェモア弦巻１Ｆ"
+      },
+      "parentOrganization": "Ｅ－ＬＩＦＥ株式会社",
+      "identifier": "1371217546",
+      "_town": "弦巻",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2025-03-01",
+      "_years": 1.5605749486652978,
+      "_tags": [
+        "弦巻エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "保健福祉用品部",
+      "telephone": "03-6427-7908",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "北沢５－３３－３"
+      },
+      "parentOrganization": "株式会社保健福祉総研",
+      "identifier": "1371217850",
+      "_town": "北沢",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2026-01-01",
+      "_years": 0.7227926078028748,
+      "_tags": [
+        "北沢エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアサポートえん",
+      "telephone": "03-6820-2233",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "赤堤３－２２－３フェリーチェ赤堤１階"
+      },
+      "parentOrganization": "株式会社リレイション",
+      "identifier": "1371303833",
+      "_town": "赤堤",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2021-07-01",
+      "_years": 5.2265571526351815,
+      "_tags": [
+        "赤堤エリア",
+        "貸与と販売"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "世田谷区で福祉用具を借りるには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければあんしんすこやかセンターに相談してください。福祉用具貸与もケアプランに位置づける必要があるため、世田谷区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "世田谷区に福祉用具の事業所は何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で世田谷区内に35件の福祉用具の事業所（貸与または特定販売の指定を受けたもの）があります。本ページではそのうち20件を連絡先つきで掲載し、うち20件が貸与と販売の両方を扱っています。"
+    },
+    {
+      "q": "世田谷区でポータブルトイレや入浴用のいすは、レンタルできますか？",
+      "a": "できません。これらは購入（特定福祉用具販売）の対象で、同一年度に10万円までが保険の対象になります。世田谷区の掲載20件のうち販売の指定を持つのは20件なので、買う予定があるならその中から選んでください。"
+    },
+    {
+      "q": "ネット通販で買っても、世田谷区から保険は出ますか？",
+      "a": "出ません。世田谷区の掲載20件のうち20件が販売の指定を持っているので、その中から選んでください。購入前に世田谷区の介護保険担当かケアマネジャーに相談するのが確実です。"
+    },
+    {
+      "q": "世田谷区で介護ベッドを借りたいのですが、要介護1でも借りられますか？",
+      "a": "原則として対象外です。ただし医師の所見などをもとに例外的に認められる場合があり、判断するのは世田谷区です。世田谷区のケアマネジャー経由で相談してください。対象外になる用具の一覧は福祉用具のしくみのページにまとめています。"
+    },
+    {
+      "q": "世田谷区でレンタル料金が事業所によって違うのはなぜですか？",
+      "a": "福祉用具貸与だけは単位数が決まっておらず、事業所が商品ごとに価格を設定するしくみだからです。世田谷区の掲載20件は営利法人が20件と大半を占めますが、価格も品ぞろえも事業所ごとに差があるので、複数から見積もりを取ってください。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/setagaya/\">世田谷区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/setagaya/\">世田谷区のデイサービス<small>日中の預け先</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/setagaya/\">世田谷区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/setagaya/\">世田谷区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/setagaya/\">世田谷区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/setagaya/\">世田谷区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアの福祉用具",
+  "nearby": "<a href=\"{{ROOT}}fukushi-yogu/tokyo/meguro/\">目黒区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/shibuya/\">渋谷区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/suginami/\">杉並区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/nakano/\">中野区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/ota/\">大田区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/komae/\">komae</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "江東区「介護保険特定福祉用具購入費の支給」（支給限度額・対象種目・指定事業者要件）",
+    "厚生労働省「令和6年度介護報酬改定」福祉用具貸与・特定福祉用具販売の選択制",
+    "世田谷区「あんしんすこやかセンター一覧」",
+    "日本郵便 郵便番号データにもとづく世田谷区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>買う前に確認を</h4>\n        <p>指定のない店で買うと保険は出ません。対象種目と手続きはハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>世田谷区内の福祉用具事業所は35件（都指定）</li>\n          <li>掲載20件のうち貸与と販売の両方が20件</li>\n          <li>購入は年度内10万円まで（1〜3割負担）</li>\n          <li>指定事業所以外で買うと支給されません</li>\n          <li>入口はケアマネかあんしんすこやかセンター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみ</a></li>\n          <li><a href=\"{{ROOT}}houmon-kaigo/\">訪問介護</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">費用のしくみ</a>",
+  "hero_image": "assets/ogp-fukushi-yogu.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "setagaya"
+  }
+}

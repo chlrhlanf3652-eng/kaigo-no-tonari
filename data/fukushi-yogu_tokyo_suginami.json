@@ -1,0 +1,536 @@
+{
+  "slug": "fukushi-yogu_tokyo_suginami",
+  "category": {
+    "id": "fukushi-yogu",
+    "name": "福祉用具",
+    "path": "/fukushi-yogu/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "suginami",
+    "city_name": "杉並区"
+  },
+  "seo": {
+    "title": "杉並区の福祉用具20事業所｜レンタルと購入【2026年9月更新】",
+    "description": "東京都杉並区の福祉用具貸与・特定福祉用具販売の指定事業所20件を連絡先つきで掲載。区内23件のうち貸与と販売の両方を扱う事業所がどれかを示し、年10万円までの購入費と、指定事業所から買う必要がある理由を解説します。",
+    "canonical": "https://kaigonotonari.com/fukushi-yogu/tokyo/suginami/",
+    "og_title": "杉並区の福祉用具一覧｜借りるか買うかで事業所が変わります",
+    "og_description": "杉並区の福祉用具事業所20件を掲載。ポータブルトイレや入浴用いすは購入しかできません。指定のない店で買うと保険は出ません。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-fukushi-yogu.jpg"
+  },
+  "h1": "杉並区の福祉用具一覧｜借りるか買うかで事業所が変わります",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：20事業所",
+  "lead": "東京都杉並区で福祉用具のレンタルや購入を考えている方へ。東京都の指定を受けた23件から20件を連絡先つきで掲載し、そのうち<strong>貸与と販売の両方を扱う事業所が20件</strong>あることまで示しました。介護保険で福祉用具を買う場合、<strong>指定を受けた事業者から買ったものにしか支給されません</strong>。同じ商品をネット通販で買っても1円も戻らないので、ここが最初の分かれ目になります。",
+  "listing_note": "杉並区内の福祉用具貸与・特定福祉用具販売の指定事業所から20件を掲載しています（東京都公表・2026年9月1日時点）。区内には23件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。「貸与と販売」「貸与のみ」「販売のみ」の表示は、東京都の一覧でその事業所がどちらのサービス種類で指定を受けているかによります。取扱商品や価格は事業所ごとに違い、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "ＭＣＳ福祉用具",
+      "telephone": "03-5303-5221",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "井草１－４－７　サンコート井草２０６号"
+      },
+      "parentOrganization": "有限会社メディカル・ケアサポートツウェンティワン",
+      "identifier": "1370403394",
+      "_town": "井草",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2006-11-01",
+      "_years": 19.890485968514717,
+      "_tags": [
+        "井草エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "セントケア　りまいん　永福",
+      "telephone": "03-5329-1060",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "永福３－５７－１５榎本ビル１階"
+      },
+      "parentOrganization": "セントケアりまいん株式会社",
+      "identifier": "1371211218",
+      "_town": "永福",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2013-04-01",
+      "_years": 13.475701574264203,
+      "_tags": [
+        "永福エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "有限会社　白鷺介護サービス",
+      "telephone": "03-3399-1997",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "下井草３－４１－７サンビル２階"
+      },
+      "parentOrganization": "有限会社　白鷺介護サービス",
+      "identifier": "1371500503",
+      "_town": "下井草",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2003-03-01",
+      "_years": 23.561943874058862,
+      "_tags": [
+        "下井草エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "しらさぎ薬局",
+      "telephone": "03-3330-7181",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "阿佐谷北６－３１－７"
+      },
+      "parentOrganization": "ハーティ・メディケア有限会社",
+      "identifier": "1371500511",
+      "_town": "阿佐谷北",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "_tags": [
+        "阿佐谷北エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社　ドルフィン",
+      "telephone": "03-3395-4111",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "下井草５－４－２"
+      },
+      "parentOrganization": "株式会社ドルフィン",
+      "identifier": "1371504430",
+      "_town": "下井草",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2006-07-01",
+      "_years": 20.227241615331966,
+      "_tags": [
+        "下井草エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ソネット",
+      "telephone": "03-3394-4165",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "清水三丁目２７－１８"
+      },
+      "parentOrganization": "ソネット株式会社",
+      "identifier": "1371504638",
+      "_town": "清水",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2006-11-01",
+      "_years": 19.890485968514717,
+      "_tags": [
+        "清水エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ペアレント",
+      "telephone": "0120-88-1108",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "久我山１－７－４１　岩崎通信機(株)構内１３号館2階"
+      },
+      "parentOrganization": "株式会社ペアレント",
+      "identifier": "1371506955",
+      "_town": "久我山",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2011-12-01",
+      "_years": 14.809034907597535,
+      "_tags": [
+        "久我山エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "パナソニックエイジフリーショップ杉並",
+      "telephone": "03-5305-6588",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "浜田山３－３５－３１"
+      },
+      "parentOrganization": "日建リース工業株式会社",
+      "identifier": "1371507607",
+      "_town": "浜田山",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2013-01-01",
+      "_years": 13.722108145106091,
+      "_tags": [
+        "浜田山エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "東京ケアサービス",
+      "telephone": "03-6913-9655",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "井草１－３３－２１"
+      },
+      "parentOrganization": "株式会社東京ケアサービス",
+      "identifier": "1371507771",
+      "_town": "井草",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2013-04-01",
+      "_years": 13.475701574264203,
+      "_tags": [
+        "井草エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "シルバーはあと杉並",
+      "telephone": "03-6454-7441",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "本天沼１－３－３リーベ杉並１Ｆ"
+      },
+      "parentOrganization": "株式会社ベネッセキャリオス",
+      "identifier": "1371508316",
+      "_town": "本天沼",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2014-05-01",
+      "_years": 12.394250513347023,
+      "_tags": [
+        "本天沼エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "スギコー福祉用具サービス",
+      "telephone": "03-3333-8582",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "久我山５－６－１６サンメイト久我山"
+      },
+      "parentOrganization": "スギコー株式会社",
+      "identifier": "1371509389",
+      "_town": "久我山",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2016-10-01",
+      "_years": 9.973990417522245,
+      "_tags": [
+        "久我山エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ユニケア　永福",
+      "telephone": "03-3325-5481",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "永福３－２１－３"
+      },
+      "parentOrganization": "株式会社ユニケアさかの",
+      "identifier": "1371509884",
+      "_town": "永福",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2018-06-01",
+      "_years": 8.309377138945928,
+      "_tags": [
+        "永福エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＳＯＭＰＯケア　杉並　福祉用具",
+      "telephone": "03-5929-8666",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "阿佐谷南１－１７－１８阿佐谷下田ビル２階"
+      },
+      "parentOrganization": "ＳＯＭＰＯケア株式会社",
+      "identifier": "1371509975",
+      "_town": "阿佐谷南",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2018-07-01",
+      "_years": 8.227241615331964,
+      "_tags": [
+        "阿佐谷南エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社ケアサービス　レンタル杉並",
+      "telephone": "03-5311-7051",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "井草２－８－２０"
+      },
+      "parentOrganization": "株式会社ケアサービス",
+      "identifier": "1371510122",
+      "_town": "井草",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2018-10-01",
+      "_years": 7.975359342915811,
+      "_tags": [
+        "井草エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ほほえみ　グローバル",
+      "telephone": "03-6411-0613",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "高円寺北２－６－１"
+      },
+      "parentOrganization": "株式会社グローバルエステート",
+      "identifier": "1371510817",
+      "_town": "高円寺北",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2021-12-01",
+      "_years": 4.80766598220397,
+      "_tags": [
+        "高円寺北エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ニック株式会社　杉並営業所",
+      "telephone": "03-5329-5048",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "和泉１－１９－１３"
+      },
+      "parentOrganization": "ニック株式会社",
+      "identifier": "1371510866",
+      "_town": "和泉",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2022-02-01",
+      "_years": 4.63791923340178,
+      "_tags": [
+        "和泉エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社ヤマシタ杉並営業所",
+      "telephone": "03-5377-5758",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "阿佐谷南１－３４－６新東京会館５階"
+      },
+      "parentOrganization": "株式会社ヤマシタ",
+      "identifier": "1371511377",
+      "_town": "阿佐谷南",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2024-03-01",
+      "_years": 2.5598904859685145,
+      "_tags": [
+        "阿佐谷南エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "明楽三喜ホーム",
+      "telephone": "03-5941-8988",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "久我山３－３７－６"
+      },
+      "parentOrganization": "株式会社明楽三喜ホーム",
+      "identifier": "1371511476",
+      "_town": "久我山",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2024-09-01",
+      "_years": 2.0561259411362083,
+      "_tags": [
+        "久我山エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社東基　介護営業部　杉並営業所",
+      "telephone": "03-6304-8871",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "和田１－２９－１３－１Ｆ"
+      },
+      "parentOrganization": "株式会社東基",
+      "identifier": "1371511674",
+      "_town": "和田",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2025-10-01",
+      "_years": 0.974674880219028,
+      "_tags": [
+        "和田エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ダスキンヘルスレント杉並ステーション",
+      "telephone": "03-6383-2471",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "成田東１－４３－２０グランド大塚"
+      },
+      "parentOrganization": "株式会社ほづみ",
+      "identifier": "1371511682",
+      "_town": "成田東",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2025-11-01",
+      "_years": 0.8898015058179329,
+      "_tags": [
+        "成田東エリア",
+        "貸与と販売"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "杉並区で福祉用具を借りるには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければケア24に相談してください。福祉用具貸与もケアプランに位置づける必要があるため、杉並区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "杉並区に福祉用具の事業所は何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で杉並区内に23件の福祉用具の事業所（貸与または特定販売の指定を受けたもの）があります。本ページではそのうち20件を連絡先つきで掲載し、うち20件が貸与と販売の両方を扱っています。"
+    },
+    {
+      "q": "杉並区でポータブルトイレや入浴用のいすは、レンタルできますか？",
+      "a": "できません。これらは購入（特定福祉用具販売）の対象で、同一年度に10万円までが保険の対象になります。杉並区の掲載20件のうち販売の指定を持つのは20件なので、買う予定があるならその中から選んでください。"
+    },
+    {
+      "q": "ネット通販で買っても、杉並区から保険は出ますか？",
+      "a": "出ません。杉並区の掲載20件のうち20件が販売の指定を持っているので、その中から選んでください。購入前に杉並区の介護保険担当かケアマネジャーに相談するのが確実です。"
+    },
+    {
+      "q": "杉並区で介護ベッドを借りたいのですが、要介護1でも借りられますか？",
+      "a": "原則として対象外です。ただし医師の所見などをもとに例外的に認められる場合があり、判断するのは杉並区です。杉並区のケアマネジャー経由で相談してください。対象外になる用具の一覧は福祉用具のしくみのページにまとめています。"
+    },
+    {
+      "q": "杉並区でレンタル料金が事業所によって違うのはなぜですか？",
+      "a": "福祉用具貸与だけは単位数が決まっておらず、事業所が商品ごとに価格を設定するしくみだからです。杉並区の掲載20件は営利法人が20件と大半を占めますが、価格も品ぞろえも事業所ごとに差があるので、複数から見積もりを取ってください。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/suginami/\">杉並区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/suginami/\">杉並区のデイサービス<small>日中の預け先</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/suginami/\">杉並区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/suginami/\">杉並区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/suginami/\">杉並区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/suginami/\">杉並区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアの福祉用具",
+  "nearby": "<a href=\"{{ROOT}}fukushi-yogu/tokyo/nakano/\">中野区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/setagaya/\">世田谷区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/nerima/\">練馬区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/shibuya/\">渋谷区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/mitaka/\">mitaka</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/musashino/\">musashino</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "江東区「介護保険特定福祉用具購入費の支給」（支給限度額・対象種目・指定事業者要件）",
+    "厚生労働省「令和6年度介護報酬改定」福祉用具貸与・特定福祉用具販売の選択制",
+    "杉並区「ケア24一覧」",
+    "日本郵便 郵便番号データにもとづく杉並区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>買う前に確認を</h4>\n        <p>指定のない店で買うと保険は出ません。対象種目と手続きはハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>杉並区内の福祉用具事業所は23件（都指定）</li>\n          <li>掲載20件のうち貸与と販売の両方が20件</li>\n          <li>購入は年度内10万円まで（1〜3割負担）</li>\n          <li>指定事業所以外で買うと支給されません</li>\n          <li>入口はケアマネかケア24</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみ</a></li>\n          <li><a href=\"{{ROOT}}houmon-kaigo/\">訪問介護</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">費用のしくみ</a>",
+  "hero_image": "assets/ogp-fukushi-yogu.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "suginami"
+  }
+}

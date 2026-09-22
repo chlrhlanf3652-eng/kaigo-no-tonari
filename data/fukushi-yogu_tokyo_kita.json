@@ -1,0 +1,538 @@
+{
+  "slug": "fukushi-yogu_tokyo_kita",
+  "category": {
+    "id": "fukushi-yogu",
+    "name": "福祉用具",
+    "path": "/fukushi-yogu/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "kita",
+    "city_name": "北区"
+  },
+  "seo": {
+    "title": "北区の福祉用具20事業所｜レンタルと購入【2026年9月更新】",
+    "description": "東京都北区の福祉用具貸与・特定福祉用具販売の指定事業所20件を連絡先つきで掲載。区内20件のうち貸与と販売の両方を扱う事業所がどれかを示し、年10万円までの購入費と、指定事業所から買う必要がある理由を解説します。",
+    "canonical": "https://kaigonotonari.com/fukushi-yogu/tokyo/kita/",
+    "og_title": "北区の福祉用具一覧｜借りるか買うかで事業所が変わります",
+    "og_description": "北区の福祉用具事業所20件を掲載。ポータブルトイレや入浴用いすは購入しかできません。指定のない店で買うと保険は出ません。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-fukushi-yogu.jpg"
+  },
+  "h1": "北区の福祉用具一覧｜借りるか買うかで事業所が変わります",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：20事業所",
+  "lead": "東京都北区で福祉用具のレンタルや購入を考えている方へ。東京都の指定を受けた20件から20件を連絡先つきで掲載し、そのうち<strong>貸与と販売の両方を扱う事業所が17件</strong>あることまで示しました。介護保険で福祉用具を買う場合、<strong>指定を受けた事業者から買ったものにしか支給されません</strong>。同じ商品をネット通販で買っても1円も戻らないので、ここが最初の分かれ目になります。",
+  "listing_note": "北区内の福祉用具貸与・特定福祉用具販売の指定事業所から20件を掲載しています（東京都公表・2026年9月1日時点）。区内には20件が指定を受けており、そのすべてを掲載しています。「貸与と販売」「貸与のみ」「販売のみ」の表示は、東京都の一覧でその事業所がどちらのサービス種類で指定を受けているかによります。取扱商品や価格は事業所ごとに違い、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアウェル王子店",
+      "telephone": "03-5944-6731",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "豊島５－４－１－１０５"
+      },
+      "parentOrganization": "ケアウェル安心株式会社",
+      "identifier": "1370702480",
+      "_town": "豊島",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2008-11-01",
+      "_years": 17.88911704312115,
+      "_tags": [
+        "豊島エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "有限会社　コアラ･ヘルシー",
+      "telephone": "03-6754-1903",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "赤羽西４－３－２１"
+      },
+      "parentOrganization": "有限会社　コアラ･ヘルシー",
+      "identifier": "1371601228",
+      "_town": "赤羽西",
+      "_kind": "営利法人",
+      "_mix": "貸与のみ",
+      "_designated": "2000-11-01",
+      "_years": 25.88911704312115,
+      "_tags": [
+        "赤羽西エリア",
+        "貸与のみ",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "区民介護株式会社　ほのぼのステーション赤羽",
+      "telephone": "03-3900-5155",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "赤羽西１－１８－８アネックスワカマツ２０１"
+      },
+      "parentOrganization": "区民介護株式会社",
+      "identifier": "1371700921",
+      "_town": "赤羽西",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2000-03-01",
+      "_years": 26.559890485968516,
+      "_tags": [
+        "赤羽西エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "（株）矢嶋商店　サポート王子",
+      "telephone": "03-3914-5511",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "豊島３－１－１３"
+      },
+      "parentOrganization": "株式会社矢嶋商店",
+      "identifier": "1371701549",
+      "_town": "豊島",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2001-08-01",
+      "_years": 25.141683778234086,
+      "_tags": [
+        "豊島エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "介護ショップＴＯＫＩ",
+      "telephone": "03-3914-3001",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "東十条３－１２－３"
+      },
+      "parentOrganization": "株式会社ケアネット・トキ",
+      "identifier": "1371702752",
+      "_town": "東十条",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2005-01-01",
+      "_years": 21.72210814510609,
+      "_tags": [
+        "東十条エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アトム介護ショップ",
+      "telephone": "03-3598-9677",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "志茂１－２８－１３"
+      },
+      "parentOrganization": "有限会社アトム介護ショップ",
+      "identifier": "1371702984",
+      "_town": "志茂",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2005-08-01",
+      "_years": 21.141683778234086,
+      "_tags": [
+        "志茂エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ニック株式会社　東京北営業所",
+      "telephone": "03-5959-4611",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "王子４－１５－１０"
+      },
+      "parentOrganization": "ニック株式会社",
+      "identifier": "1371704782",
+      "_town": "王子",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2011-04-01",
+      "_years": 15.477070499657769,
+      "_tags": [
+        "王子エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ウメモトコーポレーション赤羽",
+      "telephone": "03-5948-4445",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "赤羽北２－１４－３細田ハイツ１０１"
+      },
+      "parentOrganization": "株式会社ウメモトコーポレーション",
+      "identifier": "1371704816",
+      "_town": "赤羽北",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2011-06-01",
+      "_years": 15.31006160164271,
+      "_tags": [
+        "赤羽北エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "有限会社ユー・エム・サポート",
+      "telephone": "03-5980-8217",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "上中里２－１４－３　１Ｆ"
+      },
+      "parentOrganization": "有限会社ユー・エム・サポート",
+      "identifier": "1371705649",
+      "_town": "上中里",
+      "_kind": "営利法人",
+      "_mix": "貸与のみ",
+      "_designated": "2013-08-01",
+      "_years": 13.141683778234086,
+      "_tags": [
+        "上中里エリア",
+        "貸与のみ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "有限会社ユー・エム・サポート",
+      "telephone": "03-5980-8217",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "上中里２－１４－３　１Ｆ"
+      },
+      "parentOrganization": "有限会社ユー・エム・サポート",
+      "identifier": "1371705656",
+      "_town": "上中里",
+      "_kind": "営利法人",
+      "_mix": "販売のみ",
+      "_designated": "2013-08-01",
+      "_years": 13.141683778234086,
+      "_tags": [
+        "上中里エリア",
+        "販売のみ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アスケア福祉用具センター　東京",
+      "telephone": "05033177087",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "志茂５－２－６"
+      },
+      "parentOrganization": "株式会社ＡＳＣａｒｅ",
+      "identifier": "1371705847",
+      "_town": "志茂",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2014-04-01",
+      "_years": 12.476386036960985,
+      "_tags": [
+        "志茂エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "介護用品ショップそれいゆ",
+      "telephone": "03-5855-3775",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "田端新町１－２２－５"
+      },
+      "parentOrganization": "一般社団法人ナースプラネット",
+      "identifier": "1371705946",
+      "_town": "田端新町",
+      "_kind": "社団・財団",
+      "_mix": "両方",
+      "_designated": "2014-10-01",
+      "_years": 11.97535934291581,
+      "_tags": [
+        "田端新町エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "東京福祉サービス",
+      "telephone": "03-6908-4077",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "東十条３－８－５"
+      },
+      "parentOrganization": "東京福祉サービス株式会社",
+      "identifier": "1371705987",
+      "_town": "東十条",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2014-10-01",
+      "_years": 11.97535934291581,
+      "_tags": [
+        "東十条エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "福祉用具プランニング　城北営業所",
+      "telephone": "03-3911-5110",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "豊島３－７－１ミオ・マーレ豊島　１階"
+      },
+      "parentOrganization": "一般社団法人福祉用具プランニング",
+      "identifier": "1371707306",
+      "_town": "豊島",
+      "_kind": "社団・財団",
+      "_mix": "両方",
+      "_designated": "2020-04-01",
+      "_years": 6.4750171115674195,
+      "_tags": [
+        "豊島エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ダスキンヘルスレント東京北ステーション",
+      "telephone": "03-6807-6045",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "田端新町１－１２－３"
+      },
+      "parentOrganization": "株式会社ボストン",
+      "identifier": "1371707538",
+      "_town": "田端新町",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2022-11-01",
+      "_years": 3.890485968514716,
+      "_tags": [
+        "田端新町エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "かすみそう",
+      "telephone": "03-5972-4335",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "滝野川３－８６－２－１０２号コーポ明和"
+      },
+      "parentOrganization": "合同会社ひいらぎ",
+      "identifier": "1371707561",
+      "_town": "滝野川",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2023-01-01",
+      "_years": 3.7234770704996576,
+      "_tags": [
+        "滝野川エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "さくら総合福祉",
+      "telephone": "03-6903-2684",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "豊島８－６－３"
+      },
+      "parentOrganization": "株式会社さくら総合福祉",
+      "identifier": "1371707645",
+      "_town": "豊島",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2023-11-01",
+      "_years": 2.891170431211499,
+      "_tags": [
+        "豊島エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社東京サンメディカル赤羽営業所",
+      "telephone": "03-5948-9570",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "赤羽台１－３－１２ヌーヴェル赤羽台１２号棟１０４号室"
+      },
+      "parentOrganization": "株式会社東京サンメディカル",
+      "identifier": "1371707769",
+      "_town": "赤羽台",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2025-02-01",
+      "_years": 1.6372347707049966,
+      "_tags": [
+        "赤羽台エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社ヤマシタ東京北営業所",
+      "telephone": "03-6903-2091",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "堀船２－９－１９荻中ビル２階"
+      },
+      "parentOrganization": "株式会社ヤマシタ",
+      "identifier": "1371707793",
+      "_town": "堀船",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2025-06-01",
+      "_years": 1.3086926762491444,
+      "_tags": [
+        "堀船エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "介護用品のハッコウ　板橋駅前",
+      "telephone": "03-5944-5097",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "滝野川７－２２－５"
+      },
+      "parentOrganization": "株式会社白興",
+      "identifier": "1372008142",
+      "_town": "滝野川",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2011-09-01",
+      "_years": 15.058179329226558,
+      "_tags": [
+        "滝野川エリア",
+        "貸与と販売"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "北区で福祉用具を借りるには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければ高齢者あんしんセンターに相談してください。福祉用具貸与もケアプランに位置づける必要があるため、北区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "北区に福祉用具の事業所は何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で北区内に20件の福祉用具の事業所（貸与または特定販売の指定を受けたもの）があります。本ページではそのうち20件を連絡先つきで掲載し、うち17件が貸与と販売の両方を扱っています。"
+    },
+    {
+      "q": "北区でポータブルトイレや入浴用のいすは、レンタルできますか？",
+      "a": "できません。これらは購入（特定福祉用具販売）の対象で、同一年度に10万円までが保険の対象になります。北区の掲載20件のうち販売の指定を持つのは18件なので、買う予定があるならその中から選んでください。"
+    },
+    {
+      "q": "ネット通販で買っても、北区から保険は出ますか？",
+      "a": "出ません。北区の掲載20件のうち18件が販売の指定を持っているので、その中から選んでください。購入前に北区の介護保険担当かケアマネジャーに相談するのが確実です。"
+    },
+    {
+      "q": "北区で介護ベッドを借りたいのですが、要介護1でも借りられますか？",
+      "a": "原則として対象外です。ただし医師の所見などをもとに例外的に認められる場合があり、判断するのは北区です。北区のケアマネジャー経由で相談してください。対象外になる用具の一覧は福祉用具のしくみのページにまとめています。"
+    },
+    {
+      "q": "北区でレンタル料金が事業所によって違うのはなぜですか？",
+      "a": "福祉用具貸与だけは単位数が決まっておらず、事業所が商品ごとに価格を設定するしくみだからです。北区の掲載20件は営利法人が18件と大半を占めますが、価格も品ぞろえも事業所ごとに差があるので、複数から見積もりを取ってください。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/kita/\">北区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/kita/\">北区のデイサービス<small>日中の預け先</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/kita/\">北区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/kita/\">北区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/kita/\">北区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/kita/\">北区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアの福祉用具",
+  "nearby": "<a href=\"{{ROOT}}fukushi-yogu/tokyo/bunkyo/\">文京区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/toshima/\">豊島区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/itabashi/\">板橋区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/arakawa/\">荒川区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/adachi/\">足立区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "江東区「介護保険特定福祉用具購入費の支給」（支給限度額・対象種目・指定事業者要件）",
+    "厚生労働省「令和6年度介護報酬改定」福祉用具貸与・特定福祉用具販売の選択制",
+    "北区「高齢者あんしんセンター一覧」",
+    "日本郵便 郵便番号データにもとづく北区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>買う前に確認を</h4>\n        <p>指定のない店で買うと保険は出ません。対象種目と手続きはハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>北区内の福祉用具事業所は20件（都指定）</li>\n          <li>掲載20件のうち貸与と販売の両方が17件</li>\n          <li>購入は年度内10万円まで（1〜3割負担）</li>\n          <li>指定事業所以外で買うと支給されません</li>\n          <li>入口はケアマネか高齢者あんしんセンター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみ</a></li>\n          <li><a href=\"{{ROOT}}houmon-kaigo/\">訪問介護</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">費用のしくみ</a>",
+  "hero_image": "assets/ogp-fukushi-yogu.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "kita"
+  }
+}

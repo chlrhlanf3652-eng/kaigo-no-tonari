@@ -1,0 +1,329 @@
+{
+  "slug": "fukushi-yogu_tokyo_taito",
+  "category": {
+    "id": "fukushi-yogu",
+    "name": "福祉用具",
+    "path": "/fukushi-yogu/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "taito",
+    "city_name": "台東区"
+  },
+  "seo": {
+    "title": "台東区の福祉用具11事業所｜レンタルと購入【2026年9月更新】",
+    "description": "東京都台東区の福祉用具貸与・特定福祉用具販売の指定事業所11件を連絡先つきで掲載。区内11件のうち貸与と販売の両方を扱う事業所がどれかを示し、年10万円までの購入費と、指定事業所から買う必要がある理由を解説します。",
+    "canonical": "https://kaigonotonari.com/fukushi-yogu/tokyo/taito/",
+    "og_title": "台東区の福祉用具一覧｜借りるか買うかで事業所が変わります",
+    "og_description": "台東区の福祉用具事業所11件を掲載。ポータブルトイレや入浴用いすは購入しかできません。指定のない店で買うと保険は出ません。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-fukushi-yogu.jpg"
+  },
+  "h1": "台東区の福祉用具一覧｜借りるか買うかで事業所が変わります",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：11事業所",
+  "lead": "東京都台東区で福祉用具のレンタルや購入を考えている方へ。東京都の指定を受けた11件から11件を連絡先つきで掲載し、そのうち<strong>貸与と販売の両方を扱う事業所が10件</strong>あることまで示しました。介護保険で福祉用具を買う場合、<strong>指定を受けた事業者から買ったものにしか支給されません</strong>。同じ商品をネット通販で買っても1円も戻らないので、ここが最初の分かれ目になります。",
+  "listing_note": "台東区内の福祉用具貸与・特定福祉用具販売の指定事業所から11件を掲載しています（東京都公表・2026年9月1日時点）。区内には11件が指定を受けており、そのすべてを掲載しています。「貸与と販売」「貸与のみ」「販売のみ」の表示は、東京都の一覧でその事業所がどちらのサービス種類で指定を受けているかによります。取扱商品や価格は事業所ごとに違い、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "ライフネット株式会社",
+      "telephone": "03-5824-1951",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "今戸１－１８－１０"
+      },
+      "parentOrganization": "ライフネット株式会社",
+      "identifier": "1370600718",
+      "_town": "今戸",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "_tags": [
+        "今戸エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "いきいきらいふケアショップ",
+      "telephone": "03-5246-8899",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "東上野６－１－１高長ビル３階"
+      },
+      "parentOrganization": "株式会社ＲＡＲＥＣＲＥＷ",
+      "identifier": "1370601690",
+      "_town": "東上野",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2004-05-01",
+      "_years": 22.392881587953458,
+      "_tags": [
+        "東上野エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "シルバーサポート　東京店",
+      "telephone": "03-5821-8859",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "蔵前３－１９－１１中越蔵前ビル"
+      },
+      "parentOrganization": "ラミコジャパン株式会社",
+      "identifier": "1370602060",
+      "_town": "蔵前",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2006-08-01",
+      "_years": 20.142368240930868,
+      "_tags": [
+        "蔵前エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "コイケ酸商株式会社",
+      "telephone": "03-3874-7421",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "日本堤２－２０－１５"
+      },
+      "parentOrganization": "コイケ酸商株式会社",
+      "identifier": "1370602128",
+      "_town": "日本堤",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2007-03-01",
+      "_years": 19.561943874058862,
+      "_tags": [
+        "日本堤エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "福祉工房やわら",
+      "telephone": "03-6802-4873",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "千束４－３４－８"
+      },
+      "parentOrganization": "福祉工房やわら株式会社",
+      "identifier": "1370602953",
+      "_town": "千束",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2011-08-01",
+      "_years": 15.143052703627653,
+      "_tags": [
+        "千束エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "Ｎｉｃｅ　Ｃａｒｅ",
+      "telephone": "03-5603-7050",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "今戸２－６－３新世ビル３Ｆ"
+      },
+      "parentOrganization": "株式会社ＮｉｃｅＣａｒｅ",
+      "identifier": "1370603407",
+      "_town": "今戸",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2013-09-01",
+      "_years": 13.05681040383299,
+      "_tags": [
+        "今戸エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社レックプランニング",
+      "telephone": "03-5826-4588",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "東上野２－２３－２４田中ビル３０１号"
+      },
+      "parentOrganization": "株式会社レックプランニング",
+      "identifier": "1370603654",
+      "_town": "東上野",
+      "_kind": "営利法人",
+      "_mix": "貸与のみ",
+      "_designated": "2015-12-01",
+      "_years": 10.809034907597535,
+      "_tags": [
+        "東上野エリア",
+        "貸与のみ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "東京サンメディカル　浅草営業所",
+      "telephone": "03-5830-6208",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "花川戸２－１７－８－３階"
+      },
+      "parentOrganization": "株式会社東京サンメディカル",
+      "identifier": "1370604025",
+      "_town": "花川戸",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2018-02-01",
+      "_years": 8.63791923340178,
+      "_tags": [
+        "花川戸エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ダスキンヘルスレント台東ステーション",
+      "telephone": "03-5808-1120",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "入谷２－３６－７"
+      },
+      "parentOrganization": "株式会社ナック",
+      "identifier": "1370604454",
+      "_town": "入谷",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2022-10-01",
+      "_years": 3.975359342915811,
+      "_tags": [
+        "入谷エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアサービスネット株式会社",
+      "telephone": "03-6824-2881",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "雷門１－９－２雷門ウエストビル２０１"
+      },
+      "parentOrganization": "ケアサービスネット株式会社",
+      "identifier": "1370604488",
+      "_town": "雷門",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2023-02-01",
+      "_years": 3.6386036960985626,
+      "_tags": [
+        "雷門エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "福祉用具貸与事業所　Ｎａｌｕ",
+      "telephone": "03-5838-6992",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "三ノ輪２－３－２"
+      },
+      "parentOrganization": "ホエールテール株式会社",
+      "identifier": "1370604736",
+      "_town": "三ノ輪",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2025-06-01",
+      "_years": 1.3086926762491444,
+      "_tags": [
+        "三ノ輪エリア",
+        "貸与と販売"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "台東区で福祉用具を借りるには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければ地域包括支援センターに相談してください。福祉用具貸与もケアプランに位置づける必要があるため、台東区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "台東区に福祉用具の事業所は何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で台東区内に11件の福祉用具の事業所（貸与または特定販売の指定を受けたもの）があります。本ページではそのうち11件を連絡先つきで掲載し、うち10件が貸与と販売の両方を扱っています。"
+    },
+    {
+      "q": "台東区でポータブルトイレや入浴用のいすは、レンタルできますか？",
+      "a": "できません。これらは購入（特定福祉用具販売）の対象で、同一年度に10万円までが保険の対象になります。台東区の掲載11件のうち販売の指定を持つのは10件なので、買う予定があるならその中から選んでください。"
+    },
+    {
+      "q": "ネット通販で買っても、台東区から保険は出ますか？",
+      "a": "出ません。台東区の掲載11件のうち10件が販売の指定を持っているので、その中から選んでください。購入前に台東区の介護保険担当かケアマネジャーに相談するのが確実です。"
+    },
+    {
+      "q": "台東区で介護ベッドを借りたいのですが、要介護1でも借りられますか？",
+      "a": "原則として対象外です。ただし医師の所見などをもとに例外的に認められる場合があり、判断するのは台東区です。台東区のケアマネジャー経由で相談してください。対象外になる用具の一覧は福祉用具のしくみのページにまとめています。"
+    },
+    {
+      "q": "台東区でレンタル料金が事業所によって違うのはなぜですか？",
+      "a": "福祉用具貸与だけは単位数が決まっておらず、事業所が商品ごとに価格を設定するしくみだからです。台東区の掲載11件は営利法人が11件と大半を占めますが、価格も品ぞろえも事業所ごとに差があるので、複数から見積もりを取ってください。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/taito/\">台東区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/taito/\">台東区のデイサービス<small>日中の預け先</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/taito/\">台東区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/taito/\">台東区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/taito/\">台東区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/taito/\">台東区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアの福祉用具",
+  "nearby": "<a href=\"{{ROOT}}fukushi-yogu/tokyo/chiyoda/\">千代田区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/chuo/\">中央区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/bunkyo/\">文京区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/arakawa/\">荒川区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/sumida/\">墨田区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/adachi/\">足立区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "江東区「介護保険特定福祉用具購入費の支給」（支給限度額・対象種目・指定事業者要件）",
+    "厚生労働省「令和6年度介護報酬改定」福祉用具貸与・特定福祉用具販売の選択制",
+    "台東区「地域包括支援センター一覧」",
+    "日本郵便 郵便番号データにもとづく台東区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>買う前に確認を</h4>\n        <p>指定のない店で買うと保険は出ません。対象種目と手続きはハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>台東区内の福祉用具事業所は11件（都指定）</li>\n          <li>掲載11件のうち貸与と販売の両方が10件</li>\n          <li>購入は年度内10万円まで（1〜3割負担）</li>\n          <li>指定事業所以外で買うと支給されません</li>\n          <li>入口はケアマネか地域包括支援センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみ</a></li>\n          <li><a href=\"{{ROOT}}houmon-kaigo/\">訪問介護</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">費用のしくみ</a>",
+  "hero_image": "assets/ogp-fukushi-yogu.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "taito"
+  }
+}

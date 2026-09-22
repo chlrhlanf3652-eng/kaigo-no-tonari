@@ -1,0 +1,336 @@
+{
+  "slug": "short-stay_tokyo_toshima",
+  "category": {
+    "id": "short-stay",
+    "name": "ショートステイ",
+    "path": "/short-stay/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "toshima",
+    "city_name": "豊島区"
+  },
+  "seo": {
+    "title": "豊島区のショートステイ11事業所｜予約と費用【2026年9月更新】",
+    "description": "東京都豊島区の短期入所生活介護（ショートステイ）事業所11件を連絡先つきで掲載。区内11件のうち特養の空床利用型がどれかを含め、予約の取りやすさ・1級地での自己負担・食費と滞在費の見方をまとめました。",
+    "canonical": "https://kaigonotonari.com/short-stay/tokyo/toshima/",
+    "og_title": "豊島区のショートステイ一覧｜予約が取れる事業所の見分け方",
+    "og_description": "豊島区の短期入所生活介護11件を掲載。空床利用型かどうかで予約の取りやすさが変わります。費用は食費・滞在費まで含めて解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-short-stay.jpg"
+  },
+  "h1": "豊島区のショートステイ一覧｜予約が取れる事業所の見分け方",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：11事業所",
+  "lead": "東京都豊島区で短期入所生活介護（ショートステイ）を探している方へ。東京都の指定を受けた11件から11件を連絡先つきで掲載し、そのうち特養の空床を使う<strong>空床利用型が1件</strong>あることまで示しました。ショートステイでいちばん多い壁は<strong>予約が取れないこと</strong>です。同じ区の事業所でも、専用の床を持つところと特養の空きベッドを使うところでは、押さえやすさがまったく違います。",
+  "listing_note": "豊島区内の短期入所生活介護事業所から11件を掲載しています（東京都公表・2026年9月1日時点）。区内には11件が指定を受けており、そのすべてを掲載しています。「特養の空床利用」「単独型」などの表示は東京都の一覧の事業所種別名です。空き状況は日々変わるため、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム池袋ほんちょうの郷",
+      "telephone": "03-3971-6541",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "池袋本町１‐２９‐１２"
+      },
+      "parentOrganization": "社会福祉法人フロンティア",
+      "identifier": "1371600519",
+      "_town": "池袋本町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の空床利用型",
+      "_designated": "2000-01-04",
+      "_years": 26.715947980835043,
+      "_tags": [
+        "池袋本町エリア",
+        "特養の空床利用",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ゆたか苑",
+      "telephone": "03-3959-2129",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "長崎３－２６－４"
+      },
+      "parentOrganization": "社会福祉法人恩賜財団東京都同胞援護会",
+      "identifier": "1371600766",
+      "_town": "長崎",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2000-03-01",
+      "_years": 26.559890485968516,
+      "_tags": [
+        "長崎エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホームシオンとしま",
+      "telephone": "03-3984-7477",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "池袋１－４－１１"
+      },
+      "parentOrganization": "社会福祉法人清栄会",
+      "identifier": "1371602077",
+      "_town": "池袋",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2004-08-01",
+      "_years": 22.140999315537304,
+      "_tags": [
+        "池袋エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム菊かおる園",
+      "telephone": "03-3576-2266",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "西巣鴨２－３０－１９"
+      },
+      "parentOrganization": "社会福祉法人豊島区社会福祉事業団",
+      "identifier": "1371602457",
+      "_town": "西巣鴨",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2005-04-01",
+      "_years": 21.475701574264203,
+      "_tags": [
+        "西巣鴨エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム　アトリエ村",
+      "telephone": "03-5965-3400",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "長崎４－２３－１"
+      },
+      "parentOrganization": "社会福祉法人豊島区社会福祉事業団",
+      "identifier": "1371602523",
+      "_town": "長崎",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2005-04-01",
+      "_years": 21.475701574264203,
+      "_tags": [
+        "長崎エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "池袋敬心苑",
+      "telephone": "03-5958-1165",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "南池袋３－７－８"
+      },
+      "parentOrganization": "社会福祉法人敬心福祉会",
+      "identifier": "1371602531",
+      "_town": "南池袋",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2005-04-01",
+      "_years": 21.475701574264203,
+      "_tags": [
+        "南池袋エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム　風かおる里",
+      "telephone": "03-5982-1021",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "南長崎６－１５－６"
+      },
+      "parentOrganization": "社会福祉法人豊島区社会福祉事業団",
+      "identifier": "1371602549",
+      "_town": "南長崎",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2005-04-01",
+      "_years": 21.475701574264203,
+      "_tags": [
+        "南長崎エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム　山吹の里",
+      "telephone": "03-3981-5051",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "高田３－３７－１７"
+      },
+      "parentOrganization": "社会福祉法人フロンティア",
+      "identifier": "1371602564",
+      "_town": "高田",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2005-04-01",
+      "_years": 21.475701574264203,
+      "_tags": [
+        "高田エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ショートステイ　しあわせの灯",
+      "telephone": "03-5927-8050",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "南池袋４－５－１"
+      },
+      "parentOrganization": "社会福祉法人櫻灯会",
+      "identifier": "1371604826",
+      "_town": "南池袋",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "単独型",
+      "_designated": "2014-07-01",
+      "_years": 12.227241615331964,
+      "_tags": [
+        "南池袋エリア",
+        "単独型",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "短期入所生活介護　千川の杜",
+      "telephone": "03-5917-0370",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "要町３－５４－９"
+      },
+      "parentOrganization": "社会福祉法人七日会",
+      "identifier": "1371605013",
+      "_town": "要町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2015-04-01",
+      "_years": 11.477070499657769,
+      "_tags": [
+        "要町エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "東池袋桑の実園ショートステイ",
+      "telephone": "03-5928-1360",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "東池袋５－３９－１８"
+      },
+      "parentOrganization": "社会福祉法人桑の実園福祉会",
+      "identifier": "1371605203",
+      "_town": "東池袋",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2015-11-01",
+      "_years": 10.8911704312115,
+      "_tags": [
+        "東池袋エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "豊島区でショートステイを使うには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければ高齢者総合相談センターに相談してください。ショートステイもケアプランに位置づける必要があるため、豊島区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "豊島区にショートステイは何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で豊島区内に11件の短期入所生活介護事業所が指定を受けています。本ページではそのうち11件を連絡先つきで掲載しています。掲載分のうち1件が特養の空床利用型です。"
+    },
+    {
+      "q": "豊島区で予約が取れないときはどうすればいいですか？",
+      "a": "まず空床利用型以外を当たってください。豊島区の掲載11件のうち10件は専用の床を持つ事業所です。それでも埋まっていれば、日程をずらすか、豊島区に隣接する区の事業所を当たります。豊島区でもお盆・年末年始・連休は数か月前から埋まります。"
+    },
+    {
+      "q": "豊島区で自己負担はいくらくらいですか？",
+      "a": "豊島区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたります。従来型個室・多床室の併設型なら1割負担で要介護3が1日約849円、要介護5が1日約1,007円が目安です。ただし豊島区でもこれとは別に食費と滞在費が全額自己負担で加わるため、総額はこの倍以上になることがあります。住民税非課税世帯などは負担限度額認定で上限をつけられます。"
+    },
+    {
+      "q": "豊島区のショートステイは何日まで連続で使えますか？",
+      "a": "豊島区でも全国共通で、連続利用は30日までです。日数の管理はケアマネジャーがしてくれます。上限の詳しい決まりはショートステイのしくみのページにまとめています。"
+    },
+    {
+      "q": "認知症があっても豊島区のショートステイを使えますか？",
+      "a": "使えます。豊島区の掲載11件のうち10件は特別養護老人ホームなどに併設されており、認知症の方の受け入れに慣れているところが多くなります。ただし環境が変わると混乱が強く出る方もいるため、豊島区でもまず1泊2日から試してください。夜間の見守り体制は事業所ごとに違います。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}day-service/tokyo/toshima/\">豊島区のデイサービス<small>日中の預け先</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/toshima/\">豊島区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/toshima/\">豊島区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/toshima/\">豊島区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/toshima/\">豊島区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/toshima/\">豊島区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアのショートステイ",
+  "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/shinjuku/\">新宿区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/bunkyo/\">文京区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/kita/\">北区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/itabashi/\">板橋区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/nerima/\">練馬区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/nakano/\">中野区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
+    "豊島区「高齢者総合相談センター一覧」",
+    "日本郵便 郵便番号データにもとづく豊島区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず1泊2日から</h4>\n        <p>連続利用の上限や緊急時の預け先は、ハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}short-stay/\">ショートステイのしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>豊島区内の短期入所生活介護は11件（都指定）</li>\n          <li>掲載11件のうち空床利用型が1件</li>\n          <li>併設型・要介護3で1日約849円（1割）</li>\n          <li>食費・滞在費は全額自己負担</li>\n          <li>入口はケアマネか高齢者総合相談センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}short-stay/\">ショートステイのしくみ</a></li>\n          <li><a href=\"{{ROOT}}day-service/\">デイサービス</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
+  "hero_image": "assets/ogp-short-stay.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "toshima"
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "slug": "short-stay_tokyo_shinjuku",
+  "category": {
+    "id": "short-stay",
+    "name": "ショートステイ",
+    "path": "/short-stay/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "shinjuku",
+    "city_name": "新宿区"
+  },
+  "seo": {
+    "title": "新宿区のショートステイ13事業所｜予約と費用【2026年9月更新】",
+    "description": "東京都新宿区の短期入所生活介護（ショートステイ）事業所13件を連絡先つきで掲載。区内13件のうち特養の空床利用型がどれかを含め、予約の取りやすさ・1級地での自己負担・食費と滞在費の見方をまとめました。",
+    "canonical": "https://kaigonotonari.com/short-stay/tokyo/shinjuku/",
+    "og_title": "新宿区のショートステイ一覧｜予約が取れる事業所の見分け方",
+    "og_description": "新宿区の短期入所生活介護13件を掲載。空床利用型かどうかで予約の取りやすさが変わります。費用は食費・滞在費まで含めて解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-short-stay.jpg"
+  },
+  "h1": "新宿区のショートステイ一覧｜予約が取れる事業所の見分け方",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：13事業所",
+  "lead": "東京都新宿区で短期入所生活介護（ショートステイ）を探している方へ。東京都の指定を受けた13件から13件を連絡先つきで掲載し、そのうち特養の空床を使う<strong>空床利用型が1件</strong>あることまで示しました。ショートステイでいちばん多い壁は<strong>予約が取れないこと</strong>です。同じ区の事業所でも、専用の床を持つところと特養の空きベッドを使うところでは、押さえやすさがまったく違います。",
+  "listing_note": "新宿区内の短期入所生活介護事業所から13件を掲載しています（東京都公表・2026年9月1日時点）。区内には13件が指定を受けており、そのすべてを掲載しています。「特養の空床利用」「単独型」などの表示は東京都の一覧の事業所種別名です。空き状況は日々変わるため、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "原町ホーム",
+      "telephone": "03-3359-5651",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "原町３－８"
+      },
+      "parentOrganization": "社会福祉法人恩賜財団東京都同胞援護会",
+      "identifier": "1370400341",
+      "_town": "原町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "_tags": [
+        "原町エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム　聖母ホーム",
+      "telephone": "03-3953-4028",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "中落合２－５－２１"
+      },
+      "parentOrganization": "社会福祉法人聖母会",
+      "identifier": "1370401430",
+      "_town": "中落合",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の空床利用型",
+      "_designated": "2001-09-01",
+      "_years": 25.05681040383299,
+      "_tags": [
+        "中落合エリア",
+        "特養の空床利用",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "短期入所施設　聖母ホーム",
+      "telephone": "03-3953-4028",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "中落合二丁目５番２１号"
+      },
+      "parentOrganization": "社会福祉法人聖母会",
+      "identifier": "1370401448",
+      "_town": "中落合",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2001-09-01",
+      "_years": 25.05681040383299,
+      "_tags": [
+        "中落合エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "北新宿特別養護老人ホーム",
+      "telephone": "03-3363-3291",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "北新宿３－２７－６"
+      },
+      "parentOrganization": "社会福祉法人新宿区社会福祉事業団",
+      "identifier": "1370402966",
+      "_town": "北新宿",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2005-04-01",
+      "_years": 21.475701574264203,
+      "_tags": [
+        "北新宿エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホームあかね苑",
+      "telephone": "03-3266-1811",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "北山伏町２－１２"
+      },
+      "parentOrganization": "社会福祉法人アゼリヤ会",
+      "identifier": "1370402974",
+      "_town": "北山伏町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2005-04-01",
+      "_years": 21.475701574264203,
+      "_tags": [
+        "北山伏町エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ショートステイ新宿けやき園",
+      "telephone": "03-3367-1601",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "百人町４－５－１"
+      },
+      "parentOrganization": "社会福祉法人邦友会",
+      "identifier": "1370403766",
+      "_town": "百人町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2008-06-01",
+      "_years": 18.308008213552363,
+      "_tags": [
+        "百人町エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ショートステイ　神楽坂",
+      "telephone": "03-3269-7555",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "矢来町１０４"
+      },
+      "parentOrganization": "社会福祉法人三篠会",
+      "identifier": "1370404335",
+      "_town": "矢来町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2011-02-01",
+      "_years": 15.638603696098563,
+      "_tags": [
+        "矢来町エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ショートステイもみの樹園",
+      "telephone": "03-6915-3001",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "上落合１－１７－８"
+      },
+      "parentOrganization": "社会福祉法人園盛会",
+      "identifier": "1370405688",
+      "_town": "上落合",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2015-06-01",
+      "_years": 11.31006160164271,
+      "_tags": [
+        "上落合エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "優っくりショートステイ新宿西落合",
+      "telephone": "03-3565-6283",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "西落合２－８－７"
+      },
+      "parentOrganization": "社会福祉法人奉優会",
+      "identifier": "1370405977",
+      "_town": "西落合",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "単独型",
+      "_designated": "2016-07-01",
+      "_years": 10.225872689938399,
+      "_tags": [
+        "西落合エリア",
+        "単独型",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ショートステイ下落合幸朋苑",
+      "telephone": "03-3365-1335",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "下落合１－９－１０"
+      },
+      "parentOrganization": "社会福祉法人こうほうえん",
+      "identifier": "1370406082",
+      "_town": "下落合",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "単独型",
+      "_designated": "2017-04-01",
+      "_years": 9.475701574264203,
+      "_tags": [
+        "下落合エリア",
+        "単独型",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "みさよはうす富久",
+      "telephone": "03-6822-9282",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "富久町３５－７"
+      },
+      "parentOrganization": "社会福祉法人シルヴァーウィング",
+      "identifier": "1370406504",
+      "_town": "富久町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2019-07-01",
+      "_years": 7.227926078028747,
+      "_tags": [
+        "富久町エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ショート新宿和光園",
+      "telephone": "03-3355-8555",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "市谷薬王寺町１９－３８"
+      },
+      "parentOrganization": "社会福祉法人大和会",
+      "identifier": "1370407049",
+      "_town": "市谷薬王寺町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2022-09-01",
+      "_years": 4.057494866529774,
+      "_tags": [
+        "市谷薬王寺町エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "小規模特別養護老人ホーム　マザアス新宿",
+      "telephone": "03-5285-2531",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "新宿区",
+        "streetAddress": "新宿７－３－３１"
+      },
+      "parentOrganization": "社会福祉法人マザアス",
+      "identifier": "1374801106",
+      "_town": "新宿",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2010-05-01",
+      "_years": 16.39425051334702,
+      "_tags": [
+        "新宿エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "新宿区でショートステイを使うには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければ高齢者総合相談センターに相談してください。ショートステイもケアプランに位置づける必要があるため、新宿区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "新宿区にショートステイは何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で新宿区内に13件の短期入所生活介護事業所が指定を受けています。本ページではそのうち13件を連絡先つきで掲載しています。掲載分のうち1件が特養の空床利用型です。"
+    },
+    {
+      "q": "新宿区で予約が取れないときはどうすればいいですか？",
+      "a": "まず空床利用型以外を当たってください。新宿区の掲載13件のうち12件は専用の床を持つ事業所です。それでも埋まっていれば、日程をずらすか、新宿区に隣接する区の事業所を当たります。新宿区でもお盆・年末年始・連休は数か月前から埋まります。"
+    },
+    {
+      "q": "新宿区で自己負担はいくらくらいですか？",
+      "a": "新宿区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたります。従来型個室・多床室の併設型なら1割負担で要介護3が1日約849円、要介護5が1日約1,007円が目安です。ただし新宿区でもこれとは別に食費と滞在費が全額自己負担で加わるため、総額はこの倍以上になることがあります。住民税非課税世帯などは負担限度額認定で上限をつけられます。"
+    },
+    {
+      "q": "新宿区のショートステイは何日まで連続で使えますか？",
+      "a": "新宿区でも全国共通で、連続利用は30日までです。日数の管理はケアマネジャーがしてくれます。上限の詳しい決まりはショートステイのしくみのページにまとめています。"
+    },
+    {
+      "q": "認知症があっても新宿区のショートステイを使えますか？",
+      "a": "使えます。新宿区の掲載13件のうち11件は特別養護老人ホームなどに併設されており、認知症の方の受け入れに慣れているところが多くなります。ただし環境が変わると混乱が強く出る方もいるため、新宿区でもまず1泊2日から試してください。夜間の見守り体制は事業所ごとに違います。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}day-service/tokyo/shinjuku/\">新宿区のデイサービス<small>日中の預け先</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/shinjuku/\">新宿区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/shinjuku/\">新宿区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/shinjuku/\">新宿区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/shinjuku/\">新宿区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/shinjuku/\">新宿区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアのショートステイ",
+  "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/chiyoda/\">千代田区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/minato/\">港区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/shibuya/\">渋谷区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/nakano/\">中野区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/toshima/\">豊島区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/bunkyo/\">文京区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
+    "新宿区「高齢者総合相談センター一覧」",
+    "日本郵便 郵便番号データにもとづく新宿区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず1泊2日から</h4>\n        <p>連続利用の上限や緊急時の預け先は、ハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}short-stay/\">ショートステイのしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>新宿区内の短期入所生活介護は13件（都指定）</li>\n          <li>掲載13件のうち空床利用型が1件</li>\n          <li>併設型・要介護3で1日約849円（1割）</li>\n          <li>食費・滞在費は全額自己負担</li>\n          <li>入口はケアマネか高齢者総合相談センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}short-stay/\">ショートステイのしくみ</a></li>\n          <li><a href=\"{{ROOT}}day-service/\">デイサービス</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
+  "hero_image": "assets/ogp-short-stay.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "shinjuku"
+  }
+}

@@ -1,0 +1,504 @@
+{
+  "slug": "short-stay_tokyo_ota",
+  "category": {
+    "id": "short-stay",
+    "name": "ショートステイ",
+    "path": "/short-stay/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "ota",
+    "city_name": "大田区"
+  },
+  "seo": {
+    "title": "大田区のショートステイ18事業所｜予約と費用【2026年9月更新】",
+    "description": "東京都大田区の短期入所生活介護（ショートステイ）事業所18件を連絡先つきで掲載。区内18件のうち特養の空床利用型がどれかを含め、予約の取りやすさ・1級地での自己負担・食費と滞在費の見方をまとめました。",
+    "canonical": "https://kaigonotonari.com/short-stay/tokyo/ota/",
+    "og_title": "大田区のショートステイ一覧｜予約が取れる事業所の見分け方",
+    "og_description": "大田区の短期入所生活介護18件を掲載。空床利用型かどうかで予約の取りやすさが変わります。費用は食費・滞在費まで含めて解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-short-stay.jpg"
+  },
+  "h1": "大田区のショートステイ一覧｜予約が取れる事業所の見分け方",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：18事業所",
+  "lead": "東京都大田区で短期入所生活介護（ショートステイ）を探している方へ。東京都の指定を受けた18件から18件を連絡先つきで掲載し、そのうち特養の空床を使う<strong>空床利用型が1件</strong>あることまで示しました。ショートステイでいちばん多い壁は<strong>予約が取れないこと</strong>です。同じ区の事業所でも、専用の床を持つところと特養の空きベッドを使うところでは、押さえやすさがまったく違います。",
+  "listing_note": "大田区内の短期入所生活介護事業所から18件を掲載しています（東京都公表・2026年9月1日時点）。区内には18件が指定を受けており、そのすべてを掲載しています。「特養の空床利用」「単独型」などの表示は東京都の一覧の事業所種別名です。空き状況は日々変わるため、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "好日苑",
+      "telephone": "03-3748-6193",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "上池台５－７－１"
+      },
+      "parentOrganization": "社会福祉法人響会",
+      "identifier": "1371100841",
+      "_town": "上池台",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2000-02-01",
+      "_years": 26.639288158795345,
+      "_tags": [
+        "上池台エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ゴールデン鶴亀ホーム",
+      "telephone": "03-3758-1810",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "矢口１－２３－１２"
+      },
+      "parentOrganization": "社会福祉法人白陽会",
+      "identifier": "1371101344",
+      "_town": "矢口",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "_tags": [
+        "矢口エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "大田翔裕園",
+      "telephone": "03-3736-1211",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "東六郷１－１２－１２"
+      },
+      "parentOrganization": "社会福祉法人長寿村",
+      "identifier": "1371103811",
+      "_town": "東六郷",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2004-04-01",
+      "_years": 22.47501711156742,
+      "_tags": [
+        "東六郷エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホームいずみえん",
+      "telephone": "03-3759-5550",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "矢口３－１－５"
+      },
+      "parentOrganization": "社会福祉法人徳心会",
+      "identifier": "1371104157",
+      "_town": "矢口",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2004-08-01",
+      "_years": 22.140999315537304,
+      "_tags": [
+        "矢口エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ショートステイ　フロース東糀谷",
+      "telephone": "03-5735-8080",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "東糀谷６－４－１７"
+      },
+      "parentOrganization": "社会福祉法人善光会",
+      "identifier": "1371105550",
+      "_town": "東糀谷",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2007-04-01",
+      "_years": 19.477070499657767,
+      "_tags": [
+        "東糀谷エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ショートステイココファン六郷",
+      "telephone": "03-5703-2163",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "仲六郷４－１６－１２"
+      },
+      "parentOrganization": "株式会社学研ココファン",
+      "identifier": "1371106301",
+      "_town": "仲六郷",
+      "_kind": "営利法人",
+      "_fkind": "単独型",
+      "_designated": "2008-11-01",
+      "_years": 17.88911704312115,
+      "_tags": [
+        "仲六郷エリア",
+        "単独型",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "大田区立特別養護老人ホームたまがわ",
+      "telephone": "03-5732-1021",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "下丸子４－２３－１"
+      },
+      "parentOrganization": "社会福祉法人池上長寿園",
+      "identifier": "1371106483",
+      "_town": "下丸子",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2009-04-01",
+      "_years": 17.475701574264203,
+      "_tags": [
+        "下丸子エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム大森",
+      "telephone": "03-5471-2701",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "大森西１－１６－１８"
+      },
+      "parentOrganization": "社会福祉法人池上長寿園",
+      "identifier": "1371106582",
+      "_town": "大森西",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2009-04-01",
+      "_years": 17.475701574264203,
+      "_tags": [
+        "大森西エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム池上",
+      "telephone": "03-5700-1235",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "仲池上２－２４－８"
+      },
+      "parentOrganization": "社会福祉法人池上長寿園",
+      "identifier": "1371106590",
+      "_town": "仲池上",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の空床利用型",
+      "_designated": "2009-04-01",
+      "_years": 17.475701574264203,
+      "_tags": [
+        "仲池上エリア",
+        "特養の空床利用",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ショートステイ　バタフライヒル大森南",
+      "telephone": "03-5735-3336",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "大森南１－１７－６"
+      },
+      "parentOrganization": "社会福祉法人善光会",
+      "identifier": "1371108448",
+      "_town": "大森南",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2012-05-01",
+      "_years": 14.392881587953456,
+      "_tags": [
+        "大森南エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "千里",
+      "telephone": "03-6423-2860",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "東糀谷１－１３－６"
+      },
+      "parentOrganization": "社会福祉法人桜花",
+      "identifier": "1371108455",
+      "_town": "東糀谷",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2012-05-01",
+      "_years": 14.392881587953456,
+      "_tags": [
+        "東糀谷エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ショートステイ生寿園",
+      "telephone": "03-6423-9200",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "萩中２－３－１０"
+      },
+      "parentOrganization": "社会福祉法人久盛福祉会",
+      "identifier": "1371111152",
+      "_town": "萩中",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2016-04-01",
+      "_years": 10.47501711156742,
+      "_tags": [
+        "萩中エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム馬込",
+      "telephone": "03-6303-8307",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "西馬込２－１１－２"
+      },
+      "parentOrganization": "社会福祉法人池上長寿園",
+      "identifier": "1371111160",
+      "_town": "西馬込",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2016-04-01",
+      "_years": 10.47501711156742,
+      "_tags": [
+        "西馬込エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム　花みずき",
+      "telephone": "03-6436-8899",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "大森西４－１２－１"
+      },
+      "parentOrganization": "社会福祉法人松風会",
+      "identifier": "1371111319",
+      "_town": "大森西",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2016-07-01",
+      "_years": 10.225872689938399,
+      "_tags": [
+        "大森西エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホームさくらのみち紫苑",
+      "telephone": "03-6715-4373",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "矢口３－１１－３"
+      },
+      "parentOrganization": "社会福祉法人櫻灯会",
+      "identifier": "1371111657",
+      "_town": "矢口",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2017-06-01",
+      "_years": 9.308692676249144,
+      "_tags": [
+        "矢口エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "介護老人福祉施設　ケアホーム千鳥",
+      "telephone": "03-5741-8500",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "千鳥２－３４－２５"
+      },
+      "parentOrganization": "社会福祉法人兵庫福祉会",
+      "identifier": "1371111913",
+      "_town": "千鳥",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2018-04-01",
+      "_years": 8.476386036960985,
+      "_tags": [
+        "千鳥エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ショートステイ誠心園",
+      "telephone": "03-6423-8026",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "西糀谷１－１－１２"
+      },
+      "parentOrganization": "社会福祉法人久盛福祉会",
+      "identifier": "1371112754",
+      "_town": "西糀谷",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2020-08-01",
+      "_years": 6.140999315537303,
+      "_tags": [
+        "西糀谷エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム羽田",
+      "telephone": "03-3745-5351",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "本羽田３－２３－４５"
+      },
+      "parentOrganization": "社会福祉法人池上長寿園",
+      "identifier": "1371113125",
+      "_town": "本羽田",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2021-07-01",
+      "_years": 5.2265571526351815,
+      "_tags": [
+        "本羽田エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "大田区でショートステイを使うには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければ地域包括支援センターに相談してください。ショートステイもケアプランに位置づける必要があるため、大田区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "大田区にショートステイは何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で大田区内に18件の短期入所生活介護事業所が指定を受けています。本ページではそのうち18件を連絡先つきで掲載しています。掲載分のうち1件が特養の空床利用型です。"
+    },
+    {
+      "q": "大田区で予約が取れないときはどうすればいいですか？",
+      "a": "まず空床利用型以外を当たってください。大田区の掲載18件のうち17件は専用の床を持つ事業所です。それでも埋まっていれば、日程をずらすか、大田区に隣接する区の事業所を当たります。大田区でもお盆・年末年始・連休は数か月前から埋まります。"
+    },
+    {
+      "q": "大田区で自己負担はいくらくらいですか？",
+      "a": "大田区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたります。従来型個室・多床室の併設型なら1割負担で要介護3が1日約849円、要介護5が1日約1,007円が目安です。ただし大田区でもこれとは別に食費と滞在費が全額自己負担で加わるため、総額はこの倍以上になることがあります。住民税非課税世帯などは負担限度額認定で上限をつけられます。"
+    },
+    {
+      "q": "大田区のショートステイは何日まで連続で使えますか？",
+      "a": "大田区でも全国共通で、連続利用は30日までです。日数の管理はケアマネジャーがしてくれます。上限の詳しい決まりはショートステイのしくみのページにまとめています。"
+    },
+    {
+      "q": "認知症があっても大田区のショートステイを使えますか？",
+      "a": "使えます。大田区の掲載18件のうち17件は特別養護老人ホームなどに併設されており、認知症の方の受け入れに慣れているところが多くなります。ただし環境が変わると混乱が強く出る方もいるため、大田区でもまず1泊2日から試してください。夜間の見守り体制は事業所ごとに違います。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}day-service/tokyo/ota/\">大田区のデイサービス<small>日中の預け先</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/ota/\">大田区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/ota/\">大田区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/ota/\">大田区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/ota/\">大田区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/ota/\">大田区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアのショートステイ",
+  "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/shinagawa/\">品川区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/meguro/\">目黒区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/setagaya/\">世田谷区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/minato/\">港区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/shibuya/\">渋谷区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/koto/\">江東区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
+    "大田区「地域包括支援センター一覧」",
+    "日本郵便 郵便番号データにもとづく大田区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず1泊2日から</h4>\n        <p>連続利用の上限や緊急時の預け先は、ハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}short-stay/\">ショートステイのしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>大田区内の短期入所生活介護は18件（都指定）</li>\n          <li>掲載18件のうち空床利用型が1件</li>\n          <li>併設型・要介護3で1日約849円（1割）</li>\n          <li>食費・滞在費は全額自己負担</li>\n          <li>入口はケアマネか地域包括支援センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}short-stay/\">ショートステイのしくみ</a></li>\n          <li><a href=\"{{ROOT}}day-service/\">デイサービス</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
+  "hero_image": "assets/ogp-short-stay.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "ota"
+  }
+}

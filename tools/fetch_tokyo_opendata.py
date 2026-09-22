@@ -49,7 +49,11 @@ SERVICES = {
     "houmon-kango": ("訪問看護", "kango_"),
     "day-service": ("通所介護", "day_"),
     "short-stay": ("短期入所生活介護", "short_"),
-    "fukushi-yogu": ("福祉用具貸与", "yogu_"),
+    # 福祉用具は「貸与」と「販売」が別のサービス種類として登録されている。
+    # 実際には同じ事業所番号で両方を扱っているところが大半（都内579事業所）で、
+    # 入浴・排泄用具は販売でしか手に入らないため、利用者にとっては
+    # 「両方扱うか、片方だけか」が実務上いちばん効く違いになる。まとめて取る。
+    "fukushi-yogu": (("福祉用具貸与", "特定福祉用具販売"), "yogu_"),
 }
 
 # 区ごとの相談窓口の呼び名と設置数（各区公式サイトで確認：2026-09-22）
@@ -82,20 +86,35 @@ def load_rows():
     return rows
 
 
-def to_records(rows, ward_name: str, service: str, want: int = 20):
-    """その区・そのサービス種類・指定中のものだけを取り出す。"""
-    out = []
+def to_records(rows, ward_name: str, service, want: int = 20):
+    """その区・そのサービス種類・指定中のものだけを取り出す。
+
+    service には文字列のほか、複数のサービス種類をまとめたタプルも渡せる。
+    複数渡したときは事業所番号で名寄せし、その事業所が扱う種類を services に
+    並べる（福祉用具の貸与と販売は別行だが、同じ事業所であることが多いため）。
+    """
+    svcs = (service,) if isinstance(service, str) else tuple(service)
+    out, seen = [], {}
     for r in rows:
-        if (r.get("サービス種類") or "").strip() != service:
+        svc = (r.get("サービス種類") or "").strip()
+        if svc not in svcs:
             continue
         if (r.get("状態") or "").strip() != "指定":
             continue
         addr = (r.get("事業所住所") or "").strip()
         if not addr.startswith("東京都" + ward_name):
             continue
+        ident = (r.get("事業所番号") or "").strip()
+        name = (r.get("事業所名") or "").strip()
+        if not (name and ident):
+            continue
+        if ident in seen:
+            if svc not in seen[ident]["services"]:
+                seen[ident]["services"].append(svc)
+            continue
         rec = {
-            "name": (r.get("事業所名") or "").strip(),
-            "identifier": (r.get("事業所番号") or "").strip(),
+            "name": name,
+            "identifier": ident,
             "org": (r.get("法人名") or "").strip(),
             "address": addr,
             "tel": (r.get("事業所電話") or "").strip(),
@@ -103,9 +122,13 @@ def to_records(rows, ward_name: str, service: str, want: int = 20):
             "fax": "", "hours": "", "closed": "",
             "designated": (r.get("指定年月日") or "").strip(),
             "org_kind": (r.get("法人種別名") or "").strip(),
+            # 短期入所生活介護では「特養の併設事業所型」「特養の空床利用型」
+            # 「単独型」などが入る。ほかのサービスでは空。
+            "facility_kind": (r.get("事業所種別名") or "").strip(),
+            "services": [svc],
         }
-        if rec["name"] and rec["identifier"]:
-            out.append(rec)
+        seen[ident] = rec
+        out.append(rec)
     total = len(out)
     out.sort(key=lambda x: x["identifier"])
     if total <= want:
@@ -140,7 +163,8 @@ def run(ward_id: str, rows, cat: str = "houmon-kaigo"):
     rec = {"id": ward_id, "name": w["name"], "total": total,
            "madoguchi": madoguchi, "centers": centers,
            "items": items, "towns": towns,
-           "source": SOURCE, "service": service,
+           "source": SOURCE,
+           "service": service if isinstance(service, str) else "・".join(service),
            "fetched": time.strftime("%Y-%m-%d")}
     CACHE.mkdir(exist_ok=True)
     (CACHE / f"{prefix}{ward_id}.json").write_text(

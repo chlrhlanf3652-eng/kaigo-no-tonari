@@ -1,0 +1,537 @@
+{
+  "slug": "fukushi-yogu_tokyo_nerima",
+  "category": {
+    "id": "fukushi-yogu",
+    "name": "福祉用具",
+    "path": "/fukushi-yogu/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "nerima",
+    "city_name": "練馬区"
+  },
+  "seo": {
+    "title": "練馬区の福祉用具20事業所｜レンタルと購入【2026年9月更新】",
+    "description": "東京都練馬区の福祉用具貸与・特定福祉用具販売の指定事業所20件を連絡先つきで掲載。区内45件のうち貸与と販売の両方を扱う事業所がどれかを示し、年10万円までの購入費と、指定事業所から買う必要がある理由を解説します。",
+    "canonical": "https://kaigonotonari.com/fukushi-yogu/tokyo/nerima/",
+    "og_title": "練馬区の福祉用具一覧｜借りるか買うかで事業所が変わります",
+    "og_description": "練馬区の福祉用具事業所20件を掲載。ポータブルトイレや入浴用いすは購入しかできません。指定のない店で買うと保険は出ません。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-fukushi-yogu.jpg"
+  },
+  "h1": "練馬区の福祉用具一覧｜借りるか買うかで事業所が変わります",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：20事業所",
+  "lead": "東京都練馬区で福祉用具のレンタルや購入を考えている方へ。東京都の指定を受けた45件から20件を連絡先つきで掲載し、そのうち<strong>貸与と販売の両方を扱う事業所が17件</strong>あることまで示しました。介護保険で福祉用具を買う場合、<strong>指定を受けた事業者から買ったものにしか支給されません</strong>。同じ商品をネット通販で買っても1円も戻らないので、ここが最初の分かれ目になります。",
+  "listing_note": "練馬区内の福祉用具貸与・特定福祉用具販売の指定事業所から20件を掲載しています（東京都公表・2026年9月1日時点）。区内には45件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。「貸与と販売」「貸与のみ」「販売のみ」の表示は、東京都の一覧でその事業所がどちらのサービス種類で指定を受けているかによります。取扱商品や価格は事業所ごとに違い、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "ねくすと",
+      "telephone": "03-6479-3202",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "高松３－７－１７フレグランス光が丘１０６"
+      },
+      "parentOrganization": "株式会社ネクストワン",
+      "identifier": "1371405596",
+      "_town": "高松",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2018-02-01",
+      "_years": 8.63791923340178,
+      "_tags": [
+        "高松エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "プラチナハウス練馬店",
+      "telephone": "03-5987-5273",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "貫井２－１１－６－１０１"
+      },
+      "parentOrganization": "株式会社レイクス２１",
+      "identifier": "1371601277",
+      "_town": "貫井",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2001-06-01",
+      "_years": 25.308692676249144,
+      "_tags": [
+        "貫井エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社　サンポー",
+      "telephone": "03-5984-7038",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "豊玉中三丁目１番１５号"
+      },
+      "parentOrganization": "株式会社サンポー",
+      "identifier": "1372000792",
+      "_town": "豊玉中",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "1999-12-01",
+      "_years": 26.809034907597535,
+      "_tags": [
+        "豊玉中エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "有限会社　ケアワーカー中ノ宮",
+      "telephone": "03-3999-7764",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "春日町３－３３－２２　中ノ宮ビル２Ｆ"
+      },
+      "parentOrganization": "有限会社ケアワーカー中ノ宮",
+      "identifier": "1372002129",
+      "_town": "春日町",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2001-10-01",
+      "_years": 24.974674880219027,
+      "_tags": [
+        "春日町エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "有限会社　オークステーション",
+      "telephone": "03-5912-5639",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "練馬３－２１－２０"
+      },
+      "parentOrganization": "有限会社　オークステーション",
+      "identifier": "1372003028",
+      "_town": "練馬",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2003-06-01",
+      "_years": 23.310061601642712,
+      "_tags": [
+        "練馬エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社　正興",
+      "telephone": "03-5241-2472",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "貫井５－１２－１２"
+      },
+      "parentOrganization": "株式会社正興",
+      "identifier": "1372005460",
+      "_town": "貫井",
+      "_kind": "営利法人",
+      "_mix": "販売のみ",
+      "_designated": "2007-01-01",
+      "_years": 19.72347707049966,
+      "_tags": [
+        "貫井エリア",
+        "販売のみ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "フランスベッド株式会社　メディカル練馬営業所",
+      "telephone": "03-6845-0021",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "中村北３－１５－１６　タマルビル１０２"
+      },
+      "parentOrganization": "フランスベッド株式会社",
+      "identifier": "1372006542",
+      "_town": "中村北",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2009-04-01",
+      "_years": 17.475701574264203,
+      "_tags": [
+        "中村北エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "セントケア　りまいん　練馬",
+      "telephone": "03-5910-7180",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "南田中３－６－１２大沢ビル１Ｆ"
+      },
+      "parentOrganization": "セントケアりまいん株式会社",
+      "identifier": "1372007862",
+      "_town": "南田中",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2011-04-01",
+      "_years": 15.477070499657769,
+      "_tags": [
+        "南田中エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社　ワークスコジマ",
+      "telephone": "03-6314-7290",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "田柄２－９－２"
+      },
+      "parentOrganization": "株式会社ワークスコジマ",
+      "identifier": "1372009454",
+      "_town": "田柄",
+      "_kind": "営利法人",
+      "_mix": "販売のみ",
+      "_designated": "2013-05-01",
+      "_years": 13.39356605065024,
+      "_tags": [
+        "田柄エリア",
+        "販売のみ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "里華バリー",
+      "telephone": "03-5933-9570",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "貫井３－１０－３"
+      },
+      "parentOrganization": "有限会社フロムエント",
+      "identifier": "1372010023",
+      "_town": "貫井",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2014-01-01",
+      "_years": 12.722792607802875,
+      "_tags": [
+        "貫井エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ほっと・ライフサービス",
+      "telephone": "03-6906-9171",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "氷川台３－１９－７井垣ビル２Ｆ"
+      },
+      "parentOrganization": "株式会社ほっと・すぺーす",
+      "identifier": "1372010197",
+      "_town": "氷川台",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2014-04-01",
+      "_years": 12.476386036960985,
+      "_tags": [
+        "氷川台エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "福祉用具ひまわり",
+      "telephone": "03-5999-1110",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "豊玉北１－１２－１６"
+      },
+      "parentOrganization": "医療法人社団真成会",
+      "identifier": "1372010478",
+      "_town": "豊玉北",
+      "_kind": "医療法人",
+      "_mix": "両方",
+      "_designated": "2014-08-01",
+      "_years": 12.14236824093087,
+      "_tags": [
+        "豊玉北エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "有限会社ハートステーション",
+      "telephone": "03-5933-0688",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "大泉学園町６－２３－１１"
+      },
+      "parentOrganization": "有限会社ハートステーション",
+      "identifier": "1372011310",
+      "_town": "大泉学園町",
+      "_kind": "営利法人",
+      "_mix": "販売のみ",
+      "_designated": "2016-02-01",
+      "_years": 10.639288158795345,
+      "_tags": [
+        "大泉学園町エリア",
+        "販売のみ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "コミュニティ・ケア",
+      "telephone": "03-5933-0556",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "西大泉３－２６－１５さかえやビル２階"
+      },
+      "parentOrganization": "株式会社コミュニティ・ケア",
+      "identifier": "1372011823",
+      "_town": "西大泉",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2017-02-01",
+      "_years": 9.637234770704996,
+      "_tags": [
+        "西大泉エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "まごころ練馬営業所",
+      "telephone": "03-5935-8477",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "南大泉４－３８－５"
+      },
+      "parentOrganization": "株式会社まごころ",
+      "identifier": "1372012003",
+      "_town": "南大泉",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2017-08-01",
+      "_years": 9.141683778234086,
+      "_tags": [
+        "南大泉エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "Ｔ’ｓライト",
+      "telephone": "03-6478-9038",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "西大泉５－１７－１ジュノー・ムカイ１０１"
+      },
+      "parentOrganization": "合同会社ＴｒｅＳｔａｒ",
+      "identifier": "1372012771",
+      "_town": "西大泉",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2019-01-01",
+      "_years": 7.723477070499658,
+      "_tags": [
+        "西大泉エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "しまうま",
+      "telephone": "03-6904-6532",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "土支田３－２２－８ルミエール大泉１０４"
+      },
+      "parentOrganization": "株式会社ＺＥＢＲＡ",
+      "identifier": "1372013373",
+      "_town": "土支田",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2020-10-01",
+      "_years": 5.973990417522245,
+      "_tags": [
+        "土支田エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "西川株式会社／ネーブルハウス練馬事業所",
+      "telephone": "03-6915-9330",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "石神井町２－３３－２７石神井ファインレジデンス１０３"
+      },
+      "parentOrganization": "西川株式会社",
+      "identifier": "1372013894",
+      "_town": "石神井町",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2022-02-01",
+      "_years": 4.63791923340178,
+      "_tags": [
+        "石神井町エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社まごころプラス",
+      "telephone": "03-6913-0222",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "北町１－１６－６"
+      },
+      "parentOrganization": "株式会社まごころプラス",
+      "identifier": "1372014694",
+      "_town": "北町",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2024-05-01",
+      "_years": 2.3928815879534566,
+      "_tags": [
+        "北町エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "Ｍｅａｒｔｈｓ　Ｌｉｎｋ",
+      "telephone": "03-6821-1986",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "下石神井６－３０－１１第１石塚マンション２０５"
+      },
+      "parentOrganization": "株式会社Ｍｅａｒｔｈｓ",
+      "identifier": "1372015105",
+      "_town": "下石神井",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2025-09-01",
+      "_years": 1.056810403832991,
+      "_tags": [
+        "下石神井エリア",
+        "貸与と販売"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "練馬区で福祉用具を借りるには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければ地域包括支援センターに相談してください。福祉用具貸与もケアプランに位置づける必要があるため、練馬区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "練馬区に福祉用具の事業所は何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で練馬区内に45件の福祉用具の事業所（貸与または特定販売の指定を受けたもの）があります。本ページではそのうち20件を連絡先つきで掲載し、うち17件が貸与と販売の両方を扱っています。"
+    },
+    {
+      "q": "練馬区でポータブルトイレや入浴用のいすは、レンタルできますか？",
+      "a": "できません。これらは購入（特定福祉用具販売）の対象で、同一年度に10万円までが保険の対象になります。練馬区の掲載20件のうち販売の指定を持つのは20件なので、買う予定があるならその中から選んでください。"
+    },
+    {
+      "q": "ネット通販で買っても、練馬区から保険は出ますか？",
+      "a": "出ません。練馬区の掲載20件のうち20件が販売の指定を持っているので、その中から選んでください。購入前に練馬区の介護保険担当かケアマネジャーに相談するのが確実です。"
+    },
+    {
+      "q": "練馬区で介護ベッドを借りたいのですが、要介護1でも借りられますか？",
+      "a": "原則として対象外です。ただし医師の所見などをもとに例外的に認められる場合があり、判断するのは練馬区です。練馬区のケアマネジャー経由で相談してください。対象外になる用具の一覧は福祉用具のしくみのページにまとめています。"
+    },
+    {
+      "q": "練馬区でレンタル料金が事業所によって違うのはなぜですか？",
+      "a": "福祉用具貸与だけは単位数が決まっておらず、事業所が商品ごとに価格を設定するしくみだからです。練馬区の掲載20件は営利法人が19件と大半を占めますが、価格も品ぞろえも事業所ごとに差があるので、複数から見積もりを取ってください。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/nerima/\">練馬区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/nerima/\">練馬区のデイサービス<small>日中の預け先</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/nerima/\">練馬区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/nerima/\">練馬区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/nerima/\">練馬区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/nerima/\">練馬区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアの福祉用具",
+  "nearby": "<a href=\"{{ROOT}}fukushi-yogu/tokyo/itabashi/\">板橋区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/toshima/\">豊島区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/nakano/\">中野区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/suginami/\">杉並区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/kita/\">北区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/shinjuku/\">新宿区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "江東区「介護保険特定福祉用具購入費の支給」（支給限度額・対象種目・指定事業者要件）",
+    "厚生労働省「令和6年度介護報酬改定」福祉用具貸与・特定福祉用具販売の選択制",
+    "練馬区「地域包括支援センター一覧」",
+    "日本郵便 郵便番号データにもとづく練馬区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>買う前に確認を</h4>\n        <p>指定のない店で買うと保険は出ません。対象種目と手続きはハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>練馬区内の福祉用具事業所は45件（都指定）</li>\n          <li>掲載20件のうち貸与と販売の両方が17件</li>\n          <li>購入は年度内10万円まで（1〜3割負担）</li>\n          <li>指定事業所以外で買うと支給されません</li>\n          <li>入口はケアマネか地域包括支援センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみ</a></li>\n          <li><a href=\"{{ROOT}}houmon-kaigo/\">訪問介護</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">費用のしくみ</a>",
+  "hero_image": "assets/ogp-fukushi-yogu.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "nerima"
+  }
+}

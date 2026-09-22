@@ -1,0 +1,360 @@
+{
+  "slug": "short-stay_tokyo_kita",
+  "category": {
+    "id": "short-stay",
+    "name": "ショートステイ",
+    "path": "/short-stay/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "kita",
+    "city_name": "北区"
+  },
+  "seo": {
+    "title": "北区のショートステイ12事業所｜予約と費用【2026年9月更新】",
+    "description": "東京都北区の短期入所生活介護（ショートステイ）事業所12件を連絡先つきで掲載。区内12件のうち特養の空床利用型がどれかを含め、予約の取りやすさ・1級地での自己負担・食費と滞在費の見方をまとめました。",
+    "canonical": "https://kaigonotonari.com/short-stay/tokyo/kita/",
+    "og_title": "北区のショートステイ一覧｜予約が取れる事業所の見分け方",
+    "og_description": "北区の短期入所生活介護12件を掲載。空床利用型かどうかで予約の取りやすさが変わります。費用は食費・滞在費まで含めて解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-short-stay.jpg"
+  },
+  "h1": "北区のショートステイ一覧｜予約が取れる事業所の見分け方",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：12事業所",
+  "lead": "東京都北区で短期入所生活介護（ショートステイ）を探している方へ。東京都の指定を受けた12件から12件を連絡先つきで掲載し、そのうち特養の空床を使う<strong>空床利用型が2件</strong>あることまで示しました。ショートステイでいちばん多い壁は<strong>予約が取れないこと</strong>です。同じ区の事業所でも、専用の床を持つところと特養の空きベッドを使うところでは、押さえやすさがまったく違います。",
+  "listing_note": "北区内の短期入所生活介護事業所から12件を掲載しています（東京都公表・2026年9月1日時点）。区内には12件が指定を受けており、そのすべてを掲載しています。「特養の空床利用」「単独型」などの表示は東京都の一覧の事業所種別名です。空き状況は日々変わるため、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "王子光照苑",
+      "telephone": "03-3927-9851",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "王子3-3-1"
+      },
+      "parentOrganization": "社会福祉法人光照園",
+      "identifier": "1371700251",
+      "_town": "王子",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2000-03-01",
+      "_years": 26.559890485968516,
+      "_tags": [
+        "王子エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ウエルガーデン西が丘園",
+      "telephone": "03-5924-7711",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "西が丘三丁目１６番地２７"
+      },
+      "parentOrganization": "社会福祉法人ウエルガーデン",
+      "identifier": "1371700764",
+      "_town": "西が丘",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2000-02-01",
+      "_years": 26.639288158795345,
+      "_tags": [
+        "西が丘エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "みずべの苑",
+      "telephone": "03-3598-0130",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "志茂３－６－５"
+      },
+      "parentOrganization": "社会福祉法人うらら",
+      "identifier": "1371701408",
+      "_town": "志茂",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2001-04-01",
+      "_years": 25.475701574264203,
+      "_tags": [
+        "志茂エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "東京都北区立特別養護老人ホーム桐ケ丘やまぶき荘",
+      "telephone": "03-6454-5130",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "浮間３－１１－２６"
+      },
+      "parentOrganization": "社会福祉法人東京聖労院",
+      "identifier": "1371703305",
+      "_town": "浮間",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2006-04-01",
+      "_years": 20.476386036960985,
+      "_tags": [
+        "浮間エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "赤羽北さくら荘",
+      "telephone": "03-3900-3901",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "赤羽北３－６－１０"
+      },
+      "parentOrganization": "社会福祉法人東京都福祉事業協会",
+      "identifier": "1371703354",
+      "_town": "赤羽北",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2006-04-01",
+      "_years": 20.476386036960985,
+      "_tags": [
+        "赤羽北エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "東京都北区立特別養護老人ホーム清水坂あじさい荘",
+      "telephone": "03-5924-2026",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "中十条４－１６－３２"
+      },
+      "parentOrganization": "社会福祉法人北区社会福祉事業団",
+      "identifier": "1371703370",
+      "_town": "中十条",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2006-04-01",
+      "_years": 20.476386036960985,
+      "_tags": [
+        "中十条エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "東京都北区立特別養護老人ホーム上中里つつじ荘",
+      "telephone": "03-5390-6003",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "上中里２－４５－２"
+      },
+      "parentOrganization": "社会福祉法人北区社会福祉事業団",
+      "identifier": "1371703420",
+      "_town": "上中里",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2006-04-01",
+      "_years": 20.476386036960985,
+      "_tags": [
+        "上中里エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ユニット型短期入所生活介護　うきま幸朋苑",
+      "telephone": "03-5914-1333",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "浮間５－１３－１"
+      },
+      "parentOrganization": "社会福祉法人こうほうえん",
+      "identifier": "1371703776",
+      "_town": "浮間",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2007-04-01",
+      "_years": 19.477070499657767,
+      "_tags": [
+        "浮間エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ショートステイサービス　飛鳥晴山苑",
+      "telephone": "03-3940-9177",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "西ケ原４－５１－１"
+      },
+      "parentOrganization": "社会福祉法人晴山会",
+      "identifier": "1371704253",
+      "_town": "西ケ原",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2008-05-01",
+      "_years": 18.392881587953458,
+      "_tags": [
+        "西ケ原エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "新町光陽苑",
+      "telephone": "03-5855-1185",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "田端新町２－２７－１６"
+      },
+      "parentOrganization": "社会福祉法人泉陽会",
+      "identifier": "1371705474",
+      "_town": "田端新町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2013-04-01",
+      "_years": 13.475701574264203,
+      "_tags": [
+        "田端新町エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "新町光陽苑",
+      "telephone": "03-5855-1185",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "田端新町２－２７－１６"
+      },
+      "parentOrganization": "社会福祉法人泉陽会",
+      "identifier": "1371706225",
+      "_town": "田端新町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の空床利用型",
+      "_designated": "2015-07-01",
+      "_years": 11.227926078028748,
+      "_tags": [
+        "田端新町エリア",
+        "特養の空床利用",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "赤羽北さくら荘",
+      "telephone": "03-3900-3901",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "北区",
+        "streetAddress": "赤羽北３－６－１０"
+      },
+      "parentOrganization": "社会福祉法人東京都福祉事業協会",
+      "identifier": "1371706654",
+      "_town": "赤羽北",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の空床利用型",
+      "_designated": "2019-04-01",
+      "_years": 7.477070499657769,
+      "_tags": [
+        "赤羽北エリア",
+        "特養の空床利用",
+        "ショートステイ"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "北区でショートステイを使うには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければ高齢者あんしんセンターに相談してください。ショートステイもケアプランに位置づける必要があるため、北区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "北区にショートステイは何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で北区内に12件の短期入所生活介護事業所が指定を受けています。本ページではそのうち12件を連絡先つきで掲載しています。掲載分のうち2件が特養の空床利用型です。"
+    },
+    {
+      "q": "北区で予約が取れないときはどうすればいいですか？",
+      "a": "まず空床利用型以外を当たってください。北区の掲載12件のうち10件は専用の床を持つ事業所です。それでも埋まっていれば、日程をずらすか、北区に隣接する区の事業所を当たります。北区でもお盆・年末年始・連休は数か月前から埋まります。"
+    },
+    {
+      "q": "北区で自己負担はいくらくらいですか？",
+      "a": "北区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたります。従来型個室・多床室の併設型なら1割負担で要介護3が1日約849円、要介護5が1日約1,007円が目安です。ただし北区でもこれとは別に食費と滞在費が全額自己負担で加わるため、総額はこの倍以上になることがあります。住民税非課税世帯などは負担限度額認定で上限をつけられます。"
+    },
+    {
+      "q": "北区のショートステイは何日まで連続で使えますか？",
+      "a": "北区でも全国共通で、連続利用は30日までです。日数の管理はケアマネジャーがしてくれます。上限の詳しい決まりはショートステイのしくみのページにまとめています。"
+    },
+    {
+      "q": "認知症があっても北区のショートステイを使えますか？",
+      "a": "使えます。北区の掲載12件のうち12件は特別養護老人ホームなどに併設されており、認知症の方の受け入れに慣れているところが多くなります。ただし環境が変わると混乱が強く出る方もいるため、北区でもまず1泊2日から試してください。夜間の見守り体制は事業所ごとに違います。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}day-service/tokyo/kita/\">北区のデイサービス<small>日中の預け先</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/kita/\">北区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/kita/\">北区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/kita/\">北区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/kita/\">北区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/kita/\">北区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアのショートステイ",
+  "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/bunkyo/\">文京区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/toshima/\">豊島区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/itabashi/\">板橋区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/arakawa/\">荒川区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/adachi/\">足立区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
+    "北区「高齢者あんしんセンター一覧」",
+    "日本郵便 郵便番号データにもとづく北区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず1泊2日から</h4>\n        <p>連続利用の上限や緊急時の預け先は、ハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}short-stay/\">ショートステイのしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>北区内の短期入所生活介護は12件（都指定）</li>\n          <li>掲載12件のうち空床利用型が2件</li>\n          <li>併設型・要介護3で1日約849円（1割）</li>\n          <li>食費・滞在費は全額自己負担</li>\n          <li>入口はケアマネか高齢者あんしんセンター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}short-stay/\">ショートステイのしくみ</a></li>\n          <li><a href=\"{{ROOT}}day-service/\">デイサービス</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
+  "hero_image": "assets/ogp-short-stay.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "kita"
+  }
+}

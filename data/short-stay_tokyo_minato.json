@@ -1,0 +1,313 @@
+{
+  "slug": "short-stay_tokyo_minato",
+  "category": {
+    "id": "short-stay",
+    "name": "ショートステイ",
+    "path": "/short-stay/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "minato",
+    "city_name": "港区"
+  },
+  "seo": {
+    "title": "港区のショートステイ10事業所｜予約と費用【2026年9月更新】",
+    "description": "東京都港区の短期入所生活介護（ショートステイ）事業所10件を連絡先つきで掲載。区内10件のうち特養の空床利用型がどれかを含め、予約の取りやすさ・1級地での自己負担・食費と滞在費の見方をまとめました。",
+    "canonical": "https://kaigonotonari.com/short-stay/tokyo/minato/",
+    "og_title": "港区のショートステイ一覧｜予約が取れる事業所の見分け方",
+    "og_description": "港区の短期入所生活介護10件を掲載。空床利用型かどうかで予約の取りやすさが変わります。費用は食費・滞在費まで含めて解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-short-stay.jpg"
+  },
+  "h1": "港区のショートステイ一覧｜予約が取れる事業所の見分け方",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：10事業所",
+  "lead": "東京都港区で短期入所生活介護（ショートステイ）を探している方へ。東京都の指定を受けた10件から10件を連絡先つきで掲載し、そのうち特養の空床を使う<strong>空床利用型が1件</strong>あることまで示しました。ショートステイでいちばん多い壁は<strong>予約が取れないこと</strong>です。同じ区の事業所でも、専用の床を持つところと特養の空きベッドを使うところでは、押さえやすさがまったく違います。",
+  "listing_note": "港区内の短期入所生活介護事業所から10件を掲載しています（東京都公表・2026年9月1日時点）。区内には10件が指定を受けており、そのすべてを掲載しています。「特養の空床利用」「単独型」などの表示は東京都の一覧の事業所種別名です。空き状況は日々変わるため、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム　慶福育児会　麻布慶福苑",
+      "telephone": "03-3446-5501",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "南麻布五丁目１番２０号"
+      },
+      "parentOrganization": "社会福祉法人恩賜財団慶福育児会",
+      "identifier": "1370300616",
+      "_town": "南麻布",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2000-03-01",
+      "_years": 26.559890485968516,
+      "_tags": [
+        "南麻布エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム新橋さくらの園",
+      "telephone": "03-3433-0180",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "新橋６－１９－２"
+      },
+      "parentOrganization": "社会福祉法人長岡福祉協会",
+      "identifier": "1370302364",
+      "_town": "新橋",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2006-05-01",
+      "_years": 20.39425051334702,
+      "_tags": [
+        "新橋エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ショートステイ　洛和ヴィラ南麻布",
+      "telephone": "03-6408-8677",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "南麻布４－６－１"
+      },
+      "parentOrganization": "社会福祉法人洛和福祉会",
+      "identifier": "1370303172",
+      "_town": "南麻布",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2010-04-01",
+      "_years": 16.476386036960985,
+      "_tags": [
+        "南麻布エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ショートステイ　ありすの杜きのこ南麻布",
+      "telephone": "03-5739-0585",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "南麻布４－６－１"
+      },
+      "parentOrganization": "社会福祉法人新生寿会",
+      "identifier": "1370303180",
+      "_town": "南麻布",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2010-04-01",
+      "_years": 16.476386036960985,
+      "_tags": [
+        "南麻布エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "港区立特別養護老人ホーム　白金の森",
+      "telephone": "03-3449-9611",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "白金台５－２０－５"
+      },
+      "parentOrganization": "社会福祉法人奉優会",
+      "identifier": "1370303479",
+      "_town": "白金台",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2011-04-01",
+      "_years": 15.477070499657769,
+      "_tags": [
+        "白金台エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "港区立特別養護老人ホーム港南の郷",
+      "telephone": "03-3450-5571",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "港南３－３－２３"
+      },
+      "parentOrganization": "社会福祉法人恩賜財団済生会支部東京都済生会",
+      "identifier": "1370304568",
+      "_town": "港南",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2016-04-01",
+      "_years": 10.47501711156742,
+      "_tags": [
+        "港南エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "港区立特別養護老人ホームサン・サン赤坂",
+      "telephone": "03-5561-7833",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "赤坂６－６－１４"
+      },
+      "parentOrganization": "社会福祉法人東京聖労院",
+      "identifier": "1370304576",
+      "_town": "赤坂",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2016-04-01",
+      "_years": 10.47501711156742,
+      "_tags": [
+        "赤坂エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム　南麻布シニアガーデン　アリス",
+      "telephone": "03-5843-0975",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "南麻布４－６－１３"
+      },
+      "parentOrganization": "社会福祉法人健誠会",
+      "identifier": "1370305151",
+      "_town": "南麻布",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2020-05-01",
+      "_years": 6.392881587953457,
+      "_tags": [
+        "南麻布エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "地域密着型　特別養護老人ホーム　南麻布シニアガーデン　アリス",
+      "telephone": "03-5843-0975",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "南麻布４－６－１３"
+      },
+      "parentOrganization": "社会福祉法人健誠会",
+      "identifier": "1370305169",
+      "_town": "南麻布",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の空床利用型",
+      "_designated": "2020-05-01",
+      "_years": 6.392881587953457,
+      "_tags": [
+        "南麻布エリア",
+        "特養の空床利用",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "青山スクウェアー",
+      "telephone": "03-3796-0088",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "南青山１－１８－８"
+      },
+      "parentOrganization": "社会福祉法人平成会",
+      "identifier": "1370305797",
+      "_town": "南青山",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2025-10-01",
+      "_years": 0.974674880219028,
+      "_tags": [
+        "南青山エリア",
+        "併設・専用床",
+        "開設3年以内",
+        "ショートステイ"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "港区でショートステイを使うには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければ高齢者相談センターに相談してください。ショートステイもケアプランに位置づける必要があるため、港区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "港区にショートステイは何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で港区内に10件の短期入所生活介護事業所が指定を受けています。本ページではそのうち10件を連絡先つきで掲載しています。掲載分のうち1件が特養の空床利用型です。"
+    },
+    {
+      "q": "港区で予約が取れないときはどうすればいいですか？",
+      "a": "まず空床利用型以外を当たってください。港区の掲載10件のうち9件は専用の床を持つ事業所です。それでも埋まっていれば、日程をずらすか、港区に隣接する区の事業所を当たります。港区でもお盆・年末年始・連休は数か月前から埋まります。"
+    },
+    {
+      "q": "港区で自己負担はいくらくらいですか？",
+      "a": "港区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたります。従来型個室・多床室の併設型なら1割負担で要介護3が1日約849円、要介護5が1日約1,007円が目安です。ただし港区でもこれとは別に食費と滞在費が全額自己負担で加わるため、総額はこの倍以上になることがあります。住民税非課税世帯などは負担限度額認定で上限をつけられます。"
+    },
+    {
+      "q": "港区のショートステイは何日まで連続で使えますか？",
+      "a": "港区でも全国共通で、連続利用は30日までです。日数の管理はケアマネジャーがしてくれます。上限の詳しい決まりはショートステイのしくみのページにまとめています。"
+    },
+    {
+      "q": "認知症があっても港区のショートステイを使えますか？",
+      "a": "使えます。港区の掲載10件のうち10件は特別養護老人ホームなどに併設されており、認知症の方の受け入れに慣れているところが多くなります。ただし環境が変わると混乱が強く出る方もいるため、港区でもまず1泊2日から試してください。夜間の見守り体制は事業所ごとに違います。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}day-service/tokyo/minato/\">港区のデイサービス<small>日中の預け先</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/minato/\">港区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/minato/\">港区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/minato/\">港区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/minato/\">港区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/minato/\">港区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアのショートステイ",
+  "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/chiyoda/\">千代田区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/chuo/\">中央区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/shinagawa/\">品川区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/shibuya/\">渋谷区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/shinjuku/\">新宿区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
+    "港区「高齢者相談センター一覧」",
+    "日本郵便 郵便番号データにもとづく港区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず1泊2日から</h4>\n        <p>連続利用の上限や緊急時の預け先は、ハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}short-stay/\">ショートステイのしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>港区内の短期入所生活介護は10件（都指定）</li>\n          <li>掲載10件のうち空床利用型が1件</li>\n          <li>併設型・要介護3で1日約849円（1割）</li>\n          <li>食費・滞在費は全額自己負担</li>\n          <li>入口はケアマネか高齢者相談センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}short-stay/\">ショートステイのしくみ</a></li>\n          <li><a href=\"{{ROOT}}day-service/\">デイサービス</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
+  "hero_image": "assets/ogp-short-stay.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "minato"
+  }
+}

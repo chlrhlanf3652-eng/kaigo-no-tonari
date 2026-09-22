@@ -1,0 +1,553 @@
+{
+  "slug": "short-stay_tokyo_setagaya",
+  "category": {
+    "id": "short-stay",
+    "name": "ショートステイ",
+    "path": "/short-stay/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "setagaya",
+    "city_name": "世田谷区"
+  },
+  "seo": {
+    "title": "世田谷区のショートステイ20事業所｜予約と費用【2026年9月更新】",
+    "description": "東京都世田谷区の短期入所生活介護（ショートステイ）事業所20件を連絡先つきで掲載。区内31件のうち特養の空床利用型がどれかを含め、予約の取りやすさ・1級地での自己負担・食費と滞在費の見方をまとめました。",
+    "canonical": "https://kaigonotonari.com/short-stay/tokyo/setagaya/",
+    "og_title": "世田谷区のショートステイ一覧｜予約が取れる事業所の見分け方",
+    "og_description": "世田谷区の短期入所生活介護20件を掲載。空床利用型かどうかで予約の取りやすさが変わります。費用は食費・滞在費まで含めて解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-short-stay.jpg"
+  },
+  "h1": "世田谷区のショートステイ一覧｜予約が取れる事業所の見分け方",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：20事業所",
+  "lead": "東京都世田谷区で短期入所生活介護（ショートステイ）を探している方へ。東京都の指定を受けた31件から20件を連絡先つきで掲載し、そのうち特養の空床を使う<strong>空床利用型が1件</strong>あることまで示しました。ショートステイでいちばん多い壁は<strong>予約が取れないこと</strong>です。同じ区の事業所でも、専用の床を持つところと特養の空きベッドを使うところでは、押さえやすさがまったく違います。",
+  "listing_note": "世田谷区内の短期入所生活介護事業所から20件を掲載しています（東京都公表・2026年9月1日時点）。区内には31件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。「特養の空床利用」「単独型」などの表示は東京都の一覧の事業所種別名です。空き状況は日々変わるため、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "有隣ホーム",
+      "telephone": "03-3484-0600",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "船橋2-15-38"
+      },
+      "parentOrganization": "社会福祉法人東京有隣会",
+      "identifier": "1371200583",
+      "_town": "船橋",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "_tags": [
+        "船橋エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "久我山園",
+      "telephone": "03-3309-3211",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "北烏山２－１４－１４"
+      },
+      "parentOrganization": "社会福祉法人康和会",
+      "identifier": "1371200609",
+      "_town": "北烏山",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "_tags": [
+        "北烏山エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "フレンズホーム",
+      "telephone": "03-3422-7211",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "下馬二丁目２１番１１号"
+      },
+      "parentOrganization": "社会福祉法人日本フレンズ奉仕団",
+      "identifier": "1371200633",
+      "_town": "下馬",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2000-02-01",
+      "_years": 26.639288158795345,
+      "_tags": [
+        "下馬エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "砧ホーム",
+      "telephone": "03-3416-3164",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "砧３－９－１１"
+      },
+      "parentOrganization": "社会福祉法人友愛十字会",
+      "identifier": "1371200641",
+      "_town": "砧",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2000-02-01",
+      "_years": 26.639288158795345,
+      "_tags": [
+        "砧エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム　成城アルテンハイム",
+      "telephone": "03-3483-8001",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "成城６－１３－１７"
+      },
+      "parentOrganization": "社会福祉法人古木会",
+      "identifier": "1371201276",
+      "_town": "成城",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2000-03-01",
+      "_years": 26.559890485968516,
+      "_tags": [
+        "成城エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム等々力の家",
+      "telephone": "03-5752-0030",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "等々力８丁目２６番１６号"
+      },
+      "parentOrganization": "社会福祉法人奉優会",
+      "identifier": "1371202217",
+      "_town": "等々力",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2001-04-01",
+      "_years": 25.475701574264203,
+      "_tags": [
+        "等々力エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "喜多見ホーム",
+      "telephone": "03-5727-1161",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "喜多見七丁目２０番２６号"
+      },
+      "parentOrganization": "社会福祉法人南山会",
+      "identifier": "1371202910",
+      "_town": "喜多見",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2002-05-01",
+      "_years": 24.39425051334702,
+      "_tags": [
+        "喜多見エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "東京敬寿園",
+      "telephone": "03-5313-0008",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "上祖師谷７丁目１番１号"
+      },
+      "parentOrganization": "社会福祉法人敬寿会",
+      "identifier": "1371203587",
+      "_town": "上祖師谷",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2003-07-01",
+      "_years": 23.227926078028748,
+      "_tags": [
+        "上祖師谷エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "老人短期入所事業フォーライフ桃郷",
+      "telephone": "03-3300-1600",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "北烏山７－８－１１"
+      },
+      "parentOrganization": "社会福祉法人寿心会",
+      "identifier": "1371205673",
+      "_town": "北烏山",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2005-10-01",
+      "_years": 20.974674880219027,
+      "_tags": [
+        "北烏山エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "せたがや給田乃杜（ショートステイ）",
+      "telephone": "03-5384-7277",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "給田５－３－５"
+      },
+      "parentOrganization": "社会福祉法人七日会",
+      "identifier": "1371208537",
+      "_town": "給田",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2010-05-01",
+      "_years": 16.39425051334702,
+      "_tags": [
+        "給田エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム　深沢共愛ホームズ",
+      "telephone": "03-5760-6331",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "深沢１－３２－２１"
+      },
+      "parentOrganization": "社会福祉法人老後を幸せにする会",
+      "identifier": "1371214592",
+      "_town": "深沢",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2017-08-01",
+      "_years": 9.141683778234086,
+      "_tags": [
+        "深沢エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "短期入所生活介護施設馬事公苑",
+      "telephone": "03-6804-4835",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "上用賀４－１５－１２"
+      },
+      "parentOrganization": "社会福祉法人恵神会",
+      "identifier": "1371215540",
+      "_town": "上用賀",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2019-05-01",
+      "_years": 7.394934976043806,
+      "_tags": [
+        "上用賀エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "短期入所生活介護　ときわぎ世田谷",
+      "telephone": "03-6413-8571",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "下馬２－３－１０"
+      },
+      "parentOrganization": "社会福祉法人常盤会",
+      "identifier": "1371215680",
+      "_town": "下馬",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2019-09-01",
+      "_years": 7.058179329226557,
+      "_tags": [
+        "下馬エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "老人短期入所施設さくらほうむ",
+      "telephone": "03-6809-7603",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "弦巻３－３－１７"
+      },
+      "parentOrganization": "社会福祉法人ケアネット",
+      "identifier": "1371215854",
+      "_town": "弦巻",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2020-01-01",
+      "_years": 6.72416153319644,
+      "_tags": [
+        "弦巻エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアプラスホテル　瀬田ステイ",
+      "telephone": "03-5491-7017",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "瀬田１－２５－４"
+      },
+      "parentOrganization": "株式会社ＳＯＹＯＫＡＺＥ",
+      "identifier": "1371216043",
+      "_town": "瀬田",
+      "_kind": "営利法人",
+      "_fkind": "単独型",
+      "_designated": "2020-06-01",
+      "_years": 6.308008213552362,
+      "_tags": [
+        "瀬田エリア",
+        "単独型",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム上北沢ホーム",
+      "telephone": "03-3306-5155",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "上北沢１－２８－１７"
+      },
+      "parentOrganization": "社会福祉法人世田谷区社会福祉事業団",
+      "identifier": "1371216340",
+      "_town": "上北沢",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2021-04-01",
+      "_years": 5.475701574264202,
+      "_tags": [
+        "上北沢エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "短期入所生活介護きたざわ苑",
+      "telephone": "03-5453-5620",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "北沢５－２４－１８"
+      },
+      "parentOrganization": "社会福祉法人正吉福祉会",
+      "identifier": "1371216357",
+      "_town": "北沢",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2021-04-01",
+      "_years": 5.475701574264202,
+      "_tags": [
+        "北沢エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "世田谷希望丘ホーム　ショートステイ",
+      "telephone": "03-5316-5383",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "船橋６－２５－２５"
+      },
+      "parentOrganization": "社会福祉法人楽晴会",
+      "identifier": "1371216993",
+      "_town": "船橋",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2023-07-01",
+      "_years": 3.2279260780287475,
+      "_tags": [
+        "船橋エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム　弦巻の家",
+      "telephone": "03-6413-7811",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "弦巻５－３４－５"
+      },
+      "parentOrganization": "社会福祉法人奉優会",
+      "identifier": "1371217025",
+      "_town": "弦巻",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2023-08-01",
+      "_years": 3.143052703627652,
+      "_tags": [
+        "弦巻エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム代田の家",
+      "telephone": "03-5787-6057",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "代田１－２１－１１"
+      },
+      "parentOrganization": "社会福祉法人奉優会",
+      "identifier": "1371217694",
+      "_town": "代田",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の空床利用型",
+      "_designated": "2025-05-01",
+      "_years": 1.3935660506502396,
+      "_tags": [
+        "代田エリア",
+        "特養の空床利用",
+        "開設3年以内",
+        "ショートステイ"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "世田谷区でショートステイを使うには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければあんしんすこやかセンターに相談してください。ショートステイもケアプランに位置づける必要があるため、世田谷区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "世田谷区にショートステイは何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で世田谷区内に31件の短期入所生活介護事業所が指定を受けています。本ページではそのうち20件を連絡先つきで掲載しています。掲載分のうち1件が特養の空床利用型です。"
+    },
+    {
+      "q": "世田谷区で予約が取れないときはどうすればいいですか？",
+      "a": "まず空床利用型以外を当たってください。世田谷区の掲載20件のうち19件は専用の床を持つ事業所です。それでも埋まっていれば、日程をずらすか、世田谷区に隣接する区の事業所を当たります。世田谷区でもお盆・年末年始・連休は数か月前から埋まります。"
+    },
+    {
+      "q": "世田谷区で自己負担はいくらくらいですか？",
+      "a": "世田谷区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたります。従来型個室・多床室の併設型なら1割負担で要介護3が1日約849円、要介護5が1日約1,007円が目安です。ただし世田谷区でもこれとは別に食費と滞在費が全額自己負担で加わるため、総額はこの倍以上になることがあります。住民税非課税世帯などは負担限度額認定で上限をつけられます。"
+    },
+    {
+      "q": "世田谷区のショートステイは何日まで連続で使えますか？",
+      "a": "世田谷区でも全国共通で、連続利用は30日までです。日数の管理はケアマネジャーがしてくれます。上限の詳しい決まりはショートステイのしくみのページにまとめています。"
+    },
+    {
+      "q": "認知症があっても世田谷区のショートステイを使えますか？",
+      "a": "使えます。世田谷区の掲載20件のうち19件は特別養護老人ホームなどに併設されており、認知症の方の受け入れに慣れているところが多くなります。ただし環境が変わると混乱が強く出る方もいるため、世田谷区でもまず1泊2日から試してください。夜間の見守り体制は事業所ごとに違います。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}day-service/tokyo/setagaya/\">世田谷区のデイサービス<small>日中の預け先</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/setagaya/\">世田谷区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/setagaya/\">世田谷区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/setagaya/\">世田谷区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/setagaya/\">世田谷区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/setagaya/\">世田谷区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアのショートステイ",
+  "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/meguro/\">目黒区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/shibuya/\">渋谷区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/suginami/\">杉並区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/nakano/\">中野区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/ota/\">大田区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/komae/\">komae</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
+    "世田谷区「あんしんすこやかセンター一覧」",
+    "日本郵便 郵便番号データにもとづく世田谷区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず1泊2日から</h4>\n        <p>連続利用の上限や緊急時の預け先は、ハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}short-stay/\">ショートステイのしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>世田谷区内の短期入所生活介護は31件（都指定）</li>\n          <li>掲載20件のうち空床利用型が1件</li>\n          <li>併設型・要介護3で1日約849円（1割）</li>\n          <li>食費・滞在費は全額自己負担</li>\n          <li>入口はケアマネかあんしんすこやかセンター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}short-stay/\">ショートステイのしくみ</a></li>\n          <li><a href=\"{{ROOT}}day-service/\">デイサービス</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
+  "hero_image": "assets/ogp-short-stay.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "setagaya"
+  }
+}
