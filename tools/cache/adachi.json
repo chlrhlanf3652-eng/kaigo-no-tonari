@@ -115,7 +115,6 @@
    "closed": "",
    "designated": "2006-08-01",
    "org_kind": "営利法人",
-   "url": "http://www.",
    "days": [
     "平日",
     "土曜日"
@@ -753,5 +752,7 @@
  "service": "訪問介護",
  "fetched": "2026-09-22",
  "source2": "厚生労働省「介護サービス情報公表システム」オープンデータ",
- "mhlw_hit": 19
+ "mhlw_hit": 19,
+ "total_csv": 213,
+ "total_csv_source": "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）"
 }

@@ -154,7 +154,6 @@
    "fax": "03-3577-2030",
    "hours": "9:00〜18:00",
    "closed": "土・日・祝・年末年始",
-   "url": "https：//www.nichigakｋan.co.jp",
    "days": [
     "平日",
     "土曜日",
@@ -562,5 +561,7 @@
  "fetched": "2026-09-21",
  "centers": 27,
  "source2": "厚生労働省「介護サービス情報公表システム」オープンデータ",
- "mhlw_hit": 19
+ "mhlw_hit": 19,
+ "total_csv": 203,
+ "total_csv_source": "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）"
 }

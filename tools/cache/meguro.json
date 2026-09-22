@@ -481,5 +481,7 @@
  "fetched": "2026-09-21",
  "centers": 5,
  "source2": "厚生労働省「介護サービス情報公表システム」オープンデータ",
- "mhlw_hit": 20
+ "mhlw_hit": 20,
+ "total_csv": 52,
+ "total_csv_source": "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）"
 }

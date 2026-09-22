@@ -134,7 +134,7 @@
    "fax": "03-3499-2521",
    "hours": "9:00〜18:00",
    "closed": "祝・夏季・年末年始",
-   "url": "https;//care21.co.jp/",
+   "url": "https://care21.co.jp/",
    "days": [
     "平日",
     "土曜日",
@@ -486,5 +486,7 @@
  "fetched": "2026-09-21",
  "centers": 5,
  "source2": "厚生労働省「介護サービス情報公表システム」オープンデータ",
- "mhlw_hit": 18
+ "mhlw_hit": 18,
+ "total_csv": 70,
+ "total_csv_source": "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）"
 }

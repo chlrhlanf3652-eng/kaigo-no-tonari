@@ -94,9 +94,11 @@ def build(wid, site):
 
     ward = rec["name"]
     madoguchi = MADOGUCHI_OVERRIDE.get(wid, rec["madoguchi"])
-    # LIFULL 掲載件数で全区そろえたものを基本にし、
-    # そこに無い区（東京都オープンデータ由来）はキャッシュの実数を使う
-    total = COUNTS.get(wid) or rec.get("total") or n
+    # 区内件数は東京都の指定事業所一覧の実数を使う（tools/fill_totals.py が書く）。
+    # ほかの4カテゴリも同じ出どころなので、サイト全体で数の意味がそろう。
+    # 実数が無いときだけ、民間ポータルの掲載件数を目安として使う。
+    total = rec.get("total_csv") or COUNTS.get(wid) or rec.get("total") or n
+    real = bool(rec.get("total_csv"))
 
     if madoguchi == "地域包括支援センター":
         note = f"{ward}では地域包括支援センターを区内各地に設置しています。"
@@ -161,7 +163,7 @@ def build(wid, site):
               f"認定を待つあいだに事業所を下調べしておくと、{ward}内で希望の曜日・時間帯が埋まる前に押さえられます。"},
         {"q": f"{ward}には訪問介護事業所が何件ありますか？",
          "a": (f"東京都が公表している指定事業所一覧では、2026年9月1日時点で{ward}内に{total}件の"
-               f"訪問介護事業所が指定を受けています。" if rec.get("source") else
+               f"訪問介護事業所が指定を受けています。" if real else
                f"2026年9月時点で、介護情報サイトの掲載ベースで約{total}件の訪問介護事業所が{ward}内にあります。")
               + f"本ページではそのうち{n}件を連絡先つきで掲載しています。"
               + "全件は厚生労働省「介護サービス情報公表システム」で確認できます。"},
@@ -183,7 +185,7 @@ def build(wid, site):
         {"q": f"{ward}の事業所は、途中で変更できますか？",
          "a": f"変更できます。担当のケアマネジャーに相談すれば、ケアプランを見直したうえで"
               f"{ward}内の別の訪問介護事業所に切り替えられます。"
-              f"{ward}は掲載{n}件・区内約{total}件と候補があるので、"
+              f"{ward}は掲載{n}件・区内{total}件と候補があるので、"
               "相性やシフトの都合で変更する方は珍しくありません。"},
     ]
 
@@ -207,7 +209,7 @@ def build(wid, site):
         '      <div class="side">\n'
         '        <h4>このページの要点</h4>\n'
         '        <ul>\n'
-        f'          <li>{ward}内の訪問介護事業所は約{total}件</li>\n'
+        f'          <li>{ward}内の訪問介護事業所は{total}件</li>\n'
         f'          <li>{ward}は1級地（1単位11.40円）</li>\n'
         '          <li>身体介護30分未満で約278円（1割）</li>\n'
         f'          <li>最初の相談は{madoguchi}</li>\n'
@@ -230,7 +232,7 @@ def build(wid, site):
         "seo": {
             "title": f"{ward}の訪問介護{n}事業所｜料金と選び方【2026年9月更新】",
             "description": f"東京都{ward}の訪問介護（ホームヘルプ）事業所{n}件を連絡先つきで掲載。"
-                           f"区内約{total}件の中から選ぶための料金の目安、頼めること・頼めないこと、"
+                           f"区内{total}件の中から選ぶための料金の目安、頼めること・頼めないこと、"
                            f"{madoguchi}への相談から利用開始までの流れを解説します。",
             "canonical": f"https://kaigonotonari.com/houmon-kaigo/tokyo/{wid}/",
             "og_title": f"{ward}の訪問介護事業所一覧｜料金の目安と選び方",
@@ -241,18 +243,19 @@ def build(wid, site):
         "h1": f"{ward}の訪問介護事業所一覧｜料金の目安と選び方",
         "published": TODAY, "modified": TODAY,
         "count_label": f"掲載：{n}事業所",
-        "lead": f"東京都{ward}で訪問介護（ホームヘルプ）を探している方へ。区内にある約{total}件の事業所から"
+        "lead": f"東京都{ward}で訪問介護（ホームヘルプ）を探している方へ。区内にある{total}件の事業所から"
                 f"{n}件を連絡先つきで掲載し、あわせて自己負担額の目安、ヘルパーに頼めること・頼めないこと、"
                 f"相談から利用開始までの流れをまとめました。はじめて介護保険を使う方は、"
                 f"まず「{madoguchi}」への相談から始めるのが近道です。",
         "listing_note": f"{ward}内の訪問介護事業所から{n}件を掲載しています（2026年9月時点）。"
                         + ("区内の全件から事業所番号の順に等間隔で抽出しています。"
-                           if rec.get("source") and total > n else "")
-                        + f"区内には約{total}件の事業所があり、全件は厚生労働省"
+                           if real and total > n else "")
+                        + f"区内には{total}件の事業所があり、全件は厚生労働省"
                         "「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
         "items": items, "faq": faq, "related": related,
         "nearby_heading": "近隣エリアの訪問介護", "nearby": nearby,
-        "sources": ([rec["source"]] if rec.get("source") else []) + [
+        "sources": ([rec["source"]] if rec.get("source") else
+                    ["東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）"]) + [
             "厚生労働省「介護サービス情報公表システム」オープンデータ"
             "（2026年6月30日時点／サービス提供日・公式サイト）",
             f"{ward}「{madoguchi}一覧」",
@@ -261,7 +264,7 @@ def build(wid, site):
             "介護報酬の地域区分（1級地・1単位11.40円）",
             f"日本郵便 郵便番号データにもとづく{ward}の町域一覧",
             ("区内事業所数：東京都公表の指定事業所一覧にもとづく実数（2026年9月1日時点）"
-             if rec.get("source") else
+             if real else
              "区内事業所数の目安：ハートページナビ／LIFULL介護 各掲載件数（2026年9月時点）"),
         ],
         "sidebar": sidebar,

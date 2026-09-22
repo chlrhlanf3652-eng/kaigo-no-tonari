@@ -32,7 +32,6 @@
    "fax": "03-3520-8892",
    "hours": "9:00〜17:00",
    "closed": "年中無休",
-   "url": "https://www/hikari.care",
    "days": [
     "平日",
     "土曜日",
@@ -524,5 +523,7 @@
  "fetched": "2026-09-21",
  "centers": 6,
  "source2": "厚生労働省「介護サービス情報公表システム」オープンデータ",
- "mhlw_hit": 19
+ "mhlw_hit": 19,
+ "total_csv": 38,
+ "total_csv_source": "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）"
 }

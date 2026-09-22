@@ -114,8 +114,31 @@ def _cap(s: str):
 
 
 def _url(s: str):
+    """公式サイトURL。人が入力した値なので、書き間違いが混ざっている。
+
+    startswith("http") だけで通すと `https;//example.com/` のようなものが
+    そのまま href に入り、ブラウザは相対パスとして解釈する。結果、
+    サイト内に存在しないパスへのリンクが生まれる（実際に7件あった）。
+
+    直すのは区切り記号の打ち間違いだけにする。ホスト名そのものが
+    壊れているもの（http://www. や https://www/example.jp、全角が
+    混ざったドメイン）は、正しい宛先を推測することになるので捨てる。
+    """
     s = (s or "").strip()
-    return s if s.startswith("http") else ""
+    if not s:
+        return ""
+    s = s.replace("：", ":").replace("；", ";")
+    s = re.sub(r"^(https?)\s*[;:]\s*//", r"\1://", s)   # https;// → https://
+    s = re.sub(r"^(https?):/(?!/)", r"\1://", s)        # https:/x → https://x
+    m = re.match(r"^https?://([^\s/:?#]+)", s)
+    if not m:
+        return ""
+    host = m.group(1)
+    if "." not in host.strip(".") or host.endswith("."):
+        return ""          # www だけ、www. で終わる、など
+    if any(ord(c) > 127 for c in host):
+        return ""          # ドメインに全角文字が混ざっている
+    return s
 
 
 _INDEX_CACHE = {}
@@ -167,8 +190,12 @@ def enrich(items, cat: str):
         if not add:
             continue
         hit += 1
+        # URL は上書きではなく置き換える。前回の取り込みで壊れた値が
+        # 入っていることがあるので、今回無ければ消す。
         if add.get("url"):
             it["url"] = add["url"]
+        else:
+            it.pop("url", None)
         if add.get("days"):
             it["days"] = add["days"]
         if add.get("capacity"):
