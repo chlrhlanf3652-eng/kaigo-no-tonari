@@ -87,7 +87,9 @@ def build(wid, site):
 
     ward = rec["name"]
     madoguchi = MADOGUCHI_OVERRIDE.get(wid, rec["madoguchi"])
-    total = COUNTS[wid]
+    # LIFULL 掲載件数で全区そろえたものを基本にし、
+    # そこに無い区（東京都オープンデータ由来）はキャッシュの実数を使う
+    total = COUNTS.get(wid) or rec.get("total") or n
 
     if madoguchi == "地域包括支援センター":
         note = f"{ward}では地域包括支援センターを区内各地に設置しています。"
@@ -121,10 +123,25 @@ def build(wid, site):
     top_org, top_n = st["orgs"][0]
     org_note = ("掲載%d件のうち%s が%d件と最も多く、%sのが特徴です。"
                 % (n, top_org, top_n, ORG_DESC.get(top_org, "").rstrip("。")))
-    nonstop = dict(st["recv"]).get("年中無休", 0)
-    weekend = nonstop + dict(st["recv"]).get("土日も受付", 0)
-    recv_note = ("掲載%d件のうち、年中無休が%d件、土日も電話を受けるところを含めると%d件です。"
-                 % (n, nonstop, weekend))
+    recv_map = dict(st["recv"])
+    nonstop = recv_map.get("年中無休", 0)
+    weekend = nonstop + recv_map.get("土日も受付", 0)
+    no_recv = recv_map.get("情報なし", 0) == n   # 全件が記載なし
+    if no_recv:
+        recv_note = ("この区は掲載元のデータに電話の受付体制の記載がないため、"
+                     "内訳を出していません。曜日や時間帯の条件があるときは、"
+                     "各事業所へ直接ご確認ください。")
+    else:
+        recv_note = ("掲載%d件のうち、年中無休が%d件、土日も電話を受けるところを含めると%d件です。"
+                     "急な依頼や土日の相談が必要な方は、ここを先に見て絞り込んでください。"
+                     % (n, nonstop, weekend))
+    if st["open_min"] == "—" or st["open_max"] == "—":
+        hours_note = ("電話の受付時間は掲載元のデータに記載がないため出していません。"
+                      "訪問できる時間帯とあわせて、各事業所へご確認ください。")
+    else:
+        hours_note = ("受付時間は最も早い事業所で%sから、最も遅い事業所で%sまでです。"
+                      "いずれも電話の受付時間であり、訪問できる時間帯とは別です。"
+                      % (st["open_min"], st["open_max"]))
 
     centers = rec.get("centers")
     center_count_label = f"（区内{centers}か所）" if centers else ""
@@ -139,7 +156,7 @@ def build(wid, site):
         center_count_label=center_count_label, scale_note=scale_note,
         total=total, townc=len(towns), n=n, dist=dist,
         orgs=orgs, org_note=org_note, recv=recv, recv_note=recv_note,
-        open_min=st["open_min"], open_max=st["open_max"])
+        open_min=st["open_min"], open_max=st["open_max"], hours_note=hours_note)
     (BASE / "content" / f"houmon-kaigo_tokyo_{wid}.html").write_text(content, encoding="utf-8")
 
     faq = [
@@ -148,9 +165,11 @@ def build(wid, site):
               f"{ward}では要介護認定の申請方法からケアマネジャー（居宅介護支援事業所）の紹介まで無料で案内してもらえます。"
               f"認定を待つあいだに事業所を下調べしておくと、{ward}内で希望の曜日・時間帯が埋まる前に押さえられます。"},
         {"q": f"{ward}には訪問介護事業所が何件ありますか？",
-         "a": f"2026年9月時点で、介護情報サイトの掲載ベースで約{total}件の訪問介護事業所が{ward}内にあります。"
-              f"本ページではそのうち{n}件を連絡先つきで掲載しています。"
-              "全件は厚生労働省「介護サービス情報公表システム」で確認できます。"},
+         "a": (f"東京都が公表している指定事業所一覧では、2026年9月1日時点で{ward}内に{total}件の"
+               f"訪問介護事業所が指定を受けています。" if rec.get("source") else
+               f"2026年9月時点で、介護情報サイトの掲載ベースで約{total}件の訪問介護事業所が{ward}内にあります。")
+              + f"本ページではそのうち{n}件を連絡先つきで掲載しています。"
+              + "全件は厚生労働省「介護サービス情報公表システム」で確認できます。"},
         {"q": f"{ward}の担当窓口は、どうやって調べればいいですか？",
          "a": (f"{madoguchi}は区内に{centers}か所あり、担当地区が町名で決まっています。"
                if centers else f"{madoguchi}は区内各地に置かれ、担当地区が町名で決まっています。")
@@ -235,14 +254,16 @@ def build(wid, site):
                         "「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
         "items": items, "faq": faq, "related": related,
         "nearby_heading": "近隣エリアの訪問介護", "nearby": nearby,
-        "sources": [
+        "sources": ([rec["source"]] if rec.get("source") else []) + [
             "厚生労働省「介護事業所・生活関連情報検索（介護サービス情報公表システム）」",
             f"{ward}「{madoguchi}一覧」",
             f"{ward}「要介護・要支援認定の申請からサービス利用までの流れ」",
             "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」訪問介護費（令和6年度改定）／"
             "介護報酬の地域区分（1級地・1単位11.40円）",
             f"日本郵便 郵便番号データにもとづく{ward}の町域一覧",
-            "区内事業所数の目安：ハートページナビ／LIFULL介護 各掲載件数（2026年9月時点）",
+            ("区内事業所数：東京都公表の指定事業所一覧にもとづく実数（2026年9月1日時点）"
+             if rec.get("source") else
+             "区内事業所数の目安：ハートページナビ／LIFULL介護 各掲載件数（2026年9月時点）"),
         ],
         "sidebar": sidebar,
         "mcta": '<a class="m1" href="#s2">事業所一覧</a>\n  <a class="m2" href="#s5">利用の流れ</a>',

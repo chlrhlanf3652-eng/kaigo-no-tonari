@@ -1,0 +1,455 @@
+{
+  "slug": "houmon-kaigo_tokyo_adachi",
+  "category": {
+    "id": "houmon-kaigo",
+    "name": "訪問介護",
+    "path": "/houmon-kaigo/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "adachi",
+    "city_name": "足立区"
+  },
+  "seo": {
+    "title": "足立区の訪問介護20事業所｜料金と選び方【2026年9月更新】",
+    "description": "東京都足立区の訪問介護（ホームヘルプ）事業所20件を連絡先つきで掲載。区内約194件の中から選ぶための料金の目安、頼めること・頼めないこと、地域包括支援センター（ホウカツ）への相談から利用開始までの流れを解説します。",
+    "canonical": "https://kaigonotonari.com/houmon-kaigo/tokyo/adachi/",
+    "og_title": "足立区の訪問介護事業所一覧｜料金の目安と選び方",
+    "og_description": "足立区の訪問介護事業所20件を掲載。料金の目安、できること・できないこと、利用開始までの流れを解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-houmon-kaigo.jpg"
+  },
+  "h1": "足立区の訪問介護事業所一覧｜料金の目安と選び方",
+  "published": "2026-09-21",
+  "modified": "2026-09-21",
+  "count_label": "掲載：20事業所",
+  "lead": "東京都足立区で訪問介護（ホームヘルプ）を探している方へ。区内にある約194件の事業所から20件を連絡先つきで掲載し、あわせて自己負担額の目安、ヘルパーに頼めること・頼めないこと、相談から利用開始までの流れをまとめました。はじめて介護保険を使う方は、まず「地域包括支援センター（ホウカツ）」への相談から始めるのが近道です。",
+  "listing_note": "足立区内の訪問介護事業所から20件を掲載しています（2026年9月時点）。区内には約194件の事業所があり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "有限会社　ライフケアー",
+      "telephone": "03-3800-7774",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "小台２－２８－１６"
+      },
+      "parentOrganization": "有限会社ライフケアー",
+      "identifier": "1371700681",
+      "_town": "小台",
+      "_tags": [
+        "小台エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "楽しあ　きたがわ",
+      "telephone": "03-6806-2285",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "千住河原町２２－６北川医院内"
+      },
+      "parentOrganization": "株式会社ブルーミア",
+      "identifier": "1371803162",
+      "_town": "千住河原町",
+      "_tags": [
+        "千住河原町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ニッセイ・ケア",
+      "telephone": "03-3897-7345",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "谷在家２－１２－３"
+      },
+      "parentOrganization": "日生産業株式会社",
+      "identifier": "1372100022",
+      "_town": "谷在家",
+      "_tags": [
+        "谷在家エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社　梅元ケアセンター",
+      "telephone": "03-3854-7890",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "西新井６－３－８"
+      },
+      "parentOrganization": "株式会社梅元ケアセンター",
+      "identifier": "1372100147",
+      "_town": "西新井",
+      "_tags": [
+        "西新井エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "有限会社　あすなろ会",
+      "telephone": "03-5242-6001",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "保木間５－２－２０"
+      },
+      "parentOrganization": "有限会社　あすなろ会",
+      "identifier": "1372100568",
+      "_town": "保木間",
+      "_tags": [
+        "保木間エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社　大起エンゼルヘルプ　足立ケアセンター",
+      "telephone": "03-3628-4111",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "東和２－２６－１５ハイクレスト海老原ＮＯ３"
+      },
+      "parentOrganization": "株式会社大起エンゼルヘルプ",
+      "identifier": "1372100642",
+      "_town": "東和",
+      "_tags": [
+        "東和エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "わかばケアセンター六町",
+      "telephone": "03-5686-2282",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "西加平２－３－１０"
+      },
+      "parentOrganization": "株式会社わかばケアセンター",
+      "identifier": "1372100667",
+      "_town": "西加平",
+      "_tags": [
+        "西加平エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "東伊興指定訪問介護事業所",
+      "telephone": "03-5839-5690",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "東伊興３－１９－１０国寿マンション１０５号室"
+      },
+      "parentOrganization": "医療法人社団あすは会",
+      "identifier": "1372100717",
+      "_town": "東伊興",
+      "_tags": [
+        "東伊興エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "佐々木ケアサービス株式会社　在宅介護事業部",
+      "telephone": "03-3848-7151",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "足立４－３７－１１"
+      },
+      "parentOrganization": "佐々木ケアサービス株式会社",
+      "identifier": "1372100741",
+      "_town": "足立",
+      "_tags": [
+        "足立エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヘルパーステーション　ゆいま～る",
+      "telephone": "03-3881-5600",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "千住仲町１６－４"
+      },
+      "parentOrganization": "株式会社トータルケアサービス加島",
+      "identifier": "1372100758",
+      "_town": "千住仲町",
+      "_tags": [
+        "千住仲町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "日介センター足立東",
+      "telephone": "03-5851-3520",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "竹の塚５－１－１４"
+      },
+      "parentOrganization": "株式会社日本介護センター",
+      "identifier": "1372100907",
+      "_town": "竹の塚",
+      "_tags": [
+        "竹の塚エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "東京高齢協　のぞみ",
+      "telephone": "03-5856-0886",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "谷中４－１３－１１南勢堂ビル１０３"
+      },
+      "parentOrganization": "生活協同組合・東京高齢協",
+      "identifier": "1372101103",
+      "_town": "谷中",
+      "_tags": [
+        "谷中エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "日介センター足立",
+      "telephone": "03-5839-8355",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "西新井１－３８－１８コーラルコート１階"
+      },
+      "parentOrganization": "株式会社日本介護センター",
+      "identifier": "1372101137",
+      "_town": "西新井",
+      "_tags": [
+        "西新井エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "城北介護センター",
+      "telephone": "03-3870-4888",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "千住宮元町３０－４"
+      },
+      "parentOrganization": "株式会社ダイユウケアシステム",
+      "identifier": "1372101152",
+      "_town": "千住宮元町",
+      "_tags": [
+        "千住宮元町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "成仁訪問介護事業部",
+      "telephone": "050-3734-5293",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "中川４－２－１４"
+      },
+      "parentOrganization": "心身医療協会株式会社",
+      "identifier": "1372101228",
+      "_town": "中川",
+      "_tags": [
+        "中川エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ハートぽっぽ",
+      "telephone": "03-3850-8455",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "保木間１－５－２１"
+      },
+      "parentOrganization": "株式会社創カンパニー",
+      "identifier": "1372101244",
+      "_town": "保木間",
+      "_tags": [
+        "保木間エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヘルパーステーションかるがも",
+      "telephone": "03-3889-8018",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "梅島１－１３－１７"
+      },
+      "parentOrganization": "株式会社ケアフレンド",
+      "identifier": "1372101269",
+      "_town": "梅島",
+      "_tags": [
+        "梅島エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "医療法人財団　厚生協会　ホームヘルプサービス保木間",
+      "telephone": "03-3883-3113",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "保木間５－２３－２０"
+      },
+      "parentOrganization": "医療法人財団厚生協会",
+      "identifier": "1372101319",
+      "_town": "保木間",
+      "_tags": [
+        "保木間エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヘルパーステーション六月",
+      "telephone": "03-5242-0308",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "六月１－６－１"
+      },
+      "parentOrganization": "社会福祉法人聖風会",
+      "identifier": "1372101426",
+      "_town": "六月",
+      "_tags": [
+        "六月エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ニチイケアセンター足立",
+      "telephone": "03-5845-3568",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "中央本町４－１０－２"
+      },
+      "parentOrganization": "株式会社ニチイ学館",
+      "identifier": "1372101921",
+      "_town": "中央本町",
+      "_tags": [
+        "中央本町エリア",
+        "訪問介護"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "足立区で訪問介護を使うには、まず何をすればいいですか？",
+      "a": "お住まいの地区を担当する「地域包括支援センター（ホウカツ）（地域包括支援センター）」への相談が最初の一歩で、足立区では要介護認定の申請方法からケアマネジャー（居宅介護支援事業所）の紹介まで無料で案内してもらえます。認定を待つあいだに事業所を下調べしておくと、足立区内で希望の曜日・時間帯が埋まる前に押さえられます。"
+    },
+    {
+      "q": "足立区には訪問介護事業所が何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で足立区内に194件の訪問介護事業所が指定を受けています。本ページではそのうち20件を連絡先つきで掲載しています。全件は厚生労働省「介護サービス情報公表システム」で確認できます。"
+    },
+    {
+      "q": "足立区の担当窓口は、どうやって調べればいいですか？",
+      "a": "地域包括支援センター（ホウカツ）は区内に23か所あり、担当地区が町名で決まっています。ご自宅の町名がわかれば、足立区の公式ホームページか、下の町域一覧で見当がつきます。どこに連絡してよいか迷う場合は、足立区内でいちばん近いセンターに電話すれば担当へつないでもらえます。"
+    },
+    {
+      "q": "足立区の掲載事業所は、どこを見て絞り込めばいいですか？",
+      "a": "上の内訳表が目安になります。曜日を気にせず相談したい場合は年中無休の0件、平日の日中に電話できない場合は土日も受け付ける事業所（0件）から当たってください。そのうえで、ご自宅の町名を伝えて対応エリアに入っているかを確認するのが確実です。"
+    },
+    {
+      "q": "訪問介護の自己負担はいくらくらいですか？",
+      "a": "足立区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたるため、自己負担1割なら身体介護20分以上30分未満で約278円、生活援助20分以上45分未満で約204円が目安になります。処遇改善加算や区分支給限度基準額まで含めた考え方は足立区に限らず共通なので、「訪問介護の料金のしくみ」にまとめました。"
+    },
+    {
+      "q": "足立区の事業所は、途中で変更できますか？",
+      "a": "変更できます。担当のケアマネジャーに相談すれば、ケアプランを見直したうえで足立区内の別の訪問介護事業所に切り替えられます。足立区は掲載20件・区内約194件と候補があるので、相性やシフトの都合で変更する方は珍しくありません。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}takuhai-bento/tokyo/adachi/\">足立区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}koreisha-chintai/tokyo/adachi/\">足立区の高齢者可賃貸<small>断られない部屋探し</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/adachi/\">足立区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/adachi/\">足立区のデイサービス<small>通所介護</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/adachi/\">足立区の見守りサービス<small>ひとり暮らしの安否確認</small></a>\n      <a href=\"{{ROOT}}kaigo-taxi/tokyo/adachi/\">足立区の介護タクシー<small>通院・外出の送迎</small></a>",
+  "nearby_heading": "近隣エリアの訪問介護",
+  "nearby": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/kita/\">北区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/arakawa/\">荒川区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/sumida/\">墨田区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/katsushika/\">葛飾区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/itabashi/\">板橋区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/taito/\">台東区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「介護事業所・生活関連情報検索（介護サービス情報公表システム）」",
+    "足立区「地域包括支援センター（ホウカツ）一覧」",
+    "足立区「要介護・要支援認定の申請からサービス利用までの流れ」",
+    "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」訪問介護費（令和6年度改定）／介護報酬の地域区分（1級地・1単位11.40円）",
+    "日本郵便 郵便番号データにもとづく足立区の町域一覧",
+    "区内事業所数：東京都公表の指定事業所一覧にもとづく実数（2026年9月1日時点）"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>どこに相談すればいい？</h4>\n        <p>介護がはじめての方は、まず地域の相談窓口へ。無料で手続きを案内してもらえます。</p>\n        <a class=\"btn\" href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方を見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>足立区内の訪問介護事業所は約194件</li>\n          <li>足立区は1級地（1単位11.40円）</li>\n          <li>身体介護30分未満で約278円（1割）</li>\n          <li>最初の相談は地域包括支援センター（ホウカツ）</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/caremanager/\">ケアマネジャーの選び方</a></li>\n          <li><a href=\"{{ROOT}}guide/kubun-shikyu-gendo/\">区分支給限度基準額とは</a></li>\n          <li><a href=\"{{ROOT}}guide/jihi-service/\">介護保険外サービスの相場</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s5\">利用の流れ</a>",
+  "hero_image": "assets/ogp-houmon-kaigo.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "adachi"
+  }
+}

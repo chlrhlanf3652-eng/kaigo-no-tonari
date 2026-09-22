@@ -1,0 +1,455 @@
+{
+  "slug": "houmon-kaigo_tokyo_chiyoda",
+  "category": {
+    "id": "houmon-kaigo",
+    "name": "訪問介護",
+    "path": "/houmon-kaigo/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "chiyoda",
+    "city_name": "千代田区"
+  },
+  "seo": {
+    "title": "千代田区の訪問介護20事業所｜料金と選び方【2026年9月更新】",
+    "description": "東京都千代田区の訪問介護（ホームヘルプ）事業所20件を連絡先つきで掲載。区内約17件の中から選ぶための料金の目安、頼めること・頼めないこと、高齢者あんしんセンターへの相談から利用開始までの流れを解説します。",
+    "canonical": "https://kaigonotonari.com/houmon-kaigo/tokyo/chiyoda/",
+    "og_title": "千代田区の訪問介護事業所一覧｜料金の目安と選び方",
+    "og_description": "千代田区の訪問介護事業所20件を掲載。料金の目安、できること・できないこと、利用開始までの流れを解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-houmon-kaigo.jpg"
+  },
+  "h1": "千代田区の訪問介護事業所一覧｜料金の目安と選び方",
+  "published": "2026-09-21",
+  "modified": "2026-09-21",
+  "count_label": "掲載：20事業所",
+  "lead": "東京都千代田区で訪問介護（ホームヘルプ）を探している方へ。区内にある約17件の事業所から20件を連絡先つきで掲載し、あわせて自己負担額の目安、ヘルパーに頼めること・頼めないこと、相談から利用開始までの流れをまとめました。はじめて介護保険を使う方は、まず「高齢者あんしんセンター」への相談から始めるのが近道です。",
+  "listing_note": "千代田区内の訪問介護事業所から20件を掲載しています（2026年9月時点）。区内には約17件の事業所があり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "ニチイケアセンター神田",
+      "telephone": "03-5283-0328",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "神田小川町１－１山甚ビル６Ｆ"
+      },
+      "parentOrganization": "株式会社ニチイ学館",
+      "identifier": "1370100248",
+      "_town": "神田小川町",
+      "_tags": [
+        "神田小川町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特定非営利活動法人　ホープ",
+      "telephone": "03-3221-4266",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "飯田橋１－１２－１６福岡ビル２階"
+      },
+      "parentOrganization": "特定非営利活動法人ホープ",
+      "identifier": "1370100800",
+      "_town": "飯田橋",
+      "_tags": [
+        "飯田橋エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアワーク千代田",
+      "telephone": "03-3221-4370",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "九段北１－１４－１６ＰＩＬＥ　ＫＵＤＡＮ　２０４"
+      },
+      "parentOrganization": "有限会社ケアワーク千代田",
+      "identifier": "1370100875",
+      "_town": "九段北",
+      "_tags": [
+        "九段北エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "かんだ連雀　ホームヘルプサービス",
+      "telephone": "03-3252-8815",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "神田淡路町２－８－１"
+      },
+      "parentOrganization": "社会福祉法人多摩同胞会",
+      "identifier": "1370101139",
+      "_town": "神田淡路町",
+      "_tags": [
+        "神田淡路町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "グッドライフケア訪問介護　千代田",
+      "telephone": "03-6272-6475",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "九段北２－３－７前川九段ビル２階"
+      },
+      "parentOrganization": "株式会社グッドライフケア",
+      "identifier": "1370101303",
+      "_town": "九段北",
+      "_tags": [
+        "九段北エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ことりのひな",
+      "telephone": "03-6206-9087",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "神田須田町１－８－３メトロフロント神田１２０５号"
+      },
+      "parentOrganization": "株式会社やさしいきもち",
+      "identifier": "1370101451",
+      "_town": "神田須田町",
+      "_tags": [
+        "神田須田町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "いちご訪問介護",
+      "telephone": "03-6260-9815",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "神田東松下町２２－１こもれび千桜１階"
+      },
+      "parentOrganization": "特定非営利活動法人いちごの会",
+      "identifier": "1370101519",
+      "_town": "神田東松下町",
+      "_tags": [
+        "神田東松下町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアリッツお茶の水",
+      "telephone": "03-6261-4361",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "神田神保町２－１８第２鈴木ビル２階"
+      },
+      "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
+      "identifier": "1370101535",
+      "_town": "神田神保町",
+      "_tags": [
+        "神田神保町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "レインボーハートケア",
+      "telephone": "03-3222-1412",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "三番町７－１　２０９号室"
+      },
+      "parentOrganization": "株式会社レインボーハート",
+      "identifier": "1370101550",
+      "_town": "三番町",
+      "_tags": [
+        "三番町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケア２１　九段",
+      "telephone": "03-5216-2821",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "九段南３－２－１５大塚ビル１階"
+      },
+      "parentOrganization": "株式会社ケア２１",
+      "identifier": "1370101634",
+      "_town": "九段南",
+      "_tags": [
+        "九段南エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＳＯＭＰＯケア　千代田港　訪問介護",
+      "telephone": "03-6268-9654",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "麹町４－５－４桜井ビル５階"
+      },
+      "parentOrganization": "ＳＯＭＰＯケア株式会社",
+      "identifier": "1370101667",
+      "_town": "麹町",
+      "_tags": [
+        "麹町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ゆめかケア　神保町本店",
+      "telephone": "03-6555-5404",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "神田神保町２－３８－１１岩田ビル３階"
+      },
+      "parentOrganization": "株式会社ゆめか",
+      "identifier": "1370101758",
+      "_town": "神田神保町",
+      "_tags": [
+        "神田神保町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "心介護センター",
+      "telephone": "03-5827-8185",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "神田佐久間町３－２１－６０２号"
+      },
+      "parentOrganization": "有限会社のぞみ",
+      "identifier": "1370101766",
+      "_town": "神田佐久間町",
+      "_tags": [
+        "神田佐久間町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "パール訪問介護事業所",
+      "telephone": "03-3556-6446",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "三番町７－２ヴィラロイヤル三番町６０３"
+      },
+      "parentOrganization": "有限会社しんみケアーセンター",
+      "identifier": "1370101782",
+      "_town": "三番町",
+      "_tags": [
+        "三番町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ハイサポート東京",
+      "telephone": "03-6803-3950",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "神田神保町１－９－５大雲堂ビル４Ｆ"
+      },
+      "parentOrganization": "株式会社ＡＳＸＥＥＤ",
+      "identifier": "1370101808",
+      "_town": "神田神保町",
+      "_tags": [
+        "神田神保町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヘルパーステーション　メリーテール",
+      "telephone": "03-6261-2503",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "二番町１－２－１１０８"
+      },
+      "parentOrganization": "株式会社Ｓｏｌｅｉｌ",
+      "identifier": "1370101824",
+      "_town": "二番町",
+      "_tags": [
+        "二番町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "社会福祉会訪問介護ステーション",
+      "telephone": "03-6206-0590",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "外神田２－３－１"
+      },
+      "parentOrganization": "一般財団法人社会福祉会",
+      "identifier": "1370101840",
+      "_town": "外神田",
+      "_tags": [
+        "外神田エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ネコロボマン訪問介護靖国神社前店",
+      "telephone": "03-3288-1001",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "九段南３－８－３Ｍ．Ｂａｌａｎｃｅ＋ＫＵＤＡＮ４階"
+      },
+      "parentOrganization": "株式会社ＡＩＳＯ",
+      "identifier": "1370101865",
+      "_town": "九段南",
+      "_tags": [
+        "九段南エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヘルパーステーションルルドの泉",
+      "telephone": "03-5534-8977",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "神田小川町３－１１－２－１１１号"
+      },
+      "parentOrganization": "株式会社ルルドの泉",
+      "identifier": "1370202663",
+      "_town": "神田小川町",
+      "_tags": [
+        "神田小川町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "つながるケア",
+      "telephone": "03-5832-1905",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "九段南３－３－１３横山ビル３階"
+      },
+      "parentOrganization": "株式会社つながるカンパニー",
+      "identifier": "1370503599",
+      "_town": "九段南",
+      "_tags": [
+        "九段南エリア",
+        "訪問介護"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "千代田区で訪問介護を使うには、まず何をすればいいですか？",
+      "a": "お住まいの地区を担当する「高齢者あんしんセンター（地域包括支援センター）」への相談が最初の一歩で、千代田区では要介護認定の申請方法からケアマネジャー（居宅介護支援事業所）の紹介まで無料で案内してもらえます。認定を待つあいだに事業所を下調べしておくと、千代田区内で希望の曜日・時間帯が埋まる前に押さえられます。"
+    },
+    {
+      "q": "千代田区には訪問介護事業所が何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で千代田区内に17件の訪問介護事業所が指定を受けています。本ページではそのうち20件を連絡先つきで掲載しています。全件は厚生労働省「介護サービス情報公表システム」で確認できます。"
+    },
+    {
+      "q": "千代田区の担当窓口は、どうやって調べればいいですか？",
+      "a": "高齢者あんしんセンターは区内に2か所あり、担当地区が町名で決まっています。ご自宅の町名がわかれば、千代田区の公式ホームページか、下の町域一覧で見当がつきます。どこに連絡してよいか迷う場合は、千代田区内でいちばん近いセンターに電話すれば担当へつないでもらえます。"
+    },
+    {
+      "q": "千代田区の掲載事業所は、どこを見て絞り込めばいいですか？",
+      "a": "上の内訳表が目安になります。曜日を気にせず相談したい場合は年中無休の0件、平日の日中に電話できない場合は土日も受け付ける事業所（0件）から当たってください。そのうえで、ご自宅の町名を伝えて対応エリアに入っているかを確認するのが確実です。"
+    },
+    {
+      "q": "訪問介護の自己負担はいくらくらいですか？",
+      "a": "千代田区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたるため、自己負担1割なら身体介護20分以上30分未満で約278円、生活援助20分以上45分未満で約204円が目安になります。処遇改善加算や区分支給限度基準額まで含めた考え方は千代田区に限らず共通なので、「訪問介護の料金のしくみ」にまとめました。"
+    },
+    {
+      "q": "千代田区の事業所は、途中で変更できますか？",
+      "a": "変更できます。担当のケアマネジャーに相談すれば、ケアプランを見直したうえで千代田区内の別の訪問介護事業所に切り替えられます。千代田区は掲載20件・区内約17件と候補があるので、相性やシフトの都合で変更する方は珍しくありません。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}takuhai-bento/tokyo/chiyoda/\">千代田区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}koreisha-chintai/tokyo/chiyoda/\">千代田区の高齢者可賃貸<small>断られない部屋探し</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/chiyoda/\">千代田区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/chiyoda/\">千代田区のデイサービス<small>通所介護</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/chiyoda/\">千代田区の見守りサービス<small>ひとり暮らしの安否確認</small></a>\n      <a href=\"{{ROOT}}kaigo-taxi/tokyo/chiyoda/\">千代田区の介護タクシー<small>通院・外出の送迎</small></a>",
+  "nearby_heading": "近隣エリアの訪問介護",
+  "nearby": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/chuo/\">中央区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/minato/\">港区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/shinjuku/\">新宿区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/bunkyo/\">文京区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/taito/\">台東区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「介護事業所・生活関連情報検索（介護サービス情報公表システム）」",
+    "千代田区「高齢者あんしんセンター一覧」",
+    "千代田区「要介護・要支援認定の申請からサービス利用までの流れ」",
+    "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」訪問介護費（令和6年度改定）／介護報酬の地域区分（1級地・1単位11.40円）",
+    "日本郵便 郵便番号データにもとづく千代田区の町域一覧",
+    "区内事業所数：東京都公表の指定事業所一覧にもとづく実数（2026年9月1日時点）"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>どこに相談すればいい？</h4>\n        <p>介護がはじめての方は、まず地域の相談窓口へ。無料で手続きを案内してもらえます。</p>\n        <a class=\"btn\" href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方を見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>千代田区内の訪問介護事業所は約17件</li>\n          <li>千代田区は1級地（1単位11.40円）</li>\n          <li>身体介護30分未満で約278円（1割）</li>\n          <li>最初の相談は高齢者あんしんセンター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/caremanager/\">ケアマネジャーの選び方</a></li>\n          <li><a href=\"{{ROOT}}guide/kubun-shikyu-gendo/\">区分支給限度基準額とは</a></li>\n          <li><a href=\"{{ROOT}}guide/jihi-service/\">介護保険外サービスの相場</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s5\">利用の流れ</a>",
+  "hero_image": "assets/ogp-houmon-kaigo.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "chiyoda"
+  }
+}

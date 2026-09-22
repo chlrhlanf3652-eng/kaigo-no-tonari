@@ -55,7 +55,7 @@ HOUMON_KAIGO = """<h2 id="s1">%(ward)sで訪問介護を探すとき、最初に
     <p class="tiny">詳しくは<a href="{{ROOT}}guide/jigyosho-erabikata/">訪問介護事業所の選び方</a>で解説しています。</p>
 
     <h3>電話の受付体制</h3>
-    <p>%(recv_note)s急な依頼や土日の相談が必要な方は、ここを先に見て絞り込んでください。</p>
+    <p>%(recv_note)s</p>
     <div class="tw">
     <table>
       <thead><tr><th style="width:34%%">受付体制</th><th style="width:14%%">件数</th><th>こんな方に</th></tr></thead>
@@ -64,7 +64,7 @@ HOUMON_KAIGO = """<h2 id="s1">%(ward)sで訪問介護を探すとき、最初に
       </tbody>
     </table>
     </div>
-    <p class="tiny">受付時間は最も早い事業所で%(open_min)sから、最も遅い事業所で%(open_max)sまでです。いずれも電話の受付時間であり、訪問できる時間帯とは別です。</p>
+    <p class="tiny">%(hours_note)s</p>
 
     <h2 id="s4">%(ward)sの料金は「1級地」</h2>
     <p>訪問介護の自己負担は「単位数 × 1単位あたりの単価 × 負担割合」で決まります。%(ward)sを含む東京23区は地域区分で最も高い<strong>1級地</strong>にあたり、1単位＝<strong>11.40円</strong>です。全国の「その他地域」（10.00円）と比べると、同じサービスでも約14％高くなります。</p>
