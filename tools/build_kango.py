@@ -20,7 +20,7 @@ sys.path.insert(0, str(pathlib.Path(__file__).parent))
 from wards import WARDS
 from counts import MADOGUCHI_OVERRIDE
 from kango_tpl import HOUMON_KANGO
-from wardstats import summarize, ORG_DESC, RECV_DESC
+from build_day import ORG_DESC, AGE_BUCKETS, years_since
 
 BASE = pathlib.Path(__file__).parent.parent
 CACHE = pathlib.Path(__file__).parent / "cache"
@@ -60,13 +60,17 @@ def to_items(rec, towns):
         if closed:
             it["_closed"] = closed
         it["_town"] = town
+        it["_kind"] = r.get("org_kind") or "その他"
+        it["_designated"] = r.get("designated") or ""
+        it["_years"] = years_since(it["_designated"])
         tags = []
         if town:
             tags.append(town + "エリア")
-        if "年中無休" in closed:
-            tags.append("年中無休")
-        elif closed and "土" not in closed and "日" not in closed:
-            tags.append("土日も受付")
+        y = it["_years"]
+        if y is not None and y >= 20:
+            tags.append("20年以上")
+        elif y is not None and y < 3:
+            tags.append("開設3年以内")
         tags.append("訪問看護")
         it["_tags"] = tags
         out.append(it)
@@ -108,37 +112,57 @@ def build(wid, site):
     dist = "\n".join('        <tr><th>%s</th><td>%s</td></tr>'
                      % (esc(t), esc("、".join(bucket[t]))) for t in order)
 
-    st = summarize(items)
+    # 法人の種別は東京都の「法人種別名」をそのまま集計する
+    kinds = {}
+    for it in items:
+        kinds[it["_kind"]] = kinds.get(it["_kind"], 0) + 1
+    kind_rows = sorted(kinds.items(), key=lambda x: (-x[1], x[0]))
     orgs = "\n".join(
         '        <tr><th>%s</th><td class="num">%d件</td><td>%s</td></tr>'
-        % (k, v, ORG_DESC.get(k, "")) for k, v in st["orgs"])
-    recv = "\n".join(
-        '        <tr><th>%s</th><td class="num">%d件</td><td>%s</td></tr>'
-        % (k, v, RECV_DESC.get(k, "")) for k, v in st["recv"])
-
-    org_map = dict(st["orgs"])
-    top_org, top_n = st["orgs"][0]
-    iryo = org_map.get("医療法人", 0)
-    org_note = ("掲載%d件のうち%sが%d件と最も多く、医療法人は%d件です。"
+        % (esc(k), v, ORG_DESC.get(k, "")) for k, v in kind_rows)
+    top_org, top_n = kind_rows[0]
+    iryo = kinds.get("医療法人", 0)
+    org_note = ("掲載%d件のうち%sが%d件と最も多く、母体が医療機関である医療法人は%d件です。"
                 % (n, top_org, top_n, iryo))
 
-    nonstop = dict(st["recv"]).get("年中無休", 0)
-    weekend = nonstop + dict(st["recv"]).get("土日も受付", 0)
-    recv_note = ("掲載%d件のうち、年中無休が%d件、土日も電話を受けるところを含めると%d件です。"
-                 % (n, nonstop, weekend))
+    # 開設からの年数
+    ages = {}
+    for it in items:
+        y = it["_years"]
+        if y is None:
+            ages["不明"] = ages.get("不明", 0) + 1
+            continue
+        for lim, label, _ in AGE_BUCKETS:
+            if y < lim:
+                ages[label] = ages.get(label, 0) + 1
+                break
+    labels = [b[1] for b in AGE_BUCKETS] + ["不明"]
+    desc = {b[1]: b[2] for b in AGE_BUCKETS}
+    desc["不明"] = "指定年月日が読み取れなかったもの"
+    ages_rows = "\n".join(
+        '        <tr><th>%s</th><td class="num">%d件</td><td>%s</td></tr>'
+        % (lab, ages[lab], desc[lab]) for lab in labels if lab in ages)
+    yrs = [it["_years"] for it in items if it["_years"] is not None]
+    if yrs:
+        veteran = sum(1 for y in yrs if y >= 20)
+        newbie = sum(1 for y in yrs if y < 3)
+        age_note = ("掲載%d件のうち、指定から20年以上の事業所は%d件、直近3年以内に指定を受けた事業所は%d件です。"
+                    % (n, veteran, newbie))
+    else:
+        age_note = "指定年月日が読み取れる事業所がありませんでした。"
+        veteran = newbie = 0
 
     centers = rec.get("centers")
     center_count_label = f"（区内{centers}か所）" if centers else ""
-    scale_note = (f"区内に訪問看護ステーションがこれだけある一方、"
-                  f"対応できる医療処置はステーションごとに違います。" if total >= 60 else
-                  f"数が限られるため、必要な医療処置に対応できるかを先に確認してください。")
+    scale_note = ("区内の数が多い一方、対応できる医療処置はステーションごとに違います。"
+                  if total >= 60 else
+                  "数が限られるため、必要な医療処置に対応できるかを先に確認してください。")
 
     content = HOUMON_KANGO % dict(
         ward=ward, id=wid, center=madoguchi, center_note=note,
         center_count_label=center_count_label, scale_note=scale_note,
         total=total, townc=len(towns), n=n, dist=dist,
-        orgs=orgs, org_note=org_note, recv=recv, recv_note=recv_note,
-        open_min=st["open_min"], open_max=st["open_max"])
+        orgs=orgs, org_note=org_note, ages=ages_rows, age_note=age_note)
     (BASE / "content" / f"houmon-kango_tokyo_{wid}.html").write_text(content, encoding="utf-8")
 
     faq = [
@@ -147,12 +171,13 @@ def build(wid, site):
               f"訪問看護は主治医の指示書がないと始められないため、{ward}のステーションに直接連絡しても"
               f"そこで止まります。入院中なら退院支援の窓口、主治医が決まっていなければ{madoguchi}が相談先です。"},
         {"q": f"{ward}には訪問看護ステーションが何件ありますか？",
-         "a": f"2026年9月時点で、介護情報サイトの掲載ベースで約{total}件のステーションが{ward}内にあります。"
-              f"本ページではそのうち{n}件を連絡先つきで掲載しています。"
-              "全件は厚生労働省「介護サービス情報公表システム」で確認できます。"},
+         "a": f"東京都が公表している指定事業所一覧では、2026年9月1日時点で{ward}内に{total}件の"
+              f"訪問看護ステーションが指定を受けています。"
+              f"本ページではそのうち{n}件を連絡先つきで掲載しています。"},
         {"q": f"{ward}の掲載事業所は、どこを見て絞り込めばいいですか？",
          "a": f"まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。"
-              f"{ward}の掲載{n}件では年中無休が{nonstop}件、土日も電話を受けるところを含めると{weekend}件あります。"
+              f"{ward}の掲載{n}件では{top_org}が{top_n}件、医療法人が{iryo}件、"
+              f"指定から20年以上の事業所が{veteran}件です。"
               f"そのうえで、ご自宅の町名を伝えて{ward}内の対応エリアに入っているかを確認してください。"},
         {"q": f"{ward}で夜間や休日に急変したら、来てもらえますか？",
          "a": f"24時間の緊急対応体制をとっているステーションなら、連絡して必要と判断されれば訪問してもらえます。"
@@ -197,7 +222,7 @@ def build(wid, site):
         f'          <li>{ward}内のステーションは約{total}件</li>\n'
         '          <li>起点は主治医の訪問看護指示書</li>\n'
         '          <li>30分未満の訪問で約537円（1割）</li>\n'
-        f'          <li>掲載{n}件のうち年中無休は{nonstop}件</li>\n'
+        f'          <li>掲載{n}件のうち医療法人は{iryo}件</li>\n'
         f'          <li>主治医が未定なら{madoguchi}へ</li>\n'
         '        </ul>\n'
         '      </div>\n'
@@ -233,19 +258,23 @@ def build(wid, site):
                 f"{n}件を連絡先つきで掲載し、あわせて所在町域・運営法人・受付体制の内訳と、"
                 f"主治医の指示書から利用開始までの流れをまとめました。"
                 f"訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
-        "listing_note": f"{ward}内の訪問看護ステーションから{n}件を掲載しています（2026年9月時点）。"
-                        f"区内には約{total}件のステーションがあり、全件は厚生労働省"
-                        "「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
+        "listing_note": f"{ward}内の訪問看護ステーションから{n}件を掲載しています"
+                        "（東京都公表・2026年9月1日時点）。"
+                        + (f"区内には{total}件が指定を受けており、事業所番号の順に等間隔で抽出したため、"
+                           "開設の古い事業所と新しい事業所が混ざっています。"
+                           if total > n else f"区内には{total}件が指定を受けており、そのすべてを掲載しています。")
+                        + "掲載順は事業所の優劣を示すものではありません。",
         "items": items, "faq": faq, "related": related,
         "nearby_heading": "近隣エリアの訪問看護", "nearby": nearby,
         "sources": [
+            rec.get("source", "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）"),
             "厚生労働省「介護事業所・生活関連情報検索（介護サービス情報公表システム）」",
             f"{ward}「{madoguchi}一覧」",
             "厚生労働大臣が定める疾病等（訪問看護で医療保険が適用される範囲）",
             "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」訪問看護費／"
             "介護報酬の地域区分（1級地・1単位11.40円）",
             f"日本郵便 郵便番号データにもとづく{ward}の町域一覧",
-            "区内事業所数の目安：ハートページナビ 掲載件数（2026年9月時点）",
+            "区内事業所数：東京都公表の指定事業所一覧にもとづく実数（2026年9月1日時点）",
         ],
         "sidebar": sidebar,
         "mcta": '<a class="m1" href="#s2">事業所一覧</a>\n  <a class="m2" href="#s4">自己負担の目安</a>',
@@ -275,18 +304,19 @@ def build_pref_partial():
         n = len(rec["items"])
         if n < MIN_ITEMS:
             continue
-        st = summarize(to_items(rec, rec["towns"]))
-        iryo = dict(st["orgs"]).get("医療法人", 0)
-        nonstop = dict(st["recv"]).get("年中無休", 0)
-        rows.append((rec["total"] or n, rec["name"], wid, n, iryo, nonstop))
+        its = to_items(rec, rec["towns"])
+        iryo = sum(1 for it in its if it["_kind"] == "医療法人")
+        veteran = sum(1 for it in its
+                      if it["_years"] is not None and it["_years"] >= 20)
+        rows.append((rec["total"] or n, rec["name"], wid, n, iryo, veteran))
     if not rows:
         return
     rows.sort(reverse=True)
     body = "\n".join(
         '        <tr><th><a href="{{ROOT}}houmon-kango/tokyo/%s/">%s</a></th>'
         '<td class="num">%d</td><td class="num">%d</td><td class="num">%d</td>'
-        '<td class="num">%d</td></tr>' % (wid, name, total, n, iryo, nonstop)
-        for total, name, wid, n, iryo, nonstop in rows)
+        '<td class="num">%d</td></tr>' % (wid, name, total, n, iryo, veteran)
+        for total, name, wid, n, iryo, veteran in rows)
     most = rows[0]
     least = rows[-1]
     total_all = sum(r[0] for r in rows)
@@ -296,13 +326,13 @@ def build_pref_partial():
   <p>数が少ない区では、<strong>必要な医療処置に対応できるステーションがさらに絞られます</strong>。区内で見つからない場合、訪問看護は隣接する区から訪問してもらえることもあるので、区境にお住まいなら隣の区も当たってください。</p>
   <div class="tw">
   <table>
-    <thead><tr><th style="width:26%">区</th><th>区内のステーション</th><th>本サイト掲載</th><th>うち医療法人</th><th>うち年中無休</th></tr></thead>
+    <thead><tr><th style="width:26%">区</th><th>区内のステーション</th><th>本サイト掲載</th><th>うち医療法人</th><th>うち20年以上</th></tr></thead>
     <tbody>
 {body}
     </tbody>
   </table>
   </div>
-  <p class="tiny">区内のステーション数はハートページナビの掲載件数（2026年9月時点）。医療法人の件数と年中無休の件数は、本サイト掲載分についての集計です。年中無休は電話の受付体制であり、24時間の緊急対応体制の有無とは別です。</p>
+  <p class="tiny">区内のステーション数は東京都が公表している指定事業所一覧の実数（2026年9月1日時点）。医療法人の件数と指定から20年以上の件数は、本サイト掲載分についての集計です。24時間の緊急対応体制を取っているかは公表データに含まれないため、事業所へ直接ご確認ください。</p>
 
   <h2 id="tsukaikata">この表の使い方</h2>
   <ul class="check">

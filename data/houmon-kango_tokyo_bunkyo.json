@@ -13,7 +13,7 @@
   },
   "seo": {
     "title": "文京区の訪問看護20事業所｜主治医の指示書から始める【2026年9月更新】",
-    "description": "東京都文京区の訪問看護ステーション20件を連絡先つきで掲載。区内約27件の中から選ぶための所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
+    "description": "東京都文京区の訪問看護ステーション20件を連絡先つきで掲載。区内約31件の中から選ぶための所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
     "canonical": "https://kaigonotonari.com/houmon-kango/tokyo/bunkyo/",
     "og_title": "文京区の訪問看護ステーション一覧｜選び方と始め方",
     "og_description": "文京区の訪問看護ステーション20件を掲載。対応できる医療処置の確認と、主治医の指示書から始める流れを解説します。",
@@ -23,72 +23,50 @@
   "published": "2026-09-21",
   "modified": "2026-09-21",
   "count_label": "掲載：20事業所",
-  "lead": "東京都文京区で訪問看護を探している方へ。区内にある約27件のステーションから20件を連絡先つきで掲載し、あわせて所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
-  "listing_note": "文京区内の訪問看護ステーションから20件を掲載しています（2026年9月時点）。区内には約27件のステーションがあり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
+  "lead": "東京都文京区で訪問看護を探している方へ。区内にある約31件のステーションから20件を連絡先つきで掲載し、あわせて所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
+  "listing_note": "文京区内の訪問看護ステーションから20件を掲載しています（東京都公表・2026年9月1日時点）。区内には31件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
-      "name": "訪問看護ステーション ソレイユ ハートケア",
-      "telephone": "03-6902-9184",
+      "name": "星医療酸器　訪問看護・リハビリステーション巣鴨",
+      "telephone": "03-5976-2655",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "文京区",
-        "streetAddress": "白山5-17-10 新井ビル1階"
+        "streetAddress": "千石４－１６－２小林ビル２０３号室"
       },
-      "parentOrganization": "（株）Ａｉｌｅ",
-      "identifier": "1360590358",
-      "faxNumber": "03-6902-9185",
-      "_hours": "9:00〜17:00",
-      "_closed": "日・祝",
-      "_town": "白山",
+      "parentOrganization": "株式会社星医療酸器",
+      "identifier": "1360590069",
+      "_town": "千石",
+      "_kind": "営利法人",
+      "_designated": "2014-08-01",
+      "_years": 12.14236824093087,
       "_tags": [
-        "白山エリア",
+        "千石エリア",
         "訪問看護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "訪問看護ステーション東大前",
-      "telephone": "03-3868-2007",
+      "name": "訪問看護ステーション　ホームケア文京",
+      "telephone": "03-5615-9715",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "文京区",
-        "streetAddress": "向丘2-9-10 コート追分101"
+        "streetAddress": "小石川２－２３－１２エスティビル小石川４０１"
       },
-      "parentOrganization": "三誠メディカル（株）",
-      "identifier": "1360590226",
-      "faxNumber": "03-3868-2008",
-      "_hours": "9:00〜17:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "向丘",
+      "parentOrganization": "株式会社ミレニア",
+      "identifier": "1360590085",
+      "_town": "小石川",
+      "_kind": "営利法人",
+      "_designated": "2016-06-01",
+      "_years": 10.30800821355236,
       "_tags": [
-        "向丘エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ＣｏＣｏ訪問リハビリ・看護ステーション",
-      "telephone": "03-5832-9331",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "文京区",
-        "streetAddress": "本駒込4-19-11-101"
-      },
-      "parentOrganization": "（有）メディカルエイド研究所",
-      "identifier": "1367197684",
-      "faxNumber": "03-5832-9352",
-      "_hours": "8:30〜17:30",
-      "_closed": "土・日・祝・夏季・年末年始",
-      "_town": "本駒込",
-      "_tags": [
-        "本駒込エリア",
+        "小石川エリア",
         "訪問看護"
       ]
     },
@@ -101,281 +79,14 @@
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "文京区",
-        "streetAddress": "湯島2-16-10 ＭＡＳＳビルディング3階"
+        "streetAddress": "湯島２－１６－１０ＴＲＵＳＴ　ＶＡＬＵＥ　湯島３階"
       },
-      "parentOrganization": "（株）インテンド",
+      "parentOrganization": "株式会社インテンド",
       "identifier": "1360590127",
-      "faxNumber": "03-5844-6592",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
       "_town": "湯島",
-      "_tags": [
-        "湯島エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ひかわした訪問看護ステーション",
-      "telephone": "03-3944-1357",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "文京区",
-        "streetAddress": "千石4-1-2"
-      },
-      "parentOrganization": "東京保健生活協同組合",
-      "identifier": "1367192479",
-      "faxNumber": "03-3944-1537",
-      "_hours": "9:00〜17:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "千石",
-      "_tags": [
-        "千石エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "小石川医師会 訪問看護ステーション",
-      "telephone": "03-3947-0616",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "文京区",
-        "streetAddress": "小石川5-6-9"
-      },
-      "parentOrganization": "（一社）小石川医師会",
-      "identifier": "1367191240",
-      "faxNumber": "03-5978-9799",
-      "_hours": "9:00〜17:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "小石川",
-      "_tags": [
-        "小石川エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "星医療酸器 訪問看護・リハビリステーション巣鴨",
-      "telephone": "03-5976-2655",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "文京区",
-        "streetAddress": "千石4-16-2 小林ビル203"
-      },
-      "parentOrganization": "（株）星医療酸器",
-      "identifier": "1360590069",
-      "faxNumber": "03-5976-2666",
-      "_hours": "8:30〜17:30",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "千石",
-      "_tags": [
-        "千石エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "おおぞら訪問看護ステーション",
-      "telephone": "03-5615-8677",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "文京区",
-        "streetAddress": "本郷2-31-8-2階"
-      },
-      "parentOrganization": "（株）ブルーウイング",
-      "identifier": "1360590382",
-      "faxNumber": "03-5615-8678",
-      "_hours": "9:00〜17:30",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "本郷",
-      "_tags": [
-        "本郷エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "訪問看護ステーションきょうわ",
-      "telephone": "03-3822-0128",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "文京区",
-        "streetAddress": "千駄木5-17-3"
-      },
-      "parentOrganization": "（一社）東京在宅看護協和会",
-      "identifier": "1367195829",
-      "faxNumber": "03-3822-0129",
-      "_hours": "8:30〜17:30",
-      "_closed": "土・日・年末年始",
-      "_town": "千駄木",
-      "_tags": [
-        "千駄木エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ナースステーション東京 文京支店",
-      "telephone": "03-5615-8238",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "文京区",
-        "streetAddress": "白山2-20-9 藤井ビル1階"
-      },
-      "parentOrganization": "（株）日本在宅ケア教育研究所",
-      "identifier": "1360590200",
-      "faxNumber": "03-5615-8239",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "白山",
-      "_tags": [
-        "白山エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ゆりの樹訪問看護リハビリステーション",
-      "telephone": "03-6902-9186",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "文京区",
-        "streetAddress": "関口1-21-19 九絛ビル4階"
-      },
-      "parentOrganization": "（医社）一専会",
-      "identifier": "1360590242",
-      "faxNumber": "03-6902-9187",
-      "_hours": "9:00〜17:30",
-      "_closed": "年末年始",
-      "_town": "関口",
-      "_tags": [
-        "関口エリア",
-        "土日も受付",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "訪問看護ステーション ほのぼのらいふ",
-      "telephone": "03-5805-7856",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "文京区",
-        "streetAddress": "小石川1-22-2 南部ビル1階"
-      },
-      "parentOrganization": "（株）元気な介護",
-      "identifier": "1360590267",
-      "faxNumber": "03-5805-7857",
-      "_hours": "8:50〜17:50",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "小石川",
-      "_tags": [
-        "小石川エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ゆい訪問看護ステーション",
-      "telephone": "03-6240-0395",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "文京区",
-        "streetAddress": "本郷3-34-4 本郷ＪＫＨビル3階"
-      },
-      "parentOrganization": "結美（株）",
-      "identifier": "1360590192",
-      "faxNumber": "03-6240-0794",
-      "_hours": "9:00〜17:00",
-      "_closed": "年末年始",
-      "_town": "本郷",
-      "_tags": [
-        "本郷エリア",
-        "土日も受付",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "まるまる訪問看護ステーション湯島",
-      "telephone": "03-4431-3226",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "文京区",
-        "streetAddress": "湯島4-6-12 湯島ハイタウンＢ1417"
-      },
-      "parentOrganization": "（株）ＭＩＫＯＴＯ",
-      "identifier": "1360590309",
-      "faxNumber": "03-6625-0289",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "湯島",
-      "_tags": [
-        "湯島エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "Ｇｒｉｔ．Ｉｎｃ Ｈｏｍｅ Ｎｕｒｓｅ Ｓｔａｔｉｏｎ",
-      "telephone": "03-5261-2877",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "文京区",
-        "streetAddress": "関口1-8-6 メゾン文京関口Ⅱ-803"
-      },
-      "parentOrganization": "（株）Ｇｒｉｔ",
-      "identifier": "1360590390",
-      "faxNumber": "03-5261-2878",
-      "_hours": "8:30〜17:30",
-      "_closed": "年中無休",
-      "_town": "関口",
-      "_tags": [
-        "関口エリア",
-        "年中無休",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "龍岡訪問看護ステーション",
-      "telephone": "03-3811-2688",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "文京区",
-        "streetAddress": "湯島4-9-8"
-      },
-      "parentOrganization": "（医社）龍岡会",
-      "identifier": "1367192206",
-      "faxNumber": "03-3811-2666",
-      "_hours": "8:45〜17:30",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "湯島",
+      "_kind": "営利法人",
+      "_designated": "2017-02-01",
+      "_years": 9.637234770704996,
       "_tags": [
         "湯島エリア",
         "訪問看護"
@@ -390,84 +101,377 @@
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "文京区",
-        "streetAddress": "本駒込2-9-3-202"
+        "streetAddress": "本駒込２－９－３－２０２"
       },
-      "parentOrganization": "ＲＡＢＬＯ（株）",
+      "parentOrganization": "ＲＡＢＬＯ株式会社",
       "identifier": "1360590150",
-      "faxNumber": "03-5981-8615",
-      "_hours": "8:00〜17:00",
-      "_closed": "年中無休",
       "_town": "本駒込",
+      "_kind": "営利法人",
+      "_designated": "2017-08-01",
+      "_years": 9.141683778234086,
       "_tags": [
         "本駒込エリア",
-        "年中無休",
         "訪問看護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "訪問看護ステーション ホームケア文京",
-      "telephone": "03-5615-9715",
+      "name": "ホーム訪問看護ステーション",
+      "telephone": "03-6874-4951",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "文京区",
-        "streetAddress": "小石川2-23-12 エスティビル小石川401"
+        "streetAddress": "湯島３－２２－４第二天野ハイツ１０２"
       },
-      "parentOrganization": "（株）ミレニア",
-      "identifier": "1360590085",
-      "faxNumber": "03-5615-9716",
-      "_hours": "8:45〜17:45",
-      "_closed": "年中無休",
+      "parentOrganization": "合同会社ホーム訪問看護ステーション",
+      "identifier": "1360590176",
+      "_town": "湯島",
+      "_kind": "営利法人",
+      "_designated": "2017-09-01",
+      "_years": 9.05681040383299,
+      "_tags": [
+        "湯島エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ゆい訪問看護ステーション",
+      "telephone": "03-6240-0395",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "本郷３－３４－４本郷ＪＫＨビル３階"
+      },
+      "parentOrganization": "結美株式会社",
+      "identifier": "1360590192",
+      "_town": "本郷",
+      "_kind": "営利法人",
+      "_designated": "2018-03-01",
+      "_years": 8.56125941136208,
+      "_tags": [
+        "本郷エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション東大前",
+      "telephone": "03-3868-2007",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "向丘２－９－１０コート追分１０１"
+      },
+      "parentOrganization": "三誠メディカル株式会社",
+      "identifier": "1360590226",
+      "_town": "向丘",
+      "_kind": "営利法人",
+      "_designated": "2018-06-01",
+      "_years": 8.309377138945928,
+      "_tags": [
+        "向丘エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ゆりの樹訪問看護リハビリステーション",
+      "telephone": "03-6902-9186",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "関口１－２１－１９九條ビル４階"
+      },
+      "parentOrganization": "医療法人社団一専会",
+      "identifier": "1360590242",
+      "_town": "関口",
+      "_kind": "医療法人",
+      "_designated": "2019-02-01",
+      "_years": 7.638603696098563,
+      "_tags": [
+        "関口エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "やよい訪問看護ステーション",
+      "telephone": "03-6240-0738",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "弥生１－５－１１弥生クリニックビル３階"
+      },
+      "parentOrganization": "医療法人社団ＹＡＹＯＩ",
+      "identifier": "1360590291",
+      "_town": "弥生",
+      "_kind": "医療法人",
+      "_designated": "2021-02-01",
+      "_years": 5.637234770704997,
+      "_tags": [
+        "弥生エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "まるまる訪問看護ステーション湯島",
+      "telephone": "03-4431-3226",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "湯島４－６－１２湯島ハイタウンＢ１４１７"
+      },
+      "parentOrganization": "株式会社ＭＩＫＯＴＯ",
+      "identifier": "1360590309",
+      "_town": "湯島",
+      "_kind": "営利法人",
+      "_designated": "2022-09-01",
+      "_years": 4.057494866529774,
+      "_tags": [
+        "湯島エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　はな　本駒込",
+      "telephone": "03-6824-0308",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "本駒込３－２９－８コーポ文京１Ｆ"
+      },
+      "parentOrganization": "株式会社ＯＺビルメンテナンス",
+      "identifier": "1360590325",
+      "_town": "本駒込",
+      "_kind": "営利法人",
+      "_designated": "2023-04-01",
+      "_years": 3.477070499657769,
+      "_tags": [
+        "本駒込エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　ソレイユ　ハートケア",
+      "telephone": "03-6902-9184",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "白山５－１７－１０－１０１"
+      },
+      "parentOrganization": "株式会社Ａｉｌｅ",
+      "identifier": "1360590358",
+      "_town": "白山",
+      "_kind": "営利法人",
+      "_designated": "2024-04-01",
+      "_years": 2.4750171115674195,
+      "_tags": [
+        "白山エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　レインボーコンパス",
+      "telephone": "03-5844-6175",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "本郷３－２－７お茶の水サニービル１階"
+      },
+      "parentOrganization": "一般社団法人レインボーコンパス",
+      "identifier": "1360590366",
+      "_town": "本郷",
+      "_kind": "社団・財団",
+      "_designated": "2025-04-01",
+      "_years": 1.4757015742642026,
+      "_tags": [
+        "本郷エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "おおぞら訪問看護ステーション",
+      "telephone": "03-5615-8677",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "本郷２－３１－８　２階"
+      },
+      "parentOrganization": "株式会社ブルーウイング",
+      "identifier": "1360590382",
+      "_town": "本郷",
+      "_kind": "営利法人",
+      "_designated": "2025-05-01",
+      "_years": 1.3935660506502396,
+      "_tags": [
+        "本郷エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "Ｇｒｉｔ．ｉｎｃ　Ｈｏｍｅ　Ｎｕｒｓｅ　Ｓｔａｔｉｏｎ",
+      "telephone": "03-5261-2877",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "関口１－８－６メゾン文京関口Ⅱ８０３号"
+      },
+      "parentOrganization": "株式会社Ｇｒｉｔ",
+      "identifier": "1360590390",
+      "_town": "関口",
+      "_kind": "営利法人",
+      "_designated": "2025-09-01",
+      "_years": 1.056810403832991,
+      "_tags": [
+        "関口エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＣＯＣＯ訪問看護ステーション",
+      "telephone": "03-5832-9331",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "本駒込４－１９－１１　１０１号室"
+      },
+      "parentOrganization": "株式会社オレンジ",
+      "identifier": "1360590416",
+      "_town": "本駒込",
+      "_kind": "営利法人",
+      "_designated": "2026-03-01",
+      "_years": 0.5612594113620808,
+      "_tags": [
+        "本駒込エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あいあーる東京訪問看護ステーション",
+      "telephone": "03-6240-0208",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "小石川１－１３－１２ＷＡＫＯＵ小石川ビル５階"
+      },
+      "parentOrganization": "あいあーる合同会社",
+      "identifier": "1360590424",
       "_town": "小石川",
+      "_kind": "営利法人",
+      "_designated": "2026-05-01",
+      "_years": 0.3942505133470226,
       "_tags": [
         "小石川エリア",
-        "年中無休",
+        "開設3年以内",
         "訪問看護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "東大看護ステーション目白台",
-      "telephone": "050-3645-9012",
+      "name": "一般社団法人　小石川医師会　訪問看護ステーション",
+      "telephone": "03-3947-0616",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "文京区",
-        "streetAddress": "目白台3-28-10 Ｔｏｎｏｗａ Ｇａｒｄｅｎ目白台"
+        "streetAddress": "小石川５－６－９"
       },
-      "parentOrganization": "（一社）東大看護学実装普及研究所",
-      "identifier": "1360590374",
-      "faxNumber": "050-3730-3287",
-      "_hours": "9:00〜17:00",
-      "_closed": "土・日・年末年始",
-      "_town": "目白台",
+      "parentOrganization": "一般社団法人小石川医師会",
+      "identifier": "1367191240",
+      "_town": "小石川",
+      "_kind": "社団・財団",
+      "_designated": "2000-03-22",
+      "_years": 26.50239561943874,
       "_tags": [
-        "目白台エリア",
+        "小石川エリア",
+        "20年以上",
         "訪問看護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "つねいろ訪問看護ステーション",
-      "telephone": "03-5842-1832",
+      "name": "龍岡訪問看護ステーション",
+      "telephone": "03-3811-2688",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "文京区",
-        "streetAddress": "千駄木1-22-30 ＴＲＵＳＴ ＶＡＬＵＥ千駄木603"
+        "streetAddress": "湯島４－９－８"
       },
-      "parentOrganization": "（同）ｓｕｍｍａ",
-      "identifier": "1360590408",
-      "faxNumber": "03-5842-1834",
-      "_hours": "9:00〜17:00",
-      "_closed": "土・日・祝・夏季・年末年始",
-      "_town": "千駄木",
+      "parentOrganization": "医療法人社団龍岡会",
+      "identifier": "1367192206",
+      "_town": "湯島",
+      "_kind": "医療法人",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
       "_tags": [
-        "千駄木エリア",
+        "湯島エリア",
+        "20年以上",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーションけせら",
+      "telephone": "03-3815-1170",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "本郷３－１５－２本郷二村ビル２０１"
+      },
+      "parentOrganization": "株式会社けせら",
+      "identifier": "1367195712",
+      "_town": "本郷",
+      "_kind": "営利法人",
+      "_designated": "2000-12-01",
+      "_years": 25.806981519507186,
+      "_tags": [
+        "本郷エリア",
+        "20年以上",
         "訪問看護"
       ]
     }
@@ -479,11 +483,11 @@
     },
     {
       "q": "文京区には訪問看護ステーションが何件ありますか？",
-      "a": "2026年9月時点で、介護情報サイトの掲載ベースで約27件のステーションが文京区内にあります。本ページではそのうち20件を連絡先つきで掲載しています。全件は厚生労働省「介護サービス情報公表システム」で確認できます。"
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で文京区内に31件の訪問看護ステーションが指定を受けています。本ページではそのうち20件を連絡先つきで掲載しています。"
     },
     {
       "q": "文京区の掲載事業所は、どこを見て絞り込めばいいですか？",
-      "a": "まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。文京区の掲載20件では年中無休が3件、土日も電話を受けるところを含めると5件あります。そのうえで、ご自宅の町名を伝えて文京区内の対応エリアに入っているかを確認してください。"
+      "a": "まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。文京区の掲載20件では営利法人が15件、医療法人が3件、指定から20年以上の事業所が3件です。そのうえで、ご自宅の町名を伝えて文京区内の対応エリアに入っているかを確認してください。"
     },
     {
       "q": "文京区で夜間や休日に急変したら、来てもらえますか？",
@@ -506,14 +510,15 @@
   "nearby_heading": "近隣エリアの訪問看護",
   "nearby": "<a href=\"{{ROOT}}houmon-kango/tokyo/chiyoda/\">千代田区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/shinjuku/\">新宿区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/toshima/\">豊島区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/kita/\">北区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/arakawa/\">荒川区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/taito/\">台東区</a>",
   "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
     "厚生労働省「介護事業所・生活関連情報検索（介護サービス情報公表システム）」",
     "文京区「高齢者あんしん相談センター一覧」",
     "厚生労働大臣が定める疾病等（訪問看護で医療保険が適用される範囲）",
     "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」訪問看護費／介護報酬の地域区分（1級地・1単位11.40円）",
     "日本郵便 郵便番号データにもとづく文京区の町域一覧",
-    "区内事業所数の目安：ハートページナビ 掲載件数（2026年9月時点）"
+    "区内事業所数：東京都公表の指定事業所一覧にもとづく実数（2026年9月1日時点）"
   ],
-  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず主治医に相談を</h4>\n        <p>訪問看護は主治医の指示書が起点です。制度の分岐はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>文京区内のステーションは約27件</li>\n          <li>起点は主治医の訪問看護指示書</li>\n          <li>30分未満の訪問で約537円（1割）</li>\n          <li>掲載20件のうち年中無休は3件</li>\n          <li>主治医が未定なら高齢者あんしん相談センターへ</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}guide/houmon-kaigo-dekirukoto/\">ヘルパーに頼めること</a></li>\n          <li><a href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみ</a></li>\n        </ul>\n      </div>",
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず主治医に相談を</h4>\n        <p>訪問看護は主治医の指示書が起点です。制度の分岐はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>文京区内のステーションは約31件</li>\n          <li>起点は主治医の訪問看護指示書</li>\n          <li>30分未満の訪問で約537円（1割）</li>\n          <li>掲載20件のうち医療法人は3件</li>\n          <li>主治医が未定なら高齢者あんしん相談センターへ</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}guide/houmon-kaigo-dekirukoto/\">ヘルパーに頼めること</a></li>\n          <li><a href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみ</a></li>\n        </ul>\n      </div>",
   "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
   "hero_image": "assets/ogp-houmon-kango.jpg",
   "towns": {

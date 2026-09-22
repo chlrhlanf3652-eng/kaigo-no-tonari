@@ -1,0 +1,393 @@
+{
+  "slug": "houmon-kango_tokyo_chiyoda",
+  "category": {
+    "id": "houmon-kango",
+    "name": "訪問看護",
+    "path": "/houmon-kango/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "chiyoda",
+    "city_name": "千代田区"
+  },
+  "seo": {
+    "title": "千代田区の訪問看護14事業所｜主治医の指示書から始める【2026年9月更新】",
+    "description": "東京都千代田区の訪問看護ステーション14件を連絡先つきで掲載。区内約14件の中から選ぶための所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
+    "canonical": "https://kaigonotonari.com/houmon-kango/tokyo/chiyoda/",
+    "og_title": "千代田区の訪問看護ステーション一覧｜選び方と始め方",
+    "og_description": "千代田区の訪問看護ステーション14件を掲載。対応できる医療処置の確認と、主治医の指示書から始める流れを解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-houmon-kango.jpg"
+  },
+  "h1": "千代田区の訪問看護ステーション一覧｜選び方と始め方",
+  "published": "2026-09-21",
+  "modified": "2026-09-21",
+  "count_label": "掲載：14事業所",
+  "lead": "東京都千代田区で訪問看護を探している方へ。区内にある約14件のステーションから14件を連絡先つきで掲載し、あわせて所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
+  "listing_note": "千代田区内の訪問看護ステーションから14件を掲載しています（東京都公表・2026年9月1日時点）。区内には14件が指定を受けており、そのすべてを掲載しています。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "アクア訪問看護ステーション",
+      "telephone": "03-3518-6403",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "神田司町２－１７－６新商神田ビル５階"
+      },
+      "parentOrganization": "株式会社ＡＣＴＩＶＥＣＡＲＥＡＧＥＮＣＹ",
+      "identifier": "1360190035",
+      "_town": "神田司町",
+      "_kind": "営利法人",
+      "_designated": "2010-09-01",
+      "_years": 16.057494866529773,
+      "_tags": [
+        "神田司町エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "九段訪問看護ステーション",
+      "telephone": "03-6272-5732",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "九段北１－１０－５九段櫻ビル８階"
+      },
+      "parentOrganization": "株式会社ステラ",
+      "identifier": "1360190043",
+      "_town": "九段北",
+      "_kind": "営利法人",
+      "_designated": "2012-04-01",
+      "_years": 14.47501711156742,
+      "_tags": [
+        "九段北エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "みつい訪問看護ステーション",
+      "telephone": "03-5215-1507",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "飯田橋１－８－９ニューシティハイツ飯田橋７階"
+      },
+      "parentOrganization": "合同会社コミニュティケア",
+      "identifier": "1360190050",
+      "_town": "飯田橋",
+      "_kind": "営利法人",
+      "_designated": "2012-06-01",
+      "_years": 14.30800821355236,
+      "_tags": [
+        "飯田橋エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　ジャンヌ",
+      "telephone": "03-6811-0907",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "神田神保町１－１４－１ＫＤＸ神保町ビル４階"
+      },
+      "parentOrganization": "特定非営利活動法人フローレンス",
+      "identifier": "1360190076",
+      "_town": "神田神保町",
+      "_kind": "非営利法人（NPO）",
+      "_designated": "2014-03-01",
+      "_years": 12.56125941136208,
+      "_tags": [
+        "神田神保町エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "麹町訪問看護ステーション",
+      "telephone": "03-6261-3927",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "二番町１１－２０Ｍｕｓｅｕｍ１９９９二番町ビル１Ｆ"
+      },
+      "parentOrganization": "株式会社ＮＡＲＵＴＯ",
+      "identifier": "1360190134",
+      "_town": "二番町",
+      "_kind": "営利法人",
+      "_designated": "2017-09-01",
+      "_years": 9.05681040383299,
+      "_tags": [
+        "二番町エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "かのん訪問看護ステーションちよだ",
+      "telephone": "03-6261-6776",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "平河町２－３－１０ライオンズマンション平河町７０５号室"
+      },
+      "parentOrganization": "株式会社双泉メディカルサポート",
+      "identifier": "1360190159",
+      "_town": "平河町",
+      "_kind": "営利法人",
+      "_designated": "2021-04-01",
+      "_years": 5.475701574264202,
+      "_tags": [
+        "平河町エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＳｏｉＮｕｒｓｅ訪問看護ステーション",
+      "telephone": "03-6673-3164",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "神田神保町１－１０－３－４Ｆ"
+      },
+      "parentOrganization": "株式会社ＭｅｄｉＢｌａｎｃａ",
+      "identifier": "1360190167",
+      "_town": "神田神保町",
+      "_kind": "営利法人",
+      "_designated": "2021-09-01",
+      "_years": 5.0568104038329915,
+      "_tags": [
+        "神田神保町エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "在宅看護センター番町",
+      "telephone": "03-6910-0397",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "麹町２－１４－６－５０５"
+      },
+      "parentOrganization": "株式会社Ｃｒｅａｄｅ",
+      "identifier": "1360190183",
+      "_town": "麹町",
+      "_kind": "営利法人",
+      "_designated": "2022-11-01",
+      "_years": 3.890485968514716,
+      "_tags": [
+        "麹町エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "りーふ訪問看護ステーション",
+      "telephone": "03-5217-4670",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "神田美土代町９－３"
+      },
+      "parentOrganization": "りーふ訪問看護ステーション合同会社",
+      "identifier": "1360190191",
+      "_town": "神田美土代町",
+      "_kind": "営利法人",
+      "_designated": "2023-12-01",
+      "_years": 2.809034907597536,
+      "_tags": [
+        "神田美土代町エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "セレリアンス訪問看護ステーション",
+      "telephone": "03-6380-8778",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "平河町２－４－８平河町アーバンビル６Ｆ"
+      },
+      "parentOrganization": "セレリアンス株式会社",
+      "identifier": "1360190209",
+      "_town": "平河町",
+      "_kind": "営利法人",
+      "_designated": "2025-08-01",
+      "_years": 1.1416837782340863,
+      "_tags": [
+        "平河町エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＳｍｉＬｏｏｐ訪問看護　新宿千代田ステーション",
+      "telephone": "03-6261-6715",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "飯田橋１－１２－１Ｄａｉｅｉｓｈａビル１階"
+      },
+      "parentOrganization": "スマイルコンバイン株式会社",
+      "identifier": "1360190217",
+      "_town": "飯田橋",
+      "_kind": "営利法人",
+      "_designated": "2026-01-01",
+      "_years": 0.7227926078028748,
+      "_tags": [
+        "飯田橋エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーションやわら",
+      "telephone": "03-4446-1329",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "東神田１－１１－７ハイツ神田岩本町６０４"
+      },
+      "parentOrganization": "Ｔ＆Ｍコンサルティング株式会社",
+      "identifier": "1360190225",
+      "_town": "東神田",
+      "_kind": "営利法人",
+      "_designated": "2026-01-01",
+      "_years": 0.7227926078028748,
+      "_tags": [
+        "東神田エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ゆめか訪問看護ステーション",
+      "telephone": "03-6555-2470",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "神田神保町２－３８－１１岩田ビル３階"
+      },
+      "parentOrganization": "株式会社ゆめかパートナーズ",
+      "identifier": "1360190233",
+      "_town": "神田神保町",
+      "_kind": "営利法人",
+      "_designated": "2026-04-01",
+      "_years": 0.47638603696098564,
+      "_tags": [
+        "神田神保町エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーションゆりえ九段下",
+      "telephone": "07035464648",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "神田神保町２－３２－１１"
+      },
+      "parentOrganization": "エムズナイン株式会社",
+      "identifier": "1360190241",
+      "_town": "神田神保町",
+      "_kind": "営利法人",
+      "_designated": "2026-05-01",
+      "_years": 0.3942505133470226,
+      "_tags": [
+        "神田神保町エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "千代田区で訪問看護を使うには、まず何をすればいいですか？",
+      "a": "主治医に「自宅で訪問看護を使いたい」と伝えるのが最初の一歩です。訪問看護は主治医の指示書がないと始められないため、千代田区のステーションに直接連絡してもそこで止まります。入院中なら退院支援の窓口、主治医が決まっていなければ高齢者あんしんセンターが相談先です。"
+    },
+    {
+      "q": "千代田区には訪問看護ステーションが何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で千代田区内に14件の訪問看護ステーションが指定を受けています。本ページではそのうち14件を連絡先つきで掲載しています。"
+    },
+    {
+      "q": "千代田区の掲載事業所は、どこを見て絞り込めばいいですか？",
+      "a": "まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。千代田区の掲載14件では営利法人が13件、医療法人が0件、指定から20年以上の事業所が0件です。そのうえで、ご自宅の町名を伝えて千代田区内の対応エリアに入っているかを確認してください。"
+    },
+    {
+      "q": "千代田区で夜間や休日に急変したら、来てもらえますか？",
+      "a": "24時間の緊急対応体制をとっているステーションなら、連絡して必要と判断されれば訪問してもらえます。ただしこれは加算のかかる体制で、千代田区内でもすべてのステーションが対応しているわけではありません。上の受付体制の表は電話の受付時間であり、緊急対応の可否とは別ですので、契約前に必ず確認してください。"
+    },
+    {
+      "q": "千代田区で訪問看護の自己負担はいくらくらいですか？",
+      "a": "千代田区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたるため、介護保険で使う場合、訪問看護ステーションからの訪問は20分未満で約358円、30分未満で約537円、30分以上1時間未満で約938円が1割負担の目安です。これは基本報酬だけの金額で、緊急時訪問看護加算などが上乗せされます。医療保険で使う場合は計算が別になるため、千代田区の事業所に実額を確認してください。"
+    },
+    {
+      "q": "医療保険と介護保険のどちらになりますか？",
+      "a": "要介護認定を受けていれば原則として介護保険、受けていなければ医療保険です。ただし国が定める疾病等に当てはまる場合や、急に状態が悪くなって特別訪問看護指示書が出た場合は、認定があっても医療保険になります。千代田区に限らず全国共通の分岐で、判断は主治医とステーションが行います。"
+    },
+    {
+      "q": "千代田区で訪問介護（ヘルパー）と両方使えますか？",
+      "a": "使えます。医療的なケアは訪問看護、身体介護や家事は訪問介護と役割が分かれており、両方を併用する方は珍しくありません。千代田区の訪問介護事業所は同じサイト内にまとめています。介護保険で使う場合は、どちらも区分支給限度基準額の範囲内で組むことになります。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/chiyoda/\">千代田区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/chiyoda/\">千代田区のデイサービス<small>通所介護</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/chiyoda/\">千代田区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/chiyoda/\">千代田区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/chiyoda/\">千代田区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/chiyoda/\">千代田区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアの訪問看護",
+  "nearby": "<a href=\"{{ROOT}}houmon-kango/tokyo/chuo/\">中央区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/minato/\">港区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/shinjuku/\">新宿区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/bunkyo/\">文京区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/taito/\">台東区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「介護事業所・生活関連情報検索（介護サービス情報公表システム）」",
+    "千代田区「高齢者あんしんセンター一覧」",
+    "厚生労働大臣が定める疾病等（訪問看護で医療保険が適用される範囲）",
+    "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」訪問看護費／介護報酬の地域区分（1級地・1単位11.40円）",
+    "日本郵便 郵便番号データにもとづく千代田区の町域一覧",
+    "区内事業所数：東京都公表の指定事業所一覧にもとづく実数（2026年9月1日時点）"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず主治医に相談を</h4>\n        <p>訪問看護は主治医の指示書が起点です。制度の分岐はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>千代田区内のステーションは約14件</li>\n          <li>起点は主治医の訪問看護指示書</li>\n          <li>30分未満の訪問で約537円（1割）</li>\n          <li>掲載14件のうち医療法人は0件</li>\n          <li>主治医が未定なら高齢者あんしんセンターへ</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}guide/houmon-kaigo-dekirukoto/\">ヘルパーに頼めること</a></li>\n          <li><a href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみ</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
+  "hero_image": "assets/ogp-houmon-kango.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "chiyoda"
+  }
+}

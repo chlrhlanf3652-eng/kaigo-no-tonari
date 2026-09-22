@@ -13,7 +13,7 @@
   },
   "seo": {
     "title": "杉並区の訪問看護20事業所｜主治医の指示書から始める【2026年9月更新】",
-    "description": "東京都杉並区の訪問看護ステーション20件を連絡先つきで掲載。区内約67件の中から選ぶための所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
+    "description": "東京都杉並区の訪問看護ステーション20件を連絡先つきで掲載。区内約73件の中から選ぶための所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
     "canonical": "https://kaigonotonari.com/houmon-kango/tokyo/suginami/",
     "og_title": "杉並区の訪問看護ステーション一覧｜選び方と始め方",
     "og_description": "杉並区の訪問看護ステーション20件を掲載。対応できる医療処置の確認と、主治医の指示書から始める流れを解説します。",
@@ -23,26 +23,48 @@
   "published": "2026-09-21",
   "modified": "2026-09-21",
   "count_label": "掲載：20事業所",
-  "lead": "東京都杉並区で訪問看護を探している方へ。区内にある約67件のステーションから20件を連絡先つきで掲載し、あわせて所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
-  "listing_note": "杉並区内の訪問看護ステーションから20件を掲載しています（2026年9月時点）。区内には約67件のステーションがあり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
+  "lead": "東京都杉並区で訪問看護を探している方へ。区内にある約73件のステーションから20件を連絡先つきで掲載し、あわせて所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
+  "listing_note": "杉並区内の訪問看護ステーションから20件を掲載しています（東京都公表・2026年9月1日時点）。区内には73件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
-      "name": "スギコー訪問看護ステーション",
-      "telephone": "03-3247-7500",
+      "name": "訪問看護ステーション　ｃｏ－ｃｏ－ｒｏ",
+      "telephone": "03-6913-6778",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "杉並区",
-        "streetAddress": "高井戸東3-18-7 杉交第2ビル"
+        "streetAddress": "上荻３－２６－１４ドミトリー上荻Ⅱ２０２"
       },
-      "parentOrganization": "スギコー（株）",
-      "identifier": "1361590407",
-      "faxNumber": "03-5344-9261",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・年末年始",
+      "parentOrganization": "一般社団法人産前産後ケア推進協会",
+      "identifier": "1361390261",
+      "_town": "上荻",
+      "_kind": "社団・財団",
+      "_designated": "2019-08-01",
+      "_years": 7.143052703627652,
+      "_tags": [
+        "上荻エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あおい訪問看護ステーション",
+      "telephone": "03-6795-8144",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "高井戸東３－１７－１８"
+      },
+      "parentOrganization": "合同会社Ｙ＆Ｕケア芙蓉会",
+      "identifier": "1361590100",
       "_town": "高井戸東",
+      "_kind": "営利法人",
+      "_designated": "2010-04-01",
+      "_years": 16.476386036960985,
       "_tags": [
         "高井戸東エリア",
         "訪問看護"
@@ -50,69 +72,67 @@
     },
     {
       "@type": "LocalBusiness",
-      "name": "ぱんだ訪問看護リハビリステーション",
-      "telephone": "03-6913-6124",
+      "name": "りんご訪問看護ステーション",
+      "telephone": "03-6454-7990",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "杉並区",
-        "streetAddress": "西荻北2-1-3 シャトルマンション102"
+        "streetAddress": "今川２－２４－１カリフール今川１号棟１０４"
       },
-      "parentOrganization": "（株）ＰＡＮＤＡ",
-      "identifier": "1361590589",
-      "faxNumber": "03-6913-6125",
-      "_hours": "8:30〜17:30",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "西荻北",
+      "parentOrganization": "株式会社シナプス",
+      "identifier": "1361590167",
+      "_town": "今川",
+      "_kind": "営利法人",
+      "_designated": "2011-10-01",
+      "_years": 14.976043805612594,
       "_tags": [
-        "西荻北エリア",
+        "今川エリア",
         "訪問看護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "太陽訪問看護ステーション",
-      "telephone": "03-6315-2664",
+      "name": "メディケアーズ訪問看護リハビリステーション高井戸",
+      "telephone": "03-5344-9700",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "杉並区",
-        "streetAddress": "宮前5-19-10"
+        "streetAddress": "高井戸西２－１０－７新川ビル２Ｆ－２"
       },
-      "parentOrganization": "（有）メディカル・ケア・サービス山中",
-      "identifier": "1361590480",
-      "faxNumber": "03-4291-1245",
-      "_hours": "9:00〜18:00",
-      "_closed": "年中無休",
-      "_town": "宮前",
+      "parentOrganization": "株式会社ＨＰＭ",
+      "identifier": "1361590266",
+      "_town": "高井戸西",
+      "_kind": "営利法人",
+      "_designated": "2015-02-01",
+      "_years": 11.638603696098563,
       "_tags": [
-        "宮前エリア",
-        "年中無休",
+        "高井戸西エリア",
         "訪問看護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "ぴゅあ訪問看護リハビリステーション高円寺",
-      "telephone": "03-5913-8435",
+      "name": "エフリオ訪問看護ステーション",
+      "telephone": "03-5356-1266",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "杉並区",
-        "streetAddress": "高円寺南4-27-7 ラインビルド高円寺・林403"
+        "streetAddress": "阿佐谷北２－１４－５大阪やビル１階"
       },
-      "parentOrganization": "（株）ｈａｌｋａ",
-      "identifier": "1361590928",
-      "faxNumber": "03-5913-8446",
-      "_hours": "9:00〜18:00",
-      "_closed": "年中無休",
-      "_town": "高円寺南",
+      "parentOrganization": "エフリオ株式会社",
+      "identifier": "1361590316",
+      "_town": "阿佐谷北",
+      "_kind": "営利法人",
+      "_designated": "2015-08-01",
+      "_years": 11.143052703627653,
       "_tags": [
-        "高円寺南エリア",
-        "年中無休",
+        "阿佐谷北エリア",
         "訪問看護"
       ]
     },
@@ -125,14 +145,14 @@
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "杉並区",
-        "streetAddress": "上井草4-24-3"
+        "streetAddress": "上井草４－２４－３"
       },
-      "parentOrganization": "（株）ＪＯＹ",
+      "parentOrganization": "株式会社ＪＯＹ",
       "identifier": "1361590415",
-      "faxNumber": "03-6913-8769",
-      "_hours": "8:30〜17:00",
-      "_closed": "土・日・祝・年末年始",
       "_town": "上井草",
+      "_kind": "営利法人",
+      "_designated": "2016-10-01",
+      "_years": 9.973990417522245,
       "_tags": [
         "上井草エリア",
         "訪問看護"
@@ -140,65 +160,21 @@
     },
     {
       "@type": "LocalBusiness",
-      "name": "ふじ訪問看護ステーション",
-      "telephone": "03-5327-8191",
+      "name": "訪問看護ステーション　ユアネーム",
+      "telephone": "03-6915-1347",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "杉並区",
-        "streetAddress": "阿佐谷北4-9-1"
+        "streetAddress": "荻窪３－４１－１９"
       },
-      "parentOrganization": "（同）ふじ訪問看護ステーション",
-      "identifier": "1361590365",
-      "faxNumber": "03-5327-8192",
-      "_hours": "9:00〜17:30",
-      "_closed": "日・祝・年末年始",
-      "_town": "阿佐谷北",
-      "_tags": [
-        "阿佐谷北エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "河北訪問看護・リハビリステーション阿佐谷",
-      "telephone": "03-5913-7977",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "杉並区",
-        "streetAddress": "阿佐谷南1-16-8 ＩＳＭ ＡＳＡＧＡＹＡ6階"
-      },
-      "parentOrganization": "（社医）河北医療財団",
-      "identifier": "1367191232",
-      "faxNumber": "03-5913-7978",
-      "_hours": "9:00〜17:00、土12:00まで",
-      "_closed": "土（午後）・日・祝・年末年始",
-      "_town": "阿佐谷南",
-      "_tags": [
-        "阿佐谷南エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "プライム訪問看護リハビリステーション",
-      "telephone": "03-5335-9873",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "杉並区",
-        "streetAddress": "荻窪5-11-22 榎本ビル4階"
-      },
-      "parentOrganization": "日本総合福祉会（株）",
-      "identifier": "1361590290",
-      "faxNumber": "03-5335-9874",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
+      "parentOrganization": "社会福祉法人呉ハレルヤ会",
+      "identifier": "1361590464",
       "_town": "荻窪",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2017-10-01",
+      "_years": 8.974674880219029,
       "_tags": [
         "荻窪エリア",
         "訪問看護"
@@ -206,23 +182,23 @@
     },
     {
       "@type": "LocalBusiness",
-      "name": "訪問看護ステーションみのり",
-      "telephone": "03-6915-1524",
+      "name": "訪問看護ステーション　デューン高円寺",
+      "telephone": "03-5929-7601",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "杉並区",
-        "streetAddress": "上荻1-24-12 第1浅賀ビル2階C"
+        "streetAddress": "高円寺南４－４０－１７モンコトー２階"
       },
-      "parentOrganization": "トキノ（株）",
-      "identifier": "1361590282",
-      "faxNumber": "03-6915-1466",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・年末年始",
-      "_town": "上荻",
+      "parentOrganization": "株式会社Ｎ・フィールド",
+      "identifier": "1361590522",
+      "_town": "高円寺南",
+      "_kind": "営利法人",
+      "_designated": "2018-10-01",
+      "_years": 7.975359342915811,
       "_tags": [
-        "上荻エリア",
+        "高円寺南エリア",
         "訪問看護"
       ]
     },
@@ -235,173 +211,38 @@
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "杉並区",
-        "streetAddress": "永福4-6-13 アメニティコート2階"
+        "streetAddress": "永福４－６－１３アメニティコート４７０　２階"
       },
-      "parentOrganization": "ソフィアメディ（株）",
+      "parentOrganization": "ソフィアメディ株式会社",
       "identifier": "1361590563",
-      "faxNumber": "03-6265-8614",
-      "_hours": "9:00〜18:00",
-      "_closed": "年中無休",
       "_town": "永福",
+      "_kind": "営利法人",
+      "_designated": "2019-09-01",
+      "_years": 7.058179329226557,
       "_tags": [
         "永福エリア",
-        "年中無休",
         "訪問看護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "荻窪病院訪問看護ステーション",
-      "telephone": "03-5310-3162",
+      "name": "ソフィアメディ訪問看護ステーション下井草",
+      "telephone": "03-6913-8790",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "杉並区",
-        "streetAddress": "今川2-5-7 サニーヒルズ荻窪301"
+        "streetAddress": "下井草２－１９－１９"
       },
-      "parentOrganization": "（医財）荻窪病院",
-      "identifier": "1367193337",
-      "faxNumber": "03-5310-3215",
-      "_hours": "8:30〜17:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "今川",
+      "parentOrganization": "ソフィアメディ株式会社",
+      "identifier": "1361590605",
+      "_town": "下井草",
+      "_kind": "営利法人",
+      "_designated": "2020-02-01",
+      "_years": 6.639288158795345,
       "_tags": [
-        "今川エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ウォームハート訪問看護ステーション",
-      "telephone": "03-4361-2025",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "杉並区",
-        "streetAddress": "上井草3-17-24"
-      },
-      "parentOrganization": "（株）クールヘッド",
-      "identifier": "1361590647",
-      "faxNumber": "03-3397-3199",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・年末年始",
-      "_town": "上井草",
-      "_tags": [
-        "上井草エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "セコム訪問看護ステーションくがやま",
-      "telephone": "03-5336-7722",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "杉並区",
-        "streetAddress": "久我山3-1-30"
-      },
-      "parentOrganization": "セコム医療システム（株）",
-      "identifier": "1361590159",
-      "faxNumber": "03-5336-7762",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "久我山",
-      "_tags": [
-        "久我山エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "すぎなみ中央訪問看護ステーション",
-      "telephone": "03-5305-4841",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "杉並区",
-        "streetAddress": "梅里2-21-1 日新ビル1階"
-      },
-      "parentOrganization": "東京西部保健生活協同組合",
-      "identifier": "1367192867",
-      "faxNumber": "03-5306-2564",
-      "_hours": "9:00〜17:00、土13:00まで",
-      "_closed": "土（午後）・日・祝・年末年始",
-      "_town": "梅里",
-      "_tags": [
-        "梅里エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "訪問看護ステーション山河",
-      "telephone": "03-5344-9105",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "杉並区",
-        "streetAddress": "高井戸東3-30-13"
-      },
-      "parentOrganization": "（社福）さわらび会",
-      "identifier": "1361590621",
-      "faxNumber": "03-5344-9030",
-      "_hours": "9:00〜18:00",
-      "_closed": "年中無休",
-      "_town": "高井戸東",
-      "_tags": [
-        "高井戸東エリア",
-        "年中無休",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "トータルライフケア新中野訪問看護ステーション",
-      "telephone": "03-6382-4951",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "杉並区",
-        "streetAddress": "和田1-29-11"
-      },
-      "parentOrganization": "（株）トータルライフケア",
-      "identifier": "1361590456",
-      "faxNumber": "03-6382-4952",
-      "_hours": "8:45〜17:45",
-      "_closed": "年中無休",
-      "_town": "和田",
-      "_tags": [
-        "和田エリア",
-        "年中無休",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "トータルライフケア杉並訪問看護ステーション",
-      "telephone": "03-6454-7280",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "杉並区",
-        "streetAddress": "清水3-31-10 ｙａｓｈｉｍａビル2階"
-      },
-      "parentOrganization": "（株）トータルライフケア",
-      "identifier": "1361590860",
-      "faxNumber": "03-6454-7281",
-      "_hours": "8:45〜17:45",
-      "_closed": "日・年末年始",
-      "_town": "清水",
-      "_tags": [
-        "清水エリア",
+        "下井草エリア",
         "訪問看護"
       ]
     },
@@ -414,14 +255,14 @@
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "杉並区",
-        "streetAddress": "下井草3-8-5"
+        "streetAddress": "下井草３－８－５"
       },
-      "parentOrganization": "（株）喜咲",
+      "parentOrganization": "株式会社喜咲",
       "identifier": "1361590662",
-      "faxNumber": "03-6913-8591",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・年末年始",
       "_town": "下井草",
+      "_kind": "営利法人",
+      "_designated": "2020-09-01",
+      "_years": 6.056125941136208,
       "_tags": [
         "下井草エリア",
         "訪問看護"
@@ -429,21 +270,65 @@
     },
     {
       "@type": "LocalBusiness",
-      "name": "越川病院訪問看護ステーション",
-      "telephone": "03-3301-7700",
+      "name": "アート訪問看護センター",
+      "telephone": "03-5929-9497",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "杉並区",
-        "streetAddress": "上井草4-5-27-2階"
+        "streetAddress": "梅里１－２１－８"
       },
-      "parentOrganization": "（医社）杏順会",
-      "identifier": "1367197916",
-      "faxNumber": "03-3301-7732",
-      "_hours": "9:00〜17:00",
-      "_closed": "土・日・祝・年末年始",
+      "parentOrganization": "一般社団法人カインドネス",
+      "identifier": "1361590720",
+      "_town": "梅里",
+      "_kind": "社団・財団",
+      "_designated": "2021-05-01",
+      "_years": 5.393566050650239,
+      "_tags": [
+        "梅里エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "セントケアＤＸ訪問看護ステーション高円寺",
+      "telephone": "03-4431-3214",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "高円寺北４－３２－４カーサベルテ３０１号"
+      },
+      "parentOrganization": "セントケアＤＸ株式会社",
+      "identifier": "1361590803",
+      "_town": "高円寺北",
+      "_kind": "営利法人",
+      "_designated": "2022-11-01",
+      "_years": 3.890485968514716,
+      "_tags": [
+        "高円寺北エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "グラン訪問看護ＴＯＫＹＯ",
+      "telephone": "03-6915-0330",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "上井草１－２２－１７浅賀マンション２１０号室"
+      },
+      "parentOrganization": "株式会社グラン訪問看護ＴＯＫＹＯ",
+      "identifier": "1361590845",
       "_town": "上井草",
+      "_kind": "営利法人",
+      "_designated": "2023-04-01",
+      "_years": 3.477070499657769,
       "_tags": [
         "上井草エリア",
         "訪問看護"
@@ -451,24 +336,139 @@
     },
     {
       "@type": "LocalBusiness",
-      "name": "訪問看護ステーション はな 荻窪",
-      "telephone": "03-6823-4666",
+      "name": "医心館　訪問看護ステーション　西荻窪",
+      "telephone": "03-5941-6136",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "杉並区",
-        "streetAddress": "荻窪4-11-16 ドミシール荻窪101"
+        "streetAddress": "松庵３－２４－１８"
       },
-      "parentOrganization": "（株）はな",
-      "identifier": "1361590787",
-      "faxNumber": "03-6771-9867",
-      "_hours": "8:30〜17:30",
-      "_closed": "年中無休",
-      "_town": "荻窪",
+      "parentOrganization": "株式会社アンビス",
+      "identifier": "1361590894",
+      "_town": "松庵",
+      "_kind": "営利法人",
+      "_designated": "2024-03-01",
+      "_years": 2.5598904859685145,
       "_tags": [
-        "荻窪エリア",
-        "年中無休",
+        "松庵エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ファミリー・ホスピス００２",
+      "telephone": "03-3334-0550",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "松庵２－１５－１２"
+      },
+      "parentOrganization": "ファミリー・ホスピス株式会社",
+      "identifier": "1361590936",
+      "_town": "松庵",
+      "_kind": "営利法人",
+      "_designated": "2024-06-01",
+      "_years": 2.308008213552361,
+      "_tags": [
+        "松庵エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　コルディアーレ杉並",
+      "telephone": "03-5929-8960",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "方南１－５３－９髙見澤貸事務所１階"
+      },
+      "parentOrganization": "株式会社ＪＳＨ",
+      "identifier": "1361590993",
+      "_town": "方南",
+      "_kind": "営利法人",
+      "_designated": "2025-04-01",
+      "_years": 1.4757015742642026,
+      "_tags": [
+        "方南エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　ドルチェ",
+      "telephone": "03-5726-9517",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "和泉１－３－１ＢＳビル２階"
+      },
+      "parentOrganization": "医療法人社団ラルゴ",
+      "identifier": "1361591041",
+      "_town": "和泉",
+      "_kind": "医療法人",
+      "_designated": "2026-03-01",
+      "_years": 0.5612594113620808,
+      "_tags": [
+        "和泉エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "医療法人社団　野﨑クリニック　野﨑クリニック訪問看護ステーション",
+      "telephone": "03-3398-3330",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "阿佐谷南３－３７－１３大同ビル２階"
+      },
+      "parentOrganization": "医療法人社団野﨑クリニック",
+      "identifier": "1367191794",
+      "_town": "阿佐谷南",
+      "_kind": "医療法人",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "_tags": [
+        "阿佐谷南エリア",
+        "20年以上",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "杉並区医師会訪問看護ステーション",
+      "telephone": "03-3391-0009",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "天沼３－１９－１４フェニックス杉並１Ｆ"
+      },
+      "parentOrganization": "一般社団法人杉並区医師会",
+      "identifier": "1367193600",
+      "_town": "天沼",
+      "_kind": "社団・財団",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "_tags": [
+        "天沼エリア",
+        "20年以上",
         "訪問看護"
       ]
     }
@@ -480,11 +480,11 @@
     },
     {
       "q": "杉並区には訪問看護ステーションが何件ありますか？",
-      "a": "2026年9月時点で、介護情報サイトの掲載ベースで約67件のステーションが杉並区内にあります。本ページではそのうち20件を連絡先つきで掲載しています。全件は厚生労働省「介護サービス情報公表システム」で確認できます。"
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で杉並区内に73件の訪問看護ステーションが指定を受けています。本ページではそのうち20件を連絡先つきで掲載しています。"
     },
     {
       "q": "杉並区の掲載事業所は、どこを見て絞り込めばいいですか？",
-      "a": "まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。杉並区の掲載20件では年中無休が6件、土日も電話を受けるところを含めると6件あります。そのうえで、ご自宅の町名を伝えて杉並区内の対応エリアに入っているかを確認してください。"
+      "a": "まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。杉並区の掲載20件では営利法人が14件、医療法人が2件、指定から20年以上の事業所が2件です。そのうえで、ご自宅の町名を伝えて杉並区内の対応エリアに入っているかを確認してください。"
     },
     {
       "q": "杉並区で夜間や休日に急変したら、来てもらえますか？",
@@ -507,14 +507,15 @@
   "nearby_heading": "近隣エリアの訪問看護",
   "nearby": "<a href=\"{{ROOT}}houmon-kango/tokyo/nakano/\">中野区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/setagaya/\">世田谷区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/nerima/\">練馬区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/shibuya/\">渋谷区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/mitaka/\">mitaka</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/musashino/\">musashino</a>",
   "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
     "厚生労働省「介護事業所・生活関連情報検索（介護サービス情報公表システム）」",
     "杉並区「ケア24一覧」",
     "厚生労働大臣が定める疾病等（訪問看護で医療保険が適用される範囲）",
     "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」訪問看護費／介護報酬の地域区分（1級地・1単位11.40円）",
     "日本郵便 郵便番号データにもとづく杉並区の町域一覧",
-    "区内事業所数の目安：ハートページナビ 掲載件数（2026年9月時点）"
+    "区内事業所数：東京都公表の指定事業所一覧にもとづく実数（2026年9月1日時点）"
   ],
-  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず主治医に相談を</h4>\n        <p>訪問看護は主治医の指示書が起点です。制度の分岐はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>杉並区内のステーションは約67件</li>\n          <li>起点は主治医の訪問看護指示書</li>\n          <li>30分未満の訪問で約537円（1割）</li>\n          <li>掲載20件のうち年中無休は6件</li>\n          <li>主治医が未定ならケア24へ</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}guide/houmon-kaigo-dekirukoto/\">ヘルパーに頼めること</a></li>\n          <li><a href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみ</a></li>\n        </ul>\n      </div>",
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず主治医に相談を</h4>\n        <p>訪問看護は主治医の指示書が起点です。制度の分岐はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>杉並区内のステーションは約73件</li>\n          <li>起点は主治医の訪問看護指示書</li>\n          <li>30分未満の訪問で約537円（1割）</li>\n          <li>掲載20件のうち医療法人は2件</li>\n          <li>主治医が未定ならケア24へ</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}guide/houmon-kaigo-dekirukoto/\">ヘルパーに頼めること</a></li>\n          <li><a href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみ</a></li>\n        </ul>\n      </div>",
   "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
   "hero_image": "assets/ogp-houmon-kango.jpg",
   "towns": {

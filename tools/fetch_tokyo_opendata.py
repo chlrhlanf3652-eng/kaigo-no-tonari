@@ -46,6 +46,7 @@ SOURCE = "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0�
 # 接頭辞が空のものは cache/<区>.json（訪問介護の既定の置き場）に書く。
 SERVICES = {
     "houmon-kaigo": ("訪問介護", ""),
+    "houmon-kango": ("訪問看護", "kango_"),
     "day-service": ("通所介護", "day_"),
     "short-stay": ("短期入所生活介護", "short_"),
     "fukushi-yogu": ("福祉用具貸与", "yogu_"),

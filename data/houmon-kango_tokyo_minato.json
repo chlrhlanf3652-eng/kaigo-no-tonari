@@ -13,7 +13,7 @@
   },
   "seo": {
     "title": "港区の訪問看護20事業所｜主治医の指示書から始める【2026年9月更新】",
-    "description": "東京都港区の訪問看護ステーション20件を連絡先つきで掲載。区内約72件の中から選ぶための所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
+    "description": "東京都港区の訪問看護ステーション20件を連絡先つきで掲載。区内約41件の中から選ぶための所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
     "canonical": "https://kaigonotonari.com/houmon-kango/tokyo/minato/",
     "og_title": "港区の訪問看護ステーション一覧｜選び方と始め方",
     "og_description": "港区の訪問看護ステーション20件を掲載。対応できる医療処置の確認と、主治医の指示書から始める流れを解説します。",
@@ -23,139 +23,50 @@
   "published": "2026-09-21",
   "modified": "2026-09-21",
   "count_label": "掲載：20事業所",
-  "lead": "東京都港区で訪問看護を探している方へ。区内にある約72件のステーションから20件を連絡先つきで掲載し、あわせて所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
-  "listing_note": "港区内の訪問看護ステーションから20件を掲載しています（2026年9月時点）。区内には約72件のステーションがあり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
+  "lead": "東京都港区で訪問看護を探している方へ。区内にある約41件のステーションから20件を連絡先つきで掲載し、あわせて所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
+  "listing_note": "港区内の訪問看護ステーションから20件を掲載しています（東京都公表・2026年9月1日時点）。区内には41件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
-      "name": "訪問看護ステーション ナースであんしん",
-      "telephone": "03-5475-7720",
+      "name": "キヨタナースステーションみなと",
+      "telephone": "03-5440-5512",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "港区",
-        "streetAddress": "白金台1-1-45-4階"
+        "streetAddress": "芝浦４－３－４田町きよたビル３階"
       },
-      "parentOrganization": "日本プライベート看護（株）",
-      "identifier": "1360990236",
-      "faxNumber": "03-5475-7758",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "白金台",
+      "parentOrganization": "キヨタ・ライフケアサービス株式会社",
+      "identifier": "1360390098",
+      "_town": "芝浦",
+      "_kind": "営利法人",
+      "_designated": "2012-06-01",
+      "_years": 14.30800821355236,
       "_tags": [
-        "白金台エリア",
+        "芝浦エリア",
         "訪問看護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "ガイア訪問看護ステーション 港",
-      "telephone": "03-6435-7940",
+      "name": "医療法人社団光輝会青山メディケア訪問看護ステーション",
+      "telephone": "03-6450-6799",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "港区",
-        "streetAddress": "浜松町1-19-4 佐藤ビル1階"
+        "streetAddress": "南青山７－１３－６青山メディケア１階"
       },
-      "parentOrganization": "（株）ガイアメディケア",
-      "identifier": "1360390270",
-      "faxNumber": "03-6435-7941",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "浜松町",
+      "parentOrganization": "医療法人社団光輝会",
+      "identifier": "1360390148",
+      "_town": "南青山",
+      "_kind": "医療法人",
+      "_designated": "2016-02-01",
+      "_years": 10.639288158795345,
       "_tags": [
-        "浜松町エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ＣＬＡＳＷＥＬＬ 白金台訪問看護ステーション",
-      "telephone": "03-3440-5440",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "港区",
-        "streetAddress": "白金台2-13-5"
-      },
-      "parentOrganization": "ＫＣ－Ｗｅｌｆａｒｅ（株）",
-      "identifier": "1360390692",
-      "faxNumber": "03-3440-5441",
-      "_hours": "9:00〜18:00",
-      "_closed": "年中無休",
-      "_town": "白金台",
-      "_tags": [
-        "白金台エリア",
-        "年中無休",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "悠々ナーシング 六本木",
-      "telephone": "03-6447-5290",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "港区",
-        "streetAddress": "六本木6-5-25"
-      },
-      "parentOrganization": "ミアヘルサ（株）",
-      "identifier": "1360390189",
-      "faxNumber": "03-6447-5291",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・年末年始",
-      "_town": "六本木",
-      "_tags": [
-        "六本木エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "済生会三田訪問看護ステーション",
-      "telephone": "03-3451-8939",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "港区",
-        "streetAddress": "三田1-4-17 東京都済生会中央病院北棟7階"
-      },
-      "parentOrganization": "（社福）恩賜財団済生会支部東京都済生会",
-      "identifier": "1367192297",
-      "faxNumber": "03-3451-8703",
-      "_hours": "8:30〜17:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "三田",
-      "_tags": [
-        "三田エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "訪問看護ステーションすてら",
-      "telephone": "03-6457-2969",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "港区",
-        "streetAddress": "台場1-5-4 トミンハイム台場五番街202"
-      },
-      "parentOrganization": "（医社）宙麦会",
-      "identifier": "1360390478",
-      "faxNumber": "03-6457-1523",
-      "_hours": "9:00〜18:00、土15:00まで",
-      "_closed": "日・祝・夏季・年末年始",
-      "_town": "台場",
-      "_tags": [
-        "台場エリア",
+        "南青山エリア",
         "訪問看護"
       ]
     },
@@ -168,83 +79,16 @@
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "港区",
-        "streetAddress": "西麻布1-14-2 疋田ビル202"
+        "streetAddress": "西麻布１－１４－２疋田ビル２０２"
       },
-      "parentOrganization": "ライフ・ケア・コンシェルジュ（株）",
+      "parentOrganization": "ライフ・ケア・コンシェルジュ株式会社",
       "identifier": "1360390197",
-      "faxNumber": "03-6447-1461",
-      "_hours": "9:00〜18:00",
-      "_closed": "年末年始",
       "_town": "西麻布",
+      "_kind": "営利法人",
+      "_designated": "2017-11-01",
+      "_years": 8.889801505817934,
       "_tags": [
         "西麻布エリア",
-        "土日も受付",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ハービー＆マックローリン・陽だまり訪問看護ステーション",
-      "telephone": "03-5791-1435",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "港区",
-        "streetAddress": "高輪3-19-23-702"
-      },
-      "parentOrganization": "Ｈａｒｖｅｙ＆Ｍａｃｌａｕｒｉｎ ＮＰＯ法人",
-      "identifier": "1360390403",
-      "faxNumber": "03-5423-7410",
-      "_hours": "9:00〜17:00",
-      "_closed": "土・日・年末年始",
-      "_town": "高輪",
-      "_tags": [
-        "高輪エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "プレモ訪問看護リハビリステーション",
-      "telephone": "03-6441-3917",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "港区",
-        "streetAddress": "東麻布2-29-11 シャローム東麻布103"
-      },
-      "parentOrganization": "（株）Ｐｒｅｍｏ",
-      "identifier": "1360390395",
-      "faxNumber": "03-6441-3916",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "東麻布",
-      "_tags": [
-        "東麻布エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "訪問看護ステーション「さくら咲くあかさか」",
-      "telephone": "03-5544-8596",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "港区",
-        "streetAddress": "赤坂7-5-15 フロムファースト赤坂202"
-      },
-      "parentOrganization": "（株）さんご",
-      "identifier": "1360390635",
-      "faxNumber": "03-5544-8597",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "赤坂",
-      "_tags": [
-        "赤坂エリア",
         "訪問看護"
       ]
     },
@@ -257,14 +101,14 @@
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "港区",
-        "streetAddress": "白金台5-10-13 メゾンＩＴＯ地下1階"
+        "streetAddress": "白金台５－１０－１３メゾンＩＴＯ地下１階"
       },
-      "parentOrganization": "（株）ワイワイワークス",
+      "parentOrganization": "株式会社ワイワイワークス",
       "identifier": "1360390221",
-      "faxNumber": "03-6812-6088",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝",
       "_town": "白金台",
+      "_kind": "営利法人",
+      "_designated": "2018-06-01",
+      "_years": 8.309377138945928,
       "_tags": [
         "白金台エリア",
         "訪問看護"
@@ -272,111 +116,43 @@
     },
     {
       "@type": "LocalBusiness",
-      "name": "悠翔会訪問看護ステーション東京",
-      "telephone": "03-5733-5277",
+      "name": "メディカルステーションくるみ",
+      "telephone": "03-6811-5686",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "港区",
-        "streetAddress": "新橋5-14-10 新橋スクエアビル7階"
+        "streetAddress": "芝１－９－２ベルメゾン芝３０３"
       },
-      "parentOrganization": "（医社）悠翔会",
-      "identifier": "1360390593",
-      "faxNumber": "03-5733-5266",
-      "_hours": "8:30〜17:30",
-      "_closed": "土・日・年末年始",
-      "_town": "新橋",
+      "parentOrganization": "株式会社ＱＲＥＡＴＯＲＳ",
+      "identifier": "1360390254",
+      "_town": "芝",
+      "_kind": "営利法人",
+      "_designated": "2018-10-01",
+      "_years": 7.975359342915811,
       "_tags": [
-        "新橋エリア",
+        "芝エリア",
         "訪問看護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "グッドライフケア訪問看護 ａｔ ｈｏｍｅ",
-      "telephone": "03-6441-0938",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "港区",
-        "streetAddress": "東麻布1-10-11 東麻布アベビル3階"
-      },
-      "parentOrganization": "（株）グッドライフケア東京",
-      "identifier": "1360390585",
-      "faxNumber": "03-6630-8093",
-      "_hours": "9:00〜18:00",
-      "_closed": "年中無休",
-      "_town": "東麻布",
-      "_tags": [
-        "東麻布エリア",
-        "年中無休",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "８８訪問看護ステーション",
-      "telephone": "03-6434-5885",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "港区",
-        "streetAddress": "六本木3-16-35 イースト六本木704"
-      },
-      "parentOrganization": "８８ホームメディカルケア（株）",
-      "identifier": "1360390551",
-      "faxNumber": "03-6434-5977",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・年末年始",
-      "_town": "六本木",
-      "_tags": [
-        "六本木エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "訪問看護ステーション 蒼-ＡＯ-",
+      "name": "訪問看護ステーション　蒼",
       "telephone": "03-6408-5144",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "港区",
-        "streetAddress": "高輪3-24-21 ＤＫ品川ビル4階"
+        "streetAddress": "高輪３－２４－２１ＤＫ品川ビル４階"
       },
-      "parentOrganization": "（株）エイムス",
+      "parentOrganization": "株式会社エイムス",
       "identifier": "1360390304",
-      "faxNumber": "03-6277-3654",
-      "_hours": "9:00〜18:00",
-      "_closed": "年中無休",
       "_town": "高輪",
-      "_tags": [
-        "高輪エリア",
-        "年中無休",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "東京高輪病院附属訪問看護ステーション",
-      "telephone": "03-5447-5114",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "港区",
-        "streetAddress": "高輪3-10-11"
-      },
-      "parentOrganization": "独立行政法人 地域医療機能推進機構",
-      "identifier": "1360390239",
-      "faxNumber": "03-3443-9570",
-      "_hours": "8:30〜17:15",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "高輪",
+      "_kind": "営利法人",
+      "_designated": "2020-02-01",
+      "_years": 6.639288158795345,
       "_tags": [
         "高輪エリア",
         "訪問看護"
@@ -384,90 +160,317 @@
     },
     {
       "@type": "LocalBusiness",
-      "name": "メディカルステーション くるみ",
-      "telephone": "03-6823-8612",
+      "name": "テラナーシングステーション",
+      "telephone": "03-6277-0888",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "港区",
-        "streetAddress": "芝1-9-2-303"
+        "streetAddress": "白金３－１３－７－３０３"
       },
-      "parentOrganization": "（株）ＱＲＥＡＴＯＲＳ",
-      "identifier": "1360390254",
-      "faxNumber": "03-6811-5560",
-      "_hours": "24時間",
-      "_closed": "年中無休",
+      "parentOrganization": "一般社団法人テラ",
+      "identifier": "1360390338",
+      "_town": "白金",
+      "_kind": "社団・財団",
+      "_designated": "2020-04-01",
+      "_years": 6.4750171115674195,
+      "_tags": [
+        "白金エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "おうちナース　プリュム",
+      "telephone": "03-6435-2215",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "芝３－１３－１ＭＫビル５０２"
+      },
+      "parentOrganization": "株式会社プリュム",
+      "identifier": "1360390387",
       "_town": "芝",
+      "_kind": "営利法人",
+      "_designated": "2021-07-01",
+      "_years": 5.2265571526351815,
       "_tags": [
         "芝エリア",
-        "年中無休",
         "訪問看護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "リハビリの風訪問看護ステーション みなと",
+      "name": "ハービー＆マックローリン・陽だまり訪問看護ステーション",
+      "telephone": "03-5791-1435",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "高輪３－１９－２３－７０２号"
+      },
+      "parentOrganization": "Ｈａｒｖｅｙ＆Ｍａｃｌａｕｒｉｎ特定非営利活動法人",
+      "identifier": "1360390403",
+      "_town": "高輪",
+      "_kind": "非営利法人（NPO）",
+      "_designated": "2021-11-01",
+      "_years": 4.889801505817933,
+      "_tags": [
+        "高輪エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーションいつき～樹～",
+      "telephone": "03-6432-5354",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "白金６－１０－１１白金レジデンス１０２号室"
+      },
+      "parentOrganization": "株式会社ｔｈｅｅｄｇｅ",
+      "identifier": "1360390452",
+      "_town": "白金",
+      "_kind": "営利法人",
+      "_designated": "2022-11-01",
+      "_years": 3.890485968514716,
+      "_tags": [
+        "白金エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "みる看る訪問看護ステーション",
+      "telephone": "03-6450-3307",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "南麻布４－４－２１－１０２"
+      },
+      "parentOrganization": "ラボナス株式会社",
+      "identifier": "1360390510",
+      "_town": "南麻布",
+      "_kind": "営利法人",
+      "_designated": "2023-07-01",
+      "_years": 3.2279260780287475,
+      "_tags": [
+        "南麻布エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　ブラキオ",
+      "telephone": "03-6317-2883",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "芝３－１７－２青木ハイツ４０１"
+      },
+      "parentOrganization": "株式会社ＤｉｎｏＨｅａｒｔｚ",
+      "identifier": "1360390536",
+      "_town": "芝",
+      "_kind": "営利法人",
+      "_designated": "2023-10-01",
+      "_years": 2.976043805612594,
+      "_tags": [
+        "芝エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "北青山ＰＳＷ訪問看護ステーション",
+      "telephone": "03-4400-2796",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "北青山１－４－１"
+      },
+      "parentOrganization": "株式会社北青山ＰＳＷオフィス",
+      "identifier": "1360390569",
+      "_town": "北青山",
+      "_kind": "営利法人",
+      "_designated": "2023-12-01",
+      "_years": 2.809034907597536,
+      "_tags": [
+        "北青山エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ハイメディック訪問看護ステーションおりおん",
+      "telephone": "03-5772-8675",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "北青山１－２－１８大富外苑コープ６A"
+      },
+      "parentOrganization": "株式会社ハイメディック",
+      "identifier": "1360390627",
+      "_town": "北青山",
+      "_kind": "営利法人",
+      "_designated": "2024-11-01",
+      "_years": 1.88911704312115,
+      "_tags": [
+        "北青山エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "咲む訪問看護ステーション",
+      "telephone": "03-6271-5426",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "北青山１－４－１ランジェ青山６１１"
+      },
+      "parentOrganization": "株式会社セブンス",
+      "identifier": "1360390643",
+      "_town": "北青山",
+      "_kind": "営利法人",
+      "_designated": "2024-12-01",
+      "_years": 1.8069815195071868,
+      "_tags": [
+        "北青山エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション和奏",
+      "telephone": "03-6804-1022",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "南青山２－６－３"
+      },
+      "parentOrganization": "医療法人財団湖聖会",
+      "identifier": "1360390676",
+      "_town": "南青山",
+      "_kind": "医療法人",
+      "_designated": "2025-04-01",
+      "_years": 1.4757015742642026,
+      "_tags": [
+        "南青山エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＣＬＡＳＷＥＬＬ　白金台訪問看護ステーション",
+      "telephone": "03-3440-5440",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "白金台２－１３－５"
+      },
+      "parentOrganization": "ＫＣ－Ｗｅｌｆａｒｅ株式会社",
+      "identifier": "1360390692",
+      "_town": "白金台",
+      "_kind": "営利法人",
+      "_designated": "2025-11-01",
+      "_years": 0.8898015058179329,
+      "_tags": [
+        "白金台エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "リハビリの風訪問看護ステーションみなと",
       "telephone": "03-6435-4763",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "港区",
-        "streetAddress": "芝3-6-5"
+        "streetAddress": "芝３－６－５"
       },
-      "parentOrganization": "（有）リハビリの風",
-      "identifier": "1367198161",
-      "faxNumber": "03-6435-4764",
-      "_hours": "9:00〜17:00",
-      "_closed": "土・日・祝・年末年始",
+      "parentOrganization": "株式会社ガイアメディケア",
+      "identifier": "1360390718",
       "_town": "芝",
+      "_kind": "営利法人",
+      "_designated": "2025-12-01",
+      "_years": 0.8076659822039699,
       "_tags": [
         "芝エリア",
+        "開設3年以内",
         "訪問看護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "訪問看護ステーションはなみずき",
-      "telephone": "03-6722-6613",
+      "name": "産前産後ケアステーション　Ｍｉｒａｉ　Ｂｉｒｔｈ　麻布",
+      "telephone": "03-6859-8476",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "港区",
-        "streetAddress": "三田2-7-7 ザ・パームス三田502"
+        "streetAddress": "南麻布３－２０－１ＤＡＩＷＡ麻布テラス５階　５３２"
       },
-      "parentOrganization": "（株）オーシャン",
-      "identifier": "1360390528",
-      "faxNumber": "03-6809-4601",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "三田",
+      "parentOrganization": "株式会社ＭＥＤＩＣＡＬＳＨＩＦＴ",
+      "identifier": "1360390734",
+      "_town": "南麻布",
+      "_kind": "営利法人",
+      "_designated": "2026-09-01",
+      "_years": 0.057494866529774126,
       "_tags": [
-        "三田エリア",
+        "南麻布エリア",
+        "開設3年以内",
         "訪問看護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "あいず訪問看護ステーション芝浦",
-      "telephone": "03-6812-8212",
+      "name": "リハビリ訪問看護ステーション陽花",
+      "telephone": "03-6721-7160",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "港区",
-        "streetAddress": "芝浦3-4-1-103-Ａ2"
+        "streetAddress": "高輪２－１６－３６高輪チトセハイツ３０５号室"
       },
-      "parentOrganization": "（株）あいず",
-      "identifier": "1360390700",
-      "faxNumber": "03-6812-8213",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "芝浦",
+      "parentOrganization": "株式会社ＢＡＢＹ’Ｓ　ＢＲＥＡＴＨ",
+      "identifier": "1360990277",
+      "_town": "高輪",
+      "_kind": "営利法人",
+      "_designated": "2016-03-01",
+      "_years": 10.559890485968515,
       "_tags": [
-        "芝浦エリア",
+        "高輪エリア",
         "訪問看護"
       ]
     }
@@ -479,11 +482,11 @@
     },
     {
       "q": "港区には訪問看護ステーションが何件ありますか？",
-      "a": "2026年9月時点で、介護情報サイトの掲載ベースで約72件のステーションが港区内にあります。本ページではそのうち20件を連絡先つきで掲載しています。全件は厚生労働省「介護サービス情報公表システム」で確認できます。"
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で港区内に41件の訪問看護ステーションが指定を受けています。本ページではそのうち20件を連絡先つきで掲載しています。"
     },
     {
       "q": "港区の掲載事業所は、どこを見て絞り込めばいいですか？",
-      "a": "まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。港区の掲載20件では年中無休が4件、土日も電話を受けるところを含めると5件あります。そのうえで、ご自宅の町名を伝えて港区内の対応エリアに入っているかを確認してください。"
+      "a": "まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。港区の掲載20件では営利法人が16件、医療法人が2件、指定から20年以上の事業所が0件です。そのうえで、ご自宅の町名を伝えて港区内の対応エリアに入っているかを確認してください。"
     },
     {
       "q": "港区で夜間や休日に急変したら、来てもらえますか？",
@@ -506,14 +509,15 @@
   "nearby_heading": "近隣エリアの訪問看護",
   "nearby": "<a href=\"{{ROOT}}houmon-kango/tokyo/chiyoda/\">千代田区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/chuo/\">中央区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/shinagawa/\">品川区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/shibuya/\">渋谷区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/shinjuku/\">新宿区</a>",
   "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
     "厚生労働省「介護事業所・生活関連情報検索（介護サービス情報公表システム）」",
     "港区「高齢者相談センター一覧」",
     "厚生労働大臣が定める疾病等（訪問看護で医療保険が適用される範囲）",
     "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」訪問看護費／介護報酬の地域区分（1級地・1単位11.40円）",
     "日本郵便 郵便番号データにもとづく港区の町域一覧",
-    "区内事業所数の目安：ハートページナビ 掲載件数（2026年9月時点）"
+    "区内事業所数：東京都公表の指定事業所一覧にもとづく実数（2026年9月1日時点）"
   ],
-  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず主治医に相談を</h4>\n        <p>訪問看護は主治医の指示書が起点です。制度の分岐はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>港区内のステーションは約72件</li>\n          <li>起点は主治医の訪問看護指示書</li>\n          <li>30分未満の訪問で約537円（1割）</li>\n          <li>掲載20件のうち年中無休は4件</li>\n          <li>主治医が未定なら高齢者相談センターへ</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}guide/houmon-kaigo-dekirukoto/\">ヘルパーに頼めること</a></li>\n          <li><a href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみ</a></li>\n        </ul>\n      </div>",
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず主治医に相談を</h4>\n        <p>訪問看護は主治医の指示書が起点です。制度の分岐はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>港区内のステーションは約41件</li>\n          <li>起点は主治医の訪問看護指示書</li>\n          <li>30分未満の訪問で約537円（1割）</li>\n          <li>掲載20件のうち医療法人は2件</li>\n          <li>主治医が未定なら高齢者相談センターへ</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}guide/houmon-kaigo-dekirukoto/\">ヘルパーに頼めること</a></li>\n          <li><a href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみ</a></li>\n        </ul>\n      </div>",
   "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
   "hero_image": "assets/ogp-houmon-kango.jpg",
   "towns": {

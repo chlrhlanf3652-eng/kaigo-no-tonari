@@ -13,7 +13,7 @@
   },
   "seo": {
     "title": "品川区の訪問看護20事業所｜主治医の指示書から始める【2026年9月更新】",
-    "description": "東京都品川区の訪問看護ステーション20件を連絡先つきで掲載。区内約60件の中から選ぶための所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
+    "description": "東京都品川区の訪問看護ステーション20件を連絡先つきで掲載。区内約48件の中から選ぶための所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
     "canonical": "https://kaigonotonari.com/houmon-kango/tokyo/shinagawa/",
     "og_title": "品川区の訪問看護ステーション一覧｜選び方と始め方",
     "og_description": "品川区の訪問看護ステーション20件を掲載。対応できる医療処置の確認と、主治医の指示書から始める流れを解説します。",
@@ -23,137 +23,26 @@
   "published": "2026-09-21",
   "modified": "2026-09-21",
   "count_label": "掲載：20事業所",
-  "lead": "東京都品川区で訪問看護を探している方へ。区内にある約60件のステーションから20件を連絡先つきで掲載し、あわせて所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
-  "listing_note": "品川区内の訪問看護ステーションから20件を掲載しています（2026年9月時点）。区内には約60件のステーションがあり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
+  "lead": "東京都品川区で訪問看護を探している方へ。区内にある約48件のステーションから20件を連絡先つきで掲載し、あわせて所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
+  "listing_note": "品川区内の訪問看護ステーションから20件を掲載しています（東京都公表・2026年9月1日時点）。区内には48件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
-      "name": "レディーバグ訪問看護ステーション武蔵小山",
-      "telephone": "03-6426-9671",
+      "name": "クレール訪問看護ステーション",
+      "telephone": "03-6824-4330",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "品川区",
-        "streetAddress": "荏原4-14-7-1階"
+        "streetAddress": "旗の台２－８－６ピアース旗の台６０５"
       },
-      "parentOrganization": "（株）レインボー・ナース",
-      "identifier": "1360990202",
-      "faxNumber": "03-6426-9702",
-      "_hours": "9:00〜17:15",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "荏原",
-      "_tags": [
-        "荏原エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ザオーケア訪問看護ステーション大崎",
-      "telephone": "03-5747-9686",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "品川区",
-        "streetAddress": "大崎4-4-24 ａｏｚｏｒａ．ｓｏ 3-Ａ"
-      },
-      "parentOrganization": "アリア（株）",
-      "identifier": "1360990640",
-      "faxNumber": "03-5747-9688",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "大崎",
-      "_tags": [
-        "大崎エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ともに訪問看護ステーション",
-      "telephone": "03-6686-4611",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "品川区",
-        "streetAddress": "西大井6-9-3 ヴィラロトンダ1階"
-      },
-      "parentOrganization": "Ｃｏｎｔｉｎｕｅｓ（株）",
-      "identifier": "1360990574",
-      "faxNumber": "03-6837-7343",
-      "_hours": "8:45〜17:45",
-      "_closed": "日・年末年始",
-      "_town": "西大井",
-      "_tags": [
-        "西大井エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ソフィアメディ訪問看護ステーション小山",
-      "telephone": "03-5749-1657",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "品川区",
-        "streetAddress": "小山7-10-1 ロワール洗足102"
-      },
-      "parentOrganization": "ソフィアメディ（株）",
-      "identifier": "1367196926",
-      "faxNumber": "03-5749-1658",
-      "_hours": "9:00〜18:00",
-      "_closed": "年中無休",
-      "_town": "小山",
-      "_tags": [
-        "小山エリア",
-        "年中無休",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ほっとホームケア訪問看護ステーション",
-      "telephone": "03-6421-5951",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "品川区",
-        "streetAddress": "戸越5-14-24 ＩＴＯビル4階"
-      },
-      "parentOrganization": "鳳優商事（株）",
-      "identifier": "1360990186",
-      "faxNumber": "03-6421-5952",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "戸越",
-      "_tags": [
-        "戸越エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "訪問看護ステーション デライト品川",
-      "telephone": "03-6421-6283",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "品川区",
-        "streetAddress": "旗の台2-8-6 Ｆｅｌｉｃｅ Ｈａｔａｇａｏｋａ1階"
-      },
-      "parentOrganization": "（株）Ｈ＆Ｈホールディングス",
-      "identifier": "1360990426",
-      "faxNumber": "03-6421-6284",
-      "_hours": "9:00〜18:00",
-      "_closed": "日・年末年始",
+      "parentOrganization": "株式会社ｐａｒｆａｉｔ",
+      "identifier": "1360490583",
       "_town": "旗の台",
+      "_kind": "営利法人",
+      "_designated": "2023-04-01",
+      "_years": 3.477070499657769,
       "_tags": [
         "旗の台エリア",
         "訪問看護"
@@ -161,68 +50,133 @@
     },
     {
       "@type": "LocalBusiness",
-      "name": "ツインハート在宅クリニック品川",
-      "telephone": "03-6424-4439",
+      "name": "ソフィアメディ訪問看護ステーション豊町",
+      "telephone": "03-6865-1030",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "品川区",
-        "streetAddress": "大井1-55-6 牧ビル201"
+        "streetAddress": "西品川２－１－２２サザンヒル３階"
       },
-      "parentOrganization": "（医社）双愛会",
-      "identifier": "1310935635",
-      "faxNumber": "03-6735-4390",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "大井",
+      "parentOrganization": "ソフィアメディ株式会社",
+      "identifier": "1360990087",
+      "_town": "西品川",
+      "_kind": "営利法人",
+      "_designated": "2011-09-01",
+      "_years": 15.058179329226558,
       "_tags": [
-        "大井エリア",
+        "西品川エリア",
         "訪問看護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "あいらく訪問看護ステーション 大崎",
-      "telephone": "03-6431-9578",
+      "name": "ケアメイト品川訪問看護ステーション",
+      "telephone": "03-6303-7834",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "品川区",
-        "streetAddress": "大崎5-4-12 日床ビル2階"
+        "streetAddress": "西大井２－４－１４"
       },
-      "parentOrganization": "（株）Ｖｉｖｉ Ｌｕｋｅ",
-      "identifier": "1360990525",
-      "faxNumber": "03-6431-9579",
-      "_hours": "9:00〜18:00",
-      "_closed": "年中無休",
-      "_town": "大崎",
+      "parentOrganization": "株式会社ケアメイト",
+      "identifier": "1360990111",
+      "_town": "西大井",
+      "_kind": "営利法人",
+      "_designated": "2013-07-01",
+      "_years": 13.22655715263518,
       "_tags": [
-        "大崎エリア",
-        "年中無休",
+        "西大井エリア",
         "訪問看護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "ライフケアーサービスセンター訪問看護ステーション",
-      "telephone": "03-3471-3908",
+      "name": "訪問看護ステーションｃａｒｎａ五反田",
+      "telephone": "03-5496-8774",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "品川区",
-        "streetAddress": "北品川3-3-3 東和ビル3階"
+        "streetAddress": "西五反田３－１０－９ｃａｒｎａ五反田６階"
       },
-      "parentOrganization": "（株）ライフケアーサービスセンター",
-      "identifier": "1367197619",
-      "faxNumber": "03-3471-3899",
-      "_hours": "9:00〜17:00",
-      "_closed": "日・祝・年末年始",
-      "_town": "北品川",
+      "parentOrganization": "医療法人社団東光会",
+      "identifier": "1360990194",
+      "_town": "西五反田",
+      "_kind": "医療法人",
+      "_designated": "2015-02-01",
+      "_years": 11.638603696098563,
       "_tags": [
-        "北品川エリア",
+        "西五反田エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "喜楽訪問看護ステーション",
+      "telephone": "03-6459-6705",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "品川区",
+        "streetAddress": "南大井６－１６－１２大森コーポビアネーズ４０７号"
+      },
+      "parentOrganization": "株式会社ＭＫＨ企画",
+      "identifier": "1360990244",
+      "_town": "南大井",
+      "_kind": "営利法人",
+      "_designated": "2016-01-01",
+      "_years": 10.72416153319644,
+      "_tags": [
+        "南大井エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "にしおおい訪問看護ステーション",
+      "telephone": "03-6303-7040",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "品川区",
+        "streetAddress": "西大井２－４－４"
+      },
+      "parentOrganization": "社会福祉法人春光福祉会",
+      "identifier": "1360990319",
+      "_town": "西大井",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2018-01-01",
+      "_years": 8.722792607802875,
+      "_tags": [
+        "西大井エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ソフィアメディ訪問看護ステーション青物横丁",
+      "telephone": "03-5796-3219",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "品川区",
+        "streetAddress": "南品川２－１７－３４　２階"
+      },
+      "parentOrganization": "ソフィアメディ株式会社",
+      "identifier": "1360990343",
+      "_town": "南品川",
+      "_kind": "営利法人",
+      "_designated": "2019-01-01",
+      "_years": 7.723477070499658,
+      "_tags": [
+        "南品川エリア",
         "訪問看護"
       ]
     },
@@ -235,106 +189,127 @@
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "品川区",
-        "streetAddress": "東五反田1-5-1 ユニーブル島津山606"
+        "streetAddress": "東五反田１－５－１ユニーブル島津山６０６号室"
       },
-      "parentOrganization": "プラチナ看護（株）",
+      "parentOrganization": "プラチナ看護株式会社",
       "identifier": "1360990392",
-      "faxNumber": "03-6409-6358",
-      "_hours": "9:00〜18:00",
-      "_closed": "年中無休",
       "_town": "東五反田",
+      "_kind": "営利法人",
+      "_designated": "2019-11-01",
+      "_years": 6.891170431211499,
       "_tags": [
         "東五反田エリア",
-        "年中無休",
         "訪問看護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "かかりつけ訪問看護ステーション",
-      "telephone": "03-6426-6276",
+      "name": "訪問看護ステーション　デライト品川",
+      "telephone": "03-6421-6283",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "品川区",
-        "streetAddress": "中延3-11-2 モアナハウス102"
+        "streetAddress": "旗の台２－８－６Ｆｅｌｉｃｅ　Ｈａｔａｇａｏｋａ　１階"
       },
-      "parentOrganization": "（株）在宅看護センター品川",
-      "identifier": "1360990483",
-      "faxNumber": "03-6426-7033",
-      "_hours": "8:30〜17:30",
-      "_closed": "年末年始",
-      "_town": "中延",
+      "parentOrganization": "株式会社Ｈ＆Ｈホールディングス",
+      "identifier": "1360990426",
+      "_town": "旗の台",
+      "_kind": "営利法人",
+      "_designated": "2020-12-01",
+      "_years": 5.806981519507187,
       "_tags": [
-        "中延エリア",
-        "土日も受付",
+        "旗の台エリア",
         "訪問看護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "愛恩訪問看護ステーション品川",
-      "telephone": "03-6433-2552",
+      "name": "ＡＳＨＣＡＲＥ　訪問看護ステーション",
+      "telephone": "03-6417-9262",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "品川区",
-        "streetAddress": "東品川2-2-25 サンウッド品川天王洲タワー1306"
+        "streetAddress": "西五反田５－１１－８不動前マンション４０５"
       },
-      "parentOrganization": "愛恩（株）",
-      "identifier": "1360990632",
-      "faxNumber": "03-6433-2783",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・年末年始",
-      "_town": "東品川",
-      "_tags": [
-        "東品川エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "訪問看護ステーションウェイオブライフ",
-      "telephone": "03-6260-0660",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "品川区",
-        "streetAddress": "北品川1-24-19 ハイツ青木103"
-      },
-      "parentOrganization": "（同）ウェイオブライフ",
-      "identifier": "1360990566",
-      "faxNumber": "03-6260-0659",
-      "_hours": "9:00〜18:00",
-      "_closed": "日・祝",
-      "_town": "北品川",
-      "_tags": [
-        "北品川エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "訪問看護ステーションｃａｒｎａ（カルナ）五反田",
-      "telephone": "03-5496-8774",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "品川区",
-        "streetAddress": "西五反田3-10-9 ｃａｒｎａ五反田6階"
-      },
-      "parentOrganization": "（医社）武蔵野会",
-      "identifier": "1360990194",
-      "faxNumber": "03-5496-8780",
-      "_hours": "9:00〜17:30、土13:00まで",
-      "_closed": "土（午後）・日・年末年始",
+      "parentOrganization": "株式会社ＡＳＨＣＡＲＥ",
+      "identifier": "1360990467",
       "_town": "西五反田",
+      "_kind": "営利法人",
+      "_designated": "2021-06-01",
+      "_years": 5.308692676249144,
       "_tags": [
         "西五反田エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ぬくまる看護",
+      "telephone": "03-6451-2278",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "品川区",
+        "streetAddress": "小山台１－２２－８昭和ビル２階"
+      },
+      "parentOrganization": "株式会社コウゼン",
+      "identifier": "1360990491",
+      "_town": "小山台",
+      "_kind": "営利法人",
+      "_designated": "2022-07-01",
+      "_years": 4.227241615331964,
+      "_tags": [
+        "小山台エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あいらく訪問看護ステーション　大崎",
+      "telephone": "03-6431-9578",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "品川区",
+        "streetAddress": "大崎５－４－１２日床ビル２Ｆ"
+      },
+      "parentOrganization": "株式会社ＶｉｖｉＬｕｋｅ",
+      "identifier": "1360990525",
+      "_town": "大崎",
+      "_kind": "営利法人",
+      "_designated": "2023-04-01",
+      "_years": 3.477070499657769,
+      "_tags": [
+        "大崎エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "医心館　訪問看護ステーション　大井町",
+      "telephone": "03-6712-3530",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "品川区",
+        "streetAddress": "東大井４－１２－１４"
+      },
+      "parentOrganization": "株式会社アンビス",
+      "identifier": "1360990558",
+      "_town": "東大井",
+      "_kind": "営利法人",
+      "_designated": "2023-11-01",
+      "_years": 2.891170431211499,
+      "_tags": [
+        "東大井エリア",
+        "開設3年以内",
         "訪問看護"
       ]
     },
@@ -347,60 +322,132 @@
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "品川区",
-        "streetAddress": "南大井2-9-2-2階"
+        "streetAddress": "南大井２－９－２　２Ｆ"
       },
-      "parentOrganization": "ウェルグリーン（株）",
+      "parentOrganization": "ウェルグリーン株式会社",
       "identifier": "1360990590",
-      "faxNumber": "03-3298-4784",
-      "_hours": "9:00〜17:30",
-      "_closed": "土・日・祝",
       "_town": "南大井",
+      "_kind": "営利法人",
+      "_designated": "2024-04-01",
+      "_years": 2.4750171115674195,
       "_tags": [
         "南大井エリア",
+        "開設3年以内",
         "訪問看護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "訪問看護ステーションこころ",
-      "telephone": "03-6712-2839",
+      "name": "Ｋｉｄｓ　Ｉｎｎｏｖａｔｉｏｎ　訪問看護",
+      "telephone": "03-6435-3423",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "品川区",
-        "streetAddress": "旗の台6-24-12 旗の台サマリヤマンション101"
+        "streetAddress": "大崎２－７－５Ｍｙ　Ｓｔｙｌｅ　Ｏｓａｋｉ　１０２"
       },
-      "parentOrganization": "（株）こころ",
-      "identifier": "1360990368",
-      "faxNumber": "03-6712-2845",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・年末年始",
+      "parentOrganization": "株式会社ＫｉｄｓＩｎｎｏｖａｔｉｏｎ",
+      "identifier": "1360990624",
+      "_town": "大崎",
+      "_kind": "営利法人",
+      "_designated": "2025-02-01",
+      "_years": 1.6372347707049966,
+      "_tags": [
+        "大崎エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション・湯～亀",
+      "telephone": "03-5788-9655",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "品川区",
+        "streetAddress": "旗の台４－５－１７"
+      },
+      "parentOrganization": "有限会社新井湯",
+      "identifier": "1360990657",
       "_town": "旗の台",
+      "_kind": "営利法人",
+      "_designated": "2025-08-01",
+      "_years": 1.1416837782340863,
       "_tags": [
         "旗の台エリア",
+        "開設3年以内",
         "訪問看護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "フローカ訪問看護ステーション",
-      "telephone": "03-6665-0891",
+      "name": "訪問看護ひまわりガーデンプレイス",
+      "telephone": "03-6899-4814",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "品川区",
-        "streetAddress": "南大井6-13-8"
+        "streetAddress": "小山台１－１０－３"
       },
-      "parentOrganization": "フローカ（株）",
-      "identifier": "1360990418",
-      "faxNumber": "050-3606-5588",
-      "_hours": "10:00〜17:00",
-      "_closed": "土・日・祝・年末年始",
+      "parentOrganization": "株式会社グリーンラボ",
+      "identifier": "1360990673",
+      "_town": "小山台",
+      "_kind": "営利法人",
+      "_designated": "2025-12-01",
+      "_years": 0.8076659822039699,
+      "_tags": [
+        "小山台エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "指定訪問看護アットリハ大森",
+      "telephone": "03-6271-6184",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "品川区",
+        "streetAddress": "南大井６－４－１"
+      },
+      "parentOrganization": "株式会社ＡＴ",
+      "identifier": "1360990699",
       "_town": "南大井",
+      "_kind": "営利法人",
+      "_designated": "2026-08-01",
+      "_years": 0.14236824093086928,
       "_tags": [
         "南大井エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "医師会立品川区訪問看護ステーション",
+      "telephone": "03-3472-5518",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "品川区",
+        "streetAddress": "北品川３－７－２５"
+      },
+      "parentOrganization": "一般社団法人品川区医師会",
+      "identifier": "1367191075",
+      "_town": "北品川",
+      "_kind": "社団・財団",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "_tags": [
+        "北品川エリア",
+        "20年以上",
         "訪問看護"
       ]
     },
@@ -413,61 +460,17 @@
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "品川区",
-        "streetAddress": "東大井4-9-1"
+        "streetAddress": "東大井４－９－１"
       },
-      "parentOrganization": "（社福）さくら会",
+      "parentOrganization": "社会福祉法人さくら会",
       "identifier": "1367194657",
-      "faxNumber": "03-5495-7085",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
       "_town": "東大井",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
       "_tags": [
         "東大井エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "元気訪問看護ステーション",
-      "telephone": "03-5715-5386",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "品川区",
-        "streetAddress": "北品川2-9-21"
-      },
-      "parentOrganization": "（有）アローズ",
-      "identifier": "1360990012",
-      "faxNumber": "03-5715-5528",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・年末年始",
-      "_town": "北品川",
-      "_tags": [
-        "北品川エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "和ごころ訪問看護ステーション",
-      "telephone": "03-5718-0288",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "品川区",
-        "streetAddress": "大井4-24-20 ガーデニアヴィラ1階"
-      },
-      "parentOrganization": "（株）ＩＭＵＺＡ",
-      "identifier": "1360990442",
-      "faxNumber": "03-4500-1440",
-      "_hours": "9:00〜18:00",
-      "_closed": "年中無休",
-      "_town": "大井",
-      "_tags": [
-        "大井エリア",
-        "年中無休",
+        "20年以上",
         "訪問看護"
       ]
     }
@@ -479,11 +482,11 @@
     },
     {
       "q": "品川区には訪問看護ステーションが何件ありますか？",
-      "a": "2026年9月時点で、介護情報サイトの掲載ベースで約60件のステーションが品川区内にあります。本ページではそのうち20件を連絡先つきで掲載しています。全件は厚生労働省「介護サービス情報公表システム」で確認できます。"
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で品川区内に48件の訪問看護ステーションが指定を受けています。本ページではそのうち20件を連絡先つきで掲載しています。"
     },
     {
       "q": "品川区の掲載事業所は、どこを見て絞り込めばいいですか？",
-      "a": "まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。品川区の掲載20件では年中無休が4件、土日も電話を受けるところを含めると5件あります。そのうえで、ご自宅の町名を伝えて品川区内の対応エリアに入っているかを確認してください。"
+      "a": "まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。品川区の掲載20件では営利法人が16件、医療法人が1件、指定から20年以上の事業所が2件です。そのうえで、ご自宅の町名を伝えて品川区内の対応エリアに入っているかを確認してください。"
     },
     {
       "q": "品川区で夜間や休日に急変したら、来てもらえますか？",
@@ -506,14 +509,15 @@
   "nearby_heading": "近隣エリアの訪問看護",
   "nearby": "<a href=\"{{ROOT}}houmon-kango/tokyo/minato/\">港区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/meguro/\">目黒区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/ota/\">大田区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/koto/\">江東区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/setagaya/\">世田谷区</a>",
   "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
     "厚生労働省「介護事業所・生活関連情報検索（介護サービス情報公表システム）」",
     "品川区「在宅介護支援センター一覧」",
     "厚生労働大臣が定める疾病等（訪問看護で医療保険が適用される範囲）",
     "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」訪問看護費／介護報酬の地域区分（1級地・1単位11.40円）",
     "日本郵便 郵便番号データにもとづく品川区の町域一覧",
-    "区内事業所数の目安：ハートページナビ 掲載件数（2026年9月時点）"
+    "区内事業所数：東京都公表の指定事業所一覧にもとづく実数（2026年9月1日時点）"
   ],
-  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず主治医に相談を</h4>\n        <p>訪問看護は主治医の指示書が起点です。制度の分岐はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>品川区内のステーションは約60件</li>\n          <li>起点は主治医の訪問看護指示書</li>\n          <li>30分未満の訪問で約537円（1割）</li>\n          <li>掲載20件のうち年中無休は4件</li>\n          <li>主治医が未定なら在宅介護支援センターへ</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}guide/houmon-kaigo-dekirukoto/\">ヘルパーに頼めること</a></li>\n          <li><a href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみ</a></li>\n        </ul>\n      </div>",
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず主治医に相談を</h4>\n        <p>訪問看護は主治医の指示書が起点です。制度の分岐はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>品川区内のステーションは約48件</li>\n          <li>起点は主治医の訪問看護指示書</li>\n          <li>30分未満の訪問で約537円（1割）</li>\n          <li>掲載20件のうち医療法人は1件</li>\n          <li>主治医が未定なら在宅介護支援センターへ</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}guide/houmon-kaigo-dekirukoto/\">ヘルパーに頼めること</a></li>\n          <li><a href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみ</a></li>\n        </ul>\n      </div>",
   "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
   "hero_image": "assets/ogp-houmon-kango.jpg",
   "towns": {

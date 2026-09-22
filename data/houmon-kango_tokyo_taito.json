@@ -13,7 +13,7 @@
   },
   "seo": {
     "title": "台東区の訪問看護20事業所｜主治医の指示書から始める【2026年9月更新】",
-    "description": "東京都台東区の訪問看護ステーション20件を連絡先つきで掲載。区内約34件の中から選ぶための所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
+    "description": "東京都台東区の訪問看護ステーション20件を連絡先つきで掲載。区内約33件の中から選ぶための所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
     "canonical": "https://kaigonotonari.com/houmon-kango/tokyo/taito/",
     "og_title": "台東区の訪問看護ステーション一覧｜選び方と始め方",
     "og_description": "台東区の訪問看護ステーション20件を掲載。対応できる医療処置の確認と、主治医の指示書から始める流れを解説します。",
@@ -23,73 +23,28 @@
   "published": "2026-09-21",
   "modified": "2026-09-21",
   "count_label": "掲載：20事業所",
-  "lead": "東京都台東区で訪問看護を探している方へ。区内にある約34件のステーションから20件を連絡先つきで掲載し、あわせて所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
-  "listing_note": "台東区内の訪問看護ステーションから20件を掲載しています（2026年9月時点）。区内には約34件のステーションがあり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
+  "lead": "東京都台東区で訪問看護を探している方へ。区内にある約33件のステーションから20件を連絡先つきで掲載し、あわせて所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
+  "listing_note": "台東区内の訪問看護ステーションから20件を掲載しています（東京都公表・2026年9月1日時点）。区内には33件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
-      "name": "訪問看護ステーションはなえ",
-      "telephone": "03-6802-3874",
+      "name": "いきいきＳＵＮ訪問看護リハビリステーション",
+      "telephone": "03-5809-1761",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "台東区",
-        "streetAddress": "千束3-9-9 齋藤ビル2階"
+        "streetAddress": "浅草橋１－３２－６コスモス浅草橋酒井ビル６Ｆ"
       },
-      "parentOrganization": "（一社）輝翔会",
-      "identifier": "1360690331",
-      "faxNumber": "03-6802-3804",
-      "_hours": "10:00〜18:00",
-      "_closed": "年中無休",
-      "_town": "千束",
+      "parentOrganization": "株式会社メディセプト",
+      "identifier": "1360290074",
+      "_town": "浅草橋",
+      "_kind": "営利法人",
+      "_designated": "2014-10-01",
+      "_years": 11.97535934291581,
       "_tags": [
-        "千束エリア",
-        "年中無休",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "訪問看護ステーション あずき",
-      "telephone": "03-3874-5661",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "台東区",
-        "streetAddress": "千束3-5-10 リヴゴーシュｉＭ1階"
-      },
-      "parentOrganization": "（株）海月ＫＵＲＡＧＥ",
-      "identifier": "1360690216",
-      "faxNumber": "03-3874-5662",
-      "_hours": "9:00〜17:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "千束",
-      "_tags": [
-        "千束エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "グレース訪問看護ステーション城東",
-      "telephone": "03-6802-3051",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "台東区",
-        "streetAddress": "入谷1-8-11 グレースタワー4階"
-      },
-      "parentOrganization": "（一社）在宅医療協会",
-      "identifier": "1360690356",
-      "faxNumber": "03-6802-3052",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "入谷",
-      "_tags": [
-        "入谷エリア",
+        "浅草橋エリア",
         "訪問看護"
       ]
     },
@@ -102,39 +57,16 @@
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "台東区",
-        "streetAddress": "浅草橋3-19-2 冨士ビル3階"
+        "streetAddress": "浅草橋３－１９－２富士ビル３階"
       },
-      "parentOrganization": "ソフィアメディ（株）",
+      "parentOrganization": "ソフィアメディ株式会社",
       "identifier": "1360290207",
-      "faxNumber": "03-6667-0703",
-      "_hours": "9:00〜18:00",
-      "_closed": "年中無休",
       "_town": "浅草橋",
+      "_kind": "営利法人",
+      "_designated": "2019-01-01",
+      "_years": 7.723477070499658,
       "_tags": [
         "浅草橋エリア",
-        "年中無休",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "訪問看護ステーション いろどり",
-      "telephone": "03-5246-4939",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "台東区",
-        "streetAddress": "東上野6-30-2 山岸荘1階"
-      },
-      "parentOrganization": "（株）いろどり",
-      "identifier": "1360690315",
-      "faxNumber": "03-6231-6305",
-      "_hours": "9:00〜17:30",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "東上野",
-      "_tags": [
-        "東上野エリア",
         "訪問看護"
       ]
     },
@@ -147,218 +79,16 @@
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "台東区",
-        "streetAddress": "雷門2-6-3 ユニカ雷門ビル2階"
+        "streetAddress": "雷門２－１１－１０コモドール雷門１Ｆ"
       },
-      "parentOrganization": "（医社）トータルライフ医療会",
+      "parentOrganization": "医療法人社団トータルライフ医療会",
       "identifier": "1360690075",
-      "faxNumber": "03-5827-3656",
-      "_hours": "9:00〜17:00",
-      "_closed": "土・日・祝・夏季・年末年始",
       "_town": "雷門",
+      "_kind": "医療法人",
+      "_designated": "2012-12-01",
+      "_years": 13.806981519507186,
       "_tags": [
         "雷門エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "きょう訪問看護リハビリステーション浅草",
-      "telephone": "050-1721-5100",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "台東区",
-        "streetAddress": "橋場1-14-2 メゾンＯＫＡ101"
-      },
-      "parentOrganization": "（株）Ｋｙｏ",
-      "identifier": "1360690380",
-      "faxNumber": "03-6745-9309",
-      "_hours": "8:30〜17:30",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "橋場",
-      "_tags": [
-        "橋場エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ほほえみ訪問看護リハビリステーション",
-      "telephone": "03-5830-6905",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "台東区",
-        "streetAddress": "小島2-21-18 ＴＸ小島ビル5階"
-      },
-      "parentOrganization": "（株）ダイシン",
-      "identifier": "1360690257",
-      "faxNumber": "03-5830-6906",
-      "_hours": "9:00〜18:00",
-      "_closed": "年中無休",
-      "_town": "小島",
-      "_tags": [
-        "小島エリア",
-        "年中無休",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "オハナケア訪問看護ステーション根岸",
-      "telephone": "03-3874-4448",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "台東区",
-        "streetAddress": "根岸3-1-16 ラウレア901"
-      },
-      "parentOrganization": "（株）オハナケア",
-      "identifier": "1360690307",
-      "faxNumber": "03-6240-6625",
-      "_hours": "8:30〜17:30",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "根岸",
-      "_tags": [
-        "根岸エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ことぶき 訪問看護ステーション",
-      "telephone": "03-3844-0628",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "台東区",
-        "streetAddress": "寿1-10-20-2階"
-      },
-      "parentOrganization": "（医社）博腎会",
-      "identifier": "1360690182",
-      "faxNumber": "03-3842-3712",
-      "_hours": "8:30〜16:30",
-      "_closed": "日・年末年始",
-      "_town": "寿",
-      "_tags": [
-        "寿エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "いきいきＳＵＮ訪問看護リハビリステーション",
-      "telephone": "03-5809-1761",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "台東区",
-        "streetAddress": "浅草橋1-32-6 コスモス浅草橋酒井ビル6階"
-      },
-      "parentOrganization": "（株）メディセプト",
-      "identifier": "1360290074",
-      "faxNumber": "03-5809-1766",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "浅草橋",
-      "_tags": [
-        "浅草橋エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "あしなら訪問看護ステーション",
-      "telephone": "03-5808-7942",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "台東区",
-        "streetAddress": "千束2-19-7 コーポ梅沢Ⅱ-4階"
-      },
-      "parentOrganization": "ＧＯＪＯ（株）",
-      "identifier": "1360690323",
-      "faxNumber": "03-5808-7943",
-      "_hours": "24時間",
-      "_closed": "年中無休",
-      "_town": "千束",
-      "_tags": [
-        "千束エリア",
-        "年中無休",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "かきつばた訪問看護ステーション",
-      "telephone": "03-5809-2951",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "台東区",
-        "streetAddress": "北上野1-11-13 前島ビル"
-      },
-      "parentOrganization": "（株）ＮＥＸＴ ｌｅＢＥＬＬ",
-      "identifier": "1360690166",
-      "faxNumber": "03-5809-2952",
-      "_hours": "8:30〜17:30",
-      "_closed": "年中無休",
-      "_town": "北上野",
-      "_tags": [
-        "北上野エリア",
-        "年中無休",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "訪問看護ステーション コスモス",
-      "telephone": "03-3871-7228",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "台東区",
-        "streetAddress": "日本堤1-1-7-2階"
-      },
-      "parentOrganization": "ＮＰＯ法人 訪問看護ステーションコスモス",
-      "identifier": "1367195415",
-      "faxNumber": "03-3871-7229",
-      "_hours": "9:30〜17:30",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "日本堤",
-      "_tags": [
-        "日本堤エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ポアル訪問看護ステーション",
-      "telephone": "03-3873-7809",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "台東区",
-        "streetAddress": "浅草6-21-14 関口ビル1階"
-      },
-      "parentOrganization": "（株）ＴＡＩ",
-      "identifier": "1360690406",
-      "faxNumber": "03-5849-4653",
-      "_hours": "9:00〜18:00",
-      "_closed": "年中無休",
-      "_town": "浅草",
-      "_tags": [
-        "浅草エリア",
-        "年中無休",
         "訪問看護"
       ]
     },
@@ -371,14 +101,14 @@
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "台東区",
-        "streetAddress": "台東3-17-1 ダイアパレス御徒町Ⅴ-304"
+        "streetAddress": "台東３－１７－１ダイアパレス御徒町Ｖ３０４"
       },
-      "parentOrganization": "（株）Ｇｅｎｔｅｎ Ｌｉｎｋｓ",
+      "parentOrganization": "株式会社Ｇｅｎｔｅｎ　Ｌｉｎｋｓ",
       "identifier": "1360690083",
-      "faxNumber": "03-3833-5557",
-      "_hours": "9:00〜18:00",
-      "_closed": "日・祝・年末年始",
       "_town": "台東",
+      "_kind": "営利法人",
+      "_designated": "2015-01-01",
+      "_years": 11.723477070499658,
       "_tags": [
         "台東エリア",
         "訪問看護"
@@ -386,24 +116,222 @@
     },
     {
       "@type": "LocalBusiness",
-      "name": "訪問看護ステーションちるな",
-      "telephone": "03-6802-4374",
+      "name": "訪問看護ステーションＴＯＭＯ浅草",
+      "telephone": "03-5603-2828",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "台東区",
-        "streetAddress": "松が谷3-6-8 ＭａｉｓｏｎＭｏｍｏ2階"
+        "streetAddress": "浅草３－３６－９小宮ビル１Ｆ"
       },
-      "parentOrganization": "（株）ｃｈｉｌｌｎａ",
-      "identifier": "1360690273",
-      "faxNumber": "03-6802-4375",
-      "_hours": "9:00〜18:00",
-      "_closed": "年中無休",
-      "_town": "松が谷",
+      "parentOrganization": "株式会社Ｈｕｍａｎ　Ｎｅｘｔ",
+      "identifier": "1360690133",
+      "_town": "浅草",
+      "_kind": "営利法人",
+      "_designated": "2017-04-01",
+      "_years": 9.475701574264203,
       "_tags": [
-        "松が谷エリア",
-        "年中無休",
+        "浅草エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "こもれび訪問看護リハビリステーション",
+      "telephone": "03-6802-7671",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "花川戸１－１５－１フェスタ花川戸８０１"
+      },
+      "parentOrganization": "ｏｎｅ’ｓ　ｈｅａｒｔ株式会社",
+      "identifier": "1360690158",
+      "_town": "花川戸",
+      "_kind": "営利法人",
+      "_designated": "2017-08-01",
+      "_years": 9.141683778234086,
+      "_tags": [
+        "花川戸エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "かきつばた訪問看護ステーション",
+      "telephone": "03-5809-2951",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "北上野１－１１－１３前島ビル"
+      },
+      "parentOrganization": "株式会社ＮＥＸＴ　ｌｅＢＥＬＬ",
+      "identifier": "1360690166",
+      "_town": "北上野",
+      "_kind": "営利法人",
+      "_designated": "2018-08-01",
+      "_years": 8.14236824093087,
+      "_tags": [
+        "北上野エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "医療法人社団博腎会　ことぶき　訪問看護ステーション",
+      "telephone": "03-3844-0628",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "寿１－１０－２０－２Ｆ"
+      },
+      "parentOrganization": "医療法人社団博腎会",
+      "identifier": "1360690182",
+      "_town": "寿",
+      "_kind": "医療法人",
+      "_designated": "2019-02-01",
+      "_years": 7.638603696098563,
+      "_tags": [
+        "寿エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　あずき",
+      "telephone": "03-3874-5661",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "千束３－５－１０リヴゴーシュｉＭ１階"
+      },
+      "parentOrganization": "株式会社海月ＫＵＲＡＧＥ",
+      "identifier": "1360690216",
+      "_town": "千束",
+      "_kind": "営利法人",
+      "_designated": "2020-10-01",
+      "_years": 5.973990417522245,
+      "_tags": [
+        "千束エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ほほえみ訪問看護リハビリステーション",
+      "telephone": "03-5830-6905",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "小島２－２１－１８ＴＸ小島ビル５階"
+      },
+      "parentOrganization": "株式会社ダイシン",
+      "identifier": "1360690257",
+      "_town": "小島",
+      "_kind": "営利法人",
+      "_designated": "2021-05-01",
+      "_years": 5.393566050650239,
+      "_tags": [
+        "小島エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　アンテリア",
+      "telephone": "03-5829-9455",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "蔵前４－１６－４東京都ラベル印刷ビル　２階"
+      },
+      "parentOrganization": "特定非営利活動法人Ａｌｍａ",
+      "identifier": "1360690281",
+      "_town": "蔵前",
+      "_kind": "非営利法人（NPO）",
+      "_designated": "2023-01-01",
+      "_years": 3.7234770704996576,
+      "_tags": [
+        "蔵前エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "オハナケア訪問看護ステーション根岸",
+      "telephone": "03-3874-4448",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "根岸３－１－１６－９０１号ラウレア"
+      },
+      "parentOrganization": "株式会社オハナケア",
+      "identifier": "1360690307",
+      "_town": "根岸",
+      "_kind": "営利法人",
+      "_designated": "2023-06-01",
+      "_years": 3.3100616016427105,
+      "_tags": [
+        "根岸エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　いろどり",
+      "telephone": "03-5246-4939",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "東上野６－３０－２山岸荘１Ｆ"
+      },
+      "parentOrganization": "株式会社いろどり",
+      "identifier": "1360690315",
+      "_town": "東上野",
+      "_kind": "営利法人",
+      "_designated": "2023-09-01",
+      "_years": 3.058179329226557,
+      "_tags": [
+        "東上野エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーションはなえ",
+      "telephone": "03-6802-3874",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "千束３－９－９齋藤ビル2階"
+      },
+      "parentOrganization": "一般社団法人輝翔会",
+      "identifier": "1360690331",
+      "_town": "千束",
+      "_kind": "社団・財団",
+      "_designated": "2023-12-01",
+      "_years": 2.809034907597536,
+      "_tags": [
+        "千束エリア",
+        "開設3年以内",
         "訪問看護"
       ]
     },
@@ -416,60 +344,132 @@
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "台東区",
-        "streetAddress": "日本堤1-1-11 ヴィータローザＣＱレジデンス302"
+        "streetAddress": "日本堤１－１－１１ヴィータローザＣＱレジデンス３０２"
       },
-      "parentOrganization": "（株）Ｓｍｉｌｅ．Ｎｓ",
+      "parentOrganization": "株式会社Ｓｍｉｌｅ．ｎｓ",
       "identifier": "1360690364",
-      "faxNumber": "03-6802-4055",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
       "_town": "日本堤",
+      "_kind": "営利法人",
+      "_designated": "2024-05-01",
+      "_years": 2.3928815879534566,
       "_tags": [
         "日本堤エリア",
+        "開設3年以内",
         "訪問看護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "浅草二天門クリニック",
-      "telephone": "03-5830-0121",
+      "name": "訪問看護ＢＨ",
+      "telephone": "03-5808-9512",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "台東区",
-        "streetAddress": "浅草2-34-7-2階"
+        "streetAddress": "根岸２－２０－５パストラル根岸７０１"
       },
-      "parentOrganization": "（医社）廣和会",
-      "identifier": "1310630616",
-      "faxNumber": "03-5830-0122",
-      "_hours": "9:00〜18:00",
-      "_closed": "木・日・祝・夏季・年末年始",
-      "_town": "浅草",
-      "_tags": [
-        "浅草エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "かとう医院",
-      "telephone": "03-5603-7161",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "台東区",
-        "streetAddress": "根岸3-12-14"
-      },
-      "parentOrganization": "（医社）浩佳会",
-      "identifier": "1310629014",
-      "faxNumber": "03-5603-7163",
-      "_hours": "9:00〜18:30、土13:00まで、火12:30〜18:00",
-      "_closed": "土（午後）・日・祝・年末年始",
+      "parentOrganization": "ＢＨ株式会社",
+      "identifier": "1360690372",
       "_town": "根岸",
+      "_kind": "営利法人",
+      "_designated": "2024-09-01",
+      "_years": 2.0561259411362083,
       "_tags": [
         "根岸エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "そらのいろ訪問看護ステーション台東荒川",
+      "telephone": "03-6802-3576",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "根岸２－１６－１１倉沢ビル２０１"
+      },
+      "parentOrganization": "株式会社メイディット",
+      "identifier": "1360690398",
+      "_town": "根岸",
+      "_kind": "営利法人",
+      "_designated": "2025-06-01",
+      "_years": 1.3086926762491444,
+      "_tags": [
+        "根岸エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "リニエ訪問看護ステーション台東",
+      "telephone": "03-5808-1505",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "根岸３－１８－１６水野ビル３Ｆ"
+      },
+      "parentOrganization": "株式会社リニエＲ",
+      "identifier": "1360690414",
+      "_town": "根岸",
+      "_kind": "営利法人",
+      "_designated": "2026-04-01",
+      "_years": 0.47638603696098564,
+      "_tags": [
+        "根岸エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "みねっと訪問看護ステーション",
+      "telephone": "03-4405-8532",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "柳橋１－１１－５柳橋ビル５０１"
+      },
+      "parentOrganization": "合同会社Ｒｉｒｅ",
+      "identifier": "1360690422",
+      "_town": "柳橋",
+      "_kind": "営利法人",
+      "_designated": "2026-06-01",
+      "_years": 0.30937713894592744,
+      "_tags": [
+        "柳橋エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーションコスモス",
+      "telephone": "03-3871-7228",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "日本堤１－１－７"
+      },
+      "parentOrganization": "特定非営利活動法人訪問看護ステーションコスモス",
+      "identifier": "1367195415",
+      "_town": "日本堤",
+      "_kind": "非営利法人（NPO）",
+      "_designated": "2000-06-01",
+      "_years": 26.308008213552363,
+      "_tags": [
+        "日本堤エリア",
+        "20年以上",
         "訪問看護"
       ]
     }
@@ -481,11 +481,11 @@
     },
     {
       "q": "台東区には訪問看護ステーションが何件ありますか？",
-      "a": "2026年9月時点で、介護情報サイトの掲載ベースで約34件のステーションが台東区内にあります。本ページではそのうち20件を連絡先つきで掲載しています。全件は厚生労働省「介護サービス情報公表システム」で確認できます。"
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で台東区内に33件の訪問看護ステーションが指定を受けています。本ページではそのうち20件を連絡先つきで掲載しています。"
     },
     {
       "q": "台東区の掲載事業所は、どこを見て絞り込めばいいですか？",
-      "a": "まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。台東区の掲載20件では年中無休が7件、土日も電話を受けるところを含めると7件あります。そのうえで、ご自宅の町名を伝えて台東区内の対応エリアに入っているかを確認してください。"
+      "a": "まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。台東区の掲載20件では営利法人が15件、医療法人が2件、指定から20年以上の事業所が1件です。そのうえで、ご自宅の町名を伝えて台東区内の対応エリアに入っているかを確認してください。"
     },
     {
       "q": "台東区で夜間や休日に急変したら、来てもらえますか？",
@@ -508,14 +508,15 @@
   "nearby_heading": "近隣エリアの訪問看護",
   "nearby": "<a href=\"{{ROOT}}houmon-kango/tokyo/chiyoda/\">千代田区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/chuo/\">中央区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/bunkyo/\">文京区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/arakawa/\">荒川区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/sumida/\">墨田区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/adachi/\">足立区</a>",
   "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
     "厚生労働省「介護事業所・生活関連情報検索（介護サービス情報公表システム）」",
     "台東区「地域包括支援センター一覧」",
     "厚生労働大臣が定める疾病等（訪問看護で医療保険が適用される範囲）",
     "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」訪問看護費／介護報酬の地域区分（1級地・1単位11.40円）",
     "日本郵便 郵便番号データにもとづく台東区の町域一覧",
-    "区内事業所数の目安：ハートページナビ 掲載件数（2026年9月時点）"
+    "区内事業所数：東京都公表の指定事業所一覧にもとづく実数（2026年9月1日時点）"
   ],
-  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず主治医に相談を</h4>\n        <p>訪問看護は主治医の指示書が起点です。制度の分岐はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>台東区内のステーションは約34件</li>\n          <li>起点は主治医の訪問看護指示書</li>\n          <li>30分未満の訪問で約537円（1割）</li>\n          <li>掲載20件のうち年中無休は7件</li>\n          <li>主治医が未定なら地域包括支援センターへ</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}guide/houmon-kaigo-dekirukoto/\">ヘルパーに頼めること</a></li>\n          <li><a href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみ</a></li>\n        </ul>\n      </div>",
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず主治医に相談を</h4>\n        <p>訪問看護は主治医の指示書が起点です。制度の分岐はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>台東区内のステーションは約33件</li>\n          <li>起点は主治医の訪問看護指示書</li>\n          <li>30分未満の訪問で約537円（1割）</li>\n          <li>掲載20件のうち医療法人は2件</li>\n          <li>主治医が未定なら地域包括支援センターへ</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}guide/houmon-kaigo-dekirukoto/\">ヘルパーに頼めること</a></li>\n          <li><a href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみ</a></li>\n        </ul>\n      </div>",
   "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
   "hero_image": "assets/ogp-houmon-kango.jpg",
   "towns": {

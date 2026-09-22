@@ -1,0 +1,530 @@
+{
+  "slug": "houmon-kango_tokyo_adachi",
+  "category": {
+    "id": "houmon-kango",
+    "name": "訪問看護",
+    "path": "/houmon-kango/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "adachi",
+    "city_name": "足立区"
+  },
+  "seo": {
+    "title": "足立区の訪問看護20事業所｜主治医の指示書から始める【2026年9月更新】",
+    "description": "東京都足立区の訪問看護ステーション20件を連絡先つきで掲載。区内約120件の中から選ぶための所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
+    "canonical": "https://kaigonotonari.com/houmon-kango/tokyo/adachi/",
+    "og_title": "足立区の訪問看護ステーション一覧｜選び方と始め方",
+    "og_description": "足立区の訪問看護ステーション20件を掲載。対応できる医療処置の確認と、主治医の指示書から始める流れを解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-houmon-kango.jpg"
+  },
+  "h1": "足立区の訪問看護ステーション一覧｜選び方と始め方",
+  "published": "2026-09-21",
+  "modified": "2026-09-21",
+  "count_label": "掲載：20事業所",
+  "lead": "東京都足立区で訪問看護を探している方へ。区内にある約120件のステーションから20件を連絡先つきで掲載し、あわせて所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
+  "listing_note": "足立区内の訪問看護ステーションから20件を掲載しています（東京都公表・2026年9月1日時点）。区内には120件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "グリンケア訪問看護ステーション",
+      "telephone": "03-5856-7542",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "島根４－３８－５"
+      },
+      "parentOrganization": "株式会社リレイト",
+      "identifier": "1361890245",
+      "_town": "島根",
+      "_kind": "営利法人",
+      "_designated": "2022-04-01",
+      "_years": 4.476386036960986,
+      "_tags": [
+        "島根エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "すみだ訪問看護ステーション",
+      "telephone": "03-5831-8530",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "花畑４－３５－３"
+      },
+      "parentOrganization": "株式会社すみだ訪問看護ステーション",
+      "identifier": "1362190199",
+      "_town": "花畑",
+      "_kind": "営利法人",
+      "_designated": "2013-05-01",
+      "_years": 13.39356605065024,
+      "_tags": [
+        "花畑エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　ウェルビー",
+      "telephone": "03-5647-6228",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "西新井６－４３－４じんのびビル"
+      },
+      "parentOrganization": "株式会社はつ花",
+      "identifier": "1362190355",
+      "_town": "西新井",
+      "_kind": "営利法人",
+      "_designated": "2015-10-01",
+      "_years": 10.976043805612594,
+      "_tags": [
+        "西新井エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護リハビリステーション　ハッピーヒル",
+      "telephone": "03-5851-8260",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "竹の塚１－２５－１７丸竹第一ビル５Ｆ"
+      },
+      "parentOrganization": "株式会社ハッピーヒル",
+      "identifier": "1362190629",
+      "_town": "竹の塚",
+      "_kind": "営利法人",
+      "_designated": "2019-02-01",
+      "_years": 7.638603696098563,
+      "_tags": [
+        "竹の塚エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　デライト足立",
+      "telephone": "03-6807-2524",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "西新井栄町２－２６－９牧野ビル１階"
+      },
+      "parentOrganization": "株式会社Ｈ＆Ｈホールディングス",
+      "identifier": "1362190702",
+      "_town": "西新井栄町",
+      "_kind": "営利法人",
+      "_designated": "2020-02-01",
+      "_years": 6.639288158795345,
+      "_tags": [
+        "西新井栄町エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護かえりえ竹ノ塚",
+      "telephone": "05017426431",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "東伊興３－２１－５フューチャー本社ビル４階"
+      },
+      "parentOrganization": "株式会社やさしい手",
+      "identifier": "1362190793",
+      "_town": "東伊興",
+      "_kind": "営利法人",
+      "_designated": "2020-10-01",
+      "_years": 5.973990417522245,
+      "_tags": [
+        "東伊興エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ぷえお訪問看護ステーション",
+      "telephone": "03-5284-5268",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "千住仲町１０－６パール仲町マンション１０４"
+      },
+      "parentOrganization": "株式会社Ｗｈａｔｓｈｏｕｌｄｂｅ",
+      "identifier": "1362190918",
+      "_town": "千住仲町",
+      "_kind": "営利法人",
+      "_designated": "2021-09-01",
+      "_years": 5.0568104038329915,
+      "_tags": [
+        "千住仲町エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ハートフルケア　クレス",
+      "telephone": "03-5284-9267",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "柳原２－１５－９－２０１"
+      },
+      "parentOrganization": "株式会社ＣＳＣ",
+      "identifier": "1362190983",
+      "_town": "柳原",
+      "_kind": "営利法人",
+      "_designated": "2022-06-01",
+      "_years": 4.309377138945927,
+      "_tags": [
+        "柳原エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ハイタッチ訪問看護",
+      "telephone": "03-5647-6603",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "舎人５－２４－１２シンスイフクダＢ－２"
+      },
+      "parentOrganization": "株式会社結羽",
+      "identifier": "1362191056",
+      "_town": "舎人",
+      "_kind": "営利法人",
+      "_designated": "2023-02-01",
+      "_years": 3.6386036960985626,
+      "_tags": [
+        "舎人エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "スマイル優　訪問看護ステーション　西新井",
+      "telephone": "03-5647-8081",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "興野２－３－１５"
+      },
+      "parentOrganization": "合同会社Ｓａｌｉｘ",
+      "identifier": "1362191130",
+      "_town": "興野",
+      "_kind": "営利法人",
+      "_designated": "2023-10-01",
+      "_years": 2.976043805612594,
+      "_tags": [
+        "興野エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　らっこなーす",
+      "telephone": "03-6807-2620",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "梅田５－５－１６ガレージオフィス・プラムＡ"
+      },
+      "parentOrganization": "一般社団法人心泉",
+      "identifier": "1362191205",
+      "_town": "梅田",
+      "_kind": "社団・財団",
+      "_designated": "2024-03-01",
+      "_years": 2.5598904859685145,
+      "_tags": [
+        "梅田エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あまね訪問看護ステーション足立",
+      "telephone": "03-5647-9887",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "足立２－４０－１６コムロビル６Ｆ"
+      },
+      "parentOrganization": "医療法人涼和会",
+      "identifier": "1362191288",
+      "_town": "足立",
+      "_kind": "医療法人",
+      "_designated": "2024-09-01",
+      "_years": 2.0561259411362083,
+      "_tags": [
+        "足立エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーションオール足立",
+      "telephone": "03-5856-4580",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "花畑１－８－１１カメリアビルＢ店舗"
+      },
+      "parentOrganization": "合同会社オール",
+      "identifier": "1362191346",
+      "_town": "花畑",
+      "_kind": "営利法人",
+      "_designated": "2025-01-01",
+      "_years": 1.7221081451060918,
+      "_tags": [
+        "花畑エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ビコー訪問看護リハビリステーション足立",
+      "telephone": "03-6806-4001",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "栗原３－９－２オリエント第２ビル５０１"
+      },
+      "parentOrganization": "株式会社ビコー",
+      "identifier": "1362191403",
+      "_town": "栗原",
+      "_kind": "営利法人",
+      "_designated": "2025-04-01",
+      "_years": 1.4757015742642026,
+      "_tags": [
+        "栗原エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社在宅医療サポートセンターりあん訪問看護ステーション綾瀬",
+      "telephone": "03-5856-0159",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "谷中２－７－２エクセル北綾瀬Ⅱ４階"
+      },
+      "parentOrganization": "株式会社在宅医療サポートセンター",
+      "identifier": "1362191478",
+      "_town": "谷中",
+      "_kind": "営利法人",
+      "_designated": "2025-09-01",
+      "_years": 1.056810403832991,
+      "_tags": [
+        "谷中エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　メディコ",
+      "telephone": "07032823010",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "保木間３－４－１０"
+      },
+      "parentOrganization": "株式会社苑田メディコ",
+      "identifier": "1362191544",
+      "_town": "保木間",
+      "_kind": "営利法人",
+      "_designated": "2026-01-01",
+      "_years": 0.7227926078028748,
+      "_tags": [
+        "保木間エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーションＨＩＢＩＳＵ西新井",
+      "telephone": "03-5837-4068",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "西新井５－２３－１"
+      },
+      "parentOrganization": "株式会社ＢＩＳＣＵＳＳ",
+      "identifier": "1362191601",
+      "_town": "西新井",
+      "_kind": "営利法人",
+      "_designated": "2026-04-01",
+      "_years": 0.47638603696098564,
+      "_tags": [
+        "西新井エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　ひといろ",
+      "telephone": "03-6806-2014",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "千住旭町３５－１７ｉｓｍ１０１０　３Ｆ"
+      },
+      "parentOrganization": "株式会社ＳＩＮＣＥＲＥ",
+      "identifier": "1362191676",
+      "_town": "千住旭町",
+      "_kind": "営利法人",
+      "_designated": "2026-08-01",
+      "_years": 0.14236824093086928,
+      "_tags": [
+        "千住旭町エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション等潤",
+      "telephone": "03-3850-1800",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "一ツ家４－２－１５　１階"
+      },
+      "parentOrganization": "社会医療法人社団慈生会",
+      "identifier": "1367191133",
+      "_town": "一ツ家",
+      "_kind": "医療法人",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "_tags": [
+        "一ツ家エリア",
+        "20年以上",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "本木訪問看護ステーション",
+      "telephone": "03-3880-4050",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "関原３－３１－１９ソレイユセキエイ４Ｆ"
+      },
+      "parentOrganization": "医療法人社団洪泳会",
+      "identifier": "1367192818",
+      "_town": "関原",
+      "_kind": "医療法人",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "_tags": [
+        "関原エリア",
+        "20年以上",
+        "訪問看護"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "足立区で訪問看護を使うには、まず何をすればいいですか？",
+      "a": "主治医に「自宅で訪問看護を使いたい」と伝えるのが最初の一歩です。訪問看護は主治医の指示書がないと始められないため、足立区のステーションに直接連絡してもそこで止まります。入院中なら退院支援の窓口、主治医が決まっていなければ地域包括支援センター（ホウカツ）が相談先です。"
+    },
+    {
+      "q": "足立区には訪問看護ステーションが何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で足立区内に120件の訪問看護ステーションが指定を受けています。本ページではそのうち20件を連絡先つきで掲載しています。"
+    },
+    {
+      "q": "足立区の掲載事業所は、どこを見て絞り込めばいいですか？",
+      "a": "まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。足立区の掲載20件では営利法人が16件、医療法人が3件、指定から20年以上の事業所が2件です。そのうえで、ご自宅の町名を伝えて足立区内の対応エリアに入っているかを確認してください。"
+    },
+    {
+      "q": "足立区で夜間や休日に急変したら、来てもらえますか？",
+      "a": "24時間の緊急対応体制をとっているステーションなら、連絡して必要と判断されれば訪問してもらえます。ただしこれは加算のかかる体制で、足立区内でもすべてのステーションが対応しているわけではありません。上の受付体制の表は電話の受付時間であり、緊急対応の可否とは別ですので、契約前に必ず確認してください。"
+    },
+    {
+      "q": "足立区で訪問看護の自己負担はいくらくらいですか？",
+      "a": "足立区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたるため、介護保険で使う場合、訪問看護ステーションからの訪問は20分未満で約358円、30分未満で約537円、30分以上1時間未満で約938円が1割負担の目安です。これは基本報酬だけの金額で、緊急時訪問看護加算などが上乗せされます。医療保険で使う場合は計算が別になるため、足立区の事業所に実額を確認してください。"
+    },
+    {
+      "q": "医療保険と介護保険のどちらになりますか？",
+      "a": "要介護認定を受けていれば原則として介護保険、受けていなければ医療保険です。ただし国が定める疾病等に当てはまる場合や、急に状態が悪くなって特別訪問看護指示書が出た場合は、認定があっても医療保険になります。足立区に限らず全国共通の分岐で、判断は主治医とステーションが行います。"
+    },
+    {
+      "q": "足立区で訪問介護（ヘルパー）と両方使えますか？",
+      "a": "使えます。医療的なケアは訪問看護、身体介護や家事は訪問介護と役割が分かれており、両方を併用する方は珍しくありません。足立区の訪問介護事業所は同じサイト内にまとめています。介護保険で使う場合は、どちらも区分支給限度基準額の範囲内で組むことになります。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/adachi/\">足立区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/adachi/\">足立区のデイサービス<small>通所介護</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/adachi/\">足立区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/adachi/\">足立区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/adachi/\">足立区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/adachi/\">足立区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアの訪問看護",
+  "nearby": "<a href=\"{{ROOT}}houmon-kango/tokyo/kita/\">北区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/arakawa/\">荒川区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/sumida/\">墨田区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/katsushika/\">葛飾区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/itabashi/\">板橋区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/taito/\">台東区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「介護事業所・生活関連情報検索（介護サービス情報公表システム）」",
+    "足立区「地域包括支援センター（ホウカツ）一覧」",
+    "厚生労働大臣が定める疾病等（訪問看護で医療保険が適用される範囲）",
+    "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」訪問看護費／介護報酬の地域区分（1級地・1単位11.40円）",
+    "日本郵便 郵便番号データにもとづく足立区の町域一覧",
+    "区内事業所数：東京都公表の指定事業所一覧にもとづく実数（2026年9月1日時点）"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず主治医に相談を</h4>\n        <p>訪問看護は主治医の指示書が起点です。制度の分岐はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>足立区内のステーションは約120件</li>\n          <li>起点は主治医の訪問看護指示書</li>\n          <li>30分未満の訪問で約537円（1割）</li>\n          <li>掲載20件のうち医療法人は3件</li>\n          <li>主治医が未定なら地域包括支援センター（ホウカツ）へ</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}guide/houmon-kaigo-dekirukoto/\">ヘルパーに頼めること</a></li>\n          <li><a href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみ</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
+  "hero_image": "assets/ogp-houmon-kango.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "adachi"
+  }
+}

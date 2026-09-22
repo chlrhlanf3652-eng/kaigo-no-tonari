@@ -13,7 +13,7 @@
   },
   "seo": {
     "title": "中野区の訪問看護20事業所｜主治医の指示書から始める【2026年9月更新】",
-    "description": "東京都中野区の訪問看護ステーション20件を連絡先つきで掲載。区内約33件の中から選ぶための所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
+    "description": "東京都中野区の訪問看護ステーション20件を連絡先つきで掲載。区内約35件の中から選ぶための所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
     "canonical": "https://kaigonotonari.com/houmon-kango/tokyo/nakano/",
     "og_title": "中野区の訪問看護ステーション一覧｜選び方と始め方",
     "og_description": "中野区の訪問看護ステーション20件を掲載。対応できる医療処置の確認と、主治医の指示書から始める流れを解説します。",
@@ -23,9 +23,53 @@
   "published": "2026-09-21",
   "modified": "2026-09-21",
   "count_label": "掲載：20事業所",
-  "lead": "東京都中野区で訪問看護を探している方へ。区内にある約33件のステーションから20件を連絡先つきで掲載し、あわせて所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
-  "listing_note": "中野区内の訪問看護ステーションから20件を掲載しています（2026年9月時点）。区内には約33件のステーションがあり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
+  "lead": "東京都中野区で訪問看護を探している方へ。区内にある約35件のステーションから20件を連絡先つきで掲載し、あわせて所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
+  "listing_note": "中野区内の訪問看護ステーションから20件を掲載しています（東京都公表・2026年9月1日時点）。区内には35件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。掲載順は事業所の優劣を示すものではありません。",
   "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアプロ訪問看護ステーション東京",
+      "telephone": "03-6696-9789",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "中央４－２５－１４中央ハウスＡ２"
+      },
+      "parentOrganization": "ケアプロ在宅医療株式会社",
+      "identifier": "1361390048",
+      "_town": "中央",
+      "_kind": "営利法人",
+      "_designated": "2012-03-01",
+      "_years": 14.559890485968515,
+      "_tags": [
+        "中央エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　ホームケア中野",
+      "telephone": "03-5337-7012",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "東中野１－５９－６信菱ビル５階"
+      },
+      "parentOrganization": "株式会社ミレニア",
+      "identifier": "1361490012",
+      "_town": "東中野",
+      "_kind": "営利法人",
+      "_designated": "2009-07-01",
+      "_years": 17.22655715263518,
+      "_tags": [
+        "東中野エリア",
+        "訪問看護"
+      ]
+    },
     {
       "@type": "LocalBusiness",
       "name": "なごみ訪問看護ステーション",
@@ -35,127 +79,14 @@
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "中野区",
-        "streetAddress": "野方1-29-4-1階"
+        "streetAddress": "中野３－４７－１４シグマイーストビル"
       },
-      "parentOrganization": "（株）なごみ訪問看護ステーション",
+      "parentOrganization": "株式会社なごみ訪問看護ステーション",
       "identifier": "1361490053",
-      "faxNumber": "03-5942-4177",
-      "_hours": "9:00〜18:00",
-      "_closed": "日・祝・年末年始",
-      "_town": "野方",
-      "_tags": [
-        "野方エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "みやびハート＆ケアクリニック",
-      "telephone": "03-5385-3880",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "中野区",
-        "streetAddress": "中央3-35-4"
-      },
-      "parentOrganization": "（医社）みやびハート＆ケアクリニック",
-      "identifier": "1311433135",
-      "faxNumber": "03-5385-3881",
-      "_hours": "9:00〜18:00",
-      "_closed": "年末年始",
-      "_town": "中央",
-      "_tags": [
-        "中央エリア",
-        "土日も受付",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ひなた訪問看護ステーション中野",
-      "telephone": "03-6382-6979",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "中野区",
-        "streetAddress": "南台5-23-13 アイル方南町502"
-      },
-      "parentOrganization": "（株）ナースホーム",
-      "identifier": "1361490343",
-      "faxNumber": "03-6382-6978",
-      "_hours": "8:30〜17:30",
-      "_closed": "年中無休",
-      "_town": "南台",
-      "_tags": [
-        "南台エリア",
-        "年中無休",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "上高田訪問看護ステーション",
-      "telephone": "03-5380-4165",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "中野区",
-        "streetAddress": "上高田1-50-7 大川ビル1階"
-      },
-      "parentOrganization": "（社医社）健友会",
-      "identifier": "1367191349",
-      "faxNumber": "03-5380-4102",
-      "_hours": "8:50〜16:50、土12:50まで",
-      "_closed": "土（午後）・日・祝・年末年始",
-      "_town": "上高田",
-      "_tags": [
-        "上高田エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ＣＲＡＹＯＮＺ プライベート看護",
-      "telephone": "0800-808-1083",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "中野区",
-        "streetAddress": "上鷺宮4-17-6 ハイツ小河301"
-      },
-      "parentOrganization": "（株）ＣＲＡＹＯＮＺ",
-      "identifier": "1361490442",
-      "faxNumber": "050-3457-8175",
-      "_hours": "9:00〜18:00",
-      "_closed": "年中無休",
-      "_town": "上鷺宮",
-      "_tags": [
-        "上鷺宮エリア",
-        "年中無休",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "新渡戸記念訪問看護ステーション",
-      "telephone": "03-3382-8611",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "中野区",
-        "streetAddress": "中野2-21-17 東京医療別館3階"
-      },
-      "parentOrganization": "東京医療生活協同組合",
-      "identifier": "1367192149",
-      "faxNumber": "03-3382-5237",
-      "_hours": "9:00〜17:15、土12:45まで",
-      "_closed": "土（午後）・日・祝・年末年始",
       "_town": "中野",
+      "_kind": "営利法人",
+      "_designated": "2012-08-01",
+      "_years": 14.140999315537304,
       "_tags": [
         "中野エリア",
         "訪問看護"
@@ -163,110 +94,65 @@
     },
     {
       "@type": "LocalBusiness",
-      "name": "ソレイユ訪問看護ステーション中野",
-      "telephone": "03-5942-5675",
+      "name": "あけぼの訪問看護ステーション",
+      "telephone": "03-5942-8990",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "中野区",
-        "streetAddress": "丸山2-5-16 内山ビル1階"
+        "streetAddress": "新井２－６－５ＤＳＫ情報センタービル１階"
       },
-      "parentOrganization": "（株）ナースサポート．アリス",
-      "identifier": "1361490301",
-      "faxNumber": "03-5942-5676",
-      "_hours": "9:00〜17:30",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "丸山",
+      "parentOrganization": "ケアゲート株式会社",
+      "identifier": "1361490095",
+      "_town": "新井",
+      "_kind": "営利法人",
+      "_designated": "2014-09-01",
+      "_years": 12.057494866529774,
       "_tags": [
-        "丸山エリア",
+        "新井エリア",
         "訪問看護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "訪問看護・リハビリステーションだるま",
-      "telephone": "03-5942-5615",
+      "name": "訪問看護ステーション　リライブ",
+      "telephone": "03-6279-3696",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "中野区",
-        "streetAddress": "鷺宮3-3-6 シュプール1階"
+        "streetAddress": "東中野４－２３－３サングロウ１００号"
       },
-      "parentOrganization": "（医社）泉樹会",
-      "identifier": "1361490269",
-      "faxNumber": "03-6383-0513",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・年末年始",
-      "_town": "鷺宮",
+      "parentOrganization": "株式会社ＲｅＬｉｖｅ",
+      "identifier": "1361490152",
+      "_town": "東中野",
+      "_kind": "営利法人",
+      "_designated": "2016-06-01",
+      "_years": 10.30800821355236,
       "_tags": [
-        "鷺宮エリア",
+        "東中野エリア",
         "訪問看護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "さわやかケア中野・訪問看護",
-      "telephone": "03-5348-6216",
+      "name": "訪問看護ステーション　ホームケア都立家政",
+      "telephone": "03-5356-6755",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "中野区",
-        "streetAddress": "中央1-1-3 新都心中央ビル1階"
+        "streetAddress": "若宮３－４０－１４"
       },
-      "parentOrganization": "ウエルシアパートナーズ（株）",
-      "identifier": "1367198393",
-      "faxNumber": "03-3360-2902",
-      "_hours": "9:00〜17:30",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "中央",
-      "_tags": [
-        "中央エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ケアサポート ＭＡＮＡ",
-      "telephone": "03-6382-8142",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "中野区",
-        "streetAddress": "本町6-35-15 Ｓ＆Ｉレジデンス本町101"
-      },
-      "parentOrganization": "（株）コンディショニングサポートＭＡＮＡ",
-      "identifier": "1361490244",
-      "faxNumber": "03-6382-8142",
-      "_hours": "9:00〜18:00",
-      "_closed": "年中無休",
-      "_town": "本町",
-      "_tags": [
-        "本町エリア",
-        "年中無休",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "まるこ訪問看護ステーション",
-      "telephone": "03-6383-0823",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "中野区",
-        "streetAddress": "若宮2-34-19 テラスハウスＢ"
-      },
-      "parentOrganization": "（有）エポックケアソリューション",
-      "identifier": "1361490319",
-      "faxNumber": "03-6383-0834",
-      "_hours": "8:45〜17:30",
-      "_closed": "日・年末年始",
+      "parentOrganization": "株式会社ミレニア",
+      "identifier": "1361490178",
       "_town": "若宮",
+      "_kind": "営利法人",
+      "_designated": "2016-07-01",
+      "_years": 10.225872689938399,
       "_tags": [
         "若宮エリア",
         "訪問看護"
@@ -274,23 +160,45 @@
     },
     {
       "@type": "LocalBusiness",
-      "name": "Ｌｅａケア訪問看護ステーション",
-      "telephone": "03-5309-2991",
+      "name": "リニエ訪問看護ステーション中野",
+      "telephone": "03-6908-9567",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "中野区",
-        "streetAddress": "南台1-3-8 第8新栄ビル101"
+        "streetAddress": "東中野３－１６－１４小谷ビル３０１"
       },
-      "parentOrganization": "（株）Ｌｅａケア",
-      "identifier": "1361490434",
-      "faxNumber": "03-5309-2992",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "南台",
+      "parentOrganization": "株式会社リニエＲ",
+      "identifier": "1361490228",
+      "_town": "東中野",
+      "_kind": "営利法人",
+      "_designated": "2018-01-01",
+      "_years": 8.722792607802875,
       "_tags": [
-        "南台エリア",
+        "東中野エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ほっとナビ訪問看護ステーション　中野事業所",
+      "telephone": "03-5327-8785",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "鷺宮３－１５－１９ラタン・サギノミヤⅡ　１階"
+      },
+      "parentOrganization": "株式会社ほっとナビ",
+      "identifier": "1361490251",
+      "_town": "鷺宮",
+      "_kind": "営利法人",
+      "_designated": "2019-03-01",
+      "_years": 7.561943874058864,
+      "_tags": [
+        "鷺宮エリア",
         "訪問看護"
       ]
     },
@@ -303,129 +211,219 @@
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "中野区",
-        "streetAddress": "本町4-8-1"
+        "streetAddress": "本町４－８－１"
       },
-      "parentOrganization": "ソフィアメディ（株）",
+      "parentOrganization": "ソフィアメディ株式会社",
       "identifier": "1361490277",
-      "faxNumber": "03-6382-4311",
-      "_hours": "9:00〜18:00",
-      "_closed": "年中無休",
       "_town": "本町",
+      "_kind": "営利法人",
+      "_designated": "2019-12-01",
+      "_years": 6.809034907597536,
       "_tags": [
         "本町エリア",
-        "年中無休",
         "訪問看護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "あすなろ訪問看護ステーション鷺宮",
-      "telephone": "03-3223-1900",
+      "name": "ソフィアメディ訪問看護ステーション野方",
+      "telephone": "03-6383-0215",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "中野区",
-        "streetAddress": "鷺宮3-18-5 ＩＮビル2階"
+        "streetAddress": "野方５－３０－２０三宅ビル２階"
       },
-      "parentOrganization": "（株）エムイーネット",
-      "identifier": "1367197064",
-      "faxNumber": "03-3223-1905",
-      "_hours": "9:00〜17:30",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "鷺宮",
+      "parentOrganization": "ソフィアメディ株式会社",
+      "identifier": "1361490285",
+      "_town": "野方",
+      "_kind": "営利法人",
+      "_designated": "2020-02-01",
+      "_years": 6.639288158795345,
       "_tags": [
-        "鷺宮エリア",
+        "野方エリア",
         "訪問看護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "訪問看護ステーション リライブ",
-      "telephone": "03-6279-3696",
+      "name": "まるこ訪問看護ステーション",
+      "telephone": "03-6383-0823",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "中野区",
-        "streetAddress": "東中野4-23-3 サングロウ100"
+        "streetAddress": "若宮２－３４－１９テラスハウスＢ"
       },
-      "parentOrganization": "（株）ＲｅＬｉｖｅ",
-      "identifier": "1361490152",
-      "faxNumber": "03-6279-3697",
-      "_hours": "9:15〜17:00",
-      "_closed": "日・祝・年末年始",
-      "_town": "東中野",
-      "_tags": [
-        "東中野エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ひよこ訪問看護ステーション",
-      "telephone": "03-5913-3890",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "中野区",
-        "streetAddress": "松が丘2-3-5-201"
-      },
-      "parentOrganization": "ＮＰＯ法人 なかの里を紡ぐ会",
-      "identifier": "1361490210",
-      "faxNumber": "03-5913-3891",
-      "_hours": "9:00〜17:00",
-      "_closed": "日・祝・年末年始",
-      "_town": "松が丘",
-      "_tags": [
-        "松が丘エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ケアプロ訪問看護ステーション東京 中野ステーション",
-      "telephone": "03-6696-9789",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "中野区",
-        "streetAddress": "中央4-25-14 中央ハウスＡ2"
-      },
-      "parentOrganization": "ケアプロ在宅医療（株）",
-      "identifier": "1361390048",
-      "faxNumber": "03-6849-5039",
-      "_hours": "24時間",
-      "_closed": "年中無休",
-      "_town": "中央",
-      "_tags": [
-        "中央エリア",
-        "年中無休",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "訪問看護ステーション ホームケア都立家政",
-      "telephone": "03-5356-6755",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "中野区",
-        "streetAddress": "若宮3-40-14"
-      },
-      "parentOrganization": "（株）ミレニア",
-      "identifier": "1361490178",
-      "faxNumber": "03-5356-6756",
-      "_hours": "8:45〜17:45",
-      "_closed": "年中無休",
+      "parentOrganization": "有限会社エポックケアソリューション",
+      "identifier": "1361490319",
       "_town": "若宮",
+      "_kind": "営利法人",
+      "_designated": "2021-08-01",
+      "_years": 5.1416837782340865,
       "_tags": [
         "若宮エリア",
-        "年中無休",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "さくら訪問看護ステーション",
+      "telephone": "03-5942-8981",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "沼袋２－２０－１２ファーストメゾン沼袋２０２号室"
+      },
+      "parentOrganization": "株式会社さくらメディカルサポート",
+      "identifier": "1361490350",
+      "_town": "沼袋",
+      "_kind": "営利法人",
+      "_designated": "2022-08-01",
+      "_years": 4.142368240930869,
+      "_tags": [
+        "沼袋エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "サルスケア訪問看護リハビリステーション",
+      "telephone": "03-5942-6328",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "中野５－３－３３ＫＩマンション２０１号室"
+      },
+      "parentOrganization": "株式会社むさしメディカルケア",
+      "identifier": "1361490392",
+      "_town": "中野",
+      "_kind": "営利法人",
+      "_designated": "2023-04-01",
+      "_years": 3.477070499657769,
+      "_tags": [
+        "中野エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "カリス訪問看護ステーション",
+      "telephone": "03-5340-7188",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "中野２－２９－１５サンハイツ中野８０８"
+      },
+      "parentOrganization": "株式会社フィトン",
+      "identifier": "1361490418",
+      "_town": "中野",
+      "_kind": "営利法人",
+      "_designated": "2023-10-01",
+      "_years": 2.976043805612594,
+      "_tags": [
+        "中野エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＣＲＡＹＯＮＺ　プライベート看護",
+      "telephone": "08008081083",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "上鷺宮４－１７－６ハイツ小河３０１"
+      },
+      "parentOrganization": "株式会社ＣＲＡＹＯＮＺ",
+      "identifier": "1361490442",
+      "_town": "上鷺宮",
+      "_kind": "営利法人",
+      "_designated": "2024-06-01",
+      "_years": 2.308008213552361,
+      "_tags": [
+        "上鷺宮エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ルピナス訪問看護ステーション中野",
+      "telephone": "03-6454-1425",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "本町５－１０－１丸共第三ハイツ　１Ｆ"
+      },
+      "parentOrganization": "株式会社オーシャン",
+      "identifier": "1361490467",
+      "_town": "本町",
+      "_kind": "営利法人",
+      "_designated": "2025-09-01",
+      "_years": 1.056810403832991,
+      "_tags": [
+        "本町エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "医心館　訪問看護ステーション　鷺ノ宮",
+      "telephone": "03-6383-0352",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "鷺宮３－１４－９"
+      },
+      "parentOrganization": "株式会社アンビス",
+      "identifier": "1361490483",
+      "_town": "鷺宮",
+      "_kind": "営利法人",
+      "_designated": "2026-05-01",
+      "_years": 0.3942505133470226,
+      "_tags": [
+        "鷺宮エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "中野区医師会訪問看護ステーション",
+      "telephone": "03-3384-1480",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "中野２－２７－１７"
+      },
+      "parentOrganization": "一般社団法人中野区医師会",
+      "identifier": "1367191299",
+      "_town": "中野",
+      "_kind": "社団・財団",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "_tags": [
+        "中野エリア",
+        "20年以上",
         "訪問看護"
       ]
     },
@@ -438,38 +436,40 @@
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "中野区",
-        "streetAddress": "江古田3-15-2"
+        "streetAddress": "江古田３－１５－２"
       },
-      "parentOrganization": "（社福）慈生会",
+      "parentOrganization": "社会福祉法人慈生会",
       "identifier": "1367191992",
-      "faxNumber": "03-3387-0225",
-      "_hours": "9:00〜17:00",
-      "_closed": "日・祝・年末年始",
       "_town": "江古田",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
       "_tags": [
         "江古田エリア",
+        "20年以上",
         "訪問看護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "リニエ訪問看護ステーション 中野",
-      "telephone": "03-6908-9567",
+      "name": "あすなろ訪問看護ステーション鷺宮",
+      "telephone": "03-3223-1900",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "中野区",
-        "streetAddress": "東中野3-16-14 小谷ビル301"
+        "streetAddress": "鷺宮３－１８－５ＩＮビル２階"
       },
-      "parentOrganization": "（株）リニエＲ",
-      "identifier": "1361490228",
-      "faxNumber": "03-6908-9568",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "東中野",
+      "parentOrganization": "株式会社エムイーネット",
+      "identifier": "1367197064",
+      "_town": "鷺宮",
+      "_kind": "営利法人",
+      "_designated": "2003-10-01",
+      "_years": 22.976043805612594,
       "_tags": [
-        "東中野エリア",
+        "鷺宮エリア",
+        "20年以上",
         "訪問看護"
       ]
     }
@@ -481,11 +481,11 @@
     },
     {
       "q": "中野区には訪問看護ステーションが何件ありますか？",
-      "a": "2026年9月時点で、介護情報サイトの掲載ベースで約33件のステーションが中野区内にあります。本ページではそのうち20件を連絡先つきで掲載しています。全件は厚生労働省「介護サービス情報公表システム」で確認できます。"
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で中野区内に35件の訪問看護ステーションが指定を受けています。本ページではそのうち20件を連絡先つきで掲載しています。"
     },
     {
       "q": "中野区の掲載事業所は、どこを見て絞り込めばいいですか？",
-      "a": "まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。中野区の掲載20件では年中無休が6件、土日も電話を受けるところを含めると7件あります。そのうえで、ご自宅の町名を伝えて中野区内の対応エリアに入っているかを確認してください。"
+      "a": "まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。中野区の掲載20件では営利法人が18件、医療法人が0件、指定から20年以上の事業所が3件です。そのうえで、ご自宅の町名を伝えて中野区内の対応エリアに入っているかを確認してください。"
     },
     {
       "q": "中野区で夜間や休日に急変したら、来てもらえますか？",
@@ -508,14 +508,15 @@
   "nearby_heading": "近隣エリアの訪問看護",
   "nearby": "<a href=\"{{ROOT}}houmon-kango/tokyo/shinjuku/\">新宿区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/shibuya/\">渋谷区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/setagaya/\">世田谷区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/suginami/\">杉並区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/nerima/\">練馬区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/toshima/\">豊島区</a>",
   "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
     "厚生労働省「介護事業所・生活関連情報検索（介護サービス情報公表システム）」",
     "中野区「地域包括支援センター一覧」",
     "厚生労働大臣が定める疾病等（訪問看護で医療保険が適用される範囲）",
     "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」訪問看護費／介護報酬の地域区分（1級地・1単位11.40円）",
     "日本郵便 郵便番号データにもとづく中野区の町域一覧",
-    "区内事業所数の目安：ハートページナビ 掲載件数（2026年9月時点）"
+    "区内事業所数：東京都公表の指定事業所一覧にもとづく実数（2026年9月1日時点）"
   ],
-  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず主治医に相談を</h4>\n        <p>訪問看護は主治医の指示書が起点です。制度の分岐はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>中野区内のステーションは約33件</li>\n          <li>起点は主治医の訪問看護指示書</li>\n          <li>30分未満の訪問で約537円（1割）</li>\n          <li>掲載20件のうち年中無休は6件</li>\n          <li>主治医が未定なら地域包括支援センターへ</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}guide/houmon-kaigo-dekirukoto/\">ヘルパーに頼めること</a></li>\n          <li><a href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみ</a></li>\n        </ul>\n      </div>",
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず主治医に相談を</h4>\n        <p>訪問看護は主治医の指示書が起点です。制度の分岐はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>中野区内のステーションは約35件</li>\n          <li>起点は主治医の訪問看護指示書</li>\n          <li>30分未満の訪問で約537円（1割）</li>\n          <li>掲載20件のうち医療法人は0件</li>\n          <li>主治医が未定なら地域包括支援センターへ</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}guide/houmon-kaigo-dekirukoto/\">ヘルパーに頼めること</a></li>\n          <li><a href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみ</a></li>\n        </ul>\n      </div>",
   "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
   "hero_image": "assets/ogp-houmon-kango.jpg",
   "towns": {

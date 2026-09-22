@@ -13,7 +13,7 @@
   },
   "seo": {
     "title": "目黒区の訪問看護20事業所｜主治医の指示書から始める【2026年9月更新】",
-    "description": "東京都目黒区の訪問看護ステーション20件を連絡先つきで掲載。区内約42件の中から選ぶための所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
+    "description": "東京都目黒区の訪問看護ステーション20件を連絡先つきで掲載。区内約41件の中から選ぶための所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
     "canonical": "https://kaigonotonari.com/houmon-kango/tokyo/meguro/",
     "og_title": "目黒区の訪問看護ステーション一覧｜選び方と始め方",
     "og_description": "目黒区の訪問看護ステーション20件を掲載。対応できる医療処置の確認と、主治医の指示書から始める流れを解説します。",
@@ -23,116 +23,28 @@
   "published": "2026-09-21",
   "modified": "2026-09-21",
   "count_label": "掲載：20事業所",
-  "lead": "東京都目黒区で訪問看護を探している方へ。区内にある約42件のステーションから20件を連絡先つきで掲載し、あわせて所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
-  "listing_note": "目黒区内の訪問看護ステーションから20件を掲載しています（2026年9月時点）。区内には約42件のステーションがあり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
+  "lead": "東京都目黒区で訪問看護を探している方へ。区内にある約41件のステーションから20件を連絡先つきで掲載し、あわせて所在町域・運営法人・受付体制の内訳と、主治医の指示書から利用開始までの流れをまとめました。訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
+  "listing_note": "目黒区内の訪問看護ステーションから20件を掲載しています（東京都公表・2026年9月1日時点）。区内には41件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
-      "name": "レディーバグ訪問看護ステーション武蔵小山",
-      "telephone": "03-6426-9671",
+      "name": "りゅうじん訪問看護ステーション東京",
+      "telephone": "03-6452-4821",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "目黒区",
-        "streetAddress": "東京都品川区荏原4-14-7-1階"
+        "streetAddress": "三田２－１８－１８"
       },
-      "parentOrganization": "（株）レインボー・ナース",
-      "identifier": "1360990202",
-      "faxNumber": "03-6426-9702",
-      "_hours": "9:00〜17:15",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "",
+      "parentOrganization": "大和ビルド株式会社",
+      "identifier": "1360990152",
+      "_town": "三田",
+      "_kind": "営利法人",
+      "_designated": "2014-07-01",
+      "_years": 12.227241615331964,
       "_tags": [
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ナースステーション東京 目黒支店",
-      "telephone": "03-6417-0561",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "目黒区",
-        "streetAddress": "上目黒2-36-3"
-      },
-      "parentOrganization": "（株）日本在宅ケア教育研究所",
-      "identifier": "1367197031",
-      "faxNumber": "03-6417-0608",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝",
-      "_town": "上目黒",
-      "_tags": [
-        "上目黒エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "訪問看護ステーション青葉台さくら苑",
-      "telephone": "03-3791-3503",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "目黒区",
-        "streetAddress": "青葉台3-21-6 青葉台さくら苑1階"
-      },
-      "parentOrganization": "（社福）三交会",
-      "identifier": "1361090531",
-      "faxNumber": "03-3791-3504",
-      "_hours": "8:30〜17:30",
-      "_closed": "年中無休",
-      "_town": "青葉台",
-      "_tags": [
-        "青葉台エリア",
-        "年中無休",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ソフィアメディ訪問看護ステーション緑が丘",
-      "telephone": "03-5731-8203",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "目黒区",
-        "streetAddress": "緑が丘3-1-7 セトル緑が丘地下1階"
-      },
-      "parentOrganization": "ソフィアメディ（株）",
-      "identifier": "1361090119",
-      "faxNumber": "03-3723-2104",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "緑が丘",
-      "_tags": [
-        "緑が丘エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "訪問看護ステーションＳＴＯＲＹ学芸大学",
-      "telephone": "03-6452-3539",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "目黒区",
-        "streetAddress": "中町2-31-10"
-      },
-      "parentOrganization": "（株）ＳＴＯＲＹ",
-      "identifier": "1361090093",
-      "faxNumber": "03-6452-3538",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・夏季・年末年始",
-      "_town": "中町",
-      "_tags": [
-        "中町エリア",
+        "三田エリア",
         "訪問看護"
       ]
     },
@@ -145,39 +57,126 @@
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "目黒区",
-        "streetAddress": "東が丘2-11-10"
+        "streetAddress": "東が丘２－１１－１０"
       },
-      "parentOrganization": "ソフィアメディ（株）",
+      "parentOrganization": "ソフィアメディ株式会社",
       "identifier": "1361090036",
-      "faxNumber": "03-5779-6312",
-      "_hours": "9:00〜18:00",
-      "_closed": "年中無休",
       "_town": "東が丘",
+      "_kind": "営利法人",
+      "_designated": "2011-03-01",
+      "_years": 15.561943874058864,
       "_tags": [
         "東が丘エリア",
-        "年中無休",
         "訪問看護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "ハウオリ訪問看護ステーション",
-      "telephone": "03-6712-2444",
+      "name": "ハートフル訪問看護ステーション中目黒",
+      "telephone": "03-6412-8830",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "目黒区",
-        "streetAddress": "中央町2-30-11 学芸大ＫＹハイツ302"
+        "streetAddress": "上目黒２－１５－６川鍋ビル５階"
       },
-      "parentOrganization": "（株）ハウオリホーエア",
-      "identifier": "1361090242",
-      "faxNumber": "03-6712-2445",
-      "_hours": "9:00〜17:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "中央町",
+      "parentOrganization": "桂乃貴メンタルヘルスケア株式会社",
+      "identifier": "1361090077",
+      "_town": "上目黒",
+      "_kind": "営利法人",
+      "_designated": "2013-10-01",
+      "_years": 12.974674880219029,
       "_tags": [
-        "中央町エリア",
+        "上目黒エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーションＳＴＯＲＹ学芸大学",
+      "telephone": "03-6452-3539",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "中町２－３１－１０"
+      },
+      "parentOrganization": "株式会社ＳＴＯＲＹ",
+      "identifier": "1361090093",
+      "_town": "中町",
+      "_kind": "営利法人",
+      "_designated": "2014-07-01",
+      "_years": 12.227241615331964,
+      "_tags": [
+        "中町エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ナイスケア訪問看護ステーション",
+      "telephone": "03-3717-3681",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "大岡山１－５－２"
+      },
+      "parentOrganization": "株式会社ナイスケア",
+      "identifier": "1361090135",
+      "_town": "大岡山",
+      "_kind": "営利法人",
+      "_designated": "2015-08-01",
+      "_years": 11.143052703627653,
+      "_tags": [
+        "大岡山エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護かえりえ大橋",
+      "telephone": "05017426592",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "大橋２－１６－３８"
+      },
+      "parentOrganization": "株式会社やさしい手",
+      "identifier": "1361090184",
+      "_town": "大橋",
+      "_kind": "営利法人",
+      "_designated": "2016-07-01",
+      "_years": 10.225872689938399,
+      "_tags": [
+        "大橋エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "すまいるナーシング",
+      "telephone": "03-5731-9210",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "八雲２－８－２ウェルス都立大１０２"
+      },
+      "parentOrganization": "株式会社すまいるナーシング",
+      "identifier": "1361090283",
+      "_town": "八雲",
+      "_kind": "営利法人",
+      "_designated": "2018-01-01",
+      "_years": 8.722792607802875,
+      "_tags": [
+        "八雲エリア",
         "訪問看護"
       ]
     },
@@ -190,14 +189,14 @@
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "目黒区",
-        "streetAddress": "目黒4-6-18"
+        "streetAddress": "目黒４－６－１８"
       },
-      "parentOrganization": "（株）東京光線メディカル",
+      "parentOrganization": "株式会社東京光線メディカル",
       "identifier": "1361090309",
-      "faxNumber": "03-3793-5281",
-      "_hours": "9:00〜17:30",
-      "_closed": "土・日・年末年始",
       "_town": "目黒",
+      "_kind": "営利法人",
+      "_designated": "2018-09-01",
+      "_years": 8.057494866529774,
       "_tags": [
         "目黒エリア",
         "訪問看護"
@@ -205,89 +204,23 @@
     },
     {
       "@type": "LocalBusiness",
-      "name": "トータルライフケア池尻大橋訪問看護ステーション",
-      "telephone": "03-6452-3621",
+      "name": "株式会社Ｇｒａｃｅ　在宅看護センターｎａｇｏｍｉ和セラピー",
+      "telephone": "03-6412-7041",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "目黒区",
-        "streetAddress": "東山3-20-20 サニイヒルズ東山101"
+        "streetAddress": "中目黒１－３－３ＵＲＢＡＮ　ＲＥＳＯＲＴ代官山８Ｄ"
       },
-      "parentOrganization": "（株）トータルライフケア",
-      "identifier": "1361090085",
-      "faxNumber": "03-6452-3631",
-      "_hours": "8:45〜17:45",
-      "_closed": "日・ＧＷ・年末年始",
-      "_town": "東山",
+      "parentOrganization": "株式会社Ｇｒａｃｅ",
+      "identifier": "1361090333",
+      "_town": "中目黒",
+      "_kind": "営利法人",
+      "_designated": "2020-01-01",
+      "_years": 6.72416153319644,
       "_tags": [
-        "東山エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "りゅうじん訪問看護ステーション東京",
-      "telephone": "03-6452-4821",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "目黒区",
-        "streetAddress": "三田2-18-18"
-      },
-      "parentOrganization": "大和ビルド（株）",
-      "identifier": "1360990152",
-      "faxNumber": "03-6452-4822",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "三田",
-      "_tags": [
-        "三田エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "小児訪問看護ステーション ルバート",
-      "telephone": "080-4139-0215",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "目黒区",
-        "streetAddress": "上目黒1-5-10-512"
-      },
-      "parentOrganization": "（株）Ｃａｎｔａｂｉｌｅ",
-      "identifier": "1361090556",
-      "faxNumber": "03-6740-1344",
-      "_hours": "10:00〜19:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "上目黒",
-      "_tags": [
-        "上目黒エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "街のイスキア訪問ナースステーション",
-      "telephone": "03-6303-4894",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "目黒区",
-        "streetAddress": "五本木3-22-15"
-      },
-      "parentOrganization": "（一社）街のイスキア",
-      "identifier": "1361090168",
-      "faxNumber": "03-6303-4895",
-      "_hours": "9:00〜18:00",
-      "_closed": "日・年末年始",
-      "_town": "五本木",
-      "_tags": [
-        "五本木エリア",
+        "中目黒エリア",
         "訪問看護"
       ]
     },
@@ -300,14 +233,14 @@
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "目黒区",
-        "streetAddress": "八雲1-7-21 第二ベルハウス401"
+        "streetAddress": "八雲１－７－２１第二ベルハウス４０１"
       },
-      "parentOrganization": "（株）フラッグシップ",
+      "parentOrganization": "株式会社フラッグシップ",
       "identifier": "1361090358",
-      "faxNumber": "03-6421-3645",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・夏季・年末年始",
       "_town": "八雲",
+      "_kind": "営利法人",
+      "_designated": "2020-02-01",
+      "_years": 6.639288158795345,
       "_tags": [
         "八雲エリア",
         "訪問看護"
@@ -315,21 +248,65 @@
     },
     {
       "@type": "LocalBusiness",
-      "name": "訪問看護ステーション さくら",
+      "name": "アーム訪問看護ステーション祐天寺",
+      "telephone": "03-6303-2417",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "祐天寺２－１５－１７"
+      },
+      "parentOrganization": "アームエイブル株式会社",
+      "identifier": "1361090382",
+      "_town": "祐天寺",
+      "_kind": "営利法人",
+      "_designated": "2020-07-01",
+      "_years": 6.225872689938399,
+      "_tags": [
+        "祐天寺エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "マイナビ訪問看護ステーション　自由が丘",
+      "telephone": "03-6421-1091",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "自由が丘２－１６－１９自由が丘メープル２階"
+      },
+      "parentOrganization": "株式会社マイナビナースケア",
+      "identifier": "1361090424",
+      "_town": "自由が丘",
+      "_kind": "営利法人",
+      "_designated": "2021-02-01",
+      "_years": 5.637234770704997,
+      "_tags": [
+        "自由が丘エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーションさくら",
       "telephone": "03-6303-2325",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "目黒区",
-        "streetAddress": "鷹番3-23-20-102"
+        "streetAddress": "鷹番３－２３－２０－１０２"
       },
-      "parentOrganization": "（株）ライフケア",
+      "parentOrganization": "株式会社ライフケア",
       "identifier": "1361090465",
-      "faxNumber": "03-6303-2327",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
       "_town": "鷹番",
+      "_kind": "営利法人",
+      "_designated": "2021-09-01",
+      "_years": 5.0568104038329915,
       "_tags": [
         "鷹番エリア",
         "訪問看護"
@@ -337,134 +314,161 @@
     },
     {
       "@type": "LocalBusiness",
-      "name": "ロコ訪問看護ステーション",
+      "name": "日扇会訪問看護ステーション",
+      "telephone": "03-6421-1521",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "中根２－１１－５ＪＬＢグランエクリュ都立大学３０１号室"
+      },
+      "parentOrganization": "医療法人財団日扇会",
+      "identifier": "1361090499",
+      "_town": "中根",
+      "_kind": "医療法人",
+      "_designated": "2023-07-01",
+      "_years": 3.2279260780287475,
+      "_tags": [
+        "中根エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "グレース訪問看護ステーション城南",
+      "telephone": "03-5734-1991",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "鷹番２－２０－１７ＴＳビル５０４"
+      },
+      "parentOrganization": "一般社団法人在宅医療協会",
+      "identifier": "1361090523",
+      "_town": "鷹番",
+      "_kind": "社団・財団",
+      "_designated": "2024-06-01",
+      "_years": 2.308008213552361,
+      "_tags": [
+        "鷹番エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "小児訪問看護ステーション　ルバート",
+      "telephone": "08041390215",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "上目黒１－５－１０－５１２号室"
+      },
+      "parentOrganization": "株式会社Ｃａｎｔａｂｉｌｅ",
+      "identifier": "1361090556",
+      "_town": "上目黒",
+      "_kind": "営利法人",
+      "_designated": "2025-03-01",
+      "_years": 1.5605749486652978,
+      "_tags": [
+        "上目黒エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "医療法人社団ＬＯＣＯ　ロコ訪問看護ステーション",
       "telephone": "03-3463-6565",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "目黒区",
-        "streetAddress": "青葉台1-23-5 第30宮庭マンション405"
+        "streetAddress": "青葉台１－２３－５第３０宮庭マンション４０５"
       },
-      "parentOrganization": "（医社）ＬＯＣＯ",
+      "parentOrganization": "医療法人社団ＬＯＣＯ",
       "identifier": "1361090580",
-      "faxNumber": "03-3463-6566",
-      "_hours": "9:00〜17:00",
-      "_closed": "土・日・年末年始",
       "_town": "青葉台",
+      "_kind": "医療法人",
+      "_designated": "2025-11-01",
+      "_years": 0.8898015058179329,
       "_tags": [
         "青葉台エリア",
+        "開設3年以内",
         "訪問看護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "すみれ訪問看護ステーション",
-      "telephone": "03-6412-8739",
+      "name": "訪問看護ステーション　デライト目黒",
+      "telephone": "03-5860-7185",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "目黒区",
-        "streetAddress": "中央町2-11-13 すみれレジデンス1階"
+        "streetAddress": "祐天寺１－１７－１４"
       },
-      "parentOrganization": "（医社）菫会",
-      "identifier": "1361090010",
-      "faxNumber": "03-6412-8740",
-      "_hours": "9:00〜17:00",
-      "_closed": "日・祝・年末年始",
-      "_town": "中央町",
+      "parentOrganization": "株式会社Ｈ＆Ｈホールディングス",
+      "identifier": "1361090606",
+      "_town": "祐天寺",
+      "_kind": "営利法人",
+      "_designated": "2026-07-01",
+      "_years": 0.2272416153319644,
       "_tags": [
-        "中央町エリア",
+        "祐天寺エリア",
+        "開設3年以内",
         "訪問看護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "訪問看護ステーションｉＴＳＵＭＯ〜いつも〜",
-      "telephone": "03-6697-4449",
+      "name": "自由が丘訪問看護ステーション",
+      "telephone": "03-5701-2010",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "目黒区",
-        "streetAddress": "目黒本町5-28-14 シルバーヒルズ102"
+        "streetAddress": "自由が丘１－２３－２４－１０１"
       },
-      "parentOrganization": "（株）ＲＡＬＩＢＬＥ",
-      "identifier": "1361090572",
-      "faxNumber": "03-6745-7666",
-      "_hours": "9:00〜18:00",
-      "_closed": "年末年始",
-      "_town": "目黒本町",
-      "_tags": [
-        "目黒本町エリア",
-        "土日も受付",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "訪問看護ステーション ミューチュアルナーシング",
-      "telephone": "03-6313-3503",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "目黒区",
-        "streetAddress": "大岡山1-37-13"
-      },
-      "parentOrganization": "（一社）ミューチュアルアンドアソシエイツ",
-      "identifier": "1361190851",
-      "faxNumber": "03-6780-2054",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "大岡山",
-      "_tags": [
-        "大岡山エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "かみよん訪問看護ステーション",
-      "telephone": "03-5725-0370",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "目黒区",
-        "streetAddress": "上目黒4-4-21 上目黒診療所3階"
-      },
-      "parentOrganization": "目黒医療生活協同組合",
-      "identifier": "1367193857",
-      "faxNumber": "03-5725-0371",
-      "_hours": "9:00〜17:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "上目黒",
-      "_tags": [
-        "上目黒エリア",
-        "訪問看護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "マイナビ訪問看護ステーション 自由が丘",
-      "telephone": "03-6421-1091",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "目黒区",
-        "streetAddress": "自由が丘2-16-19 自由が丘メープル2階"
-      },
-      "parentOrganization": "（株）マイナビナースケア",
-      "identifier": "1361090424",
-      "faxNumber": "03-6421-3982",
-      "_hours": "8:30〜17:30",
-      "_closed": "日・年末年始",
+      "parentOrganization": "社会福祉法人平成会",
+      "identifier": "1367191059",
       "_town": "自由が丘",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
       "_tags": [
         "自由が丘エリア",
+        "20年以上",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ナースステーション東京　目黒支店",
+      "telephone": "03-6417-0561",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "上目黒２－３６－３"
+      },
+      "parentOrganization": "株式会社日本在宅ケア教育研究所",
+      "identifier": "1367197031",
+      "_town": "上目黒",
+      "_kind": "営利法人",
+      "_designated": "2003-08-01",
+      "_years": 23.143052703627653,
+      "_tags": [
+        "上目黒エリア",
+        "20年以上",
         "訪問看護"
       ]
     }
@@ -476,11 +480,11 @@
     },
     {
       "q": "目黒区には訪問看護ステーションが何件ありますか？",
-      "a": "2026年9月時点で、介護情報サイトの掲載ベースで約42件のステーションが目黒区内にあります。本ページではそのうち20件を連絡先つきで掲載しています。全件は厚生労働省「介護サービス情報公表システム」で確認できます。"
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で目黒区内に41件の訪問看護ステーションが指定を受けています。本ページではそのうち20件を連絡先つきで掲載しています。"
     },
     {
       "q": "目黒区の掲載事業所は、どこを見て絞り込めばいいですか？",
-      "a": "まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。目黒区の掲載20件では年中無休が2件、土日も電話を受けるところを含めると3件あります。そのうえで、ご自宅の町名を伝えて目黒区内の対応エリアに入っているかを確認してください。"
+      "a": "まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。目黒区の掲載20件では営利法人が16件、医療法人が2件、指定から20年以上の事業所が2件です。そのうえで、ご自宅の町名を伝えて目黒区内の対応エリアに入っているかを確認してください。"
     },
     {
       "q": "目黒区で夜間や休日に急変したら、来てもらえますか？",
@@ -503,14 +507,15 @@
   "nearby_heading": "近隣エリアの訪問看護",
   "nearby": "<a href=\"{{ROOT}}houmon-kango/tokyo/shinagawa/\">品川区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/ota/\">大田区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/setagaya/\">世田谷区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/shibuya/\">渋谷区</a>",
   "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
     "厚生労働省「介護事業所・生活関連情報検索（介護サービス情報公表システム）」",
     "目黒区「地域包括支援センター一覧」",
     "厚生労働大臣が定める疾病等（訪問看護で医療保険が適用される範囲）",
     "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」訪問看護費／介護報酬の地域区分（1級地・1単位11.40円）",
     "日本郵便 郵便番号データにもとづく目黒区の町域一覧",
-    "区内事業所数の目安：ハートページナビ 掲載件数（2026年9月時点）"
+    "区内事業所数：東京都公表の指定事業所一覧にもとづく実数（2026年9月1日時点）"
   ],
-  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず主治医に相談を</h4>\n        <p>訪問看護は主治医の指示書が起点です。制度の分岐はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>目黒区内のステーションは約42件</li>\n          <li>起点は主治医の訪問看護指示書</li>\n          <li>30分未満の訪問で約537円（1割）</li>\n          <li>掲載20件のうち年中無休は2件</li>\n          <li>主治医が未定なら地域包括支援センターへ</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}guide/houmon-kaigo-dekirukoto/\">ヘルパーに頼めること</a></li>\n          <li><a href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみ</a></li>\n        </ul>\n      </div>",
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず主治医に相談を</h4>\n        <p>訪問看護は主治医の指示書が起点です。制度の分岐はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>目黒区内のステーションは約41件</li>\n          <li>起点は主治医の訪問看護指示書</li>\n          <li>30分未満の訪問で約537円（1割）</li>\n          <li>掲載20件のうち医療法人は2件</li>\n          <li>主治医が未定なら地域包括支援センターへ</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}guide/houmon-kaigo-dekirukoto/\">ヘルパーに頼めること</a></li>\n          <li><a href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみ</a></li>\n        </ul>\n      </div>",
   "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
   "hero_image": "assets/ogp-houmon-kango.jpg",
   "towns": {
