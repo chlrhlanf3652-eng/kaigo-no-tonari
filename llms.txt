@@ -165,6 +165,7 @@
 - [運営者情報｜かいごのとなり](https://kaigonotonari.com/about/)
 - [広告について｜かいごのとなり](https://kaigonotonari.com/ad-policy/)
 - [お問い合わせ・掲載依頼｜かいごのとなり](https://kaigonotonari.com/contact/)
+- [このサイトのデータの作り方｜出典・検算・載せていないこと](https://kaigonotonari.com/data-sources/)
 - [免責事項｜かいごのとなり](https://kaigonotonari.com/disclaimer/)
 - [高齢者向け配食サービスの選び方｜契約前に確認する5項目](https://kaigonotonari.com/guide/haishoku-erabikata/)
 - [ヘルパーに頼めること・頼めないこと｜訪問介護の線引き](https://kaigonotonari.com/guide/houmon-kaigo-dekirukoto/)
