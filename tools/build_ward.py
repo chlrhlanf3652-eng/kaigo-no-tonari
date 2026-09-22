@@ -250,7 +250,9 @@ def build(wid, site):
                 f"相談から利用開始までの流れをまとめました。はじめて介護保険を使う方は、"
                 f"まず「{madoguchi}」への相談から始めるのが近道です。",
         "listing_note": f"{ward}内の訪問介護事業所から{n}件を掲載しています（2026年9月時点）。"
-                        f"区内には約{total}件の事業所があり、全件は厚生労働省"
+                        + ("区内の全件から事業所番号の順に等間隔で抽出しています。"
+                           if rec.get("source") and total > n else "")
+                        + f"区内には約{total}件の事業所があり、全件は厚生労働省"
                         "「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
         "items": items, "faq": faq, "related": related,
         "nearby_heading": "近隣エリアの訪問介護", "nearby": nearby,
@@ -286,10 +288,11 @@ def build(wid, site):
 
 
 if __name__ == "__main__":
-    # 先頭が _ のファイルは補助データ、kango_ は訪問看護用なので除く
+    # 区の ID にアンダースコアは入らない。
+    # 接頭辞つき（kango_ / day_ / short_ / yogu_ …）と _ 始まりの補助データは
+    # サービス別のキャッシュなので、ここでは拾わない。
     targets = sys.argv[1:] or sorted(
-        p.stem for p in CACHE.glob("*.json")
-        if not p.stem.startswith(("_", "kango_")))
+        p.stem for p in CACHE.glob("*.json") if "_" not in p.stem)
     sp = BASE / "data" / "site.json"
     site = json.loads(sp.read_text(encoding="utf-8"))
     ok = sum(1 for t in targets if build(t, site))

@@ -1,0 +1,403 @@
+{
+  "slug": "day-service_tokyo_shibuya",
+  "category": {
+    "id": "day-service",
+    "name": "デイサービス",
+    "path": "/day-service/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "shibuya",
+    "city_name": "渋谷区"
+  },
+  "seo": {
+    "title": "渋谷区のデイサービス15事業所｜送迎と費用の見方【2026年9月更新】",
+    "description": "東京都渋谷区の通所介護（デイサービス）事業所15件を連絡先つきで掲載。区内15件の中から選ぶための所在町域・運営法人・開設年数の内訳と、1級地での自己負担、見学で聞くことをまとめました。",
+    "canonical": "https://kaigonotonari.com/day-service/tokyo/shibuya/",
+    "og_title": "渋谷区のデイサービス一覧｜送迎範囲と費用の見方",
+    "og_description": "渋谷区の通所介護事業所15件を掲載。送迎範囲・入浴設備・開設年数から選ぶ順番と、保険外費用を含めた費用の見方を解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-day-service.jpg"
+  },
+  "h1": "渋谷区のデイサービス一覧｜送迎範囲と費用の見方",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：15事業所",
+  "lead": "東京都渋谷区で通所介護（デイサービス）を探している方へ。東京都の指定を受けた15件から15件を連絡先つきで掲載し、所在町域・運営法人・開設からの年数の内訳と、1級地での自己負担をまとめました。デイサービスでいちばん多い壁は<strong>本人が行きたがらないこと</strong>です。選ぶ順番は近い順ではなく、通い続けられる条件の順になります。",
+  "listing_note": "渋谷区内の通所介護事業所から15件を掲載しています（東京都公表・2026年9月1日時点）。区内には15件が指定を受けており、そのすべてを掲載しています。定員18人以下の地域密着型通所介護は区が指定するため、この一覧には含まれていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "渋谷区あやめの苑・代々木",
+      "telephone": "03-3372-1103",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "渋谷区",
+        "streetAddress": "代々木３－３５－１"
+      },
+      "parentOrganization": "渋谷区",
+      "identifier": "1371300235",
+      "_town": "代々木",
+      "_kind": "地方公共団体（市町村）",
+      "_designated": "2000-03-01",
+      "_years": 26.559890485968516,
+      "_tags": [
+        "代々木エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "つるとかめ",
+      "telephone": "03-3376-1341",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "渋谷区",
+        "streetAddress": "笹塚２－３１－８"
+      },
+      "parentOrganization": "社会福祉法人中都",
+      "identifier": "1371300243",
+      "_town": "笹塚",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "_tags": [
+        "笹塚エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "パール鉢山",
+      "telephone": "03-5458-4813",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "渋谷区",
+        "streetAddress": "鉢山町３－２７"
+      },
+      "parentOrganization": "社会福祉法人パール",
+      "identifier": "1371300342",
+      "_town": "鉢山町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-01-04",
+      "_years": 26.715947980835043,
+      "_tags": [
+        "鉢山町エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "渋谷区ひがし健康プラザ高齢者在宅サービスセンター",
+      "telephone": "03-5466-2681",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "渋谷区",
+        "streetAddress": "東３－１４－１３"
+      },
+      "parentOrganization": "社会福祉法人奉優会",
+      "identifier": "1371301852",
+      "_town": "東",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2007-04-01",
+      "_years": 19.477070499657767,
+      "_tags": [
+        "東エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "渋谷区ケアステーション笹幡高齢者在宅サービスセンター",
+      "telephone": "03-5308-4332",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "渋谷区",
+        "streetAddress": "幡ケ谷２－２１－９"
+      },
+      "parentOrganization": "社会福祉法人奉優会",
+      "identifier": "1371301894",
+      "_town": "",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2007-04-01",
+      "_years": 19.477070499657767,
+      "_tags": [
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "日本赤十字社　総合福祉センター　特別養護老人ホーム　レクロス広尾　通所介護事業",
+      "telephone": "03-6861-4801",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "渋谷区",
+        "streetAddress": "広尾４－１－２３"
+      },
+      "parentOrganization": "日本赤十字社",
+      "identifier": "1371302645",
+      "_town": "広尾",
+      "_kind": "その他法人",
+      "_designated": "2012-04-01",
+      "_years": 14.47501711156742,
+      "_tags": [
+        "広尾エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "渋谷区総合ケアコミュニティ・せせらぎ高齢者在宅サービスセンター",
+      "telephone": "03-5790-0883",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "渋谷区",
+        "streetAddress": "西原１－４０－１０"
+      },
+      "parentOrganization": "社会福祉法人奉優会",
+      "identifier": "1371302728",
+      "_town": "西原",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2012-04-01",
+      "_years": 14.47501711156742,
+      "_tags": [
+        "西原エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "杜の風・上原　デイサービスセンター正吉苑",
+      "telephone": "03-6407-4233",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "渋谷区",
+        "streetAddress": "上原２－２－１７"
+      },
+      "parentOrganization": "社会福祉法人正吉福祉会",
+      "identifier": "1371302850",
+      "_town": "上原",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2013-04-01",
+      "_years": 13.475701574264203,
+      "_tags": [
+        "上原エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンターなごやか代官山",
+      "telephone": "03-5784-6651",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "渋谷区",
+        "streetAddress": "猿楽町７－１ＫＤＸ代官山レジデンス１Ｆ"
+      },
+      "parentOrganization": "なごやかケアリンク株式会社",
+      "identifier": "1371303346",
+      "_town": "猿楽町",
+      "_kind": "営利法人",
+      "_designated": "2016-06-01",
+      "_years": 10.30800821355236,
+      "_tags": [
+        "猿楽町エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンターなごやか幡ヶ谷",
+      "telephone": "03-5738-4653",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "渋谷区",
+        "streetAddress": "幡ケ谷１－２３－１７　プライムガーデン１階"
+      },
+      "parentOrganization": "なごやかケアリンク株式会社",
+      "identifier": "1371303379",
+      "_town": "",
+      "_kind": "営利法人",
+      "_designated": "2016-06-01",
+      "_years": 10.30800821355236,
+      "_tags": [
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンターなごやか参宮橋",
+      "telephone": "03-5452-3375",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "渋谷区",
+        "streetAddress": "代々木５－４２－１０藤和参宮橋コープⅡ１Ｆ"
+      },
+      "parentOrganization": "なごやかケアリンク株式会社",
+      "identifier": "1371303387",
+      "_town": "代々木",
+      "_kind": "営利法人",
+      "_designated": "2016-06-01",
+      "_years": 10.30800821355236,
+      "_tags": [
+        "代々木エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "グッドタイムクラブ・恵比寿",
+      "telephone": "03-3792-1451",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "渋谷区",
+        "streetAddress": "恵比寿南３－１１－２５"
+      },
+      "parentOrganization": "株式会社ＪＡＰＡＮライフデザイン",
+      "identifier": "1371303718",
+      "_town": "恵比寿南",
+      "_kind": "営利法人",
+      "_designated": "2020-04-01",
+      "_years": 6.4750171115674195,
+      "_tags": [
+        "恵比寿南エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ツクイ渋谷桜丘",
+      "telephone": "03-5784-2091",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "渋谷区",
+        "streetAddress": "桜丘町１１－８"
+      },
+      "parentOrganization": "株式会社ツクイ",
+      "identifier": "1371303726",
+      "_town": "桜丘町",
+      "_kind": "営利法人",
+      "_designated": "2020-06-01",
+      "_years": 6.308008213552362,
+      "_tags": [
+        "桜丘町エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "渋谷区かんなみの杜・渋谷高齢者在宅サービスセンター",
+      "telephone": "03-5784-3871",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "渋谷区",
+        "streetAddress": "神南１－８－６"
+      },
+      "parentOrganization": "社会福祉法人エンゼル福祉会",
+      "identifier": "1371303809",
+      "_town": "神南",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2021-05-01",
+      "_years": 5.393566050650239,
+      "_tags": [
+        "神南エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "渋谷区つばめの里・本町東高齢者在宅サービスセンター",
+      "telephone": "03-6383-3856",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "渋谷区",
+        "streetAddress": "本町３－４６－１"
+      },
+      "parentOrganization": "社会福祉法人奉優会",
+      "identifier": "1371303973",
+      "_town": "本町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2023-04-01",
+      "_years": 3.477070499657769,
+      "_tags": [
+        "本町エリア",
+        "デイサービス"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "渋谷区でデイサービスを使うには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければ地域包括支援センターに相談してください。デイサービスはケアプランに位置づける必要があるため、渋谷区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "渋谷区にデイサービスは何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で渋谷区内に15件の通所介護事業所が指定を受けています。本ページではそのうち15件を連絡先つきで掲載しています。なお定員18人以下の地域密着型通所介護は区が指定するため、この件数には含まれていません。"
+    },
+    {
+      "q": "渋谷区の掲載事業所は、どこを見て絞り込めばいいですか？",
+      "a": "まず送迎範囲に自宅が入るかで絞り、次に入浴設備（個浴か機械浴か）で絞るのが順番です。渋谷区の掲載15件では社会福祉法人（社協以外）が8件と最も多く、指定から20年以上の事業所も3件あります。長く続いているところは空きが出にくい一方、新しいところは空きがあります。"
+    },
+    {
+      "q": "渋谷区で自己負担はいくらくらいですか？",
+      "a": "渋谷区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたるため、通常規模型・7時間以上8時間未満なら1割負担で要介護1が約750円、要介護3が約1,026円、要介護5が約1,309円が目安です。ただし渋谷区でもこれに昼食代などの保険外費用が加わるため、事業所から1か月の総額の目安を出してもらってください。"
+    },
+    {
+      "q": "本人が渋谷区のデイサービスに行きたがりません。",
+      "a": "まず体験利用を試してください。渋谷区内には15件あり、掲載15件を見ても社会福祉法人（社協以外）が8件と偏りがあるように、規模も雰囲気も事業所ごとに違います。合わない理由別の対処（個浴のある事業所、小規模な事業所など）はデイサービスのしくみのページにまとめました。渋谷区でも週1回から始めて、慣れてから増やすのが定石です。"
+    },
+    {
+      "q": "渋谷区の事業所は、途中で変更できますか？",
+      "a": "変更できます。ケアマネジャーに相談すればケアプランを見直したうえで渋谷区内の別の事業所に切り替えられます。渋谷区は区内15件と候補があるので、合わずに変える方は珍しくありません。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/shibuya/\">渋谷区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/shibuya/\">渋谷区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/shibuya/\">渋谷区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/shibuya/\">渋谷区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/shibuya/\">渋谷区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/shibuya/\">渋谷区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアのデイサービス",
+  "nearby": "<a href=\"{{ROOT}}day-service/tokyo/shinjuku/\">新宿区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/minato/\">港区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/meguro/\">目黒区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/setagaya/\">世田谷区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/nakano/\">中野区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」通所介護費（令和6年度改定）／介護報酬の地域区分（1級地・1単位11.40円）",
+    "渋谷区「地域包括支援センター一覧」",
+    "日本郵便 郵便番号データにもとづく渋谷区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず体験利用を</h4>\n        <p>合うかどうかは見学だけでは分かりません。制度と費用はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}day-service/\">デイサービスのしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>渋谷区内の通所介護は15件（都指定）</li>\n          <li>7〜8時間・要介護1で約750円（1割）</li>\n          <li>食費などは全額自己負担</li>\n          <li>入口はケアマネか地域包括支援センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}day-service/\">デイサービスのしくみ</a></li>\n          <li><a href=\"{{ROOT}}short-stay/\">ショートステイ</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
+  "hero_image": "assets/ogp-day-service.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "shibuya"
+  }
+}

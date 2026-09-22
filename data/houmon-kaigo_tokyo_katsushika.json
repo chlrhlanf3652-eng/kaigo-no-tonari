@@ -24,7 +24,7 @@
   "modified": "2026-09-21",
   "count_label": "掲載：20事業所",
   "lead": "東京都葛飾区で訪問介護（ホームヘルプ）を探している方へ。区内にある約136件の事業所から20件を連絡先つきで掲載し、あわせて自己負担額の目安、ヘルパーに頼めること・頼めないこと、相談から利用開始までの流れをまとめました。はじめて介護保険を使う方は、まず「高齢者総合相談センター」への相談から始めるのが近道です。",
-  "listing_note": "葛飾区内の訪問介護事業所から20件を掲載しています（2026年9月時点）。区内には約136件の事業所があり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
+  "listing_note": "葛飾区内の訪問介護事業所から20件を掲載しています（2026年9月時点）。区内の全件から事業所番号の順に等間隔で抽出しています。区内には約136件の事業所があり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
@@ -42,120 +42,6 @@
       "_town": "西亀有",
       "_tags": [
         "西亀有エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "たんぽぽケア",
-      "telephone": "03-6662-8925",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "葛飾区",
-        "streetAddress": "奥戸４－２４－７"
-      },
-      "parentOrganization": "株式会社Ｅ＆Ｍ",
-      "identifier": "1372108256",
-      "_town": "奥戸",
-      "_tags": [
-        "奥戸エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "株式会社大起エンゼルヘルプ　葛飾ケアセンター",
-      "telephone": "03-5693-2221",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "葛飾区",
-        "streetAddress": "高砂２－１７－９神谷コーポ１階"
-      },
-      "parentOrganization": "株式会社大起エンゼルヘルプ",
-      "identifier": "1372200012",
-      "_town": "高砂",
-      "_tags": [
-        "高砂エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "有限会社　ヘルパーステーション高砂",
-      "telephone": "03-3673-2200",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "葛飾区",
-        "streetAddress": "高砂２－１９－４コーポセキネ３０１"
-      },
-      "parentOrganization": "有限会社ヘルパーステーション高砂",
-      "identifier": "1372200053",
-      "_town": "高砂",
-      "_tags": [
-        "高砂エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "有限会社　佐護シルバーケアサービス",
-      "telephone": "03-3602-4886",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "葛飾区",
-        "streetAddress": "亀有２－７７－６"
-      },
-      "parentOrganization": "有限会社　佐護シルバーケアサービス",
-      "identifier": "1372200095",
-      "_town": "亀有",
-      "_tags": [
-        "亀有エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "株式会社　愛和　介護事業本部",
-      "telephone": "03-6458-9901",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "葛飾区",
-        "streetAddress": "細田４－３－９"
-      },
-      "parentOrganization": "株式会社愛和",
-      "identifier": "1372200194",
-      "_town": "細田",
-      "_tags": [
-        "細田エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "エフ・ティー介護サービス",
-      "telephone": "03-5660-0213",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "葛飾区",
-        "streetAddress": "東金町１－３６－１－１１０"
-      },
-      "parentOrganization": "株式会社エフ・ティー介護サービス",
-      "identifier": "1372200277",
-      "_town": "東金町",
-      "_tags": [
-        "東金町エリア",
         "訪問介護"
       ]
     },
@@ -180,139 +66,6 @@
     },
     {
       "@type": "LocalBusiness",
-      "name": "ミサワ薬局　リボーンケアサービス",
-      "telephone": "03-5650-6700",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "葛飾区",
-        "streetAddress": "青戸３－３９－７一周ビル一階"
-      },
-      "parentOrganization": "株式会社ミサワ薬局",
-      "identifier": "1372200574",
-      "_town": "青戸",
-      "_tags": [
-        "青戸エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ヘルパーステーション　虹の輪",
-      "telephone": "03-5629-7229",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "葛飾区",
-        "streetAddress": "白鳥２－３－６"
-      },
-      "parentOrganization": "東京葛飾医療生活協同組合",
-      "identifier": "1372200624",
-      "_town": "白鳥",
-      "_tags": [
-        "白鳥エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "やさしい手葛飾訪問介護事業所",
-      "telephone": "05017521311",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "葛飾区",
-        "streetAddress": "金町６－１０－１ベルハイツ１階"
-      },
-      "parentOrganization": "株式会社やさしい手",
-      "identifier": "1372200632",
-      "_town": "金町",
-      "_tags": [
-        "金町エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ヘルパーステーション　ゆいま～る葛飾",
-      "telephone": "03-3690-6263",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "葛飾区",
-        "streetAddress": "堀切７－５－１８第３Ｊ＆Ｊビル"
-      },
-      "parentOrganization": "株式会社トータルケアサービス加島",
-      "identifier": "1372200749",
-      "_town": "堀切",
-      "_tags": [
-        "堀切エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "佐々木ケアサービス株式会社　在宅介護事業部　葛飾営業所",
-      "telephone": "03-5672-4801",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "葛飾区",
-        "streetAddress": "立石４－３０－１１"
-      },
-      "parentOrganization": "佐々木ケアサービス株式会社",
-      "identifier": "1372200905",
-      "_town": "立石",
-      "_tags": [
-        "立石エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ニチイケアセンター新小岩",
-      "telephone": "03-5671-5307",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "葛飾区",
-        "streetAddress": "奥戸４－２１－２０"
-      },
-      "parentOrganization": "株式会社ニチイ学館",
-      "identifier": "1372200921",
-      "_town": "奥戸",
-      "_tags": [
-        "奥戸エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "あん介護サービスセンター",
-      "telephone": "03-5613-8588",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "葛飾区",
-        "streetAddress": "西亀有４－１６－１５林マンション１階"
-      },
-      "parentOrganization": "株式会社ヘルスアンドメディカル",
-      "identifier": "1372200970",
-      "_town": "西亀有",
-      "_tags": [
-        "西亀有エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
       "name": "ホームヘルプサービス　ソラスト葛飾",
       "telephone": "03-5629-5851",
       "address": {
@@ -332,36 +85,74 @@
     },
     {
       "@type": "LocalBusiness",
-      "name": "ひなたぼっこ在宅介護サービス　金町",
-      "telephone": "03-5648-5350",
+      "name": "有限会社　グッドケア",
+      "telephone": "03-3657-2571",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "葛飾区",
-        "streetAddress": "東金町１－３６－２－１"
+        "streetAddress": "東新小岩五丁目１９番１１号"
       },
-      "parentOrganization": "株式会社マルワメディカルサービス",
-      "identifier": "1372201234",
-      "_town": "東金町",
+      "parentOrganization": "有限会社グッドケア",
+      "identifier": "1372201754",
+      "_town": "東新小岩",
       "_tags": [
-        "東金町エリア",
+        "東新小岩エリア",
         "訪問介護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "有限会社　ヘルパーステーションひまわり",
-      "telephone": "03-3695-0312",
+      "name": "ベストケアかつしか",
+      "telephone": "03-3603-1461",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "葛飾区",
-        "streetAddress": "堀切３－１７－１４コザキパレス１０１"
+        "streetAddress": "青戸五丁目８番１４号小島ビル１F"
       },
-      "parentOrganization": "有限会社　ヘルパーステーションひまわり",
-      "identifier": "1372201408",
+      "parentOrganization": "有限会社　せき介護サービス",
+      "identifier": "1372202117",
+      "_town": "青戸",
+      "_tags": [
+        "青戸エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ファミリーケアあおと",
+      "telephone": "03-5650-3885",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "青戸３－１２－４フルキビル１階"
+      },
+      "parentOrganization": "社会福祉法人すこやか福祉会",
+      "identifier": "1372202604",
+      "_town": "青戸",
+      "_tags": [
+        "青戸エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "山手ケアサービス葛飾",
+      "telephone": "03-5671-0058",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "堀切１－３８－１１"
+      },
+      "parentOrganization": "山手タクシー株式会社",
+      "identifier": "1372203339",
       "_town": "堀切",
       "_tags": [
         "堀切エリア",
@@ -370,17 +161,17 @@
     },
     {
       "@type": "LocalBusiness",
-      "name": "トーリツ訪問介護　お花茶屋",
-      "telephone": "03-6657-7080",
+      "name": "ケアサービスきりん",
+      "telephone": "03-6662-8452",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "葛飾区",
-        "streetAddress": "堀切３－２６－１"
+        "streetAddress": "堀切２－５５－１５"
       },
-      "parentOrganization": "株式会社トーリツ",
-      "identifier": "1372201457",
+      "parentOrganization": "株式会社リガード",
+      "identifier": "1372204071",
       "_town": "堀切",
       "_tags": [
         "堀切エリア",
@@ -389,20 +180,229 @@
     },
     {
       "@type": "LocalBusiness",
-      "name": "ニチイケアセンターせせらぎ",
-      "telephone": "03-5671-8801",
+      "name": "みやびサポート",
+      "telephone": "03-3672-1139",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "葛飾区",
-        "streetAddress": "細田２－２－４"
+        "streetAddress": "高砂３－２２－２"
       },
-      "parentOrganization": "株式会社ニチイ学館",
-      "identifier": "1372201556",
-      "_town": "細田",
+      "parentOrganization": "みやびサポート株式会社",
+      "identifier": "1372204444",
+      "_town": "高砂",
       "_tags": [
-        "細田エリア",
+        "高砂エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "きらら介護サービス　亀有",
+      "telephone": "03-5650-2735",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "青戸８－９－１６"
+      },
+      "parentOrganization": "株式会社グッドスタッフ",
+      "identifier": "1372205102",
+      "_town": "青戸",
+      "_tags": [
+        "青戸エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アースサポート新小岩",
+      "telephone": "03-3652-5111",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "新小岩１－３５－１１"
+      },
+      "parentOrganization": "アースサポート株式会社",
+      "identifier": "1372206076",
+      "_town": "新小岩",
+      "_tags": [
+        "新小岩エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問介護事業所あかつき",
+      "telephone": "03-6458-0935",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "高砂２－１－２６リバーサイドふじ３０２"
+      },
+      "parentOrganization": "株式会社曉",
+      "identifier": "1372206696",
+      "_town": "高砂",
+      "_tags": [
+        "高砂エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問介護事業所ハートフル葛飾",
+      "telephone": "03-6657-8718",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "高砂２－２－７ハウスオガワ２０１"
+      },
+      "parentOrganization": "株式会社ボンボヤージュ",
+      "identifier": "1372207587",
+      "_town": "高砂",
+      "_tags": [
+        "高砂エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＳＯＭＰＯケア　葛飾　訪問介護",
+      "telephone": "03-3602-3890",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "青戸３－３３－１４サンプラザビル６階"
+      },
+      "parentOrganization": "ＳＯＭＰＯケア株式会社",
+      "identifier": "1372208049",
+      "_town": "青戸",
+      "_tags": [
+        "青戸エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ニチイライフケア柴又ヘルパーステーション",
+      "telephone": "03-6458-9645",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "柴又７－１３－８"
+      },
+      "parentOrganization": "株式会社ニチイケアパレス",
+      "identifier": "1372208387",
+      "_town": "柴又",
+      "_tags": [
+        "柴又エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "すまいるらいふけあ",
+      "telephone": "03-3628-8377",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "亀有５－３３－４メゾン・ド・カメアリ２Ｆ－Ａ"
+      },
+      "parentOrganization": "株式会社すまいるらいふけあ",
+      "identifier": "1372208718",
+      "_town": "亀有",
+      "_tags": [
+        "亀有エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問介護　ゆにいく",
+      "telephone": "03-6662-8930",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "青戸１－１５－２メゾン藤１０３号室"
+      },
+      "parentOrganization": "株式会社ＷＨＥＥＬＦＲＯＮＴＩＥＲ",
+      "identifier": "1372208916",
+      "_town": "青戸",
+      "_tags": [
+        "青戸エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアステーションきらら高砂",
+      "telephone": "03-5612-6310",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "高砂３－１１－１４ステーションハイツ高砂１０４"
+      },
+      "parentOrganization": "スターツケアサービス株式会社",
+      "identifier": "1372209187",
+      "_town": "高砂",
+      "_tags": [
+        "高砂エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ソワン訪問介護センター２",
+      "telephone": "07064000278",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "青戸３－３７－３サンティージュビル　３号室"
+      },
+      "parentOrganization": "株式会社ＳＯＩＮ",
+      "identifier": "1372209351",
+      "_town": "青戸",
+      "_tags": [
+        "青戸エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヘルパーステーションリボーン東京",
+      "telephone": "05088936748",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "新小岩１－２５－１４セレクトーン４０３号室"
+      },
+      "parentOrganization": "株式会社ｒｅｂｏｒｎ",
+      "identifier": "1372209690",
+      "_town": "新小岩",
+      "_tags": [
+        "新小岩エリア",
         "訪問介護"
       ]
     }

@@ -1,0 +1,516 @@
+{
+  "slug": "day-service_tokyo_meguro",
+  "category": {
+    "id": "day-service",
+    "name": "デイサービス",
+    "path": "/day-service/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "meguro",
+    "city_name": "目黒区"
+  },
+  "seo": {
+    "title": "目黒区のデイサービス20事業所｜送迎と費用の見方【2026年9月更新】",
+    "description": "東京都目黒区の通所介護（デイサービス）事業所20件を連絡先つきで掲載。区内24件の中から選ぶための所在町域・運営法人・開設年数の内訳と、1級地での自己負担、見学で聞くことをまとめました。",
+    "canonical": "https://kaigonotonari.com/day-service/tokyo/meguro/",
+    "og_title": "目黒区のデイサービス一覧｜送迎範囲と費用の見方",
+    "og_description": "目黒区の通所介護事業所20件を掲載。送迎範囲・入浴設備・開設年数から選ぶ順番と、保険外費用を含めた費用の見方を解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-day-service.jpg"
+  },
+  "h1": "目黒区のデイサービス一覧｜送迎範囲と費用の見方",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：20事業所",
+  "lead": "東京都目黒区で通所介護（デイサービス）を探している方へ。東京都の指定を受けた24件から20件を連絡先つきで掲載し、所在町域・運営法人・開設からの年数の内訳と、1級地での自己負担をまとめました。デイサービスでいちばん多い壁は<strong>本人が行きたがらないこと</strong>です。選ぶ順番は近い順ではなく、通い続けられる条件の順になります。",
+  "listing_note": "目黒区内の通所介護事業所から20件を掲載しています（東京都公表・2026年9月1日時点）。区内には24件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。定員18人以下の地域密着型通所介護は区が指定するため、この一覧には含まれていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "青葉台さくら苑　高齢者在宅サービスセンター",
+      "telephone": "03-3791-3503",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "青葉台３－２１－６"
+      },
+      "parentOrganization": "社会福祉法人三交会",
+      "identifier": "1371000504",
+      "_town": "青葉台",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-02-01",
+      "_years": 26.639288158795345,
+      "_tags": [
+        "青葉台エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "清徳会ケアセンター",
+      "telephone": "03-3794-5662",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "目黒本町４－２－１"
+      },
+      "parentOrganization": "社会福祉法人清徳会",
+      "identifier": "1371000538",
+      "_town": "目黒本町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-02-01",
+      "_years": 26.639288158795345,
+      "_tags": [
+        "目黒本町エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサロンこまば",
+      "telephone": "03-3485-9823",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "大橋２－１９－１"
+      },
+      "parentOrganization": "社会福祉法人愛隣会",
+      "identifier": "1371000660",
+      "_town": "大橋",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-03-01",
+      "_years": 26.559890485968516,
+      "_tags": [
+        "大橋エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ゆめふる八雲店",
+      "telephone": "05017423791",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "八雲１－１０－６カンプス１階"
+      },
+      "parentOrganization": "株式会社やさしい手",
+      "identifier": "1371000918",
+      "_town": "八雲",
+      "_kind": "営利法人",
+      "_designated": "2000-10-01",
+      "_years": 25.973990417522245,
+      "_tags": [
+        "八雲エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "上目黒診療所",
+      "telephone": "03-3715-2272",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "上目黒４－４－２１"
+      },
+      "parentOrganization": "目黒医療生活協同組合",
+      "identifier": "1371001395",
+      "_town": "上目黒",
+      "_kind": "生協",
+      "_designated": "2006-10-01",
+      "_years": 19.975359342915812,
+      "_tags": [
+        "上目黒エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "パナソニック　エイジフリーケアセンター八雲・デイサービス",
+      "telephone": "03-5715-3201",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "八雲５－１７－２２　都立大学フラワーマンション１階"
+      },
+      "parentOrganization": "パナソニックエイジフリー株式会社",
+      "identifier": "1371002666",
+      "_town": "八雲",
+      "_kind": "営利法人",
+      "_designated": "2008-04-01",
+      "_years": 18.47501711156742,
+      "_tags": [
+        "八雲エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービス　清水の里",
+      "telephone": "03-6452-3555",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "目黒本町２－１５－４"
+      },
+      "parentOrganization": "株式会社グリーンハウス",
+      "identifier": "1371002930",
+      "_town": "目黒本町",
+      "_kind": "営利法人",
+      "_designated": "2010-03-01",
+      "_years": 16.56125941136208,
+      "_tags": [
+        "目黒本町エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "オハナ池尻大橋",
+      "telephone": "03-5459-2109",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "大橋１－８－３"
+      },
+      "parentOrganization": "東急ウェルネス株式会社",
+      "identifier": "1371003268",
+      "_town": "大橋",
+      "_kind": "営利法人",
+      "_designated": "2012-04-01",
+      "_years": 14.47501711156742,
+      "_tags": [
+        "大橋エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "健遊館　めぐろのゆ",
+      "telephone": "03-5990-4833",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "青葉台３－１６－２フォレスト青葉台１０２"
+      },
+      "parentOrganization": "株式会社健遊館",
+      "identifier": "1371003367",
+      "_town": "青葉台",
+      "_kind": "営利法人",
+      "_designated": "2012-08-01",
+      "_years": 14.140999315537304,
+      "_tags": [
+        "青葉台エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンターみやび",
+      "telephone": "03-6417-9468",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "下目黒２－１５－１０"
+      },
+      "parentOrganization": "株式会社ヘヴンリィ",
+      "identifier": "1371003896",
+      "_town": "下目黒",
+      "_kind": "営利法人",
+      "_designated": "2014-09-01",
+      "_years": 12.057494866529774,
+      "_tags": [
+        "下目黒エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービス夢楽西小山",
+      "telephone": "03-6712-2551",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "原町２－７－５コアプラス洗足１Ｆ"
+      },
+      "parentOrganization": "株式会社我喜大笑",
+      "identifier": "1371004076",
+      "_town": "原町",
+      "_kind": "営利法人",
+      "_designated": "2015-07-01",
+      "_years": 11.227926078028748,
+      "_tags": [
+        "原町エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＮＡＮＡＩＲＯ　ＣＯＯＫＩＮＧ　ＳＴＵＤＩＯ　自由が丘",
+      "telephone": "03-5731-8620",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "八雲２－９－４"
+      },
+      "parentOrganization": "株式会社ＳＯＹＯＫＡＺＥ",
+      "identifier": "1371004100",
+      "_town": "八雲",
+      "_kind": "営利法人",
+      "_designated": "2015-07-01",
+      "_years": 11.227926078028748,
+      "_tags": [
+        "八雲エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "リハビリテーション　ＡＹＵＭＵ　下目黒店",
+      "telephone": "03-6671-0362",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "下目黒３－１５－２松本ビル１階"
+      },
+      "parentOrganization": "株式会社ＡＹＵＭＵ",
+      "identifier": "1371004233",
+      "_town": "下目黒",
+      "_kind": "営利法人",
+      "_designated": "2016-05-01",
+      "_years": 10.392881587953456,
+      "_tags": [
+        "下目黒エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンターなごやか目黒",
+      "telephone": "03-5768-4151",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "原町１－１９－１０カザマビル１階"
+      },
+      "parentOrganization": "なごやかケアリンク株式会社",
+      "identifier": "1371004282",
+      "_town": "原町",
+      "_kind": "営利法人",
+      "_designated": "2016-06-01",
+      "_years": 10.30800821355236,
+      "_tags": [
+        "原町エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンター　あおぞら目黒",
+      "telephone": "03-6303-3758",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "原町１－２１－１０"
+      },
+      "parentOrganization": "株式会社日本社会福祉グループ",
+      "identifier": "1371004480",
+      "_town": "原町",
+      "_kind": "営利法人",
+      "_designated": "2017-04-01",
+      "_years": 9.475701574264203,
+      "_tags": [
+        "原町エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "グリーンデイ鷹番",
+      "telephone": "03-6451-2402",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "鷹番３－１５－１０永和レガート１階"
+      },
+      "parentOrganization": "介護ジャパン株式会社",
+      "identifier": "1371004712",
+      "_town": "鷹番",
+      "_kind": "営利法人",
+      "_designated": "2018-02-01",
+      "_years": 8.63791923340178,
+      "_tags": [
+        "鷹番エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アレッジ・ワークス　目黒三田",
+      "telephone": "03-6712-2594",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "三田２－１５－１２"
+      },
+      "parentOrganization": "株式会社颯花",
+      "identifier": "1371004837",
+      "_town": "三田",
+      "_kind": "営利法人",
+      "_designated": "2018-08-01",
+      "_years": 8.14236824093087,
+      "_tags": [
+        "三田エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "はつね柿の木坂",
+      "telephone": "03-6459-5172",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "柿の木坂１－２－２　１０１"
+      },
+      "parentOrganization": "株式会社オフィス３１３",
+      "identifier": "1371005149",
+      "_town": "柿の木坂",
+      "_kind": "営利法人",
+      "_designated": "2021-01-01",
+      "_years": 5.722108145106092,
+      "_tags": [
+        "柿の木坂エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ウェルビスタ　ケアスタジオ　駒場",
+      "telephone": "03-5790-2035",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "駒場１－３９－１８"
+      },
+      "parentOrganization": "株式会社ＳＯＹＯＫＡＺＥ",
+      "identifier": "1371005404",
+      "_town": "駒場",
+      "_kind": "営利法人",
+      "_designated": "2023-04-01",
+      "_years": 3.477070499657769,
+      "_tags": [
+        "駒場エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスクローバー学芸大学別邸",
+      "telephone": "03-3715-2266",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "目黒区",
+        "streetAddress": "中央町１－３－２ダイアン目黒ビル２階"
+      },
+      "parentOrganization": "株式会社ＣＬＯＶＥＲ",
+      "identifier": "1371005412",
+      "_town": "中央町",
+      "_kind": "営利法人",
+      "_designated": "2023-04-01",
+      "_years": 3.477070499657769,
+      "_tags": [
+        "中央町エリア",
+        "デイサービス"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "目黒区でデイサービスを使うには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければ地域包括支援センターに相談してください。デイサービスはケアプランに位置づける必要があるため、目黒区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "目黒区にデイサービスは何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で目黒区内に24件の通所介護事業所が指定を受けています。本ページではそのうち20件を連絡先つきで掲載しています。なお定員18人以下の地域密着型通所介護は区が指定するため、この件数には含まれていません。"
+    },
+    {
+      "q": "目黒区の掲載事業所は、どこを見て絞り込めばいいですか？",
+      "a": "まず送迎範囲に自宅が入るかで絞り、次に入浴設備（個浴か機械浴か）で絞るのが順番です。目黒区の掲載20件では営利法人が16件と最も多く、指定から20年以上の事業所も4件あります。長く続いているところは空きが出にくい一方、新しいところは空きがあります。"
+    },
+    {
+      "q": "目黒区で自己負担はいくらくらいですか？",
+      "a": "目黒区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたるため、通常規模型・7時間以上8時間未満なら1割負担で要介護1が約750円、要介護3が約1,026円、要介護5が約1,309円が目安です。ただし目黒区でもこれに昼食代などの保険外費用が加わるため、事業所から1か月の総額の目安を出してもらってください。"
+    },
+    {
+      "q": "本人が目黒区のデイサービスに行きたがりません。",
+      "a": "まず体験利用を試してください。目黒区内には24件あり、掲載20件を見ても営利法人が16件と偏りがあるように、規模も雰囲気も事業所ごとに違います。合わない理由別の対処（個浴のある事業所、小規模な事業所など）はデイサービスのしくみのページにまとめました。目黒区でも週1回から始めて、慣れてから増やすのが定石です。"
+    },
+    {
+      "q": "目黒区の事業所は、途中で変更できますか？",
+      "a": "変更できます。ケアマネジャーに相談すればケアプランを見直したうえで目黒区内の別の事業所に切り替えられます。目黒区は区内24件と候補があるので、合わずに変える方は珍しくありません。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/meguro/\">目黒区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/meguro/\">目黒区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/meguro/\">目黒区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/meguro/\">目黒区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/meguro/\">目黒区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/meguro/\">目黒区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアのデイサービス",
+  "nearby": "<a href=\"{{ROOT}}day-service/tokyo/shinagawa/\">品川区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/ota/\">大田区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/setagaya/\">世田谷区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/shibuya/\">渋谷区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」通所介護費（令和6年度改定）／介護報酬の地域区分（1級地・1単位11.40円）",
+    "目黒区「地域包括支援センター一覧」",
+    "日本郵便 郵便番号データにもとづく目黒区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず体験利用を</h4>\n        <p>合うかどうかは見学だけでは分かりません。制度と費用はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}day-service/\">デイサービスのしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>目黒区内の通所介護は24件（都指定）</li>\n          <li>7〜8時間・要介護1で約750円（1割）</li>\n          <li>食費などは全額自己負担</li>\n          <li>入口はケアマネか地域包括支援センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}day-service/\">デイサービスのしくみ</a></li>\n          <li><a href=\"{{ROOT}}short-stay/\">ショートステイ</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
+  "hero_image": "assets/ogp-day-service.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "meguro"
+  }
+}

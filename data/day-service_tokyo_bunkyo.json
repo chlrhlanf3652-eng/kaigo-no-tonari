@@ -1,0 +1,474 @@
+{
+  "slug": "day-service_tokyo_bunkyo",
+  "category": {
+    "id": "day-service",
+    "name": "デイサービス",
+    "path": "/day-service/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "bunkyo",
+    "city_name": "文京区"
+  },
+  "seo": {
+    "title": "文京区のデイサービス18事業所｜送迎と費用の見方【2026年9月更新】",
+    "description": "東京都文京区の通所介護（デイサービス）事業所18件を連絡先つきで掲載。区内18件の中から選ぶための所在町域・運営法人・開設年数の内訳と、1級地での自己負担、見学で聞くことをまとめました。",
+    "canonical": "https://kaigonotonari.com/day-service/tokyo/bunkyo/",
+    "og_title": "文京区のデイサービス一覧｜送迎範囲と費用の見方",
+    "og_description": "文京区の通所介護事業所18件を掲載。送迎範囲・入浴設備・開設年数から選ぶ順番と、保険外費用を含めた費用の見方を解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-day-service.jpg"
+  },
+  "h1": "文京区のデイサービス一覧｜送迎範囲と費用の見方",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：18事業所",
+  "lead": "東京都文京区で通所介護（デイサービス）を探している方へ。東京都の指定を受けた18件から18件を連絡先つきで掲載し、所在町域・運営法人・開設からの年数の内訳と、1級地での自己負担をまとめました。デイサービスでいちばん多い壁は<strong>本人が行きたがらないこと</strong>です。選ぶ順番は近い順ではなく、通い続けられる条件の順になります。",
+  "listing_note": "文京区内の通所介護事業所から18件を掲載しています（東京都公表・2026年9月1日時点）。区内には18件が指定を受けており、そのすべてを掲載しています。定員18人以下の地域密着型通所介護は区が指定するため、この一覧には含まれていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービス　ヨウコー駒込",
+      "telephone": "03-5834-1620",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "本駒込５－３２－８"
+      },
+      "parentOrganization": "株式会社揚工舎",
+      "identifier": "1370501742",
+      "_town": "本駒込",
+      "_kind": "営利法人",
+      "_designated": "2006-12-01",
+      "_years": 19.808350444900753,
+      "_tags": [
+        "本駒込エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "文京くすのき高齢者在宅サービスセンター",
+      "telephone": "03-3947-2801",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "大塚４－１８－１"
+      },
+      "parentOrganization": "社会福祉法人フロンティア",
+      "identifier": "1370501932",
+      "_town": "大塚",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2007-12-01",
+      "_years": 18.809034907597535,
+      "_tags": [
+        "大塚エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ベストリハ早稲田",
+      "telephone": "03-5155-2830",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "関口１－３５－１７山水ビル１階"
+      },
+      "parentOrganization": "ベストリハ株式会社",
+      "identifier": "1370502773",
+      "_town": "関口",
+      "_kind": "営利法人",
+      "_designated": "2013-11-01",
+      "_years": 12.889801505817934,
+      "_tags": [
+        "関口エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ジムデイサービス夢楽白山",
+      "telephone": "03-6240-0945",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "白山１－３３－１８白山ＮＴビル１Ｆ"
+      },
+      "parentOrganization": "株式会社我喜大笑",
+      "identifier": "1370502799",
+      "_town": "白山",
+      "_kind": "営利法人",
+      "_designated": "2014-01-01",
+      "_years": 12.722792607802875,
+      "_tags": [
+        "白山エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンターなごやか千石",
+      "telephone": "03-5940-6816",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "千石４－１８－１千石ハイツ１階"
+      },
+      "parentOrganization": "なごやかケアリンク株式会社",
+      "identifier": "1370503078",
+      "_town": "千石",
+      "_kind": "営利法人",
+      "_designated": "2016-06-01",
+      "_years": 10.30800821355236,
+      "_tags": [
+        "千石エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "文京大塚高齢者在宅サービスセンター",
+      "telephone": "03-3941-6760",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "大塚４－５０－１"
+      },
+      "parentOrganization": "社会福祉法人洛和福祉会",
+      "identifier": "1370503177",
+      "_town": "大塚",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2017-04-01",
+      "_years": 9.475701574264203,
+      "_tags": [
+        "大塚エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "文京昭和高齢者在宅サービスセンター",
+      "telephone": "03-5395-2376",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "本駒込２－２８－３１"
+      },
+      "parentOrganization": "社会福祉法人芙蓉会",
+      "identifier": "1370503193",
+      "_town": "本駒込",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2017-04-01",
+      "_years": 9.475701574264203,
+      "_tags": [
+        "本駒込エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "文京湯島高齢者在宅サービスセンター",
+      "telephone": "03-3814-1898",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "湯島２－２８－１４"
+      },
+      "parentOrganization": "社会福祉法人芙蓉会",
+      "identifier": "1370503201",
+      "_town": "湯島",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2017-04-01",
+      "_years": 9.475701574264203,
+      "_tags": [
+        "湯島エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "小日向ハウス",
+      "telephone": "03-3941-2226",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "小日向１－５－１３"
+      },
+      "parentOrganization": "一般社団法人まつふじ",
+      "identifier": "1370503334",
+      "_town": "小日向",
+      "_kind": "社団・財団",
+      "_designated": "2018-04-01",
+      "_years": 8.476386036960985,
+      "_tags": [
+        "小日向エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＳＯＭＰＯケア　いきいき小日向　デイサービス",
+      "telephone": "03-6902-5361",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "小日向２－８－１５"
+      },
+      "parentOrganization": "ＳＯＭＰＯケア株式会社",
+      "identifier": "1370503375",
+      "_town": "小日向",
+      "_kind": "営利法人",
+      "_designated": "2018-07-01",
+      "_years": 8.227241615331964,
+      "_tags": [
+        "小日向エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ゆららデイサービス江戸川橋",
+      "telephone": "03-6902-2411",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "水道２－７－５－１０１"
+      },
+      "parentOrganization": "株式会社ゆらら",
+      "identifier": "1370503557",
+      "_town": "水道",
+      "_kind": "営利法人",
+      "_designated": "2020-06-01",
+      "_years": 6.308008213552362,
+      "_tags": [
+        "水道エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＭＥＤＩＣＡＬ　ＰＲＯ　ＳＰＯＲＴＳ　介護デイサービス　護国寺",
+      "telephone": "03-5810-1613",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "大塚２－１７－１２美津野商事本社ビル４階"
+      },
+      "parentOrganization": "株式会社メディプロ",
+      "identifier": "1370503581",
+      "_town": "大塚",
+      "_kind": "営利法人",
+      "_designated": "2021-04-01",
+      "_years": 5.475701574264202,
+      "_tags": [
+        "大塚エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "チャレンジデイサービス",
+      "telephone": "03-6902-9761",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "本駒込２－２７－１０本駒込ＳＩビル２階"
+      },
+      "parentOrganization": "ＣＨＡＬＬＥＮＧＥＣａｒｅＪａｐａｎ株式会社",
+      "identifier": "1370503847",
+      "_town": "本駒込",
+      "_kind": "営利法人",
+      "_designated": "2024-10-01",
+      "_years": 1.9739904175222451,
+      "_tags": [
+        "本駒込エリア",
+        "開設3年以内",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ワンダーウイングボクシングジムマスターズクラブ",
+      "telephone": "03-4400-4555",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "本郷２－３９－６大同ビル８Ｆ"
+      },
+      "parentOrganization": "株式会社ユニプラグド",
+      "identifier": "1370503888",
+      "_town": "本郷",
+      "_kind": "営利法人",
+      "_designated": "2025-04-01",
+      "_years": 1.4757015742642026,
+      "_tags": [
+        "本郷エリア",
+        "開設3年以内",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "文京向丘高齢者在宅サービスセンター",
+      "telephone": "03-5814-1531",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "向丘２－２２－９"
+      },
+      "parentOrganization": "社会福祉法人芙蓉会",
+      "identifier": "1370503896",
+      "_town": "向丘",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2025-04-01",
+      "_years": 1.4757015742642026,
+      "_tags": [
+        "向丘エリア",
+        "開設3年以内",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "文京本郷高齢者在宅サービスセンター",
+      "telephone": "03-3816-2317",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "本郷４－２１－２"
+      },
+      "parentOrganization": "社会福祉法人芙蓉会",
+      "identifier": "1370503912",
+      "_town": "本郷",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2025-04-01",
+      "_years": 1.4757015742642026,
+      "_tags": [
+        "本郷エリア",
+        "開設3年以内",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ルネサンス　元氣ジム目白台",
+      "telephone": "03-6902-1788",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "目白台３－２８－１０Ｔｏｎｏｗａ　Ｇａｒｄｅｎ目白台"
+      },
+      "parentOrganization": "株式会社ルネサンス",
+      "identifier": "1370503938",
+      "_town": "目白台",
+      "_kind": "営利法人",
+      "_designated": "2025-06-01",
+      "_years": 1.3086926762491444,
+      "_tags": [
+        "目白台エリア",
+        "開設3年以内",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "文京千駄木高齢者在宅サービスセンター",
+      "telephone": "03-3827-5421",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "千駄木５－１９－２"
+      },
+      "parentOrganization": "社会福祉法人奉優会",
+      "identifier": "1370504035",
+      "_town": "千駄木",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2026-04-01",
+      "_years": 0.47638603696098564,
+      "_tags": [
+        "千駄木エリア",
+        "開設3年以内",
+        "デイサービス"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "文京区でデイサービスを使うには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければ高齢者あんしん相談センターに相談してください。デイサービスはケアプランに位置づける必要があるため、文京区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "文京区にデイサービスは何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で文京区内に18件の通所介護事業所が指定を受けています。本ページではそのうち18件を連絡先つきで掲載しています。なお定員18人以下の地域密着型通所介護は区が指定するため、この件数には含まれていません。"
+    },
+    {
+      "q": "文京区の掲載事業所は、どこを見て絞り込めばいいですか？",
+      "a": "まず送迎範囲に自宅が入るかで絞り、次に入浴設備（個浴か機械浴か）で絞るのが順番です。文京区の掲載18件では営利法人が10件と最も多く、指定から20年以上の事業所も0件あります。長く続いているところは空きが出にくい一方、新しいところは空きがあります。"
+    },
+    {
+      "q": "文京区で自己負担はいくらくらいですか？",
+      "a": "文京区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたるため、通常規模型・7時間以上8時間未満なら1割負担で要介護1が約750円、要介護3が約1,026円、要介護5が約1,309円が目安です。ただし文京区でもこれに昼食代などの保険外費用が加わるため、事業所から1か月の総額の目安を出してもらってください。"
+    },
+    {
+      "q": "本人が文京区のデイサービスに行きたがりません。",
+      "a": "まず体験利用を試してください。文京区内には18件あり、掲載18件を見ても営利法人が10件と偏りがあるように、規模も雰囲気も事業所ごとに違います。合わない理由別の対処（個浴のある事業所、小規模な事業所など）はデイサービスのしくみのページにまとめました。文京区でも週1回から始めて、慣れてから増やすのが定石です。"
+    },
+    {
+      "q": "文京区の事業所は、途中で変更できますか？",
+      "a": "変更できます。ケアマネジャーに相談すればケアプランを見直したうえで文京区内の別の事業所に切り替えられます。文京区は区内18件と候補があるので、合わずに変える方は珍しくありません。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/bunkyo/\">文京区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/bunkyo/\">文京区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/bunkyo/\">文京区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/bunkyo/\">文京区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/bunkyo/\">文京区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/bunkyo/\">文京区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアのデイサービス",
+  "nearby": "<a href=\"{{ROOT}}day-service/tokyo/chiyoda/\">千代田区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/shinjuku/\">新宿区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/toshima/\">豊島区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/kita/\">北区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/arakawa/\">荒川区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/taito/\">台東区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」通所介護費（令和6年度改定）／介護報酬の地域区分（1級地・1単位11.40円）",
+    "文京区「高齢者あんしん相談センター一覧」",
+    "日本郵便 郵便番号データにもとづく文京区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず体験利用を</h4>\n        <p>合うかどうかは見学だけでは分かりません。制度と費用はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}day-service/\">デイサービスのしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>文京区内の通所介護は18件（都指定）</li>\n          <li>7〜8時間・要介護1で約750円（1割）</li>\n          <li>食費などは全額自己負担</li>\n          <li>入口はケアマネか高齢者あんしん相談センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}day-service/\">デイサービスのしくみ</a></li>\n          <li><a href=\"{{ROOT}}short-stay/\">ショートステイ</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
+  "hero_image": "assets/ogp-day-service.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "bunkyo"
+  }
+}

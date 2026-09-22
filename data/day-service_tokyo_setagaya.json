@@ -1,0 +1,521 @@
+{
+  "slug": "day-service_tokyo_setagaya",
+  "category": {
+    "id": "day-service",
+    "name": "デイサービス",
+    "path": "/day-service/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "setagaya",
+    "city_name": "世田谷区"
+  },
+  "seo": {
+    "title": "世田谷区のデイサービス20事業所｜送迎と費用の見方【2026年9月更新】",
+    "description": "東京都世田谷区の通所介護（デイサービス）事業所20件を連絡先つきで掲載。区内99件の中から選ぶための所在町域・運営法人・開設年数の内訳と、1級地での自己負担、見学で聞くことをまとめました。",
+    "canonical": "https://kaigonotonari.com/day-service/tokyo/setagaya/",
+    "og_title": "世田谷区のデイサービス一覧｜送迎範囲と費用の見方",
+    "og_description": "世田谷区の通所介護事業所20件を掲載。送迎範囲・入浴設備・開設年数から選ぶ順番と、保険外費用を含めた費用の見方を解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-day-service.jpg"
+  },
+  "h1": "世田谷区のデイサービス一覧｜送迎範囲と費用の見方",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：20事業所",
+  "lead": "東京都世田谷区で通所介護（デイサービス）を探している方へ。東京都の指定を受けた99件から20件を連絡先つきで掲載し、所在町域・運営法人・開設からの年数の内訳と、1級地での自己負担をまとめました。デイサービスでいちばん多い壁は<strong>本人が行きたがらないこと</strong>です。選ぶ順番は近い順ではなく、通い続けられる条件の順になります。",
+  "listing_note": "世田谷区内の通所介護事業所から20件を掲載しています（東京都公表・2026年9月1日時点）。区内には99件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。定員18人以下の地域密着型通所介護は区が指定するため、この一覧には含まれていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "フレンズケアセンター",
+      "telephone": "03-3422-7494",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "下馬２－２１－１１"
+      },
+      "parentOrganization": "社会福祉法人日本フレンズ奉仕団",
+      "identifier": "1371201169",
+      "_town": "下馬",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-02-01",
+      "_years": 26.639288158795345,
+      "_tags": [
+        "下馬エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ゆめふる代沢店",
+      "telephone": "05017538187",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "代沢４－４４－１２Ｔｈｅ　ｇｌｏｂｅ　下北沢"
+      },
+      "parentOrganization": "株式会社やさしい手",
+      "identifier": "1371201383",
+      "_town": "代沢",
+      "_kind": "営利法人",
+      "_designated": "2000-03-01",
+      "_years": 26.559890485968516,
+      "_tags": [
+        "代沢エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "高齢者在宅サービスセンターデイ・ホーム弦巻",
+      "telephone": "03-5450-2003",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "弦巻５－１３－１９"
+      },
+      "parentOrganization": "社会福祉法人世田谷区社会福祉事業団",
+      "identifier": "1371201490",
+      "_town": "弦巻",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-03-01",
+      "_years": 26.559890485968516,
+      "_tags": [
+        "弦巻エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "有隣ケアセンター",
+      "telephone": "03-3482-3911",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "船橋２－１５－３８"
+      },
+      "parentOrganization": "社会福祉法人東京有隣会",
+      "identifier": "1371201672",
+      "_town": "船橋",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "_tags": [
+        "船橋エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "等々力の家デイホーム",
+      "telephone": "03-5752-0037",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "等々力８－２６－１６"
+      },
+      "parentOrganization": "社会福祉法人奉優会",
+      "identifier": "1371202274",
+      "_town": "等々力",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2001-04-01",
+      "_years": 25.475701574264203,
+      "_tags": [
+        "等々力エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービス　博水の郷",
+      "telephone": "03-5491-0340",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "鎌田３－１６－６"
+      },
+      "parentOrganization": "社会福祉法人大三島育徳会",
+      "identifier": "1371203157",
+      "_town": "鎌田",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2002-09-01",
+      "_years": 24.057494866529773,
+      "_tags": [
+        "鎌田エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "医療法人社団　英寿会　ケア悠友の家",
+      "telephone": "03-5451-3100",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "弦巻二丁目３９番７号"
+      },
+      "parentOrganization": "医療法人社団英寿会",
+      "identifier": "1371204932",
+      "_town": "弦巻",
+      "_kind": "医療法人",
+      "_designated": "2004-11-01",
+      "_years": 21.88911704312115,
+      "_tags": [
+        "弦巻エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "パナソニック　エイジフリーケアセンター用賀・デイサービス",
+      "telephone": "03-5797-5484",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "用賀２－３１－７　イイダアネックスⅠ－１０１"
+      },
+      "parentOrganization": "パナソニックエイジフリー株式会社",
+      "identifier": "1371207315",
+      "_town": "用賀",
+      "_kind": "営利法人",
+      "_designated": "2008-04-01",
+      "_years": 18.47501711156742,
+      "_tags": [
+        "用賀エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ニチイケアセンター用賀",
+      "telephone": "03-5491-5170",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "用賀３－９－１２"
+      },
+      "parentOrganization": "株式会社ニチイ学館",
+      "identifier": "1371208164",
+      "_town": "用賀",
+      "_kind": "営利法人",
+      "_designated": "2009-10-01",
+      "_years": 16.974674880219027,
+      "_tags": [
+        "用賀エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "奉優デイサービス池尻",
+      "telephone": "03-5779-9131",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "池尻２－３－４５"
+      },
+      "parentOrganization": "社会福祉法人奉優会",
+      "identifier": "1371209899",
+      "_town": "池尻",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2011-10-01",
+      "_years": 14.976043805612594,
+      "_tags": [
+        "池尻エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイ・ホーム　モア　世田谷瀬田",
+      "telephone": "03-6411-7474",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "瀬田２－５－８－１０２"
+      },
+      "parentOrganization": "株式会社ｍｏｒｅ",
+      "identifier": "1371210871",
+      "_town": "瀬田",
+      "_kind": "営利法人",
+      "_designated": "2012-12-01",
+      "_years": 13.806981519507186,
+      "_tags": [
+        "瀬田エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "レッツ倶楽部自由が丘",
+      "telephone": "03-5754-5780",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "奥沢３－３７－７"
+      },
+      "parentOrganization": "ＱＬＣプロデュース株式会社",
+      "identifier": "1371211499",
+      "_town": "奥沢",
+      "_kind": "営利法人",
+      "_designated": "2013-08-01",
+      "_years": 13.141683778234086,
+      "_tags": [
+        "奥沢エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "通所介護　ビバ・フローラ南館",
+      "telephone": "03-3706-7039",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "世田谷１－３６－１２"
+      },
+      "parentOrganization": "ルパックス透光株式会社",
+      "identifier": "1371213503",
+      "_town": "世田谷",
+      "_kind": "営利法人",
+      "_designated": "2016-04-01",
+      "_years": 10.47501711156742,
+      "_tags": [
+        "世田谷エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンター　いろどり",
+      "telephone": "03-6453-2691",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "上馬１－１４－１０"
+      },
+      "parentOrganization": "合同会社四岐彩",
+      "identifier": "1371213636",
+      "_town": "上馬",
+      "_kind": "営利法人",
+      "_designated": "2016-07-01",
+      "_years": 10.225872689938399,
+      "_tags": [
+        "上馬エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＪＡ東京中央リハビリデイサービス　リハプライド烏山",
+      "telephone": "03-5315-7552",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "北烏山３－５－５"
+      },
+      "parentOrganization": "株式会社ＪＡ東京中央セレモニーセンター",
+      "identifier": "1371214246",
+      "_town": "北烏山",
+      "_kind": "営利法人",
+      "_designated": "2017-03-01",
+      "_years": 9.560574948665298,
+      "_tags": [
+        "北烏山エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＮＡＮＡＩＲＯ　ＣＯＯＫＩＮＧ　ＳＴＵＤＩＯ　三軒茶屋",
+      "telephone": "03-5779-3920",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "太子堂３－３８－１５"
+      },
+      "parentOrganization": "株式会社ＳＯＹＯＫＡＺＥ",
+      "identifier": "1371215193",
+      "_town": "太子堂",
+      "_kind": "営利法人",
+      "_designated": "2018-07-01",
+      "_years": 8.227241615331964,
+      "_tags": [
+        "太子堂エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイ・プラス　モア　世田谷千歳船橋",
+      "telephone": "03-6413-7174",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "経堂４－１８－１"
+      },
+      "parentOrganization": "株式会社ｍｏｒｅ",
+      "identifier": "1371216175",
+      "_town": "経堂",
+      "_kind": "営利法人",
+      "_designated": "2020-12-01",
+      "_years": 5.806981519507187,
+      "_tags": [
+        "経堂エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "リハビリデイサービスnagomiプラス用賀店",
+      "telephone": "03-6432-7676",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "用賀３－４－６"
+      },
+      "parentOrganization": "株式会社ｎＣＳ",
+      "identifier": "1371216555",
+      "_town": "用賀",
+      "_kind": "営利法人",
+      "_designated": "2022-01-01",
+      "_years": 4.722792607802875,
+      "_tags": [
+        "用賀エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＳＰＲＯＵＴデイサービスポラリス大吉庵",
+      "telephone": "03-6453-2280",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "若林３－２１－３"
+      },
+      "parentOrganization": "株式会社ポラリス",
+      "identifier": "1371217280",
+      "_town": "若林",
+      "_kind": "営利法人",
+      "_designated": "2024-07-01",
+      "_years": 2.2258726899383983,
+      "_tags": [
+        "若林エリア",
+        "開設3年以内",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ソルシアス上用賀",
+      "telephone": "03-5799-6021",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "上用賀３－９－９"
+      },
+      "parentOrganization": "株式会社クラーチ",
+      "identifier": "1371217629",
+      "_town": "上用賀",
+      "_kind": "営利法人",
+      "_designated": "2025-04-01",
+      "_years": 1.4757015742642026,
+      "_tags": [
+        "上用賀エリア",
+        "開設3年以内",
+        "デイサービス"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "世田谷区でデイサービスを使うには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければあんしんすこやかセンターに相談してください。デイサービスはケアプランに位置づける必要があるため、世田谷区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "世田谷区にデイサービスは何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で世田谷区内に99件の通所介護事業所が指定を受けています。本ページではそのうち20件を連絡先つきで掲載しています。なお定員18人以下の地域密着型通所介護は区が指定するため、この件数には含まれていません。"
+    },
+    {
+      "q": "世田谷区の掲載事業所は、どこを見て絞り込めばいいですか？",
+      "a": "まず送迎範囲に自宅が入るかで絞り、次に入浴設備（個浴か機械浴か）で絞るのが順番です。世田谷区の掲載20件では営利法人が13件と最も多く、指定から20年以上の事業所も7件あります。長く続いているところは空きが出にくい一方、新しいところは空きがあります。"
+    },
+    {
+      "q": "世田谷区で自己負担はいくらくらいですか？",
+      "a": "世田谷区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたるため、通常規模型・7時間以上8時間未満なら1割負担で要介護1が約750円、要介護3が約1,026円、要介護5が約1,309円が目安です。ただし世田谷区でもこれに昼食代などの保険外費用が加わるため、事業所から1か月の総額の目安を出してもらってください。"
+    },
+    {
+      "q": "本人が世田谷区のデイサービスに行きたがりません。",
+      "a": "まず体験利用を試してください。世田谷区内には99件あり、掲載20件を見ても営利法人が13件と偏りがあるように、規模も雰囲気も事業所ごとに違います。合わない理由別の対処（個浴のある事業所、小規模な事業所など）はデイサービスのしくみのページにまとめました。世田谷区でも週1回から始めて、慣れてから増やすのが定石です。"
+    },
+    {
+      "q": "世田谷区の事業所は、途中で変更できますか？",
+      "a": "変更できます。ケアマネジャーに相談すればケアプランを見直したうえで世田谷区内の別の事業所に切り替えられます。世田谷区は区内99件と候補があるので、合わずに変える方は珍しくありません。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/setagaya/\">世田谷区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/setagaya/\">世田谷区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/setagaya/\">世田谷区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/setagaya/\">世田谷区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/setagaya/\">世田谷区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/setagaya/\">世田谷区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアのデイサービス",
+  "nearby": "<a href=\"{{ROOT}}day-service/tokyo/meguro/\">目黒区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/shibuya/\">渋谷区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/suginami/\">杉並区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/nakano/\">中野区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/ota/\">大田区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/komae/\">komae</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」通所介護費（令和6年度改定）／介護報酬の地域区分（1級地・1単位11.40円）",
+    "世田谷区「あんしんすこやかセンター一覧」",
+    "日本郵便 郵便番号データにもとづく世田谷区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず体験利用を</h4>\n        <p>合うかどうかは見学だけでは分かりません。制度と費用はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}day-service/\">デイサービスのしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>世田谷区内の通所介護は99件（都指定）</li>\n          <li>7〜8時間・要介護1で約750円（1割）</li>\n          <li>食費などは全額自己負担</li>\n          <li>入口はケアマネかあんしんすこやかセンター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}day-service/\">デイサービスのしくみ</a></li>\n          <li><a href=\"{{ROOT}}short-stay/\">ショートステイ</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
+  "hero_image": "assets/ogp-day-service.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "setagaya"
+  }
+}

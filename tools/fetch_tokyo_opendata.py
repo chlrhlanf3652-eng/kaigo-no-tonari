@@ -18,7 +18,11 @@ CSV の列:
 
 使い方:
   python3 tools/fetch_tokyo_opendata.py chiyoda adachi katsushika
-  python3 tools/fetch_tokyo_opendata.py --list      # CSV の列と件数を確認する
+  python3 tools/fetch_tokyo_opendata.py --cat day-service          # 通所介護を全区
+  python3 tools/fetch_tokyo_opendata.py --list                     # 列と件数を確認
+
+なお 地域密着型通所介護（定員18人以下）は市町村が指定するため、
+この都の一覧には含まれない。ページ側でその旨を明記している。
 """
 import csv
 import io
@@ -36,8 +40,16 @@ from wards import WARDS
 CACHE = pathlib.Path(__file__).parent / "cache"
 INDEX = ("https://www.fukushi.metro.tokyo.lg.jp/kourei/hoken/kaigo_lib/"
          "jigyo/shitei/togetsu")
-SERVICE = "訪問介護"
 SOURCE = "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）"
+
+# カテゴリ → (CSV のサービス種類, キャッシュの接頭辞)
+# 接頭辞が空のものは cache/<区>.json（訪問介護の既定の置き場）に書く。
+SERVICES = {
+    "houmon-kaigo": ("訪問介護", ""),
+    "day-service": ("通所介護", "day_"),
+    "short-stay": ("短期入所生活介護", "short_"),
+    "fukushi-yogu": ("福祉用具貸与", "yogu_"),
+}
 
 # 区ごとの相談窓口の呼び名と設置数（各区公式サイトで確認：2026-09-22）
 MADOGUCHI = {
@@ -69,11 +81,11 @@ def load_rows():
     return rows
 
 
-def to_records(rows, ward_name: str, want: int = 20):
+def to_records(rows, ward_name: str, service: str, want: int = 20):
     """その区・そのサービス種類・指定中のものだけを取り出す。"""
     out = []
     for r in rows:
-        if (r.get("サービス種類") or "").strip() != SERVICE:
+        if (r.get("サービス種類") or "").strip() != service:
             continue
         if (r.get("状態") or "").strip() != "指定":
             continue
@@ -94,31 +106,55 @@ def to_records(rows, ward_name: str, want: int = 20):
         if rec["name"] and rec["identifier"]:
             out.append(rec)
     total = len(out)
-    # 事業所番号順（=指定の古い順に近い）で安定させ、先頭 want 件を載せる
     out.sort(key=lambda x: x["identifier"])
-    return total, out[:want]
+    if total <= want:
+        return total, out
+    # 先頭から want 件を取ると事業所番号の若い＝古い事業所ばかりになり、
+    # その区を代表しない一覧になる（開設年数の内訳も1区分に潰れる）。
+    # 並び順を保ったまま等間隔で抜き、新旧が混ざるようにする。
+    step = total / want
+    picked = [out[min(int(i * step), total - 1)] for i in range(want)]
+    return total, picked
 
 
-def run(ward_id: str, rows):
+def run(ward_id: str, rows, cat: str = "houmon-kaigo"):
+    service, prefix = SERVICES[cat]
     w = WARDS[ward_id]
-    total, items = to_records(rows, w["name"])
-    madoguchi, centers = MADOGUCHI.get(ward_id, ("地域包括支援センター", None))
-    towns = F.fetch_towns(w["code"])
+    total, items = to_records(rows, w["name"], service)
+
+    base = CACHE / f"{ward_id}.json"
+    if prefix:
+        # 町域と相談窓口は訪問介護のキャッシュを使い回す（同じものを取り直さない）
+        if not base.exists():
+            print(f"   - {ward_id}: 基礎キャッシュがないためスキップ")
+            return None
+        src = json.loads(base.read_text(encoding="utf-8"))
+        madoguchi = src.get("madoguchi", "地域包括支援センター")
+        centers = src.get("centers")
+        towns = src.get("towns", [])
+    else:
+        madoguchi, centers = MADOGUCHI.get(ward_id, ("地域包括支援センター", None))
+        towns = F.fetch_towns(w["code"])
+
     rec = {"id": ward_id, "name": w["name"], "total": total,
            "madoguchi": madoguchi, "centers": centers,
            "items": items, "towns": towns,
-           "source": SOURCE,
+           "source": SOURCE, "service": service,
            "fetched": time.strftime("%Y-%m-%d")}
     CACHE.mkdir(exist_ok=True)
-    (CACHE / f"{ward_id}.json").write_text(
+    (CACHE / f"{prefix}{ward_id}.json").write_text(
         json.dumps(rec, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"   {w['name']}: 掲載{len(items)}件 / 区内{total}件 / "
-          f"窓口「{madoguchi}」{centers}か所 / 町域{len(towns)}")
+    flag = "" if len(items) >= 3 else "   ※ 3件未満"
+    print(f"   {w['name']}: 掲載{len(items)}件 / 区内{total}件{flag}")
     return rec
 
 
 if __name__ == "__main__":
     args = sys.argv[1:]
+    cat = "houmon-kaigo"
+    if args and args[0] == "--cat":
+        cat = args[1]
+        args = args[2:]
     rows = load_rows()
     if args and args[0] == "--list":
         print("  列:", list(rows[0].keys()))
@@ -127,9 +163,22 @@ if __name__ == "__main__":
         for k, v in c.most_common(12):
             print(f"    {v:5}  {k}")
         raise SystemExit
-    targets = args or list(MADOGUCHI)
+    service, prefix = SERVICES[cat]
+    print(f"  カテゴリ: {cat}（サービス種類「{service}」）")
+    # 訪問介護は3区だけ、それ以外は基礎キャッシュのある全区
+    if args:
+        targets = args
+    elif prefix:
+        targets = sorted(p.stem for p in CACHE.glob("*.json")
+                         if not p.stem.startswith(("_", "kango_", "day_",
+                                                   "short_", "yogu_")))
+    else:
+        targets = list(MADOGUCHI)
+    ok = 0
     for t in targets:
         try:
-            run(t, rows)
+            if run(t, rows, cat):
+                ok += 1
         except Exception as e:
             print(f"   × {t}: {e}")
+    print(f"\n{ok}/{len(targets)} 区を取得しました。")

@@ -218,25 +218,6 @@
     },
     {
       "@type": "LocalBusiness",
-      "name": "ＳＯＭＰＯケア　千代田港　訪問介護",
-      "telephone": "03-6268-9654",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "千代田区",
-        "streetAddress": "麹町４－５－４桜井ビル５階"
-      },
-      "parentOrganization": "ＳＯＭＰＯケア株式会社",
-      "identifier": "1370101667",
-      "_town": "麹町",
-      "_tags": [
-        "麹町エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
       "name": "ゆめかケア　神保町本店",
       "telephone": "03-6555-5404",
       "address": {
@@ -403,6 +384,25 @@
       "_town": "九段南",
       "_tags": [
         "九段南エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "手結ステーション",
+      "telephone": "03-6261-6960",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "飯田橋２－８－９－１０１"
+      },
+      "parentOrganization": "合同会社アルファ・アソシエイツ",
+      "identifier": "1371111723",
+      "_town": "飯田橋",
+      "_tags": [
+        "飯田橋エリア",
         "訪問介護"
       ]
     }

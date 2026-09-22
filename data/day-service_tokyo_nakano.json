@@ -1,0 +1,520 @@
+{
+  "slug": "day-service_tokyo_nakano",
+  "category": {
+    "id": "day-service",
+    "name": "デイサービス",
+    "path": "/day-service/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "nakano",
+    "city_name": "中野区"
+  },
+  "seo": {
+    "title": "中野区のデイサービス20事業所｜送迎と費用の見方【2026年9月更新】",
+    "description": "東京都中野区の通所介護（デイサービス）事業所20件を連絡先つきで掲載。区内25件の中から選ぶための所在町域・運営法人・開設年数の内訳と、1級地での自己負担、見学で聞くことをまとめました。",
+    "canonical": "https://kaigonotonari.com/day-service/tokyo/nakano/",
+    "og_title": "中野区のデイサービス一覧｜送迎範囲と費用の見方",
+    "og_description": "中野区の通所介護事業所20件を掲載。送迎範囲・入浴設備・開設年数から選ぶ順番と、保険外費用を含めた費用の見方を解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-day-service.jpg"
+  },
+  "h1": "中野区のデイサービス一覧｜送迎範囲と費用の見方",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：20事業所",
+  "lead": "東京都中野区で通所介護（デイサービス）を探している方へ。東京都の指定を受けた25件から20件を連絡先つきで掲載し、所在町域・運営法人・開設からの年数の内訳と、1級地での自己負担をまとめました。デイサービスでいちばん多い壁は<strong>本人が行きたがらないこと</strong>です。選ぶ順番は近い順ではなく、通い続けられる条件の順になります。",
+  "listing_note": "中野区内の通所介護事業所から20件を掲載しています（東京都公表・2026年9月1日時点）。区内には25件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。定員18人以下の地域密着型通所介護は区が指定するため、この一覧には含まれていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "ＦＲＥＳＨ　ＷＡＬＫ",
+      "telephone": "03-6304-2768",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "南台３－６－１７クリスタルコート６Ｆ"
+      },
+      "parentOrganization": "株式会社ドラマティック",
+      "identifier": "1370405175",
+      "_town": "南台",
+      "_kind": "営利法人",
+      "_designated": "2013-08-01",
+      "_years": 13.141683778234086,
+      "_tags": [
+        "南台エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "中野区かみさぎ高齢者在宅サービスセンター",
+      "telephone": "03-3926-8447",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "上鷺宮３丁目１７番４号"
+      },
+      "parentOrganization": "社会福祉法人武蔵野療園",
+      "identifier": "1371400514",
+      "_town": "上鷺宮",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2001-04-01",
+      "_years": 25.475701574264203,
+      "_tags": [
+        "上鷺宮エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "弥生ホーム",
+      "telephone": "03-5342-0820",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "弥生町２－４２－２"
+      },
+      "parentOrganization": "社会福祉法人ケアネット",
+      "identifier": "1371401058",
+      "_town": "弥生町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2001-03-01",
+      "_years": 25.560574948665298,
+      "_tags": [
+        "弥生町エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ニチイケアセンター中野",
+      "telephone": "03-5318-1801",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "上高田２－４６－６"
+      },
+      "parentOrganization": "株式会社ニチイ学館",
+      "identifier": "1371401173",
+      "_town": "上高田",
+      "_kind": "営利法人",
+      "_designated": "2001-10-01",
+      "_years": 24.974674880219027,
+      "_tags": [
+        "上高田エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンター　しらさぎホーム",
+      "telephone": "03-3336-6568",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "白鷺２－５１－５"
+      },
+      "parentOrganization": "社会福祉法人中野区福祉サービス事業団",
+      "identifier": "1371401538",
+      "_town": "白鷺",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2003-04-01",
+      "_years": 23.477070499657767,
+      "_tags": [
+        "白鷺エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "弥生高齢者在宅サービスセンター",
+      "telephone": "03-3370-9841",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "弥生町３－３３－８"
+      },
+      "parentOrganization": "社会福祉法人奉優会",
+      "identifier": "1371401587",
+      "_town": "弥生町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2003-04-01",
+      "_years": 23.477070499657767,
+      "_tags": [
+        "弥生町エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＮＰＯデイサービスセンター中野の郷ぷりむら",
+      "telephone": "03-5342-5108",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "南台３－６－１７クリスタルコート８８"
+      },
+      "parentOrganization": "特定非営利活動法人モンドラゴン中野の郷",
+      "identifier": "1371402312",
+      "_town": "南台",
+      "_kind": "非営利法人（NPO）",
+      "_designated": "2005-06-01",
+      "_years": 21.308692676249144,
+      "_tags": [
+        "南台エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "老人デイサービスセンターふじみ苑",
+      "telephone": "03-3382-0566",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "弥生町５－２－１９"
+      },
+      "parentOrganization": "社会福祉法人ケアネット",
+      "identifier": "1371402551",
+      "_town": "弥生町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2006-04-01",
+      "_years": 20.476386036960985,
+      "_tags": [
+        "弥生町エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヒューマンライフケア薬師の湯",
+      "telephone": "03-5913-1071",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "松が丘１－３３－１５アリススポーツビル１階"
+      },
+      "parentOrganization": "ヒューマンライフケア株式会社",
+      "identifier": "1371403443",
+      "_town": "松が丘",
+      "_kind": "営利法人",
+      "_designated": "2010-07-01",
+      "_years": 16.227241615331966,
+      "_tags": [
+        "松が丘エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンター　ひばり福寿苑",
+      "telephone": "03-6382-6717",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "本町５－４７－１０"
+      },
+      "parentOrganization": "株式会社ひばりケア",
+      "identifier": "1371403583",
+      "_town": "本町",
+      "_kind": "営利法人",
+      "_designated": "2011-01-01",
+      "_years": 15.723477070499658,
+      "_tags": [
+        "本町エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "グリーンデイ中野鷺宮",
+      "telephone": "03-5848-8906",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "鷺宮６－２８－２３"
+      },
+      "parentOrganization": "介護ジャパン株式会社",
+      "identifier": "1371404011",
+      "_town": "鷺宮",
+      "_kind": "営利法人",
+      "_designated": "2012-05-01",
+      "_years": 14.392881587953456,
+      "_tags": [
+        "鷺宮エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンター　ゆずりは",
+      "telephone": "03-5906-5321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "江原町２－８－２"
+      },
+      "parentOrganization": "社会福祉法人南東北福祉事業団",
+      "identifier": "1371404391",
+      "_town": "江原町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2013-08-01",
+      "_years": 13.141683778234086,
+      "_tags": [
+        "江原町エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "東中野ケアーズ",
+      "telephone": "03-5937-3277",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "東中野２－２８－１４メディカルコートⅡ　１階"
+      },
+      "parentOrganization": "株式会社ケアギバー・ジャパン",
+      "identifier": "1371405448",
+      "_town": "東中野",
+      "_kind": "営利法人",
+      "_designated": "2016-12-01",
+      "_years": 9.806981519507186,
+      "_tags": [
+        "東中野エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "いろはデイサービス",
+      "telephone": "03-3371-5377",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "中央３－１５－４"
+      },
+      "parentOrganization": "株式会社ふじ",
+      "identifier": "1371405612",
+      "_town": "中央",
+      "_kind": "営利法人",
+      "_designated": "2018-05-01",
+      "_years": 8.394250513347023,
+      "_tags": [
+        "中央エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "グリーンデイ東中野",
+      "telephone": "03-5332-3230",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "東中野４－２７－３９グレースハイツ１Ｆ"
+      },
+      "parentOrganization": "介護ジャパン株式会社",
+      "identifier": "1371405752",
+      "_town": "東中野",
+      "_kind": "営利法人",
+      "_designated": "2018-12-01",
+      "_years": 7.808350444900753,
+      "_tags": [
+        "東中野エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ウェルビスタ　ケアスタジオ　中野新橋",
+      "telephone": "03-5304-5121",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "弥生町２－１４－１４アジュールテラス中野新橋１階"
+      },
+      "parentOrganization": "株式会社ＳＯＹＯＫＡＺＥ",
+      "identifier": "1371405828",
+      "_town": "弥生町",
+      "_kind": "営利法人",
+      "_designated": "2019-06-01",
+      "_years": 7.310061601642711,
+      "_tags": [
+        "弥生町エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "奉優デイサービス中野",
+      "telephone": "03-6304-8570",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "中野３－２３－４７"
+      },
+      "parentOrganization": "社会福祉法人奉優会",
+      "identifier": "1371406131",
+      "_town": "中野",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2021-08-01",
+      "_years": 5.1416837782340865,
+      "_tags": [
+        "中野エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "らいおんハートリハビリ温泉デイサービス弥生町",
+      "telephone": "03-5358-3355",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "弥生町３－３６－９アゼリア中野１０１"
+      },
+      "parentOrganization": "株式会社カスケード東京",
+      "identifier": "1371406255",
+      "_town": "弥生町",
+      "_kind": "営利法人",
+      "_designated": "2023-05-01",
+      "_years": 3.3949349760438055,
+      "_tags": [
+        "弥生町エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "リハビリデイサービスｎａｇｏｍｉプラス中野店",
+      "telephone": "03-6382-7990",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "本町４－３８－１７"
+      },
+      "parentOrganization": "株式会社ｎＣＳ",
+      "identifier": "1371406263",
+      "_town": "本町",
+      "_kind": "営利法人",
+      "_designated": "2023-05-01",
+      "_years": 3.3949349760438055,
+      "_tags": [
+        "本町エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "レッツ倶楽部中野本町",
+      "telephone": "03-6276-6223",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "本町３－１－９メゾンドルネ１階"
+      },
+      "parentOrganization": "株式会社寶亭",
+      "identifier": "1371406412",
+      "_town": "本町",
+      "_kind": "営利法人",
+      "_designated": "2025-02-01",
+      "_years": 1.6372347707049966,
+      "_tags": [
+        "本町エリア",
+        "開設3年以内",
+        "デイサービス"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "中野区でデイサービスを使うには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければ地域包括支援センターに相談してください。デイサービスはケアプランに位置づける必要があるため、中野区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "中野区にデイサービスは何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で中野区内に25件の通所介護事業所が指定を受けています。本ページではそのうち20件を連絡先つきで掲載しています。なお定員18人以下の地域密着型通所介護は区が指定するため、この件数には含まれていません。"
+    },
+    {
+      "q": "中野区の掲載事業所は、どこを見て絞り込めばいいですか？",
+      "a": "まず送迎範囲に自宅が入るかで絞り、次に入浴設備（個浴か機械浴か）で絞るのが順番です。中野区の掲載20件では営利法人が12件と最も多く、指定から20年以上の事業所も7件あります。長く続いているところは空きが出にくい一方、新しいところは空きがあります。"
+    },
+    {
+      "q": "中野区で自己負担はいくらくらいですか？",
+      "a": "中野区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたるため、通常規模型・7時間以上8時間未満なら1割負担で要介護1が約750円、要介護3が約1,026円、要介護5が約1,309円が目安です。ただし中野区でもこれに昼食代などの保険外費用が加わるため、事業所から1か月の総額の目安を出してもらってください。"
+    },
+    {
+      "q": "本人が中野区のデイサービスに行きたがりません。",
+      "a": "まず体験利用を試してください。中野区内には25件あり、掲載20件を見ても営利法人が12件と偏りがあるように、規模も雰囲気も事業所ごとに違います。合わない理由別の対処（個浴のある事業所、小規模な事業所など）はデイサービスのしくみのページにまとめました。中野区でも週1回から始めて、慣れてから増やすのが定石です。"
+    },
+    {
+      "q": "中野区の事業所は、途中で変更できますか？",
+      "a": "変更できます。ケアマネジャーに相談すればケアプランを見直したうえで中野区内の別の事業所に切り替えられます。中野区は区内25件と候補があるので、合わずに変える方は珍しくありません。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/nakano/\">中野区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/nakano/\">中野区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/nakano/\">中野区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/nakano/\">中野区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/nakano/\">中野区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/nakano/\">中野区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアのデイサービス",
+  "nearby": "<a href=\"{{ROOT}}day-service/tokyo/shinjuku/\">新宿区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/shibuya/\">渋谷区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/setagaya/\">世田谷区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/suginami/\">杉並区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/nerima/\">練馬区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/toshima/\">豊島区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」通所介護費（令和6年度改定）／介護報酬の地域区分（1級地・1単位11.40円）",
+    "中野区「地域包括支援センター一覧」",
+    "日本郵便 郵便番号データにもとづく中野区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず体験利用を</h4>\n        <p>合うかどうかは見学だけでは分かりません。制度と費用はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}day-service/\">デイサービスのしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>中野区内の通所介護は25件（都指定）</li>\n          <li>7〜8時間・要介護1で約750円（1割）</li>\n          <li>食費などは全額自己負担</li>\n          <li>入口はケアマネか地域包括支援センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}day-service/\">デイサービスのしくみ</a></li>\n          <li><a href=\"{{ROOT}}short-stay/\">ショートステイ</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
+  "hero_image": "assets/ogp-day-service.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "nakano"
+  }
+}

@@ -1,0 +1,452 @@
+{
+  "slug": "day-service_tokyo_minato",
+  "category": {
+    "id": "day-service",
+    "name": "デイサービス",
+    "path": "/day-service/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "minato",
+    "city_name": "港区"
+  },
+  "seo": {
+    "title": "港区のデイサービス17事業所｜送迎と費用の見方【2026年9月更新】",
+    "description": "東京都港区の通所介護（デイサービス）事業所17件を連絡先つきで掲載。区内17件の中から選ぶための所在町域・運営法人・開設年数の内訳と、1級地での自己負担、見学で聞くことをまとめました。",
+    "canonical": "https://kaigonotonari.com/day-service/tokyo/minato/",
+    "og_title": "港区のデイサービス一覧｜送迎範囲と費用の見方",
+    "og_description": "港区の通所介護事業所17件を掲載。送迎範囲・入浴設備・開設年数から選ぶ順番と、保険外費用を含めた費用の見方を解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-day-service.jpg"
+  },
+  "h1": "港区のデイサービス一覧｜送迎範囲と費用の見方",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：17事業所",
+  "lead": "東京都港区で通所介護（デイサービス）を探している方へ。東京都の指定を受けた17件から17件を連絡先つきで掲載し、所在町域・運営法人・開設からの年数の内訳と、1級地での自己負担をまとめました。デイサービスでいちばん多い壁は<strong>本人が行きたがらないこと</strong>です。選ぶ順番は近い順ではなく、通い続けられる条件の順になります。",
+  "listing_note": "港区内の通所介護事業所から17件を掲載しています（東京都公表・2026年9月1日時点）。区内には17件が指定を受けており、そのすべてを掲載しています。定員18人以下の地域密着型通所介護は区が指定するため、この一覧には含まれていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "ニチイケアセンターしろかね",
+      "telephone": "03-5447-1572",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "白金３－３－１"
+      },
+      "parentOrganization": "株式会社ニチイ学館",
+      "identifier": "1370300830",
+      "_town": "白金",
+      "_kind": "営利法人",
+      "_designated": "2007-03-01",
+      "_years": 19.561943874058862,
+      "_tags": [
+        "白金エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンター友の里三田",
+      "telephone": "03-5427-5837",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "三田３－７－１６御田八幡ビル１Ｆ"
+      },
+      "parentOrganization": "株式会社ティーシーエス",
+      "identifier": "1370302174",
+      "_town": "三田",
+      "_kind": "営利法人",
+      "_designated": "2005-12-01",
+      "_years": 20.80766598220397,
+      "_tags": [
+        "三田エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンター　みたて",
+      "telephone": "03-5463-8521",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "港南４－５－３　都営港南４丁目アパート３号棟"
+      },
+      "parentOrganization": "社会福祉法人すこやか福祉会",
+      "identifier": "1370302208",
+      "_town": "港南",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2006-01-01",
+      "_years": 20.722792607802873,
+      "_tags": [
+        "港南エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンター新橋さくらの園いきいき",
+      "telephone": "03-3433-0180",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "新橋６－１９－２"
+      },
+      "parentOrganization": "社会福祉法人長岡福祉協会",
+      "identifier": "1370302356",
+      "_town": "新橋",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2006-05-01",
+      "_years": 20.39425051334702,
+      "_tags": [
+        "新橋エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "通所生活介護事業所　洛和デイセンター南麻布",
+      "telephone": "03-6408-8677",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "南麻布４-６-１"
+      },
+      "parentOrganization": "社会福祉法人洛和福祉会",
+      "identifier": "1370303156",
+      "_town": "南麻布",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2010-04-01",
+      "_years": 16.476386036960985,
+      "_tags": [
+        "南麻布エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "港区立高齢者在宅サービスセンター　白金の森",
+      "telephone": "03-3449-9615",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "白金台５－２０－５"
+      },
+      "parentOrganization": "社会福祉法人奉優会",
+      "identifier": "1370303487",
+      "_town": "白金台",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2011-04-01",
+      "_years": 15.477070499657769,
+      "_tags": [
+        "白金台エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "リハの郷　三田",
+      "telephone": "03-5765-5465",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "芝浦４－４－２７三田ナショナルコート１階"
+      },
+      "parentOrganization": "ＱＬＣプロデュース株式会社",
+      "identifier": "1370303909",
+      "_town": "芝浦",
+      "_kind": "営利法人",
+      "_designated": "2013-04-01",
+      "_years": 13.475701574264203,
+      "_tags": [
+        "芝浦エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "港区立芝高齢者在宅サービスセンター",
+      "telephone": "03-5232-0848",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "芝３－２４－５"
+      },
+      "parentOrganization": "医療法人財団湖聖会",
+      "identifier": "1370304535",
+      "_town": "芝",
+      "_kind": "医療法人",
+      "_designated": "2016-04-01",
+      "_years": 10.47501711156742,
+      "_tags": [
+        "芝エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "港区立虎ノ門高齢者在宅サービスセンター",
+      "telephone": "03-3539-3710",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "虎ノ門１－２１－１０"
+      },
+      "parentOrganization": "医療法人財団湖聖会",
+      "identifier": "1370304550",
+      "_town": "虎ノ門",
+      "_kind": "医療法人",
+      "_designated": "2016-04-01",
+      "_years": 10.47501711156742,
+      "_tags": [
+        "虎ノ門エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "港区立高齢者在宅サービスセンターサン・サン赤坂",
+      "telephone": "03-5561-7831",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "赤坂６－６－１４"
+      },
+      "parentOrganization": "社会福祉法人東京聖労院",
+      "identifier": "1370304584",
+      "_town": "赤坂",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2016-04-01",
+      "_years": 10.47501711156742,
+      "_tags": [
+        "赤坂エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "港区立高齢者在宅サービスセンター港南の郷",
+      "telephone": "03-3450-5571",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "港南３－３－２３"
+      },
+      "parentOrganization": "社会福祉法人恩賜財団済生会支部東京都済生会",
+      "identifier": "1370304592",
+      "_town": "港南",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2016-04-01",
+      "_years": 10.47501711156742,
+      "_tags": [
+        "港南エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "港区立南麻布高齢者在宅サービスセンター",
+      "telephone": "03-5232-9672",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "南麻布１－５－２６"
+      },
+      "parentOrganization": "社会福祉法人恩賜財団済生会支部東京都済生会",
+      "identifier": "1370304600",
+      "_town": "南麻布",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2016-04-01",
+      "_years": 10.47501711156742,
+      "_tags": [
+        "南麻布エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "港区立北青山高齢者在宅サービスセンター",
+      "telephone": "03-5410-3410",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "北青山１－６－１"
+      },
+      "parentOrganization": "社会福祉法人東京聖労院",
+      "identifier": "1370305433",
+      "_town": "北青山",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2022-04-01",
+      "_years": 4.476386036960986,
+      "_tags": [
+        "北青山エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービス　グッドライフケア汐留",
+      "telephone": "03-3434-7701",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "東新橋２－１８－３ルネパルティーレ汐留　１階"
+      },
+      "parentOrganization": "株式会社グッドライフケア",
+      "identifier": "1370305508",
+      "_town": "東新橋",
+      "_kind": "営利法人",
+      "_designated": "2022-11-01",
+      "_years": 3.890485968514716,
+      "_tags": [
+        "東新橋エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "港区立台場高齢者在宅サービスセンター",
+      "telephone": "03-5531-0520",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "台場１－５－５"
+      },
+      "parentOrganization": "医療法人財団湖聖会",
+      "identifier": "1370305565",
+      "_town": "台場",
+      "_kind": "医療法人",
+      "_designated": "2023-10-01",
+      "_years": 2.976043805612594,
+      "_tags": [
+        "台場エリア",
+        "開設3年以内",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアクエスト　グッドライフケア芝浦",
+      "telephone": "03-6435-2151",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "芝浦２－１５－２ラシーネ芝浦１階"
+      },
+      "parentOrganization": "株式会社グッドライフケア",
+      "identifier": "1370305755",
+      "_town": "芝浦",
+      "_kind": "営利法人",
+      "_designated": "2025-05-01",
+      "_years": 1.3935660506502396,
+      "_tags": [
+        "芝浦エリア",
+        "開設3年以内",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアベース　グッドライフケア渚橋",
+      "telephone": "03-6435-3416",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "港区",
+        "streetAddress": "芝浦４－１２－３８キャナルゲート芝浦１階"
+      },
+      "parentOrganization": "株式会社グッドライフケア",
+      "identifier": "1370305789",
+      "_town": "芝浦",
+      "_kind": "営利法人",
+      "_designated": "2025-09-01",
+      "_years": 1.056810403832991,
+      "_tags": [
+        "芝浦エリア",
+        "開設3年以内",
+        "デイサービス"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "港区でデイサービスを使うには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければ高齢者相談センターに相談してください。デイサービスはケアプランに位置づける必要があるため、港区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "港区にデイサービスは何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で港区内に17件の通所介護事業所が指定を受けています。本ページではそのうち17件を連絡先つきで掲載しています。なお定員18人以下の地域密着型通所介護は区が指定するため、この件数には含まれていません。"
+    },
+    {
+      "q": "港区の掲載事業所は、どこを見て絞り込めばいいですか？",
+      "a": "まず送迎範囲に自宅が入るかで絞り、次に入浴設備（個浴か機械浴か）で絞るのが順番です。港区の掲載17件では社会福祉法人（社協以外）が8件と最も多く、指定から20年以上の事業所も3件あります。長く続いているところは空きが出にくい一方、新しいところは空きがあります。"
+    },
+    {
+      "q": "港区で自己負担はいくらくらいですか？",
+      "a": "港区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたるため、通常規模型・7時間以上8時間未満なら1割負担で要介護1が約750円、要介護3が約1,026円、要介護5が約1,309円が目安です。ただし港区でもこれに昼食代などの保険外費用が加わるため、事業所から1か月の総額の目安を出してもらってください。"
+    },
+    {
+      "q": "本人が港区のデイサービスに行きたがりません。",
+      "a": "まず体験利用を試してください。港区内には17件あり、掲載17件を見ても社会福祉法人（社協以外）が8件と偏りがあるように、規模も雰囲気も事業所ごとに違います。合わない理由別の対処（個浴のある事業所、小規模な事業所など）はデイサービスのしくみのページにまとめました。港区でも週1回から始めて、慣れてから増やすのが定石です。"
+    },
+    {
+      "q": "港区の事業所は、途中で変更できますか？",
+      "a": "変更できます。ケアマネジャーに相談すればケアプランを見直したうえで港区内の別の事業所に切り替えられます。港区は区内17件と候補があるので、合わずに変える方は珍しくありません。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/minato/\">港区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/minato/\">港区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/minato/\">港区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/minato/\">港区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/minato/\">港区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/minato/\">港区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアのデイサービス",
+  "nearby": "<a href=\"{{ROOT}}day-service/tokyo/chiyoda/\">千代田区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/chuo/\">中央区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/shinagawa/\">品川区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/shibuya/\">渋谷区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/shinjuku/\">新宿区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」通所介護費（令和6年度改定）／介護報酬の地域区分（1級地・1単位11.40円）",
+    "港区「高齢者相談センター一覧」",
+    "日本郵便 郵便番号データにもとづく港区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず体験利用を</h4>\n        <p>合うかどうかは見学だけでは分かりません。制度と費用はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}day-service/\">デイサービスのしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>港区内の通所介護は17件（都指定）</li>\n          <li>7〜8時間・要介護1で約750円（1割）</li>\n          <li>食費などは全額自己負担</li>\n          <li>入口はケアマネか高齢者相談センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}day-service/\">デイサービスのしくみ</a></li>\n          <li><a href=\"{{ROOT}}short-stay/\">ショートステイ</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
+  "hero_image": "assets/ogp-day-service.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "minato"
+  }
+}

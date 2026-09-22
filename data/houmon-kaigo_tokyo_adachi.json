@@ -24,7 +24,7 @@
   "modified": "2026-09-21",
   "count_label": "掲載：20事業所",
   "lead": "東京都足立区で訪問介護（ホームヘルプ）を探している方へ。区内にある約194件の事業所から20件を連絡先つきで掲載し、あわせて自己負担額の目安、ヘルパーに頼めること・頼めないこと、相談から利用開始までの流れをまとめました。はじめて介護保険を使う方は、まず「地域包括支援センター（ホウカツ）」への相談から始めるのが近道です。",
-  "listing_note": "足立区内の訪問介護事業所から20件を掲載しています（2026年9月時点）。区内には約194件の事業所があり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
+  "listing_note": "足立区内の訪問介護事業所から20件を掲載しています（2026年9月時点）。区内の全件から事業所番号の順に等間隔で抽出しています。区内には約194件の事業所があり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
@@ -42,177 +42,6 @@
       "_town": "小台",
       "_tags": [
         "小台エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "楽しあ　きたがわ",
-      "telephone": "03-6806-2285",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "足立区",
-        "streetAddress": "千住河原町２２－６北川医院内"
-      },
-      "parentOrganization": "株式会社ブルーミア",
-      "identifier": "1371803162",
-      "_town": "千住河原町",
-      "_tags": [
-        "千住河原町エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ニッセイ・ケア",
-      "telephone": "03-3897-7345",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "足立区",
-        "streetAddress": "谷在家２－１２－３"
-      },
-      "parentOrganization": "日生産業株式会社",
-      "identifier": "1372100022",
-      "_town": "谷在家",
-      "_tags": [
-        "谷在家エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "株式会社　梅元ケアセンター",
-      "telephone": "03-3854-7890",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "足立区",
-        "streetAddress": "西新井６－３－８"
-      },
-      "parentOrganization": "株式会社梅元ケアセンター",
-      "identifier": "1372100147",
-      "_town": "西新井",
-      "_tags": [
-        "西新井エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "有限会社　あすなろ会",
-      "telephone": "03-5242-6001",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "足立区",
-        "streetAddress": "保木間５－２－２０"
-      },
-      "parentOrganization": "有限会社　あすなろ会",
-      "identifier": "1372100568",
-      "_town": "保木間",
-      "_tags": [
-        "保木間エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "株式会社　大起エンゼルヘルプ　足立ケアセンター",
-      "telephone": "03-3628-4111",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "足立区",
-        "streetAddress": "東和２－２６－１５ハイクレスト海老原ＮＯ３"
-      },
-      "parentOrganization": "株式会社大起エンゼルヘルプ",
-      "identifier": "1372100642",
-      "_town": "東和",
-      "_tags": [
-        "東和エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "わかばケアセンター六町",
-      "telephone": "03-5686-2282",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "足立区",
-        "streetAddress": "西加平２－３－１０"
-      },
-      "parentOrganization": "株式会社わかばケアセンター",
-      "identifier": "1372100667",
-      "_town": "西加平",
-      "_tags": [
-        "西加平エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "東伊興指定訪問介護事業所",
-      "telephone": "03-5839-5690",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "足立区",
-        "streetAddress": "東伊興３－１９－１０国寿マンション１０５号室"
-      },
-      "parentOrganization": "医療法人社団あすは会",
-      "identifier": "1372100717",
-      "_town": "東伊興",
-      "_tags": [
-        "東伊興エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "佐々木ケアサービス株式会社　在宅介護事業部",
-      "telephone": "03-3848-7151",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "足立区",
-        "streetAddress": "足立４－３７－１１"
-      },
-      "parentOrganization": "佐々木ケアサービス株式会社",
-      "identifier": "1372100741",
-      "_town": "足立",
-      "_tags": [
-        "足立エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ヘルパーステーション　ゆいま～る",
-      "telephone": "03-3881-5600",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "足立区",
-        "streetAddress": "千住仲町１６－４"
-      },
-      "parentOrganization": "株式会社トータルケアサービス加島",
-      "identifier": "1372100758",
-      "_town": "千住仲町",
-      "_tags": [
-        "千住仲町エリア",
         "訪問介護"
       ]
     },
@@ -237,150 +66,93 @@
     },
     {
       "@type": "LocalBusiness",
-      "name": "東京高齢協　のぞみ",
-      "telephone": "03-5856-0886",
+      "name": "おだい介護サービス有限会社",
+      "telephone": "03-5959-8885",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "足立区",
-        "streetAddress": "谷中４－１３－１１南勢堂ビル１０３"
+        "streetAddress": "小台２－２３－８"
       },
-      "parentOrganization": "生活協同組合・東京高齢協",
-      "identifier": "1372101103",
-      "_town": "谷中",
+      "parentOrganization": "おだい介護サービス有限会社",
+      "identifier": "1372102200",
+      "_town": "小台",
       "_tags": [
-        "谷中エリア",
+        "小台エリア",
         "訪問介護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "日介センター足立",
-      "telephone": "03-5839-8355",
+      "name": "ヒューマンサービス　やすらぎ",
+      "telephone": "03-5851-1171",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "足立区",
-        "streetAddress": "西新井１－３８－１８コーラルコート１階"
+        "streetAddress": "竹の塚１－２７－１タケカビル４Ｆ"
       },
-      "parentOrganization": "株式会社日本介護センター",
-      "identifier": "1372101137",
-      "_town": "西新井",
+      "parentOrganization": "株式会社やすらぎ",
+      "identifier": "1372103620",
+      "_town": "竹の塚",
       "_tags": [
-        "西新井エリア",
+        "竹の塚エリア",
         "訪問介護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "城北介護センター",
-      "telephone": "03-3870-4888",
+      "name": "こもれび介護サービス",
+      "telephone": "03-5681-5582",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "足立区",
-        "streetAddress": "千住宮元町３０－４"
+        "streetAddress": "本木２－１１－４"
       },
-      "parentOrganization": "株式会社ダイユウケアシステム",
-      "identifier": "1372101152",
-      "_town": "千住宮元町",
+      "parentOrganization": "有限会社こもれび介護サービス",
+      "identifier": "1372104644",
+      "_town": "本木",
       "_tags": [
-        "千住宮元町エリア",
+        "本木エリア",
         "訪問介護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "成仁訪問介護事業部",
-      "telephone": "050-3734-5293",
+      "name": "キャロットヘルプステーション",
+      "telephone": "03-5845-6411",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "足立区",
-        "streetAddress": "中川４－２－１４"
+        "streetAddress": "青井６－７－１８"
       },
-      "parentOrganization": "心身医療協会株式会社",
-      "identifier": "1372101228",
-      "_town": "中川",
+      "parentOrganization": "キャロット有限会社",
+      "identifier": "1372105831",
+      "_town": "青井",
       "_tags": [
-        "中川エリア",
+        "青井エリア",
         "訪問介護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "ハートぽっぽ",
-      "telephone": "03-3850-8455",
+      "name": "ＮＰＯ法人ライフサポートいぶき　訪問介護事業所",
+      "telephone": "03-5831-0102",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "足立区",
-        "streetAddress": "保木間１－５－２１"
+        "streetAddress": "六月３－１－５　清和マンション"
       },
-      "parentOrganization": "株式会社創カンパニー",
-      "identifier": "1372101244",
-      "_town": "保木間",
-      "_tags": [
-        "保木間エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ヘルパーステーションかるがも",
-      "telephone": "03-3889-8018",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "足立区",
-        "streetAddress": "梅島１－１３－１７"
-      },
-      "parentOrganization": "株式会社ケアフレンド",
-      "identifier": "1372101269",
-      "_town": "梅島",
-      "_tags": [
-        "梅島エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "医療法人財団　厚生協会　ホームヘルプサービス保木間",
-      "telephone": "03-3883-3113",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "足立区",
-        "streetAddress": "保木間５－２３－２０"
-      },
-      "parentOrganization": "医療法人財団厚生協会",
-      "identifier": "1372101319",
-      "_town": "保木間",
-      "_tags": [
-        "保木間エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ヘルパーステーション六月",
-      "telephone": "03-5242-0308",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "足立区",
-        "streetAddress": "六月１－６－１"
-      },
-      "parentOrganization": "社会福祉法人聖風会",
-      "identifier": "1372101426",
+      "parentOrganization": "特定非営利活動法人ライフサポートいぶき",
+      "identifier": "1372106797",
       "_town": "六月",
       "_tags": [
         "六月エリア",
@@ -389,20 +161,248 @@
     },
     {
       "@type": "LocalBusiness",
-      "name": "ニチイケアセンター足立",
-      "telephone": "03-5845-3568",
+      "name": "ＳＯＭＰＯケア　王子神谷　訪問介護",
+      "telephone": "03-5902-3861",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "足立区",
-        "streetAddress": "中央本町４－１０－２"
+        "streetAddress": "新田１‐３‐１９"
       },
-      "parentOrganization": "株式会社ニチイ学館",
-      "identifier": "1372101921",
-      "_town": "中央本町",
+      "parentOrganization": "ＳＯＭＰＯケア株式会社",
+      "identifier": "1372107480",
+      "_town": "新田",
       "_tags": [
-        "中央本町エリア",
+        "新田エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "希望介護サービス合同会社",
+      "telephone": "03-5242-8737",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "竹の塚３－２０－１０国井ハイツ２０１"
+      },
+      "parentOrganization": "希望介護サービス合同会社",
+      "identifier": "1372108074",
+      "_town": "竹の塚",
+      "_tags": [
+        "竹の塚エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "とねり介護タクシー株式会社",
+      "telephone": "0120-500-442",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "舎人５－７－２１"
+      },
+      "parentOrganization": "とねり介護タクシー株式会社",
+      "identifier": "1372108793",
+      "_town": "舎人",
+      "_tags": [
+        "舎人エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ジョイル　ケア",
+      "telephone": "03-5849-5503",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "東綾瀬２－３－１－７０２号"
+      },
+      "parentOrganization": "株式会社ジョイル",
+      "identifier": "1372109973",
+      "_town": "東綾瀬",
+      "_tags": [
+        "東綾瀬エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアリッツ綾瀬",
+      "telephone": "03-5888-4844",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "綾瀬４－２２－２ヴィラ綾瀬１階"
+      },
+      "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
+      "identifier": "1372110849",
+      "_town": "綾瀬",
+      "_tags": [
+        "綾瀬エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ご長寿くらぶ足立・梅田訪問介護事業所",
+      "telephone": "03-6806-4480",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "梅田４－３９－１６"
+      },
+      "parentOrganization": "株式会社アーバンアーキテック",
+      "identifier": "1372111540",
+      "_town": "梅田",
+      "_tags": [
+        "梅田エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアリッツ竹の塚",
+      "telephone": "03-5851-9150",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "竹の塚４－９－５エーデルブルーメカワチ１階"
+      },
+      "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
+      "identifier": "1372112209",
+      "_town": "竹の塚",
+      "_tags": [
+        "竹の塚エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアリッツ舎人",
+      "telephone": "03-6807-1758",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "舎人２－９－１アークガレリア事務所１階"
+      },
+      "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
+      "identifier": "1372112936",
+      "_town": "舎人",
+      "_tags": [
+        "舎人エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ウィルケア",
+      "telephone": "03-6318-5820",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "鹿浜１－２０－１２さくらビル５０１"
+      },
+      "parentOrganization": "株式会社ＳＴウィル",
+      "identifier": "1372113314",
+      "_town": "鹿浜",
+      "_tags": [
+        "鹿浜エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "春の風支援センター訪問介護",
+      "telephone": "03-5888-7542",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "栗原３－１０－１９"
+      },
+      "parentOrganization": "株式会社凌澤",
+      "identifier": "1372113652",
+      "_town": "栗原",
+      "_tags": [
+        "栗原エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "かんぱい",
+      "telephone": "03-5647-8848",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "鹿浜５－１７－１５"
+      },
+      "parentOrganization": "株式会社ＫＰＩ",
+      "identifier": "1372114015",
+      "_town": "鹿浜",
+      "_tags": [
+        "鹿浜エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "なないろかいご",
+      "telephone": "03-5856-7760",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "保木間１－１９－２プラセール竹の塚１階"
+      },
+      "parentOrganization": "合同会社ｔａｓｋａｇｅｎｔ",
+      "identifier": "1372114403",
+      "_town": "保木間",
+      "_tags": [
+        "保木間エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ゆるり訪問介護",
+      "telephone": "03-5809-5450",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "保木間３－３７－５メゾンドアン１０２号"
+      },
+      "parentOrganization": "合同会社サンソフィア司",
+      "identifier": "1372114841",
+      "_town": "保木間",
+      "_tags": [
+        "保木間エリア",
         "訪問介護"
       ]
     }

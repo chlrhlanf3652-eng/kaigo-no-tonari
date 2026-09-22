@@ -1,0 +1,520 @@
+{
+  "slug": "day-service_tokyo_adachi",
+  "category": {
+    "id": "day-service",
+    "name": "デイサービス",
+    "path": "/day-service/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "adachi",
+    "city_name": "足立区"
+  },
+  "seo": {
+    "title": "足立区のデイサービス20事業所｜送迎と費用の見方【2026年9月更新】",
+    "description": "東京都足立区の通所介護（デイサービス）事業所20件を連絡先つきで掲載。区内107件の中から選ぶための所在町域・運営法人・開設年数の内訳と、1級地での自己負担、見学で聞くことをまとめました。",
+    "canonical": "https://kaigonotonari.com/day-service/tokyo/adachi/",
+    "og_title": "足立区のデイサービス一覧｜送迎範囲と費用の見方",
+    "og_description": "足立区の通所介護事業所20件を掲載。送迎範囲・入浴設備・開設年数から選ぶ順番と、保険外費用を含めた費用の見方を解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-day-service.jpg"
+  },
+  "h1": "足立区のデイサービス一覧｜送迎範囲と費用の見方",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：20事業所",
+  "lead": "東京都足立区で通所介護（デイサービス）を探している方へ。東京都の指定を受けた107件から20件を連絡先つきで掲載し、所在町域・運営法人・開設からの年数の内訳と、1級地での自己負担をまとめました。デイサービスでいちばん多い壁は<strong>本人が行きたがらないこと</strong>です。選ぶ順番は近い順ではなく、通い続けられる条件の順になります。",
+  "listing_note": "足立区内の通所介護事業所から20件を掲載しています（東京都公表・2026年9月1日時点）。区内には107件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。定員18人以下の地域密着型通所介護は区が指定するため、この一覧には含まれていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンター六月",
+      "telephone": "03-5242-0301",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "六月１－６－１"
+      },
+      "parentOrganization": "社会福祉法人聖風会",
+      "identifier": "1372101434",
+      "_town": "六月",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-03-01",
+      "_years": 26.559890485968516,
+      "_tags": [
+        "六月エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "社会福祉法人　愛寿会　西綾瀬在宅サービスセンター",
+      "telephone": "03-5681-2020",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "西綾瀬３－２－１"
+      },
+      "parentOrganization": "社会福祉法人愛寿会",
+      "identifier": "1372101525",
+      "_town": "西綾瀬",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-03-01",
+      "_years": 26.559890485968516,
+      "_tags": [
+        "西綾瀬エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンターさくら",
+      "telephone": "03-5691-7150",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "皿沼二丁目８番８号"
+      },
+      "parentOrganization": "社会福祉法人足立邦栄会",
+      "identifier": "1372101889",
+      "_town": "皿沼",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "_tags": [
+        "皿沼エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスゆいまーる",
+      "telephone": "03-3881-1250",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "千住仲町１６－４ゆいまーるビル"
+      },
+      "parentOrganization": "株式会社トータルケアサービス加島",
+      "identifier": "1372102689",
+      "_town": "千住仲町",
+      "_kind": "営利法人",
+      "_designated": "2002-02-01",
+      "_years": 24.637919233401778,
+      "_tags": [
+        "千住仲町エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアセンターつどい　谷中",
+      "telephone": "03-5613-8332",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "谷中３-８-１９"
+      },
+      "parentOrganization": "メディカル・ケア・プランニング株式会社",
+      "identifier": "1372104040",
+      "_town": "谷中",
+      "_kind": "営利法人",
+      "_designated": "2004-03-01",
+      "_years": 22.559890485968516,
+      "_tags": [
+        "谷中エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンターハピネスあだち",
+      "telephone": "03-5839-1560",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "江北３－１４－１"
+      },
+      "parentOrganization": "社会福祉法人ファミリー",
+      "identifier": "1372105443",
+      "_town": "江北",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2006-04-01",
+      "_years": 20.476386036960985,
+      "_tags": [
+        "江北エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "おしどりデイサービスセンター",
+      "telephone": "03-5839-3371",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "鹿浜７-２５-１５シャトーセブン鹿浜１階"
+      },
+      "parentOrganization": "医療法人社団福寿会",
+      "identifier": "1372106391",
+      "_town": "鹿浜",
+      "_kind": "医療法人",
+      "_designated": "2007-06-01",
+      "_years": 19.310061601642712,
+      "_tags": [
+        "鹿浜エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスえくぼ",
+      "telephone": "03-3858-0450",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "保木間２－２３－２"
+      },
+      "parentOrganization": "有限会社えくぼ",
+      "identifier": "1372106557",
+      "_town": "保木間",
+      "_kind": "営利法人",
+      "_designated": "2007-10-01",
+      "_years": 18.976043805612594,
+      "_tags": [
+        "保木間エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "フィットネス　デイ　ハンド・イン・ハンド",
+      "telephone": "03-3855-9010",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "西新井５－１３－８"
+      },
+      "parentOrganization": "株式会社ハンド・イン・ハンド",
+      "identifier": "1372107316",
+      "_town": "西新井",
+      "_kind": "営利法人",
+      "_designated": "2009-09-01",
+      "_years": 17.05681040383299,
+      "_tags": [
+        "西新井エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ハートデイサービスセンター",
+      "telephone": "03-5856-0291",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "大谷田５－２８－１５"
+      },
+      "parentOrganization": "株式会社エイ・ブレイン",
+      "identifier": "1372107936",
+      "_town": "大谷田",
+      "_kind": "営利法人",
+      "_designated": "2011-04-01",
+      "_years": 15.477070499657769,
+      "_tags": [
+        "大谷田エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ベストリハ西新井",
+      "telephone": "03-3852-3171",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "西新井栄町１－１７－２０レコシティ・プライム１階"
+      },
+      "parentOrganization": "ベストリハ株式会社",
+      "identifier": "1372108769",
+      "_town": "西新井栄町",
+      "_kind": "営利法人",
+      "_designated": "2012-06-01",
+      "_years": 14.30800821355236,
+      "_tags": [
+        "西新井栄町エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ベストケア・デイサービスセンター足立六町",
+      "telephone": "03-3885-7580",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "一ツ家３－１７－５プレミールタニノ１階"
+      },
+      "parentOrganization": "ベストケア株式会社",
+      "identifier": "1372109395",
+      "_town": "一ツ家",
+      "_kind": "営利法人",
+      "_designated": "2013-05-01",
+      "_years": 13.39356605065024,
+      "_tags": [
+        "一ツ家エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンター　ル・ソラリオン綾瀬",
+      "telephone": "03-5613-1176",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "東綾瀬３－９－１"
+      },
+      "parentOrganization": "社会福祉法人敬仁会",
+      "identifier": "1372110716",
+      "_town": "東綾瀬",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2015-04-01",
+      "_years": 11.477070499657769,
+      "_tags": [
+        "東綾瀬エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社ケアサービス　デイサービスセンター島根",
+      "telephone": "03-5831-0211",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "島根４－５－２４"
+      },
+      "parentOrganization": "株式会社ケアサービス",
+      "identifier": "1372112332",
+      "_town": "島根",
+      "_kind": "営利法人",
+      "_designated": "2018-05-01",
+      "_years": 8.394250513347023,
+      "_tags": [
+        "島根エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ａｋａｒｉ舎人",
+      "telephone": "03-6807-1273",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "舎人５－２－２１"
+      },
+      "parentOrganization": "株式会社ヒューマンサポート",
+      "identifier": "1372112670",
+      "_town": "舎人",
+      "_kind": "営利法人",
+      "_designated": "2019-02-01",
+      "_years": 7.638603696098563,
+      "_tags": [
+        "舎人エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "コンパスウォーク保木間",
+      "telephone": "03-5856-6649",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "保木間１－１９－２"
+      },
+      "parentOrganization": "株式会社フォー・ツリーズ",
+      "identifier": "1372113157",
+      "_town": "保木間",
+      "_kind": "営利法人",
+      "_designated": "2020-05-01",
+      "_years": 6.392881587953457,
+      "_tags": [
+        "保木間エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ジョイリハプラス大師前",
+      "telephone": "03-6806-3351",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "栗原３－１０－１９－１０９"
+      },
+      "parentOrganization": "株式会社ヤマウチ",
+      "identifier": "1372113504",
+      "_town": "栗原",
+      "_kind": "営利法人",
+      "_designated": "2021-04-01",
+      "_years": 5.475701574264202,
+      "_tags": [
+        "栗原エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "リハプライド　足立区入谷",
+      "telephone": "03-5647-6146",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "入谷２－１９－１４ホワイトハイツ市川　１Ｆ店舗（１０１号室）"
+      },
+      "parentOrganization": "株式会社ＨＡＲＵ",
+      "identifier": "1372114007",
+      "_town": "入谷",
+      "_kind": "営利法人",
+      "_designated": "2023-04-01",
+      "_years": 3.477070499657769,
+      "_tags": [
+        "入谷エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンター　ｏｎｅＨｅａｒｔ",
+      "telephone": "03-5851-6033",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "花畑３－１２－４メゾンクレール１Ｆ"
+      },
+      "parentOrganization": "株式会社ＮＥＸＴＯｎｅ",
+      "identifier": "1372114775",
+      "_town": "花畑",
+      "_kind": "営利法人",
+      "_designated": "2025-06-01",
+      "_years": 1.3086926762491444,
+      "_tags": [
+        "花畑エリア",
+        "開設3年以内",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヒーローいきいき",
+      "telephone": "03-3605-7826",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "谷中３－２０－１２"
+      },
+      "parentOrganization": "合同会社認知症総合研究所",
+      "identifier": "1372115194",
+      "_town": "谷中",
+      "_kind": "営利法人",
+      "_designated": "2026-04-01",
+      "_years": 0.47638603696098564,
+      "_tags": [
+        "谷中エリア",
+        "開設3年以内",
+        "デイサービス"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "足立区でデイサービスを使うには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければ地域包括支援センター（ホウカツ）に相談してください。デイサービスはケアプランに位置づける必要があるため、足立区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "足立区にデイサービスは何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で足立区内に107件の通所介護事業所が指定を受けています。本ページではそのうち20件を連絡先つきで掲載しています。なお定員18人以下の地域密着型通所介護は区が指定するため、この件数には含まれていません。"
+    },
+    {
+      "q": "足立区の掲載事業所は、どこを見て絞り込めばいいですか？",
+      "a": "まず送迎範囲に自宅が入るかで絞り、次に入浴設備（個浴か機械浴か）で絞るのが順番です。足立区の掲載20件では営利法人が14件と最も多く、指定から20年以上の事業所も6件あります。長く続いているところは空きが出にくい一方、新しいところは空きがあります。"
+    },
+    {
+      "q": "足立区で自己負担はいくらくらいですか？",
+      "a": "足立区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたるため、通常規模型・7時間以上8時間未満なら1割負担で要介護1が約750円、要介護3が約1,026円、要介護5が約1,309円が目安です。ただし足立区でもこれに昼食代などの保険外費用が加わるため、事業所から1か月の総額の目安を出してもらってください。"
+    },
+    {
+      "q": "本人が足立区のデイサービスに行きたがりません。",
+      "a": "まず体験利用を試してください。足立区内には107件あり、掲載20件を見ても営利法人が14件と偏りがあるように、規模も雰囲気も事業所ごとに違います。合わない理由別の対処（個浴のある事業所、小規模な事業所など）はデイサービスのしくみのページにまとめました。足立区でも週1回から始めて、慣れてから増やすのが定石です。"
+    },
+    {
+      "q": "足立区の事業所は、途中で変更できますか？",
+      "a": "変更できます。ケアマネジャーに相談すればケアプランを見直したうえで足立区内の別の事業所に切り替えられます。足立区は区内107件と候補があるので、合わずに変える方は珍しくありません。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/adachi/\">足立区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/adachi/\">足立区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/adachi/\">足立区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/adachi/\">足立区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/adachi/\">足立区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/adachi/\">足立区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアのデイサービス",
+  "nearby": "<a href=\"{{ROOT}}day-service/tokyo/kita/\">北区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/arakawa/\">荒川区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/sumida/\">墨田区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/katsushika/\">葛飾区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/itabashi/\">板橋区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/taito/\">台東区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」通所介護費（令和6年度改定）／介護報酬の地域区分（1級地・1単位11.40円）",
+    "足立区「地域包括支援センター（ホウカツ）一覧」",
+    "日本郵便 郵便番号データにもとづく足立区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず体験利用を</h4>\n        <p>合うかどうかは見学だけでは分かりません。制度と費用はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}day-service/\">デイサービスのしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>足立区内の通所介護は107件（都指定）</li>\n          <li>7〜8時間・要介護1で約750円（1割）</li>\n          <li>食費などは全額自己負担</li>\n          <li>入口はケアマネか地域包括支援センター（ホウカツ）</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}day-service/\">デイサービスのしくみ</a></li>\n          <li><a href=\"{{ROOT}}short-stay/\">ショートステイ</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
+  "hero_image": "assets/ogp-day-service.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "adachi"
+  }
+}

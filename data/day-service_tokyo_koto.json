@@ -1,0 +1,522 @@
+{
+  "slug": "day-service_tokyo_koto",
+  "category": {
+    "id": "day-service",
+    "name": "デイサービス",
+    "path": "/day-service/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "koto",
+    "city_name": "江東区"
+  },
+  "seo": {
+    "title": "江東区のデイサービス20事業所｜送迎と費用の見方【2026年9月更新】",
+    "description": "東京都江東区の通所介護（デイサービス）事業所20件を連絡先つきで掲載。区内52件の中から選ぶための所在町域・運営法人・開設年数の内訳と、1級地での自己負担、見学で聞くことをまとめました。",
+    "canonical": "https://kaigonotonari.com/day-service/tokyo/koto/",
+    "og_title": "江東区のデイサービス一覧｜送迎範囲と費用の見方",
+    "og_description": "江東区の通所介護事業所20件を掲載。送迎範囲・入浴設備・開設年数から選ぶ順番と、保険外費用を含めた費用の見方を解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-day-service.jpg"
+  },
+  "h1": "江東区のデイサービス一覧｜送迎範囲と費用の見方",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：20事業所",
+  "lead": "東京都江東区で通所介護（デイサービス）を探している方へ。東京都の指定を受けた52件から20件を連絡先つきで掲載し、所在町域・運営法人・開設からの年数の内訳と、1級地での自己負担をまとめました。デイサービスでいちばん多い壁は<strong>本人が行きたがらないこと</strong>です。選ぶ順番は近い順ではなく、通い続けられる条件の順になります。",
+  "listing_note": "江東区内の通所介護事業所から20件を掲載しています（東京都公表・2026年9月1日時点）。区内には52件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。定員18人以下の地域密着型通所介護は区が指定するため、この一覧には含まれていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "深川愛の園デイサービスセンター",
+      "telephone": "03-3641-1962",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "富岡１－１５－９"
+      },
+      "parentOrganization": "社会福祉法人聖救主福祉会",
+      "identifier": "1370800508",
+      "_town": "富岡",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-02-01",
+      "_years": 26.639288158795345,
+      "_tags": [
+        "富岡エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "寿園サービスセンター",
+      "telephone": "03-3615-4850",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "北砂２－１－１６"
+      },
+      "parentOrganization": "社会福祉法人江東ことぶき会",
+      "identifier": "1370800615",
+      "_town": "北砂",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-03-01",
+      "_years": 26.559890485968516,
+      "_tags": [
+        "北砂エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "すこやかホーム東陽町",
+      "telephone": "03-5665-3090",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "南砂１－３－２０　東京トラック同盟協同組合会館３階"
+      },
+      "parentOrganization": "株式会社すこやか",
+      "identifier": "1370801340",
+      "_town": "南砂",
+      "_kind": "営利法人",
+      "_designated": "2002-05-01",
+      "_years": 24.39425051334702,
+      "_tags": [
+        "南砂エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社　ケアサービス　デイサービスセンター南砂",
+      "telephone": "03-5665-5966",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "南砂１－７－１０"
+      },
+      "parentOrganization": "株式会社ケアサービス",
+      "identifier": "1370801688",
+      "_town": "南砂",
+      "_kind": "営利法人",
+      "_designated": "2003-01-01",
+      "_years": 23.72347707049966,
+      "_tags": [
+        "南砂エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービス一歩",
+      "telephone": "03-5621-2930",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "白河３－１８－１２　フルハウス白河"
+      },
+      "parentOrganization": "株式会社森下介護サービス",
+      "identifier": "1370802074",
+      "_town": "白河",
+      "_kind": "営利法人",
+      "_designated": "2004-03-01",
+      "_years": 22.559890485968516,
+      "_tags": [
+        "白河エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "亀戸高齢者在宅サービスセンター",
+      "telephone": "03-5626-0130",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "亀戸４－２１－１３"
+      },
+      "parentOrganization": "社会福祉法人あそか会",
+      "identifier": "1370802538",
+      "_town": "亀戸",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2005-04-01",
+      "_years": 21.475701574264203,
+      "_tags": [
+        "亀戸エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "古石場高齢者在宅サービスセンター",
+      "telephone": "03-3641-2671",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "古石場２－１４－１－１０１"
+      },
+      "parentOrganization": "社会福祉法人あそか会",
+      "identifier": "1370802595",
+      "_town": "古石場",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2005-04-01",
+      "_years": 21.475701574264203,
+      "_tags": [
+        "古石場エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "すこやかホーム小名木川",
+      "telephone": "03-5690-7066",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "北砂５－２０－１－１０２"
+      },
+      "parentOrganization": "株式会社すこやか",
+      "identifier": "1370803007",
+      "_town": "北砂",
+      "_kind": "営利法人",
+      "_designated": "2005-12-01",
+      "_years": 20.80766598220397,
+      "_tags": [
+        "北砂エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービス　リゾート　ハナマウイ　スイート",
+      "telephone": "03-5875-0007",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "住吉１－１９－１ツインタワーすみとし住吉館２０１"
+      },
+      "parentOrganization": "株式会社ハナマウイ",
+      "identifier": "1370803122",
+      "_town": "住吉",
+      "_kind": "営利法人",
+      "_designated": "2006-04-01",
+      "_years": 20.476386036960985,
+      "_tags": [
+        "住吉エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "セントケア東雲　デイサービスセンター",
+      "telephone": "03-6221-0377",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "東雲１－９－２０東雲キャナルコートＣＯＤＡＮ第２０号棟第２０１号室"
+      },
+      "parentOrganization": "セントケア東京株式会社",
+      "identifier": "1370803445",
+      "_town": "東雲",
+      "_kind": "営利法人",
+      "_designated": "2007-04-01",
+      "_years": 19.477070499657767,
+      "_tags": [
+        "東雲エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービス　五幸　亀七通り",
+      "telephone": "03-5627-7090",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "亀戸７－２８－９ペトリュス１Ｆ"
+      },
+      "parentOrganization": "株式会社五幸トータルサービス",
+      "identifier": "1370803890",
+      "_town": "亀戸",
+      "_kind": "営利法人",
+      "_designated": "2009-06-01",
+      "_years": 17.308692676249144,
+      "_tags": [
+        "亀戸エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヒューマンライフケア鶴の湯",
+      "telephone": "03-5646-6188",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "冬木２２－２４－１階"
+      },
+      "parentOrganization": "ヒューマンライフケア株式会社",
+      "identifier": "1370804203",
+      "_town": "冬木",
+      "_kind": "営利法人",
+      "_designated": "2010-07-01",
+      "_years": 16.227241615331966,
+      "_tags": [
+        "冬木エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "門前仲町リハビリデイセンター",
+      "telephone": "03-6458-8024",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "深川１－３－４アーバンテラスＮ１０１"
+      },
+      "parentOrganization": "Ｂｏｄｙ　Ｐｉｏｎｅｅｒ株式会社",
+      "identifier": "1370804674",
+      "_town": "深川",
+      "_kind": "営利法人",
+      "_designated": "2012-06-01",
+      "_years": 14.30800821355236,
+      "_tags": [
+        "深川エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "機能回復リハセンター　南砂",
+      "telephone": "03-6458-7300",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "南砂１－１０－１１"
+      },
+      "parentOrganization": "Ｂｏｄｙ　Ｐｉｏｎｅｅｒ株式会社",
+      "identifier": "1370804849",
+      "_town": "南砂",
+      "_kind": "営利法人",
+      "_designated": "2013-04-01",
+      "_years": 13.475701574264203,
+      "_tags": [
+        "南砂エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンターなごやか江東",
+      "telephone": "03-5633-7134",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "扇橋３－２－２ハイツ扇橋１Ｆ"
+      },
+      "parentOrganization": "なごやかケアリンク株式会社",
+      "identifier": "1370805705",
+      "_town": "扇橋",
+      "_kind": "営利法人",
+      "_designated": "2016-06-01",
+      "_years": 10.30800821355236,
+      "_tags": [
+        "扇橋エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービス　きずな",
+      "telephone": "03-5875-2697",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "亀戸３－４７－４"
+      },
+      "parentOrganization": "株式会社アウトリーチ",
+      "identifier": "1370805861",
+      "_town": "亀戸",
+      "_kind": "営利法人",
+      "_designated": "2017-04-01",
+      "_years": 9.475701574264203,
+      "_tags": [
+        "亀戸エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "森井整形外科デイサービス",
+      "telephone": "03-6666-7175",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "千田１３－１０"
+      },
+      "parentOrganization": "医療法人社団松晴会",
+      "identifier": "1370806281",
+      "_town": "千田",
+      "_kind": "医療法人",
+      "_designated": "2019-06-01",
+      "_years": 7.310061601642711,
+      "_tags": [
+        "千田エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスたけのこ",
+      "telephone": "03-5635-3117",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "南砂３－８－３３"
+      },
+      "parentOrganization": "株式会社ライコム・コーポレーション",
+      "identifier": "1370806570",
+      "_town": "南砂",
+      "_kind": "営利法人",
+      "_designated": "2021-06-01",
+      "_years": 5.308692676249144,
+      "_tags": [
+        "南砂エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社ケアサービス　デイサービスセンター亀戸",
+      "telephone": "03-5858-8433",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "亀戸５－８－１２"
+      },
+      "parentOrganization": "株式会社ケアサービス",
+      "identifier": "1370806703",
+      "_town": "亀戸",
+      "_kind": "営利法人",
+      "_designated": "2022-04-01",
+      "_years": 4.476386036960986,
+      "_tags": [
+        "亀戸エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "いちばん星リハカフェ",
+      "telephone": "03-5875-9021",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江東区",
+        "streetAddress": "常盤２－１４－１７リバーハイツ常盤１階"
+      },
+      "parentOrganization": "株式会社こだま",
+      "identifier": "1370807131",
+      "_town": "常盤",
+      "_kind": "営利法人",
+      "_designated": "2024-10-01",
+      "_years": 1.9739904175222451,
+      "_tags": [
+        "常盤エリア",
+        "開設3年以内",
+        "デイサービス"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "江東区でデイサービスを使うには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければ長寿サポートセンターに相談してください。デイサービスはケアプランに位置づける必要があるため、江東区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "江東区にデイサービスは何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で江東区内に52件の通所介護事業所が指定を受けています。本ページではそのうち20件を連絡先つきで掲載しています。なお定員18人以下の地域密着型通所介護は区が指定するため、この件数には含まれていません。"
+    },
+    {
+      "q": "江東区の掲載事業所は、どこを見て絞り込めばいいですか？",
+      "a": "まず送迎範囲に自宅が入るかで絞り、次に入浴設備（個浴か機械浴か）で絞るのが順番です。江東区の掲載20件では営利法人が15件と最も多く、指定から20年以上の事業所も9件あります。長く続いているところは空きが出にくい一方、新しいところは空きがあります。"
+    },
+    {
+      "q": "江東区で自己負担はいくらくらいですか？",
+      "a": "江東区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたるため、通常規模型・7時間以上8時間未満なら1割負担で要介護1が約750円、要介護3が約1,026円、要介護5が約1,309円が目安です。ただし江東区でもこれに昼食代などの保険外費用が加わるため、事業所から1か月の総額の目安を出してもらってください。"
+    },
+    {
+      "q": "本人が江東区のデイサービスに行きたがりません。",
+      "a": "まず体験利用を試してください。江東区内には52件あり、掲載20件を見ても営利法人が15件と偏りがあるように、規模も雰囲気も事業所ごとに違います。合わない理由別の対処（個浴のある事業所、小規模な事業所など）はデイサービスのしくみのページにまとめました。江東区でも週1回から始めて、慣れてから増やすのが定石です。"
+    },
+    {
+      "q": "江東区の事業所は、途中で変更できますか？",
+      "a": "変更できます。ケアマネジャーに相談すればケアプランを見直したうえで江東区内の別の事業所に切り替えられます。江東区は区内52件と候補があるので、合わずに変える方は珍しくありません。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/koto/\">江東区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/koto/\">江東区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/koto/\">江東区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/koto/\">江東区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/koto/\">江東区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/koto/\">江東区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアのデイサービス",
+  "nearby": "<a href=\"{{ROOT}}day-service/tokyo/chuo/\">中央区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/sumida/\">墨田区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/edogawa/\">江戸川区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/shinagawa/\">品川区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/katsushika/\">葛飾区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」通所介護費（令和6年度改定）／介護報酬の地域区分（1級地・1単位11.40円）",
+    "江東区「長寿サポートセンター一覧」",
+    "日本郵便 郵便番号データにもとづく江東区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず体験利用を</h4>\n        <p>合うかどうかは見学だけでは分かりません。制度と費用はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}day-service/\">デイサービスのしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>江東区内の通所介護は52件（都指定）</li>\n          <li>7〜8時間・要介護1で約750円（1割）</li>\n          <li>食費などは全額自己負担</li>\n          <li>入口はケアマネか長寿サポートセンター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}day-service/\">デイサービスのしくみ</a></li>\n          <li><a href=\"{{ROOT}}short-stay/\">ショートステイ</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
+  "hero_image": "assets/ogp-day-service.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "koto"
+  }
+}

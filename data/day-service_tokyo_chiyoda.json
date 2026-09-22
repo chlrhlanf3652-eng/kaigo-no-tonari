@@ -1,0 +1,139 @@
+{
+  "slug": "day-service_tokyo_chiyoda",
+  "category": {
+    "id": "day-service",
+    "name": "デイサービス",
+    "path": "/day-service/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "chiyoda",
+    "city_name": "千代田区"
+  },
+  "seo": {
+    "title": "千代田区のデイサービス3事業所｜送迎と費用の見方【2026年9月更新】",
+    "description": "東京都千代田区の通所介護（デイサービス）事業所3件を連絡先つきで掲載。区内3件の中から選ぶための所在町域・運営法人・開設年数の内訳と、1級地での自己負担、見学で聞くことをまとめました。",
+    "canonical": "https://kaigonotonari.com/day-service/tokyo/chiyoda/",
+    "og_title": "千代田区のデイサービス一覧｜送迎範囲と費用の見方",
+    "og_description": "千代田区の通所介護事業所3件を掲載。送迎範囲・入浴設備・開設年数から選ぶ順番と、保険外費用を含めた費用の見方を解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-day-service.jpg"
+  },
+  "h1": "千代田区のデイサービス一覧｜送迎範囲と費用の見方",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：3事業所",
+  "lead": "東京都千代田区で通所介護（デイサービス）を探している方へ。東京都の指定を受けた3件から3件を連絡先つきで掲載し、所在町域・運営法人・開設からの年数の内訳と、1級地での自己負担をまとめました。デイサービスでいちばん多い壁は<strong>本人が行きたがらないこと</strong>です。選ぶ順番は近い順ではなく、通い続けられる条件の順になります。",
+  "listing_note": "千代田区内の通所介護事業所から3件を掲載しています（東京都公表・2026年9月1日時点）。区内には3件が指定を受けており、そのすべてを掲載しています。定員18人以下の地域密着型通所介護は区が指定するため、この一覧には含まれていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "千代田区立岩本町高齢者在宅サービスセンター",
+      "telephone": "03-5825-3407",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "岩本町２－１５－３岩本町ほほえみプラザ２階"
+      },
+      "parentOrganization": "社会福祉法人多摩同胞会",
+      "identifier": "1370100560",
+      "_town": "岩本町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2003-10-01",
+      "_years": 22.976043805612594,
+      "_tags": [
+        "岩本町エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "フォーユーデイサービス淡路",
+      "telephone": "03-5298-6018",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "神田淡路町２－１０９"
+      },
+      "parentOrganization": "社会福祉法人奉優会",
+      "identifier": "1370101261",
+      "_town": "神田淡路町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2012-04-01",
+      "_years": 14.47501711156742,
+      "_tags": [
+        "神田淡路町エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "千代田区立一番町高齢者在宅サービスセンター",
+      "telephone": "03-3265-6131",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "千代田区",
+        "streetAddress": "一番町１２"
+      },
+      "parentOrganization": "社会福祉法人カメリア会",
+      "identifier": "1370101725",
+      "_town": "一番町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2023-04-01",
+      "_years": 3.477070499657769,
+      "_tags": [
+        "一番町エリア",
+        "デイサービス"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "千代田区でデイサービスを使うには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければ高齢者あんしんセンターに相談してください。デイサービスはケアプランに位置づける必要があるため、千代田区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "千代田区にデイサービスは何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で千代田区内に3件の通所介護事業所が指定を受けています。本ページではそのうち3件を連絡先つきで掲載しています。なお定員18人以下の地域密着型通所介護は区が指定するため、この件数には含まれていません。"
+    },
+    {
+      "q": "千代田区の掲載事業所は、どこを見て絞り込めばいいですか？",
+      "a": "まず送迎範囲に自宅が入るかで絞り、次に入浴設備（個浴か機械浴か）で絞るのが順番です。千代田区の掲載3件では社会福祉法人（社協以外）が3件と最も多く、指定から20年以上の事業所も1件あります。長く続いているところは空きが出にくい一方、新しいところは空きがあります。"
+    },
+    {
+      "q": "千代田区で自己負担はいくらくらいですか？",
+      "a": "千代田区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたるため、通常規模型・7時間以上8時間未満なら1割負担で要介護1が約750円、要介護3が約1,026円、要介護5が約1,309円が目安です。ただし千代田区でもこれに昼食代などの保険外費用が加わるため、事業所から1か月の総額の目安を出してもらってください。"
+    },
+    {
+      "q": "本人が千代田区のデイサービスに行きたがりません。",
+      "a": "まず体験利用を試してください。千代田区内には3件あり、掲載3件を見ても社会福祉法人（社協以外）が3件と偏りがあるように、規模も雰囲気も事業所ごとに違います。合わない理由別の対処（個浴のある事業所、小規模な事業所など）はデイサービスのしくみのページにまとめました。千代田区でも週1回から始めて、慣れてから増やすのが定石です。"
+    },
+    {
+      "q": "千代田区の事業所は、途中で変更できますか？",
+      "a": "変更できます。ケアマネジャーに相談すればケアプランを見直したうえで千代田区内の別の事業所に切り替えられます。千代田区は区内3件と候補があるので、合わずに変える方は珍しくありません。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/chiyoda/\">千代田区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/chiyoda/\">千代田区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/chiyoda/\">千代田区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/chiyoda/\">千代田区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/chiyoda/\">千代田区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/chiyoda/\">千代田区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアのデイサービス",
+  "nearby": "<a href=\"{{ROOT}}day-service/tokyo/chuo/\">中央区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/minato/\">港区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/shinjuku/\">新宿区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/bunkyo/\">文京区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/taito/\">台東区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」通所介護費（令和6年度改定）／介護報酬の地域区分（1級地・1単位11.40円）",
+    "千代田区「高齢者あんしんセンター一覧」",
+    "日本郵便 郵便番号データにもとづく千代田区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず体験利用を</h4>\n        <p>合うかどうかは見学だけでは分かりません。制度と費用はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}day-service/\">デイサービスのしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>千代田区内の通所介護は3件（都指定）</li>\n          <li>7〜8時間・要介護1で約750円（1割）</li>\n          <li>食費などは全額自己負担</li>\n          <li>入口はケアマネか高齢者あんしんセンター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}day-service/\">デイサービスのしくみ</a></li>\n          <li><a href=\"{{ROOT}}short-stay/\">ショートステイ</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
+  "hero_image": "assets/ogp-day-service.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "chiyoda"
+  }
+}

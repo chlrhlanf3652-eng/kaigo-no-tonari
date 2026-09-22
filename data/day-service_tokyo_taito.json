@@ -1,0 +1,471 @@
+{
+  "slug": "day-service_tokyo_taito",
+  "category": {
+    "id": "day-service",
+    "name": "デイサービス",
+    "path": "/day-service/"
+  },
+  "area": {
+    "pref_id": "tokyo",
+    "pref_name": "東京都",
+    "city_id": "taito",
+    "city_name": "台東区"
+  },
+  "seo": {
+    "title": "台東区のデイサービス18事業所｜送迎と費用の見方【2026年9月更新】",
+    "description": "東京都台東区の通所介護（デイサービス）事業所18件を連絡先つきで掲載。区内18件の中から選ぶための所在町域・運営法人・開設年数の内訳と、1級地での自己負担、見学で聞くことをまとめました。",
+    "canonical": "https://kaigonotonari.com/day-service/tokyo/taito/",
+    "og_title": "台東区のデイサービス一覧｜送迎範囲と費用の見方",
+    "og_description": "台東区の通所介護事業所18件を掲載。送迎範囲・入浴設備・開設年数から選ぶ順番と、保険外費用を含めた費用の見方を解説します。",
+    "og_image": "https://kaigonotonari.com/assets/ogp-day-service.jpg"
+  },
+  "h1": "台東区のデイサービス一覧｜送迎範囲と費用の見方",
+  "published": "2026-09-22",
+  "modified": "2026-09-22",
+  "count_label": "掲載：18事業所",
+  "lead": "東京都台東区で通所介護（デイサービス）を探している方へ。東京都の指定を受けた18件から18件を連絡先つきで掲載し、所在町域・運営法人・開設からの年数の内訳と、1級地での自己負担をまとめました。デイサービスでいちばん多い壁は<strong>本人が行きたがらないこと</strong>です。選ぶ順番は近い順ではなく、通い続けられる条件の順になります。",
+  "listing_note": "台東区内の通所介護事業所から18件を掲載しています（東京都公表・2026年9月1日時点）。区内には18件が指定を受けており、そのすべてを掲載しています。定員18人以下の地域密着型通所介護は区が指定するため、この一覧には含まれていません。掲載順は事業所の優劣を示すものではありません。",
+  "items": [
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンター　コスモス",
+      "telephone": "03-3875-2280",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "日本堤１－１－７"
+      },
+      "parentOrganization": "特定非営利活動法人訪問看護ステーションコスモス",
+      "identifier": "1370601435",
+      "_town": "日本堤",
+      "_kind": "非営利法人（NPO）",
+      "_designated": "2003-07-01",
+      "_years": 23.227926078028748,
+      "_tags": [
+        "日本堤エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンターエンゼルヘルプ浅草",
+      "telephone": "03-5808-0755",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "浅草７－５－４"
+      },
+      "parentOrganization": "株式会社大起エンゼルヘルプ",
+      "identifier": "1370601633",
+      "_town": "浅草",
+      "_kind": "営利法人",
+      "_designated": "2004-04-01",
+      "_years": 22.47501711156742,
+      "_tags": [
+        "浅草エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービス　ヨウコー御徒町",
+      "telephone": "03-5830-7460",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "元浅草１－１４－７"
+      },
+      "parentOrganization": "株式会社揚工舎",
+      "identifier": "1370602532",
+      "_town": "元浅草",
+      "_kind": "営利法人",
+      "_designated": "2009-12-01",
+      "_years": 16.80766598220397,
+      "_tags": [
+        "元浅草エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ゆめふる浅草店",
+      "telephone": "05017534309",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "浅草２－３４－７グレイプス浅草１階"
+      },
+      "parentOrganization": "株式会社やさしい手",
+      "identifier": "1370602706",
+      "_town": "浅草",
+      "_kind": "営利法人",
+      "_designated": "2010-08-01",
+      "_years": 16.142368240930868,
+      "_tags": [
+        "浅草エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "健遊館　銭湯　弁天湯",
+      "telephone": "03-5823-0222",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "浅草橋１－３３－６"
+      },
+      "parentOrganization": "株式会社健遊館",
+      "identifier": "1370602896",
+      "_town": "浅草橋",
+      "_kind": "営利法人",
+      "_designated": "2011-05-01",
+      "_years": 15.394934976043805,
+      "_tags": [
+        "浅草橋エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービス　ソラスト台東",
+      "telephone": "03-5807-8062",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "台東２－３－６ソラスト台東ビル３Ｆ"
+      },
+      "parentOrganization": "株式会社ソラスト",
+      "identifier": "1370603100",
+      "_town": "台東",
+      "_kind": "営利法人",
+      "_designated": "2012-02-01",
+      "_years": 14.639288158795345,
+      "_tags": [
+        "台東エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "健遊館　銭湯ふくのゆ",
+      "telephone": "03-5808-0035",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "千束２－３４－６"
+      },
+      "parentOrganization": "株式会社健遊館",
+      "identifier": "1370603449",
+      "_town": "千束",
+      "_kind": "営利法人",
+      "_designated": "2014-09-01",
+      "_years": 12.057494866529774,
+      "_tags": [
+        "千束エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンターなごやか浅草",
+      "telephone": "03-5827-2425",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "浅草２－２７－９　クレッセンコート１階"
+      },
+      "parentOrganization": "なごやかケアリンク株式会社",
+      "identifier": "1370603704",
+      "_town": "浅草",
+      "_kind": "営利法人",
+      "_designated": "2016-06-01",
+      "_years": 10.30800821355236,
+      "_tags": [
+        "浅草エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンターなごやか蔵前",
+      "telephone": "03-5823-3133",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "蔵前４－３７－５メリータウン蔵前１Ｆ"
+      },
+      "parentOrganization": "なごやかケアリンク株式会社",
+      "identifier": "1370603720",
+      "_town": "蔵前",
+      "_kind": "営利法人",
+      "_designated": "2016-06-01",
+      "_years": 10.30800821355236,
+      "_tags": [
+        "蔵前エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "台東区立まつがや高齢者在宅サービスセンター",
+      "telephone": "03-3845-6501",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "松が谷４－４－３"
+      },
+      "parentOrganization": "社会福祉法人東京援護協会",
+      "identifier": "1370603795",
+      "_town": "松が谷",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2017-04-01",
+      "_years": 9.475701574264203,
+      "_tags": [
+        "松が谷エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "東京リハビリセンター",
+      "telephone": "03-6860-6110",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "北上野２－１１－５ＯＫＡＤＡＢＯＸ　２Ｆ"
+      },
+      "parentOrganization": "株式会社オーテクノコーポレーション",
+      "identifier": "1370603811",
+      "_town": "北上野",
+      "_kind": "営利法人",
+      "_designated": "2017-04-01",
+      "_years": 9.475701574264203,
+      "_tags": [
+        "北上野エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ベストリハ台東",
+      "telephone": "03-5603-0520",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "竜泉３－４４－３竜泉グリーンハイツ１階"
+      },
+      "parentOrganization": "ベストリハ株式会社",
+      "identifier": "1370603860",
+      "_town": "竜泉",
+      "_kind": "営利法人",
+      "_designated": "2017-07-01",
+      "_years": 9.22655715263518,
+      "_tags": [
+        "竜泉エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "東京都台東区立うえの高齢者在宅サービスセンター",
+      "telephone": "03-3833-6541",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "東上野２－２５－１４"
+      },
+      "parentOrganization": "社会福祉法人台東区社会福祉事業団",
+      "identifier": "1370603936",
+      "_town": "東上野",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2017-09-01",
+      "_years": 9.05681040383299,
+      "_tags": [
+        "東上野エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "東京都台東区立やなか高齢者在宅サービスセンター",
+      "telephone": "03-3824-1094",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "谷中２－１７－２０"
+      },
+      "parentOrganization": "社会福祉法人台東区社会福祉事業団",
+      "identifier": "1370603977",
+      "_town": "谷中",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2017-09-01",
+      "_years": 9.05681040383299,
+      "_tags": [
+        "谷中エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特定非営利活動法人地域生活支援センターささら",
+      "telephone": "03-3875-1470",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "橋場１－１６－１７"
+      },
+      "parentOrganization": "特定非営利活動法人地域生活支援センターささら",
+      "identifier": "1370604082",
+      "_town": "橋場",
+      "_kind": "非営利法人（NPO）",
+      "_designated": "2018-07-01",
+      "_years": 8.227241615331964,
+      "_tags": [
+        "橋場エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "Ｌｅｔ’ｓリハ！谷中言問",
+      "telephone": "03-5809-0903",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "上野桜木１－１２－１１フォレスト上野ヴィラ１Ｆ"
+      },
+      "parentOrganization": "株式会社桜十字",
+      "identifier": "1370604124",
+      "_town": "上野桜木",
+      "_kind": "営利法人",
+      "_designated": "2018-10-01",
+      "_years": 7.975359342915811,
+      "_tags": [
+        "上野桜木エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ライズケア　リハプライド　上野",
+      "telephone": "03-5826-8961",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "東上野３－７－９中西ビル１階１０１号室"
+      },
+      "parentOrganization": "ライズ株式会社",
+      "identifier": "1370604413",
+      "_town": "東上野",
+      "_kind": "営利法人",
+      "_designated": "2022-03-01",
+      "_years": 4.561259411362081,
+      "_tags": [
+        "東上野エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アサヒトラストリハビリセンター桜橋",
+      "telephone": "03-6802-4115",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "台東区",
+        "streetAddress": "橋場１－３２－６橋本ビル１階"
+      },
+      "parentOrganization": "アサヒ産業株式会社",
+      "identifier": "1370604769",
+      "_town": "橋場",
+      "_kind": "営利法人",
+      "_designated": "2026-02-01",
+      "_years": 0.6379192334017796,
+      "_tags": [
+        "橋場エリア",
+        "開設3年以内",
+        "デイサービス"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "台東区でデイサービスを使うには、まず何をすればいいですか？",
+      "a": "担当のケアマネジャー、いなければ地域包括支援センターに相談してください。デイサービスはケアプランに位置づける必要があるため、台東区の事業所に直接申し込むのではなくそこが入口になります。要介護認定を受けていない場合は、認定の申請から始まります。"
+    },
+    {
+      "q": "台東区にデイサービスは何件ありますか？",
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で台東区内に18件の通所介護事業所が指定を受けています。本ページではそのうち18件を連絡先つきで掲載しています。なお定員18人以下の地域密着型通所介護は区が指定するため、この件数には含まれていません。"
+    },
+    {
+      "q": "台東区の掲載事業所は、どこを見て絞り込めばいいですか？",
+      "a": "まず送迎範囲に自宅が入るかで絞り、次に入浴設備（個浴か機械浴か）で絞るのが順番です。台東区の掲載18件では営利法人が13件と最も多く、指定から20年以上の事業所も2件あります。長く続いているところは空きが出にくい一方、新しいところは空きがあります。"
+    },
+    {
+      "q": "台東区で自己負担はいくらくらいですか？",
+      "a": "台東区は介護報酬の地域区分で1級地（1単位＝11.40円）にあたるため、通常規模型・7時間以上8時間未満なら1割負担で要介護1が約750円、要介護3が約1,026円、要介護5が約1,309円が目安です。ただし台東区でもこれに昼食代などの保険外費用が加わるため、事業所から1か月の総額の目安を出してもらってください。"
+    },
+    {
+      "q": "本人が台東区のデイサービスに行きたがりません。",
+      "a": "まず体験利用を試してください。台東区内には18件あり、掲載18件を見ても営利法人が13件と偏りがあるように、規模も雰囲気も事業所ごとに違います。合わない理由別の対処（個浴のある事業所、小規模な事業所など）はデイサービスのしくみのページにまとめました。台東区でも週1回から始めて、慣れてから増やすのが定石です。"
+    },
+    {
+      "q": "台東区の事業所は、途中で変更できますか？",
+      "a": "変更できます。ケアマネジャーに相談すればケアプランを見直したうえで台東区内の別の事業所に切り替えられます。台東区は区内18件と候補があるので、合わずに変える方は珍しくありません。"
+    }
+  ],
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/taito/\">台東区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/taito/\">台東区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/taito/\">台東区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/taito/\">台東区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/taito/\">台東区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/taito/\">台東区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "近隣エリアのデイサービス",
+  "nearby": "<a href=\"{{ROOT}}day-service/tokyo/chiyoda/\">千代田区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/chuo/\">中央区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/bunkyo/\">文京区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/arakawa/\">荒川区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/sumida/\">墨田区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/adachi/\">足立区</a>",
+  "sources": [
+    "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」通所介護費（令和6年度改定）／介護報酬の地域区分（1級地・1単位11.40円）",
+    "台東区「地域包括支援センター一覧」",
+    "日本郵便 郵便番号データにもとづく台東区の町域一覧"
+  ],
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず体験利用を</h4>\n        <p>合うかどうかは見学だけでは分かりません。制度と費用はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}day-service/\">デイサービスのしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>台東区内の通所介護は18件（都指定）</li>\n          <li>7〜8時間・要介護1で約750円（1割）</li>\n          <li>食費などは全額自己負担</li>\n          <li>入口はケアマネか地域包括支援センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}day-service/\">デイサービスのしくみ</a></li>\n          <li><a href=\"{{ROOT}}short-stay/\">ショートステイ</a></li>\n        </ul>\n      </div>",
+  "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
+  "hero_image": "assets/ogp-day-service.jpg",
+  "towns": {
+    "pref": "tokyo",
+    "city": "taito"
+  }
+}
