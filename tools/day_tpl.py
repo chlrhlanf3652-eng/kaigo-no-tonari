@@ -47,6 +47,29 @@ DAY_SERVICE = """<h2 id="s1">%(ward)sでデイサービスを探すとき、最�
     </table>
     </div>
 
+    <h3>定員の規模</h3>
+    <p>%(cap_note)s定員が小さいほど顔ぶれが固定されやすく、人の多い場所が苦手な方に向きます。%(ward)sで見学するときは、実際に何人が来ている日かも聞いてください。</p>
+    <div class="tw">
+    <table>
+      <thead><tr><th style="width:34%%">公表されている定員</th><th style="width:14%%">件数</th><th>雰囲気の目安</th></tr></thead>
+      <tbody>
+%(caps)s
+      </tbody>
+    </table>
+    </div>
+    <p class="tiny">介護報酬の「通常規模型」「大規模型」は定員ではなく<strong>前年度の平均利用延人員</strong>で決まります。料金の区分をこの表から判断しないでください。</p>
+
+    <h3>営業している曜日</h3>
+    <p>%(day_note)s介護する家族が働いている場合、%(ward)sでもここが合うかどうかで候補が変わります。</p>
+    <div class="tw">
+    <table>
+      <thead><tr><th style="width:34%%">営業日</th><th style="width:14%%">件数</th><th>こんな方に</th></tr></thead>
+      <tbody>
+%(days)s
+      </tbody>
+    </table>
+    </div>
+
     <h3>開設からの年数</h3>
     <p>%(age_note)s長く続いている事業所は、利用者が定着していて職員の入れ替わりも比較的落ち着いていることが多い一方、<strong>その分だけ空きが出にくい</strong>という面もあります。新しい事業所は空きがあり、設備も新しいことが利点です。</p>
     <div class="tw">

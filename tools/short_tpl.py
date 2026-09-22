@@ -66,6 +66,18 @@ SHORT_STAY = """<h2 id="s1">%(ward)sでショートステイを探すとき、�
     </table>
     </div>
 
+    <h3>公表されている定員</h3>
+    <p>%(cap_note)s<strong>床数が少ないほど連休は早く埋まります。</strong>%(ward)sで定期的に使うなら、床数の多い事業所も候補に入れてください。</p>
+    <div class="tw">
+    <table>
+      <thead><tr><th style="width:34%%">定員</th><th style="width:14%%">件数</th><th>予約するときの目安</th></tr></thead>
+      <tbody>
+%(caps)s
+      </tbody>
+    </table>
+    </div>
+    <p class="tiny">定員は厚生労働省の公表データの値で、特養に併設されている事業所ではショートステイ用の床だけを指すとは限りません。実際に何床押さえられるかは事業所にご確認ください。</p>
+
     <h3>開設からの年数</h3>
     <p>%(age_note)s古い事業所ほど<strong>常連の利用者が予約枠を押さえている</strong>ことがあり、%(ward)sでも新しいところのほうが空きを見つけやすい場合があります。</p>
     <div class="tw">

@@ -44,6 +44,9 @@
       "_mix": "両方",
       "_designated": "2016-06-01",
       "_years": 10.30800821355236,
+      "_days": [
+        "平日"
+      ],
       "_tags": [
         "東五反田エリア",
         "貸与と販売"
@@ -91,6 +94,10 @@
       "_mix": "両方",
       "_designated": "2007-12-01",
       "_years": 18.809034907597535,
+      "url": "http://www.tokai-corp.com/",
+      "_days": [
+        "平日"
+      ],
       "_tags": [
         "東大井エリア",
         "貸与と販売"
@@ -114,9 +121,15 @@
       "_mix": "両方",
       "_designated": "2009-04-01",
       "_years": 17.475701574264203,
+      "url": "http://www.francebed.co.jp",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
       "_tags": [
         "西五反田エリア",
-        "貸与と販売"
+        "貸与と販売",
+        "土曜日も対応"
       ]
     },
     {
@@ -137,9 +150,15 @@
       "_mix": "両方",
       "_designated": "2011-06-01",
       "_years": 15.31006160164271,
+      "url": "https://www.silver-heart.jp/",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
       "_tags": [
         "南大井エリア",
-        "貸与と販売"
+        "貸与と販売",
+        "土曜日も対応"
       ]
     },
     {
@@ -160,6 +179,10 @@
       "_mix": "両方",
       "_designated": "2011-12-01",
       "_years": 14.809034907597535,
+      "url": "http://www.kaigo-club.net/recruit201910/",
+      "_days": [
+        "平日"
+      ],
       "_tags": [
         "戸越エリア",
         "貸与と販売"
@@ -229,6 +252,10 @@
       "_mix": "両方",
       "_designated": "2021-12-01",
       "_years": 4.80766598220397,
+      "url": "http://www.ohsaki-hhs.co.jp",
+      "_days": [
+        "平日"
+      ],
       "_tags": [
         "南品川エリア",
         "貸与と販売"
@@ -252,9 +279,15 @@
       "_mix": "両方",
       "_designated": "2016-04-01",
       "_years": 10.47501711156742,
+      "url": "https://sumai.panasonic.jp/agefree/map/detail.php?id=168",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
       "_tags": [
         "東品川エリア",
-        "貸与と販売"
+        "貸与と販売",
+        "土曜日も対応"
       ]
     }
   ],
@@ -289,6 +322,7 @@
   "nearby": "<a href=\"{{ROOT}}fukushi-yogu/tokyo/minato/\">港区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/meguro/\">目黒区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/ota/\">大田区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/koto/\">江東区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/setagaya/\">世田谷区</a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／対応曜日・公式サイト）",
     "江東区「介護保険特定福祉用具購入費の支給」（支給限度額・対象種目・指定事業者要件）",
     "厚生労働省「令和6年度介護報酬改定」福祉用具貸与・特定福祉用具販売の選択制",
     "品川区「在宅介護支援センター一覧」",

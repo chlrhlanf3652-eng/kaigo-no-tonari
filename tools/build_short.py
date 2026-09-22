@@ -22,6 +22,7 @@ import sys
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 from wards import WARDS
 from build_day import ORG_DESC, AGE_BUCKETS, years_since, esc, ward_name
+import mhlw_fields as MF
 
 BASE = pathlib.Path(__file__).parent.parent
 CACHE = pathlib.Path(__file__).parent / "cache"
@@ -96,6 +97,10 @@ def to_items(rec, towns):
         it["_designated"] = d
         y = years_since(d)
         it["_years"] = y
+        if r.get("url"):
+            it["url"] = r["url"]
+        if r.get("capacity"):
+            it["_capacity"] = r["capacity"]
         tags = []
         if town:
             tags.append(town + "エリア")
@@ -285,8 +290,20 @@ def build(wid, site):
     town_note = ("掲載分がいちばん多いのは%s（%d件）です。"
                  % (top_town[0], top_town[1]))
 
+    cap_rows, cap_known = MF.cap_table(items, MF.CAP_BUCKETS_SHORT)
+    if cap_known:
+        sizes = sorted(it["_capacity"] for it in items if it.get("_capacity"))
+        cap_note = ("掲載%d件のうち定員が公表されているのは%d件で、"
+                    "いちばん小さい事業所が%d床、いちばん大きい事業所が%d床です。"
+                    % (n, cap_known, sizes[0], sizes[-1]))
+    else:
+        cap_rows = ('        <tr><th>記載なし</th><td class="num">%d件</td>'
+                    '<td>公表データに定員の記載がありませんでした</td></tr>' % n)
+        cap_note = "掲載分に定員が公表されている事業所がありませんでした。"
+
     from short_tpl import SHORT_STAY
     content = SHORT_STAY % dict(
+        caps=cap_rows, cap_note=cap_note,
         senyo=n - kuushou, ratio_note=ratio_note, town_note=town_note,
         ward=ward, id=wid, center=madoguchi, scale_note=scale_note,
         total=total, townc=len(towns), n=n, dist=dist,
@@ -410,6 +427,8 @@ def build(wid, site):
         "nearby_heading": "近隣エリアのショートステイ", "nearby": nearby,
         "sources": [
             rec.get("source", "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）"),
+            "厚生労働省「介護サービス情報公表システム」オープンデータ"
+            "（2026年6月30日時点／定員・公式サイト）",
             "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費"
             "（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
             f"{ward}「{madoguchi}一覧」",

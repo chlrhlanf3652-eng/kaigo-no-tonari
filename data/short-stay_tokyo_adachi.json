@@ -44,6 +44,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-04-01",
       "_years": 26.47501711156742,
+      "url": "https://yukokai.or.jp/gracehome/",
+      "_capacity": 8,
       "_tags": [
         "西新井本町エリア",
         "併設・専用床",
@@ -68,6 +70,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-03-01",
       "_years": 26.559890485968516,
+      "url": "http://www.seifuukai.or.jp/",
       "_tags": [
         "六月エリア",
         "併設・専用床",
@@ -92,6 +95,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-03-01",
       "_years": 26.559890485968516,
+      "url": "http://www.seifuukai.or.jp/",
       "_tags": [
         "扇エリア",
         "併設・専用床",
@@ -116,6 +120,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-04-01",
       "_years": 26.47501711156742,
+      "url": "http://www.sakura.houeikai.gr.jp",
+      "_capacity": 65,
       "_tags": [
         "皿沼エリア",
         "併設・専用床",
@@ -140,6 +146,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2001-05-01",
       "_years": 25.39356605065024,
+      "url": "https://welgarden.or.jp/facilities/ikoen/short-stay/",
       "_tags": [
         "伊興エリア",
         "併設・専用床",
@@ -164,6 +171,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2006-04-01",
       "_years": 20.476386036960985,
+      "url": "http://family-wf.jp/happiness_adachi/",
       "_tags": [
         "江北エリア",
         "併設・専用床",
@@ -188,6 +196,8 @@
       "_fkind": "単独型",
       "_designated": "2006-11-01",
       "_years": 19.890485968514717,
+      "url": "http://www.nikkai-center.co.jp",
+      "_capacity": 21,
       "_tags": [
         "本木エリア",
         "単独型",
@@ -212,6 +222,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2007-06-01",
       "_years": 19.310061601642712,
+      "url": "http://www.seifuukai.or.jp/",
       "_tags": [
         "千住元町エリア",
         "併設・専用床",
@@ -236,6 +247,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2009-12-01",
       "_years": 16.80766598220397,
+      "url": "http://www.chojumura.or.jp/takenotsuka/",
+      "_capacity": 10,
       "_tags": [
         "竹の塚エリア",
         "併設・専用床",
@@ -260,6 +273,7 @@
       "_fkind": "単独型",
       "_designated": "2012-07-01",
       "_years": 14.225872689938399,
+      "url": "http://www.care-support.biz/",
       "_tags": [
         "千住河原町エリア",
         "単独型",
@@ -284,6 +298,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2014-04-01",
       "_years": 12.476386036960985,
+      "url": "http://www.adachi.tokuyou.jp",
       "_tags": [
         "入谷エリア",
         "併設・専用床",
@@ -308,6 +323,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2014-06-01",
       "_years": 12.309377138945928,
+      "url": "http://www.adachimanyouen.jp/",
       "_tags": [
         "六月エリア",
         "併設・専用床",
@@ -332,6 +348,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2015-04-01",
       "_years": 11.477070499657769,
+      "url": "https://www.med-wel.jp",
+      "_capacity": 24,
       "_tags": [
         "東綾瀬エリア",
         "併設・専用床",
@@ -380,6 +398,7 @@
       "_fkind": "単独型",
       "_designated": "2017-10-01",
       "_years": 8.974674880219029,
+      "url": "http://www.gloria-tokyo.com/",
       "_tags": [
         "中央本町エリア",
         "単独型",
@@ -428,6 +447,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2021-04-01",
       "_years": 5.475701574264202,
+      "url": "https://kouenkai.or.jp",
+      "_capacity": 10,
       "_tags": [
         "中央本町エリア",
         "併設・専用床",
@@ -452,6 +473,8 @@
       "_fkind": "特養の空床利用型",
       "_designated": "2023-10-01",
       "_years": 2.976043805612594,
+      "url": "https://hanahata.sakuranomori.tums.jp/",
+      "_capacity": 30,
       "_tags": [
         "花畑エリア",
         "特養の空床利用",
@@ -502,6 +525,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2026-03-01",
       "_years": 0.5612594113620808,
+      "url": "https://www.family-wf.jp/",
       "_tags": [
         "本木エリア",
         "併設・専用床",
@@ -541,6 +565,7 @@
   "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/kita/\">北区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/arakawa/\">荒川区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/sumida/\">墨田区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/katsushika/\">葛飾区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/itabashi/\">板橋区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/taito/\">台東区</a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／定員・公式サイト）",
     "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
     "足立区「地域包括支援センター（ホウカツ）一覧」",
     "日本郵便 郵便番号データにもとづく足立区の町域一覧"

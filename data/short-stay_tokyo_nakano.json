@@ -68,6 +68,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2001-04-01",
       "_years": 25.475701574264203,
+      "url": "https://kamisagi.studio.site/",
       "_tags": [
         "上鷺宮エリア",
         "併設・専用床",
@@ -92,6 +93,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-02-01",
       "_years": 26.639288158795345,
+      "_capacity": 8,
       "_tags": [
         "江古田エリア",
         "併設・専用床",
@@ -116,6 +118,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-02-01",
       "_years": 26.639288158795345,
+      "url": "http://johu-en.server-shared.com",
       "_tags": [
         "江古田エリア",
         "併設・専用床",
@@ -140,6 +143,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2002-02-01",
       "_years": 24.637919233401778,
+      "url": "http://www.yayoi-home.com",
+      "_capacity": 5,
       "_tags": [
         "弥生町エリア",
         "併設・専用床",
@@ -164,6 +169,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2003-04-01",
       "_years": 23.477070499657767,
+      "url": "https://www.nakano-fj.jp/",
+      "_capacity": 9,
       "_tags": [
         "白鷺エリア",
         "併設・専用床",
@@ -188,6 +195,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2003-04-01",
       "_years": 23.477070499657767,
+      "url": "http://www.nakano-fj.jp",
+      "_capacity": 4,
       "_tags": [
         "中央エリア",
         "併設・専用床",
@@ -212,6 +221,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2007-04-01",
       "_years": 19.477070499657767,
+      "url": "http://www.kaigo-egota.com/",
       "_tags": [
         "江古田エリア",
         "併設・専用床",
@@ -236,6 +246,7 @@
       "_fkind": "特養の空床利用型",
       "_designated": "2013-04-01",
       "_years": 13.475701574264203,
+      "url": "http://care-net.biz/13/carenet/",
       "_tags": [
         "東中野エリア",
         "特養の空床利用",
@@ -260,6 +271,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2019-07-01",
       "_years": 7.227926078028747,
+      "url": "https://nakano-sumire.jp/",
+      "_capacity": 12,
       "_tags": [
         "弥生町エリア",
         "併設・専用床",
@@ -284,6 +297,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2020-04-01",
       "_years": 6.4750171115674195,
+      "url": "http://tokyo-busonkai.or.jp/",
       "_tags": [
         "江古田エリア",
         "併設・専用床",
@@ -308,6 +322,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2016-06-01",
       "_years": 10.30800821355236,
+      "url": "http://hinagikuno-oka.org",
+      "_capacity": 68,
       "_tags": [
         "弥生町エリア",
         "併設・専用床",
@@ -346,6 +362,7 @@
   "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/shinjuku/\">新宿区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/shibuya/\">渋谷区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/setagaya/\">世田谷区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/suginami/\">杉並区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/nerima/\">練馬区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/toshima/\">豊島区</a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／定員・公式サイト）",
     "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
     "中野区「地域包括支援センター一覧」",
     "日本郵便 郵便番号データにもとづく中野区の町域一覧"

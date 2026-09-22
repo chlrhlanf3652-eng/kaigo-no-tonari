@@ -21,6 +21,7 @@ from wards import WARDS
 from counts import COUNTS, MADOGUCHI_OVERRIDE
 from ward_tpl import HOUMON_KAIGO
 from wardstats import summarize, ORG_DESC, RECV_DESC
+import mhlw_fields as MF
 
 BASE = pathlib.Path(__file__).parent.parent
 CACHE = pathlib.Path(__file__).parent / "cache"
@@ -63,13 +64,19 @@ def to_items(rec, towns):
         if closed:
             it["_closed"] = closed
         it["_town"] = town
+        if r.get("url"):
+            it["url"] = r["url"]
+        if r.get("days"):
+            it["_days"] = r["days"]
         tags = []
         if town:
             tags.append(town + "エリア")
-        if "年中無休" in closed:
-            tags.append("年中無休")
-        elif closed and "土" not in closed and "日" not in closed:
-            tags.append("土日も受付")
+        # 休業日（事務所）ではなく、サービスを提供する曜日でタグを付ける。
+        # 両者は別物で、掲載分でも食い違いが多い。
+        if "日曜日" in (r.get("days") or []):
+            tags.append("日曜日も対応")
+        elif "土曜日" in (r.get("days") or []):
+            tags.append("土曜日も対応")
         tags.append("訪問介護")
         it["_tags"] = tags
         out.append(it)
@@ -116,31 +123,19 @@ def build(wid, site):
     orgs = "\n".join(
         '        <tr><th>%s</th><td class="num">%d件</td><td>%s</td></tr>'
         % (k, v, ORG_DESC.get(k, "")) for k, v in st["orgs"])
-    recv = "\n".join(
-        '        <tr><th>%s</th><td class="num">%d件</td><td>%s</td></tr>'
-        % (k, v, RECV_DESC.get(k, "")) for k, v in st["recv"])
+    # 「電話がつながる曜日」ではなく「ヘルパーが来られる曜日」で出す。
+    # 厚労省オープンデータの利用可能曜日を使う。
+    recv, recv_note, sunday, weekend = MF.day_table(items)
 
     top_org, top_n = st["orgs"][0]
     org_note = ("掲載%d件のうち%s が%d件と最も多く、%sのが特徴です。"
                 % (n, top_org, top_n, ORG_DESC.get(top_org, "").rstrip("。")))
-    recv_map = dict(st["recv"])
-    nonstop = recv_map.get("年中無休", 0)
-    weekend = nonstop + recv_map.get("土日も受付", 0)
-    no_recv = recv_map.get("情報なし", 0) == n   # 全件が記載なし
-    if no_recv:
-        recv_note = ("この区は掲載元のデータに電話の受付体制の記載がないため、"
-                     "内訳を出していません。曜日や時間帯の条件があるときは、"
-                     "各事業所へ直接ご確認ください。")
-    else:
-        recv_note = ("掲載%d件のうち、年中無休が%d件、土日も電話を受けるところを含めると%d件です。"
-                     "急な依頼や土日の相談が必要な方は、ここを先に見て絞り込んでください。"
-                     % (n, nonstop, weekend))
     if st["open_min"] == "—" or st["open_max"] == "—":
-        hours_note = ("電話の受付時間は掲載元のデータに記載がないため出していません。"
-                      "訪問できる時間帯とあわせて、各事業所へご確認ください。")
+        hours_note = ("上の曜日はサービスを提供する曜日で、事務所の電話がつながる"
+                      "時間帯とは別です。訪問できる時間帯は各事業所へご確認ください。")
     else:
-        hours_note = ("受付時間は最も早い事業所で%sから、最も遅い事業所で%sまでです。"
-                      "いずれも電話の受付時間であり、訪問できる時間帯とは別です。"
+        hours_note = ("事務所の受付時間は最も早い事業所で%sから、最も遅い事業所で%sまでです。"
+                      "上の曜日はサービスを提供する曜日で、電話の受付時間とは別のものです。"
                       % (st["open_min"], st["open_max"]))
 
     centers = rec.get("centers")
@@ -176,9 +171,10 @@ def build(wid, site):
               + f"ご自宅の町名がわかれば、{ward}の公式ホームページか、下の町域一覧で見当がつきます。"
                 f"どこに連絡してよいか迷う場合は、{ward}内でいちばん近いセンターに電話すれば担当へつないでもらえます。"},
         {"q": f"{ward}の掲載事業所は、どこを見て絞り込めばいいですか？",
-         "a": f"上の内訳表が目安になります。曜日を気にせず相談したい場合は年中無休の{nonstop}件、"
-              f"平日の日中に電話できない場合は土日も受け付ける事業所（{weekend}件）から当たってください。"
-              "そのうえで、ご自宅の町名を伝えて対応エリアに入っているかを確認するのが確実です。"},
+         "a": f"上の内訳表が目安になります。日曜にもヘルパーに来てほしい場合は{sunday}件、"
+              f"土曜まででよければ{weekend}件が対象です。"
+              "そのうえで、ご自宅の町名を伝えて対応エリアに入っているかを確認するのが確実です。"
+              "曜日はサービスを提供する日で、事務所の電話がつながる時間帯とは別です。"},
         {"q": "訪問介護の自己負担はいくらくらいですか？",
          "a": f"{ward}は介護報酬の地域区分で1級地（1単位＝11.40円）にあたるため、自己負担1割なら"
               "身体介護20分以上30分未満で約278円、生活援助20分以上45分未満で約204円が目安になります。"
@@ -257,7 +253,8 @@ def build(wid, site):
         "items": items, "faq": faq, "related": related,
         "nearby_heading": "近隣エリアの訪問介護", "nearby": nearby,
         "sources": ([rec["source"]] if rec.get("source") else []) + [
-            "厚生労働省「介護事業所・生活関連情報検索（介護サービス情報公表システム）」",
+            "厚生労働省「介護サービス情報公表システム」オープンデータ"
+            "（2026年6月30日時点／サービス提供日・公式サイト）",
             f"{ward}「{madoguchi}一覧」",
             f"{ward}「要介護・要支援認定の申請からサービス利用までの流れ」",
             "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」訪問介護費（令和6年度改定）／"

@@ -44,6 +44,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-03-01",
       "_years": 26.559890485968516,
+      "url": "http://www.komonenosato.com",
+      "_capacity": 9,
       "_tags": [
         "小茂根エリア",
         "併設・専用床",
@@ -68,6 +70,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-02-01",
       "_years": 26.639288158795345,
+      "url": "http://www.fujikenikukai.or.jp",
+      "_capacity": 15,
       "_tags": [
         "舟渡エリア",
         "併設・専用床",
@@ -92,6 +96,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-02-01",
       "_years": 26.639288158795345,
+      "url": "http://www.tokyoengokyokai.or.jp",
+      "_capacity": 5,
       "_tags": [
         "東坂下エリア",
         "併設・専用床",
@@ -116,6 +122,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-04-01",
       "_years": 26.47501711156742,
+      "url": "http://jyueikai.sakura.ne.jp",
+      "_capacity": 6,
       "_tags": [
         "加賀エリア",
         "併設・専用床",
@@ -140,6 +148,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-05-01",
       "_years": 26.392881587953458,
+      "url": "http://shinryukai.org/wakagilife/",
       "_tags": [
         "若木エリア",
         "併設・専用床",
@@ -164,6 +173,8 @@
       "_fkind": "特養の空床利用型",
       "_designated": "2003-04-01",
       "_years": 23.477070499657767,
+      "url": "http://kitanokai.com/",
+      "_capacity": 4,
       "_tags": [
         "徳丸エリア",
         "特養の空床利用",
@@ -188,6 +199,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2005-04-01",
       "_years": 21.475701574264203,
+      "url": "http://www.tshnet.or.jp/",
       "_tags": [
         "大門エリア",
         "併設・専用床",
@@ -212,6 +224,8 @@
       "_fkind": "特養の空床利用型",
       "_designated": "2008-10-01",
       "_years": 17.973990417522245,
+      "url": "http://www.suisei-kai.jp/index.html",
+      "_capacity": 7,
       "_tags": [
         "成増エリア",
         "特養の空床利用",
@@ -236,6 +250,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2010-12-01",
       "_years": 15.808350444900753,
+      "url": "http://care-net.biz/13/eichien/",
+      "_capacity": 5,
       "_tags": [
         "前野町エリア",
         "併設・専用床",
@@ -260,6 +276,7 @@
       "_fkind": "特養の空床利用型",
       "_designated": "2012-06-01",
       "_years": 14.30800821355236,
+      "url": "http://www.kawatsuru-g.jp/",
       "_tags": [
         "小豆沢エリア",
         "特養の空床利用",
@@ -284,6 +301,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2014-10-01",
       "_years": 11.97535934291581,
+      "url": "http://www.ims.gr.jp/clover",
+      "_capacity": 20,
       "_tags": [
         "仲町エリア",
         "併設・専用床",
@@ -308,6 +327,7 @@
       "_fkind": "単独型",
       "_designated": "2015-05-01",
       "_years": 11.394934976043805,
+      "url": "http://www.as-heim.com",
       "_tags": [
         "成増エリア",
         "単独型",
@@ -356,6 +376,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2015-12-01",
       "_years": 10.809034907597535,
+      "url": "http://www.kawatsuru-g.jp",
       "_tags": [
         "三園エリア",
         "併設・専用床",
@@ -380,6 +401,7 @@
       "_fkind": "特養の空床利用型",
       "_designated": "2017-01-01",
       "_years": 9.722108145106091,
+      "url": "http://www.happynet.or.jp/",
       "_tags": [
         "若木エリア",
         "特養の空床利用",
@@ -404,6 +426,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2019-06-01",
       "_years": 7.310061601642711,
+      "url": "https://itabashi.tokuyou.jp/",
+      "_capacity": 20,
       "_tags": [
         "向原エリア",
         "併設・専用床",
@@ -428,6 +452,7 @@
       "_fkind": "特養の空床利用型",
       "_designated": "2020-01-01",
       "_years": 6.72416153319644,
+      "url": "https://itabashi.tokuyou.jp/",
       "_tags": [
         "向原エリア",
         "特養の空床利用",
@@ -452,6 +477,7 @@
       "_fkind": "単独型",
       "_designated": "2019-07-01",
       "_years": 7.227926078028747,
+      "url": "https://www.care-support.biz/facilities/itabashi/",
       "_tags": [
         "高島平エリア",
         "単独型",
@@ -476,6 +502,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2019-10-01",
       "_years": 6.976043805612594,
+      "url": "http://sunnyhill.or.jp",
+      "_capacity": 11,
       "_tags": [
         "大原町エリア",
         "併設・専用床",
@@ -500,6 +528,7 @@
       "_fkind": "特養の空床利用型",
       "_designated": "2023-04-01",
       "_years": 3.477070499657769,
+      "url": "https://www.foryou.or.jp/facility/midorinosono/w154/",
       "_tags": [
         "前野町エリア",
         "特養の空床利用",
@@ -538,6 +567,7 @@
   "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/nerima/\">練馬区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/kita/\">北区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/toshima/\">豊島区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/adachi/\">足立区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/shinjuku/\">新宿区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/bunkyo/\">文京区</a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／定員・公式サイト）",
     "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
     "板橋区「おとしより相談センター一覧」",
     "日本郵便 郵便番号データにもとづく板橋区の町域一覧"

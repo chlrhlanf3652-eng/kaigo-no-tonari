@@ -19,7 +19,10 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "http://www.azabukeifukuen.com/",
+   "lat": "35.653712200000000",
+   "lng": "139.721838100000000"
   },
   {
    "name": "特別養護老人ホーム新橋さくらの園",
@@ -35,7 +38,10 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "http://www.fukushiplazasakuragawa.com/sakura_short",
+   "lat": "35.661206700000000",
+   "lng": "139.753779500000060"
   },
   {
    "name": "ショートステイ　洛和ヴィラ南麻布",
@@ -51,7 +57,11 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "http://www.rakuwa.or.jp",
+   "capacity": 11,
+   "lat": "35.650218300000000",
+   "lng": "139.726873900000000"
   },
   {
    "name": "ショートステイ　ありすの杜きのこ南麻布",
@@ -67,7 +77,10 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "http://www.kinoko-group.jp",
+   "lat": "35.650218300000000",
+   "lng": "139.726873900000000"
   },
   {
    "name": "港区立特別養護老人ホーム　白金の森",
@@ -83,7 +96,10 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "https://www.foryou.or.jp/facility/shirokane/w009/",
+   "lat": "35.637197374048630",
+   "lng": "139.722061137434400"
   },
   {
    "name": "港区立特別養護老人ホーム港南の郷",
@@ -99,7 +115,10 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "http://www.kounannosato.hello-net.info/",
+   "lat": "35.633217299999990",
+   "lng": "139.749276600000000"
   },
   {
    "name": "港区立特別養護老人ホームサン・サン赤坂",
@@ -115,7 +134,10 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "http://www.seirouin.or.jp/sunsun/",
+   "lat": "35.669966200000000",
+   "lng": "139.737630699999950"
   },
   {
    "name": "特別養護老人ホーム　南麻布シニアガーデン　アリス",
@@ -131,7 +153,10 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "https://f-kenseikai.or.jp/facility/minamiazabu-a/",
+   "lat": "35.650590600000000",
+   "lng": "139.727203300000000"
   },
   {
    "name": "地域密着型　特別養護老人ホーム　南麻布シニアガーデン　アリス",
@@ -163,7 +188,10 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "https://swat.or.jp/tatuokag/html?page=facility_aoyama",
+   "lat": "35.667647000000000",
+   "lng": "139.753179300000000"
   }
  ],
  "towns": [
@@ -286,5 +314,7 @@
  ],
  "source": "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
  "service": "短期入所生活介護",
- "fetched": "2026-09-22"
+ "fetched": "2026-09-22",
+ "source2": "厚生労働省「介護サービス情報公表システム」オープンデータ",
+ "mhlw_hit": 9
 }

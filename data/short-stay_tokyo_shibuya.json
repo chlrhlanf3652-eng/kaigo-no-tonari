@@ -44,6 +44,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-03-01",
       "_years": 26.559890485968516,
+      "url": "https://shibuyaswc.jp",
       "_tags": [
         "代々木エリア",
         "併設・専用床",
@@ -68,6 +69,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-04-01",
       "_years": 26.47501711156742,
+      "url": "http://www.nakato.or.jp/",
       "_tags": [
         "笹塚エリア",
         "併設・専用床",
@@ -92,6 +94,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "1999-12-01",
       "_years": 26.809034907597535,
+      "url": "http://www.shibuya-pearl.or.jp",
+      "_capacity": 10,
       "_tags": [
         "鉢山町エリア",
         "併設・専用床",
@@ -116,6 +120,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2005-12-01",
       "_years": 20.80766598220397,
+      "url": "https://shibuyaswc.jp/",
       "_tags": [
         "渋谷エリア",
         "併設・専用床",
@@ -140,6 +145,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2007-04-01",
       "_years": 19.477070499657767,
+      "url": "http://www.m-keyaki.jp/",
       "_tags": [
         "西原エリア",
         "併設・専用床",
@@ -164,6 +170,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2012-04-01",
       "_years": 14.47501711156742,
+      "url": "https://hiroo.jrc.or.jp/",
+      "_capacity": 10,
       "_tags": [
         "広尾エリア",
         "併設・専用床",
@@ -188,6 +196,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2012-04-01",
       "_years": 14.47501711156742,
+      "url": "http://www.foryou.or.jp",
+      "_capacity": 7,
       "_tags": [
         "西原エリア",
         "併設・専用床",
@@ -212,6 +222,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2013-04-01",
       "_years": 13.475701574264203,
+      "url": "http://www.shoukichi.org",
       "_tags": [
         "上原エリア",
         "併設・専用床",
@@ -236,6 +247,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2023-04-01",
       "_years": 3.477070499657769,
+      "url": "https://www.foryou.or.jp/",
       "_tags": [
         "本町エリア",
         "併設・専用床",
@@ -274,6 +286,7 @@
   "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/shinjuku/\">新宿区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/minato/\">港区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/meguro/\">目黒区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/setagaya/\">世田谷区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/nakano/\">中野区</a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／定員・公式サイト）",
     "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
     "渋谷区「地域包括支援センター一覧」",
     "日本郵便 郵便番号データにもとづく渋谷区の町域一覧"

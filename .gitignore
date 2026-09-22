@@ -5,3 +5,6 @@ dist-artifact/
 _unzip/
 *.log
 bo.txt
+
+# 厚労省オープンデータの生CSV（約45MB）。tools/mhlw.py --refresh で取り直せる
+tools/cache/mhlw/

@@ -44,6 +44,10 @@
       "_mix": "両方",
       "_designated": "2017-10-01",
       "_years": 8.974674880219029,
+      "url": "https://www.i-miraie.jp/",
+      "_days": [
+        "平日"
+      ],
       "_tags": [
         "飯田橋エリア",
         "貸与と販売"
@@ -90,6 +94,9 @@
       "_mix": "両方",
       "_designated": "2023-06-01",
       "_years": 3.3100616016427105,
+      "_days": [
+        "平日"
+      ],
       "_tags": [
         "二番町エリア",
         "貸与と販売"
@@ -127,6 +134,7 @@
   "nearby": "<a href=\"{{ROOT}}fukushi-yogu/tokyo/chuo/\">中央区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/minato/\">港区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/shinjuku/\">新宿区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/bunkyo/\">文京区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/taito/\">台東区</a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／対応曜日・公式サイト）",
     "江東区「介護保険特定福祉用具購入費の支給」（支給限度額・対象種目・指定事業者要件）",
     "厚生労働省「令和6年度介護報酬改定」福祉用具貸与・特定福祉用具販売の選択制",
     "千代田区「高齢者あんしんセンター一覧」",

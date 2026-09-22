@@ -44,6 +44,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-03-01",
       "_years": 26.559890485968516,
+      "url": "http://www.fukueikai.or.jp/syoukai/short/short.htm",
       "_tags": [
         "東品川エリア",
         "併設・専用床",
@@ -68,6 +69,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-03-01",
       "_years": 26.559890485968516,
+      "url": "https://www.santokukai.com/",
+      "_capacity": 8,
       "_tags": [
         "中延エリア",
         "併設・専用床",
@@ -92,6 +95,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-03-01",
       "_years": 26.559890485968516,
+      "url": "http://www.santokukai.com/",
+      "_capacity": 8,
       "_tags": [
         "戸越エリア",
         "併設・専用床",
@@ -140,6 +145,7 @@
       "_fkind": "単独型",
       "_designated": "2000-03-01",
       "_years": 26.559890485968516,
+      "url": "http://www.santokukai.com/",
       "_tags": [
         "荏原エリア",
         "単独型",
@@ -164,6 +170,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-03-01",
       "_years": 26.559890485968516,
+      "url": "http://shinafuku.com",
       "_tags": [
         "中延エリア",
         "併設・専用床",
@@ -188,6 +195,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-04-01",
       "_years": 26.47501711156742,
+      "url": "http://www.shunkoufukushikai.or.jp",
+      "_capacity": 15,
       "_tags": [
         "西大井エリア",
         "併設・専用床",
@@ -212,6 +221,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2004-10-01",
       "_years": 21.973990417522245,
+      "url": "http://www.shinafuku.com",
+      "_capacity": 6,
       "_tags": [
         "八潮エリア",
         "併設・専用床",
@@ -236,6 +247,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2011-05-01",
       "_years": 15.394934976043805,
+      "url": "http://www.shinafuku.com",
       "_tags": [
         "八潮エリア",
         "併設・専用床",
@@ -260,6 +272,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2016-05-01",
       "_years": 10.392881587953456,
+      "url": "http://www.santokukai.com",
       "_tags": [
         "西中延エリア",
         "併設・専用床",
@@ -284,6 +297,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2017-06-01",
       "_years": 9.308692676249144,
+      "url": "http://www.aiseifukusikai.jp/",
+      "_capacity": 39,
       "_tags": [
         "上大崎エリア",
         "併設・専用床",
@@ -308,6 +323,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2019-04-01",
       "_years": 7.477070499657769,
+      "url": "http://www.jiunfukushikai.com/houjin/",
+      "_capacity": 9,
       "_tags": [
         "南品川エリア",
         "併設・専用床",
@@ -332,6 +349,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2024-12-01",
       "_years": 1.8069815195071868,
+      "url": "https://www.foryou.or.jp/corp1/toshoss/",
       "_tags": [
         "豊町エリア",
         "併設・専用床",
@@ -371,6 +389,7 @@
   "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/minato/\">港区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/meguro/\">目黒区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/ota/\">大田区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/koto/\">江東区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/setagaya/\">世田谷区</a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／定員・公式サイト）",
     "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
     "品川区「在宅介護支援センター一覧」",
     "日本郵便 郵便番号データにもとづく品川区の町域一覧"

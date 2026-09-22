@@ -19,7 +19,11 @@
    "facility_kind": "特養の空床利用型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "https://www.asokakai.or.jp/intro/intro01_01/",
+   "capacity": 10,
+   "lat": "35.687627977630450",
+   "lng": "139.812248306724000"
   },
   {
    "name": "深川愛の園(指定短期入所生活介護事業所）",
@@ -35,7 +39,10 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "http://f-ainosono.com/",
+   "lat": "35.675057565794230",
+   "lng": "139.801012611639400"
   },
   {
    "name": "寿園短期入所施設",
@@ -51,7 +58,10 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "http://www.kotokotobukikai.com",
+   "lat": "35.679022000000000",
+   "lng": "139.826854900000000"
   },
   {
    "name": "らん花園",
@@ -83,7 +93,10 @@
    "facility_kind": "単独型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "capacity": 20,
+   "lat": "35.693149000000000",
+   "lng": "139.844829399999980"
   },
   {
    "name": "三井陽光苑",
@@ -99,7 +112,10 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "https://www.mitsuihosp.or.jp/youkouen/",
+   "lat": "35.664938100000000",
+   "lng": "139.832497300000000"
   },
   {
    "name": "北砂ホーム",
@@ -131,7 +147,11 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "http://ajisai-kaigo.jp/",
+   "capacity": 10,
+   "lat": "35.678147800000000",
+   "lng": "139.838157700000000"
   },
   {
    "name": "特別養護老人ホーム芳香苑",
@@ -147,7 +167,10 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "http://www.oheikai.or.jp",
+   "lat": "35.642465000000000",
+   "lng": "139.801326400000000"
   },
   {
    "name": "ショートステイ　カメリア",
@@ -163,7 +186,11 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "http://kameido.camellia-kai.com/",
+   "capacity": 20,
+   "lat": "35.706978700000000",
+   "lng": "139.819866400000000"
   },
   {
    "name": "特別養護老人ホームあかつき苑",
@@ -179,7 +206,11 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "http://m-caretown.com/service/short/",
+   "capacity": 10,
+   "lat": "35.691267977726420",
+   "lng": "139.842008377909900"
   },
   {
    "name": "ショートステイ 故郷の家・東京",
@@ -195,7 +226,10 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "https://www.kokorono.or.jp/",
+   "lat": "35.663765800000000",
+   "lng": "139.802174700000020"
   },
   {
    "name": "あそか園",
@@ -211,7 +245,11 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "http://www.asokakai.or.jp/asoka/",
+   "capacity": 12,
+   "lat": "35.687622000000000",
+   "lng": "139.812268400000000"
   },
   {
    "name": "江東ホーム指定短期入所生活介護事業所",
@@ -227,7 +265,10 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "https://www.asokakai.or.jp/intro/intro02_01/",
+   "lat": "35.665880600000000",
+   "lng": "139.814706400000000"
   },
   {
    "name": "特別養護老人ホーム　タムスさくらの杜　亀戸",
@@ -243,7 +284,10 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "https://kameido-sakuranomori.tums-kaigo.com/",
+   "lat": "35.696262399999990",
+   "lng": "139.842209900000000"
   },
   {
    "name": "特別養護老人ホーム　タムスさくらの杜　亀戸",
@@ -259,7 +303,10 @@
    "facility_kind": "特養の空床利用型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "https://kameido-sakuranomori.tums-kaigo.com/",
+   "lat": "35.696262399999990",
+   "lng": "139.842209900000000"
   }
  ],
  "towns": [
@@ -454,5 +501,7 @@
  ],
  "source": "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
  "service": "短期入所生活介護",
- "fetched": "2026-09-22"
+ "fetched": "2026-09-22",
+ "source2": "厚生労働省「介護サービス情報公表システム」オープンデータ",
+ "mhlw_hit": 14
 }

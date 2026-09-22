@@ -15,7 +15,14 @@
    "hours": "",
    "closed": "",
    "designated": "2003-07-01",
-   "org_kind": "非営利法人（NPO）"
+   "org_kind": "非営利法人（NPO）",
+   "url": "https://www.s-cosmos.org/",
+   "days": [
+    "平日",
+    "祝日"
+   ],
+   "lat": "35.726256542360770",
+   "lng": "139.800133218819270"
   },
   {
    "name": "デイサービスセンターエンゼルヘルプ浅草",
@@ -27,7 +34,15 @@
    "hours": "",
    "closed": "",
    "designated": "2004-04-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "url": "http://www.enzeru.co.jp/wps/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.717148800000000",
+   "lng": "139.802118599999970"
   },
   {
    "name": "デイサービス　ヨウコー御徒町",
@@ -39,7 +54,17 @@
    "hours": "",
    "closed": "",
    "designated": "2009-12-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "url": "http://rehabili-youko.com/",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "capacity": 120,
+   "lat": "35.708863099999990",
+   "lng": "139.784570499999970"
   },
   {
    "name": "ゆめふる浅草店",
@@ -51,7 +76,17 @@
    "hours": "",
    "closed": "",
    "designated": "2010-08-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "url": "http://www.yasashiite.com/subdomains/division/09",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "capacity": 28,
+   "lat": "35.714869607937390",
+   "lng": "139.798187199882000"
   },
   {
    "name": "健遊館　銭湯　弁天湯",
@@ -63,7 +98,16 @@
    "hours": "",
    "closed": "",
    "designated": "2011-05-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "url": "http://bentenyu.kenyu.co.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 25,
+   "lat": "35.698525300000000",
+   "lng": "139.784956999999960"
   },
   {
    "name": "デイサービス　ソラスト台東",
@@ -75,7 +119,16 @@
    "hours": "",
    "closed": "",
    "designated": "2012-02-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "url": "http://www.solasto.co.jp",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 70,
+   "lat": "35.702621181679085",
+   "lng": "139.779600991401740"
   },
   {
    "name": "健遊館　銭湯ふくのゆ",
@@ -87,7 +140,16 @@
    "hours": "",
    "closed": "",
    "designated": "2014-09-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "url": "http://www.kenyu.co.jp",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 10,
+   "lat": "35.722601000000000",
+   "lng": "139.790474799999970"
   },
   {
    "name": "デイサービスセンターなごやか浅草",
@@ -99,7 +161,16 @@
    "hours": "",
    "closed": "",
    "designated": "2016-06-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "url": "http://www.nagoyaka-link.co.jp",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 55,
+   "lat": "35.716387699999990",
+   "lng": "139.795024799999960"
   },
   {
    "name": "デイサービスセンターなごやか蔵前",
@@ -111,7 +182,16 @@
    "hours": "",
    "closed": "",
    "designated": "2016-06-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "url": "http://www.nagoyaka-link.co.jp/club/kuramae/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 25,
+   "lat": "35.705870800000010",
+   "lng": "139.788274099999970"
   },
   {
    "name": "台東区立まつがや高齢者在宅サービスセンター",
@@ -123,7 +203,15 @@
    "hours": "",
    "closed": "",
    "designated": "2017-04-01",
-   "org_kind": "社会福祉法人（社協以外）"
+   "org_kind": "社会福祉法人（社協以外）",
+   "url": "http://www.tokyoengokyokai.or.jp/matsugayasenior01.html",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.717456899999990",
+   "lng": "139.787667000000060"
   },
   {
    "name": "東京リハビリセンター",
@@ -135,7 +223,16 @@
    "hours": "",
    "closed": "",
    "designated": "2017-04-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "url": "https://www.o-techno.co.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 7,
+   "lat": "35.716543957360100",
+   "lng": "139.784736480356630"
   },
   {
    "name": "ベストリハ台東",
@@ -147,7 +244,16 @@
    "hours": "",
    "closed": "",
    "designated": "2017-07-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "url": "http://www.bestreha.com",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 50,
+   "lat": "35.726328400000020",
+   "lng": "139.791213400000060"
   },
   {
    "name": "東京都台東区立うえの高齢者在宅サービスセンター",
@@ -159,7 +265,16 @@
    "hours": "",
    "closed": "",
    "designated": "2017-09-01",
-   "org_kind": "社会福祉法人（社協以外）"
+   "org_kind": "社会福祉法人（社協以外）",
+   "url": "https://higasiueno-center.com/zaitaku/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 30,
+   "lat": "35.709474100000000",
+   "lng": "139.781673400000040"
   },
   {
    "name": "東京都台東区立やなか高齢者在宅サービスセンター",
@@ -171,7 +286,15 @@
    "hours": "",
    "closed": "",
    "designated": "2017-09-01",
-   "org_kind": "社会福祉法人（社協以外）"
+   "org_kind": "社会福祉法人（社協以外）",
+   "url": "http://taitoswc.org/yanaka/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.724052400000000",
+   "lng": "139.764326699999970"
   },
   {
    "name": "特定非営利活動法人地域生活支援センターささら",
@@ -195,7 +318,16 @@
    "hours": "",
    "closed": "",
    "designated": "2018-10-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "url": "http://www.sakurajyuji.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 19,
+   "lat": "35.721397500000000",
+   "lng": "139.772206800000050"
   },
   {
    "name": "ライズケア　リハプライド　上野",
@@ -207,7 +339,14 @@
    "hours": "",
    "closed": "",
    "designated": "2022-03-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "url": "https://www.rehapride.co.jp/ueno/",
+   "days": [
+    "平日",
+    "祝日"
+   ],
+   "lat": "35.710160900000000",
+   "lng": "139.780768900000000"
   },
   {
    "name": "アサヒトラストリハビリセンター桜橋",
@@ -219,7 +358,13 @@
    "hours": "",
    "closed": "",
    "designated": "2026-02-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "url": "https://ds.asahitrust-x.com/",
+   "days": [
+    "平日"
+   ],
+   "lat": "35.726019600000000",
+   "lng": "139.805534700000000"
   }
  ],
  "towns": [
@@ -358,5 +503,7 @@
  ],
  "source": "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
  "service": "通所介護",
- "fetched": "2026-09-22"
+ "fetched": "2026-09-22",
+ "source2": "厚生労働省「介護サービス情報公表システム」オープンデータ",
+ "mhlw_hit": 17
 }

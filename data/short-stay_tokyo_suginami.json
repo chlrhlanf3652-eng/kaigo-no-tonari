@@ -44,6 +44,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-03-01",
       "_years": 26.559890485968516,
+      "url": "https://www.yokufuukai.or.jp/facility/nanyo_en.html",
+      "_capacity": 12,
       "_tags": [
         "高井戸西エリア",
         "併設・専用床",
@@ -68,6 +70,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-03-01",
       "_years": 26.559890485968516,
+      "url": "http://www.yokufuukai.or.jp",
+      "_capacity": 6,
       "_tags": [
         "高井戸西エリア",
         "併設・専用床",
@@ -92,6 +96,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-02-01",
       "_years": 26.639288158795345,
+      "url": "http://www.sanjyukai.jp/",
+      "_capacity": 5,
       "_tags": [
         "阿佐谷北エリア",
         "併設・専用床",
@@ -116,6 +122,7 @@
       "_fkind": "特養の空床利用型",
       "_designated": "2000-04-01",
       "_years": 26.47501711156742,
+      "url": "http://www.shinsyounokai.or.jp",
       "_tags": [
         "和田エリア",
         "特養の空床利用",
@@ -140,6 +147,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2002-04-01",
       "_years": 24.476386036960985,
+      "url": "https://www.yokufuukai.or.jp/facility/nanyo_en3.html",
       "_tags": [
         "高井戸西エリア",
         "併設・専用床",
@@ -164,6 +172,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2003-04-01",
       "_years": 23.477070499657767,
+      "url": "http://www.sanjyukai.jp",
+      "_capacity": 6,
       "_tags": [
         "久我山エリア",
         "併設・専用床",
@@ -188,6 +198,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2004-04-01",
       "_years": 22.47501711156742,
+      "url": "http://www.shoukichi.org/",
+      "_capacity": 60,
       "_tags": [
         "清水エリア",
         "併設・専用床",
@@ -212,6 +224,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2007-08-01",
       "_years": 19.143052703627653,
+      "url": "https://www.3friends.or.jp",
+      "_capacity": 4,
       "_tags": [
         "善福寺エリア",
         "併設・専用床",
@@ -236,6 +250,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2009-07-01",
       "_years": 17.22655715263518,
+      "url": "http://www.utazufukushikai.or.jp",
+      "_capacity": 21,
       "_tags": [
         "高円寺北エリア",
         "併設・専用床",
@@ -260,6 +276,8 @@
       "_fkind": "単独型",
       "_designated": "2010-06-01",
       "_years": 16.309377138945926,
+      "url": "https://www.solasto.co.jp/",
+      "_capacity": 25,
       "_tags": [
         "今川エリア",
         "単独型",
@@ -284,6 +302,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2013-05-01",
       "_years": 13.39356605065024,
+      "url": "http://www.salvationarmy.or.jp/",
       "_tags": [
         "和田エリア",
         "併設・専用床",
@@ -308,6 +327,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2014-05-01",
       "_years": 12.394250513347023,
+      "url": "http://www.jinaikai.jp",
+      "_capacity": 6,
       "_tags": [
         "和泉エリア",
         "併設・専用床",
@@ -332,6 +353,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2014-06-01",
       "_years": 12.309377138945928,
+      "url": "http://jiunkai.org/",
+      "_capacity": 10,
       "_tags": [
         "和田エリア",
         "併設・専用床",
@@ -356,6 +379,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2014-10-01",
       "_years": 11.97535934291581,
+      "url": "http://www.foryou.or.jp",
+      "_capacity": 12,
       "_tags": [
         "本天沼エリア",
         "併設・専用床",
@@ -404,6 +429,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2018-11-01",
       "_years": 7.8904859685147155,
+      "url": "https://www.jinaikai.jp",
       "_tags": [
         "和泉エリア",
         "併設・専用床",
@@ -428,6 +454,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2019-03-01",
       "_years": 7.561943874058864,
+      "url": "https://rvsuginami.jp/",
+      "_capacity": 10,
       "_tags": [
         "清水エリア",
         "併設・専用床",
@@ -452,6 +480,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2019-09-01",
       "_years": 7.058179329226557,
+      "url": "https://www.sawarabikai..or.jp",
+      "_capacity": 21,
       "_tags": [
         "高井戸東エリア",
         "併設・専用床",
@@ -476,6 +506,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2020-09-01",
       "_years": 6.056125941136208,
+      "url": "http://www.tojinkai.or.jp",
+      "_capacity": 78,
       "_tags": [
         "宮前エリア",
         "併設・専用床",
@@ -500,6 +532,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2020-11-01",
       "_years": 5.88911704312115,
+      "url": "http://sanyoufukushikai.com",
       "_tags": [
         "高円寺南エリア",
         "併設・専用床",
@@ -538,6 +571,7 @@
   "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/nakano/\">中野区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/setagaya/\">世田谷区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/nerima/\">練馬区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/shibuya/\">渋谷区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/mitaka/\">mitaka</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/musashino/\">musashino</a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／定員・公式サイト）",
     "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
     "杉並区「ケア24一覧」",
     "日本郵便 郵便番号データにもとづく杉並区の町域一覧"

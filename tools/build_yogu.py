@@ -22,6 +22,7 @@ sys.path.insert(0, str(pathlib.Path(__file__).parent))
 from wards import WARDS
 from build_day import ORG_DESC, AGE_BUCKETS, years_since, esc, ward_name
 from build_short import age_table
+import mhlw_fields as MF
 
 BASE = pathlib.Path(__file__).parent.parent
 CACHE = pathlib.Path(__file__).parent / "cache"
@@ -74,10 +75,16 @@ def to_items(rec, towns):
         d = r.get("designated") or ""
         it["_designated"] = d
         it["_years"] = years_since(d)
+        if r.get("url"):
+            it["url"] = r["url"]
+        if r.get("days"):
+            it["_days"] = r["days"]
         tags = []
         if town:
             tags.append(town + "エリア")
         tags.append("貸与と販売" if mix == "両方" else mix)
+        if "土曜日" in (r.get("days") or []):
+            tags.append("土曜日も対応")
         if it["_years"] is not None and it["_years"] >= 20:
             tags.append("20年以上")
         it["_tags"] = tags
@@ -224,8 +231,11 @@ def build(wid, site):
     top_town = max(bucket_sizes(items).items(), key=lambda x: (x[1], x[0]))
     town_note = "掲載分がいちばん多いのは%s（%d件）です。" % (top_town[0], top_town[1])
 
+    day_rows, day_note, sunday, weekend = MF.day_table(items)
+
     from yogu_tpl import FUKUSHI_YOGU
     content = FUKUSHI_YOGU % dict(
+        days=day_rows, day_note=day_note,
         ratio_note=ratio_note, town_note=town_note,
         ward=ward, id=wid, center=madoguchi, scale_note=scale_note,
         total=total, townc=len(towns), n=n, dist=dist,
@@ -343,6 +353,8 @@ def build(wid, site):
         "nearby_heading": "近隣エリアの福祉用具", "nearby": nearby,
         "sources": [
             rec.get("source", "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）"),
+            "厚生労働省「介護サービス情報公表システム」オープンデータ"
+            "（2026年6月30日時点／対応曜日・公式サイト）",
             "江東区「介護保険特定福祉用具購入費の支給」（支給限度額・対象種目・指定事業者要件）",
             "厚生労働省「令和6年度介護報酬改定」福祉用具貸与・特定福祉用具販売の選択制",
             f"{ward}「{madoguchi}一覧」",

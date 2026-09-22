@@ -44,6 +44,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-01-04",
       "_years": 26.715947980835043,
+      "url": "http://www.jinseisha.jp",
       "_tags": [
         "西水元エリア",
         "併設・専用床",
@@ -68,6 +69,7 @@
       "_fkind": "特養の空床利用型",
       "_designated": "2001-04-01",
       "_years": 25.475701574264203,
+      "url": "http://www.jinseisha.jp",
       "_tags": [
         "水元エリア",
         "特養の空床利用",
@@ -92,6 +94,8 @@
       "_fkind": "特養の空床利用型",
       "_designated": "2000-01-04",
       "_years": 26.715947980835043,
+      "url": "http://www.jinseisha.jp",
+      "_capacity": 100,
       "_tags": [
         "西水元エリア",
         "特養の空床利用",
@@ -116,6 +120,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2001-04-01",
       "_years": 25.475701574264203,
+      "url": "http://www.jinseisha.jp",
+      "_capacity": 8,
       "_tags": [
         "奥戸エリア",
         "併設・専用床",
@@ -140,6 +146,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2001-04-01",
       "_years": 25.475701574264203,
+      "url": "http://care-net.biz/13/ayame/",
       "_tags": [
         "西水元エリア",
         "併設・専用床",
@@ -164,6 +171,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2001-04-01",
       "_years": 25.475701574264203,
+      "url": "https://www.kyousei-kai.com/hohoemi/index.html",
+      "_capacity": 7,
       "_tags": [
         "東四つ木エリア",
         "併設・専用床",
@@ -188,6 +197,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-05-01",
       "_years": 26.392881587953458,
+      "url": "http://care-net.biz/13/tosyou/",
+      "_capacity": 3,
       "_tags": [
         "西水元エリア",
         "併設・専用床",
@@ -212,6 +223,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2001-06-01",
       "_years": 25.308692676249144,
+      "url": "http://www.sukoyaka-fu.or.jp/jigyosho/tokuyou/yasuragi.html",
+      "_capacity": 5,
       "_tags": [
         "新宿エリア",
         "併設・専用床",
@@ -260,6 +273,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2005-10-01",
       "_years": 20.974674880219027,
+      "url": "http://sanko-fukushi.jp/",
       "_tags": [
         "亀有エリア",
         "併設・専用床",
@@ -284,6 +298,7 @@
       "_fkind": "特養以外の併設事業所型",
       "_designated": "2005-11-01",
       "_years": 20.889801505817932,
+      "url": "http://www.sunheart-care.jp",
       "_tags": [
         "細田エリア",
         "併設・専用床",
@@ -308,6 +323,7 @@
       "_fkind": "特養以外の併設事業所型",
       "_designated": "2006-04-01",
       "_years": 20.476386036960985,
+      "url": "http://www.e-kouzenkai.or.jp/",
       "_tags": [
         "青戸エリア",
         "併設・専用床",
@@ -332,6 +348,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2007-04-01",
       "_years": 19.477070499657767,
+      "url": "https://www.med-wel.jp/katushika/",
+      "_capacity": 20,
       "_tags": [
         "青戸エリア",
         "併設・専用床",
@@ -356,6 +374,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2009-06-01",
       "_years": 17.308692676249144,
+      "url": "http://www.toujukai.jp/",
       "_tags": [
         "新宿エリア",
         "併設・専用床",
@@ -380,6 +399,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2013-04-01",
       "_years": 13.475701574264203,
+      "url": "http://kanamachisakuraen.seifu-kai.jp/",
       "_tags": [
         "東金町エリア",
         "併設・専用床",
@@ -404,6 +424,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2013-05-01",
       "_years": 13.39356605065024,
+      "url": "http://zenkoukai.jp/japanese/",
       "_tags": [
         "細田エリア",
         "併設・専用床",
@@ -428,6 +449,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2015-06-01",
       "_years": 11.31006160164271,
+      "url": "http://www.astory.jp",
       "_tags": [
         "宝町エリア",
         "併設・専用床",
@@ -452,6 +474,7 @@
       "_fkind": "特養の空床利用型",
       "_designated": "2017-04-01",
       "_years": 9.475701574264203,
+      "url": "http://www.jinseisha.jp/top/index.htm",
       "_tags": [
         "奥戸エリア",
         "特養の空床利用",
@@ -476,6 +499,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2017-06-01",
       "_years": 9.308692676249144,
+      "url": "http://www.tokyokiseikai.or.jp/",
       "_tags": [
         "奥戸エリア",
         "併設・専用床",
@@ -500,6 +524,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2020-04-01",
       "_years": 6.4750171115674195,
+      "url": "https://katsushika.tokuyou.jp",
+      "_capacity": 18,
       "_tags": [
         "小菅エリア",
         "併設・専用床",
@@ -538,6 +564,7 @@
   "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/adachi/\">足立区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/sumida/\">墨田区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/edogawa/\">江戸川区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/koto/\">江東区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/arakawa/\">荒川区</a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／定員・公式サイト）",
     "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
     "葛飾区「高齢者総合相談センター一覧」",
     "日本郵便 郵便番号データにもとづく葛飾区の町域一覧"

@@ -21,6 +21,7 @@ from wards import WARDS
 from counts import MADOGUCHI_OVERRIDE
 from kango_tpl import HOUMON_KANGO
 from build_day import ORG_DESC, AGE_BUCKETS, years_since
+import mhlw_fields as MF
 
 BASE = pathlib.Path(__file__).parent.parent
 CACHE = pathlib.Path(__file__).parent / "cache"
@@ -63,9 +64,17 @@ def to_items(rec, towns):
         it["_kind"] = r.get("org_kind") or "その他"
         it["_designated"] = r.get("designated") or ""
         it["_years"] = years_since(it["_designated"])
+        if r.get("url"):
+            it["url"] = r["url"]
+        if r.get("days"):
+            it["_days"] = r["days"]
         tags = []
         if town:
             tags.append(town + "エリア")
+        if "日曜日" in (r.get("days") or []):
+            tags.append("日曜日も訪問")
+        elif "土曜日" in (r.get("days") or []):
+            tags.append("土曜日も訪問")
         y = it["_years"]
         if y is not None and y >= 20:
             tags.append("20年以上")
@@ -158,11 +167,15 @@ def build(wid, site):
                   if total >= 60 else
                   "数が限られるため、必要な医療処置に対応できるかを先に確認してください。")
 
+    # 定期訪問の曜日（厚労省オープンデータ）。24時間の緊急対応とは別もの。
+    day_rows, day_note, sunday, weekend = MF.day_table(items)
+
     content = HOUMON_KANGO % dict(
         ward=ward, id=wid, center=madoguchi, center_note=note,
         center_count_label=center_count_label, scale_note=scale_note,
         total=total, townc=len(towns), n=n, dist=dist,
-        orgs=orgs, org_note=org_note, ages=ages_rows, age_note=age_note)
+        orgs=orgs, org_note=org_note, ages=ages_rows, age_note=age_note,
+        days=day_rows, day_note=day_note)
     (BASE / "content" / f"houmon-kango_tokyo_{wid}.html").write_text(content, encoding="utf-8")
 
     faq = [
@@ -182,7 +195,8 @@ def build(wid, site):
         {"q": f"{ward}で夜間や休日に急変したら、来てもらえますか？",
          "a": f"24時間の緊急対応体制をとっているステーションなら、連絡して必要と判断されれば訪問してもらえます。"
               f"ただしこれは加算のかかる体制で、{ward}内でもすべてのステーションが対応しているわけではありません。"
-              "上の受付体制の表は電話の受付時間であり、緊急対応の可否とは別ですので、契約前に必ず確認してください。"},
+              f"上のサービス提供日の表は定期訪問の曜日で、{ward}の掲載{n}件では日曜日も訪問するところが"
+              f"{sunday}件ありますが、これは緊急対応ができるという意味ではありません。契約前に必ず確認してください。"},
         {"q": f"{ward}で訪問看護の自己負担はいくらくらいですか？",
          "a": f"{ward}は介護報酬の地域区分で1級地（1単位＝11.40円）にあたるため、介護保険で使う場合、"
               "訪問看護ステーションからの訪問は20分未満で約358円、30分未満で約537円、"
@@ -268,7 +282,8 @@ def build(wid, site):
         "nearby_heading": "近隣エリアの訪問看護", "nearby": nearby,
         "sources": [
             rec.get("source", "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）"),
-            "厚生労働省「介護事業所・生活関連情報検索（介護サービス情報公表システム）」",
+            "厚生労働省「介護サービス情報公表システム」オープンデータ"
+            "（2026年6月30日時点／サービス提供日・公式サイト）",
             f"{ward}「{madoguchi}一覧」",
             "厚生労働大臣が定める疾病等（訪問看護で医療保険が適用される範囲）",
             "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」訪問看護費／"

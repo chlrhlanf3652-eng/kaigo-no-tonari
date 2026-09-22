@@ -29,7 +29,7 @@ HOUMON_KAIGO = """<h2 id="s1">%(ward)sで訪問介護を探すとき、最初に
     {{LISTING}}
 
     <h2 id="s3">掲載%(n)d事業所の内訳</h2>
-    <p>%(ward)s内で掲載している%(n)d事業所を、所在地・運営法人・受付体制の3つの軸で集計しました。事業所ごとの詳細は上の一覧をご覧ください。</p>
+    <p>%(ward)s内で掲載している%(n)d事業所を、所在地・運営法人・サービス提供日の3つの軸で集計しました。事業所ごとの詳細は上の一覧をご覧ください。</p>
 
     <h3>所在町域</h3>
     <p>訪問介護は、事業所から車や自転車で行ける範囲が実質的な対応エリアになります。%(ward)s内は%(townc)dの町域に分かれており、同じ区内でも端から端までは距離があります。まずは自宅に近い町域の事業所から問い合わせるのが効率的です。</p>
@@ -54,11 +54,11 @@ HOUMON_KAIGO = """<h2 id="s1">%(ward)sで訪問介護を探すとき、最初に
     </div>
     <p class="tiny">詳しくは<a href="{{ROOT}}guide/jigyosho-erabikata/">訪問介護事業所の選び方</a>で解説しています。</p>
 
-    <h3>電話の受付体制</h3>
-    <p>%(recv_note)s</p>
+    <h3>ヘルパーが来られる曜日</h3>
+    <p>%(recv_note)s最初に詰まるのは<strong>曜日が合うヘルパーを確保できるか</strong>で、%(ward)sでもここが合わないと事業所が近くても話が進みません。</p>
     <div class="tw">
     <table>
-      <thead><tr><th style="width:34%%">受付体制</th><th style="width:14%%">件数</th><th>こんな方に</th></tr></thead>
+      <thead><tr><th style="width:34%%">サービス提供日</th><th style="width:14%%">件数</th><th>こんな方に</th></tr></thead>
       <tbody>
 %(recv)s
       </tbody>

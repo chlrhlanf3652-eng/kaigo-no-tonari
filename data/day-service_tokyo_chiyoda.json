@@ -43,8 +43,15 @@
       "_kind": "社会福祉法人（社協以外）",
       "_designated": "2003-10-01",
       "_years": 22.976043805612594,
+      "url": "http://www.tama-dhk.or.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
       "_tags": [
         "岩本町エリア",
+        "土曜日も営業",
         "20年以上",
         "デイサービス"
       ]
@@ -66,8 +73,15 @@
       "_kind": "社会福祉法人（社協以外）",
       "_designated": "2012-04-01",
       "_years": 14.47501711156742,
+      "url": "https://www.foryou.or.jp/corp2/awajiday/",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_capacity": 30,
       "_tags": [
         "神田淡路町エリア",
+        "土曜日も営業",
         "デイサービス"
       ]
     },
@@ -88,8 +102,15 @@
       "_kind": "社会福祉法人（社協以外）",
       "_designated": "2023-04-01",
       "_years": 3.477070499657769,
+      "url": "http://www.ichibancho-camellia-kai.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
       "_tags": [
         "一番町エリア",
+        "土曜日も営業",
         "デイサービス"
       ]
     }
@@ -125,6 +146,7 @@
   "nearby": "<a href=\"{{ROOT}}day-service/tokyo/chuo/\">中央区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/minato/\">港区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/shinjuku/\">新宿区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/bunkyo/\">文京区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/taito/\">台東区</a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／定員・営業曜日・公式サイト）",
     "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」通所介護費（令和6年度改定）／介護報酬の地域区分（1級地・1単位11.40円）",
     "千代田区「高齢者あんしんセンター一覧」",
     "日本郵便 郵便番号データにもとづく千代田区の町域一覧"

@@ -44,6 +44,7 @@
       "_fkind": "特養の空床利用型",
       "_designated": "2000-01-04",
       "_years": 26.715947980835043,
+      "url": "http://www.frontier-sw.or.jp/",
       "_tags": [
         "池袋本町エリア",
         "特養の空床利用",
@@ -68,6 +69,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-03-01",
       "_years": 26.559890485968516,
+      "url": "http://www.yutakaen-douen.com/",
+      "_capacity": 4,
       "_tags": [
         "長崎エリア",
         "併設・専用床",
@@ -92,6 +95,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2004-08-01",
       "_years": 22.140999315537304,
+      "url": "http://www.seiei-kai.jp/",
+      "_capacity": 2,
       "_tags": [
         "池袋エリア",
         "併設・専用床",
@@ -116,6 +121,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2005-04-01",
       "_years": 21.475701574264203,
+      "url": "https://www.toshimaj.or.jp/kourei/k_shisetsu/s_kiku/",
       "_tags": [
         "西巣鴨エリア",
         "併設・専用床",
@@ -140,6 +146,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2005-04-01",
       "_years": 21.475701574264203,
+      "url": "https://www.toshimaj.or.jp",
+      "_capacity": 8,
       "_tags": [
         "長崎エリア",
         "併設・専用床",
@@ -164,6 +172,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2005-04-01",
       "_years": 21.475701574264203,
+      "url": "http://www.keishinen.or.jp/ikebukuro/home/index.html",
       "_tags": [
         "南池袋エリア",
         "併設・専用床",
@@ -188,6 +197,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2005-04-01",
       "_years": 21.475701574264203,
+      "url": "http://www.toshimaj.or.jp",
       "_tags": [
         "南長崎エリア",
         "併設・専用床",
@@ -212,6 +222,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2005-04-01",
       "_years": 21.475701574264203,
+      "url": "http://frontier-sw.or.jp",
+      "_capacity": 4,
       "_tags": [
         "高田エリア",
         "併設・専用床",
@@ -236,6 +248,7 @@
       "_fkind": "単独型",
       "_designated": "2014-07-01",
       "_years": 12.227241615331964,
+      "url": "http://www.outoukai.or.jp",
       "_tags": [
         "南池袋エリア",
         "単独型",
@@ -260,6 +273,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2015-04-01",
       "_years": 11.477070499657769,
+      "url": "http://www.nanokakai.jp/senkawa-no-mori/",
+      "_capacity": 12,
       "_tags": [
         "要町エリア",
         "併設・専用床",
@@ -284,6 +299,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2015-11-01",
       "_years": 10.8911704312115,
+      "_capacity": 10,
       "_tags": [
         "東池袋エリア",
         "併設・専用床",
@@ -322,6 +338,7 @@
   "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/shinjuku/\">新宿区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/bunkyo/\">文京区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/kita/\">北区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/itabashi/\">板橋区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/nerima/\">練馬区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/nakano/\">中野区</a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／定員・公式サイト）",
     "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
     "豊島区「高齢者総合相談センター一覧」",
     "日本郵便 郵便番号データにもとづく豊島区の町域一覧"

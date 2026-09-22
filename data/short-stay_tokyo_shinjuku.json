@@ -44,6 +44,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-04-01",
       "_years": 26.47501711156742,
+      "url": "https:/douen.jp",
+      "_capacity": 2,
       "_tags": [
         "原町エリア",
         "併設・専用床",
@@ -92,6 +94,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2001-09-01",
       "_years": 25.05681040383299,
+      "url": "http://www.seibohome.jp",
       "_tags": [
         "中落合エリア",
         "併設・専用床",
@@ -116,6 +119,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2005-04-01",
       "_years": 21.475701574264203,
+      "url": "http://www.shinjuku-sj.jp/",
       "_tags": [
         "北新宿エリア",
         "併設・専用床",
@@ -140,6 +144,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2005-04-01",
       "_years": 21.475701574264203,
+      "url": "http://www.azeriya-akane.com",
       "_tags": [
         "北山伏町エリア",
         "併設・専用床",
@@ -164,6 +169,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2008-06-01",
       "_years": 18.308008213552363,
+      "url": "http://hoyukai.iuhw.ac.jp/keyakien",
       "_tags": [
         "百人町エリア",
         "併設・専用床",
@@ -188,6 +194,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2011-02-01",
       "_years": 15.638603696098563,
+      "url": "http://www.misasakai.or.jp/kagurazaka/",
       "_tags": [
         "矢来町エリア",
         "併設・専用床",
@@ -212,6 +219,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2015-06-01",
       "_years": 11.31006160164271,
+      "url": "http://www.enseikai.com/",
+      "_capacity": 20,
       "_tags": [
         "上落合エリア",
         "併設・専用床",
@@ -236,6 +245,8 @@
       "_fkind": "単独型",
       "_designated": "2016-07-01",
       "_years": 10.225872689938399,
+      "url": "https://www.foryou.or.jp/corp1/nishiochiaiss/",
+      "_capacity": 20,
       "_tags": [
         "西落合エリア",
         "単独型",
@@ -260,6 +271,8 @@
       "_fkind": "単独型",
       "_designated": "2017-04-01",
       "_years": 9.475701574264203,
+      "url": "http://www.kohoen.jp",
+      "_capacity": 27,
       "_tags": [
         "下落合エリア",
         "単独型",
@@ -284,6 +297,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2019-07-01",
       "_years": 7.227926078028747,
+      "url": "http://www.silver-w.jp/",
       "_tags": [
         "富久町エリア",
         "併設・専用床",
@@ -308,6 +322,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2022-09-01",
       "_years": 4.057494866529774,
+      "url": "https://www.yamatokai-tokyo.or.jp/nursing_homes/shinjuku-wakoen/",
+      "_capacity": 12,
       "_tags": [
         "市谷薬王寺町エリア",
         "併設・専用床",
@@ -332,6 +348,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2010-05-01",
       "_years": 16.39425051334702,
+      "url": "http://www.moth.or.jp",
+      "_capacity": 3,
       "_tags": [
         "新宿エリア",
         "併設・専用床",
@@ -370,6 +388,7 @@
   "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/chiyoda/\">千代田区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/minato/\">港区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/shibuya/\">渋谷区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/nakano/\">中野区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/toshima/\">豊島区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/bunkyo/\">文京区</a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／定員・公式サイト）",
     "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
     "新宿区「高齢者総合相談センター一覧」",
     "日本郵便 郵便番号データにもとづく新宿区の町域一覧"

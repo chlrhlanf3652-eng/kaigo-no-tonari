@@ -19,7 +19,11 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "https://www.yokufuukai.or.jp/facility/nanyo_en.html",
+   "capacity": 12,
+   "lat": "35.679750313145170",
+   "lng": "139.609749131877150"
   },
   {
    "name": "第二南陽園",
@@ -35,7 +39,11 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "http://www.yokufuukai.or.jp",
+   "capacity": 6,
+   "lat": "35.680386500000000",
+   "lng": "139.609904700000010"
   },
   {
    "name": "さんじゅ阿佐谷",
@@ -51,7 +59,11 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "http://www.sanjyukai.jp/",
+   "capacity": 5,
+   "lat": "35.705176200000000",
+   "lng": "139.640084600000020"
   },
   {
    "name": "和田堀ホーム",
@@ -67,7 +79,10 @@
    "facility_kind": "特養の空床利用型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "http://www.shinsyounokai.or.jp",
+   "lat": "35.690275199999990",
+   "lng": "139.655145200000000"
   },
   {
    "name": "社会福祉法人　浴風会特別養護老人ホーム第三南陽園",
@@ -83,7 +98,10 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "https://www.yokufuukai.or.jp/facility/nanyo_en3.html",
+   "lat": "35.680386500000000",
+   "lng": "139.609904700000010"
   },
   {
    "name": "さんじゅ久我山",
@@ -99,7 +117,11 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "http://www.sanjyukai.jp",
+   "capacity": 6,
+   "lat": "35.689901800000010",
+   "lng": "139.593233700000040"
   },
   {
    "name": "特別養護老人ホームすぎなみ正吉苑",
@@ -115,7 +137,11 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "http://www.shoukichi.org/",
+   "capacity": 60,
+   "lat": "35.714277800000000",
+   "lng": "139.617794700000000"
   },
   {
    "name": "特別養護老人ホームサンフレンズ善福寺",
@@ -131,7 +157,11 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "https://www.3friends.or.jp",
+   "capacity": 4,
+   "lat": "35.715410100000000",
+   "lng": "139.587397400000000"
   },
   {
    "name": "指定介護老人福祉施設　マイルドハート高円寺",
@@ -147,7 +177,11 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "http://www.utazufukushikai.or.jp",
+   "capacity": 21,
+   "lat": "35.709042600000000",
+   "lng": "139.657783000000000"
   },
   {
    "name": "せらび荻窪",
@@ -163,7 +197,11 @@
    "facility_kind": "単独型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "https://www.solasto.co.jp/",
+   "capacity": 25,
+   "lat": "35.715450000000000",
+   "lng": "139.598224600000000"
   },
   {
    "name": "救世軍恵みの家",
@@ -179,7 +217,10 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "http://www.salvationarmy.or.jp/",
+   "lat": "35.691775200000000",
+   "lng": "139.659425400000030"
   },
   {
    "name": "特別養護老人ホーム　和泉サナホーム",
@@ -195,7 +236,11 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "http://www.jinaikai.jp",
+   "capacity": 6,
+   "lat": "35.678503088172460",
+   "lng": "139.649617150926250"
   },
   {
    "name": "特別養護老人ホーム　愛敬苑",
@@ -211,7 +256,11 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "http://jiunkai.org/",
+   "capacity": 10,
+   "lat": "35.689689400000000",
+   "lng": "139.663950200000040"
   },
   {
    "name": "特別養護老人ホーム　沓掛ホーム",
@@ -227,7 +276,11 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "http://www.foryou.or.jp",
+   "capacity": 12,
+   "lat": "35.716222100000000",
+   "lng": "139.622085900000000"
   },
   {
    "name": "永福南社会福祉ガーデン",
@@ -259,7 +312,10 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "https://www.jinaikai.jp",
+   "lat": "35.676192794283380",
+   "lng": "139.656160833766420"
   },
   {
    "name": "リバービレッジ杉並",
@@ -275,7 +331,11 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "https://rvsuginami.jp/",
+   "capacity": 10,
+   "lat": "35.706252700000000",
+   "lng": "139.609004199999960"
   },
   {
    "name": "山河短期入所生活介護",
@@ -291,7 +351,11 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "https://www.sawarabikai..or.jp",
+   "capacity": 21,
+   "lat": "35.686935200000000",
+   "lng": "139.618274899999960"
   },
   {
    "name": "ショートステイかえで園",
@@ -307,7 +371,11 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "http://www.tojinkai.or.jp",
+   "capacity": 78,
+   "lat": "35.692644500000000",
+   "lng": "139.598747300000000"
   },
   {
    "name": "短期入所生活介護　プライムガーデンズ高円寺",
@@ -323,7 +391,10 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "http://sanyoufukushikai.com",
+   "lat": "35.705109200000000",
+   "lng": "139.655571800000000"
   }
  ],
  "towns": [
@@ -474,5 +545,7 @@
  ],
  "source": "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
  "service": "短期入所生活介護",
- "fetched": "2026-09-22"
+ "fetched": "2026-09-22",
+ "source2": "厚生労働省「介護サービス情報公表システム」オープンデータ",
+ "mhlw_hit": 19
 }

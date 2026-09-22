@@ -20,6 +20,7 @@ import sys
 
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 from wards import WARDS
+import mhlw_fields as MF
 
 BASE = pathlib.Path(__file__).parent.parent
 CACHE = pathlib.Path(__file__).parent / "cache"
@@ -91,9 +92,19 @@ def to_items(rec, towns):
         it["_designated"] = d
         y = years_since(d)
         it["_years"] = y
+        if r.get("url"):
+            it["url"] = r["url"]
+        if r.get("days"):
+            it["_days"] = r["days"]
+        if r.get("capacity"):
+            it["_capacity"] = r["capacity"]
         tags = []
         if town:
             tags.append(town + "エリア")
+        if "日曜日" in (r.get("days") or []):
+            tags.append("日曜日も営業")
+        elif "土曜日" in (r.get("days") or []):
+            tags.append("土曜日も営業")
         if y is not None and y >= 20:
             tags.append("20年以上")
         elif y is not None and y < 3:
@@ -174,11 +185,25 @@ def build(wid, site):
     scale_note = ("区内の数が多いぶん、送迎範囲と規模で絞れます。" if total >= 60
                   else "数が限られるため、送迎範囲に入るかどうかを先に確認してください。")
 
+    # 厚労省オープンデータ由来（定員・営業曜日）
+    day_rows, day_note, sunday, weekend = MF.day_table(items)
+    cap_rows, cap_known = MF.cap_table(items, MF.CAP_BUCKETS_DAY)
+    if cap_known:
+        sizes = sorted(it["_capacity"] for it in items if it.get("_capacity"))
+        cap_note = ("掲載%d件のうち定員が公表されているのは%d件で、"
+                    "いちばん小さい事業所が%d人、いちばん大きい事業所が%d人です。"
+                    % (n, cap_known, sizes[0], sizes[-1]))
+    else:
+        cap_rows = ('        <tr><th>記載なし</th><td class="num">%d件</td>'
+                    '<td>公表データに定員の記載がありませんでした</td></tr>' % n)
+        cap_note = "掲載分に定員が公表されている事業所がありませんでした。"
+
     from day_tpl import DAY_SERVICE
     content = DAY_SERVICE % dict(
         ward=ward, id=wid, center=madoguchi, scale_note=scale_note,
         total=total, townc=len(towns), n=n, dist=dist,
-        orgs=orgs, org_note=org_note, ages=ages_rows, age_note=age_note)
+        orgs=orgs, org_note=org_note, ages=ages_rows, age_note=age_note,
+        days=day_rows, day_note=day_note, caps=cap_rows, cap_note=cap_note)
     (BASE / "content" / f"day-service_tokyo_{wid}.html").write_text(content, encoding="utf-8")
 
     nonstop_note = ""
@@ -283,6 +308,8 @@ def build(wid, site):
         "nearby_heading": "近隣エリアのデイサービス", "nearby": nearby,
         "sources": [
             rec.get("source", "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）"),
+            "厚生労働省「介護サービス情報公表システム」オープンデータ"
+            "（2026年6月30日時点／定員・営業曜日・公式サイト）",
             "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」通所介護費（令和6年度改定）／"
             "介護報酬の地域区分（1級地・1単位11.40円）",
             f"{ward}「{madoguchi}一覧」",

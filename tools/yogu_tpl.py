@@ -67,6 +67,17 @@ FUKUSHI_YOGU = """<h2 id="s1">%(ward)sで福祉用具を借りる・買うとき
     </table>
     </div>
 
+    <h3>対応している曜日</h3>
+    <p>%(day_note)s<strong>退院の日に合わせてベッドを入れたい</strong>ことが多く、退院が土曜なら土曜に動ける事業所でないと間に合いません。%(ward)sは平日だけの事業所も少なくありません。</p>
+    <div class="tw">
+    <table>
+      <thead><tr><th style="width:34%%">対応日</th><th style="width:14%%">件数</th><th>こんなときに</th></tr></thead>
+      <tbody>
+%(days)s
+      </tbody>
+    </table>
+    </div>
+
     <h3>開設からの年数</h3>
     <p>%(age_note)s福祉用具は在庫と配送体制がものを言う分野です。長く続いている事業所は取り扱う商品の幅が広い傾向がありますが、%(ward)sでも新しい事業所のほうが新型の用具を持っていることがあります。</p>
     <div class="tw">

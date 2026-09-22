@@ -19,7 +19,10 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "http://www.yushimanosato.jp/",
+   "lat": "35.707010000000000",
+   "lng": "139.768385500000020"
   },
   {
    "name": "特別養護老人ホーム　文京くすのきの郷",
@@ -35,7 +38,11 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "http://frontier-sw.or.jp",
+   "capacity": 8,
+   "lat": "35.724135000000000",
+   "lng": "139.734698100000060"
   },
   {
    "name": "ショートステイ洛和ヴィラ文京春日（地域密着）",
@@ -51,7 +58,10 @@
    "facility_kind": "特養の空床利用型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "https://kaigo.rakuwa.or.jp/service/station/tokuyou-bunkyo/",
+   "lat": "35.708125515041246",
+   "lng": "139.746201240475470"
   },
   {
    "name": "ショートステイ洛和ヴィラ文京春日",
@@ -67,7 +77,11 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "http://www.rakuwa.or.jp/",
+   "capacity": 12,
+   "lat": "35.708042500000000",
+   "lng": "139.746020199999970"
   },
   {
    "name": "小石川ヒルサイドテラス",
@@ -83,7 +97,10 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "http://www.swct.or.jp",
+   "lat": "35.709650500000000",
+   "lng": "139.744013900000000"
   },
   {
    "name": "特別養護老人ホーム文京小日向の家",
@@ -99,7 +116,11 @@
    "facility_kind": "特養の空床利用型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "https://www.foryou.or.jp/facility/kohinata/w125/",
+   "capacity": 24,
+   "lat": "35.714203900000000",
+   "lng": "139.737300900000000"
   },
   {
    "name": "ショートステイ文京大塚みどりの郷",
@@ -115,7 +136,11 @@
    "facility_kind": "特養の併設事業所型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "http://www.rakuwa.or.jp/kaigo/tokuyou/midori/index.html",
+   "capacity": 10,
+   "lat": "35.724743700000000",
+   "lng": "139.730824800000000"
   },
   {
    "name": "福寿ぶんきょう小石川　あけぼし",
@@ -131,7 +156,10 @@
    "facility_kind": "単独型",
    "services": [
     "短期入所生活介護"
-   ]
+   ],
+   "url": "https://fuku-kaigo.jala.co.jp/jrh/bunkyo-koishikawa-akeboshi/",
+   "lat": "35.716954400000000",
+   "lng": "139.741287100000000"
   },
   {
    "name": "特別養護老人ホーム文京千駄木の郷",
@@ -230,5 +258,7 @@
  ],
  "source": "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
  "service": "短期入所生活介護",
- "fetched": "2026-09-22"
+ "fetched": "2026-09-22",
+ "source2": "厚生労働省「介護サービス情報公表システム」オープンデータ",
+ "mhlw_hit": 8
 }

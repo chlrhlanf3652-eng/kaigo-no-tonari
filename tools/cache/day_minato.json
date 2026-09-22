@@ -15,7 +15,15 @@
    "hours": "",
    "closed": "",
    "designated": "2007-03-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "url": "https://www.nichii-kaigo.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.646389200000010",
+   "lng": "139.729158900000000"
   },
   {
    "name": "デイサービスセンター友の里三田",
@@ -27,7 +35,16 @@
    "hours": "",
    "closed": "",
    "designated": "2005-12-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "url": "http://www.total-care-servise.co.jp",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "lat": "35.643169600000000",
+   "lng": "139.741656100000000"
   },
   {
    "name": "デイサービスセンター　みたて",
@@ -39,7 +56,16 @@
    "hours": "",
    "closed": "",
    "designated": "2006-01-01",
-   "org_kind": "社会福祉法人（社協以外）"
+   "org_kind": "社会福祉法人（社協以外）",
+   "url": "http://www.sukoyaka-fu.or.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 3,
+   "lat": "35.626518900000000",
+   "lng": "139.746489699999980"
   },
   {
    "name": "デイサービスセンター新橋さくらの園いきいき",
@@ -51,7 +77,15 @@
    "hours": "",
    "closed": "",
    "designated": "2006-05-01",
-   "org_kind": "社会福祉法人（社協以外）"
+   "org_kind": "社会福祉法人（社協以外）",
+   "url": "http://www.fukushiplazasakuragawa.com/sakura_short",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.661206700000000",
+   "lng": "139.753779500000060"
   },
   {
    "name": "通所生活介護事業所　洛和デイセンター南麻布",
@@ -63,7 +97,15 @@
    "hours": "",
    "closed": "",
    "designated": "2010-04-01",
-   "org_kind": "社会福祉法人（社協以外）"
+   "org_kind": "社会福祉法人（社協以外）",
+   "url": "http://www.rakuwa.or.jp",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.650218300000000",
+   "lng": "139.726873900000000"
   },
   {
    "name": "港区立高齢者在宅サービスセンター　白金の森",
@@ -75,7 +117,16 @@
    "hours": "",
    "closed": "",
    "designated": "2011-04-01",
-   "org_kind": "社会福祉法人（社協以外）"
+   "org_kind": "社会福祉法人（社協以外）",
+   "url": "http://shirokane.foryou.or.jp/work.php?id=w010",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 35,
+   "lat": "35.637075300000000",
+   "lng": "139.721991399999980"
   },
   {
    "name": "リハの郷　三田",
@@ -87,7 +138,15 @@
    "hours": "",
    "closed": "",
    "designated": "2013-04-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "url": "http://www.reha-sato.jp/mita/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.639150700000000",
+   "lng": "139.744317100000000"
   },
   {
    "name": "港区立芝高齢者在宅サービスセンター",
@@ -99,7 +158,15 @@
    "hours": "",
    "closed": "",
    "designated": "2016-04-01",
-   "org_kind": "医療法人"
+   "org_kind": "医療法人",
+   "url": "http://www.momohanokai.jp/shiba-ds",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.651396600000000",
+   "lng": "139.748127500000000"
   },
   {
    "name": "港区立虎ノ門高齢者在宅サービスセンター",
@@ -111,7 +178,16 @@
    "hours": "",
    "closed": "",
    "designated": "2016-04-01",
-   "org_kind": "医療法人"
+   "org_kind": "医療法人",
+   "url": "http://www.momohanokai.jp",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 35,
+   "lat": "35.667905700000010",
+   "lng": "139.748713100000030"
   },
   {
    "name": "港区立高齢者在宅サービスセンターサン・サン赤坂",
@@ -123,7 +199,15 @@
    "hours": "",
    "closed": "",
    "designated": "2016-04-01",
-   "org_kind": "社会福祉法人（社協以外）"
+   "org_kind": "社会福祉法人（社協以外）",
+   "url": "http://www.seirouin.or.jp",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.669966200000000",
+   "lng": "139.737630699999950"
   },
   {
    "name": "港区立高齢者在宅サービスセンター港南の郷",
@@ -135,7 +219,15 @@
    "hours": "",
    "closed": "",
    "designated": "2016-04-01",
-   "org_kind": "社会福祉法人（社協以外）"
+   "org_kind": "社会福祉法人（社協以外）",
+   "url": "http://www.kounannosato.hello-net.info/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.633217299999990",
+   "lng": "139.749276600000000"
   },
   {
    "name": "港区立南麻布高齢者在宅サービスセンター",
@@ -147,7 +239,15 @@
    "hours": "",
    "closed": "",
    "designated": "2016-04-01",
-   "org_kind": "社会福祉法人（社協以外）"
+   "org_kind": "社会福祉法人（社協以外）",
+   "url": "https://minamiazabuhoukatsu.com/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.651435100000000",
+   "lng": "139.735100900000020"
   },
   {
    "name": "港区立北青山高齢者在宅サービスセンター",
@@ -159,7 +259,15 @@
    "hours": "",
    "closed": "",
    "designated": "2022-04-01",
-   "org_kind": "社会福祉法人（社協以外）"
+   "org_kind": "社会福祉法人（社協以外）",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 35,
+   "lat": "35.673536800000000",
+   "lng": "139.721742700000000"
   },
   {
    "name": "デイサービス　グッドライフケア汐留",
@@ -171,7 +279,16 @@
    "hours": "",
    "closed": "",
    "designated": "2022-11-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "url": "https://goodlifecare.co.jp/tokyo-service/facility/day-shiodome.html",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "lat": "35.660706400000000",
+   "lng": "139.758060300000000"
   },
   {
    "name": "港区立台場高齢者在宅サービスセンター",
@@ -183,7 +300,15 @@
    "hours": "",
    "closed": "",
    "designated": "2023-10-01",
-   "org_kind": "医療法人"
+   "org_kind": "医療法人",
+   "url": "http://www.momohanokai.jp/daiba-ds/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.630596300000010",
+   "lng": "139.778028100000000"
   },
   {
    "name": "ケアクエスト　グッドライフケア芝浦",
@@ -195,7 +320,17 @@
    "hours": "",
    "closed": "",
    "designated": "2025-05-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "url": "https://goodlifecare.co.jp/tokyo-service/facility/day-carequest-shibaura.html",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "capacity": 40,
+   "lat": "35.645074100000010",
+   "lng": "139.753209100000000"
   },
   {
    "name": "ケアベース　グッドライフケア渚橋",
@@ -207,7 +342,16 @@
    "hours": "",
    "closed": "",
    "designated": "2025-09-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "url": "https://goodlifecare.co.jp/tokyo-service/facility/day-carebase-nagisabashi.html",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "lat": "35.640982700000020",
+   "lng": "139.748984500000000"
   }
  ],
  "towns": [
@@ -330,5 +474,7 @@
  ],
  "source": "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
  "service": "通所介護",
- "fetched": "2026-09-22"
+ "fetched": "2026-09-22",
+ "source2": "厚生労働省「介護サービス情報公表システム」オープンデータ",
+ "mhlw_hit": 17
 }

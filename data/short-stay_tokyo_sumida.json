@@ -44,6 +44,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-03-01",
       "_years": 26.559890485968516,
+      "url": "http://www.san-ikukai.or.jp/sumida/seifu/index.html",
+      "_capacity": 20,
       "_tags": [
         "立花エリア",
         "併設・専用床",
@@ -68,6 +70,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-02-01",
       "_years": 26.639288158795345,
+      "url": "http://www.washouen.com",
       "_tags": [
         "八広エリア",
         "併設・専用床",
@@ -116,6 +119,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2006-04-01",
       "_years": 20.476386036960985,
+      "url": "http://www.san-ikukai.or.jp/sumida/tachibana/",
+      "_capacity": 6,
       "_tags": [
         "立花エリア",
         "併設・専用床",
@@ -140,6 +145,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2006-04-01",
       "_years": 20.476386036960985,
+      "url": "http://www.san-ikukai.or.jp",
       "_tags": [
         "八広エリア",
         "併設・専用床",
@@ -164,6 +170,8 @@
       "_fkind": "特養の空床利用型",
       "_designated": "2009-07-01",
       "_years": 17.22655715263518,
+      "url": "http://www.jusankai.or.jp",
+      "_capacity": 6,
       "_tags": [
         "両国エリア",
         "特養の空床利用",
@@ -188,6 +196,8 @@
       "_fkind": "単独型",
       "_designated": "2012-07-01",
       "_years": 14.225872689938399,
+      "url": "https://solasto-kaigo.com/service/shortstay/ryogoku",
+      "_capacity": 43,
       "_tags": [
         "石原エリア",
         "単独型",
@@ -212,6 +222,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2016-04-01",
       "_years": 10.47501711156742,
+      "url": "http://www.camellia-kai.com",
       "_tags": [
         "業平エリア",
         "併設・専用床",
@@ -260,6 +271,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2022-04-01",
       "_years": 4.476386036960986,
+      "url": "http://hakuho.or.jp/ako/genbukai/index/",
       "_tags": [
         "東向島エリア",
         "併設・専用床",
@@ -298,6 +310,7 @@
   "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/chuo/\">中央区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/taito/\">台東区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/koto/\">江東区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/arakawa/\">荒川区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/adachi/\">足立区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/katsushika/\">葛飾区</a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／定員・公式サイト）",
     "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
     "墨田区「高齢者支援総合センター一覧」",
     "日本郵便 郵便番号データにもとづく墨田区の町域一覧"

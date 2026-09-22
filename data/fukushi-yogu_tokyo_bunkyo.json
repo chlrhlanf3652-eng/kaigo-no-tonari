@@ -44,6 +44,9 @@
       "_mix": "両方",
       "_designated": "2006-08-01",
       "_years": 20.142368240930868,
+      "_days": [
+        "平日"
+      ],
       "_tags": [
         "水道エリア",
         "貸与と販売",
@@ -68,6 +71,10 @@
       "_mix": "両方",
       "_designated": "2004-01-01",
       "_years": 22.72416153319644,
+      "url": "http://www.ayumikaigo.jp",
+      "_days": [
+        "平日"
+      ],
       "_tags": [
         "千駄木エリア",
         "貸与と販売",
@@ -92,9 +99,15 @@
       "_mix": "両方",
       "_designated": "2003-12-01",
       "_years": 22.809034907597535,
+      "url": "http://www.adonce.net/",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
       "_tags": [
         "千駄木エリア",
         "貸与と販売",
+        "土曜日も対応",
         "20年以上"
       ]
     },
@@ -163,6 +176,10 @@
       "_mix": "両方",
       "_designated": "2022-11-01",
       "_years": 3.890485968514716,
+      "url": "https://healthrent.duskin.jp/station/tokyo/bunkyotoshima.html",
+      "_days": [
+        "平日"
+      ],
       "_tags": [
         "小石川エリア",
         "貸与と販売"
@@ -200,6 +217,7 @@
   "nearby": "<a href=\"{{ROOT}}fukushi-yogu/tokyo/chiyoda/\">千代田区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/shinjuku/\">新宿区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/toshima/\">豊島区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/kita/\">北区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/arakawa/\">荒川区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/taito/\">台東区</a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／対応曜日・公式サイト）",
     "江東区「介護保険特定福祉用具購入費の支給」（支給限度額・対象種目・指定事業者要件）",
     "厚生労働省「令和6年度介護報酬改定」福祉用具貸与・特定福祉用具販売の選択制",
     "文京区「高齢者あんしん相談センター一覧」",

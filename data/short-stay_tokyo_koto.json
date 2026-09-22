@@ -44,6 +44,8 @@
       "_fkind": "特養の空床利用型",
       "_designated": "2000-03-01",
       "_years": 26.559890485968516,
+      "url": "https://www.asokakai.or.jp/intro/intro01_01/",
+      "_capacity": 10,
       "_tags": [
         "住吉エリア",
         "特養の空床利用",
@@ -68,6 +70,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-02-01",
       "_years": 26.639288158795345,
+      "url": "http://f-ainosono.com/",
       "_tags": [
         "冬木エリア",
         "併設・専用床",
@@ -92,6 +95,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-03-01",
       "_years": 26.559890485968516,
+      "url": "http://www.kotokotobukikai.com",
       "_tags": [
         "北砂エリア",
         "併設・専用床",
@@ -140,6 +144,7 @@
       "_fkind": "単独型",
       "_designated": "2002-05-01",
       "_years": 24.39425051334702,
+      "_capacity": 20,
       "_tags": [
         "大島エリア",
         "単独型",
@@ -164,6 +169,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2002-05-01",
       "_years": 24.39425051334702,
+      "url": "https://www.mitsuihosp.or.jp/youkouen/",
       "_tags": [
         "新砂エリア",
         "併設・専用床",
@@ -212,6 +218,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2006-02-01",
       "_years": 20.637919233401778,
+      "url": "http://ajisai-kaigo.jp/",
+      "_capacity": 10,
       "_tags": [
         "東砂エリア",
         "併設・専用床",
@@ -236,6 +244,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2007-04-01",
       "_years": 19.477070499657767,
+      "url": "http://www.oheikai.or.jp",
       "_tags": [
         "東雲エリア",
         "併設・専用床",
@@ -260,6 +269,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2010-03-01",
       "_years": 16.56125941136208,
+      "url": "http://kameido.camellia-kai.com/",
+      "_capacity": 20,
       "_tags": [
         "亀戸エリア",
         "併設・専用床",
@@ -284,6 +295,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2014-04-01",
       "_years": 12.476386036960985,
+      "url": "http://m-caretown.com/service/short/",
+      "_capacity": 10,
       "_tags": [
         "大島エリア",
         "併設・専用床",
@@ -308,6 +321,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2019-07-01",
       "_years": 7.227926078028747,
+      "url": "https://www.kokorono.or.jp/",
       "_tags": [
         "塩浜エリア",
         "併設・専用床",
@@ -332,6 +346,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2022-06-01",
       "_years": 4.309377138945927,
+      "url": "http://www.asokakai.or.jp/asoka/",
+      "_capacity": 12,
       "_tags": [
         "住吉エリア",
         "併設・専用床",
@@ -356,6 +372,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2023-11-01",
       "_years": 2.891170431211499,
+      "url": "https://www.asokakai.or.jp/intro/intro02_01/",
       "_tags": [
         "東陽エリア",
         "併設・専用床",
@@ -381,6 +398,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2025-12-01",
       "_years": 0.8076659822039699,
+      "url": "https://kameido-sakuranomori.tums-kaigo.com/",
       "_tags": [
         "亀戸エリア",
         "併設・専用床",
@@ -406,6 +424,7 @@
       "_fkind": "特養の空床利用型",
       "_designated": "2025-12-01",
       "_years": 0.8076659822039699,
+      "url": "https://kameido-sakuranomori.tums-kaigo.com/",
       "_tags": [
         "亀戸エリア",
         "特養の空床利用",
@@ -445,6 +464,7 @@
   "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/chuo/\">中央区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/sumida/\">墨田区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/edogawa/\">江戸川区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/shinagawa/\">品川区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/katsushika/\">葛飾区</a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／定員・公式サイト）",
     "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
     "江東区「長寿サポートセンター一覧」",
     "日本郵便 郵便番号データにもとづく江東区の町域一覧"

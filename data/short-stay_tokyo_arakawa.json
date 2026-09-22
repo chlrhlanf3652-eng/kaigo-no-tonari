@@ -44,6 +44,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2004-05-01",
       "_years": 22.392881587953458,
+      "url": "https://hokuyoukai.jp/sakura/",
       "_tags": [
         "町屋エリア",
         "併設・専用床",
@@ -116,6 +117,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2012-06-01",
       "_years": 14.30800821355236,
+      "url": "https://www.sanko-fukushi.jp/",
       "_tags": [
         "南千住エリア",
         "併設・専用床",
@@ -140,6 +142,7 @@
       "_fkind": "単独型",
       "_designated": "2012-12-01",
       "_years": 13.806981519507186,
+      "url": "http://sykz.co.jp",
       "_tags": [
         "荒川エリア",
         "単独型",
@@ -164,6 +167,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2013-03-01",
       "_years": 13.560574948665298,
+      "url": "http://otakenosato.jp",
       "_tags": [
         "町屋エリア",
         "併設・専用床",
@@ -188,6 +192,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2017-04-01",
       "_years": 9.475701574264203,
+      "url": "http://sunheim.camellia-kai.com/",
       "_tags": [
         "南千住エリア",
         "併設・専用床",
@@ -212,6 +217,7 @@
       "_fkind": "単独型",
       "_designated": "2019-06-01",
       "_years": 7.310061601642711,
+      "url": "https://www.solasto.co.jp",
       "_tags": [
         "町屋エリア",
         "単独型",
@@ -236,6 +242,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2022-04-01",
       "_years": 4.476386036960986,
+      "url": "https://www.foryou.or.jp/corp1/hananokiss/",
+      "_capacity": 6,
       "_tags": [
         "荒川エリア",
         "併設・専用床",
@@ -260,6 +268,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2024-09-01",
       "_years": 2.0561259411362083,
+      "url": "https://www.asokakai.or.jp",
       "_tags": [
         "西尾久エリア",
         "併設・専用床",
@@ -299,6 +308,7 @@
   "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/bunkyo/\">文京区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/taito/\">台東区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/kita/\">北区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/sumida/\">墨田区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/adachi/\">足立区</a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／定員・公式サイト）",
     "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
     "荒川区「地域包括支援センター一覧」",
     "日本郵便 郵便番号データにもとづく荒川区の町域一覧"

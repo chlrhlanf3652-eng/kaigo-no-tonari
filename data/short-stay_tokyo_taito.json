@@ -44,6 +44,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2010-06-01",
       "_years": 16.309377138945926,
+      "url": "http://care-net.biz/13/seihoukai-hourai/",
+      "_capacity": 20,
       "_tags": [
         "清川エリア",
         "併設・専用床",
@@ -68,6 +70,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2016-09-01",
       "_years": 10.056125941136209,
+      "url": "http://www.fresco-group.jp/",
+      "_capacity": 11,
       "_tags": [
         "浅草エリア",
         "併設・専用床",
@@ -92,6 +96,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2017-04-01",
       "_years": 9.475701574264203,
+      "url": "http://www.sumire.or.jp/co_search03.html",
+      "_capacity": 23,
       "_tags": [
         "橋場エリア",
         "併設・専用床",
@@ -140,6 +146,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2017-09-01",
       "_years": 9.05681040383299,
+      "url": "http://taitoswc.org/yanaka/",
       "_tags": [
         "谷中エリア",
         "併設・専用床",
@@ -164,6 +171,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2024-04-01",
       "_years": 2.4750171115674195,
+      "url": "https://www.fresco-group.jp/home-asakusa",
       "_tags": [
         "浅草エリア",
         "併設・専用床",
@@ -189,6 +197,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2024-04-01",
       "_years": 2.4750171115674195,
+      "url": "http://kenshukai.kir.jp/taitou/",
       "_tags": [
         "台東エリア",
         "併設・専用床",
@@ -214,6 +223,7 @@
       "_fkind": "特養の空床利用型",
       "_designated": "2025-03-01",
       "_years": 1.5605749486652978,
+      "url": "https://ryusen.taitoswc.org",
       "_tags": [
         "竜泉エリア",
         "特養の空床利用",
@@ -239,6 +249,7 @@
       "_fkind": "特養の空床利用型",
       "_designated": "2025-03-01",
       "_years": 1.5605749486652978,
+      "url": "https://ryusen.taitoswc.org",
       "_tags": [
         "竜泉エリア",
         "特養の空床利用",
@@ -278,6 +289,7 @@
   "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/chiyoda/\">千代田区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/chuo/\">中央区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/bunkyo/\">文京区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/arakawa/\">荒川区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/sumida/\">墨田区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/adachi/\">足立区</a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／定員・公式サイト）",
     "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
     "台東区「地域包括支援センター一覧」",
     "日本郵便 郵便番号データにもとづく台東区の町域一覧"

@@ -44,6 +44,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-02-01",
       "_years": 26.639288158795345,
+      "url": "http://www.hibikikai-tokyo.or.jp",
+      "_capacity": 19,
       "_tags": [
         "上池台エリア",
         "併設・専用床",
@@ -68,6 +70,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-04-01",
       "_years": 26.47501711156742,
+      "url": "http://www.hakuyokai.org/",
+      "_capacity": 10,
       "_tags": [
         "矢口エリア",
         "併設・専用床",
@@ -92,6 +96,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2004-04-01",
       "_years": 22.47501711156742,
+      "url": "http://www.chojumura.or.jp",
+      "_capacity": 12,
       "_tags": [
         "東六郷エリア",
         "併設・専用床",
@@ -116,6 +122,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2004-08-01",
       "_years": 22.140999315537304,
+      "url": "http://www.tokushinkai.jp",
+      "_capacity": 10,
       "_tags": [
         "矢口エリア",
         "併設・専用床",
@@ -140,6 +148,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2007-04-01",
       "_years": 19.477070499657767,
+      "url": "http://www.zenkoukai.jp/",
       "_tags": [
         "東糀谷エリア",
         "併設・専用床",
@@ -164,6 +173,8 @@
       "_fkind": "単独型",
       "_designated": "2008-11-01",
       "_years": 17.88911704312115,
+      "url": "http://www.cocofump.co.jp/",
+      "_capacity": 20,
       "_tags": [
         "仲六郷エリア",
         "単独型",
@@ -188,6 +199,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2009-04-01",
       "_years": 17.475701574264203,
+      "url": "https://www.ikegami.or.jp",
       "_tags": [
         "下丸子エリア",
         "併設・専用床",
@@ -212,6 +224,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2009-04-01",
       "_years": 17.475701574264203,
+      "url": "https://www.ikegami.or.jp",
+      "_capacity": 4,
       "_tags": [
         "大森西エリア",
         "併設・専用床",
@@ -260,6 +274,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2012-05-01",
       "_years": 14.392881587953456,
+      "url": "http://www.zenkoukai.jp",
+      "_capacity": 10,
       "_tags": [
         "大森南エリア",
         "併設・専用床",
@@ -284,6 +300,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2012-05-01",
       "_years": 14.392881587953456,
+      "url": "http://www.ooka.or.jp",
       "_tags": [
         "東糀谷エリア",
         "併設・専用床",
@@ -308,6 +325,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2016-04-01",
       "_years": 10.47501711156742,
+      "url": "http://www.amasagi.or.jp/seijyuen/",
       "_tags": [
         "萩中エリア",
         "併設・専用床",
@@ -332,6 +350,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2016-04-01",
       "_years": 10.47501711156742,
+      "url": "http://www.ikegami.or.jp/facility/magome/tabid/195/Default.aspx",
       "_tags": [
         "西馬込エリア",
         "併設・専用床",
@@ -356,6 +375,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2016-07-01",
       "_years": 10.225872689938399,
+      "url": "http://hanamizuki-syohukai.jp/",
       "_tags": [
         "大森西エリア",
         "併設・専用床",
@@ -380,6 +400,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2017-06-01",
       "_years": 9.308692676249144,
+      "url": "http://outoukai.com",
+      "_capacity": 30,
       "_tags": [
         "矢口エリア",
         "併設・専用床",
@@ -404,6 +426,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2018-04-01",
       "_years": 8.476386036960985,
+      "url": "https://www.chidori.tokuyou.jp/",
+      "_capacity": 12,
       "_tags": [
         "千鳥エリア",
         "併設・専用床",
@@ -428,6 +452,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2020-08-01",
       "_years": 6.140999315537303,
+      "url": "https://amasagi.or.jp/seishinen/",
       "_tags": [
         "西糀谷エリア",
         "併設・専用床",
@@ -452,6 +477,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2021-07-01",
       "_years": 5.2265571526351815,
+      "url": "https://www.ikegami.or.jp/",
       "_tags": [
         "本羽田エリア",
         "併設・専用床",
@@ -490,6 +516,7 @@
   "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/shinagawa/\">品川区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/meguro/\">目黒区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/setagaya/\">世田谷区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/minato/\">港区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/shibuya/\">渋谷区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/koto/\">江東区</a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／定員・公式サイト）",
     "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
     "大田区「地域包括支援センター一覧」",
     "日本郵便 郵便番号データにもとづく大田区の町域一覧"

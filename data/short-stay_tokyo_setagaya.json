@@ -68,6 +68,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-04-01",
       "_years": 26.47501711156742,
+      "url": "http://www.kugayama-en.org/",
+      "_capacity": 2,
       "_tags": [
         "北烏山エリア",
         "併設・専用床",
@@ -92,6 +94,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-02-01",
       "_years": 26.639288158795345,
+      "url": "https://www.n-friends.or.jp",
       "_tags": [
         "下馬エリア",
         "併設・専用床",
@@ -116,6 +119,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-02-01",
       "_years": 26.639288158795345,
+      "url": "http://www.yuai.or.jp/",
+      "_capacity": 4,
       "_tags": [
         "砧エリア",
         "併設・専用床",
@@ -140,6 +145,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-03-01",
       "_years": 26.559890485968516,
+      "url": "http://www.h2.dion.ne.jp/~furuiki/",
       "_tags": [
         "成城エリア",
         "併設・専用床",
@@ -164,6 +170,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2001-04-01",
       "_years": 25.475701574264203,
+      "url": "http://www.foryou.or.jp",
+      "_capacity": 12,
       "_tags": [
         "等々力エリア",
         "併設・専用床",
@@ -188,6 +196,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2002-05-01",
       "_years": 24.39425051334702,
+      "url": "http://nanzankai-kitami.sakura.ne.jp/",
+      "_capacity": 10,
       "_tags": [
         "喜多見エリア",
         "併設・専用床",
@@ -212,6 +222,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2003-07-01",
       "_years": 23.227926078028748,
+      "url": "http://www.keijuen.or.jp/tokyo/index.html",
+      "_capacity": 4,
       "_tags": [
         "上祖師谷エリア",
         "併設・専用床",
@@ -236,6 +248,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2005-10-01",
       "_years": 20.974674880219027,
+      "url": "https://www.jyusinkai.or.jp",
       "_tags": [
         "北烏山エリア",
         "併設・専用床",
@@ -260,6 +273,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2010-05-01",
       "_years": 16.39425051334702,
+      "url": "http://www.nanokakai.jp",
+      "_capacity": 15,
       "_tags": [
         "給田エリア",
         "併設・専用床",
@@ -284,6 +299,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2017-08-01",
       "_years": 9.141683778234086,
+      "url": "http://rougo-happy.or.jp/",
       "_tags": [
         "深沢エリア",
         "併設・専用床",
@@ -308,6 +324,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2019-05-01",
       "_years": 7.394934976043806,
+      "url": "http://f-keishinkai.jp/",
+      "_capacity": 8,
       "_tags": [
         "上用賀エリア",
         "併設・専用床",
@@ -332,6 +350,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2019-09-01",
       "_years": 7.058179329226557,
+      "url": "https://www.tokiwakai.tokyo",
+      "_capacity": 10,
       "_tags": [
         "下馬エリア",
         "併設・専用床",
@@ -356,6 +376,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2020-01-01",
       "_years": 6.72416153319644,
+      "url": "http://www.yayoi-home.com",
+      "_capacity": 10,
       "_tags": [
         "弦巻エリア",
         "併設・専用床",
@@ -380,6 +402,8 @@
       "_fkind": "単独型",
       "_designated": "2020-06-01",
       "_years": 6.308008213552362,
+      "url": "https://www.sykz.co.jp/shisetsu-zaitaku/134183",
+      "_capacity": 24,
       "_tags": [
         "瀬田エリア",
         "単独型",
@@ -404,6 +428,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2021-04-01",
       "_years": 5.475701574264202,
+      "url": "https://www.setagayaj.or.jp/",
       "_tags": [
         "上北沢エリア",
         "併設・専用床",
@@ -428,6 +453,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2021-04-01",
       "_years": 5.475701574264202,
+      "url": "http://www.shoukichi.org/kitazawa/",
       "_tags": [
         "北沢エリア",
         "併設・専用床",
@@ -452,6 +478,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2023-07-01",
       "_years": 3.2279260780287475,
+      "url": "https://www.rakuseikai.or.jp/",
       "_tags": [
         "船橋エリア",
         "併設・専用床",
@@ -476,6 +503,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2023-08-01",
       "_years": 3.143052703627652,
+      "url": "https://foryou.or.jp",
       "_tags": [
         "弦巻エリア",
         "併設・専用床",
@@ -539,6 +567,7 @@
   "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/meguro/\">目黒区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/shibuya/\">渋谷区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/suginami/\">杉並区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/nakano/\">中野区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/ota/\">大田区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/komae/\">komae</a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／定員・公式サイト）",
     "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
     "世田谷区「あんしんすこやかセンター一覧」",
     "日本郵便 郵便番号データにもとづく世田谷区の町域一覧"

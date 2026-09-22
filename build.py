@@ -112,7 +112,15 @@ def render_listing(d: dict) -> str:
         if it.get("_hours"):
             rows.append(f'<dt>電話受付</dt><dd>{esc(it["_hours"])}</dd>')
         if it.get("_closed"):
-            rows.append(f'<dt>休業日</dt><dd>{esc(it["_closed"])}</dd>')
+            rows.append(f'<dt>事務所の休業日</dt><dd>{esc(it["_closed"])}</dd>')
+        # サービスを提供する曜日（厚労省オープンデータ）。
+        # 上の「事務所の休業日」とは別のもので、休業日に出ていても
+        # サービス自体は行われていることがある。見出しで区別する。
+        if it.get("_days"):
+            rows.append('<dt>サービス提供日</dt><dd>%s</dd>'
+                        % esc("・".join(it["_days"])))
+        if it.get("_capacity"):
+            rows.append(f'<dt>定員</dt><dd>{int(it["_capacity"])}</dd>')
         if it.get("identifier"):
             rows.append(f'<dt>事業所番号</dt><dd class="id">{esc(it["identifier"])}</dd>')
         if it.get("areaServed"):

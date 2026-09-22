@@ -44,6 +44,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2002-04-01",
       "_years": 24.476386036960985,
+      "url": "http://www.silver-w.jp/",
+      "_capacity": 6,
       "_tags": [
         "新富エリア",
         "併設・専用床",
@@ -68,6 +70,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2006-04-01",
       "_years": 20.476386036960985,
+      "url": "http://www.san-ikukai.or.jp/chuo/shinkawa",
+      "_capacity": 8,
       "_tags": [
         "新川エリア",
         "併設・専用床",
@@ -92,6 +96,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2007-05-01",
       "_years": 19.394934976043807,
+      "url": "http://www.harumien.or.jp",
+      "_capacity": 18,
       "_tags": [
         "晴海エリア",
         "併設・専用床",
@@ -116,6 +122,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2013-11-01",
       "_years": 12.889801505817934,
+      "url": "http://www.fukushiplazasakuragawa.com/",
+      "_capacity": 6,
       "_tags": [
         "月島エリア",
         "併設・専用床",
@@ -140,6 +148,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2014-09-01",
       "_years": 12.057494866529774,
+      "url": "http://www.nagaokafukusi.com/",
       "_tags": [
         "日本橋小伝馬町エリア",
         "併設・専用床",
@@ -164,6 +173,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2015-07-01",
       "_years": 11.227926078028748,
+      "url": "http://www.foryou.or.jp",
       "_tags": [
         "晴海エリア",
         "併設・専用床",
@@ -188,6 +198,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2021-04-01",
       "_years": 5.475701574264202,
+      "url": "http://www.watona-ru.com/",
       "_tags": [
         "入船エリア",
         "併設・専用床",
@@ -226,6 +237,7 @@
   "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/chiyoda/\">千代田区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/minato/\">港区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/taito/\">台東区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/sumida/\">墨田区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/koto/\">江東区</a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／定員・公式サイト）",
     "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
     "中央区「おとしより相談センター一覧」",
     "日本郵便 郵便番号データにもとづく中央区の町域一覧"

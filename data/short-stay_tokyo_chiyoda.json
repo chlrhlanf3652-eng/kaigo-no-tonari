@@ -44,6 +44,7 @@
       "_fkind": "単独型",
       "_designated": "2003-10-01",
       "_years": 22.976043805612594,
+      "url": "http://www.tama-dhk.or.jp",
       "_tags": [
         "岩本町エリア",
         "単独型",
@@ -92,6 +93,8 @@
       "_fkind": "単独型",
       "_designated": "2013-06-01",
       "_years": 13.308692676249144,
+      "url": "https://www.foryou.or.jp/facility/awajicho/",
+      "_capacity": 21,
       "_tags": [
         "神田淡路町エリア",
         "単独型",
@@ -116,6 +119,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2021-04-01",
       "_years": 5.475701574264202,
+      "url": "https://swct.or.jp/swct.html",
+      "_capacity": 12,
       "_tags": [
         "二番町エリア",
         "併設・専用床",
@@ -140,6 +145,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2023-04-01",
       "_years": 3.477070499657769,
+      "url": "http://camellia-kai.com",
       "_tags": [
         "一番町エリア",
         "併設・専用床",
@@ -178,6 +184,7 @@
   "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/chuo/\">中央区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/minato/\">港区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/shinjuku/\">新宿区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/bunkyo/\">文京区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/taito/\">台東区</a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／定員・公式サイト）",
     "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
     "千代田区「高齢者あんしんセンター一覧」",
     "日本郵便 郵便番号データにもとづく千代田区の町域一覧"

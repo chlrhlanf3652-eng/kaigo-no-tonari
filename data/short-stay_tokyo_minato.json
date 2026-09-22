@@ -44,6 +44,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-03-01",
       "_years": 26.559890485968516,
+      "url": "http://www.azabukeifukuen.com/",
       "_tags": [
         "南麻布エリア",
         "併設・専用床",
@@ -68,6 +69,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2006-05-01",
       "_years": 20.39425051334702,
+      "url": "http://www.fukushiplazasakuragawa.com/sakura_short",
       "_tags": [
         "新橋エリア",
         "併設・専用床",
@@ -92,6 +94,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2010-04-01",
       "_years": 16.476386036960985,
+      "url": "http://www.rakuwa.or.jp",
+      "_capacity": 11,
       "_tags": [
         "南麻布エリア",
         "併設・専用床",
@@ -116,6 +120,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2010-04-01",
       "_years": 16.476386036960985,
+      "url": "http://www.kinoko-group.jp",
       "_tags": [
         "南麻布エリア",
         "併設・専用床",
@@ -140,6 +145,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2011-04-01",
       "_years": 15.477070499657769,
+      "url": "https://www.foryou.or.jp/facility/shirokane/w009/",
       "_tags": [
         "白金台エリア",
         "併設・専用床",
@@ -164,6 +170,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2016-04-01",
       "_years": 10.47501711156742,
+      "url": "http://www.kounannosato.hello-net.info/",
       "_tags": [
         "港南エリア",
         "併設・専用床",
@@ -188,6 +195,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2016-04-01",
       "_years": 10.47501711156742,
+      "url": "http://www.seirouin.or.jp/sunsun/",
       "_tags": [
         "赤坂エリア",
         "併設・専用床",
@@ -212,6 +220,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2020-05-01",
       "_years": 6.392881587953457,
+      "url": "https://f-kenseikai.or.jp/facility/minamiazabu-a/",
       "_tags": [
         "南麻布エリア",
         "併設・専用床",
@@ -260,6 +269,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2025-10-01",
       "_years": 0.974674880219028,
+      "url": "https://swat.or.jp/tatuokag/html?page=facility_aoyama",
       "_tags": [
         "南青山エリア",
         "併設・専用床",
@@ -299,6 +309,7 @@
   "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/chiyoda/\">千代田区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/chuo/\">中央区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/shinagawa/\">品川区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/shibuya/\">渋谷区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/shinjuku/\">新宿区</a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／定員・公式サイト）",
     "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
     "港区「高齢者相談センター一覧」",
     "日本郵便 郵便番号データにもとづく港区の町域一覧"

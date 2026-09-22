@@ -35,6 +35,7 @@ import urllib.request
 
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 import fetch_ward as F
+import mhlw
 from wards import WARDS
 
 CACHE = pathlib.Path(__file__).parent / "cache"
@@ -145,6 +146,9 @@ def run(ward_id: str, rows, cat: str = "houmon-kaigo"):
     service, prefix = SERVICES[cat]
     w = WARDS[ward_id]
     total, items = to_records(rows, w["name"], service)
+    # 東京都 CSV に無い項目（利用可能曜日・定員・公式サイト・緯度経度）を
+    # 厚労省のオープンデータから事業所番号で突き合わせて足す。
+    hit = mhlw.enrich(items, cat)
 
     base = CACHE / f"{ward_id}.json"
     if prefix:
@@ -164,13 +168,17 @@ def run(ward_id: str, rows, cat: str = "houmon-kaigo"):
            "madoguchi": madoguchi, "centers": centers,
            "items": items, "towns": towns,
            "source": SOURCE,
+           "source2": mhlw.SOURCE,
+           "mhlw_hit": hit,
            "service": service if isinstance(service, str) else "・".join(service),
            "fetched": time.strftime("%Y-%m-%d")}
     CACHE.mkdir(exist_ok=True)
     (CACHE / f"{prefix}{ward_id}.json").write_text(
         json.dumps(rec, ensure_ascii=False, indent=1), encoding="utf-8")
     flag = "" if len(items) >= 3 else "   ※ 3件未満"
-    print(f"   {w['name']}: 掲載{len(items)}件 / 区内{total}件{flag}")
+    nurl = sum(1 for i in items if i.get("url"))
+    print(f"   {w['name']}: 掲載{len(items)}件 / 区内{total}件 / "
+          f"厚労省一致{hit}件（公式サイト{nurl}件）{flag}")
     return rec
 
 

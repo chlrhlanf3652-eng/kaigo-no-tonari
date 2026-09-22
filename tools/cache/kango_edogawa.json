@@ -15,7 +15,13 @@
    "hours": "",
    "closed": "",
    "designated": "2008-04-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "url": "http://ce-kuniyoshi.com",
+   "days": [
+    "平日"
+   ],
+   "lat": "35.675529944902670",
+   "lng": "139.863919250995650"
   },
   {
    "name": "訪問看護ステーション　ナース花きりん",
@@ -27,7 +33,14 @@
    "hours": "",
    "closed": "",
    "designated": "2012-08-01",
-   "org_kind": "非営利法人（NPO）"
+   "org_kind": "非営利法人（NPO）",
+   "url": "https://www.collaboedogawa.net/",
+   "days": [
+    "平日"
+   ],
+   "capacity": 120,
+   "lat": "35.659947523808700",
+   "lng": "139.873369000629030"
   },
   {
    "name": "さかいリハ訪問看護ステーション・東京",
@@ -39,7 +52,16 @@
    "hours": "",
    "closed": "",
    "designated": "2014-04-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "url": "https://sakaireha.com/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 30,
+   "lat": "35.685400243218570",
+   "lng": "139.884740544180320"
   },
   {
    "name": "訪問看護ステーション　あおぞらの家",
@@ -51,7 +73,15 @@
    "hours": "",
    "closed": "",
    "designated": "2016-01-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "url": "http://www.daisen-aozora.com/",
+   "days": [
+    "平日",
+    "祝日"
+   ],
+   "capacity": 20,
+   "lat": "35.679124389500515",
+   "lng": "139.866872800371680"
   },
   {
    "name": "訪問看護ステーションみなもと",
@@ -63,7 +93,17 @@
    "hours": "",
    "closed": "",
    "designated": "2016-12-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "url": "https://minamotokango.com/",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "capacity": 200,
+   "lat": "35.645314725306090",
+   "lng": "139.739395922118720"
   },
   {
    "name": "スマイリー訪問看護ステーション",
@@ -75,7 +115,14 @@
    "hours": "",
    "closed": "",
    "designated": "2017-10-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "url": "http://www.smiley-homecare.com/",
+   "days": [
+    "平日"
+   ],
+   "capacity": 10,
+   "lat": "35.683731400000006",
+   "lng": "139.861708400000000"
   },
   {
    "name": "訪問看護ステーション心音",
@@ -87,7 +134,17 @@
    "hours": "",
    "closed": "",
    "designated": "2018-04-01",
-   "org_kind": "医療法人"
+   "org_kind": "医療法人",
+   "url": "https://www.kokone-kango.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "capacity": 10,
+   "lat": "35.704289300000000",
+   "lng": "139.841268500000070"
   },
   {
    "name": "訪問看護ステーションこはる",
@@ -123,7 +180,14 @@
    "hours": "",
    "closed": "",
    "designated": "2020-08-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "url": "https://linie-group.jp/office/houmonkango-edogawa/",
+   "days": [
+    "平日"
+   ],
+   "capacity": 200,
+   "lat": "35.734553000000000",
+   "lng": "139.874776900000000"
   },
   {
    "name": "もっち訪問看護ステーション",
@@ -135,7 +199,16 @@
    "hours": "",
    "closed": "",
    "designated": "2022-01-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "url": "https://mocchi-houkan.com/",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "lat": "35.698114100000010",
+   "lng": "139.899489700000000"
   },
   {
    "name": "アリカ訪問看護ステーション瑞江",
@@ -147,7 +220,13 @@
    "hours": "",
    "closed": "",
    "designated": "2022-04-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "url": "https://arika-houkan.com/",
+   "days": [
+    "平日"
+   ],
+   "lat": "35.692546599999990",
+   "lng": "139.898695900000000"
   },
   {
    "name": "訪問看護ステーションえどがわ",
@@ -159,7 +238,13 @@
    "hours": "",
    "closed": "",
    "designated": "2023-02-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "url": "https://nursing-home.co.jp/nh/minamishinozakimachi/",
+   "days": [
+    "平日"
+   ],
+   "lat": "35.695206366185910",
+   "lng": "139.907523971163950"
   },
   {
    "name": "スマイルプラス訪問看護ステーション",
@@ -171,7 +256,14 @@
    "hours": "",
    "closed": "",
    "designated": "2023-08-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "url": "https://www.smileberg-smileplus.jp/",
+   "days": [
+    "平日"
+   ],
+   "capacity": 60,
+   "lat": "35.703592200000000",
+   "lng": "139.869902700000000"
   },
   {
    "name": "訪問看護ステーション　ヴァクト",
@@ -183,7 +275,14 @@
    "hours": "",
    "closed": "",
    "designated": "2025-01-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "url": "https://vakt.hp.peraichi.com/vakt/",
+   "days": [
+    "平日",
+    "土曜日"
+   ],
+   "lat": "35.744492600000000",
+   "lng": "139.886177800000000"
   },
   {
    "name": "２４訪問看護ステーション南篠崎",
@@ -195,7 +294,12 @@
    "hours": "",
    "closed": "",
    "designated": "2025-06-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "days": [
+    "平日"
+   ],
+   "lat": "35.692370100000000",
+   "lng": "139.906895700000000"
   },
   {
    "name": "訪問看護ステーション　コルディアーレ小岩",
@@ -231,7 +335,15 @@
    "hours": "",
    "closed": "",
    "designated": "2000-04-01",
-   "org_kind": "医療法人"
+   "org_kind": "医療法人",
+   "url": "http://www.houkan-magokoro.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.662924000000000",
+   "lng": "139.884907399999970"
   },
   {
    "name": "一般社団法人江戸川区医師会訪問看護ステーション",
@@ -243,7 +355,14 @@
    "hours": "",
    "closed": "",
    "designated": "2000-04-01",
-   "org_kind": "社団・財団"
+   "org_kind": "社団・財団",
+   "url": "https://www.edogawa-med.jp",
+   "days": [
+    "平日"
+   ],
+   "capacity": 60,
+   "lat": "35.709939800000000",
+   "lng": "139.868523699999970"
   }
  ],
  "towns": [
@@ -438,5 +557,7 @@
  ],
  "source": "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
  "service": "訪問看護",
- "fetched": "2026-09-22"
+ "fetched": "2026-09-22",
+ "source2": "厚生労働省「介護サービス情報公表システム」オープンデータ",
+ "mhlw_hit": 16
 }

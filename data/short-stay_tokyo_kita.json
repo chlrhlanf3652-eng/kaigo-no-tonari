@@ -44,6 +44,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-03-01",
       "_years": 26.559890485968516,
+      "url": "http://www.o-kousyoen.com",
+      "_capacity": 2,
       "_tags": [
         "王子エリア",
         "併設・専用床",
@@ -68,6 +70,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2000-02-01",
       "_years": 26.639288158795345,
+      "url": "http://www.welgarden.or.jp/nishigaokaen/",
       "_tags": [
         "西が丘エリア",
         "併設・専用床",
@@ -92,6 +95,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2001-04-01",
       "_years": 25.475701574264203,
+      "url": "http://www.urara.or.jp",
       "_tags": [
         "志茂エリア",
         "併設・専用床",
@@ -116,6 +120,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2006-04-01",
       "_years": 20.476386036960985,
+      "url": "http://www.seirouin.or.jp/yamabuki/",
       "_tags": [
         "浮間エリア",
         "併設・専用床",
@@ -140,6 +145,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2006-04-01",
       "_years": 20.476386036960985,
+      "url": "https://www.ak-sakurasou.org/",
       "_tags": [
         "赤羽北エリア",
         "併設・専用床",
@@ -164,6 +170,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2006-04-01",
       "_years": 20.476386036960985,
+      "url": "http://www.kitajigyo.com",
       "_tags": [
         "中十条エリア",
         "併設・専用床",
@@ -188,6 +195,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2006-04-01",
       "_years": 20.476386036960985,
+      "url": "http://kitajigyo.com/aged_service/kaminakazato/short.html",
       "_tags": [
         "上中里エリア",
         "併設・専用床",
@@ -212,6 +220,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2007-04-01",
       "_years": 19.477070499657767,
+      "url": "http://www.kohoen.jp",
+      "_capacity": 19,
       "_tags": [
         "浮間エリア",
         "併設・専用床",
@@ -236,6 +246,7 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2008-05-01",
       "_years": 18.392881587953458,
+      "url": "https://seizan-kai.or.jp/asuka-seizanen/",
       "_tags": [
         "西ケ原エリア",
         "併設・専用床",
@@ -260,6 +271,8 @@
       "_fkind": "特養の併設事業所型",
       "_designated": "2013-04-01",
       "_years": 13.475701574264203,
+      "url": "http://www.senyoukai.or.jp",
+      "_capacity": 10,
       "_tags": [
         "田端新町エリア",
         "併設・専用床",
@@ -346,6 +359,7 @@
   "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/bunkyo/\">文京区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/toshima/\">豊島区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/itabashi/\">板橋区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/arakawa/\">荒川区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/adachi/\">足立区</a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
+    "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／定員・公式サイト）",
     "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
     "北区「高齢者あんしんセンター一覧」",
     "日本郵便 郵便番号データにもとづく北区の町域一覧"
