@@ -141,7 +141,9 @@ def render_listing(d: dict) -> str:
         '    <div class="warn"><strong>掲載情報についてのお願い</strong><br>'
         f'上記{len(d["items"])}件は、{d["modified"]}に{city}および各事業者の公表情報で確認した内容です。'
         '営業時間・対応エリア・空き状況は変動しますので、連絡の前に必ず公式情報をご確認ください。'
-        '掲載内容の訂正・削除のご依頼は運営者までご連絡ください。</div>'
+        '掲載内容の訂正・削除は、'
+        '<a href="{{ROOT}}contact/">お問い合わせ</a>からご依頼いただければ'
+        '<strong>理由の説明なしで削除します</strong>。</div>'
     )
     return "\n".join(out)
 
