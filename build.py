@@ -119,6 +119,15 @@ def render_listing(d: dict) -> str:
             rows.append(f'<dt>対応エリア</dt><dd>{esc(it["areaServed"])}</dd>')
         if it.get("description"):
             rows.append(f'<dt>特徴</dt><dd>{esc(it["description"])}</dd>')
+        # 公式サイトの URL は data にあるのに出していなかった。
+        # 載せないと利用者は自分で検索し直すことになるし、離脱の計測もできない。
+        if it.get("url"):
+            u = it["url"]
+            host = re.sub(r"^https?://(?:www\.)?", "", u).split("/")[0]
+            rows.append('<dt>公式サイト</dt><dd>'
+                        f'<a class="ext" href="{esc(u)}" target="_blank" rel="noopener">'
+                        f'{esc(host)}<span class="exti" aria-hidden="true">↗</span></a>'
+                        '<span class="sr">（外部サイトが開きます）</span></dd>')
         tags = "".join(f'<span class="tag">{esc(t)}</span>' for t in it.get("_tags", []))
         out.append(
             '    <div class="card">\n'
