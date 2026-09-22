@@ -239,7 +239,8 @@ def build(wid, site):
             "厚生労働省「介護事業所・生活関連情報検索（介護サービス情報公表システム）」",
             f"{ward}「{madoguchi}一覧」",
             f"{ward}「要介護・要支援認定の申請からサービス利用までの流れ」",
-            "令和6年度介護報酬改定 訪問介護 基本報酬単位数／介護報酬の地域区分（1級地・1単位11.40円）",
+            "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」訪問介護費（令和6年度改定）／"
+            "介護報酬の地域区分（1級地・1単位11.40円）",
             f"日本郵便 郵便番号データにもとづく{ward}の町域一覧",
             "区内事業所数の目安：ハートページナビ／LIFULL介護 各掲載件数（2026年9月時点）",
         ],
@@ -264,9 +265,10 @@ def build(wid, site):
 
 
 if __name__ == "__main__":
-    # 先頭が _ のファイルは区ではない補助データなので除く
+    # 先頭が _ のファイルは補助データ、kango_ は訪問看護用なので除く
     targets = sys.argv[1:] or sorted(
-        p.stem for p in CACHE.glob("*.json") if not p.stem.startswith("_"))
+        p.stem for p in CACHE.glob("*.json")
+        if not p.stem.startswith(("_", "kango_")))
     sp = BASE / "data" / "site.json"
     site = json.loads(sp.read_text(encoding="utf-8"))
     ok = sum(1 for t in targets if build(t, site))
