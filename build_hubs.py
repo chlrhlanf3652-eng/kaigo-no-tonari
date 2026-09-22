@@ -35,6 +35,7 @@ PREF_OGP = {
     ("houmon-kango", "tokyo"): "ogp-tokyo-kango.jpg",
     ("short-stay", "tokyo"): "ogp-tokyo-short.jpg",
     ("fukushi-yogu", "tokyo"): "ogp-tokyo-yogu.jpg",
+    ("day-service", "tokyo"): "ogp-tokyo-day.jpg",
 }
 
 
