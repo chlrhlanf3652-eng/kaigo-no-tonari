@@ -419,7 +419,7 @@ def build_area(pref_id):
     cats = [c for c in S["categories"] if live_areas(c["id"], pref_id)]
 
     # 区 × サービスの表。各セルは件数つきのリンク。
-    head = "".join(f'<th>{c["name"]}</th>' for c in cats)
+    head = "".join(f'<th class="nw">{c["name"]}</th>' for c in cats)
     rows = []
     for wid, w in W.items():
         cells = []
@@ -433,7 +433,7 @@ def build_area(pref_id):
                 cells.append('<td class="num tiny">—</td>')
         st = KO.stats(wid)
         rate = f'{st["rate65"]}%' if st else "—"
-        rows.append(f'      <tr><th>{w["name"]}</th><td class="num">{rate}</td>'
+        rows.append(f'      <tr><th class="nw">{w["name"]}</th><td class="num">{rate}</td>'
                     + "".join(cells) + "</tr>")
 
     total_pages = sum(1 for c in cats for wid in W if has_data(c["id"], pref_id, wid))
@@ -448,7 +448,7 @@ def build_area(pref_id):
         '  <div class="tw">\n  <table>\n'
         '    <caption class="tiny" style="text-align:left;padding-bottom:6px">'
         '東京23区のサービス別事業所数と高齢化率（区コード順）</caption>\n'
-        f'    <thead><tr><th style="width:14%">区</th><th>高齢化率</th>{head}</tr></thead>\n'
+        f'    <thead><tr><th class="nw">区</th><th class="nw">高齢化率</th>{head}</tr></thead>\n'
         '    <tbody>\n' + "\n".join(rows) + '\n    </tbody>\n  </table>\n  </div>\n'
         '  <p class="tiny">「—」は当サイトでまだ公開していない組み合わせです。'
         '高齢化率は東京都総務局統計部「住民基本台帳による東京都の世帯と人口」'

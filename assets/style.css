@@ -115,6 +115,8 @@ details[open] summary{border-bottom:1px solid var(--line)}
 .lg.tight{grid-template-columns:repeat(auto-fill,minmax(124px,1fr));gap:7px}
 .lg.tight a{padding:8px 10px;font-size:14px}
 .lg.tight small{font-size:12px}
+/* 23区×サービスの表。区名が縦に割れないようにする */
+.tw th.nw,.tw td.nw{white-space:nowrap}
 /* sources */
 .src{background:var(--bg);border-radius:var(--r);padding:16px 20px;font-size:13.5px;color:var(--ink2);margin:30px 0 0}
 .src ul{margin:6px 0 0;padding-left:1.2em}
