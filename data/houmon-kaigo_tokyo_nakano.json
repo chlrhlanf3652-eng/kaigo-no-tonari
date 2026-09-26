@@ -12,60 +12,57 @@
     "city_name": "中野区"
   },
   "seo": {
-    "title": "中野区の訪問介護20事業所｜料金と選び方【2026年9月更新】",
-    "description": "東京都中野区の訪問介護（ホームヘルプ）事業所20件を連絡先つきで掲載。区内77件の中から選ぶための料金の目安、頼めること・頼めないこと、地域包括支援センターへの相談から利用開始までの流れを解説します。",
+    "title": "中野区の訪問介護60事業所｜料金と選び方【2026年9月更新】",
+    "description": "東京都中野区の訪問介護（ホームヘルプ）事業所60件を連絡先つきで掲載。区内77件の中から選ぶための料金の目安、頼めること・頼めないこと、地域包括支援センターへの相談から利用開始までの流れを解説します。",
     "canonical": "https://kaigonotonari.com/houmon-kaigo/tokyo/nakano/",
     "og_title": "中野区の訪問介護事業所一覧｜料金の目安と選び方",
-    "og_description": "中野区の訪問介護事業所20件を掲載。料金の目安、できること・できないこと、利用開始までの流れを解説します。",
+    "og_description": "中野区の訪問介護事業所60件を掲載。料金の目安、できること・できないこと、利用開始までの流れを解説します。",
     "og_image": "https://kaigonotonari.com/assets/ogp-houmon-kaigo.jpg"
   },
   "h1": "中野区の訪問介護事業所一覧｜料金の目安と選び方",
   "published": "2026-09-21",
   "modified": "2026-09-21",
-  "count_label": "掲載：20事業所",
-  "lead": "東京都中野区で訪問介護（ホームヘルプ）を探している方へ。区内にある77件の事業所から20件を連絡先つきで掲載し、あわせて自己負担額の目安、ヘルパーに頼めること・頼めないこと、相談から利用開始までの流れをまとめました。はじめて介護保険を使う方は、まず「地域包括支援センター」への相談から始めるのが近道です。",
-  "listing_note": "中野区内の訪問介護事業所から20件を掲載しています（2026年9月時点）。区内の全件から事業所番号の順に等間隔で抽出しています。区内には77件の事業所があり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
+  "count_label": "掲載：60事業所",
+  "lead": "東京都中野区で訪問介護（ホームヘルプ）を探している方へ。区内にある77件の事業所から60件を連絡先つきで掲載し、あわせて自己負担額の目安、ヘルパーに頼めること・頼めないこと、相談から利用開始までの流れをまとめました。はじめて介護保険を使う方は、まず「地域包括支援センター」への相談から始めるのが近道です。",
+  "listing_note": "中野区内の訪問介護事業所から60件を掲載しています（2026年9月時点）。区内の全件から事業所番号の順に等間隔で抽出しています。区内には77件の事業所があり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
-      "name": "中野ふれあいサービス",
-      "telephone": "03-6276-0172",
+      "name": "訪問介護事業所　ｃｅｒｔｏ",
+      "telephone": "03-6677-2281",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "中野区",
-        "streetAddress": "本町1-2-12"
+        "streetAddress": "東中野４－２７－３８サンパレス東中野２０３"
       },
-      "parentOrganization": "（一社）ふれあい",
-      "identifier": "1371406115",
-      "faxNumber": "03-6276-0173",
-      "_hours": "7:00〜21:00",
-      "_closed": "日・祝・夏季・年末年始",
-      "_town": "本町",
+      "parentOrganization": "ＫＡＬＭＡ合同会社",
+      "identifier": "1370407262",
+      "_town": "東中野",
+      "_days": [
+        "平日"
+      ],
       "_tags": [
-        "本町エリア",
+        "東中野エリア",
         "訪問介護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "クリオケアセンター",
-      "telephone": "03-5328-7301",
+      "name": "ニチイケアセンター中野本町",
+      "telephone": "03-5342-3762",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "中野区",
-        "streetAddress": "中央5-8-11 スペースクリオⅡ-3階"
+        "streetAddress": "本町４－４－１８"
       },
-      "parentOrganization": "（株）ＣＣＣ",
-      "identifier": "1371403815",
-      "faxNumber": "03-5341-8628",
-      "_hours": "9:30〜17:30",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "中央",
-      "url": "http://www.chriocare.com",
+      "parentOrganization": "株式会社ニチイ学館",
+      "identifier": "1371400357",
+      "_town": "本町",
+      "url": "http://www.nichiigakkan.co.jp",
       "_days": [
         "平日",
         "土曜日",
@@ -73,29 +70,26 @@
         "祝日"
       ],
       "_tags": [
-        "中央エリア",
+        "本町エリア",
         "日曜日も対応",
         "訪問介護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "おおきなき野方",
-      "telephone": "03-5318-6790",
+      "name": "ニチイケアセンター野方",
+      "telephone": "03-5345-5069",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "中野区",
-        "streetAddress": "野方3-25-8 ＣＡＳＡ ＶＩＶＡ 地下1階"
+        "streetAddress": "野方４－２１－４オービスビル４F"
       },
-      "parentOrganization": "（株）日本エルダリーケアサービス",
-      "identifier": "1371405810",
-      "faxNumber": "03-5318-6791",
-      "_hours": "9:00〜17:45",
-      "_closed": "土・日・祝・年末年始",
+      "parentOrganization": "株式会社ニチイ学館",
+      "identifier": "1371400381",
       "_town": "野方",
-      "url": "http://www.elderly.jp/",
+      "url": "http://www.nichiigakkan.co.jp",
       "_days": [
         "平日",
         "土曜日",
@@ -110,22 +104,19 @@
     },
     {
       "@type": "LocalBusiness",
-      "name": "東京海上日動みずたま介護ＳＴ中野",
-      "telephone": "03-6775-3935",
+      "name": "ニチイケアセンター中野",
+      "telephone": "03-5318-1780",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "中野区",
-        "streetAddress": "丸山1-4-4 マンション窪寺1階"
+        "streetAddress": "上高田２－４６－６"
       },
-      "parentOrganization": "東京海上日動ベターライフサービス（株）",
-      "identifier": "1371405349",
-      "faxNumber": "03-6775-3936",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "丸山",
-      "url": "https://www.tnbls.co.jp/mizutama/stations/nakano/",
+      "parentOrganization": "株式会社ニチイ学館",
+      "identifier": "1371400399",
+      "_town": "上高田",
+      "url": "http://www.nichiigakkan.co.jp",
       "_days": [
         "平日",
         "土曜日",
@@ -133,249 +124,24 @@
         "祝日"
       ],
       "_tags": [
-        "丸山エリア",
+        "上高田エリア",
         "日曜日も対応",
         "訪問介護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "日本リック訪問介護中野北事業所",
-      "telephone": "03-3228-5072",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "中野区",
-        "streetAddress": "江古田2-19-8 両国凮月堂ビル101"
-      },
-      "parentOrganization": "日本リック（株）",
-      "identifier": "1371403724",
-      "faxNumber": "03-3228-5073",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・年末年始",
-      "_town": "江古田",
-      "url": "http://www.rickcare.jp",
-      "_days": [
-        "平日",
-        "土曜日",
-        "日曜日",
-        "祝日"
-      ],
-      "_tags": [
-        "江古田エリア",
-        "日曜日も対応",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ケアリッツ鷺ノ宮",
-      "telephone": "03-5327-8518",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "中野区",
-        "streetAddress": "若宮2-40-13 サンハイツ中野101"
-      },
-      "parentOrganization": "（株）ケアリッツ・アンド・パートナーズ",
-      "identifier": "1371405943",
-      "faxNumber": "03-5327-8519",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "若宮",
-      "url": "https://www.careritz.co.jp/station/houmon-saginomiya/",
-      "_days": [
-        "平日",
-        "土曜日",
-        "日曜日",
-        "祝日"
-      ],
-      "_tags": [
-        "若宮エリア",
-        "日曜日も対応",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ごせい野方ケアステーション",
-      "telephone": "03-5364-9425",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "中野区",
-        "streetAddress": "若宮1-55-10 若宮緑館101"
-      },
-      "parentOrganization": "（株）五生",
-      "identifier": "1371405380",
-      "faxNumber": "03-5364-9426",
-      "_hours": "9:00〜17:30",
-      "_closed": "祝・年末年始",
-      "_town": "若宮",
-      "url": "http://go-sei.com/",
-      "_days": [
-        "平日",
-        "祝日"
-      ],
-      "_tags": [
-        "若宮エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "さわやかケア中野・訪問介護",
-      "telephone": "03-5348-6208",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "中野区",
-        "streetAddress": "中央1-1-3 新都心中央ビル1階"
-      },
-      "parentOrganization": "ウエルシアパートナーズ（株）",
-      "identifier": "1371402544",
-      "faxNumber": "03-3360-2902",
-      "_hours": "9:00〜17:30",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "中央",
-      "url": "http://www.welcia-partners.co.jp/",
-      "_days": [
-        "平日"
-      ],
-      "_tags": [
-        "中央エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "朝焼け中野事業所",
-      "telephone": "03-6425-7991",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "中野区",
-        "streetAddress": "白鷺1-30-6 深澤ビル1階Ａ"
-      },
-      "parentOrganization": "（株）朝焼け",
-      "identifier": "1371403302",
-      "faxNumber": "03-6685-8248",
-      "_hours": "9:00〜17:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "白鷺",
-      "url": "https://www.asayakenet.com",
-      "_days": [
-        "平日",
-        "祝日"
-      ],
-      "_tags": [
-        "白鷺エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ニチイケアセンター東中野",
-      "telephone": "03-5338-8651",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "中野区",
-        "streetAddress": "東中野1-59-6 信菱ビル2階"
-      },
-      "parentOrganization": "（株）ニチイ学館",
-      "identifier": "1371401868",
-      "faxNumber": "03-3366-1731",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "東中野",
-      "_tags": [
-        "東中野エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "介護ステーションぽけっと",
-      "telephone": "03-5342-3450",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "中野区",
-        "streetAddress": "中野2-12-15 中野リハイム203"
-      },
-      "parentOrganization": "松野（株）",
-      "identifier": "1371403013",
-      "faxNumber": "03-3380-5331",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・年末年始",
-      "_town": "中野",
-      "url": "http://www.pocket-kaigo.com/",
-      "_days": [
-        "平日",
-        "土曜日",
-        "日曜日",
-        "祝日"
-      ],
-      "_tags": [
-        "中野エリア",
-        "日曜日も対応",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "あけぼの介護センター",
-      "telephone": "03-6908-8888",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "中野区",
-        "streetAddress": "中野1-50-3 ベニツル中野ビル2階"
-      },
-      "parentOrganization": "ケアゲート（株）",
-      "identifier": "1371403740",
-      "faxNumber": "03-6908-7388",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "中野",
-      "url": "http://www.caregate.co.jp/",
-      "_days": [
-        "平日",
-        "土曜日",
-        "日曜日",
-        "祝日"
-      ],
-      "_tags": [
-        "中野エリア",
-        "日曜日も対応",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ヘルパーステーション中野",
+      "name": "中野区福祉サービス事業団　ヘルパーステーション中野",
       "telephone": "03-5318-0533",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "中野区",
-        "streetAddress": "沼袋1-34-6 サンハイツ戸倉1階"
+        "streetAddress": "沼袋１－３４－６サンハイツ戸倉１階"
       },
-      "parentOrganization": "（社福）中野区福祉サービス事業団",
+      "parentOrganization": "社会福祉法人中野区福祉サービス事業団",
       "identifier": "1371400621",
-      "faxNumber": "03-5318-0534",
-      "_hours": "8:30〜17:30",
-      "_closed": "日・年始",
       "_town": "沼袋",
       "url": "https://www.nakano-fj.jp/",
       "_days": [
@@ -392,21 +158,96 @@
     },
     {
       "@type": "LocalBusiness",
-      "name": "つなしま ふれあいサービス",
-      "telephone": "03-3389-2848",
+      "name": "社会医療法人社団　健友会　ヘルパーステーションほっと",
+      "telephone": "03-3386-8610",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "中野区",
-        "streetAddress": "新井3-30-1"
+        "streetAddress": "中野５－４４－５石井メゾン１０３"
       },
-      "parentOrganization": "（株）つなしまふれあいサービス",
-      "identifier": "1371401314",
-      "faxNumber": "03-3389-3217",
-      "_hours": "8:00〜18:00",
-      "_closed": "日・年末年始",
+      "parentOrganization": "社会医療法人社団健友会",
+      "identifier": "1371400639",
+      "_town": "中野",
+      "url": "http://www.kenyu-kai.or.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "中野エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "在宅サポートセンター　クローバー",
+      "telephone": "03-5327-6071",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "鷺宮４－３７－１４七十七ビル４階"
+      },
+      "parentOrganization": "株式会社タフィ",
+      "identifier": "1371400779",
+      "_town": "鷺宮",
+      "url": "http://www.taffystyle.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "鷺宮エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケア・アカデミー葉っぱのフレディ",
+      "telephone": "03-3361-2297",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "東中野５－１－１　ユニゾンモール３Ｆ"
+      },
+      "parentOrganization": "株式会社ケア・アカデミー葉っぱのフレディ",
+      "identifier": "1371400886",
+      "_town": "東中野",
+      "url": "http://happa.co.jp",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "東中野エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "たんぽぽ介護",
+      "telephone": "03-5318-5731",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "新井１－２６－４－２Ｆ"
+      },
+      "parentOrganization": "株式会社アスモ",
+      "identifier": "1371401041",
       "_town": "新井",
+      "url": "http://www.asumo-kaigo.jp",
       "_days": [
         "平日",
         "土曜日",
@@ -421,22 +262,44 @@
     },
     {
       "@type": "LocalBusiness",
-      "name": "けありんぐ里の風",
-      "telephone": "03-6454-0443",
+      "name": "みつ葉訪問介護事業所",
+      "telephone": "03-5304-0177",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "中野区",
-        "streetAddress": "松が丘1-8-14 アビヤント大崎105"
+        "streetAddress": "本町３－８－１５矢崎コープ１０１"
       },
-      "parentOrganization": "ＮＰＯ法人 なかの里を紡ぐ会",
-      "identifier": "1371405455",
-      "faxNumber": "03-6454-0442",
-      "_hours": "9:00〜18:00",
-      "_closed": "日・祝・年末年始",
-      "_town": "松が丘",
-      "url": "http://www.nakano-sato.org/",
+      "parentOrganization": "有限会社クローバー介護サービス",
+      "identifier": "1371401348",
+      "_town": "本町",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "本町エリア",
+        "土曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ハナ・ケアサービス",
+      "telephone": "03-5318-2605",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "新井一丁目６番４号　明和ハイム中野１階"
+      },
+      "parentOrganization": "有限会社　ハナ・ケアサービス",
+      "identifier": "1371401447",
+      "_town": "新井",
+      "url": "https://hana-careservice.com/",
       "_days": [
         "平日",
         "土曜日",
@@ -444,54 +307,213 @@
         "祝日"
       ],
       "_tags": [
-        "松が丘エリア",
+        "新井エリア",
         "日曜日も対応",
         "訪問介護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "ＳＯＭＰＯケア 中野 訪問介護",
-      "telephone": "03-6382-8210",
+      "name": "ＮＰＯ　ヘルパーステーション　中野の郷",
+      "telephone": "03-3384-6881",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "中野区",
-        "streetAddress": "中野3-33-18 フェルテ中野302"
+        "streetAddress": "弥生町２－５２－４城西弥生町マンション１０６"
       },
-      "parentOrganization": "ＳＯＭＰＯケア（株）",
-      "identifier": "1371405679",
-      "faxNumber": "03-6382-8213",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "中野",
-      "url": "https://www.sompocare.com/service/zaitaku/kaigo/Z000093",
+      "parentOrganization": "特定非営利活動法人モンドラゴン中野の郷",
+      "identifier": "1371401702",
+      "_town": "弥生町",
+      "url": "http://www.nakanonosato.jp",
       "_days": [
-        "平日"
+        "平日",
+        "土曜日",
+        "祝日"
       ],
       "_tags": [
-        "中野エリア",
+        "弥生町エリア",
+        "土曜日も対応",
         "訪問介護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "つかさ介護ヘルパー事業所",
-      "telephone": "03-6382-5459",
+      "name": "テルウェル東日本　中野介護センタ",
+      "telephone": "03-3375-7903",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "中野区",
-        "streetAddress": "本町5-13-6 シャトレ中野新橋404"
+        "streetAddress": "弥生町３－３０－１加藤ビル１階"
       },
-      "parentOrganization": "（同）つかさ介護ヘルパー事業所",
-      "identifier": "1371406321",
-      "faxNumber": "03-6382-5642",
-      "_hours": "9:00〜18:00",
-      "_closed": "年中無休",
+      "parentOrganization": "テルウェル東日本株式会社",
+      "identifier": "1371401793",
+      "_town": "弥生町",
+      "url": "http://www.telwel-east.co.jp/kaigo/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "弥生町エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケア２１　中野",
+      "telephone": "03-5343-7937",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "江古田４－３０－３岡村ビル２階"
+      },
+      "parentOrganization": "株式会社ケア２１",
+      "identifier": "1371401900",
+      "_town": "江古田",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "江古田エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ハート介護サービス中野",
+      "telephone": "03-6304-0615",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "中央３－５０－９ワタナベセカンドビル4階"
+      },
+      "parentOrganization": "株式会社ハート介護サービス",
+      "identifier": "1371401959",
+      "_town": "中央",
+      "url": "http://www.media-web.co.jp/heart/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "中央エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアサポートモモ",
+      "telephone": "03-3380-2310",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "中央３－３９－３"
+      },
+      "parentOrganization": "有限会社　ケアサポートモモ",
+      "identifier": "1371402023",
+      "_town": "中央",
+      "url": "http://www.momokaigo.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "中央エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "やさしい手中野南口訪問介護事業所",
+      "telephone": "05017520657",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "中野中央３－５０－９ワタナベセカンドビル２階"
+      },
+      "parentOrganization": "株式会社やさしい手",
+      "identifier": "1371402262",
+      "_town": "中野",
+      "url": "https://search.yasashiite.com/detail/homonkaigo_nakanominamiguchi/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "中野エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ふくろうサポート",
+      "telephone": "03-3389-2963",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "沼袋４－２７－１２"
+      },
+      "parentOrganization": "株式会社ふくろうサポート",
+      "identifier": "1371402270",
+      "_town": "沼袋",
+      "url": "http://www.maroon.dti.ne.jp/fukurou-support",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "沼袋エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あおば",
+      "telephone": "03-5358-8200",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "本町三丁目５番４号メゾンシルクロード１階"
+      },
+      "parentOrganization": "特定非営利活動法人あおば",
+      "identifier": "1371402668",
       "_town": "本町",
+      "url": "http://www.npo-aoba.or.jp/",
       "_days": [
         "平日",
         "土曜日",
@@ -506,6 +528,637 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "グリーンケア中野",
+      "telephone": "03-5342-5351",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "弥生町２－３１－９朝日プラザ中野弥生町１Ａ"
+      },
+      "parentOrganization": "株式会社アクトライフ",
+      "identifier": "1371402965",
+      "_town": "弥生町",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "弥生町エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "介護ステーション　ぽけっと",
+      "telephone": "03-5342-3450",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "中野２－１２－１５中野リハイム２０３号"
+      },
+      "parentOrganization": "松野株式会社",
+      "identifier": "1371403013",
+      "_town": "中野",
+      "url": "http://www.pocket-kaigo.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "中野エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "Ｃｕｒｅステーション　スマイル",
+      "telephone": "03-5332-3558",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "東中野４－２３－１　グリーンハイムＫ１０１"
+      },
+      "parentOrganization": "株式会社ヒロ・コーポレーション",
+      "identifier": "1371403039",
+      "_town": "東中野",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "東中野エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＮＰＯピクニックケア",
+      "telephone": "03-5942-4902",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "新井１－２－２６"
+      },
+      "parentOrganization": "特定非営利活動法人ピクニックケア",
+      "identifier": "1371403187",
+      "_town": "新井",
+      "url": "https://ja-jp.facebook.com/npopicniccare/",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "新井エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヘルパーステーション江古田の森",
+      "telephone": "03-5318-3729",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "江古田３－１４－１９"
+      },
+      "parentOrganization": "社会福祉法人南東北福祉事業団",
+      "identifier": "1371403229",
+      "_town": "江古田",
+      "url": "http://www.kaigo-egota.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "江古田エリア",
+        "土曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアリッツ　中野",
+      "telephone": "03-3228-6601",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "新井１－１８－４寺沢ハイツ１階"
+      },
+      "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
+      "identifier": "1371403286",
+      "_town": "新井",
+      "url": "https://www.careritz.co.jp/station/branch/nakano/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "新井エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "日本リック訪問介護中野南事業所",
+      "telephone": "03-5328-2631",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "弥生町４－２２－４"
+      },
+      "parentOrganization": "日本リック株式会社",
+      "identifier": "1371403609",
+      "_town": "弥生町",
+      "url": "http://www.rickcare.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "弥生町エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアセンター希",
+      "telephone": "03-5342-2911",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "中野３－４０－２９－２０３"
+      },
+      "parentOrganization": "株式会社ローズ倶楽部",
+      "identifier": "1371403617",
+      "_town": "中野",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "中野エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "日本リック訪問介護中野北事業所",
+      "telephone": "03-3228-5072",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "江古田２－１９－８両国凮月堂ビル１０１号室"
+      },
+      "parentOrganization": "日本リック株式会社",
+      "identifier": "1371403724",
+      "_town": "江古田",
+      "url": "http://www.rickcare.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "江古田エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あけぼの介護センター",
+      "telephone": "03-6908-8888",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "中野１－５０－３ベニツル中野ビル２階"
+      },
+      "parentOrganization": "ケアゲート株式会社",
+      "identifier": "1371403740",
+      "_town": "中野",
+      "url": "http://www.caregate.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "中野エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アシストセンター「ねこの手」",
+      "telephone": "03-3360-4460",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "東中野１－３８－１２コーポ光１０１"
+      },
+      "parentOrganization": "特定非営利活動法人ねこの手",
+      "identifier": "1371404045",
+      "_town": "東中野",
+      "url": "https://npo-nekonote.org/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "東中野エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "コープみらい　中野介護センター",
+      "telephone": "03-3382-5691",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "中央５－４１－１８東京都生協連会館４階"
+      },
+      "parentOrganization": "生活協同組合コープみらい",
+      "identifier": "1371404201",
+      "_town": "中央",
+      "url": "http://mirai.coopnet.or.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "中央エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "介護事業所めだか",
+      "telephone": "03-5380-7021",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "新井３－１－１１パールシオンＢ１号室"
+      },
+      "parentOrganization": "特定非営利活動法人中野の介護と福祉を考える会",
+      "identifier": "1371404276",
+      "_town": "新井",
+      "_tags": [
+        "新井エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ユースタイルケア　東京　重度訪問介護",
+      "telephone": "05031887708",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "中央１－３５－６レッチフィールド中野坂上ビル３Ｆ"
+      },
+      "parentOrganization": "ユースタイルラボラトリー株式会社",
+      "identifier": "1371405083",
+      "_town": "中央",
+      "url": "https://eustylelab.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "中央エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あけぼの介護センター中野南",
+      "telephone": "03-6382-7907",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "本町５－３８－１１ユニテ中野１０２"
+      },
+      "parentOrganization": "ケアゲート株式会社",
+      "identifier": "1371405091",
+      "_town": "本町",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "本町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "こころ訪問介護",
+      "telephone": "03-6908-1017",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "江古田１－２７－４翠雲荘１０１"
+      },
+      "parentOrganization": "ハート＆ハート合同会社",
+      "identifier": "1371405216",
+      "_town": "江古田",
+      "url": "http://www.hartcocoro.info/",
+      "_tags": [
+        "江古田エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "サポートたすけあい",
+      "telephone": "03-5356-8225",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "野方５－２６－７"
+      },
+      "parentOrganization": "特定非営利活動法人ポタジエの会",
+      "identifier": "1371405224",
+      "_town": "野方",
+      "_tags": [
+        "野方エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "東京海上日動みずたま介護ＳＴ中野",
+      "telephone": "03-6775-3935",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "丸山１－４－４マンション窪寺１階"
+      },
+      "parentOrganization": "東京海上日動ベターライフサービス株式会社",
+      "identifier": "1371405349",
+      "_town": "丸山",
+      "url": "https://www.tnbls.co.jp/mizutama/stations/nakano/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "丸山エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社ごせい野方ケアステーション",
+      "telephone": "03-5364-9425",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "若宮１－５５－１０若宮緑館１０１"
+      },
+      "parentOrganization": "株式会社五生",
+      "identifier": "1371405380",
+      "_town": "若宮",
+      "url": "http://go-sei.com/",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "若宮エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "スギコーケアセンター野方",
+      "telephone": "03-3310-4485",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "野方５－３４－３カーサ沙羅１Ｆ"
+      },
+      "parentOrganization": "スギコー株式会社",
+      "identifier": "1371405422",
+      "_town": "野方",
+      "url": "http://sugiko-welfare.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "野方エリア",
+        "土曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ユースタイルケア　新中野　訪問介護",
+      "telephone": "05031603998",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "中央４－２４－１３ＴＭハウス中野１０１号室"
+      },
+      "parentOrganization": "ユースタイルラボラトリー株式会社",
+      "identifier": "1371405521",
+      "_town": "中央",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "中央エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あくとケア　中野",
+      "telephone": "03-5318-5645",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "新井１－３６－２菅沼ビル　２０２号室"
+      },
+      "parentOrganization": "株式会社ＳＯＬ",
+      "identifier": "1371405570",
+      "_town": "新井",
+      "url": "https://actcare.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "新井エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアリッツ中野坂上",
+      "telephone": "03-5937-5761",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "中央１－４３－１５マンションＶＩＰ中野坂上２０６"
+      },
+      "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
+      "identifier": "1371405646",
+      "_town": "中央",
+      "url": "https://www.careritz.co.jp/station/branch/nakanosakaue/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "中央エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ホームケア野方",
+      "telephone": "03-5327-3930",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "野方６－６－２サンクリバージュ野方　地上１階"
+      },
+      "parentOrganization": "ＡＬＳＯＫらいふケア株式会社",
+      "identifier": "1371405653",
+      "_town": "野方",
+      "url": "https://www.life-silver.com/life-silver/facility/houmonnogata/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "野方エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "おおきなき野方",
+      "telephone": "03-5318-6790",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "野方３－２５－８ＣＡＳＡ　ＶＩＶＡ　Ｂ１Ｆ"
+      },
+      "parentOrganization": "株式会社日本エルダリーケアサービス",
+      "identifier": "1371405810",
+      "_town": "野方",
+      "url": "http://www.elderly.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "野方エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ニチイケアセンターかみさぎ",
       "telephone": "03-5987-7008",
       "address": {
@@ -513,13 +1166,10 @@
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "中野区",
-        "streetAddress": "上鷺宮5-8-5 ベル・ヴィベール101"
+        "streetAddress": "上鷺宮５－８－５ベル・ヴィベール１０１"
       },
-      "parentOrganization": "（株）ニチイ学館",
+      "parentOrganization": "株式会社ニチイ学館",
       "identifier": "1371405935",
-      "faxNumber": "03-3577-0056",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
       "_town": "上鷺宮",
       "url": "http://www.nichiigakkan.co.jp",
       "_days": [
@@ -536,22 +1186,19 @@
     },
     {
       "@type": "LocalBusiness",
-      "name": "やさしい手 中野北口訪問介護事業所",
-      "telephone": "050-1752-1333",
+      "name": "ケアリッツ鷺ノ宮",
+      "telephone": "03-5327-8518",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "中野区",
-        "streetAddress": "新井2-30-4 ＩＦＯビル3階"
+        "streetAddress": "若宮２－４０－１３サンハイツ中野１０１"
       },
-      "parentOrganization": "（株）やさしい手",
-      "identifier": "1371400407",
-      "faxNumber": "050-3535-7859",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "新井",
-      "url": "http://www.yasashiite.com",
+      "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
+      "identifier": "1371405943",
+      "_town": "若宮",
+      "url": "https://www.careritz.co.jp/station/houmon-saginomiya/",
       "_days": [
         "平日",
         "土曜日",
@@ -559,34 +1206,345 @@
         "祝日"
       ],
       "_tags": [
-        "新井エリア",
+        "若宮エリア",
         "日曜日も対応",
         "訪問介護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "ワンストップ訪問介護ステーション中野南台",
-      "telephone": "03-6382-5336",
+      "name": "中野ふれあいサービス",
+      "telephone": "03-6276-0172",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "中野区",
-        "streetAddress": "南台2-17-10-1階"
+        "streetAddress": "本町１－２－１２"
       },
-      "parentOrganization": "（株）ワンストップ",
-      "identifier": "1371406495",
-      "faxNumber": "03-6382-5337",
-      "_hours": "8:45〜17:45",
-      "_closed": "土・日・年末年始",
-      "_town": "南台",
+      "parentOrganization": "一般社団法人ふれあい",
+      "identifier": "1371406115",
+      "_town": "本町",
+      "_tags": [
+        "本町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "日本リック総合支援事業所　りんく野方",
+      "telephone": "03-5356-8993",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "野方５－２９－１０アネックスノガタ１階"
+      },
+      "parentOrganization": "日本リック株式会社",
+      "identifier": "1371406180",
+      "_town": "野方",
+      "url": "https://www.rickcare.jp/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "野方エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ミンガラーバ",
+      "telephone": "03-5343-9322",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "上高田２－１６－１５－３０６"
+      },
+      "parentOrganization": "ＺＥＵＳＪＡＰＡＮ株式会社",
+      "identifier": "1371406206",
+      "_town": "上高田",
+      "_tags": [
+        "上高田エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアリッツ新中野",
+      "telephone": "03-6382-4831",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "本町２－１３－６コートシルバーストーン１０１"
+      },
+      "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
+      "identifier": "1371406222",
+      "_town": "本町",
+      "url": "https://www.careritz.co.jp/station/branch/shinnakano/",
       "_days": [
         "平日",
+        "土曜日",
+        "日曜日",
         "祝日"
       ],
       "_tags": [
-        "南台エリア",
+        "本町エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ホームケア中野",
+      "telephone": "03-5942-8681",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "中野５－３２－５神谷ビル２０１号"
+      },
+      "parentOrganization": "ＡＬＳＯＫらいふケア株式会社",
+      "identifier": "1371406297",
+      "_town": "中野",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "中野エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "合同会社つかさ介護ヘルパー事業所",
+      "telephone": "03-6382-5459",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "本町５－１３－６シャトレ中野新橋４０４号室"
+      },
+      "parentOrganization": "合同会社つかさ介護ヘルパー事業所",
+      "identifier": "1371406321",
+      "_town": "本町",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "本町エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＡＬＳＯＫヘルパーステーション中野",
+      "telephone": "03-5364-0560",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "若宮１－２８－１３"
+      },
+      "parentOrganization": "ＡＬＳＯＫ介護株式会社",
+      "identifier": "1371406370",
+      "_town": "若宮",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "若宮エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "エイプレイス中野",
+      "telephone": "03-5318-2550",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "中野５－２４－１８クロス・スクエアＮＡＫＡＮＯ　９０１号室"
+      },
+      "parentOrganization": "株式会社エイプレイス",
+      "identifier": "1371406404",
+      "_town": "中野",
+      "url": "https://www.a-place.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "中野エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "美優城ライフサポート株式会社",
+      "telephone": "08051808359",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "丸山２－３－１４ライフピアプランタン２０３"
+      },
+      "parentOrganization": "美優城ライフサポート株式会社",
+      "identifier": "1371406446",
+      "_town": "丸山",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "丸山エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "日本リック総合支援事業所　りんく中野",
+      "telephone": "03-6382-8622",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "中央４－２１－１８コリンズ１４ビル１階"
+      },
+      "parentOrganization": "日本リック株式会社",
+      "identifier": "1371406453",
+      "_town": "中央",
+      "url": "http://www.rickcare.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "中央エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ハピフル訪問介護　新中野",
+      "telephone": "07012918495",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "本町５－４８－７ニューウェルハイツ中野３０４"
+      },
+      "parentOrganization": "合同会社ＢＥＳＴＬＩＦＥ",
+      "identifier": "1371406461",
+      "_town": "本町",
+      "_tags": [
+        "本町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問介護フリージア",
+      "telephone": "08036808853",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "中野３－５０－１４－２０３号室"
+      },
+      "parentOrganization": "合同会社フリースタイル",
+      "identifier": "1371406529",
+      "_town": "中野",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "中野エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "サンウェルズ中野白鷺ヘルパーステーション",
+      "telephone": "03-3310-1252",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "白鷺２－１４－１２"
+      },
+      "parentOrganization": "株式会社サンウェルズ",
+      "identifier": "1371406560",
+      "_town": "白鷺",
+      "url": "https://sunwels.jp/pdh/facility/pdhouse-nakanoshirasagi/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "白鷺エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "医心館　訪問介護ステーション　鷺ノ宮",
+      "telephone": "03-6383-0352",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "鷺宮３－１４－９"
+      },
+      "parentOrganization": "株式会社アンビス",
+      "identifier": "1371406594",
+      "_town": "鷺宮",
+      "_tags": [
+        "鷺宮エリア",
         "訪問介護"
       ]
     }
@@ -598,7 +1556,7 @@
     },
     {
       "q": "中野区には訪問介護事業所が何件ありますか？",
-      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で中野区内に77件の訪問介護事業所が指定を受けています。本ページではそのうち20件を連絡先つきで掲載しています。全件は厚生労働省「介護サービス情報公表システム」で確認できます。"
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で中野区内に77件の訪問介護事業所が指定を受けています。本ページではそのうち60件を連絡先つきで掲載しています。全件は厚生労働省「介護サービス情報公表システム」で確認できます。"
     },
     {
       "q": "中野区の担当窓口は、どうやって調べればいいですか？",
@@ -606,7 +1564,7 @@
     },
     {
       "q": "中野区の掲載事業所は、どこを見て絞り込めばいいですか？",
-      "a": "上の内訳表が目安になります。日曜にもヘルパーに来てほしい場合は13件、土曜まででよければ13件が対象です。そのうえで、ご自宅の町名を伝えて対応エリアに入っているかを確認するのが確実です。曜日はサービスを提供する日で、事務所の電話がつながる時間帯とは別です。"
+      "a": "上の内訳表が目安になります。日曜にもヘルパーに来てほしい場合は42件、土曜まででよければ46件が対象です。そのうえで、ご自宅の町名を伝えて対応エリアに入っているかを確認するのが確実です。曜日はサービスを提供する日で、事務所の電話がつながる時間帯とは別です。"
     },
     {
       "q": "訪問介護の自己負担はいくらくらいですか？",
@@ -614,12 +1572,12 @@
     },
     {
       "q": "中野区の事業所は、途中で変更できますか？",
-      "a": "変更できます。担当のケアマネジャーに相談すれば、ケアプランを見直したうえで中野区内の別の訪問介護事業所に切り替えられます。中野区は掲載20件・区内77件と候補があるので、相性やシフトの都合で変更する方は珍しくありません。"
+      "a": "変更できます。担当のケアマネジャーに相談すれば、ケアプランを見直したうえで中野区内の別の訪問介護事業所に切り替えられます。中野区は掲載60件・区内77件と候補があるので、相性やシフトの都合で変更する方は珍しくありません。"
     }
   ],
-  "related": "<a href=\"{{ROOT}}takuhai-bento/tokyo/nakano/\">中野区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}koreisha-chintai/tokyo/nakano/\">中野区の高齢者可賃貸<small>断られない部屋探し</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/nakano/\">中野区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/nakano/\">中野区のデイサービス<small>通所介護</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/nakano/\">中野区の見守りサービス<small>ひとり暮らしの安否確認</small></a>\n      <a href=\"{{ROOT}}kaigo-taxi/tokyo/nakano/\">中野区の介護タクシー<small>通院・外出の送迎</small></a>",
-  "nearby_heading": "近隣エリアの訪問介護",
-  "nearby": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/shinjuku/\">新宿区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/shibuya/\">渋谷区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/setagaya/\">世田谷区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/suginami/\">杉並区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/nerima/\">練馬区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/toshima/\">豊島区</a>",
+  "related": "<a href=\"{{ROOT}}houmon-kango/tokyo/nakano/\">中野区の訪問看護<small>医療ケアが必要な方へ・区内35件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/nakano/\">中野区のデイサービス<small>日帰りで通う・区内25件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/nakano/\">中野区のショートステイ<small>数日あずける・区内12件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/nakano/\">中野区の福祉用具<small>借りる・買う・区内15件</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/nakano/\">中野区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/nakano/\">中野区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "東京23区から訪問介護を探す",
+  "nearby": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/chiyoda/\">千代田区<small>22件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/chuo/\">中央区<small>38件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/minato/\">港区<small>70件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/shinjuku/\">新宿区<small>88件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/bunkyo/\">文京区<small>33件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/taito/\">台東区<small>59件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/sumida/\">墨田区<small>64件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/koto/\">江東区<small>77件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/shinagawa/\">品川区<small>55件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/meguro/\">目黒区<small>52件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/ota/\">大田区<small>138件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/setagaya/\">世田谷区<small>237件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/shibuya/\">渋谷区<small>48件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/suginami/\">杉並区<small>143件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/toshima/\">豊島区<small>63件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/kita/\">北区<small>93件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/arakawa/\">荒川区<small>54件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/itabashi/\">板橋区<small>158件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/nerima/\">練馬区<small>203件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/adachi/\">足立区<small>213件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/katsushika/\">葛飾区<small>153件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/edogawa/\">江戸川区<small>154件</small></a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
     "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／サービス提供日・公式サイト）",
@@ -627,6 +1585,8 @@
     "中野区「要介護・要支援認定の申請からサービス利用までの流れ」",
     "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」訪問介護費（令和6年度改定）／介護報酬の地域区分（1級地・1単位11.40円）",
     "日本郵便 郵便番号データにもとづく中野区の町域一覧",
+    "東京都総務局統計部「住民基本台帳による東京都の世帯と人口」（令和8年1月1日現在／年齢3区分別人口・5歳階級別人口）",
+    "東京都福祉局「介護保険事業状況報告（月報）」令和8年6月分（保険者別・第1号被保険者数／要介護認定者数）",
     "区内事業所数：東京都公表の指定事業所一覧にもとづく実数（2026年9月1日時点）"
   ],
   "sidebar": "<div class=\"side cta-side\">\n        <h4>どこに相談すればいい？</h4>\n        <p>介護がはじめての方は、まず地域の相談窓口へ。無料で手続きを案内してもらえます。</p>\n        <a class=\"btn\" href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方を見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>中野区内の訪問介護事業所は77件</li>\n          <li>中野区は1級地（1単位11.40円）</li>\n          <li>身体介護30分未満で約278円（1割）</li>\n          <li>最初の相談は地域包括支援センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/caremanager/\">ケアマネジャーの選び方</a></li>\n          <li><a href=\"{{ROOT}}guide/kubun-shikyu-gendo/\">区分支給限度基準額とは</a></li>\n          <li><a href=\"{{ROOT}}guide/jihi-service/\">介護保険外サービスの相場</a></li>\n        </ul>\n      </div>",

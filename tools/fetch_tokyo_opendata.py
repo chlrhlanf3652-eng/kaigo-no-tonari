@@ -87,7 +87,7 @@ def load_rows():
     return rows
 
 
-def to_records(rows, ward_name: str, service, want: int = 20):
+def to_records(rows, ward_name: str, service, want: int = 60):
     """その区・そのサービス種類・指定中のものだけを取り出す。
 
     service には文字列のほか、複数のサービス種類をまとめたタプルも渡せる。

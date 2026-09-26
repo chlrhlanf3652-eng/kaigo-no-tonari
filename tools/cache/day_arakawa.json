@@ -16,6 +16,10 @@
    "closed": "",
    "designated": "2014-06-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://arakawakaigo.com",
    "days": [
     "平日",
@@ -37,6 +41,10 @@
    "closed": "",
    "designated": "2004-05-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://www.communitygarden.jp/sakura/",
    "days": [
     "平日",
@@ -46,6 +54,31 @@
    "capacity": 70,
    "lat": "35.749384200000000",
    "lng": "139.786831799999960"
+  },
+  {
+   "name": "株式会社ケアサービス　デイサービスセンターたから",
+   "identifier": "1371801851",
+   "org": "株式会社ケアサービス",
+   "address": "東京都荒川区町屋６－４－１タカラビル１階",
+   "tel": "03-5692-5980",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2005-07-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.care.co.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 20,
+   "lat": "35.749867200000000",
+   "lng": "139.782726599999930"
   },
   {
    "name": "いきいきらいふデイサービスセンター南千住",
@@ -58,6 +91,10 @@
    "closed": "",
    "designated": "2005-11-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://rare-c.co.jp",
    "days": [
     "平日",
@@ -79,6 +116,10 @@
    "closed": "",
    "designated": "2005-12-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.enzeru.co.jp",
    "days": [
     "平日",
@@ -88,6 +129,31 @@
    "capacity": 30,
    "lat": "35.738943800000010",
    "lng": "139.787465699999980"
+  },
+  {
+   "name": "健遊館　七福湯",
+   "identifier": "1371802065",
+   "org": "株式会社健遊館",
+   "address": "東京都荒川区東日暮里２－７－７",
+   "tel": "03-5615-3900",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2006-01-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://shichifukuyu.kenyu.co.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 35,
+   "lat": "35.728625300000000",
+   "lng": "139.786385800000060"
   },
   {
    "name": "まちや明生苑デイサービスセンター",
@@ -100,6 +166,10 @@
    "closed": "",
    "designated": "2008-05-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.fukushi-e.com",
    "days": [
     "平日",
@@ -119,6 +189,10 @@
    "closed": "",
    "designated": "2008-06-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.best-kaigo.com",
    "days": [
     "平日",
@@ -127,6 +201,31 @@
    ],
    "lat": "35.737426700000000",
    "lng": "139.777702800000040"
+  },
+  {
+   "name": "癒しのデイサービス南千住",
+   "identifier": "1371802610",
+   "org": "株式会社リエイケア",
+   "address": "東京都荒川区南千住４－７－３　ロイヤルパークスタワー南千住　２階",
+   "tel": "03-5811-8841",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2008-07-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.riei.co.jp",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 30,
+   "lat": "35.733177800000000",
+   "lng": "139.791226899999970"
   },
   {
    "name": "デイサービス　ヨウコー町屋",
@@ -139,6 +238,10 @@
    "closed": "",
    "designated": "2011-03-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://rehabili-youko.com/",
    "days": [
     "平日",
@@ -160,6 +263,10 @@
    "closed": "",
    "designated": "2011-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://silver-salons.com",
    "days": [
     "平日",
@@ -169,6 +276,29 @@
    ],
    "lat": "35.740236900000010",
    "lng": "139.769016399999970"
+  },
+  {
+   "name": "小台介護リハビリセンター",
+   "identifier": "1371803204",
+   "org": "株式会社ボーン・ケア",
+   "address": "東京都荒川区西尾久１－１２－５ロジュマン西尾久１階",
+   "tel": "03-5855-0120",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2011-07-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.744010062304340",
+   "lng": "139.763654386122200"
   },
   {
    "name": "デイサービスセンターなでしこ",
@@ -181,6 +311,10 @@
    "closed": "",
    "designated": "2012-03-01",
    "org_kind": "生協",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.t-hokuto.coop/",
    "days": [
     "平日",
@@ -202,6 +336,10 @@
    "closed": "",
    "designated": "2012-12-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.joyreha.co.jp/",
    "days": [
     "平日",
@@ -209,6 +347,31 @@
    ],
    "lat": "35.727983499999990",
    "lng": "139.783872200000020"
+  },
+  {
+   "name": "三河島ケアセンターそよ風",
+   "identifier": "1371803493",
+   "org": "株式会社ＳＯＹＯＫＡＺＥ",
+   "address": "東京都荒川区荒川５－３－３",
+   "tel": "03-5615-1770",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2012-12-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "capacity": 30,
+   "lat": "35.737543300000000",
+   "lng": "139.775457500000000"
   },
   {
    "name": "はなまるデイサービス南千住",
@@ -221,6 +384,10 @@
    "closed": "",
    "designated": "2013-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.aiseifukushi.jp/hanamaruday/hanamaruday4/tabid/69/Default.aspx",
    "days": [
     "平日",
@@ -229,6 +396,31 @@
    ],
    "lat": "35.734829615574150",
    "lng": "139.794434393254080"
+  },
+  {
+   "name": "ベストリハ西日暮里",
+   "identifier": "1371803766",
+   "org": "ベストリハ株式会社",
+   "address": "東京都荒川区西日暮里６－４７－１０小宮ビル１階",
+   "tel": "03-3810-8061",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2013-07-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.bestreha.com",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 25,
+   "lat": "35.736037400000000",
+   "lng": "139.768581499999980"
   },
   {
    "name": "デイサービスセンターなごやか日暮里",
@@ -241,6 +433,10 @@
    "closed": "",
    "designated": "2016-06-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.nagoyaka-link.co.jp/club/nippoli/",
    "days": [
     "平日",
@@ -262,6 +458,10 @@
    "closed": "",
    "designated": "2016-06-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://www.nagoyaka-link.co.jp/club/arakawa/",
    "days": [
     "平日",
@@ -271,6 +471,30 @@
    "capacity": 40,
    "lat": "35.738241100000000",
    "lng": "139.788387664418000"
+  },
+  {
+   "name": "荒川区立南千住中部在宅高齢者通所サービスセンター",
+   "identifier": "1371804244",
+   "org": "社会福祉法人カメリア会",
+   "address": "東京都荒川区南千住４－９－６",
+   "tel": "03-5604-0065",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2017-04-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://sunheim.camellia-kai.com/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.736065572191180",
+   "lng": "139.803988909608680"
   },
   {
    "name": "デイサービス　みらい　町屋",
@@ -283,6 +507,10 @@
    "closed": "",
    "designated": "2017-07-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "days": [
     "平日",
     "土曜日",
@@ -302,6 +530,10 @@
    "closed": "",
    "designated": "2018-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://www.poiinc.jp",
    "days": [
     "平日",
@@ -309,6 +541,30 @@
    ],
    "lat": "35.737437900000000",
    "lng": "139.771218300000000"
+  },
+  {
+   "name": "荒川区立荒川東部在宅高齢者通所サービスセンター",
+   "identifier": "1371804541",
+   "org": "社会福祉法人奉優会",
+   "address": "東京都荒川区荒川１－３４－６",
+   "tel": "03-3850-5200",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2020-04-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://www.foryou.or.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.734286100000000",
+   "lng": "139.786891700000000"
   },
   {
    "name": "コンパスウォーク尾久",
@@ -321,6 +577,10 @@
    "closed": "",
    "designated": "2021-01-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "days": [
     "平日",
     "祝日"
@@ -340,6 +600,10 @@
    "closed": "",
    "designated": "2022-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://hananoki-day@foryou.or.jp",
    "days": [
     "平日",
@@ -348,6 +612,29 @@
    ],
    "lat": "35.739792500000000",
    "lng": "139.776187700000000"
+  },
+  {
+   "name": "アサヒトラストリハビリセンター尾久",
+   "identifier": "1371804772",
+   "org": "アサヒ産業株式会社",
+   "address": "東京都荒川区西尾久３－１９－３　３階",
+   "tel": "03-6458-2690",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2022-05-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://ds.asahitrust-x.com/",
+   "days": [
+    "平日",
+    "土曜日"
+   ],
+   "lat": "35.750703399999985",
+   "lng": "139.762692199999980"
   },
   {
    "name": "くらしの友リハプライド　東尾久",
@@ -360,6 +647,10 @@
    "closed": "",
    "designated": "2023-01-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://www.rehapride.co.jp/higashioku/",
    "days": [
     "平日",
@@ -380,6 +671,10 @@
    "closed": "",
    "designated": "2023-06-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://1life-tt.co.jp/",
    "days": [
     "平日",
@@ -388,6 +683,30 @@
    ],
    "lat": "35.729070900000000",
    "lng": "139.795700500000000"
+  },
+  {
+   "name": "荒川区立東日暮里在宅高齢者通所サービスセンター",
+   "identifier": "1371804863",
+   "org": "社会福祉法人奉優会",
+   "address": "東京都荒川区東日暮里３－８－１６",
+   "tel": "03-3805-6121",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2024-04-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://www.foryou.or.jp/corp2/higashinippori/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.729546800000010",
+   "lng": "139.782342000000000"
   },
   {
    "name": "あそか　のぞみの郷デイサービス",
@@ -400,6 +719,10 @@
    "closed": "",
    "designated": "2024-09-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.asokakai.or.jp/",
    "days": [
     "平日",
@@ -408,6 +731,30 @@
    ],
    "lat": "35.744416500000000",
    "lng": "139.764866600000000"
+  },
+  {
+   "name": "エバーウォーク町屋",
+   "identifier": "1371804947",
+   "org": "株式会社エバーウォーク",
+   "address": "東京都荒川区荒川６－１３－２小林ビル１階",
+   "tel": "03-6807-7417",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2024-12-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://everwalk.net/",
+   "days": [
+    "平日",
+    "祝日"
+   ],
+   "capacity": 25,
+   "lat": "35.740395900000000",
+   "lng": "139.778095200000000"
   }
  ],
  "towns": [
@@ -444,5 +791,5 @@
  "service": "通所介護",
  "fetched": "2026-09-22",
  "source2": "厚生労働省「介護サービス情報公表システム」オープンデータ",
- "mhlw_hit": 20
+ "mhlw_hit": 31
 }

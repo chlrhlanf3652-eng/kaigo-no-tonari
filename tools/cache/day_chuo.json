@@ -16,6 +16,10 @@
    "closed": "",
    "designated": "2002-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.silver-w.jp/",
    "days": [
     "平日",
@@ -38,6 +42,10 @@
    "closed": "",
    "designated": "2005-10-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://www.sompocare.com/",
    "days": [
     "平日",
@@ -58,6 +66,10 @@
    "closed": "",
    "designated": "2005-10-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://rare-c.co.jp/",
    "days": [
     "平日",
@@ -78,6 +90,10 @@
    "closed": "",
    "designated": "2006-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.san-ikukai.or.jp/chuo/shinkawa/",
    "days": [
     "平日",
@@ -99,6 +115,10 @@
    "closed": "",
    "designated": "2007-07-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.clover.ac/",
    "days": [
     "平日",
@@ -119,6 +139,10 @@
    "closed": "",
    "designated": "2012-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.angel-care.co.jp",
    "days": [
     "平日",
@@ -139,6 +163,10 @@
    "closed": "",
    "designated": "2015-07-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://www.foryou.or.jp/facility/harumi/w097/",
    "days": [
     "平日",
@@ -161,6 +189,10 @@
    "closed": "",
    "designated": "2016-06-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://club.nagoyaka-link.co.jp/tsukiji/",
    "days": [
     "平日",
@@ -182,6 +214,10 @@
    "closed": "",
    "designated": "2021-01-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://bestreha.com/",
    "days": [
     "平日",
@@ -202,6 +238,10 @@
    "closed": "",
    "designated": "2021-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.fukushiplazasakuragawa.com/nikkouzai/",
    "days": [
     "平日",
@@ -222,6 +262,10 @@
    "closed": "",
    "designated": "2021-10-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://goodlifecare.co.jp/tokyo-service/facility/day-ginza.html",
    "days": [
     "平日",
@@ -244,6 +288,10 @@
    "closed": "",
    "designated": "2023-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "days": [
     "平日",
     "土曜日",
@@ -262,7 +310,11 @@
    "hours": "",
    "closed": "",
    "designated": "2026-07-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ]
   }
  ],
  "towns": [

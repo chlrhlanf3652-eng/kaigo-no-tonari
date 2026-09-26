@@ -16,6 +16,10 @@
    "closed": "",
    "designated": "2011-02-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "http://www.gaia-medicare.jp/",
    "days": [
     "平日"
@@ -34,6 +38,10 @@
    "closed": "",
    "designated": "2013-12-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "http://p-realize.com/houkan",
    "days": [
     "平日"
@@ -53,6 +61,10 @@
    "closed": "",
    "designated": "2014-04-01",
    "org_kind": "その他法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "days": [
     "平日"
    ],
@@ -70,6 +82,10 @@
    "closed": "",
    "designated": "2017-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "http://www.t-physios.com",
    "days": [
     "平日"
@@ -77,6 +93,22 @@
    "capacity": 50,
    "lat": "35.660813652050535",
    "lng": "139.783594100536160"
+  },
+  {
+   "name": "訪問看護ステーション　デューン月島",
+   "identifier": "1360290173",
+   "org": "株式会社Ｎ・フィールド",
+   "address": "東京都中央区月島３－１４－９岩﨑ビル２０２号室",
+   "tel": "03-3533-1720",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2017-07-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ]
   },
   {
    "name": "訪問看護ステーション　日本橋",
@@ -89,6 +121,10 @@
    "closed": "",
    "designated": "2017-12-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://www.nihonbashi-hks.com/",
    "days": [
     "平日",
@@ -109,6 +145,10 @@
    "closed": "",
    "designated": "2019-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://www.hikari.care",
    "days": [
     "平日"
@@ -127,6 +167,10 @@
    "closed": "",
    "designated": "2021-02-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://houmon-kango.mynavi.jp/",
    "days": [
     "平日",
@@ -135,6 +179,31 @@
    ],
    "lat": "35.690534953115440",
    "lng": "139.785476675445750"
+  },
+  {
+   "name": "ｃｈｅｚｍｏｉ晴海訪問看護ステーション",
+   "identifier": "1360290272",
+   "org": "株式会社アスウェル",
+   "address": "東京都中央区晴海３－１３－１ＤＥＵＸＴＯＵＲＳ　ＥＡＳＴ棟４６１１",
+   "tel": "0120-03-8866",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2021-04-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "http://www.chezmoi.jp",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "lat": "35.655008000000000",
+   "lng": "139.777810900000000"
   },
   {
    "name": "ハビリス訪問看護ステーション東京中央",
@@ -146,7 +215,11 @@
    "hours": "",
    "closed": "",
    "designated": "2021-08-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ]
   },
   {
    "name": "ｎｅｘｔ　ｏｎｅ　日本橋",
@@ -158,7 +231,11 @@
    "hours": "",
    "closed": "",
    "designated": "2022-01-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ]
   },
   {
    "name": "ピジョン訪問看護ステーション",
@@ -171,6 +248,10 @@
    "closed": "",
    "designated": "2022-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://houmon-pigeonmedi.com/",
    "days": [
     "平日",
@@ -182,6 +263,29 @@
    "lng": "139.763910200000000"
   },
   {
+   "name": "リニエ訪問看護ステーション日本橋",
+   "identifier": "1360290314",
+   "org": "株式会社リニエＲ",
+   "address": "東京都中央区八丁堀２－２－５宝ビル別館　３Ｆ",
+   "tel": "03-6206-4275",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2022-07-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "https://linie-group.jp/office/houmonkango-nihonbashi/",
+   "days": [
+    "平日"
+   ],
+   "capacity": 150,
+   "lat": "35.676584269464020",
+   "lng": "139.774822473016340"
+  },
+  {
    "name": "訪問看護ステーションＲＡＫＵＮＩ",
    "identifier": "1360290322",
    "org": "ＢＭＳＱＵＡＲＥ株式会社",
@@ -191,7 +295,11 @@
    "hours": "",
    "closed": "",
    "designated": "2022-07-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ]
   },
   {
    "name": "訪問看護ステーションＫｕｕ",
@@ -203,7 +311,11 @@
    "hours": "",
    "closed": "",
    "designated": "2023-01-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ]
   },
   {
    "name": "江戸東京訪問看護リハビリステーション",
@@ -216,6 +328,10 @@
    "closed": "",
    "designated": "2023-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://en3edotokyo.com/",
    "days": [
     "平日",
@@ -238,6 +354,10 @@
    "closed": "",
    "designated": "2024-01-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "days": [
     "平日",
     "土曜日",
@@ -246,6 +366,28 @@
    ],
    "lat": "35.663744467017530",
    "lng": "139.765062151719800"
+  },
+  {
+   "name": "ＯＮＯＤＥＲＡ訪問看護ステーション",
+   "identifier": "1360290405",
+   "org": "株式会社ＯＮＯＤＥＲＡナーシングホーム",
+   "address": "東京都中央区日本橋茅場町２－１７－３ブルーハイツ茅場町４０４号室",
+   "tel": "07077984080",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2024-09-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "https://onodera-nursinghome.com/",
+   "days": [
+    "平日"
+   ],
+   "lat": "35.677929900000000",
+   "lng": "139.780045200000000"
   },
   {
    "name": "医療法人社団健育会　佃訪問看護ステーション",
@@ -258,6 +400,10 @@
    "closed": "",
    "designated": "2024-12-01",
    "org_kind": "医療法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://ishikawajima.gr.jp/",
    "days": [
     "平日"
@@ -275,7 +421,11 @@
    "hours": "",
    "closed": "",
    "designated": "2026-05-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ]
   },
   {
    "name": "訪問看護ステーション　京橋",
@@ -287,7 +437,27 @@
    "hours": "",
    "closed": "",
    "designated": "2026-06-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ]
+  },
+  {
+   "name": "訪問看護ステーションサンライズ",
+   "identifier": "1360290462",
+   "org": "ＳＵＮメディケア合同会社",
+   "address": "東京都中央区銀座１－２７－１０グロースメゾン銀座９０１",
+   "tel": "09043284178",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2026-07-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ]
   },
   {
    "name": "株式会社ナース・ステーション",
@@ -299,7 +469,11 @@
    "hours": "",
    "closed": "",
    "designated": "2013-01-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ]
   },
   {
    "name": "医師会立中央区訪問看護ステーション",
@@ -312,6 +486,10 @@
    "closed": "",
    "designated": "2000-04-01",
    "org_kind": "社団・財団",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "http://www.nihonbashi-med.com/kango.html",
    "days": [
     "平日"
@@ -331,12 +509,41 @@
    "closed": "",
    "designated": "2000-04-01",
    "org_kind": "社団・財団",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "http://div.chuoku-med.jp/houkanST/index.html",
    "days": [
     "平日"
    ],
    "lat": "35.669309100000000",
    "lng": "139.776702800000070"
+  },
+  {
+   "name": "グッドライフケア訪問看護ステーション",
+   "identifier": "1367199102",
+   "org": "株式会社グッドライフケア",
+   "address": "東京都中央区新川１－２８－３８東京ダイヤビルディング２号館１１階",
+   "tel": "03-5244-9002",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2007-05-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "https://goodlifecare.co.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "lat": "35.676740779153060",
+   "lng": "139.784135399488780"
   }
  ],
  "towns": [
@@ -493,5 +700,5 @@
  "service": "訪問看護",
  "fetched": "2026-09-22",
  "source2": "厚生労働省「介護サービス情報公表システム」オープンデータ",
- "mhlw_hit": 13
+ "mhlw_hit": 17
 }

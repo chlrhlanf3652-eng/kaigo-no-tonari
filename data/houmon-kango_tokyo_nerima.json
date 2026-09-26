@@ -12,19 +12,19 @@
     "city_name": "練馬区"
   },
   "seo": {
-    "title": "練馬区の訪問看護20事業所｜主治医の指示書から始める【2026年9月更新】",
-    "description": "東京都練馬区の訪問看護ステーション20件を連絡先つきで掲載。区内115件の中から選ぶための所在町域・運営法人・開設年数・定期訪問の曜日の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
+    "title": "練馬区の訪問看護60事業所｜主治医の指示書から始める【2026年9月更新】",
+    "description": "東京都練馬区の訪問看護ステーション60件を連絡先つきで掲載。区内115件の中から選ぶための所在町域・運営法人・開設年数・定期訪問の曜日の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
     "canonical": "https://kaigonotonari.com/houmon-kango/tokyo/nerima/",
     "og_title": "練馬区の訪問看護ステーション一覧｜選び方と始め方",
-    "og_description": "練馬区の訪問看護ステーション20件を掲載。対応できる医療処置の確認と、主治医の指示書から始める流れを解説します。",
+    "og_description": "練馬区の訪問看護ステーション60件を掲載。対応できる医療処置の確認と、主治医の指示書から始める流れを解説します。",
     "og_image": "https://kaigonotonari.com/assets/ogp-houmon-kango.jpg"
   },
   "h1": "練馬区の訪問看護ステーション一覧｜選び方と始め方",
   "published": "2026-09-21",
   "modified": "2026-09-21",
-  "count_label": "掲載：20事業所",
-  "lead": "東京都練馬区で訪問看護を探している方へ。区内にある115件のステーションから20件を連絡先つきで掲載し、そのうち<strong>日曜日も定期訪問があるのは8件</strong>であることまで示しました。主治医の指示書から利用開始までの流れもまとめています。訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
-  "listing_note": "練馬区内の訪問看護ステーションから20件を掲載しています（東京都公表・2026年9月1日時点）。区内には115件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。掲載順は事業所の優劣を示すものではありません。",
+  "count_label": "掲載：60事業所",
+  "lead": "東京都練馬区で訪問看護を探している方へ。区内にある115件のステーションから60件を連絡先つきで掲載し、そのうち<strong>日曜日も定期訪問があるのは17件</strong>であることまで示しました。主治医の指示書から利用開始までの流れもまとめています。訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
+  "listing_note": "練馬区内の訪問看護ステーションから60件を掲載しています（東京都公表・2026年9月1日時点）。区内には115件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
@@ -53,6 +53,63 @@
       "_tags": [
         "貫井エリア",
         "日曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "セントケアＤＸ訪問看護ステーション富士見台",
+      "telephone": "03-3577-8515",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "中村北４－１４－２"
+      },
+      "parentOrganization": "セントケアＤＸ株式会社",
+      "identifier": "1361490426",
+      "_town": "中村北",
+      "_kind": "営利法人",
+      "_designated": "2024-03-01",
+      "_years": 2.5598904859685145,
+      "url": "https://www.saint-care.com/dx/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "中村北エリア",
+        "日曜日も訪問",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーションすこやか工房",
+      "telephone": "03-6904-9077",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "関町北１－２０－１６第２泉ビルＢ１Ｆ"
+      },
+      "parentOrganization": "株式会社健康増進工房",
+      "identifier": "1362090035",
+      "_town": "関町北",
+      "_kind": "営利法人",
+      "_designated": "2009-10-01",
+      "_years": 16.974674880219027,
+      "url": "http://k-z-k.co.jp/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "関町北エリア",
         "訪問看護"
       ]
     },
@@ -88,6 +145,59 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "石神井訪問看護ステーション",
+      "telephone": "03-3995-8752",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "石神井町２－３２－８"
+      },
+      "parentOrganization": "医療法人社団カタクリ会",
+      "identifier": "1362090100",
+      "_town": "石神井町",
+      "_kind": "医療法人",
+      "_designated": "2012-08-01",
+      "_years": 14.140999315537304,
+      "url": "http://www.katakurikai.jp",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "石神井町エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション星の砂",
+      "telephone": "03-5947-4601",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "大泉町３－２－１７エステート大泉町１階"
+      },
+      "parentOrganization": "医療法人社団星の砂",
+      "identifier": "1362090191",
+      "_town": "大泉町",
+      "_kind": "医療法人",
+      "_designated": "2013-10-01",
+      "_years": 12.974674880219029,
+      "url": "https://www.nerimanishi-clinic.com/home-nursing-care/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "大泉町エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ひかり訪問看護リハビリステーション",
       "telephone": "03-5947-5244",
       "address": {
@@ -109,6 +219,58 @@
       ],
       "_tags": [
         "東大泉エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社　さかえケアサービス　訪問看護ステーション",
+      "telephone": "05055270848",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "豊玉北５－１１－４さかえビル２０１"
+      },
+      "parentOrganization": "株式会社さかえケアサービス",
+      "identifier": "1362090290",
+      "_town": "豊玉北",
+      "_kind": "営利法人",
+      "_designated": "2014-05-01",
+      "_years": 12.394250513347023,
+      "url": "https://sakae5555.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "豊玉北エリア",
+        "日曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "医療法人社団翠会　こころサポート石神井",
+      "telephone": "03-5923-7531",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "石神井町４－３－１６"
+      },
+      "parentOrganization": "医療法人社団翠会",
+      "identifier": "1362090373",
+      "_town": "石神井町",
+      "_kind": "医療法人",
+      "_designated": "2015-01-01",
+      "_years": 11.723477070499658,
+      "_tags": [
+        "石神井町エリア",
         "訪問看護"
       ]
     },
@@ -140,6 +302,62 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ひまわり訪問看護リハビリステーション",
+      "telephone": "03-6904-5146",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "大泉学園町４－２２－４"
+      },
+      "parentOrganization": "株式会社メディカルシステムネットワーク",
+      "identifier": "1362090480",
+      "_town": "大泉学園町",
+      "_kind": "営利法人",
+      "_designated": "2016-05-01",
+      "_years": 10.392881587953456,
+      "url": "https://nanohana-kango.jp/himawari/outline.html",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "大泉学園町エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　わかば",
+      "telephone": "03-6913-4619",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "富士見台３－１２－２１"
+      },
+      "parentOrganization": "株式会社フォーリーフクローバー",
+      "identifier": "1362090522",
+      "_town": "富士見台",
+      "_kind": "営利法人",
+      "_designated": "2017-07-01",
+      "_years": 9.22655715263518,
+      "url": "https://wakaba-fourleafclover.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "富士見台エリア",
+        "日曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ＳＯＭＰＯケア　練馬　訪問看護",
       "telephone": "03-6915-8791",
       "address": {
@@ -161,6 +379,58 @@
       ],
       "_tags": [
         "豊玉北エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ハミングバード訪問看護ステーション",
+      "telephone": "03-6914-8658",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "豊玉北４－２６－６ＤＳＴクリーンカーム４０３"
+      },
+      "parentOrganization": "株式会社小手毬",
+      "identifier": "1362090589",
+      "_town": "豊玉北",
+      "_kind": "営利法人",
+      "_designated": "2018-04-01",
+      "_years": 8.476386036960985,
+      "url": "https://kodemari.co.jp/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "豊玉北エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あかり訪問看護ステーション",
+      "telephone": "03-5910-8580",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "石神井町７－１－２本橋ビル２０１、３０１"
+      },
+      "parentOrganization": "一般社団法人あかり訪問看護ステーション",
+      "identifier": "1362090621",
+      "_town": "石神井町",
+      "_kind": "社団・財団",
+      "_designated": "2019-03-01",
+      "_years": 7.561943874058864,
+      "url": "https://akari-homecare.org",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "石神井町エリア",
         "訪問看護"
       ]
     },
@@ -188,6 +458,66 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "なないろ訪問看護ステーション",
+      "telephone": "03-6904-5046",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "三原台１－２９－８ライフステージ１０４号室"
+      },
+      "parentOrganization": "ＮＳＨ合同会社",
+      "identifier": "1362090688",
+      "_town": "三原台",
+      "_kind": "営利法人",
+      "_designated": "2019-09-01",
+      "_years": 7.058179329226557,
+      "url": "https://4rainbow.localinfo.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "三原台エリア",
+        "日曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　はな　練馬",
+      "telephone": "03-6822-6562",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "中村北１－３－８ＹＳビル１Ｆ・２Ｆ"
+      },
+      "parentOrganization": "株式会社はな",
+      "identifier": "1362090704",
+      "_town": "中村北",
+      "_kind": "営利法人",
+      "_designated": "2019-10-01",
+      "_years": 6.976043805612594,
+      "url": "https://hana-gr.com/company.html",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "中村北エリア",
+        "日曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問看護ステーション　コルディアーレ練馬",
       "telephone": "03-5946-9502",
       "address": {
@@ -205,6 +535,66 @@
       "_years": 6.891170431211499,
       "_tags": [
         "豊玉上エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヒロ訪問看護ステーション",
+      "telephone": "03-5946-6958",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "早宮１－４４－３５"
+      },
+      "parentOrganization": "合同会社ＨＩＬＯ",
+      "identifier": "1362090753",
+      "_town": "早宮",
+      "_kind": "営利法人",
+      "_designated": "2020-04-01",
+      "_years": 6.4750171115674195,
+      "url": "https://www.hilo-houmon.tokyo/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "早宮エリア",
+        "日曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　えがお",
+      "telephone": "03-5935-7586",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "大泉学園町６－２－３ラフィーネ大泉学園Ｂ棟１０３"
+      },
+      "parentOrganization": "株式会社ユニフォロー",
+      "identifier": "1362090779",
+      "_town": "大泉学園町",
+      "_kind": "営利法人",
+      "_designated": "2020-07-01",
+      "_years": 6.225872689938399,
+      "url": "https://www.unifollow.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "大泉学園町エリア",
+        "日曜日も訪問",
         "訪問看護"
       ]
     },
@@ -240,6 +630,54 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "医療法人財団厚生協会　大泉学園訪問看護ステーション",
+      "telephone": "03-5933-2800",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "大泉学園町６－１４－３"
+      },
+      "parentOrganization": "医療法人財団厚生協会",
+      "identifier": "1362090811",
+      "_town": "大泉学園町",
+      "_kind": "医療法人",
+      "_designated": "2020-11-01",
+      "_years": 5.88911704312115,
+      "_tags": [
+        "大泉学園町エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "楓ナーシング",
+      "telephone": "03-3992-5130",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "練馬１－１－１２下島ビル３Ｆ"
+      },
+      "parentOrganization": "合同会社Ｋａｅｄｅ",
+      "identifier": "1362090837",
+      "_town": "練馬",
+      "_kind": "営利法人",
+      "_designated": "2020-12-01",
+      "_years": 5.806981519507187,
+      "url": "https://www.kaede-llc.com",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "練馬エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問看護ステーション　リハビタブル",
       "telephone": "03-6904-2721",
       "address": {
@@ -269,6 +707,56 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　こころサポート光が丘",
+      "telephone": "03-3921-5061",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "土支田１－３４－２２加藤ビル２０１"
+      },
+      "parentOrganization": "医療法人社団翠会",
+      "identifier": "1362090878",
+      "_town": "土支田",
+      "_kind": "医療法人",
+      "_designated": "2021-03-01",
+      "_years": 5.560574948665297,
+      "url": "https://www.mhcg.or.jp/search/f-943/",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "土支田エリア",
+        "土曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーションいずみケア東京",
+      "telephone": "03-6904-7015",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "関町東２－１５－７根岸コーポ１０１"
+      },
+      "parentOrganization": "株式会社ｉｎｎｏｃｅｎｔ　ｅａｒｔｈ",
+      "identifier": "1362090902",
+      "_town": "関町東",
+      "_kind": "営利法人",
+      "_designated": "2021-08-01",
+      "_years": 5.1416837782340865,
+      "_tags": [
+        "関町東エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "りんく訪問看護ステーション",
       "telephone": "03-6914-7477",
       "address": {
@@ -290,6 +778,50 @@
       ],
       "_tags": [
         "練馬エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　くらしさ練馬",
+      "telephone": "03-3925-6880",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "土支田４－２３－２１"
+      },
+      "parentOrganization": "株式会社元気な介護",
+      "identifier": "1362090977",
+      "_town": "土支田",
+      "_kind": "営利法人",
+      "_designated": "2022-02-01",
+      "_years": 4.63791923340178,
+      "_tags": [
+        "土支田エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション・シナモンロール",
+      "telephone": "03-4400-8082",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "東大泉１－２０－３８三宝ビル２０２"
+      },
+      "parentOrganization": "一般社団法人つづく",
+      "identifier": "1362090993",
+      "_town": "東大泉",
+      "_kind": "社団・財団",
+      "_designated": "2022-02-01",
+      "_years": 4.63791923340178,
+      "_tags": [
+        "東大泉エリア",
         "訪問看護"
       ]
     },
@@ -324,6 +856,57 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ＴＯＥＩ訪問看護ステーション",
+      "telephone": "03-6914-5330",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "練馬１－９－５セントラル練馬Ⅱ　１階"
+      },
+      "parentOrganization": "ＴＯＥＩ株式会社",
+      "identifier": "1362091058",
+      "_town": "練馬",
+      "_kind": "営利法人",
+      "_designated": "2022-04-01",
+      "_years": 4.476386036960986,
+      "url": "https://www.toei-inc.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "練馬エリア",
+        "土曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護　縁",
+      "telephone": "03-6768-2837",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "桜台５－１４－５"
+      },
+      "parentOrganization": "株式会社メディホム",
+      "identifier": "1362091082",
+      "_town": "桜台",
+      "_kind": "営利法人",
+      "_designated": "2022-09-01",
+      "_years": 4.057494866529774,
+      "_tags": [
+        "桜台エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "レインボー訪問看護リハビリステーション",
       "telephone": "03-6914-7242",
       "address": {
@@ -353,6 +936,53 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "にじのわ訪問看護ステーション",
+      "telephone": "08070187007",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "大泉学園町７－１９－１７ＳＴプラザ大泉学園２０２号室"
+      },
+      "parentOrganization": "株式会社レインボーリンク",
+      "identifier": "1362091124",
+      "_town": "大泉学園町",
+      "_kind": "営利法人",
+      "_designated": "2023-02-01",
+      "_years": 3.6386036960985626,
+      "_tags": [
+        "大泉学園町エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケア２１メディカル訪問看護ステーションぴ～す練馬",
+      "telephone": "03-5912-1721",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "桜台４－５－８ファミール桜台　１階　１０２号室"
+      },
+      "parentOrganization": "株式会社ケア２１メディカル",
+      "identifier": "1362091140",
+      "_town": "桜台",
+      "_kind": "営利法人",
+      "_designated": "2023-04-01",
+      "_years": 3.477070499657769,
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "桜台エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "イーズ訪問看護ステーション",
       "telephone": "03-5935-9221",
       "address": {
@@ -373,6 +1003,60 @@
       ],
       "_tags": [
         "東大泉エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "こころわ訪問看護ステーション練馬",
+      "telephone": "03-6909-7741",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "北町６－２０－３平和台不二ハイツ１０１"
+      },
+      "parentOrganization": "株式会社ＣＯＣＯＲＯＷＡ．",
+      "identifier": "1362091181",
+      "_town": "北町",
+      "_kind": "営利法人",
+      "_designated": "2023-09-01",
+      "_years": 3.058179329226557,
+      "url": "https://houkan.cocorowa.biz/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "北町エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "陽だまり　訪問看護ステーション　大泉",
+      "telephone": "03-5947-3940",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "南大泉１－２６－１０"
+      },
+      "parentOrganization": "株式会社Ｆｉｖｅ　Ｔｒｅｅｓ",
+      "identifier": "1362091207",
+      "_town": "南大泉",
+      "_kind": "営利法人",
+      "_designated": "2023-10-01",
+      "_years": 2.976043805612594,
+      "url": "https://tanashi-hidamari.com",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "南大泉エリア",
+        "開設3年以内",
         "訪問看護"
       ]
     },
@@ -406,6 +1090,60 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "訪問看護ステーションＨＡＹＡＢＵＳＡ",
+      "telephone": "03-5848-6290",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "富士見台１－２６－２８サニーコーポ２０１号"
+      },
+      "parentOrganization": "株式会社ＨＡＹＡＢＵＳＡ",
+      "identifier": "1362091249",
+      "_town": "富士見台",
+      "_kind": "営利法人",
+      "_designated": "2024-02-01",
+      "_years": 2.639288158795346,
+      "url": "https://hayabusa-st.com/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "富士見台エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あさひ訪問看護ステーション",
+      "telephone": "03-5968-6211",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "田柄２－２７－２９フレンドマンション田柄１０６号室"
+      },
+      "parentOrganization": "株式会社リブイン",
+      "identifier": "1362091272",
+      "_town": "田柄",
+      "_kind": "営利法人",
+      "_designated": "2024-04-01",
+      "_years": 2.4750171115674195,
+      "url": "https://lihd.co.jp/asahi-houmonkango/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "田柄エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ザオーケア訪問看護ステーション上石神井",
       "telephone": "03-6904-9466",
       "address": {
@@ -430,6 +1168,59 @@
       "_tags": [
         "関町東エリア",
         "日曜日も訪問",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーションひなげし",
+      "telephone": "03-6914-8291",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "練馬１－５－４ＭＩビル８０１"
+      },
+      "parentOrganization": "株式会社ミコム",
+      "identifier": "1362091330",
+      "_town": "練馬",
+      "_kind": "営利法人",
+      "_designated": "2024-11-01",
+      "_years": 1.88911704312115,
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "練馬エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "みんなのケアステーション練馬",
+      "telephone": "03-5838-5703",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "豊玉上２－２５－７ゴールドパレス豊玉３０２"
+      },
+      "parentOrganization": "みんなのための株式会社",
+      "identifier": "1362091355",
+      "_town": "豊玉上",
+      "_kind": "営利法人",
+      "_designated": "2025-02-01",
+      "_years": 1.6372347707049966,
+      "url": "https://www.minna-no.org/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "豊玉上エリア",
         "開設3年以内",
         "訪問看護"
       ]
@@ -467,6 +1258,67 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "医心館　訪問看護ステーション　中村橋",
+      "telephone": "03-5848-5882",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "貫井１－３５－２"
+      },
+      "parentOrganization": "株式会社アンビス",
+      "identifier": "1362091397",
+      "_town": "貫井",
+      "_kind": "営利法人",
+      "_designated": "2025-04-01",
+      "_years": 1.4757015742642026,
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "貫井エリア",
+        "日曜日も訪問",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "サンウェルズ石神井公園訪問看護ステーション",
+      "telephone": "03-5903-8089",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "石神井台４－１２－１６"
+      },
+      "parentOrganization": "株式会社サンウェルズ",
+      "identifier": "1362091421",
+      "_town": "石神井台",
+      "_kind": "営利法人",
+      "_designated": "2025-08-01",
+      "_years": 1.1416837782340863,
+      "url": "http://sunwels.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "石神井台エリア",
+        "日曜日も訪問",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問看護ステーションはな　大泉学園",
       "telephone": "03-6820-8542",
       "address": {
@@ -496,6 +1348,58 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ナラティブ訪問看護ステーション",
+      "telephone": "03-6913-1032",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "高野台３－８－１０コーポ豊島２０５"
+      },
+      "parentOrganization": "ナラティブ株式会社",
+      "identifier": "1362091470",
+      "_town": "高野台",
+      "_kind": "営利法人",
+      "_designated": "2025-12-01",
+      "_years": 0.8076659822039699,
+      "url": "https://www.20narrative25.com/",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "高野台エリア",
+        "土曜日も訪問",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　くつろぎ",
+      "telephone": "03-6904-6233",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "大泉町２－２６－４６サンクレール２０１"
+      },
+      "parentOrganization": "株式会社ＷＥＡＶＥＣＡＲＥ",
+      "identifier": "1362091496",
+      "_town": "大泉町",
+      "_kind": "営利法人",
+      "_designated": "2026-04-01",
+      "_years": 0.47638603696098564,
+      "_tags": [
+        "大泉町エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ＳｍｉＬｏｏｐ訪問看護ステーション　練馬ステーション",
       "telephone": "09054321185",
       "address": {
@@ -513,6 +1417,52 @@
       "_years": 0.47638603696098564,
       "_tags": [
         "北町エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ファミリー・ホスピス上石神井",
+      "telephone": "03-5903-8685",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "上石神井３－２－６"
+      },
+      "parentOrganization": "ファミリー・ホスピス株式会社",
+      "identifier": "1362091538",
+      "_town": "上石神井",
+      "_kind": "営利法人",
+      "_designated": "2026-06-01",
+      "_years": 0.30937713894592744,
+      "_tags": [
+        "上石神井エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "愛の家みらい訪問看護ステーション　武蔵関",
+      "telephone": "03-5903-8963",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "関町東１－１７－１８第二マルトミ荘メゾネット北号室"
+      },
+      "parentOrganization": "メディカル・ケア・サービス株式会社",
+      "identifier": "1362091561",
+      "_town": "関町東",
+      "_kind": "営利法人",
+      "_designated": "2026-06-01",
+      "_years": 0.30937713894592744,
+      "_tags": [
+        "関町東エリア",
         "開設3年以内",
         "訪問看護"
       ]
@@ -549,6 +1499,60 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "大泉訪問看護ステーション",
+      "telephone": "03-5933-0717",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "石神井台６－９－１２"
+      },
+      "parentOrganization": "東京保健生活協同組合",
+      "identifier": "1367192172",
+      "_town": "石神井台",
+      "_kind": "生協",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "url": "http://www.thoken.or.jp",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "石神井台エリア",
+        "20年以上",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "医療法人社団翠会　北大泉訪問看護ステーション",
+      "telephone": "03-3923-0223",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "大泉町２－１７－１"
+      },
+      "parentOrganization": "医療法人社団翠会",
+      "identifier": "1367192560",
+      "_town": "大泉町",
+      "_kind": "医療法人",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "url": "https://www.mhcg.or.jp/search/f-845/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "大泉町エリア",
+        "20年以上",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "医療法人社団翔洋会　訪問看護ステーションふきのとう",
       "telephone": "03-3924-2086",
       "address": {
@@ -575,6 +1579,60 @@
         "20年以上",
         "訪問看護"
       ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あすなろ訪問看護ステーション",
+      "telephone": "03-5991-9300",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "上石神井１－５－５パールビル１階"
+      },
+      "parentOrganization": "株式会社エムイーネット",
+      "identifier": "1367197007",
+      "_town": "上石神井",
+      "_kind": "営利法人",
+      "_designated": "2003-06-01",
+      "_years": 23.310061601642712,
+      "url": "https://asunaro-st.com",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "上石神井エリア",
+        "20年以上",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アール訪問看護ステーションねりま",
+      "telephone": "03-5946-4321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "豊玉北５－１２－９パレスシノ１階"
+      },
+      "parentOrganization": "医療法人社団黎明会",
+      "identifier": "1367198351",
+      "_town": "豊玉北",
+      "_kind": "医療法人",
+      "_designated": "2006-03-01",
+      "_years": 20.56125941136208,
+      "url": "http://houmonshinryou.com/network-list/reimei",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "豊玉北エリア",
+        "20年以上",
+        "訪問看護"
+      ]
     }
   ],
   "faq": [
@@ -584,15 +1642,15 @@
     },
     {
       "q": "練馬区には訪問看護ステーションが何件ありますか？",
-      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で練馬区内に115件の訪問看護ステーションが指定を受けています。本ページではそのうち20件を連絡先つきで掲載しています。"
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で練馬区内に115件の訪問看護ステーションが指定を受けています。本ページではそのうち60件を連絡先つきで掲載しています。"
     },
     {
       "q": "練馬区の掲載事業所は、どこを見て絞り込めばいいですか？",
-      "a": "まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。練馬区の掲載20件では営利法人が19件、医療法人が1件、指定から20年以上の事業所が1件です。そのうえで、ご自宅の町名を伝えて練馬区内の対応エリアに入っているかを確認してください。"
+      "a": "まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。練馬区の掲載60件では営利法人が49件、医療法人が8件、指定から20年以上の事業所が5件です。そのうえで、ご自宅の町名を伝えて練馬区内の対応エリアに入っているかを確認してください。"
     },
     {
       "q": "練馬区で夜間や休日に急変したら、来てもらえますか？",
-      "a": "24時間の緊急対応体制をとっているステーションなら、連絡して必要と判断されれば訪問してもらえます。ただしこれは加算のかかる体制で、練馬区内でもすべてのステーションが対応しているわけではありません。上のサービス提供日の表は定期訪問の曜日で、練馬区の掲載20件では日曜日も訪問するところが8件ありますが、これは緊急対応ができるという意味ではありません。契約前に必ず確認してください。"
+      "a": "24時間の緊急対応体制をとっているステーションなら、連絡して必要と判断されれば訪問してもらえます。ただしこれは加算のかかる体制で、練馬区内でもすべてのステーションが対応しているわけではありません。上のサービス提供日の表は定期訪問の曜日で、練馬区の掲載60件では日曜日も訪問するところが17件ありますが、これは緊急対応ができるという意味ではありません。契約前に必ず確認してください。"
     },
     {
       "q": "練馬区で訪問看護の自己負担はいくらくらいですか？",
@@ -607,9 +1665,9 @@
       "a": "使えます。医療的なケアは訪問看護、身体介護や家事は訪問介護と役割が分かれており、両方を併用する方は珍しくありません。練馬区の訪問介護事業所は同じサイト内にまとめています。介護保険で使う場合は、どちらも区分支給限度基準額の範囲内で組むことになります。"
     }
   ],
-  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/nerima/\">練馬区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/nerima/\">練馬区のデイサービス<small>通所介護</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/nerima/\">練馬区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/nerima/\">練馬区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/nerima/\">練馬区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/nerima/\">練馬区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
-  "nearby_heading": "近隣エリアの訪問看護",
-  "nearby": "<a href=\"{{ROOT}}houmon-kango/tokyo/itabashi/\">板橋区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/toshima/\">豊島区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/nakano/\">中野区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/suginami/\">杉並区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/kita/\">北区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/shinjuku/\">新宿区</a>",
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/nerima/\">練馬区の訪問介護<small>自宅に来てもらう・区内203件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/nerima/\">練馬区のデイサービス<small>日帰りで通う・区内80件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/nerima/\">練馬区のショートステイ<small>数日あずける・区内41件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/nerima/\">練馬区の福祉用具<small>借りる・買う・区内45件</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/nerima/\">練馬区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/nerima/\">練馬区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "東京23区から訪問看護を探す",
+  "nearby": "<a href=\"{{ROOT}}houmon-kango/tokyo/chiyoda/\">千代田区<small>14件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/chuo/\">中央区<small>26件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/minato/\">港区<small>41件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/shinjuku/\">新宿区<small>57件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/bunkyo/\">文京区<small>31件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/taito/\">台東区<small>33件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/sumida/\">墨田区<small>39件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/koto/\">江東区<small>49件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/shinagawa/\">品川区<small>48件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/meguro/\">目黒区<small>41件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/ota/\">大田区<small>99件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/setagaya/\">世田谷区<small>119件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/shibuya/\">渋谷区<small>31件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/nakano/\">中野区<small>35件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/suginami/\">杉並区<small>73件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/toshima/\">豊島区<small>45件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/kita/\">北区<small>39件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/arakawa/\">荒川区<small>28件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/itabashi/\">板橋区<small>89件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/adachi/\">足立区<small>120件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/katsushika/\">葛飾区<small>66件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/edogawa/\">江戸川区<small>87件</small></a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
     "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／サービス提供日・公式サイト）",
@@ -617,9 +1675,11 @@
     "厚生労働大臣が定める疾病等（訪問看護で医療保険が適用される範囲）",
     "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」訪問看護費／介護報酬の地域区分（1級地・1単位11.40円）",
     "日本郵便 郵便番号データにもとづく練馬区の町域一覧",
+    "東京都総務局統計部「住民基本台帳による東京都の世帯と人口」（令和8年1月1日現在／年齢3区分別人口・5歳階級別人口）",
+    "東京都福祉局「介護保険事業状況報告（月報）」令和8年6月分（保険者別・第1号被保険者数／要介護認定者数）",
     "区内事業所数：東京都公表の指定事業所一覧にもとづく実数（2026年9月1日時点）"
   ],
-  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず主治医に相談を</h4>\n        <p>訪問看護は主治医の指示書が起点です。制度の分岐はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>練馬区内のステーションは約115件</li>\n          <li>起点は主治医の訪問看護指示書</li>\n          <li>30分未満の訪問で約537円（1割）</li>\n          <li>掲載20件のうち医療法人は1件</li>\n          <li>主治医が未定なら地域包括支援センターへ</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}guide/houmon-kaigo-dekirukoto/\">ヘルパーに頼めること</a></li>\n          <li><a href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみ</a></li>\n        </ul>\n      </div>",
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず主治医に相談を</h4>\n        <p>訪問看護は主治医の指示書が起点です。制度の分岐はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>練馬区内のステーションは約115件</li>\n          <li>起点は主治医の訪問看護指示書</li>\n          <li>30分未満の訪問で約537円（1割）</li>\n          <li>掲載60件のうち医療法人は8件</li>\n          <li>主治医が未定なら地域包括支援センターへ</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}guide/houmon-kaigo-dekirukoto/\">ヘルパーに頼めること</a></li>\n          <li><a href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみ</a></li>\n        </ul>\n      </div>",
   "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
   "hero_image": "assets/ogp-houmon-kango.jpg",
   "towns": {

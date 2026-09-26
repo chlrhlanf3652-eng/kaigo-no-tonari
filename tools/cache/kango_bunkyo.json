@@ -16,6 +16,10 @@
    "closed": "",
    "designated": "2014-08-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "http://www.hosi.co.jp/",
    "days": [
     "平日",
@@ -37,6 +41,10 @@
    "closed": "",
    "designated": "2016-06-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://www.millennia-corporation.jp/houmon/index.html",
    "days": [
     "平日",
@@ -46,6 +54,32 @@
    ],
    "lat": "35.711052100000000",
    "lng": "139.751444099999960"
+  },
+  {
+   "name": "在宅看護センター本郷",
+   "identifier": "1360590093",
+   "org": "株式会社Ｃｒｅａｄｅ",
+   "address": "東京都文京区本郷４－７－１２－１０１",
+   "tel": "03-5615-8902",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2016-08-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "https://home-carenurse.com",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "capacity": 10,
+   "lat": "35.707698400000000",
+   "lng": "139.757274999999940"
   },
   {
    "name": "リーベ訪問看護リハビリステーション",
@@ -58,6 +92,10 @@
    "closed": "",
    "designated": "2017-02-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "http://kango-rihabiristation.com/",
    "days": [
     "平日"
@@ -76,6 +114,10 @@
    "closed": "",
    "designated": "2017-08-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "days": [
     "平日",
     "土曜日",
@@ -84,6 +126,29 @@
    ],
    "lat": "35.726684900000000",
    "lng": "139.747172300000000"
+  },
+  {
+   "name": "東京中央訪問看護リハビリステーション",
+   "identifier": "1360590168",
+   "org": "株式会社ＴＬＳ",
+   "address": "東京都文京区後楽２－２３－１５大星マンション２０２号",
+   "tel": "03-6801-6932",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2017-09-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "http://abc-nursing.com",
+   "days": [
+    "平日"
+   ],
+   "capacity": 100,
+   "lat": "35.707460265730276",
+   "lng": "139.744271347885160"
   },
   {
    "name": "ホーム訪問看護ステーション",
@@ -95,7 +160,11 @@
    "hours": "",
    "closed": "",
    "designated": "2017-09-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ]
   },
   {
    "name": "ゆい訪問看護ステーション",
@@ -108,6 +177,10 @@
    "closed": "",
    "designated": "2018-03-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://yui-ns.jp",
    "days": [
     "平日",
@@ -117,6 +190,29 @@
    ],
    "lat": "35.707256200000000",
    "lng": "139.760872099999970"
+  },
+  {
+   "name": "ナースステーション東京　文京支店",
+   "identifier": "1360590200",
+   "org": "株式会社日本在宅ケア教育研究所",
+   "address": "東京都文京区白山２－２０－９藤井ビル１Ｆ",
+   "tel": "03-5615-8238",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2018-04-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "http://www.zaitakucare.co.jp",
+   "days": [
+    "平日",
+    "土曜日"
+   ],
+   "lat": "35.716574900000010",
+   "lng": "139.748205900000020"
   },
   {
    "name": "訪問看護ステーション東大前",
@@ -129,6 +225,10 @@
    "closed": "",
    "designated": "2018-06-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://h-toudaimae.jp/",
    "days": [
     "平日"
@@ -148,6 +248,10 @@
    "closed": "",
    "designated": "2019-02-01",
    "org_kind": "医療法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "http://yurinoki.dysin.jp",
    "days": [
     "平日",
@@ -157,6 +261,28 @@
    ],
    "lat": "35.709534745937580",
    "lng": "139.733063750509700"
+  },
+  {
+   "name": "訪問看護ステーション　ほのぼのらいふ",
+   "identifier": "1360590267",
+   "org": "株式会社元気な介護",
+   "address": "東京都文京区小石川１－２２－２南部ビル１階",
+   "tel": "03-5805-7856",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2019-04-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "https://genkinakaigo.co.jp/",
+   "days": [
+    "平日"
+   ],
+   "lat": "35.713911500000000",
+   "lng": "139.752563099999970"
   },
   {
    "name": "やよい訪問看護ステーション",
@@ -169,6 +295,10 @@
    "closed": "",
    "designated": "2021-02-01",
    "org_kind": "医療法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://hokan.yayoi-hcc.org/",
    "days": [
     "平日",
@@ -188,6 +318,10 @@
    "closed": "",
    "designated": "2022-09-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://www.marumaruhoukan.com/",
    "days": [
     "平日"
@@ -195,6 +329,22 @@
    "capacity": 130,
    "lat": "35.708534100000000",
    "lng": "139.767874400000000"
+  },
+  {
+   "name": "ハニー訪問看護ステーション",
+   "identifier": "1360590317",
+   "org": "株式会社ＰＦＬ",
+   "address": "東京都文京区本郷３－３６－１２グリーンヒルズ本郷２０２",
+   "tel": "03-6240-0824",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2022-12-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ]
   },
   {
    "name": "訪問看護ステーション　はな　本駒込",
@@ -207,6 +357,10 @@
    "closed": "",
    "designated": "2023-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://www.hana-kango.com/about_us/index.html",
    "days": [
     "平日",
@@ -218,6 +372,32 @@
    "lng": "139.751941500000000"
   },
   {
+   "name": "はれの樹訪問看護リハビリステーション",
+   "identifier": "1360590333",
+   "org": "医療法人社団一専会",
+   "address": "東京都文京区向丘１－４－１１アカデミー向丘１階",
+   "tel": "03-6801-5527",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2023-09-01",
+   "org_kind": "医療法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "https://harenoki.dysin.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "capacity": 150,
+   "lat": "35.717921784477950",
+   "lng": "139.756657110450760"
+  },
+  {
    "name": "訪問看護ステーション　ソレイユ　ハートケア",
    "identifier": "1360590358",
    "org": "株式会社Ａｉｌｅ",
@@ -227,7 +407,11 @@
    "hours": "",
    "closed": "",
    "designated": "2024-04-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ]
   },
   {
    "name": "訪問看護ステーション　レインボーコンパス",
@@ -240,6 +424,10 @@
    "closed": "",
    "designated": "2025-04-01",
    "org_kind": "社団・財団",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://www.rainbow-compass.or.jp/",
    "days": [
     "平日",
@@ -247,6 +435,29 @@
    ],
    "lat": "35.703660800000000",
    "lng": "139.761973000000000"
+  },
+  {
+   "name": "東大看護ステーション目白台",
+   "identifier": "1360590374",
+   "org": "一般社団法人東大看護学実装普及研究所",
+   "address": "東京都文京区目白台３－２８－１０Ｔｏｎｏｗａ　Ｇａｒｄｅｎ目白台",
+   "tel": "05036459012",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2025-04-01",
+   "org_kind": "社団・財団",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "https://mejirodai.utndi.or.jp",
+   "days": [
+    "平日",
+    "祝日"
+   ],
+   "lat": "35.717355681411670",
+   "lng": "139.725151874868770"
   },
   {
    "name": "おおぞら訪問看護ステーション",
@@ -259,6 +470,10 @@
    "closed": "",
    "designated": "2025-05-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://www.ozorakango.jp",
    "days": [
     "平日"
@@ -277,6 +492,10 @@
    "closed": "",
    "designated": "2025-09-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "days": [
     "平日",
     "土曜日",
@@ -285,6 +504,31 @@
    ],
    "lat": "35.708850499999990",
    "lng": "139.731689799999970"
+  },
+  {
+   "name": "つねいろ訪問看護ステーション",
+   "identifier": "1360590408",
+   "org": "合同会社ｓｕｍｍａ",
+   "address": "東京都文京区千駄木１－２２－３０ＴＲＵＳＴ　ＶＡＬＵＥ千駄木６０３",
+   "tel": "03-5842-1832",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2025-09-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "https://tsuneiro.com/",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "lat": "35.724529300000030",
+   "lng": "139.759747100000030"
   },
   {
    "name": "ＣＯＣＯ訪問看護ステーション",
@@ -297,6 +541,10 @@
    "closed": "",
    "designated": "2026-03-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://orange-nurse.com",
    "days": [
     "平日",
@@ -315,7 +563,27 @@
    "hours": "",
    "closed": "",
    "designated": "2026-05-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ]
+  },
+  {
+   "name": "よつば訪問看護ステーション",
+   "identifier": "1360590432",
+   "org": "ジェニックス株式会社",
+   "address": "東京都文京区春日２－１－１０－２０１美津穂マンション",
+   "tel": "05017506289",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2026-05-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ]
   },
   {
    "name": "一般社団法人　小石川医師会　訪問看護ステーション",
@@ -328,6 +596,10 @@
    "closed": "",
    "designated": "2000-03-22",
    "org_kind": "社団・財団",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "http://kango.koishikawa-med.jp/",
    "days": [
     "平日",
@@ -350,6 +622,10 @@
    "closed": "",
    "designated": "2000-04-01",
    "org_kind": "医療法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "http://www.mct.or.jp",
    "days": [
     "平日"
@@ -357,6 +633,30 @@
    "capacity": 55,
    "lat": "35.709565100000000",
    "lng": "139.764591200000040"
+  },
+  {
+   "name": "ひかわした訪問看護ステーション",
+   "identifier": "1367192479",
+   "org": "東京保健生活協同組合",
+   "address": "東京都文京区千石４－１－２千石にじの家１階",
+   "tel": "03-3944-1357",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2000-04-01",
+   "org_kind": "生協",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "http://www.tokyo-helth.coop",
+   "days": [
+    "平日",
+    "土曜日"
+   ],
+   "capacity": 85,
+   "lat": "35.726524024177900",
+   "lng": "139.741025571637320"
   },
   {
    "name": "訪問看護ステーションけせら",
@@ -369,6 +669,10 @@
    "closed": "",
    "designated": "2000-12-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "http://houkankesera.net",
    "days": [
     "平日",
@@ -379,6 +683,30 @@
    "capacity": 250,
    "lat": "35.704790505153966",
    "lng": "139.761561894859370"
+  },
+  {
+   "name": "訪問看護ステーションきょうわ",
+   "identifier": "1367195829",
+   "org": "一般社団法人東京在宅看護協和会",
+   "address": "東京都文京区千駄木５丁目１７番３号",
+   "tel": "03-3822-0128",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2001-03-01",
+   "org_kind": "社団・財団",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "http://www.station-kyowa.com",
+   "days": [
+    "平日",
+    "祝日"
+   ],
+   "capacity": 100,
+   "lat": "35.726532400000000",
+   "lng": "139.758827099999960"
   }
  ],
  "towns": [
@@ -463,5 +791,5 @@
  "service": "訪問看護",
  "fetched": "2026-09-22",
  "source2": "厚生労働省「介護サービス情報公表システム」オープンデータ",
- "mhlw_hit": 17
+ "mhlw_hit": 26
 }

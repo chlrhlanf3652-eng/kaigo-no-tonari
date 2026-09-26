@@ -16,6 +16,10 @@
    "closed": "",
    "designated": "2013-08-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://fresh-walk.com",
    "days": [
     "平日",
@@ -37,6 +41,10 @@
    "closed": "",
    "designated": "2001-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://care-net.biz/13/kamisagi/",
    "days": [
     "平日",
@@ -57,6 +65,10 @@
    "closed": "",
    "designated": "2001-03-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.yayoi-home.com",
    "days": [
     "平日",
@@ -77,6 +89,10 @@
    "closed": "",
    "designated": "2001-10-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.nichiigakkan.co.jp",
    "days": [
     "平日",
@@ -85,6 +101,31 @@
    ],
    "lat": "35.712268643735670",
    "lng": "139.669145636805300"
+  },
+  {
+   "name": "アスケア　デイサービスセンター野方",
+   "identifier": "1371401371",
+   "org": "株式会社ＡＳＣａｒｅ",
+   "address": "東京都中野区野方６－５３－８",
+   "tel": "05033177073",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2003-01-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://www.asahi-sun-clean.co.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 31,
+   "lat": "35.723657800000000",
+   "lng": "139.649380400000040"
   },
   {
    "name": "デイサービスセンター　しらさぎホーム",
@@ -97,6 +138,10 @@
    "closed": "",
    "designated": "2003-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://www.nakano-fj.jp/",
    "days": [
     "平日",
@@ -117,6 +162,10 @@
    "closed": "",
    "designated": "2003-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://www.foryou.or.jp/facility/yayoi/w015/",
    "days": [
     "平日",
@@ -138,6 +187,10 @@
    "closed": "",
    "designated": "2005-06-01",
    "org_kind": "非営利法人（NPO）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.nakanonosato.jp/",
    "days": [
     "平日",
@@ -159,6 +212,10 @@
    "closed": "",
    "designated": "2006-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://care-net.biz/13/carenet/",
    "days": [
     "平日",
@@ -168,6 +225,31 @@
    "capacity": 24,
    "lat": "35.686978800000000",
    "lng": "139.668219400000000"
+  },
+  {
+   "name": "デイサービスセンター　江古田の森",
+   "identifier": "1371402858",
+   "org": "社会福祉法人南東北福祉事業団",
+   "address": "東京都中野区江古田３－１４－１９",
+   "tel": "03-5318-3711",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2007-04-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.kaigo-egota.com/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 45,
+   "lat": "35.729588000000010",
+   "lng": "139.665365000000060"
   },
   {
    "name": "ヒューマンライフケア薬師の湯",
@@ -180,6 +262,10 @@
    "closed": "",
    "designated": "2010-07-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://kaigo.human-lifecare.jp/facilities/ds008_Yakushi/summary.html",
    "days": [
     "平日",
@@ -201,6 +287,10 @@
    "closed": "",
    "designated": "2011-01-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://hibari-care.jp/",
    "days": [
     "平日",
@@ -221,6 +311,10 @@
    "closed": "",
    "designated": "2012-05-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://kaigojapan.co.jp/",
    "days": [
     "平日",
@@ -242,6 +336,10 @@
    "closed": "",
    "designated": "2013-08-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "days": [
     "平日",
     "土曜日",
@@ -250,6 +348,30 @@
    "capacity": 35,
    "lat": "35.729382500000010",
    "lng": "139.669150800000000"
+  },
+  {
+   "name": "ゆめふる白鷺店",
+   "identifier": "1371404979",
+   "org": "株式会社やさしい手",
+   "address": "東京都中野区白鷺２－６－２４",
+   "tel": "050-1753-8195",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2015-04-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://search.yasashiite.com/detail/tsusyokaigo_shirasagi/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.717533200000000",
+   "lng": "139.635479100000000"
   },
   {
    "name": "東中野ケアーズ",
@@ -262,6 +384,10 @@
    "closed": "",
    "designated": "2016-12-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://caregiver.co.jp/facility/higashinakano_village.php",
    "days": [
     "平日",
@@ -284,6 +410,10 @@
    "closed": "",
    "designated": "2018-05-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "days": [
     "平日",
     "土曜日",
@@ -304,6 +434,10 @@
    "closed": "",
    "designated": "2018-12-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://kaigojapan.co.jp/",
    "days": [
     "平日",
@@ -325,12 +459,41 @@
    "closed": "",
    "designated": "2019-06-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://wellbista-cs.com/",
    "days": [
     "平日"
    ],
    "lat": "35.691561700000000",
    "lng": "139.675767400000040"
+  },
+  {
+   "name": "ベストリハ中野若宮",
+   "identifier": "1371406040",
+   "org": "ベストリハ株式会社",
+   "address": "東京都中野区若宮３－６－９丸正都立家政ビル１階",
+   "tel": "03-5327-8610",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2020-09-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://bestreha.com/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 33,
+   "lat": "35.720293800000000",
+   "lng": "139.645415800000000"
   },
   {
    "name": "奉優デイサービス中野",
@@ -343,6 +506,10 @@
    "closed": "",
    "designated": "2021-08-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://www.foryou.or.jp/facility/nakano/w139/",
    "days": [
     "平日",
@@ -363,6 +530,10 @@
    "closed": "",
    "designated": "2023-05-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://lion-heart.co/shops/day_service_yayoicho/",
    "days": [
     "平日",
@@ -383,6 +554,10 @@
    "closed": "",
    "designated": "2023-05-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://ncs.my-nagomi.com",
    "days": [
     "平日",
@@ -403,12 +578,38 @@
    "closed": "",
    "designated": "2025-02-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://www.lets-club.jp/shop/nakanohoncho/",
    "days": [
     "平日"
    ],
    "lat": "35.693259699999990",
    "lng": "139.677748000000000"
+  },
+  {
+   "name": "デイサービス　サザンヒルズ",
+   "identifier": "1371406420",
+   "org": "Ｔｏｌｌｙ合同会社",
+   "address": "東京都中野区南台２－３０－１１サザンヒルズ壱番館１０２号",
+   "tel": "03-6382-4330",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2025-02-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://southern-hills-2.jimdosite.com/",
+   "days": [
+    "平日"
+   ],
+   "lat": "35.684264200000010",
+   "lng": "139.670634600000000"
   }
  ],
  "towns": [
@@ -493,5 +694,5 @@
  "service": "通所介護",
  "fetched": "2026-09-22",
  "source2": "厚生労働省「介護サービス情報公表システム」オープンデータ",
- "mhlw_hit": 20
+ "mhlw_hit": 25
 }

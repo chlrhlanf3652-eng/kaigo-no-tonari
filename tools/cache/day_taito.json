@@ -16,6 +16,10 @@
    "closed": "",
    "designated": "2003-07-01",
    "org_kind": "非営利法人（NPO）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://www.s-cosmos.org/",
    "days": [
     "平日",
@@ -35,6 +39,10 @@
    "closed": "",
    "designated": "2004-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.enzeru.co.jp/wps/",
    "days": [
     "平日",
@@ -55,6 +63,10 @@
    "closed": "",
    "designated": "2009-12-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://rehabili-youko.com/",
    "days": [
     "平日",
@@ -77,6 +89,10 @@
    "closed": "",
    "designated": "2010-08-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.yasashiite.com/subdomains/division/09",
    "days": [
     "平日",
@@ -99,6 +115,10 @@
    "closed": "",
    "designated": "2011-05-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://bentenyu.kenyu.co.jp/",
    "days": [
     "平日",
@@ -120,6 +140,10 @@
    "closed": "",
    "designated": "2012-02-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.solasto.co.jp",
    "days": [
     "平日",
@@ -141,6 +165,10 @@
    "closed": "",
    "designated": "2014-09-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.kenyu.co.jp",
    "days": [
     "平日",
@@ -162,6 +190,10 @@
    "closed": "",
    "designated": "2016-06-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.nagoyaka-link.co.jp",
    "days": [
     "平日",
@@ -183,6 +215,10 @@
    "closed": "",
    "designated": "2016-06-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.nagoyaka-link.co.jp/club/kuramae/",
    "days": [
     "平日",
@@ -204,6 +240,10 @@
    "closed": "",
    "designated": "2017-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.tokyoengokyokai.or.jp/matsugayasenior01.html",
    "days": [
     "平日",
@@ -224,6 +264,10 @@
    "closed": "",
    "designated": "2017-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://www.o-techno.co.jp/",
    "days": [
     "平日",
@@ -245,6 +289,10 @@
    "closed": "",
    "designated": "2017-07-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.bestreha.com",
    "days": [
     "平日",
@@ -266,6 +314,10 @@
    "closed": "",
    "designated": "2017-09-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://higasiueno-center.com/zaitaku/",
    "days": [
     "平日",
@@ -287,6 +339,10 @@
    "closed": "",
    "designated": "2017-09-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://taitoswc.org/yanaka/",
    "days": [
     "平日",
@@ -306,7 +362,11 @@
    "hours": "",
    "closed": "",
    "designated": "2018-07-01",
-   "org_kind": "非営利法人（NPO）"
+   "org_kind": "非営利法人（NPO）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ]
   },
   {
    "name": "Ｌｅｔ’ｓリハ！谷中言問",
@@ -319,6 +379,10 @@
    "closed": "",
    "designated": "2018-10-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.sakurajyuji.jp/",
    "days": [
     "平日",
@@ -340,6 +404,10 @@
    "closed": "",
    "designated": "2022-03-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://www.rehapride.co.jp/ueno/",
    "days": [
     "平日",
@@ -359,6 +427,10 @@
    "closed": "",
    "designated": "2026-02-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://ds.asahitrust-x.com/",
    "days": [
     "平日"

@@ -12,19 +12,19 @@
     "city_name": "練馬区"
   },
   "seo": {
-    "title": "練馬区のデイサービス20事業所｜送迎と費用の見方【2026年9月更新】",
-    "description": "東京都練馬区の通所介護（デイサービス）事業所20件を連絡先つきで掲載。区内80件の中から選ぶための所在町域・運営法人・開設年数の内訳と、1級地での自己負担、見学で聞くことをまとめました。",
+    "title": "練馬区のデイサービス60事業所｜送迎と費用の見方【2026年9月更新】",
+    "description": "東京都練馬区の通所介護（デイサービス）事業所60件を連絡先つきで掲載。区内80件の中から選ぶための所在町域・運営法人・開設年数の内訳と、1級地での自己負担、見学で聞くことをまとめました。",
     "canonical": "https://kaigonotonari.com/day-service/tokyo/nerima/",
     "og_title": "練馬区のデイサービス一覧｜送迎範囲と費用の見方",
-    "og_description": "練馬区の通所介護事業所20件を掲載。送迎範囲・入浴設備・開設年数から選ぶ順番と、保険外費用を含めた費用の見方を解説します。",
+    "og_description": "練馬区の通所介護事業所60件を掲載。送迎範囲・入浴設備・開設年数から選ぶ順番と、保険外費用を含めた費用の見方を解説します。",
     "og_image": "https://kaigonotonari.com/assets/ogp-day-service.jpg"
   },
   "h1": "練馬区のデイサービス一覧｜送迎範囲と費用の見方",
   "published": "2026-09-22",
   "modified": "2026-09-22",
-  "count_label": "掲載：20事業所",
-  "lead": "東京都練馬区で通所介護（デイサービス）を探している方へ。東京都の指定を受けた80件から20件を連絡先つきで掲載し、所在町域・運営法人・開設からの年数の内訳と、1級地での自己負担をまとめました。デイサービスでいちばん多い壁は<strong>本人が行きたがらないこと</strong>です。選ぶ順番は近い順ではなく、通い続けられる条件の順になります。",
-  "listing_note": "練馬区内の通所介護事業所から20件を掲載しています（東京都公表・2026年9月1日時点）。区内には80件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。定員18人以下の地域密着型通所介護は区が指定するため、この一覧には含まれていません。掲載順は事業所の優劣を示すものではありません。",
+  "count_label": "掲載：60事業所",
+  "lead": "東京都練馬区で通所介護（デイサービス）を探している方へ。東京都の指定を受けた80件から60件を連絡先つきで掲載し、所在町域・運営法人・開設からの年数の内訳と、1級地での自己負担をまとめました。デイサービスでいちばん多い壁は<strong>本人が行きたがらないこと</strong>です。選ぶ順番は近い順ではなく、通い続けられる条件の順になります。",
+  "listing_note": "練馬区内の通所介護事業所から60件を掲載しています（東京都公表・2026年9月1日時点）。区内には80件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。定員18人以下の地域密着型通所介護は区が指定するため、この一覧には含まれていません。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
@@ -56,6 +56,67 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "光陽苑",
+      "telephone": "03-3923-5264",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "西大泉５－２１－２"
+      },
+      "parentOrganization": "社会福祉法人泉陽会",
+      "identifier": "1372000537",
+      "_town": "西大泉",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-02-01",
+      "_years": 26.639288158795345,
+      "url": "https://senyoukai.or.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 39,
+      "_tags": [
+        "西大泉エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "第二光陽苑",
+      "telephone": "03-5991-9917",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "関町北５－７－２２"
+      },
+      "parentOrganization": "社会福祉法人泉陽会",
+      "identifier": "1372000602",
+      "_town": "関町北",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-02-01",
+      "_years": 26.639288158795345,
+      "url": "https://senyoukai.or.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "関町北エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "やすらぎ舎デイサービスセンター",
       "telephone": "03-5387-5577",
       "address": {
@@ -79,6 +140,67 @@
       ],
       "_tags": [
         "大泉学園町エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "やすらぎミラージュ　デイサービスセンター",
+      "telephone": "03-5905-1191",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "大泉町　４－２４－７"
+      },
+      "parentOrganization": "社会福祉法人章佑会",
+      "identifier": "1372001410",
+      "_town": "大泉町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-03-01",
+      "_years": 26.559890485968516,
+      "url": "http://www.yasuragi1977.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 40,
+      "_tags": [
+        "大泉町エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "練馬高松園デイサービスセンター",
+      "telephone": "03-3926-8341",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "高松２－９－３"
+      },
+      "parentOrganization": "社会福祉法人東京福祉会",
+      "identifier": "1372001600",
+      "_town": "高松",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-05-01",
+      "_years": 26.392881587953458,
+      "url": "http://www.tfk.or.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "高松エリア",
         "土曜日も営業",
         "20年以上",
         "デイサービス"
@@ -117,6 +239,66 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "豊玉南しあわせの里デイサービスセンター",
+      "telephone": "03-5946-2323",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "豊玉南２－２６－６"
+      },
+      "parentOrganization": "社会福祉法人安心会",
+      "identifier": "1372003499",
+      "_town": "豊玉南",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2004-05-01",
+      "_years": 22.392881587953458,
+      "url": "https://anshinkai-gr.jp/anshinkai/toyotamaminamishiawasenosato",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 40,
+      "_tags": [
+        "豊玉南エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "さくら",
+      "telephone": "03-3577-5365",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "貫井４－４７－６１ＫＭエンゼルハイム中村橋１０１号"
+      },
+      "parentOrganization": "有限会社ツノダシステム",
+      "identifier": "1372003887",
+      "_town": "貫井",
+      "_kind": "営利法人",
+      "_designated": "2004-11-01",
+      "_years": 21.88911704312115,
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "貫井エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "練馬区立高野台デイサービスセンター",
       "telephone": "03-5923-0831",
       "address": {
@@ -139,6 +321,67 @@
       "_capacity": 48,
       "_tags": [
         "高野台エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社ケアサービス　デイサービスセンターさくら",
+      "telephone": "03-5946-5530",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "桜台１－１２－５栖鳳ビル"
+      },
+      "parentOrganization": "株式会社ケアサービス",
+      "identifier": "1372004851",
+      "_town": "桜台",
+      "_kind": "営利法人",
+      "_designated": "2006-04-01",
+      "_years": 20.476386036960985,
+      "url": "http://www.care.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 34,
+      "_tags": [
+        "桜台エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "練馬区立錦デイサービスセンター",
+      "telephone": "03-3937-5031",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "錦２－６－１４"
+      },
+      "parentOrganization": "社会福祉法人練馬区社会福祉事業団",
+      "identifier": "1372004919",
+      "_town": "錦",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2006-04-01",
+      "_years": 20.476386036960985,
+      "url": "http://www.nerima-swf.jp/office/30?c=12",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "錦エリア",
+        "土曜日も営業",
         "20年以上",
         "デイサービス"
       ]
@@ -168,6 +411,67 @@
       ],
       "_tags": [
         "東大泉エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "練馬区立豊玉デイサービスセンター",
+      "telephone": "03-3993-1341",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "豊玉南３－９－１３"
+      },
+      "parentOrganization": "社会福祉法人練馬区社会福祉事業団",
+      "identifier": "1372004950",
+      "_town": "豊玉南",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2006-04-01",
+      "_years": 20.476386036960985,
+      "url": "http://www.nerima-swf.jp/service/tsusyo/toyotamaday/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "豊玉南エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "練馬区立土支田デイサービスセンター",
+      "telephone": "03-5387-6760",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "土支田２－４０－１８"
+      },
+      "parentOrganization": "社会福祉法人練馬区社会福祉事業団",
+      "identifier": "1372004968",
+      "_town": "土支田",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2006-04-01",
+      "_years": 20.476386036960985,
+      "url": "http://www.nerima-swf.jp/office/21?c=7",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 35,
+      "_tags": [
+        "土支田エリア",
         "土曜日も営業",
         "20年以上",
         "デイサービス"
@@ -206,6 +510,66 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "富士見台デイサービスセンター",
+      "telephone": "03-5241-6010",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "富士見台１－２２－４"
+      },
+      "parentOrganization": "社会福祉法人練馬区社会福祉事業団",
+      "identifier": "1372005007",
+      "_town": "富士見台",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2006-04-01",
+      "_years": 20.476386036960985,
+      "url": "http://www.nerima-swf.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "富士見台エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "石神井クラシック・コミュニティ　そよ風",
+      "telephone": "03-5927-5140",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "石神井台７－１６－１１"
+      },
+      "parentOrganization": "株式会社ＳＯＹＯＫＡＺＥ",
+      "identifier": "1372005239",
+      "_town": "石神井台",
+      "_kind": "営利法人",
+      "_designated": "2006-08-01",
+      "_years": 20.142368240930868,
+      "url": "http://www.sykz.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "石神井台エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "カルチャー倶楽部練馬北町",
       "telephone": "03-5939-6988",
       "address": {
@@ -231,6 +595,63 @@
       "_tags": [
         "北町エリア",
         "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービス　ほほえみ",
+      "telephone": "03-5917-5766",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "小竹町１－３５－４"
+      },
+      "parentOrganization": "有限会社イシワタ",
+      "identifier": "1372006096",
+      "_town": "小竹町",
+      "_kind": "営利法人",
+      "_designated": "2008-03-01",
+      "_years": 18.559890485968516,
+      "url": "https://ishiwata-kaigo.com",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "小竹町エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "パナソニック　エイジフリーケアセンター練馬春日町・デイサービス",
+      "telephone": "03-3999-6505",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "春日町３－３３－２７　サンヴェリー真野１Ｆ"
+      },
+      "parentOrganization": "パナソニックエイジフリー株式会社",
+      "identifier": "1372006138",
+      "_town": "春日町",
+      "_kind": "営利法人",
+      "_designated": "2008-04-01",
+      "_years": 18.47501711156742,
+      "url": "http://panasonic.biz/healthcare/elderlycare/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_capacity": 28,
+      "_tags": [
+        "春日町エリア",
+        "日曜日も営業",
         "デイサービス"
       ]
     },
@@ -267,6 +688,66 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ヒューマンライフケアあいぞめの湯",
+      "telephone": "03-5912-3358",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "豊玉北６－７－２第二愛染ビル１階"
+      },
+      "parentOrganization": "ヒューマンライフケア株式会社",
+      "identifier": "1372007342",
+      "_town": "豊玉北",
+      "_kind": "営利法人",
+      "_designated": "2010-07-01",
+      "_years": 16.227241615331966,
+      "url": "http://kaigo.human-lifecare.jp/facilities/ds004_Aizome/summary.html",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "豊玉北エリア",
+        "日曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ジョイリハＳＰＡ光ヶ丘",
+      "telephone": "03-3577-9211",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "田柄３－４－１４"
+      },
+      "parentOrganization": "株式会社ヤマウチ",
+      "identifier": "1372007391",
+      "_town": "田柄",
+      "_kind": "営利法人",
+      "_designated": "2010-08-01",
+      "_years": 16.142368240930868,
+      "url": "http://www.okamoto-group.co.jp/joyreha/index.html",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 310,
+      "_tags": [
+        "田柄エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "練馬ケアセンターそよ風",
       "telephone": "03-5922-4165",
       "address": {
@@ -292,6 +773,66 @@
       "_capacity": 28,
       "_tags": [
         "北町エリア",
+        "日曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アズハイムテラス練馬",
+      "telephone": "03-3867-3200",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "土支田２－２１－５"
+      },
+      "parentOrganization": "株式会社アズパートナーズ",
+      "identifier": "1372009108",
+      "_town": "土支田",
+      "_kind": "営利法人",
+      "_designated": "2012-12-01",
+      "_years": 13.806981519507186,
+      "url": "http://www.as-heim.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "土支田エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ツクイ練馬春日町",
+      "telephone": "03-3577-9265",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "春日町２－９－３３"
+      },
+      "parentOrganization": "株式会社ツクイ",
+      "identifier": "1372009389",
+      "_town": "春日町",
+      "_kind": "営利法人",
+      "_designated": "2013-05-01",
+      "_years": 13.39356605065024,
+      "url": "http://www.tsukui.net",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_capacity": 60,
+      "_tags": [
+        "春日町エリア",
         "日曜日も営業",
         "デイサービス"
       ]
@@ -327,6 +868,64 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "かがやきデイサービス練馬大泉",
+      "telephone": "03-5947-4802",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "大泉町１－５１－９"
+      },
+      "parentOrganization": "株式会社やまねメディカル",
+      "identifier": "1372010254",
+      "_town": "大泉町",
+      "_kind": "営利法人",
+      "_designated": "2014-05-01",
+      "_years": 12.394250513347023,
+      "url": "http://www.nagoyakaclub.jp/nerimaoizumi",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "大泉町エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンター　ケアサポートねりま",
+      "telephone": "03-6865-1165",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "南大泉１－２２－５０"
+      },
+      "parentOrganization": "ケアサポート株式会社",
+      "identifier": "1372010452",
+      "_town": "南大泉",
+      "_kind": "営利法人",
+      "_designated": "2014-08-01",
+      "_years": 12.14236824093087,
+      "url": "http://www.care-support.biz/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南大泉エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "マイ・ハート　リハ倶楽部　石神井公園",
       "telephone": "03-5923-9576",
       "address": {
@@ -350,6 +949,65 @@
       "_capacity": 24,
       "_tags": [
         "石神井台エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "エンジョイ音楽デイサービスひばり桜台",
+      "telephone": "03-6914-6039",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "豊玉北４－１３－２－１０１"
+      },
+      "parentOrganization": "株式会社ひばりケア",
+      "identifier": "1372011088",
+      "_town": "豊玉北",
+      "_kind": "営利法人",
+      "_designated": "2015-08-01",
+      "_years": 11.143052703627653,
+      "url": "http://hibari-care.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "豊玉北エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "医療法人社団平真会　薬師堂デイサービスみのる",
+      "telephone": "03-6915-9622",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "富士見台３－５５－３　１階"
+      },
+      "parentOrganization": "医療法人社団平真会",
+      "identifier": "1372011229",
+      "_town": "富士見台",
+      "_kind": "医療法人",
+      "_designated": "2015-10-01",
+      "_years": 10.976043805612594,
+      "url": "https://sites.google.com/view/yakushidodayminoru、http://www.yakushido.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 90,
+      "_tags": [
+        "富士見台エリア",
+        "土曜日も営業",
         "デイサービス"
       ]
     },
@@ -379,6 +1037,65 @@
       "_capacity": 35,
       "_tags": [
         "錦エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "歌笑デイサービスセンター笑いの北町",
+      "telephone": "03-6906-6090",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "北町１－１９－１５リュミエール１０５"
+      },
+      "parentOrganization": "株式会社ひばりケア",
+      "identifier": "1372011435",
+      "_town": "北町",
+      "_kind": "営利法人",
+      "_designated": "2016-05-01",
+      "_years": 10.392881587953456,
+      "url": "http://hibari-care.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "北町エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンターなごやか練馬",
+      "telephone": "03-5912-1025",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "早宮１－３２－１２サンサン豊島園１Ｆ"
+      },
+      "parentOrganization": "なごやかケアリンク株式会社",
+      "identifier": "1372011450",
+      "_town": "早宮",
+      "_kind": "営利法人",
+      "_designated": "2016-06-01",
+      "_years": 10.30800821355236,
+      "url": "http://www.nagoyaka-link.co.jp/club/nerima/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 29,
+      "_tags": [
+        "早宮エリア",
         "土曜日も営業",
         "デイサービス"
       ]
@@ -415,6 +1132,64 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "らいおんハートリハビリ温泉デイサービス練馬",
+      "telephone": "03-5935-8035",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "東大泉７－３６－１１大泉サンヒルズいがしら"
+      },
+      "parentOrganization": "株式会社カスケード東京",
+      "identifier": "1372012300",
+      "_town": "東大泉",
+      "_kind": "営利法人",
+      "_designated": "2018-02-01",
+      "_years": 8.63791923340178,
+      "url": "https://lion-heart.co/html/notfound.html",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "東大泉エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＳＯＭＰＯケア　桜台　デイサービス",
+      "telephone": "03-5912-6701",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "桜台２－２９－１１"
+      },
+      "parentOrganization": "ＳＯＭＰＯケア株式会社",
+      "identifier": "1372012557",
+      "_town": "桜台",
+      "_kind": "営利法人",
+      "_designated": "2018-07-01",
+      "_years": 8.227241615331964,
+      "url": "https://www.sompocare.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "桜台エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ゆとり庵",
       "telephone": "03-5935-6263",
       "address": {
@@ -445,6 +1220,67 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "デイサービス　スマイル大学",
+      "telephone": "03-5848-8315",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "高松２－１５－２２"
+      },
+      "parentOrganization": "株式会社スマイルケアねりま",
+      "identifier": "1372012623",
+      "_town": "高松",
+      "_kind": "営利法人",
+      "_designated": "2018-08-01",
+      "_years": 8.14236824093087,
+      "url": "https://www.smilecarenerima.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 30,
+      "_tags": [
+        "高松エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "みちなかの里　南大泉店",
+      "telephone": "03-5935-6382",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "南大泉１－４８－１"
+      },
+      "parentOrganization": "株式会社維新ネット",
+      "identifier": "1372012748",
+      "_town": "南大泉",
+      "_kind": "営利法人",
+      "_designated": "2018-12-01",
+      "_years": 7.808350444900753,
+      "url": "https://ameblo.jp/michinakashakujii/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_capacity": 25,
+      "_tags": [
+        "南大泉エリア",
+        "日曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ルネサンス　元氣ジム練馬",
       "telephone": "03-5912-2855",
       "address": {
@@ -468,6 +1304,62 @@
       "_capacity": 27,
       "_tags": [
         "豊玉中エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "シンシアリハビリデイサービス田柄店",
+      "telephone": "03-6909-9050",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "田柄４－３３－２０"
+      },
+      "parentOrganization": "株式会社シンシア",
+      "identifier": "1372012912",
+      "_town": "田柄",
+      "_kind": "営利法人",
+      "_designated": "2019-05-01",
+      "_years": 7.394934976043806,
+      "url": "http://hp.kaipoke.biz/zfu/131060/index_0004.html",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_capacity": 490,
+      "_tags": [
+        "田柄エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "カインドケア練馬関町",
+      "telephone": "03-5903-8330",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "関町北４－１－６ハイクレスト関１階"
+      },
+      "parentOrganization": "カインドケア株式会社",
+      "identifier": "1372013316",
+      "_town": "関町北",
+      "_kind": "営利法人",
+      "_designated": "2020-09-01",
+      "_years": 6.056125941136208,
+      "url": "https://www.kind-care.biz",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "関町北エリア",
+        "土曜日も営業",
         "デイサービス"
       ]
     },
@@ -503,6 +1395,64 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "富士見台ケアーズ",
+      "telephone": "03-5848-6277",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "貫井４－１４－１５ＬＥＧＡＭＥ　１Ｆ"
+      },
+      "parentOrganization": "株式会社ケアギバー・ジャパン",
+      "identifier": "1372013696",
+      "_town": "貫井",
+      "_kind": "営利法人",
+      "_designated": "2021-07-01",
+      "_years": 5.2265571526351815,
+      "url": "https://caregiver.co.jp/facility/day_fujimidai_cares.php",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "貫井エリア",
+        "日曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ルネサンス　元氣ジム石神井公園",
+      "telephone": "03-5910-3980",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "下石神井３－９－８"
+      },
+      "parentOrganization": "株式会社ルネサンス",
+      "identifier": "1372013720",
+      "_town": "下石神井",
+      "_kind": "営利法人",
+      "_designated": "2021-08-01",
+      "_years": 5.1416837782340865,
+      "url": "http://www.s-re.jp",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_capacity": 27,
+      "_tags": [
+        "下石神井エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "デイサービス健楽　氷川台",
       "telephone": "03-6906-9917",
       "address": {
@@ -533,6 +1483,63 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "株式会社ケアサービス　デイサービスセンター大泉学園",
+      "telephone": "03-5935-8122",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "東大泉６－５２－５"
+      },
+      "parentOrganization": "株式会社ケアサービス",
+      "identifier": "1372013837",
+      "_town": "東大泉",
+      "_kind": "営利法人",
+      "_designated": "2021-12-01",
+      "_years": 4.80766598220397,
+      "url": "https://www.care.co.jp/office/ds_ooizumigakuen",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "東大泉エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "らいおんハートリハビリデイサービス光が丘",
+      "telephone": "03-6904-2126",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "旭町１－８－７フォレスト上原１Ｆ"
+      },
+      "parentOrganization": "医療法人社団緑友会",
+      "identifier": "1372014165",
+      "_town": "旭町",
+      "_kind": "医療法人",
+      "_designated": "2022-08-01",
+      "_years": 4.142368240930869,
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "旭町エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ウェルビスタ　ケアスタジオ　練馬北町",
       "telephone": "03-5945-2061",
       "address": {
@@ -554,6 +1561,60 @@
       ],
       "_tags": [
         "北町エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ジョイリハＳＰＡ東武練馬",
+      "telephone": "03-6906-6185",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "北町１－３５－３池上ビル１Ｆ"
+      },
+      "parentOrganization": "株式会社ヤマウチ",
+      "identifier": "1372014462",
+      "_town": "北町",
+      "_kind": "営利法人",
+      "_designated": "2023-07-01",
+      "_years": 3.2279260780287475,
+      "url": "https://joyreha.co.jp/",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "北町エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービス　牌の彩　練馬",
+      "telephone": "03-5933-9885",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "貫井４－４５－１８"
+      },
+      "parentOrganization": "株式会社アルバンケアサービス",
+      "identifier": "1372014470",
+      "_town": "貫井",
+      "_kind": "営利法人",
+      "_designated": "2023-07-01",
+      "_years": 3.2279260780287475,
+      "url": "https://www.alban-care.co.jp/",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "貫井エリア",
         "デイサービス"
       ]
     },
@@ -586,6 +1647,65 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ルネサンス元氣ジム大泉学園",
+      "telephone": "03-5935-8782",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "大泉町４－３４－２７レーベンハウス大泉１Ｆ"
+      },
+      "parentOrganization": "株式会社ルネサンス",
+      "identifier": "1372014736",
+      "_town": "大泉町",
+      "_kind": "営利法人",
+      "_designated": "2024-05-01",
+      "_years": 2.3928815879534566,
+      "url": "https://kaigo.s-re.jp/kg/",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_capacity": 27,
+      "_tags": [
+        "大泉町エリア",
+        "開設3年以内",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスひまわり",
+      "telephone": "03-5999-6355",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "豊玉北１－１２－１６－２階、３階"
+      },
+      "parentOrganization": "医療法人社団真成会",
+      "identifier": "1372014785",
+      "_town": "豊玉北",
+      "_kind": "医療法人",
+      "_designated": "2024-08-01",
+      "_years": 2.1409993155373033,
+      "url": "http://www.shinseikai-cc.jp",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_capacity": 33,
+      "_tags": [
+        "豊玉北エリア",
+        "土曜日も営業",
+        "開設3年以内",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "レッツ倶楽部練馬",
       "telephone": "03-6913-3211",
       "address": {
@@ -613,6 +1733,57 @@
         "開設3年以内",
         "デイサービス"
       ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "みちなかの里　春日町店",
+      "telephone": "03-5848-8465",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "春日町６－１２－２０ラトールシノダ１Ｆ"
+      },
+      "parentOrganization": "株式会社維新ネット",
+      "identifier": "1372014983",
+      "_town": "春日町",
+      "_kind": "営利法人",
+      "_designated": "2025-04-01",
+      "_years": 1.4757015742642026,
+      "url": "https://ameblo.jp/kasugatyou4/",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "春日町エリア",
+        "開設3年以内",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "らいおんハートデイサービス中村橋",
+      "telephone": "03-3926-8511",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "中村南３－１９－１１"
+      },
+      "parentOrganization": "株式会社カスケード東京",
+      "identifier": "1372015253",
+      "_town": "中村南",
+      "_kind": "営利法人",
+      "_designated": "2026-04-01",
+      "_years": 0.47638603696098564,
+      "_tags": [
+        "中村南エリア",
+        "開設3年以内",
+        "デイサービス"
+      ]
     }
   ],
   "faq": [
@@ -622,11 +1793,11 @@
     },
     {
       "q": "練馬区にデイサービスは何件ありますか？",
-      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で練馬区内に80件の通所介護事業所が指定を受けています。本ページではそのうち20件を連絡先つきで掲載しています。なお定員18人以下の地域密着型通所介護は区が指定するため、この件数には含まれていません。"
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で練馬区内に80件の通所介護事業所が指定を受けています。本ページではそのうち60件を連絡先つきで掲載しています。なお定員18人以下の地域密着型通所介護は区が指定するため、この件数には含まれていません。"
     },
     {
       "q": "練馬区の掲載事業所は、どこを見て絞り込めばいいですか？",
-      "a": "まず送迎範囲に自宅が入るかで絞り、次に入浴設備（個浴か機械浴か）で絞るのが順番です。練馬区の掲載20件では営利法人が15件と最も多く、指定から20年以上の事業所も6件あります。長く続いているところは空きが出にくい一方、新しいところは空きがあります。"
+      "a": "まず送迎範囲に自宅が入るかで絞り、次に入浴設備（個浴か機械浴か）で絞るのが順番です。練馬区の掲載60件では営利法人が43件と最も多く、指定から20年以上の事業所も18件あります。長く続いているところは空きが出にくい一方、新しいところは空きがあります。"
     },
     {
       "q": "練馬区で自己負担はいくらくらいですか？",
@@ -634,22 +1805,24 @@
     },
     {
       "q": "本人が練馬区のデイサービスに行きたがりません。",
-      "a": "まず体験利用を試してください。練馬区内には80件あり、掲載20件を見ても営利法人が15件と偏りがあるように、規模も雰囲気も事業所ごとに違います。合わない理由別の対処（個浴のある事業所、小規模な事業所など）はデイサービスのしくみのページにまとめました。練馬区でも週1回から始めて、慣れてから増やすのが定石です。"
+      "a": "まず体験利用を試してください。練馬区内には80件あり、掲載60件を見ても営利法人が43件と偏りがあるように、規模も雰囲気も事業所ごとに違います。合わない理由別の対処（個浴のある事業所、小規模な事業所など）はデイサービスのしくみのページにまとめました。練馬区でも週1回から始めて、慣れてから増やすのが定石です。"
     },
     {
       "q": "練馬区の事業所は、途中で変更できますか？",
       "a": "変更できます。ケアマネジャーに相談すればケアプランを見直したうえで練馬区内の別の事業所に切り替えられます。練馬区は区内80件と候補があるので、合わずに変える方は珍しくありません。"
     }
   ],
-  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/nerima/\">練馬区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/nerima/\">練馬区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/nerima/\">練馬区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/nerima/\">練馬区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/nerima/\">練馬区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/nerima/\">練馬区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
-  "nearby_heading": "近隣エリアのデイサービス",
-  "nearby": "<a href=\"{{ROOT}}day-service/tokyo/itabashi/\">板橋区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/toshima/\">豊島区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/nakano/\">中野区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/suginami/\">杉並区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/kita/\">北区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/shinjuku/\">新宿区</a>",
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/nerima/\">練馬区の訪問介護<small>自宅に来てもらう・区内203件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/nerima/\">練馬区の訪問看護<small>医療ケアが必要な方へ・区内115件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/nerima/\">練馬区のショートステイ<small>数日あずける・区内41件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/nerima/\">練馬区の福祉用具<small>借りる・買う・区内45件</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/nerima/\">練馬区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/nerima/\">練馬区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "東京23区からデイサービスを探す",
+  "nearby": "<a href=\"{{ROOT}}day-service/tokyo/chiyoda/\">千代田区<small>3件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/chuo/\">中央区<small>13件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/minato/\">港区<small>17件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/shinjuku/\">新宿区<small>27件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/bunkyo/\">文京区<small>18件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/taito/\">台東区<small>18件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/sumida/\">墨田区<small>36件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/koto/\">江東区<small>52件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/shinagawa/\">品川区<small>30件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/meguro/\">目黒区<small>24件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/ota/\">大田区<small>83件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/setagaya/\">世田谷区<small>99件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/shibuya/\">渋谷区<small>15件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/nakano/\">中野区<small>25件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/suginami/\">杉並区<small>44件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/toshima/\">豊島区<small>17件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/kita/\">北区<small>46件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/arakawa/\">荒川区<small>31件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/itabashi/\">板橋区<small>70件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/adachi/\">足立区<small>107件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/katsushika/\">葛飾区<small>71件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/edogawa/\">江戸川区<small>81件</small></a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
     "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／定員・営業曜日・公式サイト）",
     "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」通所介護費（令和6年度改定）／介護報酬の地域区分（1級地・1単位11.40円）",
     "練馬区「地域包括支援センター一覧」",
-    "日本郵便 郵便番号データにもとづく練馬区の町域一覧"
+    "日本郵便 郵便番号データにもとづく練馬区の町域一覧",
+    "東京都総務局統計部「住民基本台帳による東京都の世帯と人口」（令和8年1月1日現在／年齢3区分別人口・5歳階級別人口）",
+    "東京都福祉局「介護保険事業状況報告（月報）」令和8年6月分（保険者別・第1号被保険者数／要介護認定者数）"
   ],
   "sidebar": "<div class=\"side cta-side\">\n        <h4>まず体験利用を</h4>\n        <p>合うかどうかは見学だけでは分かりません。制度と費用はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}day-service/\">デイサービスのしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>練馬区内の通所介護は80件（都指定）</li>\n          <li>7〜8時間・要介護1で約750円（1割）</li>\n          <li>食費などは全額自己負担</li>\n          <li>入口はケアマネか地域包括支援センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}day-service/\">デイサービスのしくみ</a></li>\n          <li><a href=\"{{ROOT}}short-stay/\">ショートステイ</a></li>\n        </ul>\n      </div>",
   "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",

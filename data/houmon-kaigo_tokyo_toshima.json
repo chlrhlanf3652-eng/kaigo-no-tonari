@@ -12,38 +12,248 @@
     "city_name": "豊島区"
   },
   "seo": {
-    "title": "豊島区の訪問介護20事業所｜料金と選び方【2026年9月更新】",
-    "description": "東京都豊島区の訪問介護（ホームヘルプ）事業所20件を連絡先つきで掲載。区内63件の中から選ぶための料金の目安、頼めること・頼めないこと、高齢者総合相談センターへの相談から利用開始までの流れを解説します。",
+    "title": "豊島区の訪問介護60事業所｜料金と選び方【2026年9月更新】",
+    "description": "東京都豊島区の訪問介護（ホームヘルプ）事業所60件を連絡先つきで掲載。区内63件の中から選ぶための料金の目安、頼めること・頼めないこと、高齢者総合相談センターへの相談から利用開始までの流れを解説します。",
     "canonical": "https://kaigonotonari.com/houmon-kaigo/tokyo/toshima/",
     "og_title": "豊島区の訪問介護事業所一覧｜料金の目安と選び方",
-    "og_description": "豊島区の訪問介護事業所20件を掲載。料金の目安、できること・できないこと、利用開始までの流れを解説します。",
+    "og_description": "豊島区の訪問介護事業所60件を掲載。料金の目安、できること・できないこと、利用開始までの流れを解説します。",
     "og_image": "https://kaigonotonari.com/assets/ogp-houmon-kaigo.jpg"
   },
   "h1": "豊島区の訪問介護事業所一覧｜料金の目安と選び方",
   "published": "2026-09-21",
   "modified": "2026-09-21",
-  "count_label": "掲載：20事業所",
-  "lead": "東京都豊島区で訪問介護（ホームヘルプ）を探している方へ。区内にある63件の事業所から20件を連絡先つきで掲載し、あわせて自己負担額の目安、ヘルパーに頼めること・頼めないこと、相談から利用開始までの流れをまとめました。はじめて介護保険を使う方は、まず「高齢者総合相談センター」への相談から始めるのが近道です。",
-  "listing_note": "豊島区内の訪問介護事業所から20件を掲載しています（2026年9月時点）。区内の全件から事業所番号の順に等間隔で抽出しています。区内には63件の事業所があり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
+  "count_label": "掲載：60事業所",
+  "lead": "東京都豊島区で訪問介護（ホームヘルプ）を探している方へ。区内にある63件の事業所から60件を連絡先つきで掲載し、あわせて自己負担額の目安、ヘルパーに頼めること・頼めないこと、相談から利用開始までの流れをまとめました。はじめて介護保険を使う方は、まず「高齢者総合相談センター」への相談から始めるのが近道です。",
+  "listing_note": "豊島区内の訪問介護事業所から60件を掲載しています（2026年9月時点）。区内の全件から事業所番号の順に等間隔で抽出しています。区内には63件の事業所があり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
-      "name": "よつばケアセンター",
-      "telephone": "03-5972-1483",
+      "name": "ケアリッツ巣鴨",
+      "telephone": "03-5981-8107",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "豊島区",
-        "streetAddress": "巣鴨3-31-2 アルカディア篠Ｂ305"
+        "streetAddress": "南大塚１－３１－１７マイスターＳＹ２０２"
       },
-      "parentOrganization": "（株）よつば",
-      "identifier": "1371605849",
-      "faxNumber": "03-5972-1484",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
+      "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
+      "identifier": "1370502658",
+      "_town": "南大塚",
+      "url": "https://www.careritz.co.jp/station/branch/sugamo/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南大塚エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "しもとり訪問介護",
+      "telephone": "03-5904-9577",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "池袋本町４－８－２－１０１クレスト本町"
+      },
+      "parentOrganization": "霜鳥恒産株式会社",
+      "identifier": "1370705111",
+      "_town": "池袋本町",
+      "url": "https://www.shimotori-kosan.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "池袋本町エリア",
+        "土曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "有限会社ホームケアながさき",
+      "telephone": "03-5988-7377",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "南長崎５－９－１０　１０１号"
+      },
+      "parentOrganization": "有限会社ホームケアながさき",
+      "identifier": "1371600097",
+      "_town": "南長崎",
+      "url": "https://www.homecare-nagasaki.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南長崎エリア",
+        "土曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社　大起エンゼルヘルプ　豊島ケアセンター",
+      "telephone": "03-5391-6789",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "池袋４－１１－４メゾンドール池袋１０１"
+      },
+      "parentOrganization": "株式会社大起エンゼルヘルプ",
+      "identifier": "1371600170",
+      "_town": "池袋",
+      "url": "http://www.enzeru.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "池袋エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社エヌ・テイ豊島",
+      "telephone": "03-3986-5678",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "池袋２－７３－１"
+      },
+      "parentOrganization": "株式会社エヌ・テイ豊島",
+      "identifier": "1371600204",
+      "_town": "池袋",
+      "url": "http://www.nt-toshima.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "池袋エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "有限会社　あさくらケアハウス　ヘルパーステーション",
+      "telephone": "03-3941-0047",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "南大塚２－４３－４ブロッサム南大塚１Ｆ"
+      },
+      "parentOrganization": "有限会社あさくらケアハウス",
+      "identifier": "1371600428",
+      "_town": "南大塚",
+      "url": "https://asakura-care.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南大塚エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社グレイス・ケアー",
+      "telephone": "03-3987-6446",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "南池袋４－１６－１１"
+      },
+      "parentOrganization": "株式会社グレイス・ケアー",
+      "identifier": "1371600501",
+      "_town": "南池袋",
+      "url": "http://www.grace-care.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南池袋エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ニチイケアセンター豊島",
+      "telephone": "03-5979-5983",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "池袋４－２７－５和田ビル１階"
+      },
+      "parentOrganization": "株式会社ニチイ学館",
+      "identifier": "1371600691",
+      "_town": "池袋",
+      "url": "http://www.nichiigakkan.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "池袋エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "バリアフリーサポート巣鴨訪問介護事業所",
+      "telephone": "03-5961-3441",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "巣鴨２－４－２　岡田ビル７０５"
+      },
+      "parentOrganization": "有限会社バリアフリー・サポート",
+      "identifier": "1371600873",
       "_town": "巣鴨",
-      "url": "https://fourleafclover.jp/",
       "_days": [
         "平日",
         "土曜日",
@@ -58,47 +268,19 @@
     },
     {
       "@type": "LocalBusiness",
-      "name": "さわやかケアポートとしま・訪問介護",
-      "telephone": "03-5907-4293",
+      "name": "マルシモホームヘルプサービス",
+      "telephone": "03-5940-6048",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "豊島区",
-        "streetAddress": "北大塚1-12-15 協同興業北大塚ビル"
+        "streetAddress": "南大塚２－３１－１１共栄大塚ビル３階"
       },
-      "parentOrganization": "ウエルシアパートナーズ（株）",
-      "identifier": "1371602994",
-      "faxNumber": "03-5907-3821",
-      "_hours": "9:00〜17:30",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "北大塚",
-      "url": "https://www.welcia-partners.co.jp/",
-      "_days": [
-        "平日"
-      ],
-      "_tags": [
-        "北大塚エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "バリアフリーサポート巣鴨訪問介護事業所",
-      "telephone": "03-5961-3441",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "豊島区",
-        "streetAddress": "巣鴨2-4-2 岡田ビル705"
-      },
-      "parentOrganization": "（有）バリアフリー・サポート",
-      "identifier": "1371600873",
-      "faxNumber": "03-5961-3442",
-      "_hours": "9:00〜19:00",
-      "_closed": "年末年始",
-      "_town": "巣鴨",
+      "parentOrganization": "有限会社マルシモ",
+      "identifier": "1371601574",
+      "_town": "南大塚",
+      "url": "https://www.marushimo.co.jp",
       "_days": [
         "平日",
         "土曜日",
@@ -106,7 +288,140 @@
         "祝日"
       ],
       "_tags": [
-        "巣鴨エリア",
+        "南大塚エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "有限会社　寿晴介護サービス",
+      "telephone": "03-5961-3101",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "駒込４－８－９"
+      },
+      "parentOrganization": "有限会社　寿晴介護サービス",
+      "identifier": "1371601582",
+      "_town": "駒込",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "駒込エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアリッチ",
+      "telephone": "03-5396-9911",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "南池袋２－６－１２宮城ビル２Ｆ"
+      },
+      "parentOrganization": "株式会社ケアリッチ",
+      "identifier": "1371601780",
+      "_town": "南池袋",
+      "url": "http://www.carerich.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南池袋エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "サン・ケアセンター",
+      "telephone": "03-3918-3571",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "西巣鴨３－１５－１０ＵＫビル２０３"
+      },
+      "parentOrganization": "有限会社サン",
+      "identifier": "1371601954",
+      "_town": "西巣鴨",
+      "url": "http://www.sun-care.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "西巣鴨エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "さくら介護サービス豊島",
+      "telephone": "03-5391-1012",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "池袋３－１４－１６"
+      },
+      "parentOrganization": "有限会社さくら介護サービス",
+      "identifier": "1371601962",
+      "_town": "池袋",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "池袋エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "やすら木",
+      "telephone": "03-5952-7500",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "雑司が谷２－２２－１８－１Ｆ"
+      },
+      "parentOrganization": "特定非営利活動法人やすらぎ",
+      "identifier": "1371601970",
+      "_town": "雑司が谷",
+      "url": "https://yasuragi.lolipop.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "雑司が谷エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -120,13 +435,10 @@
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "豊島区",
-        "streetAddress": "池袋2-55-13 合田ビル1階"
+        "streetAddress": "池袋２－５５－１３合田ビル１階"
       },
-      "parentOrganization": "（株）アライブ",
+      "parentOrganization": "株式会社アライブ",
       "identifier": "1371602085",
-      "faxNumber": "03-5950-0232",
-      "_hours": "9:00〜18:30",
-      "_closed": "年末年始",
       "_town": "池袋",
       "url": "http://www.access-point.jp",
       "_days": [
@@ -143,22 +455,18 @@
     },
     {
       "@type": "LocalBusiness",
-      "name": "リラス訪問介護センター",
-      "telephone": "03-4550-1116",
+      "name": "有里サポート有限会社",
+      "telephone": "03-6909-3370",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "豊島区",
-        "streetAddress": "東池袋1-23-8 東池袋ＩＳＫビル7階"
+        "streetAddress": "西池袋４－３２－１ドミール太田１０１"
       },
-      "parentOrganization": "（株）フロンティア",
-      "identifier": "1371605732",
-      "faxNumber": "03-6629-6281",
-      "_hours": "9:00〜19:00",
-      "_closed": "年中無休",
-      "_town": "東池袋",
-      "url": "https://lilas-kaigo.com",
+      "parentOrganization": "有里サポート有限会社",
+      "identifier": "1371602101",
+      "_town": "西池袋",
       "_days": [
         "平日",
         "土曜日",
@@ -166,29 +474,26 @@
         "祝日"
       ],
       "_tags": [
-        "東池袋エリア",
+        "西池袋エリア",
         "日曜日も対応",
         "訪問介護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "ケアリッツ椎名町",
-      "telephone": "03-6908-3752",
+      "name": "ゆきわりそうこの町サービス",
+      "telephone": "03-3950-2004",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "豊島区",
-        "streetAddress": "南長崎2-5-2 コレクティフイリデッサン101"
+        "streetAddress": "南長崎６－１９－５ゆきわりそう１階"
       },
-      "parentOrganization": "（株）ケアリッツ・アンド・パートナーズ",
-      "identifier": "1371605856",
-      "faxNumber": "03-6908-3753",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
+      "parentOrganization": "社会福祉法人地球郷",
+      "identifier": "1371602267",
       "_town": "南長崎",
-      "url": "https://www.careritz.co.jp/station/branch/shiinamachi/",
+      "url": "http://www.yukiwari.org",
       "_days": [
         "平日",
         "土曜日",
@@ -203,181 +508,6 @@
     },
     {
       "@type": "LocalBusiness",
-      "name": "あい介護",
-      "telephone": "03-5981-8532",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "豊島区",
-        "streetAddress": "北大塚3-32-2 浅野ビル301"
-      },
-      "parentOrganization": "（株）あい介護",
-      "identifier": "1371705391",
-      "faxNumber": "03-5981-8532",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "北大塚",
-      "_days": [
-        "平日",
-        "祝日"
-      ],
-      "_tags": [
-        "北大塚エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "東池袋桑の実園ヘルパーステーション",
-      "telephone": "03-5810-3100",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "豊島区",
-        "streetAddress": "東池袋5-39-18"
-      },
-      "parentOrganization": "（社福）桑の実園福祉会",
-      "identifier": "1371606086",
-      "faxNumber": "03-5928-1361",
-      "_hours": "9:00〜18:00",
-      "_closed": "日・年末年始",
-      "_town": "東池袋",
-      "url": "https://www.kuwanomien.jp/",
-      "_days": [
-        "平日",
-        "土曜日",
-        "日曜日",
-        "祝日"
-      ],
-      "_tags": [
-        "東池袋エリア",
-        "日曜日も対応",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "西池袋ホームヘルプサービス",
-      "telephone": "03-5843-3360",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "豊島区",
-        "streetAddress": "西池袋3-33-6 ＳＨＫビル2階"
-      },
-      "parentOrganization": "（同）倭ケアサービス",
-      "identifier": "1371605427",
-      "faxNumber": "03-5843-3360",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・年末年始",
-      "_town": "西池袋",
-      "url": "https://care-net.biz/13/nishiike/",
-      "_days": [
-        "平日",
-        "土曜日",
-        "日曜日",
-        "祝日"
-      ],
-      "_tags": [
-        "西池袋エリア",
-        "日曜日も対応",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ラック訪問介護",
-      "telephone": "03-5953-5310",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "豊島区",
-        "streetAddress": "南大塚3-44-13 クレスト南大塚ビル602"
-      },
-      "parentOrganization": "（株）ラック・メディカルサービス",
-      "identifier": "1371605930",
-      "faxNumber": "03-3982-8150",
-      "_hours": "9:00〜18:00",
-      "_closed": "年中無休",
-      "_town": "南大塚",
-      "url": "http://apln.co.jp/care/",
-      "_days": [
-        "平日",
-        "土曜日",
-        "日曜日",
-        "祝日"
-      ],
-      "_tags": [
-        "南大塚エリア",
-        "日曜日も対応",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "いずみ介護センター",
-      "telephone": "03-5926-7722",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "豊島区",
-        "streetAddress": "西池袋4-28-10"
-      },
-      "parentOrganization": "（株）いずみ介護センター",
-      "identifier": "1371606177",
-      "faxNumber": "03-5926-7897",
-      "_hours": "9:00〜18:00",
-      "_closed": "日",
-      "_town": "西池袋",
-      "_days": [
-        "平日",
-        "土曜日",
-        "日曜日",
-        "祝日"
-      ],
-      "_tags": [
-        "西池袋エリア",
-        "日曜日も対応",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "おおきなき豊島",
-      "telephone": "03-5956-3630",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "豊島区",
-        "streetAddress": "南大塚3-51-2 大塚斉藤ビル201"
-      },
-      "parentOrganization": "（株）日本エルダリーケアサービス",
-      "identifier": "1371605625",
-      "faxNumber": "03-5956-3635",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "南大塚",
-      "url": "http://www.elderly.jp/",
-      "_days": [
-        "平日",
-        "土曜日",
-        "日曜日",
-        "祝日"
-      ],
-      "_tags": [
-        "南大塚エリア",
-        "日曜日も対応",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
       "name": "ケアフレンド豊島",
       "telephone": "03-5917-0186",
       "address": {
@@ -385,13 +515,10 @@
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "豊島区",
-        "streetAddress": "長崎2-4-9"
+        "streetAddress": "長崎２－４－９"
       },
-      "parentOrganization": "（有）ケアフレンド",
+      "parentOrganization": "有限会社ケアフレンド",
       "identifier": "1371602309",
-      "faxNumber": "03-5917-0189",
-      "_hours": "9:00〜18:00",
-      "_closed": "日・年末年始",
       "_town": "長崎",
       "url": "http://care-net.biz/13/c-friend/",
       "_days": [
@@ -408,21 +535,573 @@
     },
     {
       "@type": "LocalBusiness",
-      "name": "しずかヘルパーステーション",
-      "telephone": "03-6912-1929",
+      "name": "東京保健生活協同組合介護センター健生豊島",
+      "telephone": "03-5960-0838",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "豊島区",
-        "streetAddress": "南大塚1-46-18 ハイツタカノ105"
+        "streetAddress": "雑司が谷３－３－１７　２階"
       },
-      "parentOrganization": "（株）ＡｎｙｗｈｅｒｅＤｏｏｒ",
-      "identifier": "1371606185",
-      "faxNumber": "03-6912-1935",
-      "_hours": "24時間",
-      "_closed": "夏季・年末年始",
+      "parentOrganization": "東京保健生活協同組合",
+      "identifier": "1371602572",
+      "_town": "雑司が谷",
+      "url": "http://thoken.or.jp/kishibojin/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "雑司が谷エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアステーション　オープラス",
+      "telephone": "03-3972-2680",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "要町２－４－８　大恵ビル１Ｆ"
+      },
+      "parentOrganization": "有限会社オープラス",
+      "identifier": "1371602960",
+      "_town": "要町",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "要町エリア",
+        "土曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "さわやかケアポートとしま・訪問介護",
+      "telephone": "03-5907-4293",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "北大塚１－１２－１５協同興業北大塚ビル"
+      },
+      "parentOrganization": "ウエルシアパートナーズ株式会社",
+      "identifier": "1371602994",
+      "_town": "北大塚",
+      "url": "https://www.welcia-partners.co.jp/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "北大塚エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社　サン・キューブ",
+      "telephone": "03-3987-5439",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "南大塚３－２１－８鈴和南大塚マンション１０１"
+      },
+      "parentOrganization": "株式会社サン・キューブ",
+      "identifier": "1371603117",
       "_town": "南大塚",
+      "url": "https://care-net.biz/13/suncube/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南大塚エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "セントケア豊島",
+      "telephone": "03-5953-5030",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "東池袋３－２０－２１広宣ビル２階"
+      },
+      "parentOrganization": "セントケア東京株式会社",
+      "identifier": "1371603281",
+      "_town": "東池袋",
+      "url": "https://www.saint-care.com/tokyo/about/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "東池袋エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ソシオケアサービス",
+      "telephone": "03-5958-8828",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "西池袋２－３６－１ソフトタウン池袋８０２"
+      },
+      "parentOrganization": "ソシオ株式会社",
+      "identifier": "1371603356",
+      "_town": "西池袋",
+      "url": "http://care-net.biz/13/sosio/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "西池袋エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "わたぼうし",
+      "telephone": "03-6907-4306",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "池袋本町４－２８－１０"
+      },
+      "parentOrganization": "株式会社天使堂",
+      "identifier": "1371603448",
+      "_town": "池袋本町",
+      "url": "http://www.tenshidou.com/law.html",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "池袋本町エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "日介センター豊島",
+      "telephone": "03-5917-4009",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "要町１－２８－１　２階－Ａ"
+      },
+      "parentOrganization": "株式会社日本介護センター",
+      "identifier": "1371603521",
+      "_town": "要町",
+      "url": "http://www.nikkai-center.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "要町エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＡＬＳＯＫヘルパーステーション池袋",
+      "telephone": "03-5956-2066",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "池袋２－５５－１２セピア池袋Ⅱ705号"
+      },
+      "parentOrganization": "ＡＬＳＯＫ介護株式会社",
+      "identifier": "1371603653",
+      "_town": "池袋",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "池袋エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアリッツ池袋",
+      "telephone": "03-5985-7185",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "池袋３－５８－２１浅井ビル１Ｆ"
+      },
+      "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
+      "identifier": "1371603919",
+      "_town": "池袋",
+      "url": "https://www.careritz.co.jp/station/branch/ikebukuro/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "池袋エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ハート介護サービス豊島",
+      "telephone": "03-5988-7666",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "南長崎５－１０－１３コーポ五郎久保１０１"
+      },
+      "parentOrganization": "株式会社ハート介護サービス",
+      "identifier": "1371604008",
+      "_town": "南長崎",
+      "url": "https://www.heartkaigo.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南長崎エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "いずみ介護センター本町",
+      "telephone": "03-6410-6647",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "池袋本町４－１６－６"
+      },
+      "parentOrganization": "株式会社いずみ介護センター",
+      "identifier": "1371604461",
+      "_town": "池袋本町",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "池袋本町エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "本町まんぞく介護",
+      "telephone": "03-5954-9878",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "池袋本町１－４６－５　２Ｆ"
+      },
+      "parentOrganization": "株式会社まんぞく介護",
+      "identifier": "1371604628",
+      "_town": "池袋本町",
+      "url": "http://manzokukaigo.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "池袋本町エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問介護ステーションすずらん",
+      "telephone": "03-5926-9872",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "千早２－２８－４ドマーニ千早１０２号室"
+      },
+      "parentOrganization": "株式会社カインディア",
+      "identifier": "1371604883",
+      "_town": "千早",
+      "url": "https://kindear-suzuran.com/houmonkaigo",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "千早エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "エブリーサポート池袋",
+      "telephone": "03-5926-9187",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "要町２－２６－５メゾン池袋要町２０６"
+      },
+      "parentOrganization": "株式会社クレオズ",
+      "identifier": "1371605161",
+      "_town": "要町",
+      "url": "https://www.everyike.tokyo/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "要町エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ハート介護サービス池袋",
+      "telephone": "03-5810-2906",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "西池袋２－３６－１ソフトタウン池袋８１１"
+      },
+      "parentOrganization": "株式会社ハート介護サービス",
+      "identifier": "1371605252",
+      "_town": "西池袋",
+      "url": "http://www.heartkaigo.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "西池袋エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ほほえみケアサービス",
+      "telephone": "03-5927-8001",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "南池袋４－５－１"
+      },
+      "parentOrganization": "社会福祉法人櫻灯会",
+      "identifier": "1371605294",
+      "_town": "南池袋",
+      "url": "http://outoukai.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南池袋エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "合同会社　Ｋ．すずらん",
+      "telephone": "03-6914-2307",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "南池袋２－４１－１２"
+      },
+      "parentOrganization": "合同会社Ｋ．すずらん",
+      "identifier": "1371605344",
+      "_town": "南池袋",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "南池袋エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "西池袋ホームヘルプサービス",
+      "telephone": "03-5843-3360",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "西池袋３－３３－６ＳＨＫビル２階"
+      },
+      "parentOrganization": "合同会社倭ケアサービス",
+      "identifier": "1371605427",
+      "_town": "西池袋",
+      "url": "https://care-net.biz/13/nishiike/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "西池袋エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアリッツ大塚北",
+      "telephone": "03-6903-7709",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "北大塚３－３４－８マイハウス大塚１階"
+      },
+      "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
+      "identifier": "1371605500",
+      "_town": "北大塚",
+      "url": "https://www.careritz.co.jp/station/branch/otsukakita/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "北大塚エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＳＯＭＰＯケア　豊島　訪問介護",
+      "telephone": "03-5962-0195",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "東池袋５－４４－１５東信東池袋ビル４階"
+      },
+      "parentOrganization": "ＳＯＭＰＯケア株式会社",
+      "identifier": "1371605518",
+      "_town": "東池袋",
+      "url": "https://www.sompocare.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "東池袋エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "おおきなき豊島",
+      "telephone": "03-5956-3630",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "南大塚３－５１－２　大塚斉藤ビル２０１号室"
+      },
+      "parentOrganization": "株式会社日本エルダリーケアサービス",
+      "identifier": "1371605625",
+      "_town": "南大塚",
+      "url": "http://www.elderly.jp/",
       "_days": [
         "平日",
         "土曜日",
@@ -444,13 +1123,10 @@
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "豊島区",
-        "streetAddress": "東池袋3-15-2 ライオンズマンション池袋708"
+        "streetAddress": "東池袋３－１５－２ライオンズマンション池袋７０８号室"
       },
-      "parentOrganization": "（株）クレアフューチャー",
+      "parentOrganization": "株式会社クレアフューチャー",
       "identifier": "1371605641",
-      "faxNumber": "03-6385-7520",
-      "_hours": "9:00〜18:00",
-      "_closed": "年中無休",
       "_town": "東池袋",
       "url": "https://www.crea-future.co.jp/",
       "_days": [
@@ -467,21 +1143,19 @@
     },
     {
       "@type": "LocalBusiness",
-      "name": "訪問介護事業所ケアリス",
-      "telephone": "03-5980-8707",
+      "name": "訪問介護　あすなろ",
+      "telephone": "03-5981-9466",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "豊島区",
-        "streetAddress": "駒込2-7-16 シェルハウス駒込501"
+        "streetAddress": "東池袋１－３６－７アルテール東池袋４１７"
       },
-      "parentOrganization": "（株）ＥＺＡＫＩ",
-      "identifier": "1371606144",
-      "faxNumber": "03-5980-8708",
-      "_hours": "24時間",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "駒込",
+      "parentOrganization": "特定非営利活動法人あすなろの会",
+      "identifier": "1371605658",
+      "_town": "東池袋",
+      "url": "https://asunaro-kaigo.com",
       "_days": [
         "平日",
         "土曜日",
@@ -489,27 +1163,105 @@
         "祝日"
       ],
       "_tags": [
-        "駒込エリア",
+        "東池袋エリア",
         "日曜日も対応",
         "訪問介護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "ケア２１ 巣鴨",
+      "name": "リラス訪問介護センター",
+      "telephone": "03-4550-1116",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "東池袋１－２３－８東池袋ＩＳＫビル７階"
+      },
+      "parentOrganization": "株式会社フロンティア",
+      "identifier": "1371605732",
+      "_town": "東池袋",
+      "url": "https://lilas-kaigo.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "東池袋エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "よつばケアセンター",
+      "telephone": "03-5972-1483",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "巣鴨３－３１－２アルカディア篠Ｂ棟３０５"
+      },
+      "parentOrganization": "株式会社よつば",
+      "identifier": "1371605849",
+      "_town": "巣鴨",
+      "url": "https://fourleafclover.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "巣鴨エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアリッツ椎名町",
+      "telephone": "03-6908-3752",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "南長崎２－５－２コレクティフイリデッサン１０１"
+      },
+      "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
+      "identifier": "1371605856",
+      "_town": "南長崎",
+      "url": "https://www.careritz.co.jp/station/branch/shiinamachi/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南長崎エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケア２１　巣鴨",
       "telephone": "03-5940-0106",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "豊島区",
-        "streetAddress": "巣鴨1-24-3 小島ビル1階"
+        "streetAddress": "巣鴨１－２４－３　小島ビル１階"
       },
-      "parentOrganization": "（株）ケア２１",
+      "parentOrganization": "株式会社ケア２１",
       "identifier": "1371605880",
-      "faxNumber": "03-5940-0107",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
       "_town": "巣鴨",
       "_days": [
         "平日",
@@ -525,6 +1277,305 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ラック訪問介護",
+      "telephone": "03-5953-5310",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "南大塚３－４４－１３クレスト南大塚６０２"
+      },
+      "parentOrganization": "株式会社ラック・メディカルサービス",
+      "identifier": "1371605930",
+      "_town": "南大塚",
+      "url": "http://apln.co.jp/care/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南大塚エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアリッツ東池袋",
+      "telephone": "03-5944-9241",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "南池袋４－２０－９サンロードビル４０３"
+      },
+      "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
+      "identifier": "1371606045",
+      "_town": "南池袋",
+      "url": "https://www.careritz.co.jp/station/branch/higashiikebukuro/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南池袋エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "星月よ",
+      "telephone": "03-6338-0510",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "池袋２－５６－１－４０６号"
+      },
+      "parentOrganization": "星月よ合同会社",
+      "identifier": "1371606060",
+      "_town": "池袋",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "池袋エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "東池袋桑の実園ヘルパーステーション",
+      "telephone": "03-5810-3100",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "東池袋５－３９－１８"
+      },
+      "parentOrganization": "社会福祉法人桑の実園福祉会",
+      "identifier": "1371606086",
+      "_town": "東池袋",
+      "url": "https://www.kuwanomien.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "東池袋エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "幸歩",
+      "telephone": "03-6912-8562",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "東池袋３－１－４メゾンサンシャイン１２１９号室"
+      },
+      "parentOrganization": "株式会社歩歩",
+      "identifier": "1371606110",
+      "_town": "東池袋",
+      "url": "http://poppo.work",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "東池袋エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ユースタイルケア　豊島センター",
+      "telephone": "03-6823-4137",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "池袋本町３－２６－１２豊島ビル２０１"
+      },
+      "parentOrganization": "株式会社ｇｒｏｗｐｌａｃｅ",
+      "identifier": "1371606128",
+      "_town": "池袋本町",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "池袋本町エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問介護事業所ケアリス",
+      "telephone": "09057967859",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "駒込２－７－１６シェルハウス駒込５０１号"
+      },
+      "parentOrganization": "株式会社ＥＺＡＫＩ",
+      "identifier": "1371606144",
+      "_town": "駒込",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "駒込エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "いずみ介護センター",
+      "telephone": "03-5926-7897",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "西池袋４－２８－１０"
+      },
+      "parentOrganization": "株式会社いずみ介護センター",
+      "identifier": "1371606177",
+      "_town": "西池袋",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "西池袋エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "しずかヘルパーステーション",
+      "telephone": "03-6912-1929",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "南大塚１－４６－１８ハイツタカノ　１０５号"
+      },
+      "parentOrganization": "株式会社ＡｎｙｗｈｅｒｅＤｏｏｒ",
+      "identifier": "1371606185",
+      "_town": "南大塚",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南大塚エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ネコロボマン訪問介護巣鴨店",
+      "telephone": "03-6912-1677",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "巣鴨１－４０－４メゾン清水１０３"
+      },
+      "parentOrganization": "株式会社泰規",
+      "identifier": "1371606227",
+      "_town": "巣鴨",
+      "url": "http://www.necoroboman-taiki.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "巣鴨エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問介護東駿プランニング",
+      "telephone": "03-6915-2068",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "池袋本町１－３２－３エルファーロ池袋本町２０１"
+      },
+      "parentOrganization": "株式会社東駿プランニング",
+      "identifier": "1371606250",
+      "_town": "池袋本町",
+      "_tags": [
+        "池袋本町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ユースタイルケア　北東京　重度訪問介護",
+      "telephone": "05017298177",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "豊島区",
+        "streetAddress": "北大塚２－１７－４大塚キャリアビル５階"
+      },
+      "parentOrganization": "ユースタイルラボラトリー株式会社",
+      "identifier": "1371606268",
+      "_town": "北大塚",
+      "_tags": [
+        "北大塚エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "アースサポート豊島",
       "telephone": "03-5974-3400",
       "address": {
@@ -532,13 +1583,10 @@
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "豊島区",
-        "streetAddress": "上池袋1-7-7"
+        "streetAddress": "上池袋１－７－７"
       },
-      "parentOrganization": "アースサポート（株）",
+      "parentOrganization": "アースサポート株式会社",
       "identifier": "1371700392",
-      "faxNumber": "03-5974-3211",
-      "_hours": "8:30〜17:30",
-      "_closed": "年中無休",
       "_town": "上池袋",
       "url": "http://www.earthsupport.co.jp",
       "_days": [
@@ -552,63 +1600,6 @@
         "日曜日も対応",
         "訪問介護"
       ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ケアステーション オープラス",
-      "telephone": "03-3972-2680",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "豊島区",
-        "streetAddress": "要町2-4-8 大恵ビル1階"
-      },
-      "parentOrganization": "（有）オープラス",
-      "identifier": "1371602960",
-      "faxNumber": "03-3972-2681",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "要町",
-      "_days": [
-        "平日",
-        "土曜日",
-        "祝日"
-      ],
-      "_tags": [
-        "要町エリア",
-        "土曜日も対応",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "アミカ池袋介護センター",
-      "telephone": "03-5956-2066",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "豊島区",
-        "streetAddress": "池袋2-55-12 セピア池袋Ⅱ-705"
-      },
-      "parentOrganization": "ＡＬＳＯＫ介護（株）",
-      "identifier": "1371603653",
-      "faxNumber": "03-3985-6313",
-      "_hours": "8:30〜17:30",
-      "_closed": "土・日・年末年始",
-      "_town": "池袋",
-      "_days": [
-        "平日",
-        "土曜日",
-        "日曜日",
-        "祝日"
-      ],
-      "_tags": [
-        "池袋エリア",
-        "日曜日も対応",
-        "訪問介護"
-      ]
     }
   ],
   "faq": [
@@ -618,7 +1609,7 @@
     },
     {
       "q": "豊島区には訪問介護事業所が何件ありますか？",
-      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で豊島区内に63件の訪問介護事業所が指定を受けています。本ページではそのうち20件を連絡先つきで掲載しています。全件は厚生労働省「介護サービス情報公表システム」で確認できます。"
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で豊島区内に63件の訪問介護事業所が指定を受けています。本ページではそのうち60件を連絡先つきで掲載しています。全件は厚生労働省「介護サービス情報公表システム」で確認できます。"
     },
     {
       "q": "豊島区の担当窓口は、どうやって調べればいいですか？",
@@ -626,7 +1617,7 @@
     },
     {
       "q": "豊島区の掲載事業所は、どこを見て絞り込めばいいですか？",
-      "a": "上の内訳表が目安になります。日曜にもヘルパーに来てほしい場合は17件、土曜まででよければ18件が対象です。そのうえで、ご自宅の町名を伝えて対応エリアに入っているかを確認するのが確実です。曜日はサービスを提供する日で、事務所の電話がつながる時間帯とは別です。"
+      "a": "上の内訳表が目安になります。日曜にもヘルパーに来てほしい場合は52件、土曜まででよければ55件が対象です。そのうえで、ご自宅の町名を伝えて対応エリアに入っているかを確認するのが確実です。曜日はサービスを提供する日で、事務所の電話がつながる時間帯とは別です。"
     },
     {
       "q": "訪問介護の自己負担はいくらくらいですか？",
@@ -634,12 +1625,12 @@
     },
     {
       "q": "豊島区の事業所は、途中で変更できますか？",
-      "a": "変更できます。担当のケアマネジャーに相談すれば、ケアプランを見直したうえで豊島区内の別の訪問介護事業所に切り替えられます。豊島区は掲載20件・区内63件と候補があるので、相性やシフトの都合で変更する方は珍しくありません。"
+      "a": "変更できます。担当のケアマネジャーに相談すれば、ケアプランを見直したうえで豊島区内の別の訪問介護事業所に切り替えられます。豊島区は掲載60件・区内63件と候補があるので、相性やシフトの都合で変更する方は珍しくありません。"
     }
   ],
-  "related": "<a href=\"{{ROOT}}takuhai-bento/tokyo/toshima/\">豊島区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}koreisha-chintai/tokyo/toshima/\">豊島区の高齢者可賃貸<small>断られない部屋探し</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/toshima/\">豊島区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/toshima/\">豊島区のデイサービス<small>通所介護</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/toshima/\">豊島区の見守りサービス<small>ひとり暮らしの安否確認</small></a>\n      <a href=\"{{ROOT}}kaigo-taxi/tokyo/toshima/\">豊島区の介護タクシー<small>通院・外出の送迎</small></a>",
-  "nearby_heading": "近隣エリアの訪問介護",
-  "nearby": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/shinjuku/\">新宿区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/bunkyo/\">文京区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/kita/\">北区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/itabashi/\">板橋区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/nerima/\">練馬区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/nakano/\">中野区</a>",
+  "related": "<a href=\"{{ROOT}}houmon-kango/tokyo/toshima/\">豊島区の訪問看護<small>医療ケアが必要な方へ・区内45件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/toshima/\">豊島区のデイサービス<small>日帰りで通う・区内17件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/toshima/\">豊島区のショートステイ<small>数日あずける・区内11件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/toshima/\">豊島区の福祉用具<small>借りる・買う・区内14件</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/toshima/\">豊島区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/toshima/\">豊島区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "東京23区から訪問介護を探す",
+  "nearby": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/chiyoda/\">千代田区<small>22件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/chuo/\">中央区<small>38件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/minato/\">港区<small>70件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/shinjuku/\">新宿区<small>88件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/bunkyo/\">文京区<small>33件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/taito/\">台東区<small>59件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/sumida/\">墨田区<small>64件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/koto/\">江東区<small>77件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/shinagawa/\">品川区<small>55件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/meguro/\">目黒区<small>52件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/ota/\">大田区<small>138件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/setagaya/\">世田谷区<small>237件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/shibuya/\">渋谷区<small>48件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/nakano/\">中野区<small>77件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/suginami/\">杉並区<small>143件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/kita/\">北区<small>93件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/arakawa/\">荒川区<small>54件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/itabashi/\">板橋区<small>158件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/nerima/\">練馬区<small>203件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/adachi/\">足立区<small>213件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/katsushika/\">葛飾区<small>153件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/edogawa/\">江戸川区<small>154件</small></a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
     "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／サービス提供日・公式サイト）",
@@ -647,6 +1638,8 @@
     "豊島区「要介護・要支援認定の申請からサービス利用までの流れ」",
     "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」訪問介護費（令和6年度改定）／介護報酬の地域区分（1級地・1単位11.40円）",
     "日本郵便 郵便番号データにもとづく豊島区の町域一覧",
+    "東京都総務局統計部「住民基本台帳による東京都の世帯と人口」（令和8年1月1日現在／年齢3区分別人口・5歳階級別人口）",
+    "東京都福祉局「介護保険事業状況報告（月報）」令和8年6月分（保険者別・第1号被保険者数／要介護認定者数）",
     "区内事業所数：東京都公表の指定事業所一覧にもとづく実数（2026年9月1日時点）"
   ],
   "sidebar": "<div class=\"side cta-side\">\n        <h4>どこに相談すればいい？</h4>\n        <p>介護がはじめての方は、まず地域の相談窓口へ。無料で手続きを案内してもらえます。</p>\n        <a class=\"btn\" href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方を見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>豊島区内の訪問介護事業所は63件</li>\n          <li>豊島区は1級地（1単位11.40円）</li>\n          <li>身体介護30分未満で約278円（1割）</li>\n          <li>最初の相談は高齢者総合相談センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/caremanager/\">ケアマネジャーの選び方</a></li>\n          <li><a href=\"{{ROOT}}guide/kubun-shikyu-gendo/\">区分支給限度基準額とは</a></li>\n          <li><a href=\"{{ROOT}}guide/jihi-service/\">介護保険外サービスの相場</a></li>\n        </ul>\n      </div>",

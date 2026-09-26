@@ -16,6 +16,10 @@
    "closed": "",
    "designated": "2024-08-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://kagakul-arakawa.jp/",
    "days": [
     "平日"
@@ -34,6 +38,10 @@
    "closed": "",
    "designated": "2025-06-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "days": [
     "平日"
    ],
@@ -51,6 +59,10 @@
    "closed": "",
    "designated": "2008-08-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://www.tsubasa-kango.com/",
    "days": [
     "平日"
@@ -58,6 +70,29 @@
    "capacity": 60,
    "lat": "35.750044643370700",
    "lng": "139.756923796650680"
+  },
+  {
+   "name": "磯医院訪問看護ステーション",
+   "identifier": "1361890047",
+   "org": "医療法人財団源会",
+   "address": "東京都荒川区南千住５－９－１",
+   "tel": "03-5615-2760",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2009-06-01",
+   "org_kind": "医療法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "http://iso-hp.or.jp",
+   "days": [
+    "平日",
+    "土曜日"
+   ],
+   "lat": "35.733427900000000",
+   "lng": "139.794118400000000"
   },
   {
    "name": "訪問看護ステーション　てんとうむし",
@@ -70,6 +105,10 @@
    "closed": "",
    "designated": "2015-09-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "http://www.houkan-tentoumushi.com/",
    "days": [
     "平日",
@@ -89,6 +128,10 @@
    "closed": "",
    "designated": "2015-10-01",
    "org_kind": "医療法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "http://www.penguin-nurse.jp",
    "days": [
     "平日"
@@ -96,6 +139,28 @@
    "capacity": 120,
    "lat": "35.737481282291180",
    "lng": "139.807608436384600"
+  },
+  {
+   "name": "アーム看護ステーション",
+   "identifier": "1361890138",
+   "org": "株式会社じーぷろーど",
+   "address": "東京都荒川区荒川３－６８－６菅又ビル１階",
+   "tel": "03-6806-7495",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2018-06-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "days": [
+    "平日",
+    "土曜日"
+   ],
+   "lat": "35.735535200000000",
+   "lng": "139.777741800000060"
   },
   {
    "name": "天使の翼訪問看護",
@@ -108,6 +173,10 @@
    "closed": "",
    "designated": "2018-08-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "days": [
     "平日",
     "土曜日",
@@ -127,7 +196,11 @@
    "hours": "",
    "closed": "",
    "designated": "2018-10-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ]
   },
   {
    "name": "あしすと訪問看護ステーション",
@@ -140,11 +213,40 @@
    "closed": "",
    "designated": "2020-05-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "days": [
     "平日"
    ],
    "lat": "35.730644812518560",
    "lng": "139.789680978048700"
+  },
+  {
+   "name": "ハレノヒ訪問看護リハビリステーション",
+   "identifier": "1361890252",
+   "org": "株式会社Ｆｕｋｕｉｋｕ",
+   "address": "東京都荒川区東日暮里１－１７－４",
+   "tel": "03-5604-5940",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2023-04-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "https://www.harenohihoukan.com",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "lat": "35.730333599999994",
+   "lng": "139.789799800000030"
   },
   {
    "name": "アンドライフ訪問看護ステーション日暮里",
@@ -157,6 +259,10 @@
    "closed": "",
    "designated": "2023-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://e-and-life.com/",
    "days": [
     "平日",
@@ -179,6 +285,10 @@
    "closed": "",
    "designated": "2023-06-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "days": [
     "平日",
     "土曜日",
@@ -188,6 +298,28 @@
    "capacity": 20,
    "lat": "35.728312200000005",
    "lng": "139.783600300000000"
+  },
+  {
+   "name": "ＮＳ－ＭＥＮ　ＦＡＳＴ",
+   "identifier": "1361890286",
+   "org": "株式会社ナスメン",
+   "address": "東京都荒川区西日暮里２－４９－５－４０１号室",
+   "tel": "03-5604-5971",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2023-06-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "https://www.nsmen-inc.com/",
+   "days": [
+    "平日"
+   ],
+   "lat": "35.730946100000000",
+   "lng": "139.769780600000000"
   },
   {
    "name": "訪問看護ファミリー・ホスピス荒川",
@@ -200,6 +332,10 @@
    "closed": "",
    "designated": "2023-07-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "days": [
     "平日",
     "土曜日",
@@ -220,6 +356,10 @@
    "closed": "",
    "designated": "2024-01-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "days": [
     "平日"
    ],
@@ -238,6 +378,10 @@
    "closed": "",
    "designated": "2024-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "days": [
     "平日",
     "土曜日",
@@ -247,6 +391,31 @@
    "capacity": 50,
    "lat": "35.749685700000000",
    "lng": "139.767532200000000"
+  },
+  {
+   "name": "訪問看護ステーション　ホームケア荒川",
+   "identifier": "1361890336",
+   "org": "株式会社ミレニア",
+   "address": "東京都荒川区東日暮里５－４５－１２いかるがビル５０３号室",
+   "tel": "03-5615-1212",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2024-06-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "http://www.millennia-corporation.jp",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "lat": "35.728402400000000",
+   "lng": "139.774613100000000"
   },
   {
    "name": "訪問看護ステーション　デライト荒川",
@@ -259,6 +428,10 @@
    "closed": "",
    "designated": "2024-06-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://hokan-delight.jp/",
    "days": [
     "平日",
@@ -280,12 +453,39 @@
    "closed": "",
    "designated": "2024-08-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://kiramekihoukan.com/",
    "days": [
     "平日"
    ],
    "lat": "35.728722203497110",
    "lng": "139.771865886892070"
+  },
+  {
+   "name": "あいず訪問看護ステーション日暮里",
+   "identifier": "1361890369",
+   "org": "株式会社あいず",
+   "address": "東京都荒川区東日暮里５－４３－３プリメーラ１Ｆ",
+   "tel": "03-5604-9197",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2024-09-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "https://www.aizu-company.co.jp",
+   "days": [
+    "平日"
+   ],
+   "capacity": 50,
+   "lat": "35.727612100000016",
+   "lng": "139.774530600000000"
   },
   {
    "name": "訪問看護ステーションスマイルリンク",
@@ -298,6 +498,10 @@
    "closed": "",
    "designated": "2025-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://houmonkaigo-smilelink.com/",
    "days": [
     "平日"
@@ -315,7 +519,11 @@
    "hours": "",
    "closed": "",
    "designated": "2026-06-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ]
   },
   {
    "name": "訪問看護ステーションオリーブ",
@@ -327,7 +535,33 @@
    "hours": "",
    "closed": "",
    "designated": "2026-08-01",
-   "org_kind": "医療法人"
+   "org_kind": "医療法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ]
+  },
+  {
+   "name": "荒川区医師会訪問看護ステーション",
+   "identifier": "1367191224",
+   "org": "一般社団法人荒川区医師会",
+   "address": "東京都荒川区西日暮里６－５－３",
+   "tel": "03-3893-2321",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2000-04-01",
+   "org_kind": "社団・財団",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "http://arakawa-med.or.jp/",
+   "days": [
+    "平日"
+   ],
+   "lat": "35.737423600000000",
+   "lng": "139.772808800000000"
   },
   {
    "name": "社会医療法人社団一成会　訪問看護ステーションみどり",
@@ -340,6 +574,10 @@
    "closed": "",
    "designated": "2000-04-01",
    "org_kind": "医療法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "http://www.kimura-hp.or.jp/",
    "days": [
     "平日",
@@ -359,12 +597,41 @@
    "closed": "",
    "designated": "2005-05-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "http://www.best-kaigo.com",
    "days": [
     "平日"
    ],
    "lat": "35.736554200399150",
    "lng": "139.772657564843060"
+  },
+  {
+   "name": "スイート・ハート訪問看護ステーション",
+   "identifier": "1367197791",
+   "org": "有限会社　てぃーら",
+   "address": "東京都荒川区東日暮里５－５０－１７アネックスＭ301",
+   "tel": "03-5604-1554",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2005-05-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "http://www.sweet-hearts.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "lat": "35.728296800000000",
+   "lng": "139.772973099999940"
   }
  ],
  "towns": [
@@ -401,5 +668,5 @@
  "service": "訪問看護",
  "fetched": "2026-09-22",
  "source2": "厚生労働省「介護サービス情報公表システム」オープンデータ",
- "mhlw_hit": 17
+ "mhlw_hit": 25
 }

@@ -12,19 +12,19 @@
     "city_name": "中野区"
   },
   "seo": {
-    "title": "中野区のデイサービス20事業所｜送迎と費用の見方【2026年9月更新】",
-    "description": "東京都中野区の通所介護（デイサービス）事業所20件を連絡先つきで掲載。区内25件の中から選ぶための所在町域・運営法人・開設年数の内訳と、1級地での自己負担、見学で聞くことをまとめました。",
+    "title": "中野区のデイサービス25事業所｜送迎と費用の見方【2026年9月更新】",
+    "description": "東京都中野区の通所介護（デイサービス）事業所25件を連絡先つきで掲載。区内25件の中から選ぶための所在町域・運営法人・開設年数の内訳と、1級地での自己負担、見学で聞くことをまとめました。",
     "canonical": "https://kaigonotonari.com/day-service/tokyo/nakano/",
     "og_title": "中野区のデイサービス一覧｜送迎範囲と費用の見方",
-    "og_description": "中野区の通所介護事業所20件を掲載。送迎範囲・入浴設備・開設年数から選ぶ順番と、保険外費用を含めた費用の見方を解説します。",
+    "og_description": "中野区の通所介護事業所25件を掲載。送迎範囲・入浴設備・開設年数から選ぶ順番と、保険外費用を含めた費用の見方を解説します。",
     "og_image": "https://kaigonotonari.com/assets/ogp-day-service.jpg"
   },
   "h1": "中野区のデイサービス一覧｜送迎範囲と費用の見方",
   "published": "2026-09-22",
   "modified": "2026-09-22",
-  "count_label": "掲載：20事業所",
-  "lead": "東京都中野区で通所介護（デイサービス）を探している方へ。東京都の指定を受けた25件から20件を連絡先つきで掲載し、所在町域・運営法人・開設からの年数の内訳と、1級地での自己負担をまとめました。デイサービスでいちばん多い壁は<strong>本人が行きたがらないこと</strong>です。選ぶ順番は近い順ではなく、通い続けられる条件の順になります。",
-  "listing_note": "中野区内の通所介護事業所から20件を掲載しています（東京都公表・2026年9月1日時点）。区内には25件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。定員18人以下の地域密着型通所介護は区が指定するため、この一覧には含まれていません。掲載順は事業所の優劣を示すものではありません。",
+  "count_label": "掲載：25事業所",
+  "lead": "東京都中野区で通所介護（デイサービス）を探している方へ。東京都の指定を受けた25件から25件を連絡先つきで掲載し、所在町域・運営法人・開設からの年数の内訳と、1級地での自己負担をまとめました。デイサービスでいちばん多い壁は<strong>本人が行きたがらないこと</strong>です。選ぶ順番は近い順ではなく、通い続けられる条件の順になります。",
+  "listing_note": "中野区内の通所介護事業所から25件を掲載しています（東京都公表・2026年9月1日時点）。区内には25件が指定を受けており、そのすべてを掲載しています。定員18人以下の地域密着型通所介護は区が指定するため、この一覧には含まれていません。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
@@ -141,6 +141,37 @@
       ],
       "_tags": [
         "上高田エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アスケア　デイサービスセンター野方",
+      "telephone": "05033177073",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "野方６－５３－８"
+      },
+      "parentOrganization": "株式会社ＡＳＣａｒｅ",
+      "identifier": "1371401371",
+      "_town": "野方",
+      "_kind": "営利法人",
+      "_designated": "2003-01-01",
+      "_years": 23.72347707049966,
+      "url": "https://www.asahi-sun-clean.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 31,
+      "_tags": [
+        "野方エリア",
         "土曜日も営業",
         "20年以上",
         "デイサービス"
@@ -271,6 +302,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "デイサービスセンター　江古田の森",
+      "telephone": "03-5318-3711",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "江古田３－１４－１９"
+      },
+      "parentOrganization": "社会福祉法人南東北福祉事業団",
+      "identifier": "1371402858",
+      "_town": "江古田",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2007-04-01",
+      "_years": 19.477070499657767,
+      "url": "http://www.kaigo-egota.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 45,
+      "_tags": [
+        "江古田エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ヒューマンライフケア薬師の湯",
       "telephone": "03-5913-1071",
       "address": {
@@ -383,6 +444,35 @@
       "_capacity": 35,
       "_tags": [
         "江原町エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ゆめふる白鷺店",
+      "telephone": "050-1753-8195",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "白鷺２－６－２４"
+      },
+      "parentOrganization": "株式会社やさしい手",
+      "identifier": "1371404979",
+      "_town": "白鷺",
+      "_kind": "営利法人",
+      "_designated": "2015-04-01",
+      "_years": 11.477070499657769,
+      "url": "https://search.yasashiite.com/detail/tsusyokaigo_shirasagi/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "白鷺エリア",
         "土曜日も営業",
         "デイサービス"
       ]
@@ -505,6 +595,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ベストリハ中野若宮",
+      "telephone": "03-5327-8610",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "若宮３－６－９丸正都立家政ビル１階"
+      },
+      "parentOrganization": "ベストリハ株式会社",
+      "identifier": "1371406040",
+      "_town": "若宮",
+      "_kind": "営利法人",
+      "_designated": "2020-09-01",
+      "_years": 6.056125941136208,
+      "url": "https://bestreha.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 33,
+      "_tags": [
+        "若宮エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "奉優デイサービス中野",
       "telephone": "03-6304-8570",
       "address": {
@@ -616,6 +736,33 @@
         "開設3年以内",
         "デイサービス"
       ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービス　サザンヒルズ",
+      "telephone": "03-6382-4330",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "中野区",
+        "streetAddress": "南台２－３０－１１サザンヒルズ壱番館１０２号"
+      },
+      "parentOrganization": "Ｔｏｌｌｙ合同会社",
+      "identifier": "1371406420",
+      "_town": "南台",
+      "_kind": "営利法人",
+      "_designated": "2025-02-01",
+      "_years": 1.6372347707049966,
+      "url": "https://southern-hills-2.jimdosite.com/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "南台エリア",
+        "開設3年以内",
+        "デイサービス"
+      ]
     }
   ],
   "faq": [
@@ -625,11 +772,11 @@
     },
     {
       "q": "中野区にデイサービスは何件ありますか？",
-      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で中野区内に25件の通所介護事業所が指定を受けています。本ページではそのうち20件を連絡先つきで掲載しています。なお定員18人以下の地域密着型通所介護は区が指定するため、この件数には含まれていません。"
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で中野区内に25件の通所介護事業所が指定を受けています。本ページではそのうち25件を連絡先つきで掲載しています。なお定員18人以下の地域密着型通所介護は区が指定するため、この件数には含まれていません。"
     },
     {
       "q": "中野区の掲載事業所は、どこを見て絞り込めばいいですか？",
-      "a": "まず送迎範囲に自宅が入るかで絞り、次に入浴設備（個浴か機械浴か）で絞るのが順番です。中野区の掲載20件では営利法人が12件と最も多く、指定から20年以上の事業所も7件あります。長く続いているところは空きが出にくい一方、新しいところは空きがあります。"
+      "a": "まず送迎範囲に自宅が入るかで絞り、次に入浴設備（個浴か機械浴か）で絞るのが順番です。中野区の掲載25件では営利法人が16件と最も多く、指定から20年以上の事業所も8件あります。長く続いているところは空きが出にくい一方、新しいところは空きがあります。"
     },
     {
       "q": "中野区で自己負担はいくらくらいですか？",
@@ -637,22 +784,24 @@
     },
     {
       "q": "本人が中野区のデイサービスに行きたがりません。",
-      "a": "まず体験利用を試してください。中野区内には25件あり、掲載20件を見ても営利法人が12件と偏りがあるように、規模も雰囲気も事業所ごとに違います。合わない理由別の対処（個浴のある事業所、小規模な事業所など）はデイサービスのしくみのページにまとめました。中野区でも週1回から始めて、慣れてから増やすのが定石です。"
+      "a": "まず体験利用を試してください。中野区内には25件あり、掲載25件を見ても営利法人が16件と偏りがあるように、規模も雰囲気も事業所ごとに違います。合わない理由別の対処（個浴のある事業所、小規模な事業所など）はデイサービスのしくみのページにまとめました。中野区でも週1回から始めて、慣れてから増やすのが定石です。"
     },
     {
       "q": "中野区の事業所は、途中で変更できますか？",
       "a": "変更できます。ケアマネジャーに相談すればケアプランを見直したうえで中野区内の別の事業所に切り替えられます。中野区は区内25件と候補があるので、合わずに変える方は珍しくありません。"
     }
   ],
-  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/nakano/\">中野区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/nakano/\">中野区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/nakano/\">中野区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/nakano/\">中野区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/nakano/\">中野区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/nakano/\">中野区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
-  "nearby_heading": "近隣エリアのデイサービス",
-  "nearby": "<a href=\"{{ROOT}}day-service/tokyo/shinjuku/\">新宿区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/shibuya/\">渋谷区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/setagaya/\">世田谷区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/suginami/\">杉並区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/nerima/\">練馬区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/toshima/\">豊島区</a>",
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/nakano/\">中野区の訪問介護<small>自宅に来てもらう・区内77件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/nakano/\">中野区の訪問看護<small>医療ケアが必要な方へ・区内35件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/nakano/\">中野区のショートステイ<small>数日あずける・区内12件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/nakano/\">中野区の福祉用具<small>借りる・買う・区内15件</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/nakano/\">中野区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/nakano/\">中野区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "東京23区からデイサービスを探す",
+  "nearby": "<a href=\"{{ROOT}}day-service/tokyo/chiyoda/\">千代田区<small>3件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/chuo/\">中央区<small>13件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/minato/\">港区<small>17件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/shinjuku/\">新宿区<small>27件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/bunkyo/\">文京区<small>18件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/taito/\">台東区<small>18件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/sumida/\">墨田区<small>36件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/koto/\">江東区<small>52件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/shinagawa/\">品川区<small>30件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/meguro/\">目黒区<small>24件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/ota/\">大田区<small>83件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/setagaya/\">世田谷区<small>99件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/shibuya/\">渋谷区<small>15件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/suginami/\">杉並区<small>44件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/toshima/\">豊島区<small>17件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/kita/\">北区<small>46件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/arakawa/\">荒川区<small>31件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/itabashi/\">板橋区<small>70件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/nerima/\">練馬区<small>80件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/adachi/\">足立区<small>107件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/katsushika/\">葛飾区<small>71件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/edogawa/\">江戸川区<small>81件</small></a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
     "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／定員・営業曜日・公式サイト）",
     "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」通所介護費（令和6年度改定）／介護報酬の地域区分（1級地・1単位11.40円）",
     "中野区「地域包括支援センター一覧」",
-    "日本郵便 郵便番号データにもとづく中野区の町域一覧"
+    "日本郵便 郵便番号データにもとづく中野区の町域一覧",
+    "東京都総務局統計部「住民基本台帳による東京都の世帯と人口」（令和8年1月1日現在／年齢3区分別人口・5歳階級別人口）",
+    "東京都福祉局「介護保険事業状況報告（月報）」令和8年6月分（保険者別・第1号被保険者数／要介護認定者数）"
   ],
   "sidebar": "<div class=\"side cta-side\">\n        <h4>まず体験利用を</h4>\n        <p>合うかどうかは見学だけでは分かりません。制度と費用はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}day-service/\">デイサービスのしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>中野区内の通所介護は25件（都指定）</li>\n          <li>7〜8時間・要介護1で約750円（1割）</li>\n          <li>食費などは全額自己負担</li>\n          <li>入口はケアマネか地域包括支援センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}day-service/\">デイサービスのしくみ</a></li>\n          <li><a href=\"{{ROOT}}short-stay/\">ショートステイ</a></li>\n        </ul>\n      </div>",
   "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",

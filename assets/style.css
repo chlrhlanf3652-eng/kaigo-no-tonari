@@ -111,6 +111,10 @@ details[open] summary{border-bottom:1px solid var(--line)}
 .lg a{display:block;border:1px solid var(--line);border-radius:8px;padding:11px 14px;text-decoration:none;color:var(--ink);font-size:15px;background:#fff}
 .lg a:hover{border-color:var(--c);background:var(--c-ll)}
 .lg small{display:block;color:var(--ink2);font-size:12.5px}
+/* 23区グリッド。項目数が多いので1枚あたりを小さくする */
+.lg.tight{grid-template-columns:repeat(auto-fill,minmax(124px,1fr));gap:7px}
+.lg.tight a{padding:8px 10px;font-size:14px}
+.lg.tight small{font-size:12px}
 /* sources */
 .src{background:var(--bg);border-radius:var(--r);padding:16px 20px;font-size:13.5px;color:var(--ink2);margin:30px 0 0}
 .src ul{margin:6px 0 0;padding-left:1.2em}

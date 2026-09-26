@@ -12,19 +12,19 @@
     "city_name": "板橋区"
   },
   "seo": {
-    "title": "板橋区のデイサービス20事業所｜送迎と費用の見方【2026年9月更新】",
-    "description": "東京都板橋区の通所介護（デイサービス）事業所20件を連絡先つきで掲載。区内70件の中から選ぶための所在町域・運営法人・開設年数の内訳と、1級地での自己負担、見学で聞くことをまとめました。",
+    "title": "板橋区のデイサービス60事業所｜送迎と費用の見方【2026年9月更新】",
+    "description": "東京都板橋区の通所介護（デイサービス）事業所60件を連絡先つきで掲載。区内70件の中から選ぶための所在町域・運営法人・開設年数の内訳と、1級地での自己負担、見学で聞くことをまとめました。",
     "canonical": "https://kaigonotonari.com/day-service/tokyo/itabashi/",
     "og_title": "板橋区のデイサービス一覧｜送迎範囲と費用の見方",
-    "og_description": "板橋区の通所介護事業所20件を掲載。送迎範囲・入浴設備・開設年数から選ぶ順番と、保険外費用を含めた費用の見方を解説します。",
+    "og_description": "板橋区の通所介護事業所60件を掲載。送迎範囲・入浴設備・開設年数から選ぶ順番と、保険外費用を含めた費用の見方を解説します。",
     "og_image": "https://kaigonotonari.com/assets/ogp-day-service.jpg"
   },
   "h1": "板橋区のデイサービス一覧｜送迎範囲と費用の見方",
   "published": "2026-09-22",
   "modified": "2026-09-22",
-  "count_label": "掲載：20事業所",
-  "lead": "東京都板橋区で通所介護（デイサービス）を探している方へ。東京都の指定を受けた70件から20件を連絡先つきで掲載し、所在町域・運営法人・開設からの年数の内訳と、1級地での自己負担をまとめました。デイサービスでいちばん多い壁は<strong>本人が行きたがらないこと</strong>です。選ぶ順番は近い順ではなく、通い続けられる条件の順になります。",
-  "listing_note": "板橋区内の通所介護事業所から20件を掲載しています（東京都公表・2026年9月1日時点）。区内には70件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。定員18人以下の地域密着型通所介護は区が指定するため、この一覧には含まれていません。掲載順は事業所の優劣を示すものではありません。",
+  "count_label": "掲載：60事業所",
+  "lead": "東京都板橋区で通所介護（デイサービス）を探している方へ。東京都の指定を受けた70件から60件を連絡先つきで掲載し、所在町域・運営法人・開設からの年数の内訳と、1級地での自己負担をまとめました。デイサービスでいちばん多い壁は<strong>本人が行きたがらないこと</strong>です。選ぶ順番は近い順ではなく、通い続けられる条件の順になります。",
+  "listing_note": "板橋区内の通所介護事業所から60件を掲載しています（東京都公表・2026年9月1日時点）。区内には70件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。定員18人以下の地域密着型通所介護は区が指定するため、この一覧には含まれていません。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
@@ -59,6 +59,67 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "いずみの苑通所介護事業所",
+      "telephone": "03-5970-9105",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "東坂下２－２－２２"
+      },
+      "parentOrganization": "社会福祉法人東京援護協会",
+      "identifier": "1371900976",
+      "_town": "東坂下",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-02-01",
+      "_years": 26.639288158795345,
+      "url": "http://www.tokyoengokyokai.or.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 35,
+      "_tags": [
+        "東坂下エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "こもね在宅サービスセンター",
+      "telephone": "03-3959-7421",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "小茂根４－１１－１１"
+      },
+      "parentOrganization": "社会福祉法人小茂根の郷",
+      "identifier": "1371901297",
+      "_town": "小茂根",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-03-01",
+      "_years": 26.559890485968516,
+      "url": "http://www.komonenosato.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "小茂根エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "音羽台高齢者在宅サービスセンター",
       "telephone": "03-3939-0291",
       "address": {
@@ -81,6 +142,68 @@
         "祝日"
       ],
       "_capacity": 35,
+      "_tags": [
+        "成増エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "若木ライフ",
+      "telephone": "03-3933-3900",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "若木一丁目２１番３号"
+      },
+      "parentOrganization": "社会福祉法人信隆会",
+      "identifier": "1371901990",
+      "_town": "若木",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-05-01",
+      "_years": 26.392881587953458,
+      "url": "https://shinryukai.org/wakagilife/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 23,
+      "_tags": [
+        "若木エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアタウン成増",
+      "telephone": "03-3939-0763",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "成増４－１４－１８"
+      },
+      "parentOrganization": "社会福祉法人みその福祉会",
+      "identifier": "1371902535",
+      "_town": "成増",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2001-04-01",
+      "_years": 25.475701574264203,
+      "url": "http://www.misono-fukushikai.or.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 50,
       "_tags": [
         "成増エリア",
         "土曜日も営業",
@@ -122,6 +245,68 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "デイサービスセンター　マイライフ徳丸",
+      "telephone": "03-3933-1091",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "徳丸３－３２－２８"
+      },
+      "parentOrganization": "社会福祉法人北野会",
+      "identifier": "1371903533",
+      "_town": "徳丸",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2003-04-01",
+      "_years": 23.477070499657767,
+      "url": "http://kitanokai.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 35,
+      "_tags": [
+        "徳丸エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社ケアサービス　デイサービスセンター　仲町",
+      "telephone": "03-5986-0860",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "仲町２７－４"
+      },
+      "parentOrganization": "株式会社ケアサービス",
+      "identifier": "1371903590",
+      "_town": "仲町",
+      "_kind": "営利法人",
+      "_designated": "2003-05-01",
+      "_years": 23.394934976043807,
+      "url": "https://www.care.co.jp/office/ds_nakachou",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 38,
+      "_tags": [
+        "仲町エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ツクイ板橋四葉",
       "telephone": "03-5904-0727",
       "address": {
@@ -147,6 +332,66 @@
       "_tags": [
         "四葉エリア",
         "日曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスビオラ",
+      "telephone": "03-3960-1269",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "前野町３－３６－１０"
+      },
+      "parentOrganization": "医療法人財団朔望会",
+      "identifier": "1371904127",
+      "_town": "前野町",
+      "_kind": "医療法人",
+      "_designated": "2004-06-01",
+      "_years": 22.308008213552363,
+      "url": "http://www.tshnet.or.jp/ccvi/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "前野町エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社ケアサービス　デイサービスセンター蓮根",
+      "telephone": "03-5914-6776",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "坂下３－１１－１１"
+      },
+      "parentOrganization": "株式会社ケアサービス",
+      "identifier": "1371904218",
+      "_town": "坂下",
+      "_kind": "営利法人",
+      "_designated": "2004-08-01",
+      "_years": 22.140999315537304,
+      "url": "http://www.care.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "坂下エリア",
+        "土曜日も営業",
         "20年以上",
         "デイサービス"
       ]
@@ -185,6 +430,66 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "仲町高齢者在宅サービスセンター",
+      "telephone": "03-5966-7001",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "仲町２０－５"
+      },
+      "parentOrganization": "社会福祉法人奉優会",
+      "identifier": "1371905389",
+      "_town": "仲町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2006-04-01",
+      "_years": 20.476386036960985,
+      "url": "https://www.foryou.or.jp/corp2/nakachouday/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 180,
+      "_tags": [
+        "仲町エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "医療法人社団健育会　ケアセンターけやき",
+      "telephone": "03-5922-6322",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "桜川２－１０－７"
+      },
+      "parentOrganization": "医療法人社団健育会",
+      "identifier": "1371905926",
+      "_town": "桜川",
+      "_kind": "医療法人",
+      "_designated": "2007-06-01",
+      "_years": 19.310061601642712,
+      "url": "http://www.takekawa.gr.jp/keyaki",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "桜川エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "カルチャー倶楽部志村",
       "telephone": "03-6914-1699",
       "address": {
@@ -215,6 +520,66 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "株式会社ケアサービス　デイサービスセンター幸町",
+      "telephone": "03-5986-2002",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "幸町４８－５"
+      },
+      "parentOrganization": "株式会社ケアサービス",
+      "identifier": "1371906429",
+      "_town": "幸町",
+      "_kind": "営利法人",
+      "_designated": "2008-12-01",
+      "_years": 17.806981519507186,
+      "url": "http://www.care.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 30,
+      "_tags": [
+        "幸町エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンター友の里板橋",
+      "telephone": "03-5944-3486",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "板橋２－６５－１０恵和会サービスセンタービル３Ｆ"
+      },
+      "parentOrganization": "株式会社ティーシーエス",
+      "identifier": "1371906577",
+      "_town": "板橋",
+      "_kind": "営利法人",
+      "_designated": "2009-05-01",
+      "_years": 17.39356605065024,
+      "url": "http://www.total-care-servise.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "板橋エリア",
+        "日曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "健遊館　志村大黒湯",
       "telephone": "03-5915-6355",
       "address": {
@@ -239,6 +604,58 @@
       "_capacity": 34,
       "_tags": [
         "志村エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ニチイケアセンター赤塚",
+      "telephone": "03-5968-5130",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "赤塚１－１８－８"
+      },
+      "parentOrganization": "株式会社ニチイ学館",
+      "identifier": "1371906700",
+      "_town": "赤塚",
+      "_kind": "営利法人",
+      "_designated": "2009-10-01",
+      "_years": 16.974674880219027,
+      "_tags": [
+        "赤塚エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヒューマンライフケア小松湯",
+      "telephone": "03-5917-9126",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "南常盤台２－９－２コーポ小松"
+      },
+      "parentOrganization": "ヒューマンライフケア株式会社",
+      "identifier": "1371906965",
+      "_town": "南常盤台",
+      "_kind": "営利法人",
+      "_designated": "2010-07-01",
+      "_years": 16.227241615331966,
+      "url": "http://www.athuman.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 30,
+      "_tags": [
+        "南常盤台エリア",
         "土曜日も営業",
         "デイサービス"
       ]
@@ -275,6 +692,67 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "デイサービスひまわりⅣ見次",
+      "telephone": "03-5914-5050",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "前野町３－４４－２"
+      },
+      "parentOrganization": "株式会社ひまわりサービス",
+      "identifier": "1371907773",
+      "_town": "前野町",
+      "_kind": "営利法人",
+      "_designated": "2012-01-01",
+      "_years": 14.72416153319644,
+      "url": "http://www.himawariservice.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 35,
+      "_tags": [
+        "前野町エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あずさわの里デイサービスセンター",
+      "telephone": "03-5970-5300",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "小豆沢４－１４－３"
+      },
+      "parentOrganization": "社会福祉法人相愛福祉会",
+      "identifier": "1371907989",
+      "_town": "小豆沢",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2012-06-01",
+      "_years": 14.30800821355236,
+      "url": "http://www.kawatsuru-g.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_capacity": 43,
+      "_tags": [
+        "小豆沢エリア",
+        "日曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "デイサービス　ソラストときわ台",
       "telephone": "03-5914-6273",
       "address": {
@@ -299,6 +777,66 @@
       "_capacity": 10,
       "_tags": [
         "前野町エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ジョイリハ板橋大山",
+      "telephone": "03-5964-5336",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "大山金井町３９－１５"
+      },
+      "parentOrganization": "株式会社ヤマウチ",
+      "identifier": "1371908177",
+      "_town": "大山金井町",
+      "_kind": "営利法人",
+      "_designated": "2012-09-01",
+      "_years": 14.056125941136209,
+      "url": "http://www.joyreha.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 30,
+      "_tags": [
+        "大山金井町エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービス　夢楽　志村坂下",
+      "telephone": "03-5948-7291",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "坂下１－２１－１２プライムコート志村１Ｆ"
+      },
+      "parentOrganization": "株式会社我喜大笑",
+      "identifier": "1371908995",
+      "_town": "坂下",
+      "_kind": "営利法人",
+      "_designated": "2014-01-01",
+      "_years": 12.722792607802875,
+      "url": "http://www.yumeraku.net/simura/index.html",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 35,
+      "_tags": [
+        "坂下エリア",
         "土曜日も営業",
         "デイサービス"
       ]
@@ -335,6 +873,63 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "リハビリセンター　ゴルディロックス",
+      "telephone": "03-5926-5415",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "小茂根２－４－１３サンケイコーポ２０１号室"
+      },
+      "parentOrganization": "株式会社ゴルディロックス",
+      "identifier": "1371909100",
+      "_town": "小茂根",
+      "_kind": "営利法人",
+      "_designated": "2014-04-01",
+      "_years": 12.476386036960985,
+      "url": "https://goldirocks.co.jp/",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "小茂根エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ゆめふる上板橋店",
+      "telephone": "05017538199",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "上板橋１－１２－２"
+      },
+      "parentOrganization": "株式会社やさしい手",
+      "identifier": "1371909340",
+      "_town": "上板橋",
+      "_kind": "営利法人",
+      "_designated": "2014-09-01",
+      "_years": 12.057494866529774,
+      "url": "http://www.yasashiite.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 30,
+      "_tags": [
+        "上板橋エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "クローバーのさと　デイサービス　カウピリ板橋",
       "telephone": "03-3957-1098",
       "address": {
@@ -359,6 +954,66 @@
       "_capacity": 49,
       "_tags": [
         "仲町エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アズハイムテラス成増",
+      "telephone": "03-3939-1870",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "成増１－２－３"
+      },
+      "parentOrganization": "株式会社アズパートナーズ",
+      "identifier": "1371909670",
+      "_town": "成増",
+      "_kind": "営利法人",
+      "_designated": "2015-05-01",
+      "_years": 11.394934976043805,
+      "url": "http://www.as-heim.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 40,
+      "_tags": [
+        "成増エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンター　こころ",
+      "telephone": "03-6905-8188",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "大谷口北町２－８－１０１"
+      },
+      "parentOrganization": "株式会社ベスト・ケアー",
+      "identifier": "1371909860",
+      "_town": "大谷口北町",
+      "_kind": "営利法人",
+      "_designated": "2015-08-01",
+      "_years": 11.143052703627653,
+      "url": "http://www.bestcare-kaigo.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 30,
+      "_tags": [
+        "大谷口北町エリア",
         "土曜日も営業",
         "デイサービス"
       ]
@@ -395,6 +1050,67 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "三園の里デイサービスセンター",
+      "telephone": "03-5967-1140",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "三園２－１５－２２"
+      },
+      "parentOrganization": "社会福祉法人相愛福祉会",
+      "identifier": "1371909951",
+      "_town": "三園",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2015-12-01",
+      "_years": 10.809034907597535,
+      "url": "http://www.kawatsuru-g.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_capacity": 30,
+      "_tags": [
+        "三園エリア",
+        "日曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンターなごやか志村",
+      "telephone": "03-5922-3340",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "志村３－１４－８"
+      },
+      "parentOrganization": "なごやかケアリンク株式会社",
+      "identifier": "1371910199",
+      "_town": "志村",
+      "_kind": "営利法人",
+      "_designated": "2016-06-01",
+      "_years": 10.30800821355236,
+      "url": "http://www.nagoyaka-link.co.jp/club/shimura/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 32,
+      "_tags": [
+        "志村エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ゆめの園　りふれ若葉デイサービスセンター",
       "telephone": "03-3935-5780",
       "address": {
@@ -417,6 +1133,66 @@
       ],
       "_tags": [
         "若木エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービス　ヨウコー板橋",
+      "telephone": "03-5943-2930",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "板橋１－１０－１４"
+      },
+      "parentOrganization": "株式会社ヨウコーフォレスト竹の塚",
+      "identifier": "1371910462",
+      "_town": "板橋",
+      "_kind": "営利法人",
+      "_designated": "2016-12-01",
+      "_years": 9.806981519507186,
+      "url": "http://rehabili-youko.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "板橋エリア",
+        "日曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "かがやきデイサービス板橋",
+      "telephone": "03-6909-7274",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "徳丸５－３－１１"
+      },
+      "parentOrganization": "株式会社やまねメディカル",
+      "identifier": "1371910538",
+      "_town": "徳丸",
+      "_kind": "営利法人",
+      "_designated": "2017-03-01",
+      "_years": 9.560574948665298,
+      "url": "http://www.ymmd.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 56,
+      "_tags": [
+        "徳丸エリア",
+        "土曜日も営業",
         "デイサービス"
       ]
     },
@@ -445,6 +1221,64 @@
       "_capacity": 20,
       "_tags": [
         "清水町エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "パナソニック　エイジフリーケアセンター板橋大山西町・デイサービス",
+      "telephone": "03-5986-7055",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "大山西町４１－１"
+      },
+      "parentOrganization": "パナソニックエイジフリー株式会社",
+      "identifier": "1371910728",
+      "_town": "大山西町",
+      "_kind": "営利法人",
+      "_designated": "2017-11-01",
+      "_years": 8.889801505817934,
+      "url": "https://panasonic.co.jp/es/pesaf/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "大山西町エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アズハイム赤塚デイサービスセンター",
+      "telephone": "03-3939-1156",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "赤塚８－１４－１０"
+      },
+      "parentOrganization": "株式会社アズパートナーズ",
+      "identifier": "1371910736",
+      "_town": "赤塚",
+      "_kind": "営利法人",
+      "_designated": "2017-12-01",
+      "_years": 8.80766598220397,
+      "url": "http://www.as-heim.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "赤塚エリア",
         "土曜日も営業",
         "デイサービス"
       ]
@@ -481,6 +1315,62 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "Ｌｅｔ’ｓリハ！板橋みなみ常盤台",
+      "telephone": "03-5926-8591",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "南常盤台２－２１－５アプリーレ南常盤台１階"
+      },
+      "parentOrganization": "株式会社桜十字",
+      "identifier": "1371911247",
+      "_town": "南常盤台",
+      "_kind": "営利法人",
+      "_designated": "2019-03-01",
+      "_years": 7.561943874058864,
+      "url": "https://www.sakurajyuji.or.jp/service/dayservice/",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "南常盤台エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイホームゆりの木板橋",
+      "telephone": "03-5375-3560",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "清水町７９－２パールハイツ１階"
+      },
+      "parentOrganization": "株式会社日本エルダリーケアサービス",
+      "identifier": "1371911296",
+      "_town": "清水町",
+      "_kind": "営利法人",
+      "_designated": "2019-04-01",
+      "_years": 7.477070499657769,
+      "url": "http://elderly.jp/yurinoki/home/itabashi/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "清水町エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ＳＷＩＴＣＨ板橋",
       "telephone": "03-5916-0760",
       "address": {
@@ -504,6 +1394,64 @@
       "_capacity": 21,
       "_tags": [
         "東坂下エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "グリーンデイ板橋向原",
+      "telephone": "03-6909-4423",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "向原２－３５－２遠州屋ビル１Ｆ"
+      },
+      "parentOrganization": "介護ジャパン株式会社",
+      "identifier": "1371911445",
+      "_town": "向原",
+      "_kind": "営利法人",
+      "_designated": "2019-09-01",
+      "_years": 7.058179329226557,
+      "url": "https://kaigojapan.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "向原エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンター　ケアサポートいたばし",
+      "telephone": "03-5968-1765",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "高島平７－１１－４"
+      },
+      "parentOrganization": "ケアサポート株式会社",
+      "identifier": "1371911536",
+      "_town": "高島平",
+      "_kind": "営利法人",
+      "_designated": "2020-02-01",
+      "_years": 6.639288158795345,
+      "url": "https://www.care-support.biz/facillties/itabashi/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "高島平エリア",
         "土曜日も営業",
         "デイサービス"
       ]
@@ -537,6 +1485,63 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "コンパスウォーク蓮根",
+      "telephone": "03-5918-9418",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "坂下２－１１－１１"
+      },
+      "parentOrganization": "株式会社ケイティー",
+      "identifier": "1371911668",
+      "_town": "坂下",
+      "_kind": "営利法人",
+      "_designated": "2020-06-01",
+      "_years": 6.308008213552362,
+      "url": "https://kinoukaifuku.com/?p=3205",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "坂下エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ベストリハ板橋大山",
+      "telephone": "03-6915-5772",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "大山東町１７－７ロイヤル大山　１０２号室"
+      },
+      "parentOrganization": "ベストリハ株式会社",
+      "identifier": "1371911718",
+      "_town": "大山東町",
+      "_kind": "営利法人",
+      "_designated": "2020-09-01",
+      "_years": 6.056125941136208,
+      "url": "https://bestreha.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 25,
+      "_tags": [
+        "大山東町エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "みんなのリハビリデイサービス",
       "telephone": "03-5986-1465",
       "address": {
@@ -558,6 +1563,60 @@
       ],
       "_tags": [
         "小茂根エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "オリオンデイサービス",
+      "telephone": "03-6915-5251",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "清水町３８－１０アクアⅡ３階"
+      },
+      "parentOrganization": "株式会社ヒコボシ",
+      "identifier": "1371912203",
+      "_town": "清水町",
+      "_kind": "営利法人",
+      "_designated": "2023-03-01",
+      "_years": 3.561943874058864,
+      "url": "https://www.orion-ds.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "清水町エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "こすもすリハビリデイサービス",
+      "telephone": "03-5968-4266",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "高島平７－４３－１７内田コーポ１０３"
+      },
+      "parentOrganization": "株式会社ネクストリーム",
+      "identifier": "1371912229",
+      "_town": "高島平",
+      "_kind": "営利法人",
+      "_designated": "2023-04-01",
+      "_years": 3.477070499657769,
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "高島平エリア",
         "デイサービス"
       ]
     },
@@ -590,6 +1649,61 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ウェルビスタ　ケアスタジオ　板橋富士見町",
+      "telephone": "03-5248-7791",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "富士見町１７－１６メルヴェーユイイダ富士見町１階"
+      },
+      "parentOrganization": "株式会社ＳＯＹＯＫＡＺＥ",
+      "identifier": "1371912310",
+      "_town": "富士見町",
+      "_kind": "営利法人",
+      "_designated": "2023-08-01",
+      "_years": 3.143052703627652,
+      "url": "https://www.sykz.co.jp/shisetsu-zaitaku/134781",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "富士見町エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "リハビリデイサービス　いろは",
+      "telephone": "09017300408",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "前野町３－６－１０"
+      },
+      "parentOrganization": "株式会社エムエクセレント",
+      "identifier": "1371912492",
+      "_town": "前野町",
+      "_kind": "営利法人",
+      "_designated": "2024-08-01",
+      "_years": 2.1409993155373033,
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "前野町エリア",
+        "土曜日も営業",
+        "開設3年以内",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "百花リハビリデイサービス",
       "telephone": "03-6904-3813",
       "address": {
@@ -613,6 +1727,60 @@
         "開設3年以内",
         "デイサービス"
       ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "リハビリデイサービスｎａｇｏｍｉプラスときわ台店",
+      "telephone": "03-5918-9730",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "常盤台３－２９－１７"
+      },
+      "parentOrganization": "株式会社ｎＣＳ",
+      "identifier": "1371912583",
+      "_town": "常盤台",
+      "_kind": "営利法人",
+      "_designated": "2025-04-01",
+      "_years": 1.4757015742642026,
+      "url": "https://ncs.my-nagomi.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 100,
+      "_tags": [
+        "常盤台エリア",
+        "土曜日も営業",
+        "開設3年以内",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "みなみデイサービス小茂根",
+      "telephone": "03-5926-7611",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "小茂根２－２－３小茂根さつきハイム１階"
+      },
+      "parentOrganization": "株式会社維新ネット",
+      "identifier": "1371912864",
+      "_town": "小茂根",
+      "_kind": "営利法人",
+      "_designated": "2026-08-01",
+      "_years": 0.14236824093086928,
+      "_tags": [
+        "小茂根エリア",
+        "開設3年以内",
+        "デイサービス"
+      ]
     }
   ],
   "faq": [
@@ -622,11 +1790,11 @@
     },
     {
       "q": "板橋区にデイサービスは何件ありますか？",
-      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で板橋区内に70件の通所介護事業所が指定を受けています。本ページではそのうち20件を連絡先つきで掲載しています。なお定員18人以下の地域密着型通所介護は区が指定するため、この件数には含まれていません。"
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で板橋区内に70件の通所介護事業所が指定を受けています。本ページではそのうち60件を連絡先つきで掲載しています。なお定員18人以下の地域密着型通所介護は区が指定するため、この件数には含まれていません。"
     },
     {
       "q": "板橋区の掲載事業所は、どこを見て絞り込めばいいですか？",
-      "a": "まず送迎範囲に自宅が入るかで絞り、次に入浴設備（個浴か機械浴か）で絞るのが順番です。板橋区の掲載20件では営利法人が16件と最も多く、指定から20年以上の事業所も5件あります。長く続いているところは空きが出にくい一方、新しいところは空きがあります。"
+      "a": "まず送迎範囲に自宅が入るかで絞り、次に入浴設備（個浴か機械浴か）で絞るのが順番です。板橋区の掲載60件では営利法人が46件と最も多く、指定から20年以上の事業所も14件あります。長く続いているところは空きが出にくい一方、新しいところは空きがあります。"
     },
     {
       "q": "板橋区で自己負担はいくらくらいですか？",
@@ -634,22 +1802,24 @@
     },
     {
       "q": "本人が板橋区のデイサービスに行きたがりません。",
-      "a": "まず体験利用を試してください。板橋区内には70件あり、掲載20件を見ても営利法人が16件と偏りがあるように、規模も雰囲気も事業所ごとに違います。合わない理由別の対処（個浴のある事業所、小規模な事業所など）はデイサービスのしくみのページにまとめました。板橋区でも週1回から始めて、慣れてから増やすのが定石です。"
+      "a": "まず体験利用を試してください。板橋区内には70件あり、掲載60件を見ても営利法人が46件と偏りがあるように、規模も雰囲気も事業所ごとに違います。合わない理由別の対処（個浴のある事業所、小規模な事業所など）はデイサービスのしくみのページにまとめました。板橋区でも週1回から始めて、慣れてから増やすのが定石です。"
     },
     {
       "q": "板橋区の事業所は、途中で変更できますか？",
       "a": "変更できます。ケアマネジャーに相談すればケアプランを見直したうえで板橋区内の別の事業所に切り替えられます。板橋区は区内70件と候補があるので、合わずに変える方は珍しくありません。"
     }
   ],
-  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/itabashi/\">板橋区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/itabashi/\">板橋区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/itabashi/\">板橋区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/itabashi/\">板橋区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/itabashi/\">板橋区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/itabashi/\">板橋区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
-  "nearby_heading": "近隣エリアのデイサービス",
-  "nearby": "<a href=\"{{ROOT}}day-service/tokyo/nerima/\">練馬区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/kita/\">北区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/toshima/\">豊島区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/adachi/\">足立区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/shinjuku/\">新宿区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/bunkyo/\">文京区</a>",
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/itabashi/\">板橋区の訪問介護<small>自宅に来てもらう・区内158件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/itabashi/\">板橋区の訪問看護<small>医療ケアが必要な方へ・区内89件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/itabashi/\">板橋区のショートステイ<small>数日あずける・区内24件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/itabashi/\">板橋区の福祉用具<small>借りる・買う・区内27件</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/itabashi/\">板橋区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/itabashi/\">板橋区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "東京23区からデイサービスを探す",
+  "nearby": "<a href=\"{{ROOT}}day-service/tokyo/chiyoda/\">千代田区<small>3件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/chuo/\">中央区<small>13件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/minato/\">港区<small>17件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/shinjuku/\">新宿区<small>27件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/bunkyo/\">文京区<small>18件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/taito/\">台東区<small>18件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/sumida/\">墨田区<small>36件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/koto/\">江東区<small>52件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/shinagawa/\">品川区<small>30件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/meguro/\">目黒区<small>24件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/ota/\">大田区<small>83件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/setagaya/\">世田谷区<small>99件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/shibuya/\">渋谷区<small>15件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/nakano/\">中野区<small>25件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/suginami/\">杉並区<small>44件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/toshima/\">豊島区<small>17件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/kita/\">北区<small>46件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/arakawa/\">荒川区<small>31件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/nerima/\">練馬区<small>80件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/adachi/\">足立区<small>107件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/katsushika/\">葛飾区<small>71件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/edogawa/\">江戸川区<small>81件</small></a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
     "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／定員・営業曜日・公式サイト）",
     "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」通所介護費（令和6年度改定）／介護報酬の地域区分（1級地・1単位11.40円）",
     "板橋区「おとしより相談センター一覧」",
-    "日本郵便 郵便番号データにもとづく板橋区の町域一覧"
+    "日本郵便 郵便番号データにもとづく板橋区の町域一覧",
+    "東京都総務局統計部「住民基本台帳による東京都の世帯と人口」（令和8年1月1日現在／年齢3区分別人口・5歳階級別人口）",
+    "東京都福祉局「介護保険事業状況報告（月報）」令和8年6月分（保険者別・第1号被保険者数／要介護認定者数）"
   ],
   "sidebar": "<div class=\"side cta-side\">\n        <h4>まず体験利用を</h4>\n        <p>合うかどうかは見学だけでは分かりません。制度と費用はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}day-service/\">デイサービスのしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>板橋区内の通所介護は70件（都指定）</li>\n          <li>7〜8時間・要介護1で約750円（1割）</li>\n          <li>食費などは全額自己負担</li>\n          <li>入口はケアマネかおとしより相談センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}day-service/\">デイサービスのしくみ</a></li>\n          <li><a href=\"{{ROOT}}short-stay/\">ショートステイ</a></li>\n        </ul>\n      </div>",
   "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",

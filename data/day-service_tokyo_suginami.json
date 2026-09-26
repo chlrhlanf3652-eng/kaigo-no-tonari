@@ -12,19 +12,19 @@
     "city_name": "杉並区"
   },
   "seo": {
-    "title": "杉並区のデイサービス20事業所｜送迎と費用の見方【2026年9月更新】",
-    "description": "東京都杉並区の通所介護（デイサービス）事業所20件を連絡先つきで掲載。区内44件の中から選ぶための所在町域・運営法人・開設年数の内訳と、1級地での自己負担、見学で聞くことをまとめました。",
+    "title": "杉並区のデイサービス44事業所｜送迎と費用の見方【2026年9月更新】",
+    "description": "東京都杉並区の通所介護（デイサービス）事業所44件を連絡先つきで掲載。区内44件の中から選ぶための所在町域・運営法人・開設年数の内訳と、1級地での自己負担、見学で聞くことをまとめました。",
     "canonical": "https://kaigonotonari.com/day-service/tokyo/suginami/",
     "og_title": "杉並区のデイサービス一覧｜送迎範囲と費用の見方",
-    "og_description": "杉並区の通所介護事業所20件を掲載。送迎範囲・入浴設備・開設年数から選ぶ順番と、保険外費用を含めた費用の見方を解説します。",
+    "og_description": "杉並区の通所介護事業所44件を掲載。送迎範囲・入浴設備・開設年数から選ぶ順番と、保険外費用を含めた費用の見方を解説します。",
     "og_image": "https://kaigonotonari.com/assets/ogp-day-service.jpg"
   },
   "h1": "杉並区のデイサービス一覧｜送迎範囲と費用の見方",
   "published": "2026-09-22",
   "modified": "2026-09-22",
-  "count_label": "掲載：20事業所",
-  "lead": "東京都杉並区で通所介護（デイサービス）を探している方へ。東京都の指定を受けた44件から20件を連絡先つきで掲載し、所在町域・運営法人・開設からの年数の内訳と、1級地での自己負担をまとめました。デイサービスでいちばん多い壁は<strong>本人が行きたがらないこと</strong>です。選ぶ順番は近い順ではなく、通い続けられる条件の順になります。",
-  "listing_note": "杉並区内の通所介護事業所から20件を掲載しています（東京都公表・2026年9月1日時点）。区内には44件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。定員18人以下の地域密着型通所介護は区が指定するため、この一覧には含まれていません。掲載順は事業所の優劣を示すものではありません。",
+  "count_label": "掲載：44事業所",
+  "lead": "東京都杉並区で通所介護（デイサービス）を探している方へ。東京都の指定を受けた44件から44件を連絡先つきで掲載し、所在町域・運営法人・開設からの年数の内訳と、1級地での自己負担をまとめました。デイサービスでいちばん多い壁は<strong>本人が行きたがらないこと</strong>です。選ぶ順番は近い順ではなく、通い続けられる条件の順になります。",
+  "listing_note": "杉並区内の通所介護事業所から44件を掲載しています（東京都公表・2026年9月1日時点）。区内には44件が指定を受けており、そのすべてを掲載しています。定員18人以下の地域密着型通所介護は区が指定するため、この一覧には含まれていません。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
@@ -59,6 +59,37 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "デイサービス太陽",
+      "telephone": "03-6762-3333",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "西荻南４－２７－８"
+      },
+      "parentOrganization": "有限会社メディカル・ケア・サービス山中",
+      "identifier": "1371502020",
+      "_town": "西荻南",
+      "_kind": "営利法人",
+      "_designated": "2002-09-01",
+      "_years": 24.057494866529773,
+      "url": "http://mcsyamanaka.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "西荻南エリア",
+        "日曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "デイサービス　ヨウコー阿佐ヶ谷",
       "telephone": "03-5397-2825",
       "address": {
@@ -83,6 +114,37 @@
       "_capacity": 40,
       "_tags": [
         "成田東エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社　ケアサービス　デイサービスセンター方南町",
+      "telephone": "03-5307-6361",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "方南２－１２－２６"
+      },
+      "parentOrganization": "株式会社ケアサービス",
+      "identifier": "1371502707",
+      "_town": "方南",
+      "_kind": "営利法人",
+      "_designated": "2003-12-01",
+      "_years": 22.809034907597535,
+      "url": "http://www.care.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 32,
+      "_tags": [
+        "方南エリア",
         "土曜日も営業",
         "20年以上",
         "デイサービス"
@@ -121,6 +183,37 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "高齢者在宅サービスセンター和泉ふれあいの家",
+      "telephone": "03-3321-4808",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "和泉４－４０－３１"
+      },
+      "parentOrganization": "社会福祉法人サンフレンズ",
+      "identifier": "1371503051",
+      "_town": "和泉",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2004-04-01",
+      "_years": 22.47501711156742,
+      "url": "https://www.3friends.or.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 40,
+      "_tags": [
+        "和泉エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "高齢者在宅サービスセンター　松ノ木ふれあいの家",
       "telephone": "03-3318-2660",
       "address": {
@@ -152,6 +245,35 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ＮＰＯ法人デイサービスセンター夢の飛行船",
+      "telephone": "03-3315-8686",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "高円寺南３－４８－５"
+      },
+      "parentOrganization": "特定非営利活動法人福祉開発機構",
+      "identifier": "1371503838",
+      "_town": "高円寺南",
+      "_kind": "非営利法人（NPO）",
+      "_designated": "2005-06-01",
+      "_years": 21.308692676249144,
+      "url": "http://yumenohikousen.jp",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "高円寺南エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "デイサービス　ウェルファー",
       "telephone": "03-3311-0070",
       "address": {
@@ -174,6 +296,67 @@
       ],
       "_tags": [
         "堀ノ内エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンターしもいぐさ正吉苑",
+      "telephone": "03-3390-8074",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "下井草４－２３－１１"
+      },
+      "parentOrganization": "社会福祉法人正吉福祉会",
+      "identifier": "1371504216",
+      "_town": "下井草",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2006-04-01",
+      "_years": 20.476386036960985,
+      "url": "http://www.shoukichi.org/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 5,
+      "_tags": [
+        "下井草エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "高齢者在宅サービスセンター松渓ふれあいの家",
+      "telephone": "03-5347-1178",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "荻窪２－３－１"
+      },
+      "parentOrganization": "特定非営利活動法人生きがいの会",
+      "identifier": "1371504232",
+      "_town": "荻窪",
+      "_kind": "非営利法人（NPO）",
+      "_designated": "2006-04-01",
+      "_years": 20.476386036960985,
+      "url": "https://npo-ikigai.webnode.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "荻窪エリア",
+        "土曜日も営業",
         "20年以上",
         "デイサービス"
       ]
@@ -211,6 +394,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "デイホームにんじん・荻窪ふれあいの家",
+      "telephone": "03-3220-9637",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "荻窪２－２９－３"
+      },
+      "parentOrganization": "社会福祉法人にんじんの会",
+      "identifier": "1371504794",
+      "_town": "荻窪",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2007-04-01",
+      "_years": 19.477070499657767,
+      "url": "http://www.ninjin.or.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 30,
+      "_tags": [
+        "荻窪エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "デイホーム宮前ふれあいの家",
       "telephone": "03-3335-8161",
       "address": {
@@ -234,6 +447,35 @@
       ],
       "_tags": [
         "宮前エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "エンジョイ音楽デイサービスひばり高円寺",
+      "telephone": "03-5377-3588",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "高円寺南１－２２－２０クレッセント東高円寺１０２号室"
+      },
+      "parentOrganization": "株式会社ひばりケア",
+      "identifier": "1371505593",
+      "_town": "高円寺南",
+      "_kind": "営利法人",
+      "_designated": "2009-05-01",
+      "_years": 17.39356605065024,
+      "url": "http://hibari-care.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "高円寺南エリア",
         "土曜日も営業",
         "デイサービス"
       ]
@@ -269,6 +511,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "株式会社ケアサービス　デイサービスセンター久我山",
+      "telephone": "03-5336-6580",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "久我山５－２４－３０"
+      },
+      "parentOrganization": "株式会社ケアサービス",
+      "identifier": "1371505866",
+      "_town": "久我山",
+      "_kind": "営利法人",
+      "_designated": "2010-02-01",
+      "_years": 16.637919233401778,
+      "url": "http://www.care.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 33,
+      "_tags": [
+        "久我山エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "株式会社ケアサービス　デイサービスセンター和泉",
       "telephone": "03-5355-6338",
       "address": {
@@ -293,6 +565,36 @@
       "_capacity": 33,
       "_tags": [
         "和泉エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "せらび荻窪",
+      "telephone": "03-3301-6541",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "今川４－８－８"
+      },
+      "parentOrganization": "株式会社ソラスト",
+      "identifier": "1371506021",
+      "_town": "今川",
+      "_kind": "営利法人",
+      "_designated": "2010-06-01",
+      "_years": 16.309377138945926,
+      "url": "https://solasto-kaigo.com/service/dayservice/ogikubo",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 47,
+      "_tags": [
+        "今川エリア",
         "土曜日も営業",
         "デイサービス"
       ]
@@ -330,6 +632,65 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "デイサービス　ヨウコー高井戸",
+      "telephone": "03-5336-8301",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "高井戸西１－２－１０"
+      },
+      "parentOrganization": "株式会社ヨウコーアソシエイツ",
+      "identifier": "1371507284",
+      "_town": "高井戸西",
+      "_kind": "営利法人",
+      "_designated": "2012-07-01",
+      "_years": 14.225872689938399,
+      "url": "https://rehabili-youko.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 150,
+      "_tags": [
+        "高井戸西エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービス　みどりの杉並",
+      "telephone": "03-6265-7637",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "大宮１－１－１１ドリーム池１階"
+      },
+      "parentOrganization": "株式会社みどり",
+      "identifier": "1371508019",
+      "_town": "大宮",
+      "_kind": "営利法人",
+      "_designated": "2013-09-01",
+      "_years": 13.05681040383299,
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 19,
+      "_tags": [
+        "大宮エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "デイサービス　ビーステップ井草",
       "telephone": "03-5311-0795",
       "address": {
@@ -361,6 +722,35 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "社会福祉法人八成グループ　高齢者在宅サービスセンター　八成ふれあいの家",
+      "telephone": "03-5311-3637",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "井草１－４０－１６"
+      },
+      "parentOrganization": "社会福祉法人八成グループ",
+      "identifier": "1371508746",
+      "_town": "井草",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2015-04-01",
+      "_years": 11.477070499657769,
+      "url": "http://care-net.biz/13/8nari/",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_capacity": 35,
+      "_tags": [
+        "井草エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ニチイケアセンター荻窪",
       "telephone": "03-5349-7981",
       "address": {
@@ -384,6 +774,34 @@
       ],
       "_tags": [
         "荻窪エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ステップぱーとなー芦花公園",
+      "telephone": "03-5316-4916",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "上高井戸１－１８－１０パール川内　１階　１０１号室"
+      },
+      "parentOrganization": "株式会社ヘルスケヤめぐみ",
+      "identifier": "1371509066",
+      "_town": "上高井戸",
+      "_kind": "営利法人",
+      "_designated": "2016-03-01",
+      "_years": 10.559890485968515,
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "上高井戸エリア",
         "土曜日も営業",
         "デイサービス"
       ]
@@ -421,6 +839,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "デイサービスセンターなごやか杉並",
+      "telephone": "03-5305-4755",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "高円寺南５－６－４"
+      },
+      "parentOrganization": "なごやかケアリンク株式会社",
+      "identifier": "1371509199",
+      "_town": "高円寺南",
+      "_kind": "営利法人",
+      "_designated": "2016-06-01",
+      "_years": 10.30800821355236,
+      "url": "http://www.nagoyaka-link.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 100,
+      "_tags": [
+        "高円寺南エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "スギコーデイサロン荻窪",
       "telephone": "03-5347-2123",
       "address": {
@@ -445,6 +893,36 @@
       "_capacity": 32,
       "_tags": [
         "上荻エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "スギコーデイサロン浜田山",
+      "telephone": "03-5305-4480",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "浜田山３－６－２２"
+      },
+      "parentOrganization": "スギコー株式会社",
+      "identifier": "1371509330",
+      "_town": "浜田山",
+      "_kind": "営利法人",
+      "_designated": "2016-10-01",
+      "_years": 9.973990417522245,
+      "url": "http://www.sugikho.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 222,
+      "_tags": [
+        "浜田山エリア",
         "土曜日も営業",
         "デイサービス"
       ]
@@ -481,6 +959,65 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "堀ノ内ビレッジ",
+      "telephone": "03-5929-8762",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "堀ノ内３－４－１２堀ノ内みどりの里　シルバーピア　１階"
+      },
+      "parentOrganization": "株式会社ケアギバー・ジャパン",
+      "identifier": "1371509579",
+      "_town": "堀ノ内",
+      "_kind": "営利法人",
+      "_designated": "2017-06-01",
+      "_years": 9.308692676249144,
+      "url": "http://caregiver.co.jp/facility/horinouchi_village.php",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_capacity": 25,
+      "_tags": [
+        "堀ノ内エリア",
+        "日曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービス　ヨウコー善福寺",
+      "telephone": "03-5303-9241",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "上井草４－６－４"
+      },
+      "parentOrganization": "株式会社ヨウコーアソシエイツ",
+      "identifier": "1371509603",
+      "_town": "上井草",
+      "_kind": "営利法人",
+      "_designated": "2017-07-01",
+      "_years": 9.22655715263518,
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_capacity": 5,
+      "_tags": [
+        "上井草エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ＳＯＭＰＯケア　高井戸　デイサービス",
       "telephone": "03-5316-6680",
       "address": {
@@ -511,6 +1048,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "デイサービス夢楽井荻",
+      "telephone": "03-6913-7297",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "井草４－６－２０ライフ＆シニアハウス１Ｆ"
+      },
+      "parentOrganization": "株式会社我喜大笑",
+      "identifier": "1371510247",
+      "_town": "井草",
+      "_kind": "営利法人",
+      "_designated": "2019-03-01",
+      "_years": 7.561943874058864,
+      "url": "http://yumeraku.net/iogi/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 354,
+      "_tags": [
+        "井草エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "リハビリデイ・すまいるウォーク杉並",
       "telephone": "03-6383-2250",
       "address": {
@@ -533,6 +1100,36 @@
       ],
       "_tags": [
         "松ノ木エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンターエンゼルヘルプ方南",
+      "telephone": "03-5929-6105",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "方南２－６－２８"
+      },
+      "parentOrganization": "株式会社大起エンゼルヘルプ",
+      "identifier": "1371510809",
+      "_town": "方南",
+      "_kind": "営利法人",
+      "_designated": "2021-12-01",
+      "_years": 4.80766598220397,
+      "url": "http://www.enzeru.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 60,
+      "_tags": [
+        "方南エリア",
+        "土曜日も営業",
         "デイサービス"
       ]
     },
@@ -568,6 +1165,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ビーナスプラス下井草",
+      "telephone": "03-6913-8818",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "下井草３－４－２３下井草パレス１階"
+      },
+      "parentOrganization": "株式会社ビーナス",
+      "identifier": "1371511096",
+      "_town": "下井草",
+      "_kind": "営利法人",
+      "_designated": "2023-03-01",
+      "_years": 3.561943874058864,
+      "url": "https://www.venus-comrade.co.jp/office/plus_shimoigusa/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 19,
+      "_tags": [
+        "下井草エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "らいおんハートデイサービスプレミアム杉並",
       "telephone": "03-6379-3681",
       "address": {
@@ -589,6 +1216,35 @@
       ],
       "_tags": [
         "和泉エリア",
+        "開設3年以内",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＮＡＮＡＩＲＯ　ＣＯＯＫＩＮＧ　ＳＴＵＤＩＯ　杉並宮前",
+      "telephone": "03-5344-1330",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "宮前３－２－３"
+      },
+      "parentOrganization": "株式会社ＳＯＹＯＫＡＺＥ",
+      "identifier": "1371511542",
+      "_town": "宮前",
+      "_kind": "営利法人",
+      "_designated": "2024-11-01",
+      "_years": 1.88911704312115,
+      "url": "http://www.sykz.co.jp",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_capacity": 25,
+      "_tags": [
+        "宮前エリア",
         "開設3年以内",
         "デイサービス"
       ]
@@ -619,6 +1275,65 @@
         "開設3年以内",
         "デイサービス"
       ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "イノセント高円寺デイサービスセンター",
+      "telephone": "03-3315-1181",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "高円寺南５－２０－３田中ビル１階"
+      },
+      "parentOrganization": "株式会社アルジェント",
+      "identifier": "1371511666",
+      "_town": "高円寺南",
+      "_kind": "営利法人",
+      "_designated": "2025-09-01",
+      "_years": 1.056810403832991,
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "高円寺南エリア",
+        "土曜日も営業",
+        "開設3年以内",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンターもも寿荻窪",
+      "telephone": "03-6913-7075",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "桃井１－１３－１５オカベ荻窪マンション１階"
+      },
+      "parentOrganization": "株式会社維新ネット",
+      "identifier": "1371511708",
+      "_town": "桃井",
+      "_kind": "営利法人",
+      "_designated": "2026-01-01",
+      "_years": 0.7227926078028748,
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "桃井エリア",
+        "日曜日も営業",
+        "開設3年以内",
+        "デイサービス"
+      ]
     }
   ],
   "faq": [
@@ -628,11 +1343,11 @@
     },
     {
       "q": "杉並区にデイサービスは何件ありますか？",
-      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で杉並区内に44件の通所介護事業所が指定を受けています。本ページではそのうち20件を連絡先つきで掲載しています。なお定員18人以下の地域密着型通所介護は区が指定するため、この件数には含まれていません。"
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で杉並区内に44件の通所介護事業所が指定を受けています。本ページではそのうち44件を連絡先つきで掲載しています。なお定員18人以下の地域密着型通所介護は区が指定するため、この件数には含まれていません。"
     },
     {
       "q": "杉並区の掲載事業所は、どこを見て絞り込めばいいですか？",
-      "a": "まず送迎範囲に自宅が入るかで絞り、次に入浴設備（個浴か機械浴か）で絞るのが順番です。杉並区の掲載20件では営利法人が14件と最も多く、指定から20年以上の事業所も6件あります。長く続いているところは空きが出にくい一方、新しいところは空きがあります。"
+      "a": "まず送迎範囲に自宅が入るかで絞り、次に入浴設備（個浴か機械浴か）で絞るのが順番です。杉並区の掲載44件では営利法人が32件と最も多く、指定から20年以上の事業所も12件あります。長く続いているところは空きが出にくい一方、新しいところは空きがあります。"
     },
     {
       "q": "杉並区で自己負担はいくらくらいですか？",
@@ -640,22 +1355,24 @@
     },
     {
       "q": "本人が杉並区のデイサービスに行きたがりません。",
-      "a": "まず体験利用を試してください。杉並区内には44件あり、掲載20件を見ても営利法人が14件と偏りがあるように、規模も雰囲気も事業所ごとに違います。合わない理由別の対処（個浴のある事業所、小規模な事業所など）はデイサービスのしくみのページにまとめました。杉並区でも週1回から始めて、慣れてから増やすのが定石です。"
+      "a": "まず体験利用を試してください。杉並区内には44件あり、掲載44件を見ても営利法人が32件と偏りがあるように、規模も雰囲気も事業所ごとに違います。合わない理由別の対処（個浴のある事業所、小規模な事業所など）はデイサービスのしくみのページにまとめました。杉並区でも週1回から始めて、慣れてから増やすのが定石です。"
     },
     {
       "q": "杉並区の事業所は、途中で変更できますか？",
       "a": "変更できます。ケアマネジャーに相談すればケアプランを見直したうえで杉並区内の別の事業所に切り替えられます。杉並区は区内44件と候補があるので、合わずに変える方は珍しくありません。"
     }
   ],
-  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/suginami/\">杉並区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/suginami/\">杉並区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/suginami/\">杉並区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/suginami/\">杉並区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/suginami/\">杉並区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/suginami/\">杉並区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
-  "nearby_heading": "近隣エリアのデイサービス",
-  "nearby": "<a href=\"{{ROOT}}day-service/tokyo/nakano/\">中野区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/setagaya/\">世田谷区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/nerima/\">練馬区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/shibuya/\">渋谷区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/mitaka/\">mitaka</a>\n      <a href=\"{{ROOT}}day-service/tokyo/musashino/\">musashino</a>",
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/suginami/\">杉並区の訪問介護<small>自宅に来てもらう・区内143件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/suginami/\">杉並区の訪問看護<small>医療ケアが必要な方へ・区内73件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/suginami/\">杉並区のショートステイ<small>数日あずける・区内23件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/suginami/\">杉並区の福祉用具<small>借りる・買う・区内23件</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/suginami/\">杉並区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/suginami/\">杉並区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "東京23区からデイサービスを探す",
+  "nearby": "<a href=\"{{ROOT}}day-service/tokyo/chiyoda/\">千代田区<small>3件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/chuo/\">中央区<small>13件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/minato/\">港区<small>17件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/shinjuku/\">新宿区<small>27件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/bunkyo/\">文京区<small>18件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/taito/\">台東区<small>18件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/sumida/\">墨田区<small>36件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/koto/\">江東区<small>52件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/shinagawa/\">品川区<small>30件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/meguro/\">目黒区<small>24件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/ota/\">大田区<small>83件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/setagaya/\">世田谷区<small>99件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/shibuya/\">渋谷区<small>15件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/nakano/\">中野区<small>25件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/toshima/\">豊島区<small>17件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/kita/\">北区<small>46件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/arakawa/\">荒川区<small>31件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/itabashi/\">板橋区<small>70件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/nerima/\">練馬区<small>80件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/adachi/\">足立区<small>107件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/katsushika/\">葛飾区<small>71件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/edogawa/\">江戸川区<small>81件</small></a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
     "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／定員・営業曜日・公式サイト）",
     "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」通所介護費（令和6年度改定）／介護報酬の地域区分（1級地・1単位11.40円）",
     "杉並区「ケア24一覧」",
-    "日本郵便 郵便番号データにもとづく杉並区の町域一覧"
+    "日本郵便 郵便番号データにもとづく杉並区の町域一覧",
+    "東京都総務局統計部「住民基本台帳による東京都の世帯と人口」（令和8年1月1日現在／年齢3区分別人口・5歳階級別人口）",
+    "東京都福祉局「介護保険事業状況報告（月報）」令和8年6月分（保険者別・第1号被保険者数／要介護認定者数）"
   ],
   "sidebar": "<div class=\"side cta-side\">\n        <h4>まず体験利用を</h4>\n        <p>合うかどうかは見学だけでは分かりません。制度と費用はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}day-service/\">デイサービスのしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>杉並区内の通所介護は44件（都指定）</li>\n          <li>7〜8時間・要介護1で約750円（1割）</li>\n          <li>食費などは全額自己負担</li>\n          <li>入口はケアマネかケア24</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}day-service/\">デイサービスのしくみ</a></li>\n          <li><a href=\"{{ROOT}}short-stay/\">ショートステイ</a></li>\n        </ul>\n      </div>",
   "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",

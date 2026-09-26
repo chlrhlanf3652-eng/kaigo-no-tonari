@@ -19,6 +19,8 @@ import pathlib
 import sys
 
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
+import koreika as KO
+import linkgrid as LG
 from wards import WARDS
 import mhlw_fields as MF
 
@@ -204,6 +206,8 @@ def build(wid, site):
         total=total, townc=len(towns), n=n, dist=dist,
         orgs=orgs, org_note=org_note, ages=ages_rows, age_note=age_note,
         days=day_rows, day_note=day_note, caps=cap_rows, cap_note=cap_note)
+    # 区ごとの公的統計（高齢化率・要介護認定者数）を本文の最後に足す
+    content += "\n\n    " + KO.section(wid, ward, "day-service", total)
     (BASE / "content" / f"day-service_tokyo_{wid}.html").write_text(content, encoding="utf-8")
 
     nonstop_note = ""
@@ -239,17 +243,11 @@ def build(wid, site):
               f"{ward}は区内{total}件と候補があるので、合わずに変える方は珍しくありません。"},
     ]
 
-    near = WARDS[wid]["near"][:6]
-    nearby = "\n      ".join('<a href="{{ROOT}}day-service/tokyo/%s/">%s</a>' % (x, ward_name(x))
-                             for x in near)
-    related = "\n      ".join([
-        '<a href="{{ROOT}}houmon-kaigo/tokyo/%s/">%sの訪問介護<small>身体介護・生活援助</small></a>' % (wid, ward),
-        '<a href="{{ROOT}}houmon-kango/tokyo/%s/">%sの訪問看護<small>医療ケアが必要な方へ</small></a>' % (wid, ward),
-        '<a href="{{ROOT}}short-stay/tokyo/%s/">%sのショートステイ<small>短期入所</small></a>' % (wid, ward),
-        '<a href="{{ROOT}}fukushi-yogu/tokyo/%s/">%sの福祉用具レンタル<small>介護ベッド・車いす</small></a>' % (wid, ward),
-        '<a href="{{ROOT}}takuhai-bento/tokyo/%s/">%sの宅配弁当<small>高齢者向け配食サービス</small></a>' % (wid, ward),
-        '<a href="{{ROOT}}mimamori/tokyo/%s/">%sの見守りサービス<small>ひとり暮らしの安否確認</small></a>' % (wid, ward),
-    ])
+    nearby = LG.area_links("day-service", wid)
+    related = LG.service_links(
+        "day-service", wid,
+        [("takuhai-bento", "の宅配弁当", "高齢者向け配食サービス"),
+         ("mimamori", "の見守りサービス", "ひとり暮らしの安否確認")])
     sidebar = (
         '<div class="side cta-side">\n'
         '        <h4>まず体験利用を</h4>\n'
@@ -305,7 +303,7 @@ def build(wid, site):
                         + "定員18人以下の地域密着型通所介護は区が指定するため、この一覧には含まれていません。"
                         + "掲載順は事業所の優劣を示すものではありません。",
         "items": items, "faq": faq, "related": related,
-        "nearby_heading": "近隣エリアのデイサービス", "nearby": nearby,
+        "nearby_heading": "東京23区からデイサービスを探す", "nearby": nearby,
         "sources": [
             rec.get("source", "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）"),
             "厚生労働省「介護サービス情報公表システム」オープンデータ"
@@ -314,6 +312,7 @@ def build(wid, site):
             "介護報酬の地域区分（1級地・1単位11.40円）",
             f"{ward}「{madoguchi}一覧」",
             f"日本郵便 郵便番号データにもとづく{ward}の町域一覧",
+            *KO.SOURCES,
         ],
         "sidebar": sidebar,
         "mcta": '<a class="m1" href="#s2">事業所一覧</a>\n  <a class="m2" href="#s4">自己負担の目安</a>',

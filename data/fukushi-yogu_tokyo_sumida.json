@@ -12,19 +12,19 @@
     "city_name": "墨田区"
   },
   "seo": {
-    "title": "墨田区の福祉用具20事業所｜レンタルと購入【2026年9月更新】",
-    "description": "東京都墨田区の福祉用具貸与・特定福祉用具販売の指定事業所20件を連絡先つきで掲載。区内23件のうち貸与と販売の両方を扱う事業所がどれかを示し、年10万円までの購入費と、指定事業所から買う必要がある理由を解説します。",
+    "title": "墨田区の福祉用具23事業所｜レンタルと購入【2026年9月更新】",
+    "description": "東京都墨田区の福祉用具貸与・特定福祉用具販売の指定事業所23件を連絡先つきで掲載。区内23件のうち貸与と販売の両方を扱う事業所がどれかを示し、年10万円までの購入費と、指定事業所から買う必要がある理由を解説します。",
     "canonical": "https://kaigonotonari.com/fukushi-yogu/tokyo/sumida/",
     "og_title": "墨田区の福祉用具一覧｜借りるか買うかで事業所が変わります",
-    "og_description": "墨田区の福祉用具事業所20件を掲載。ポータブルトイレや入浴用いすは購入しかできません。指定のない店で買うと保険は出ません。",
+    "og_description": "墨田区の福祉用具事業所23件を掲載。ポータブルトイレや入浴用いすは購入しかできません。指定のない店で買うと保険は出ません。",
     "og_image": "https://kaigonotonari.com/assets/ogp-fukushi-yogu.jpg"
   },
   "h1": "墨田区の福祉用具一覧｜借りるか買うかで事業所が変わります",
   "published": "2026-09-22",
   "modified": "2026-09-22",
-  "count_label": "掲載：20事業所",
-  "lead": "東京都墨田区で福祉用具のレンタルや購入を考えている方へ。東京都の指定を受けた23件から20件を連絡先つきで掲載し、そのうち<strong>貸与と販売の両方を扱う事業所が15件</strong>あることまで示しました。介護保険で福祉用具を買う場合、<strong>指定を受けた事業者から買ったものにしか支給されません</strong>。同じ商品をネット通販で買っても1円も戻らないので、ここが最初の分かれ目になります。",
-  "listing_note": "墨田区内の福祉用具貸与・特定福祉用具販売の指定事業所から20件を掲載しています（東京都公表・2026年9月1日時点）。区内には23件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。「貸与と販売」「貸与のみ」「販売のみ」の表示は、東京都の一覧でその事業所がどちらのサービス種類で指定を受けているかによります。取扱商品や価格は事業所ごとに違い、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
+  "count_label": "掲載：23事業所",
+  "lead": "東京都墨田区で福祉用具のレンタルや購入を考えている方へ。東京都の指定を受けた23件から23件を連絡先つきで掲載し、そのうち<strong>貸与と販売の両方を扱う事業所が18件</strong>あることまで示しました。介護保険で福祉用具を買う場合、<strong>指定を受けた事業者から買ったものにしか支給されません</strong>。同じ商品をネット通販で買っても1円も戻らないので、ここが最初の分かれ目になります。",
+  "listing_note": "墨田区内の福祉用具貸与・特定福祉用具販売の指定事業所から23件を掲載しています（東京都公表・2026年9月1日時点）。区内には23件が指定を受けており、そのすべてを掲載しています。「貸与と販売」「貸与のみ」「販売のみ」の表示は、東京都の一覧でその事業所がどちらのサービス種類で指定を受けているかによります。取扱商品や価格は事業所ごとに違い、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
@@ -214,6 +214,35 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ライフアドバンスセノバ東京",
+      "telephone": "03-5655-3377",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "東向島２－３１－１９－１０１号"
+      },
+      "parentOrganization": "株式会社セノバ",
+      "identifier": "1370704007",
+      "_town": "東向島",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2013-12-01",
+      "_years": 12.80766598220397,
+      "url": "http://senoba.co.jp",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "東向島エリア",
+        "貸与と販売",
+        "土曜日も対応"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "株式会社　澄田",
       "telephone": "03-6315-2298",
       "address": {
@@ -394,6 +423,29 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "福祉介護まごの手",
+      "telephone": "03-6661-8736",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "菊川２－４－１２佐藤ビル１階"
+      },
+      "parentOrganization": "株式会社ＮＫＭ",
+      "identifier": "1370705525",
+      "_town": "菊川",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2022-03-01",
+      "_years": 4.561259411362081,
+      "_tags": [
+        "菊川エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "高住研キヨタ株式会社東京中央店",
       "telephone": "03-5619-5501",
       "address": {
@@ -553,6 +605,29 @@
         "京島エリア",
         "貸与と販売"
       ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ユーケアＳｔａｇｅ",
+      "telephone": "03-6658-5061",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "亀沢２－２０－７天田第５ビル４Ｆ"
+      },
+      "parentOrganization": "株式会社ユナイテッドケア",
+      "identifier": "1370706077",
+      "_town": "亀沢",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2026-09-01",
+      "_years": 0.057494866529774126,
+      "_tags": [
+        "亀沢エリア",
+        "貸与と販売"
+      ]
     }
   ],
   "faq": [
@@ -562,15 +637,15 @@
     },
     {
       "q": "墨田区に福祉用具の事業所は何件ありますか？",
-      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で墨田区内に23件の福祉用具の事業所（貸与または特定販売の指定を受けたもの）があります。本ページではそのうち20件を連絡先つきで掲載し、うち15件が貸与と販売の両方を扱っています。"
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で墨田区内に23件の福祉用具の事業所（貸与または特定販売の指定を受けたもの）があります。本ページではそのうち23件を連絡先つきで掲載し、うち18件が貸与と販売の両方を扱っています。"
     },
     {
       "q": "墨田区でポータブルトイレや入浴用のいすは、レンタルできますか？",
-      "a": "できません。これらは購入（特定福祉用具販売）の対象で、同一年度に10万円までが保険の対象になります。墨田区の掲載20件のうち販売の指定を持つのは17件なので、買う予定があるならその中から選んでください。"
+      "a": "できません。これらは購入（特定福祉用具販売）の対象で、同一年度に10万円までが保険の対象になります。墨田区の掲載23件のうち販売の指定を持つのは20件なので、買う予定があるならその中から選んでください。"
     },
     {
       "q": "ネット通販で買っても、墨田区から保険は出ますか？",
-      "a": "出ません。墨田区の掲載20件のうち17件が販売の指定を持っているので、その中から選んでください。購入前に墨田区の介護保険担当かケアマネジャーに相談するのが確実です。"
+      "a": "出ません。墨田区の掲載23件のうち20件が販売の指定を持っているので、その中から選んでください。購入前に墨田区の介護保険担当かケアマネジャーに相談するのが確実です。"
     },
     {
       "q": "墨田区で介護ベッドを借りたいのですが、要介護1でも借りられますか？",
@@ -578,21 +653,23 @@
     },
     {
       "q": "墨田区でレンタル料金が事業所によって違うのはなぜですか？",
-      "a": "福祉用具貸与だけは単位数が決まっておらず、事業所が商品ごとに価格を設定するしくみだからです。墨田区の掲載20件は営利法人が19件と大半を占めますが、価格も品ぞろえも事業所ごとに差があるので、複数から見積もりを取ってください。"
+      "a": "福祉用具貸与だけは単位数が決まっておらず、事業所が商品ごとに価格を設定するしくみだからです。墨田区の掲載23件は営利法人が22件と大半を占めますが、価格も品ぞろえも事業所ごとに差があるので、複数から見積もりを取ってください。"
     }
   ],
-  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/sumida/\">墨田区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/sumida/\">墨田区のデイサービス<small>日中の預け先</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/sumida/\">墨田区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/sumida/\">墨田区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/sumida/\">墨田区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/sumida/\">墨田区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
-  "nearby_heading": "近隣エリアの福祉用具",
-  "nearby": "<a href=\"{{ROOT}}fukushi-yogu/tokyo/chuo/\">中央区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/taito/\">台東区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/koto/\">江東区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/arakawa/\">荒川区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/adachi/\">足立区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/katsushika/\">葛飾区</a>",
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/sumida/\">墨田区の訪問介護<small>自宅に来てもらう・区内64件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/sumida/\">墨田区の訪問看護<small>医療ケアが必要な方へ・区内39件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/sumida/\">墨田区のデイサービス<small>日帰りで通う・区内36件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/sumida/\">墨田区のショートステイ<small>数日あずける・区内10件</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/sumida/\">墨田区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/sumida/\">墨田区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "東京23区から福祉用具を探す",
+  "nearby": "<a href=\"{{ROOT}}fukushi-yogu/tokyo/chiyoda/\">千代田区<small>3件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/chuo/\">中央区<small>13件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/minato/\">港区<small>11件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/shinjuku/\">新宿区<small>20件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/bunkyo/\">文京区<small>6件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/taito/\">台東区<small>11件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/koto/\">江東区<small>21件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/shinagawa/\">品川区<small>10件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/meguro/\">目黒区<small>11件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/ota/\">大田区<small>32件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/setagaya/\">世田谷区<small>35件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/shibuya/\">渋谷区<small>8件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/nakano/\">中野区<small>15件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/suginami/\">杉並区<small>23件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/toshima/\">豊島区<small>14件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/kita/\">北区<small>20件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/arakawa/\">荒川区<small>15件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/itabashi/\">板橋区<small>27件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/nerima/\">練馬区<small>45件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/adachi/\">足立区<small>52件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/katsushika/\">葛飾区<small>31件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/edogawa/\">江戸川区<small>34件</small></a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
     "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／対応曜日・公式サイト）",
     "江東区「介護保険特定福祉用具購入費の支給」（支給限度額・対象種目・指定事業者要件）",
     "厚生労働省「令和6年度介護報酬改定」福祉用具貸与・特定福祉用具販売の選択制",
     "墨田区「高齢者支援総合センター一覧」",
-    "日本郵便 郵便番号データにもとづく墨田区の町域一覧"
+    "日本郵便 郵便番号データにもとづく墨田区の町域一覧",
+    "東京都総務局統計部「住民基本台帳による東京都の世帯と人口」（令和8年1月1日現在／年齢3区分別人口・5歳階級別人口）",
+    "東京都福祉局「介護保険事業状況報告（月報）」令和8年6月分（保険者別・第1号被保険者数／要介護認定者数）"
   ],
-  "sidebar": "<div class=\"side cta-side\">\n        <h4>買う前に確認を</h4>\n        <p>指定のない店で買うと保険は出ません。対象種目と手続きはハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>墨田区内の福祉用具事業所は23件（都指定）</li>\n          <li>掲載20件のうち貸与と販売の両方が15件</li>\n          <li>購入は年度内10万円まで（1〜3割負担）</li>\n          <li>指定事業所以外で買うと支給されません</li>\n          <li>入口はケアマネか高齢者支援総合センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみ</a></li>\n          <li><a href=\"{{ROOT}}houmon-kaigo/\">訪問介護</a></li>\n        </ul>\n      </div>",
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>買う前に確認を</h4>\n        <p>指定のない店で買うと保険は出ません。対象種目と手続きはハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>墨田区内の福祉用具事業所は23件（都指定）</li>\n          <li>掲載23件のうち貸与と販売の両方が18件</li>\n          <li>購入は年度内10万円まで（1〜3割負担）</li>\n          <li>指定事業所以外で買うと支給されません</li>\n          <li>入口はケアマネか高齢者支援総合センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみ</a></li>\n          <li><a href=\"{{ROOT}}houmon-kaigo/\">訪問介護</a></li>\n        </ul>\n      </div>",
   "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">費用のしくみ</a>",
   "hero_image": "assets/ogp-fukushi-yogu.jpg",
   "towns": {

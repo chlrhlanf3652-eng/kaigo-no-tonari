@@ -12,19 +12,19 @@
     "city_name": "文京区"
   },
   "seo": {
-    "title": "文京区の訪問看護20事業所｜主治医の指示書から始める【2026年9月更新】",
-    "description": "東京都文京区の訪問看護ステーション20件を連絡先つきで掲載。区内31件の中から選ぶための所在町域・運営法人・開設年数・定期訪問の曜日の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
+    "title": "文京区の訪問看護31事業所｜主治医の指示書から始める【2026年9月更新】",
+    "description": "東京都文京区の訪問看護ステーション31件を連絡先つきで掲載。区内31件の中から選ぶための所在町域・運営法人・開設年数・定期訪問の曜日の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
     "canonical": "https://kaigonotonari.com/houmon-kango/tokyo/bunkyo/",
     "og_title": "文京区の訪問看護ステーション一覧｜選び方と始め方",
-    "og_description": "文京区の訪問看護ステーション20件を掲載。対応できる医療処置の確認と、主治医の指示書から始める流れを解説します。",
+    "og_description": "文京区の訪問看護ステーション31件を掲載。対応できる医療処置の確認と、主治医の指示書から始める流れを解説します。",
     "og_image": "https://kaigonotonari.com/assets/ogp-houmon-kango.jpg"
   },
   "h1": "文京区の訪問看護ステーション一覧｜選び方と始め方",
   "published": "2026-09-21",
   "modified": "2026-09-21",
-  "count_label": "掲載：20事業所",
-  "lead": "東京都文京区で訪問看護を探している方へ。区内にある31件のステーションから20件を連絡先つきで掲載し、そのうち<strong>日曜日も定期訪問があるのは9件</strong>であることまで示しました。主治医の指示書から利用開始までの流れもまとめています。訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
-  "listing_note": "文京区内の訪問看護ステーションから20件を掲載しています（東京都公表・2026年9月1日時点）。区内には31件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。掲載順は事業所の優劣を示すものではありません。",
+  "count_label": "掲載：31事業所",
+  "lead": "東京都文京区で訪問看護を探している方へ。区内にある31件のステーションから31件を連絡先つきで掲載し、そのうち<strong>日曜日も定期訪問があるのは12件</strong>であることまで示しました。主治医の指示書から利用開始までの流れもまとめています。訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
+  "listing_note": "文京区内の訪問看護ステーションから31件を掲載しています（東京都公表・2026年9月1日時点）。区内には31件が指定を受けており、そのすべてを掲載しています。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
@@ -88,6 +88,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "在宅看護センター本郷",
+      "telephone": "03-5615-8902",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "本郷４－７－１２－１０１"
+      },
+      "parentOrganization": "株式会社Ｃｒｅａｄｅ",
+      "identifier": "1360590093",
+      "_town": "本郷",
+      "_kind": "営利法人",
+      "_designated": "2016-08-01",
+      "_years": 10.140999315537304,
+      "url": "https://home-carenurse.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "本郷エリア",
+        "日曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "リーベ訪問看護リハビリステーション",
       "telephone": "03-5844-6590",
       "address": {
@@ -143,6 +173,32 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "東京中央訪問看護リハビリステーション",
+      "telephone": "03-6801-6932",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "後楽２－２３－１５大星マンション２０２号"
+      },
+      "parentOrganization": "株式会社ＴＬＳ",
+      "identifier": "1360590168",
+      "_town": "後楽",
+      "_kind": "営利法人",
+      "_designated": "2017-09-01",
+      "_years": 9.05681040383299,
+      "url": "http://abc-nursing.com",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "後楽エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ホーム訪問看護ステーション",
       "telephone": "03-6874-4951",
       "address": {
@@ -190,6 +246,34 @@
       "_tags": [
         "本郷エリア",
         "日曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ナースステーション東京　文京支店",
+      "telephone": "03-5615-8238",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "白山２－２０－９藤井ビル１Ｆ"
+      },
+      "parentOrganization": "株式会社日本在宅ケア教育研究所",
+      "identifier": "1360590200",
+      "_town": "白山",
+      "_kind": "営利法人",
+      "_designated": "2018-04-01",
+      "_years": 8.476386036960985,
+      "url": "http://www.zaitakucare.co.jp",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "白山エリア",
+        "土曜日も訪問",
         "訪問看護"
       ]
     },
@@ -251,6 +335,32 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　ほのぼのらいふ",
+      "telephone": "03-5805-7856",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "小石川１－２２－２南部ビル１階"
+      },
+      "parentOrganization": "株式会社元気な介護",
+      "identifier": "1360590267",
+      "_town": "小石川",
+      "_kind": "営利法人",
+      "_designated": "2019-04-01",
+      "_years": 7.477070499657769,
+      "url": "https://genkinakaigo.co.jp/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "小石川エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "やよい訪問看護ステーション",
       "telephone": "03-6240-0738",
       "address": {
@@ -305,6 +415,28 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ハニー訪問看護ステーション",
+      "telephone": "03-6240-0824",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "本郷３－３６－１２グリーンヒルズ本郷２０２"
+      },
+      "parentOrganization": "株式会社ＰＦＬ",
+      "identifier": "1360590317",
+      "_town": "本郷",
+      "_kind": "営利法人",
+      "_designated": "2022-12-01",
+      "_years": 3.808350444900753,
+      "_tags": [
+        "本郷エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問看護ステーション　はな　本駒込",
       "telephone": "03-6824-0308",
       "address": {
@@ -329,6 +461,36 @@
       ],
       "_tags": [
         "本駒込エリア",
+        "日曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "はれの樹訪問看護リハビリステーション",
+      "telephone": "03-6801-5527",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "向丘１－４－１１アカデミー向丘１階"
+      },
+      "parentOrganization": "医療法人社団一専会",
+      "identifier": "1360590333",
+      "_town": "向丘",
+      "_kind": "医療法人",
+      "_designated": "2023-09-01",
+      "_years": 3.058179329226557,
+      "url": "https://harenoki.dysin.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "向丘エリア",
         "日曜日も訪問",
         "訪問看護"
       ]
@@ -380,6 +542,34 @@
       ],
       "_tags": [
         "本郷エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "東大看護ステーション目白台",
+      "telephone": "05036459012",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "目白台３－２８－１０Ｔｏｎｏｗａ　Ｇａｒｄｅｎ目白台"
+      },
+      "parentOrganization": "一般社団法人東大看護学実装普及研究所",
+      "identifier": "1360590374",
+      "_town": "目白台",
+      "_kind": "社団・財団",
+      "_designated": "2025-04-01",
+      "_years": 1.4757015742642026,
+      "url": "https://mejirodai.utndi.or.jp",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "目白台エリア",
         "開設3年以内",
         "訪問看護"
       ]
@@ -443,6 +633,37 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "つねいろ訪問看護ステーション",
+      "telephone": "03-5842-1832",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "千駄木１－２２－３０ＴＲＵＳＴ　ＶＡＬＵＥ千駄木６０３"
+      },
+      "parentOrganization": "合同会社ｓｕｍｍａ",
+      "identifier": "1360590408",
+      "_town": "千駄木",
+      "_kind": "営利法人",
+      "_designated": "2025-09-01",
+      "_years": 1.056810403832991,
+      "url": "https://tsuneiro.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "千駄木エリア",
+        "日曜日も訪問",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ＣＯＣＯ訪問看護ステーション",
       "telephone": "03-5832-9331",
       "address": {
@@ -488,6 +709,29 @@
       "_years": 0.3942505133470226,
       "_tags": [
         "小石川エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "よつば訪問看護ステーション",
+      "telephone": "05017506289",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "春日２－１－１０－２０１美津穂マンション"
+      },
+      "parentOrganization": "ジェニックス株式会社",
+      "identifier": "1360590432",
+      "_town": "春日",
+      "_kind": "営利法人",
+      "_designated": "2026-05-01",
+      "_years": 0.3942505133470226,
+      "_tags": [
+        "春日エリア",
         "開設3年以内",
         "訪問看護"
       ]
@@ -552,6 +796,35 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ひかわした訪問看護ステーション",
+      "telephone": "03-3944-1357",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "千石４－１－２千石にじの家１階"
+      },
+      "parentOrganization": "東京保健生活協同組合",
+      "identifier": "1367192479",
+      "_town": "千石",
+      "_kind": "生協",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "url": "http://www.tokyo-helth.coop",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "千石エリア",
+        "土曜日も訪問",
+        "20年以上",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問看護ステーションけせら",
       "telephone": "03-3815-1170",
       "address": {
@@ -580,6 +853,34 @@
         "20年以上",
         "訪問看護"
       ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーションきょうわ",
+      "telephone": "03-3822-0128",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "文京区",
+        "streetAddress": "千駄木５丁目１７番３号"
+      },
+      "parentOrganization": "一般社団法人東京在宅看護協和会",
+      "identifier": "1367195829",
+      "_town": "千駄木",
+      "_kind": "社団・財団",
+      "_designated": "2001-03-01",
+      "_years": 25.560574948665298,
+      "url": "http://www.station-kyowa.com",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "千駄木エリア",
+        "20年以上",
+        "訪問看護"
+      ]
     }
   ],
   "faq": [
@@ -589,15 +890,15 @@
     },
     {
       "q": "文京区には訪問看護ステーションが何件ありますか？",
-      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で文京区内に31件の訪問看護ステーションが指定を受けています。本ページではそのうち20件を連絡先つきで掲載しています。"
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で文京区内に31件の訪問看護ステーションが指定を受けています。本ページではそのうち31件を連絡先つきで掲載しています。"
     },
     {
       "q": "文京区の掲載事業所は、どこを見て絞り込めばいいですか？",
-      "a": "まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。文京区の掲載20件では営利法人が15件、医療法人が3件、指定から20年以上の事業所が3件です。そのうえで、ご自宅の町名を伝えて文京区内の対応エリアに入っているかを確認してください。"
+      "a": "まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。文京区の掲載31件では営利法人が22件、医療法人が4件、指定から20年以上の事業所が5件です。そのうえで、ご自宅の町名を伝えて文京区内の対応エリアに入っているかを確認してください。"
     },
     {
       "q": "文京区で夜間や休日に急変したら、来てもらえますか？",
-      "a": "24時間の緊急対応体制をとっているステーションなら、連絡して必要と判断されれば訪問してもらえます。ただしこれは加算のかかる体制で、文京区内でもすべてのステーションが対応しているわけではありません。上のサービス提供日の表は定期訪問の曜日で、文京区の掲載20件では日曜日も訪問するところが9件ありますが、これは緊急対応ができるという意味ではありません。契約前に必ず確認してください。"
+      "a": "24時間の緊急対応体制をとっているステーションなら、連絡して必要と判断されれば訪問してもらえます。ただしこれは加算のかかる体制で、文京区内でもすべてのステーションが対応しているわけではありません。上のサービス提供日の表は定期訪問の曜日で、文京区の掲載31件では日曜日も訪問するところが12件ありますが、これは緊急対応ができるという意味ではありません。契約前に必ず確認してください。"
     },
     {
       "q": "文京区で訪問看護の自己負担はいくらくらいですか？",
@@ -612,9 +913,9 @@
       "a": "使えます。医療的なケアは訪問看護、身体介護や家事は訪問介護と役割が分かれており、両方を併用する方は珍しくありません。文京区の訪問介護事業所は同じサイト内にまとめています。介護保険で使う場合は、どちらも区分支給限度基準額の範囲内で組むことになります。"
     }
   ],
-  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/bunkyo/\">文京区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/bunkyo/\">文京区のデイサービス<small>通所介護</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/bunkyo/\">文京区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/bunkyo/\">文京区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/bunkyo/\">文京区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/bunkyo/\">文京区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
-  "nearby_heading": "近隣エリアの訪問看護",
-  "nearby": "<a href=\"{{ROOT}}houmon-kango/tokyo/chiyoda/\">千代田区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/shinjuku/\">新宿区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/toshima/\">豊島区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/kita/\">北区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/arakawa/\">荒川区</a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/taito/\">台東区</a>",
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/bunkyo/\">文京区の訪問介護<small>自宅に来てもらう・区内33件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/bunkyo/\">文京区のデイサービス<small>日帰りで通う・区内18件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/bunkyo/\">文京区のショートステイ<small>数日あずける・区内9件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/bunkyo/\">文京区の福祉用具<small>借りる・買う・区内6件</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/bunkyo/\">文京区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/bunkyo/\">文京区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "東京23区から訪問看護を探す",
+  "nearby": "<a href=\"{{ROOT}}houmon-kango/tokyo/chiyoda/\">千代田区<small>14件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/chuo/\">中央区<small>26件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/minato/\">港区<small>41件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/shinjuku/\">新宿区<small>57件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/taito/\">台東区<small>33件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/sumida/\">墨田区<small>39件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/koto/\">江東区<small>49件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/shinagawa/\">品川区<small>48件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/meguro/\">目黒区<small>41件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/ota/\">大田区<small>99件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/setagaya/\">世田谷区<small>119件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/shibuya/\">渋谷区<small>31件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/nakano/\">中野区<small>35件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/suginami/\">杉並区<small>73件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/toshima/\">豊島区<small>45件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/kita/\">北区<small>39件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/arakawa/\">荒川区<small>28件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/itabashi/\">板橋区<small>89件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/nerima/\">練馬区<small>115件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/adachi/\">足立区<small>120件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/katsushika/\">葛飾区<small>66件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/edogawa/\">江戸川区<small>87件</small></a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
     "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／サービス提供日・公式サイト）",
@@ -622,9 +923,11 @@
     "厚生労働大臣が定める疾病等（訪問看護で医療保険が適用される範囲）",
     "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」訪問看護費／介護報酬の地域区分（1級地・1単位11.40円）",
     "日本郵便 郵便番号データにもとづく文京区の町域一覧",
+    "東京都総務局統計部「住民基本台帳による東京都の世帯と人口」（令和8年1月1日現在／年齢3区分別人口・5歳階級別人口）",
+    "東京都福祉局「介護保険事業状況報告（月報）」令和8年6月分（保険者別・第1号被保険者数／要介護認定者数）",
     "区内事業所数：東京都公表の指定事業所一覧にもとづく実数（2026年9月1日時点）"
   ],
-  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず主治医に相談を</h4>\n        <p>訪問看護は主治医の指示書が起点です。制度の分岐はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>文京区内のステーションは約31件</li>\n          <li>起点は主治医の訪問看護指示書</li>\n          <li>30分未満の訪問で約537円（1割）</li>\n          <li>掲載20件のうち医療法人は3件</li>\n          <li>主治医が未定なら高齢者あんしん相談センターへ</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}guide/houmon-kaigo-dekirukoto/\">ヘルパーに頼めること</a></li>\n          <li><a href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみ</a></li>\n        </ul>\n      </div>",
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず主治医に相談を</h4>\n        <p>訪問看護は主治医の指示書が起点です。制度の分岐はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>文京区内のステーションは約31件</li>\n          <li>起点は主治医の訪問看護指示書</li>\n          <li>30分未満の訪問で約537円（1割）</li>\n          <li>掲載31件のうち医療法人は4件</li>\n          <li>主治医が未定なら高齢者あんしん相談センターへ</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}guide/houmon-kaigo-dekirukoto/\">ヘルパーに頼めること</a></li>\n          <li><a href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみ</a></li>\n        </ul>\n      </div>",
   "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
   "hero_image": "assets/ogp-houmon-kango.jpg",
   "towns": {

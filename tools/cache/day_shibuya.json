@@ -16,6 +16,10 @@
    "closed": "",
    "designated": "2000-03-01",
    "org_kind": "地方公共団体（市町村）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://shibuyaswc.jp",
    "days": [
     "平日",
@@ -36,6 +40,10 @@
    "closed": "",
    "designated": "2000-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.nakato.or.jp",
    "days": [
     "平日",
@@ -56,6 +64,10 @@
    "closed": "",
    "designated": "2000-01-04",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.shibuya-pearl.or.Jp",
    "days": [
     "平日",
@@ -76,6 +88,10 @@
    "closed": "",
    "designated": "2007-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://higashi.foryou.or.jp/work.php?wid=w014",
    "days": [
     "平日",
@@ -97,6 +113,10 @@
    "closed": "",
    "designated": "2007-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.foryou.or.jp/facilities/sasahata.html",
    "days": [
     "平日",
@@ -118,6 +138,10 @@
    "closed": "",
    "designated": "2012-04-01",
    "org_kind": "その他法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://hiroo.jrc.or.jp/",
    "days": [
     "平日",
@@ -137,6 +161,10 @@
    "closed": "",
    "designated": "2012-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.foryou.or.jp/",
    "days": [
     "平日",
@@ -158,6 +186,10 @@
    "closed": "",
    "designated": "2013-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://shoukichi.org",
    "days": [
     "平日",
@@ -178,6 +210,10 @@
    "closed": "",
    "designated": "2016-06-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.nagoyaka-link.co.jp/club/daikanyama/",
    "days": [
     "平日",
@@ -199,6 +235,10 @@
    "closed": "",
    "designated": "2016-06-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.nagoyaka-link.co.jp/club/hatagaya/",
    "days": [
     "平日",
@@ -220,6 +260,10 @@
    "closed": "",
    "designated": "2016-06-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://club.nagoyaka-link.co.jp/sangubashi/",
    "days": [
     "平日",
@@ -241,6 +285,10 @@
    "closed": "",
    "designated": "2020-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.japan-lifedesign.com/ebisu/",
    "days": [
     "平日",
@@ -261,6 +309,10 @@
    "closed": "",
    "designated": "2020-06-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://www.tsukui.net/home-care/2748/",
    "days": [
     "平日",
@@ -281,6 +333,10 @@
    "closed": "",
    "designated": "2021-05-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.enzerufukushikai.or.jp/facility/shibuya/",
    "days": [
     "平日",
@@ -302,6 +358,10 @@
    "closed": "",
    "designated": "2023-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://www.foryou.or.jp/",
    "days": [
     "平日",

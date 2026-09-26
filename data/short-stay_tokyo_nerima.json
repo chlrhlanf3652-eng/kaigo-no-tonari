@@ -12,19 +12,19 @@
     "city_name": "練馬区"
   },
   "seo": {
-    "title": "練馬区のショートステイ20事業所｜予約と費用【2026年9月更新】",
-    "description": "東京都練馬区の短期入所生活介護（ショートステイ）事業所20件を連絡先つきで掲載。区内41件のうち特養の空床利用型がどれかを含め、予約の取りやすさ・1級地での自己負担・食費と滞在費の見方をまとめました。",
+    "title": "練馬区のショートステイ41事業所｜予約と費用【2026年9月更新】",
+    "description": "東京都練馬区の短期入所生活介護（ショートステイ）事業所41件を連絡先つきで掲載。区内41件のうち特養の空床利用型がどれかを含め、予約の取りやすさ・1級地での自己負担・食費と滞在費の見方をまとめました。",
     "canonical": "https://kaigonotonari.com/short-stay/tokyo/nerima/",
     "og_title": "練馬区のショートステイ一覧｜予約が取れる事業所の見分け方",
-    "og_description": "練馬区の短期入所生活介護20件を掲載。空床利用型かどうかで予約の取りやすさが変わります。費用は食費・滞在費まで含めて解説します。",
+    "og_description": "練馬区の短期入所生活介護41件を掲載。空床利用型かどうかで予約の取りやすさが変わります。費用は食費・滞在費まで含めて解説します。",
     "og_image": "https://kaigonotonari.com/assets/ogp-short-stay.jpg"
   },
   "h1": "練馬区のショートステイ一覧｜予約が取れる事業所の見分け方",
   "published": "2026-09-22",
   "modified": "2026-09-22",
-  "count_label": "掲載：20事業所",
-  "lead": "東京都練馬区で短期入所生活介護（ショートステイ）を探している方へ。東京都の指定を受けた41件から20件を連絡先つきで掲載し、そのうち特養の空床を使う<strong>空床利用型が0件</strong>あることまで示しました。ショートステイでいちばん多い壁は<strong>予約が取れないこと</strong>です。同じ区の事業所でも、専用の床を持つところと特養の空きベッドを使うところでは、押さえやすさがまったく違います。",
-  "listing_note": "練馬区内の短期入所生活介護事業所から20件を掲載しています（東京都公表・2026年9月1日時点）。区内には41件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。「特養の空床利用」「単独型」などの表示は東京都の一覧の事業所種別名です。空き状況は日々変わるため、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
+  "count_label": "掲載：41事業所",
+  "lead": "東京都練馬区で短期入所生活介護（ショートステイ）を探している方へ。東京都の指定を受けた41件から41件を連絡先つきで掲載し、そのうち特養の空床を使う<strong>空床利用型が1件</strong>あることまで示しました。ショートステイでいちばん多い壁は<strong>予約が取れないこと</strong>です。同じ区の事業所でも、専用の床を持つところと特養の空きベッドを使うところでは、押さえやすさがまったく違います。",
+  "listing_note": "練馬区内の短期入所生活介護事業所から41件を掲載しています（東京都公表・2026年9月1日時点）。区内には41件が指定を受けており、そのすべてを掲載しています。「特養の空床利用」「単独型」などの表示は東京都の一覧の事業所種別名です。空き状況は日々変わるため、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
@@ -54,6 +54,31 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "やすらぎの里大泉",
+      "telephone": "03-5387-5577",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "大泉学園町七丁目１２番３２号"
+      },
+      "parentOrganization": "社会福祉法人章佑会",
+      "identifier": "1372000560",
+      "_town": "大泉学園町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の空床利用型",
+      "_designated": "2000-03-01",
+      "_years": 26.559890485968516,
+      "url": "http://www.yasuragi1977.jp/",
+      "_tags": [
+        "大泉学園町エリア",
+        "特養の空床利用",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "第二光陽苑",
       "telephone": "03-5991-9917",
       "address": {
@@ -74,6 +99,31 @@
       "_capacity": 10,
       "_tags": [
         "関町北エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "やすらぎミラージュ",
+      "telephone": "03-5905-1191",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "大泉町　４－２４－７"
+      },
+      "parentOrganization": "社会福祉法人章佑会",
+      "identifier": "1372000610",
+      "_town": "大泉町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2000-03-01",
+      "_years": 26.559890485968516,
+      "url": "http://www.yasuragi1977.jp",
+      "_tags": [
+        "大泉町エリア",
         "併設・専用床",
         "ショートステイ"
       ]
@@ -106,6 +156,31 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム　第２育秀苑",
+      "telephone": "03-3991-0523",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "羽沢２－８－１６"
+      },
+      "parentOrganization": "社会福祉法人育秀会",
+      "identifier": "1372001097",
+      "_town": "羽沢",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2000-02-01",
+      "_years": 26.639288158795345,
+      "url": "https://www.ikushukai.or.jp/",
+      "_tags": [
+        "羽沢エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "練馬キングス・ガーデン",
       "telephone": "03-5399-2201",
       "address": {
@@ -132,6 +207,32 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "練馬高松園",
+      "telephone": "03-3926-8341",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "高松２－９－３"
+      },
+      "parentOrganization": "社会福祉法人東京福祉会",
+      "identifier": "1372001592",
+      "_town": "高松",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "url": "http://www.tfk.or.jp/",
+      "_capacity": 10,
+      "_tags": [
+        "高松エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "特別養護老人ホーム土支田創生苑",
       "telephone": "03-3978-0801",
       "address": {
@@ -151,6 +252,32 @@
       "url": "https://doshidasosei.com/",
       "_tags": [
         "土支田エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "短期入所生活介護施設　ｍｏｉ～モア～",
+      "telephone": "03-3996-6600",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "下石神井３－６－１３"
+      },
+      "parentOrganization": "社会福祉法人練馬豊成会",
+      "identifier": "1372002954",
+      "_town": "下石神井",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2003-05-01",
+      "_years": 23.394934976043807,
+      "url": "http://www.nerimahouseikai.com",
+      "_capacity": 10,
+      "_tags": [
+        "下石神井エリア",
         "併設・専用床",
         "ショートステイ"
       ]
@@ -183,6 +310,32 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "こぐれの里",
+      "telephone": "03-3925-0477",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "大泉学園町２－２６－２８"
+      },
+      "parentOrganization": "社会福祉法人東京雄心会",
+      "identifier": "1372004265",
+      "_town": "大泉学園町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2005-04-01",
+      "_years": 21.475701574264203,
+      "url": "http://www.tokyoyushinkai.jp/kogurenosato/",
+      "_capacity": 6,
+      "_tags": [
+        "大泉学園町エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "富士見台特別養護老人ホーム",
       "telephone": "03-5241-6010",
       "address": {
@@ -202,6 +355,31 @@
       "url": "http://www.nerima-swf.jp",
       "_tags": [
         "富士見台エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "田柄特別養護老人ホーム",
+      "telephone": "03-3825-1551",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "田柄４－１２－１０"
+      },
+      "parentOrganization": "社会福祉法人練馬区社会福祉事業団",
+      "identifier": "1372005023",
+      "_town": "田柄",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2006-04-01",
+      "_years": 20.476386036960985,
+      "url": "http://www.nerima-swf.jp/",
+      "_tags": [
+        "田柄エリア",
         "併設・専用床",
         "ショートステイ"
       ]
@@ -234,6 +412,32 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム　さくらヶ丘",
+      "telephone": "03-3978-1094",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "大泉学園町５－３０－３６"
+      },
+      "parentOrganization": "社会福祉法人北山会",
+      "identifier": "1372005494",
+      "_town": "大泉学園町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2007-02-01",
+      "_years": 19.638603696098563,
+      "url": "https://hokuzankai.or.jp",
+      "_capacity": 8,
+      "_tags": [
+        "大泉学園町エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "特別養護老人ホーム　第２練馬高松園",
       "telephone": "03-5987-2333",
       "address": {
@@ -254,6 +458,32 @@
       "_capacity": 7,
       "_tags": [
         "高松エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "みさよはうす土支田",
+      "telephone": "03-5947-2555",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "土支田３－２７－２７"
+      },
+      "parentOrganization": "社会福祉法人シルヴァーウィング",
+      "identifier": "1372007169",
+      "_town": "土支田",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2010-04-01",
+      "_years": 16.476386036960985,
+      "url": "http://www.silver-w.jp",
+      "_capacity": 2,
+      "_tags": [
+        "土支田エリア",
         "併設・専用床",
         "ショートステイ"
       ]
@@ -286,6 +516,31 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "練馬ケアセンターそよ風",
+      "telephone": "03-5922-4165",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "北町５－３－６"
+      },
+      "parentOrganization": "株式会社ＳＯＹＯＫＡＺＥ",
+      "identifier": "1372008753",
+      "_town": "北町",
+      "_kind": "営利法人",
+      "_fkind": "単独型",
+      "_designated": "2012-07-01",
+      "_years": 14.225872689938399,
+      "url": "http://www.unimat-soyokaze.co.jp",
+      "_tags": [
+        "北町エリア",
+        "単独型",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "特別養護老人ホーム　サンライズ大泉",
       "telephone": "03-5935-7401",
       "address": {
@@ -307,6 +562,31 @@
       "_tags": [
         "西大泉エリア",
         "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アズハイムテラス練馬",
+      "telephone": "03-3867-3200",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "土支田２－２１－５"
+      },
+      "parentOrganization": "株式会社アズパートナーズ",
+      "identifier": "1372009090",
+      "_town": "土支田",
+      "_kind": "営利法人",
+      "_fkind": "単独型",
+      "_designated": "2012-12-01",
+      "_years": 13.806981519507186,
+      "url": "http://www.as-heim.com",
+      "_tags": [
+        "土支田エリア",
+        "単独型",
         "ショートステイ"
       ]
     },
@@ -338,6 +618,32 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "短期入所生活介護事業所　南大泉かがやきの里",
+      "telephone": "03-3867-2555",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "南大泉３－１９－３１"
+      },
+      "parentOrganization": "社会福祉法人安心会",
+      "identifier": "1372009322",
+      "_town": "南大泉",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2013-04-01",
+      "_years": 13.475701574264203,
+      "url": "http://www.anshin.or.jp/",
+      "_capacity": 5,
+      "_tags": [
+        "南大泉エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "上石神井特別養護老人ホーム",
       "telephone": "03-5903-3051",
       "address": {
@@ -357,6 +663,32 @@
       "url": "http://www.nerima-swf.jp",
       "_tags": [
         "上石神井エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "第３育秀苑短期入所生活介護",
+      "telephone": "03-6904-0105",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "土支田１－３１－５"
+      },
+      "parentOrganization": "社会福祉法人育秀会",
+      "identifier": "1372009512",
+      "_town": "土支田",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2013-06-01",
+      "_years": 13.308692676249144,
+      "url": "http://www.ikushukai.or.jp",
+      "_capacity": 6,
+      "_tags": [
+        "土支田エリア",
         "併設・専用床",
         "ショートステイ"
       ]
@@ -388,6 +720,31 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "やすらぎグランデ",
+      "telephone": "03-5947-5580",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "大泉学園町８－９－３０"
+      },
+      "parentOrganization": "社会福祉法人章佑会",
+      "identifier": "1372010296",
+      "_town": "大泉学園町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2014-06-01",
+      "_years": 12.309377138945928,
+      "url": "http://www.yasuragi1977.jp/",
+      "_tags": [
+        "大泉学園町エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ショートステイ　ケアサポートねりま",
       "telephone": "03-6865-1165",
       "address": {
@@ -408,6 +765,31 @@
       "_tags": [
         "南大泉エリア",
         "単独型",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ショートステイやすらぎシティ東大泉",
+      "telephone": "03-3978-5100",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "東大泉７－２７－４９"
+      },
+      "parentOrganization": "社会福祉法人章佑会",
+      "identifier": "1372010643",
+      "_town": "東大泉",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2014-12-01",
+      "_years": 11.808350444900753,
+      "url": "http://www.yasuragi1977.jp/",
+      "_tags": [
+        "東大泉エリア",
+        "併設・専用床",
         "ショートステイ"
       ]
     },
@@ -439,6 +821,32 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ショートステイ　タムスさくらの杜　練馬",
+      "telephone": "03-5935-6397",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "土支田２－１６－２７"
+      },
+      "parentOrganization": "社会福祉法人春和会",
+      "identifier": "1372011997",
+      "_town": "土支田",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2017-08-01",
+      "_years": 9.141683778234086,
+      "url": "https://nerima.sakuranomori.or.jp/",
+      "_capacity": 12,
+      "_tags": [
+        "土支田エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "練馬の丘キングス・ガーデン",
       "telephone": "03-6629-5552",
       "address": {
@@ -459,6 +867,32 @@
       "_capacity": 12,
       "_tags": [
         "練馬エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ショートステイ　タムスさくらの杜　練馬アネックス",
+      "telephone": "03-5935-6705",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "土支田２－３６－１６"
+      },
+      "parentOrganization": "社会福祉法人春和会",
+      "identifier": "1372012854",
+      "_town": "土支田",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2019-04-01",
+      "_years": 7.477070499657769,
+      "url": "https://nerima.annex.sakuranomori.or.jp/",
+      "_capacity": 11,
+      "_tags": [
+        "土支田エリア",
         "併設・専用床",
         "ショートステイ"
       ]
@@ -491,6 +925,32 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "あおぞら縁小竹テラス　ショートステイ",
+      "telephone": "03-6909-3932",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "小竹町１－２９－１"
+      },
+      "parentOrganization": "社会福祉法人宝満福祉会",
+      "identifier": "1372013324",
+      "_town": "小竹町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2020-09-01",
+      "_years": 6.056125941136208,
+      "url": "https://homan.or.jp/",
+      "_capacity": 4,
+      "_tags": [
+        "小竹町エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "第３練馬高松園",
       "telephone": "03-5848-8000",
       "address": {
@@ -511,6 +971,32 @@
       "_capacity": 12,
       "_tags": [
         "高松エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム練馬いやし園",
+      "telephone": "03-5912-0245",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "早宮３－１３－３５"
+      },
+      "parentOrganization": "社会福祉法人気づき福祉会",
+      "identifier": "1372013910",
+      "_town": "早宮",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2022-02-01",
+      "_years": 4.63791923340178,
+      "url": "https://iyashien.com",
+      "_capacity": 11,
+      "_tags": [
+        "早宮エリア",
         "併設・専用床",
         "ショートステイ"
       ]
@@ -539,6 +1025,56 @@
         "併設・専用床",
         "ショートステイ"
       ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム　おおいずみの里",
+      "telephone": "03-6904-6602",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "大泉町４－２０－７"
+      },
+      "parentOrganization": "社会福祉法人香南会",
+      "identifier": "1372014157",
+      "_town": "大泉町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2022-08-01",
+      "_years": 4.142368240930869,
+      "url": "https://www.kounankai.jp",
+      "_tags": [
+        "大泉町エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "短期入所生活介護事業所　大泉学園ふれあいの里",
+      "telephone": "03-6904-4670",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "練馬区",
+        "streetAddress": "大泉学園町２－３０－４２"
+      },
+      "parentOrganization": "社会福祉法人安心会",
+      "identifier": "1372014215",
+      "_town": "大泉学園町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2022-10-01",
+      "_years": 3.975359342915811,
+      "url": "https://anshinkai-gr.jp",
+      "_tags": [
+        "大泉学園町エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
     }
   ],
   "faq": [
@@ -548,11 +1084,11 @@
     },
     {
       "q": "練馬区にショートステイは何件ありますか？",
-      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で練馬区内に41件の短期入所生活介護事業所が指定を受けています。本ページではそのうち20件を連絡先つきで掲載しています。掲載分のうち0件が特養の空床利用型です。"
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で練馬区内に41件の短期入所生活介護事業所が指定を受けています。本ページではそのうち41件を連絡先つきで掲載しています。掲載分のうち1件が特養の空床利用型です。"
     },
     {
       "q": "練馬区で予約が取れないときはどうすればいいですか？",
-      "a": "まず空床利用型以外を当たってください。練馬区の掲載20件のうち20件は専用の床を持つ事業所です。それでも埋まっていれば、日程をずらすか、練馬区に隣接する区の事業所を当たります。練馬区でもお盆・年末年始・連休は数か月前から埋まります。"
+      "a": "まず空床利用型以外を当たってください。練馬区の掲載41件のうち40件は専用の床を持つ事業所です。それでも埋まっていれば、日程をずらすか、練馬区に隣接する区の事業所を当たります。練馬区でもお盆・年末年始・連休は数か月前から埋まります。"
     },
     {
       "q": "練馬区で自己負担はいくらくらいですか？",
@@ -564,20 +1100,22 @@
     },
     {
       "q": "認知症があっても練馬区のショートステイを使えますか？",
-      "a": "使えます。練馬区の掲載20件のうち17件は特別養護老人ホームなどに併設されており、認知症の方の受け入れに慣れているところが多くなります。ただし環境が変わると混乱が強く出る方もいるため、練馬区でもまず1泊2日から試してください。夜間の見守り体制は事業所ごとに違います。"
+      "a": "使えます。練馬区の掲載41件のうち36件は特別養護老人ホームなどに併設されており、認知症の方の受け入れに慣れているところが多くなります。ただし環境が変わると混乱が強く出る方もいるため、練馬区でもまず1泊2日から試してください。夜間の見守り体制は事業所ごとに違います。"
     }
   ],
-  "related": "<a href=\"{{ROOT}}day-service/tokyo/nerima/\">練馬区のデイサービス<small>日中の預け先</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/nerima/\">練馬区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/nerima/\">練馬区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/nerima/\">練馬区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/nerima/\">練馬区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/nerima/\">練馬区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
-  "nearby_heading": "近隣エリアのショートステイ",
-  "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/itabashi/\">板橋区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/toshima/\">豊島区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/nakano/\">中野区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/suginami/\">杉並区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/kita/\">北区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/shinjuku/\">新宿区</a>",
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/nerima/\">練馬区の訪問介護<small>自宅に来てもらう・区内203件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/nerima/\">練馬区の訪問看護<small>医療ケアが必要な方へ・区内115件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/nerima/\">練馬区のデイサービス<small>日帰りで通う・区内80件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/nerima/\">練馬区の福祉用具<small>借りる・買う・区内45件</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/nerima/\">練馬区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/nerima/\">練馬区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "東京23区からショートステイを探す",
+  "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/chiyoda/\">千代田区<small>5件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/chuo/\">中央区<small>7件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/minato/\">港区<small>10件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/shinjuku/\">新宿区<small>13件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/bunkyo/\">文京区<small>9件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/taito/\">台東区<small>9件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/sumida/\">墨田区<small>10件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/koto/\">江東区<small>16件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/shinagawa/\">品川区<small>13件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/meguro/\">目黒区<small>8件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/ota/\">大田区<small>18件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/setagaya/\">世田谷区<small>31件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/shibuya/\">渋谷区<small>9件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/nakano/\">中野区<small>12件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/suginami/\">杉並区<small>23件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/toshima/\">豊島区<small>11件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/kita/\">北区<small>12件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/arakawa/\">荒川区<small>10件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/itabashi/\">板橋区<small>24件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/adachi/\">足立区<small>44件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/katsushika/\">葛飾区<small>25件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/edogawa/\">江戸川区<small>25件</small></a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
     "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／定員・公式サイト）",
     "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
     "練馬区「地域包括支援センター一覧」",
-    "日本郵便 郵便番号データにもとづく練馬区の町域一覧"
+    "日本郵便 郵便番号データにもとづく練馬区の町域一覧",
+    "東京都総務局統計部「住民基本台帳による東京都の世帯と人口」（令和8年1月1日現在／年齢3区分別人口・5歳階級別人口）",
+    "東京都福祉局「介護保険事業状況報告（月報）」令和8年6月分（保険者別・第1号被保険者数／要介護認定者数）"
   ],
-  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず1泊2日から</h4>\n        <p>連続利用の上限や緊急時の預け先は、ハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}short-stay/\">ショートステイのしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>練馬区内の短期入所生活介護は41件（都指定）</li>\n          <li>掲載20件のうち空床利用型が0件</li>\n          <li>併設型・要介護3で1日約849円（1割）</li>\n          <li>食費・滞在費は全額自己負担</li>\n          <li>入口はケアマネか地域包括支援センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}short-stay/\">ショートステイのしくみ</a></li>\n          <li><a href=\"{{ROOT}}day-service/\">デイサービス</a></li>\n        </ul>\n      </div>",
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず1泊2日から</h4>\n        <p>連続利用の上限や緊急時の預け先は、ハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}short-stay/\">ショートステイのしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>練馬区内の短期入所生活介護は41件（都指定）</li>\n          <li>掲載41件のうち空床利用型が1件</li>\n          <li>併設型・要介護3で1日約849円（1割）</li>\n          <li>食費・滞在費は全額自己負担</li>\n          <li>入口はケアマネか地域包括支援センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}short-stay/\">ショートステイのしくみ</a></li>\n          <li><a href=\"{{ROOT}}day-service/\">デイサービス</a></li>\n        </ul>\n      </div>",
   "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
   "hero_image": "assets/ogp-short-stay.jpg",
   "towns": {

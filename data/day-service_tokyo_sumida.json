@@ -12,19 +12,19 @@
     "city_name": "墨田区"
   },
   "seo": {
-    "title": "墨田区のデイサービス20事業所｜送迎と費用の見方【2026年9月更新】",
-    "description": "東京都墨田区の通所介護（デイサービス）事業所20件を連絡先つきで掲載。区内36件の中から選ぶための所在町域・運営法人・開設年数の内訳と、1級地での自己負担、見学で聞くことをまとめました。",
+    "title": "墨田区のデイサービス36事業所｜送迎と費用の見方【2026年9月更新】",
+    "description": "東京都墨田区の通所介護（デイサービス）事業所36件を連絡先つきで掲載。区内36件の中から選ぶための所在町域・運営法人・開設年数の内訳と、1級地での自己負担、見学で聞くことをまとめました。",
     "canonical": "https://kaigonotonari.com/day-service/tokyo/sumida/",
     "og_title": "墨田区のデイサービス一覧｜送迎範囲と費用の見方",
-    "og_description": "墨田区の通所介護事業所20件を掲載。送迎範囲・入浴設備・開設年数から選ぶ順番と、保険外費用を含めた費用の見方を解説します。",
+    "og_description": "墨田区の通所介護事業所36件を掲載。送迎範囲・入浴設備・開設年数から選ぶ順番と、保険外費用を含めた費用の見方を解説します。",
     "og_image": "https://kaigonotonari.com/assets/ogp-day-service.jpg"
   },
   "h1": "墨田区のデイサービス一覧｜送迎範囲と費用の見方",
   "published": "2026-09-22",
   "modified": "2026-09-22",
-  "count_label": "掲載：20事業所",
-  "lead": "東京都墨田区で通所介護（デイサービス）を探している方へ。東京都の指定を受けた36件から20件を連絡先つきで掲載し、所在町域・運営法人・開設からの年数の内訳と、1級地での自己負担をまとめました。デイサービスでいちばん多い壁は<strong>本人が行きたがらないこと</strong>です。選ぶ順番は近い順ではなく、通い続けられる条件の順になります。",
-  "listing_note": "墨田区内の通所介護事業所から20件を掲載しています（東京都公表・2026年9月1日時点）。区内には36件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。定員18人以下の地域密着型通所介護は区が指定するため、この一覧には含まれていません。掲載順は事業所の優劣を示すものではありません。",
+  "count_label": "掲載：36事業所",
+  "lead": "東京都墨田区で通所介護（デイサービス）を探している方へ。東京都の指定を受けた36件から36件を連絡先つきで掲載し、所在町域・運営法人・開設からの年数の内訳と、1級地での自己負担をまとめました。デイサービスでいちばん多い壁は<strong>本人が行きたがらないこと</strong>です。選ぶ順番は近い順ではなく、通い続けられる条件の順になります。",
+  "listing_note": "墨田区内の通所介護事業所から36件を掲載しています（東京都公表・2026年9月1日時点）。区内には36件が指定を受けており、そのすべてを掲載しています。定員18人以下の地域密着型通所介護は区が指定するため、この一覧には含まれていません。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
@@ -89,6 +89,37 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "東京清風園高齢者在宅サービスセンター",
+      "telephone": "03-6861-8771",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "立花１－２５－１２"
+      },
+      "parentOrganization": "社会福祉法人賛育会",
+      "identifier": "1370700534",
+      "_town": "立花",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-03-01",
+      "_years": 26.559890485968516,
+      "url": "http://www.san-ikukai.or.jp/sumida/seifu",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 40,
+      "_tags": [
+        "立花エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "墨田区うめわか高齢者在宅サービスセンター",
       "telephone": "03-5630-8008",
       "address": {
@@ -113,6 +144,37 @@
       "_capacity": 29,
       "_tags": [
         "墨田エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "すみだ福祉保健センター",
+      "telephone": "03-5608-3712",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "向島３－３６－７"
+      },
+      "parentOrganization": "社会福祉法人墨田区社会福祉事業団",
+      "identifier": "1370701912",
+      "_town": "向島",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2006-04-01",
+      "_years": 20.476386036960985,
+      "url": "https://sumida-jigyodan.or.jp/sumidafukushihokencenter/daykinou/index",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 331,
+      "_tags": [
+        "向島エリア",
         "土曜日も営業",
         "20年以上",
         "デイサービス"
@@ -150,6 +212,38 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "デイサービスセンター　このまち両国",
+      "telephone": "03-3632-0365",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "緑３－３－５"
+      },
+      "parentOrganization": "株式会社けあ３６５",
+      "identifier": "1370702092",
+      "_town": "緑",
+      "_kind": "営利法人",
+      "_designated": "2006-09-01",
+      "_years": 20.057494866529773,
+      "url": "http://care365.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_capacity": 35,
+      "_tags": [
+        "緑エリア",
+        "日曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ニチイケアセンターおしあげ",
       "telephone": "03-5819-7227",
       "address": {
@@ -174,6 +268,36 @@
       "_capacity": 40,
       "_tags": [
         "太平エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "健遊館　冨士乃湯",
+      "telephone": "03-5655-2622",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "立花４－７－９立花冨士ハイツ１Ｆ"
+      },
+      "parentOrganization": "株式会社健遊館",
+      "identifier": "1370702241",
+      "_town": "立花",
+      "_kind": "営利法人",
+      "_designated": "2007-08-01",
+      "_years": 19.143052703627653,
+      "url": "http://fujinoyu.kenyu.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 30,
+      "_tags": [
+        "立花エリア",
         "土曜日も営業",
         "デイサービス"
       ]
@@ -237,6 +361,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ジョイリハ亀戸",
+      "telephone": "03-5630-2018",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "立花１－１７－１０"
+      },
+      "parentOrganization": "株式会社ヤマウチ",
+      "identifier": "1370702704",
+      "_town": "立花",
+      "_kind": "営利法人",
+      "_designated": "2009-11-01",
+      "_years": 16.889801505817932,
+      "url": "http://www.okamoto-group.co.jp/joyreha/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 40,
+      "_tags": [
+        "立花エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "デイサービスセンター　たのしいデイ　りょうごく",
       "telephone": "03-5819-2710",
       "address": {
@@ -260,6 +414,36 @@
       ],
       "_tags": [
         "亀沢エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社ケアサービス　デイサービスセンター墨田",
+      "telephone": "03-3618-2515",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "墨田１－７－２"
+      },
+      "parentOrganization": "株式会社ケアサービス",
+      "identifier": "1370703017",
+      "_town": "墨田",
+      "_kind": "営利法人",
+      "_designated": "2011-06-01",
+      "_years": 15.31006160164271,
+      "url": "http://care.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 35,
+      "_tags": [
+        "墨田エリア",
         "土曜日も営業",
         "デイサービス"
       ]
@@ -296,6 +480,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ヒューマンライフケアしらひげ乃湯",
+      "telephone": "03-5631-2239",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "堤通２－７－３７"
+      },
+      "parentOrganization": "ヒューマンライフケア株式会社",
+      "identifier": "1370703082",
+      "_town": "堤通",
+      "_kind": "営利法人",
+      "_designated": "2011-07-01",
+      "_years": 15.227926078028748,
+      "url": "https://kaigo.human-lifecare.jp/facilities/ds013_Shirahige/summary.html",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 25,
+      "_tags": [
+        "堤通エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ゆめふる錦糸町店",
       "telephone": "05017538196",
       "address": {
@@ -320,6 +534,35 @@
       "_capacity": 1,
       "_tags": [
         "太平エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "らいおんハートリハビリ温泉デイサービス本所",
+      "telephone": "03-5819-3178",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "本所１－２－１４－１０１"
+      },
+      "parentOrganization": "株式会社カスケード東京",
+      "identifier": "1370703637",
+      "_town": "本所",
+      "_kind": "営利法人",
+      "_designated": "2013-02-01",
+      "_years": 13.637234770704996,
+      "url": "http://lion-heart.co/html/honjo.html",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "本所エリア",
         "土曜日も営業",
         "デイサービス"
       ]
@@ -384,6 +627,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "デイサービス夢楽駒形",
+      "telephone": "03-5637-8770",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "東駒形２－１９－１Ｃｉｔｙ　Ｐａｌ　東駒形　１Ｆ"
+      },
+      "parentOrganization": "株式会社我喜大笑",
+      "identifier": "1370704221",
+      "_town": "東駒形",
+      "_kind": "営利法人",
+      "_designated": "2015-01-01",
+      "_years": 11.723477070499658,
+      "url": "http://yumeraku.net/komgata/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 35,
+      "_tags": [
+        "東駒形エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "デイサービス　ＭＡＲＵ",
       "telephone": "03-6658-8185",
       "address": {
@@ -406,6 +679,36 @@
       ],
       "_tags": [
         "横川エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ベストリハ墨田",
+      "telephone": "03-5637-9231",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "横川１－８－３ＥＡＳＴ　ＴＯＫＹＯ　１階"
+      },
+      "parentOrganization": "ベストリハ株式会社",
+      "identifier": "1370704528",
+      "_town": "横川",
+      "_kind": "営利法人",
+      "_designated": "2016-04-01",
+      "_years": 10.47501711156742,
+      "url": "http://www.bestreha.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 40,
+      "_tags": [
+        "横川エリア",
+        "土曜日も営業",
         "デイサービス"
       ]
     },
@@ -440,6 +743,35 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "デイサービスセンターなごやか墨田",
+      "telephone": "03-5631-5471",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "八広４－１０－６"
+      },
+      "parentOrganization": "なごやかケアリンク株式会社",
+      "identifier": "1370704635",
+      "_town": "八広",
+      "_kind": "営利法人",
+      "_designated": "2016-06-01",
+      "_years": 10.30800821355236,
+      "url": "http://www.nagoyaka-link.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_capacity": 35,
+      "_tags": [
+        "八広エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "リハプライド　鐘ヶ淵",
       "telephone": "03-6657-1805",
       "address": {
@@ -462,6 +794,34 @@
       ],
       "_tags": [
         "墨田エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイホームゆりの木両国",
+      "telephone": "03-6658-4733",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "石原２－７－４吉武ビル１階"
+      },
+      "parentOrganization": "株式会社日本エルダリーケアサービス",
+      "identifier": "1370705186",
+      "_town": "石原",
+      "_kind": "営利法人",
+      "_designated": "2019-04-01",
+      "_years": 7.477070499657769,
+      "url": "https://www.elderly.jp/yurinoki/home/ryogoku/",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "石原エリア",
+        "土曜日も営業",
         "デイサービス"
       ]
     },
@@ -527,6 +887,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "Ｔｅｎｏｎ吾妻橋",
+      "telephone": "03-5610-5551",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "吾妻橋２－１８－８パークリヴィエール１階"
+      },
+      "parentOrganization": "株式会社新期ヘルスケア",
+      "identifier": "1370705301",
+      "_town": "吾妻橋",
+      "_kind": "営利法人",
+      "_designated": "2020-02-01",
+      "_years": 6.639288158795345,
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "吾妻橋エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "デイサービス　ケット",
       "telephone": "03-6456-1964",
       "address": {
@@ -547,6 +935,34 @@
       ],
       "_tags": [
         "本所エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "エバーウォーク曳舟",
+      "telephone": "03-6231-9929",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "東向島２－２０－１１向島ダイヤマンション１階"
+      },
+      "parentOrganization": "株式会社エバーウォーク",
+      "identifier": "1370705491",
+      "_town": "東向島",
+      "_kind": "営利法人",
+      "_designated": "2022-02-01",
+      "_years": 4.63791923340178,
+      "url": "http://everwalk.net/",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_capacity": 25,
+      "_tags": [
+        "東向島エリア",
         "デイサービス"
       ]
     },
@@ -581,6 +997,35 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "デイサービスやわら",
+      "telephone": "03-6657-0715",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "京島２－８－６"
+      },
+      "parentOrganization": "一般社団法人自由学舎",
+      "identifier": "1370705582",
+      "_town": "京島",
+      "_kind": "社団・財団",
+      "_designated": "2022-08-01",
+      "_years": 4.142368240930869,
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 25,
+      "_tags": [
+        "京島エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "デイサービス夢楽駒形２号店",
       "telephone": "03-6657-2201",
       "address": {
@@ -609,6 +1054,34 @@
         "開設3年以内",
         "デイサービス"
       ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "エバーウォーク両国",
+      "telephone": "03-5637-8218",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "墨田区",
+        "streetAddress": "石原３－２７－１０原田ビル１階"
+      },
+      "parentOrganization": "株式会社エバーウォーク",
+      "identifier": "1370805374",
+      "_town": "石原",
+      "_kind": "営利法人",
+      "_designated": "2015-01-01",
+      "_years": 11.723477070499658,
+      "url": "https://everwalk.net/",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_capacity": 35,
+      "_tags": [
+        "石原エリア",
+        "デイサービス"
+      ]
     }
   ],
   "faq": [
@@ -618,11 +1091,11 @@
     },
     {
       "q": "墨田区にデイサービスは何件ありますか？",
-      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で墨田区内に36件の通所介護事業所が指定を受けています。本ページではそのうち20件を連絡先つきで掲載しています。なお定員18人以下の地域密着型通所介護は区が指定するため、この件数には含まれていません。"
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で墨田区内に36件の通所介護事業所が指定を受けています。本ページではそのうち36件を連絡先つきで掲載しています。なお定員18人以下の地域密着型通所介護は区が指定するため、この件数には含まれていません。"
     },
     {
       "q": "墨田区の掲載事業所は、どこを見て絞り込めばいいですか？",
-      "a": "まず送迎範囲に自宅が入るかで絞り、次に入浴設備（個浴か機械浴か）で絞るのが順番です。墨田区の掲載20件では営利法人が14件と最も多く、指定から20年以上の事業所も4件あります。長く続いているところは空きが出にくい一方、新しいところは空きがあります。"
+      "a": "まず送迎範囲に自宅が入るかで絞り、次に入浴設備（個浴か機械浴か）で絞るのが順番です。墨田区の掲載36件では営利法人が27件と最も多く、指定から20年以上の事業所も7件あります。長く続いているところは空きが出にくい一方、新しいところは空きがあります。"
     },
     {
       "q": "墨田区で自己負担はいくらくらいですか？",
@@ -630,22 +1103,24 @@
     },
     {
       "q": "本人が墨田区のデイサービスに行きたがりません。",
-      "a": "まず体験利用を試してください。墨田区内には36件あり、掲載20件を見ても営利法人が14件と偏りがあるように、規模も雰囲気も事業所ごとに違います。合わない理由別の対処（個浴のある事業所、小規模な事業所など）はデイサービスのしくみのページにまとめました。墨田区でも週1回から始めて、慣れてから増やすのが定石です。"
+      "a": "まず体験利用を試してください。墨田区内には36件あり、掲載36件を見ても営利法人が27件と偏りがあるように、規模も雰囲気も事業所ごとに違います。合わない理由別の対処（個浴のある事業所、小規模な事業所など）はデイサービスのしくみのページにまとめました。墨田区でも週1回から始めて、慣れてから増やすのが定石です。"
     },
     {
       "q": "墨田区の事業所は、途中で変更できますか？",
       "a": "変更できます。ケアマネジャーに相談すればケアプランを見直したうえで墨田区内の別の事業所に切り替えられます。墨田区は区内36件と候補があるので、合わずに変える方は珍しくありません。"
     }
   ],
-  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/sumida/\">墨田区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/sumida/\">墨田区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/sumida/\">墨田区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/sumida/\">墨田区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/sumida/\">墨田区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/sumida/\">墨田区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
-  "nearby_heading": "近隣エリアのデイサービス",
-  "nearby": "<a href=\"{{ROOT}}day-service/tokyo/chuo/\">中央区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/taito/\">台東区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/koto/\">江東区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/arakawa/\">荒川区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/adachi/\">足立区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/katsushika/\">葛飾区</a>",
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/sumida/\">墨田区の訪問介護<small>自宅に来てもらう・区内64件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/sumida/\">墨田区の訪問看護<small>医療ケアが必要な方へ・区内39件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/sumida/\">墨田区のショートステイ<small>数日あずける・区内10件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/sumida/\">墨田区の福祉用具<small>借りる・買う・区内23件</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/sumida/\">墨田区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/sumida/\">墨田区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "東京23区からデイサービスを探す",
+  "nearby": "<a href=\"{{ROOT}}day-service/tokyo/chiyoda/\">千代田区<small>3件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/chuo/\">中央区<small>13件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/minato/\">港区<small>17件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/shinjuku/\">新宿区<small>27件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/bunkyo/\">文京区<small>18件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/taito/\">台東区<small>18件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/koto/\">江東区<small>52件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/shinagawa/\">品川区<small>30件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/meguro/\">目黒区<small>24件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/ota/\">大田区<small>83件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/setagaya/\">世田谷区<small>99件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/shibuya/\">渋谷区<small>15件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/nakano/\">中野区<small>25件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/suginami/\">杉並区<small>44件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/toshima/\">豊島区<small>17件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/kita/\">北区<small>46件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/arakawa/\">荒川区<small>31件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/itabashi/\">板橋区<small>70件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/nerima/\">練馬区<small>80件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/adachi/\">足立区<small>107件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/katsushika/\">葛飾区<small>71件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/edogawa/\">江戸川区<small>81件</small></a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
     "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／定員・営業曜日・公式サイト）",
     "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」通所介護費（令和6年度改定）／介護報酬の地域区分（1級地・1単位11.40円）",
     "墨田区「高齢者支援総合センター一覧」",
-    "日本郵便 郵便番号データにもとづく墨田区の町域一覧"
+    "日本郵便 郵便番号データにもとづく墨田区の町域一覧",
+    "東京都総務局統計部「住民基本台帳による東京都の世帯と人口」（令和8年1月1日現在／年齢3区分別人口・5歳階級別人口）",
+    "東京都福祉局「介護保険事業状況報告（月報）」令和8年6月分（保険者別・第1号被保険者数／要介護認定者数）"
   ],
   "sidebar": "<div class=\"side cta-side\">\n        <h4>まず体験利用を</h4>\n        <p>合うかどうかは見学だけでは分かりません。制度と費用はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}day-service/\">デイサービスのしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>墨田区内の通所介護は36件（都指定）</li>\n          <li>7〜8時間・要介護1で約750円（1割）</li>\n          <li>食費などは全額自己負担</li>\n          <li>入口はケアマネか高齢者支援総合センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}day-service/\">デイサービスのしくみ</a></li>\n          <li><a href=\"{{ROOT}}short-stay/\">ショートステイ</a></li>\n        </ul>\n      </div>",
   "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",

@@ -16,6 +16,10 @@
    "closed": "",
    "designated": "2000-02-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.sakuraen.or.jp",
    "days": [
     "平日",
@@ -36,6 +40,10 @@
    "closed": "",
    "designated": "2000-02-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.seitoku.or.jp/hp/care.htm",
    "days": [
     "平日",
@@ -55,6 +63,10 @@
    "closed": "",
    "designated": "2000-03-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://komabaen.org/",
    "days": [
     "平日",
@@ -76,6 +88,10 @@
    "closed": "",
    "designated": "2000-10-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.yasashiite.com",
    "days": [
     "平日",
@@ -97,6 +113,10 @@
    "closed": "",
    "designated": "2006-10-01",
    "org_kind": "生協",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "days": [
     "平日",
     "祝日"
@@ -104,6 +124,30 @@
    "capacity": 28,
    "lat": "35.641360000000000",
    "lng": "139.692107800000030"
+  },
+  {
+   "name": "株式会社ケアサービス　デイサービスセンター目黒中町",
+   "identifier": "1371001940",
+   "org": "株式会社ケアサービス",
+   "address": "東京都目黒区中町１－３７－１４",
+   "tel": "03-5768-1440",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2005-05-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.care.co.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.630464100000000",
+   "lng": "139.694166300000000"
   },
   {
    "name": "パナソニック　エイジフリーケアセンター八雲・デイサービス",
@@ -116,6 +160,10 @@
    "closed": "",
    "designated": "2008-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://panasonic.co.jp/ls/paf/",
    "days": [
     "平日",
@@ -137,6 +185,10 @@
    "closed": "",
    "designated": "2010-03-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://shimizunosato.sakura.ne.jp",
    "days": [
     "平日",
@@ -158,6 +210,10 @@
    "closed": "",
    "designated": "2012-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.tokyu-ohana.jp",
    "days": [
     "平日",
@@ -179,6 +235,10 @@
    "closed": "",
    "designated": "2012-08-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://bunkayokusen.kenyu.co.jp/",
    "days": [
     "平日",
@@ -199,6 +259,10 @@
    "closed": "",
    "designated": "2014-09-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://heavenly2014.com",
    "days": [
     "平日",
@@ -208,6 +272,31 @@
    "capacity": 20,
    "lat": "35.629256400000000",
    "lng": "139.711456499999940"
+  },
+  {
+   "name": "デイサービスあかつき目黒本町",
+   "identifier": "1371004043",
+   "org": "日の出ケア株式会社",
+   "address": "東京都目黒区目黒本町６－１６－１２カーサ・アヤ１階",
+   "tel": "03-6303-3047",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2015-05-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://hinode-care.com/establishment/akatsuki/",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "lat": "35.619248800000010",
+   "lng": "139.694508300000050"
   },
   {
    "name": "デイサービス夢楽西小山",
@@ -220,6 +309,10 @@
    "closed": "",
    "designated": "2015-07-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://yumeraku.net/nishikoyama/",
    "days": [
     "平日",
@@ -240,6 +333,10 @@
    "closed": "",
    "designated": "2015-07-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.sykz.co.jp/",
    "days": [
     "平日",
@@ -260,6 +357,10 @@
    "closed": "",
    "designated": "2016-05-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://ayumu-ji.co.jp/",
    "days": [
     "平日",
@@ -279,6 +380,10 @@
    "closed": "",
    "designated": "2016-06-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.nagoyaka-link.co.jp",
    "days": [
     "平日",
@@ -300,6 +405,10 @@
    "closed": "",
    "designated": "2017-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "days": [
     "平日",
     "土曜日",
@@ -308,6 +417,30 @@
    "capacity": 20,
    "lat": "35.617126900000000",
    "lng": "139.695052700000020"
+  },
+  {
+   "name": "グリーンデイ目黒本町",
+   "identifier": "1371004571",
+   "org": "介護ジャパン株式会社",
+   "address": "東京都目黒区目黒本町３－１９－２清徳会ビル１・２階",
+   "tel": "03-6452-4473",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2017-05-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://kaigojapan.co.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.623999000000030",
+   "lng": "139.698372200000000"
   },
   {
    "name": "グリーンデイ鷹番",
@@ -320,6 +453,10 @@
    "closed": "",
    "designated": "2018-02-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://greenday15.com/",
    "days": [
     "平日",
@@ -340,6 +477,10 @@
    "closed": "",
    "designated": "2018-08-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://soyoka.wixsite.com/main",
    "days": [
     "平日",
@@ -360,6 +501,10 @@
    "closed": "",
    "designated": "2021-01-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.office313.com/kakinokizaka/",
    "days": [
     "平日",
@@ -380,6 +525,10 @@
    "closed": "",
    "designated": "2023-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://wellbista-cs.com/",
    "days": [
     "平日",
@@ -399,6 +548,10 @@
    "closed": "",
    "designated": "2023-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://day-clover.com/dayservice/office/gakudaiannex/",
    "days": [
     "平日",
@@ -408,6 +561,29 @@
    ],
    "lat": "35.629669100000010",
    "lng": "139.694409899999980"
+  },
+  {
+   "name": "あずゆーらいく自由が丘",
+   "identifier": "1371005560",
+   "org": "株式会社フイユ",
+   "address": "東京都目黒区自由が丘２－３－１３Ｊｕｉｍａ　２　１階",
+   "tel": "03-5731-3088",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2025-12-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.feuille-corp.com",
+   "days": [
+    "平日",
+    "土曜日"
+   ],
+   "lat": "35.612795478624910",
+   "lng": "139.666740331213400"
   }
  ],
  "towns": [
@@ -524,5 +700,5 @@
  "service": "通所介護",
  "fetched": "2026-09-22",
  "source2": "厚生労働省「介護サービス情報公表システム」オープンデータ",
- "mhlw_hit": 20
+ "mhlw_hit": 24
 }

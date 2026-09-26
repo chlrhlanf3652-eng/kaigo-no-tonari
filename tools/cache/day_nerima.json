@@ -16,6 +16,10 @@
    "closed": "",
    "designated": "2006-01-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://telwel-kaigo.com/",
    "days": [
     "平日",
@@ -23,6 +27,55 @@
    ],
    "lat": "35.722221035702994",
    "lng": "139.571073461349130"
+  },
+  {
+   "name": "光陽苑",
+   "identifier": "1372000537",
+   "org": "社会福祉法人泉陽会",
+   "address": "東京都練馬区西大泉５－２１－２",
+   "tel": "03-3923-5264",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2000-02-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://senyoukai.or.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 39,
+   "lat": "35.756760100000000",
+   "lng": "139.569597199999970"
+  },
+  {
+   "name": "第二光陽苑",
+   "identifier": "1372000602",
+   "org": "社会福祉法人泉陽会",
+   "address": "東京都練馬区関町北５－７－２２",
+   "tel": "03-5991-9917",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2000-02-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://senyoukai.or.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.732446207482610",
+   "lng": "139.571772698147580"
   },
   {
    "name": "やすらぎ舎デイサービスセンター",
@@ -35,6 +88,10 @@
    "closed": "",
    "designated": "2000-03-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.yasuragi1977.jp/",
    "days": [
     "平日",
@@ -43,6 +100,55 @@
    ],
    "lat": "35.773033700000000",
    "lng": "139.591364699999980"
+  },
+  {
+   "name": "やすらぎミラージュ　デイサービスセンター",
+   "identifier": "1372001410",
+   "org": "社会福祉法人章佑会",
+   "address": "東京都練馬区大泉町　４－２４－７",
+   "tel": "03-5905-1191",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2000-03-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.yasuragi1977.jp",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 40,
+   "lat": "35.762715800000000",
+   "lng": "139.597467100000020"
+  },
+  {
+   "name": "練馬高松園デイサービスセンター",
+   "identifier": "1372001600",
+   "org": "社会福祉法人東京福祉会",
+   "address": "東京都練馬区高松２－９－３",
+   "tel": "03-3926-8341",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2000-05-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.tfk.or.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.746754392401215",
+   "lng": "139.630277555819700"
   },
   {
    "name": "大泉学園デイサービスセンター",
@@ -55,6 +161,10 @@
    "closed": "",
    "designated": "2002-05-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.fukuinkai.or.jp",
    "days": [
     "平日",
@@ -64,6 +174,54 @@
    "capacity": 35,
    "lat": "35.759779700000000",
    "lng": "139.587484899999940"
+  },
+  {
+   "name": "豊玉南しあわせの里デイサービスセンター",
+   "identifier": "1372003499",
+   "org": "社会福祉法人安心会",
+   "address": "東京都練馬区豊玉南２－２６－６",
+   "tel": "03-5946-2323",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2004-05-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://anshinkai-gr.jp/anshinkai/toyotamaminamishiawasenosato",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 40,
+   "lat": "35.728682500000000",
+   "lng": "139.654413200000020"
+  },
+  {
+   "name": "さくら",
+   "identifier": "1372003887",
+   "org": "有限会社ツノダシステム",
+   "address": "東京都練馬区貫井４－４７－６１ＫＭエンゼルハイム中村橋１０１号",
+   "tel": "03-3577-5365",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2004-11-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.743958487801610",
+   "lng": "139.629908339881130"
   },
   {
    "name": "練馬区立高野台デイサービスセンター",
@@ -76,6 +234,10 @@
    "closed": "",
    "designated": "2006-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://anshinkai-gr.jp/anshinkai/takanodaidayservice",
    "days": [
     "平日"
@@ -83,6 +245,55 @@
    "capacity": 48,
    "lat": "35.746527100000000",
    "lng": "139.609765800000000"
+  },
+  {
+   "name": "株式会社ケアサービス　デイサービスセンターさくら",
+   "identifier": "1372004851",
+   "org": "株式会社ケアサービス",
+   "address": "東京都練馬区桜台１－１２－５栖鳳ビル",
+   "tel": "03-5946-5530",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2006-04-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.care.co.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 34,
+   "lat": "35.739583796859290",
+   "lng": "139.662971210450700"
+  },
+  {
+   "name": "練馬区立錦デイサービスセンター",
+   "identifier": "1372004919",
+   "org": "社会福祉法人練馬区社会福祉事業団",
+   "address": "東京都練馬区錦２－６－１４",
+   "tel": "03-3937-5031",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2006-04-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.nerima-swf.jp/office/30?c=12",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.761598500000000",
+   "lng": "139.666205600000000"
   },
   {
    "name": "大泉デイサービスセンター",
@@ -95,6 +306,10 @@
    "closed": "",
    "designated": "2006-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.nerima-swf.jp/",
    "days": [
     "平日",
@@ -103,6 +318,55 @@
    ],
    "lat": "35.751125500000000",
    "lng": "139.596170400000000"
+  },
+  {
+   "name": "練馬区立豊玉デイサービスセンター",
+   "identifier": "1372004950",
+   "org": "社会福祉法人練馬区社会福祉事業団",
+   "address": "東京都練馬区豊玉南３－９－１３",
+   "tel": "03-3993-1341",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2006-04-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.nerima-swf.jp/service/tsusyo/toyotamaday/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.727704700000000",
+   "lng": "139.652643899999930"
+  },
+  {
+   "name": "練馬区立土支田デイサービスセンター",
+   "identifier": "1372004968",
+   "org": "社会福祉法人練馬区社会福祉事業団",
+   "address": "東京都練馬区土支田２－４０－１８",
+   "tel": "03-5387-6760",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2006-04-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.nerima-swf.jp/office/21?c=7",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 35,
+   "lat": "35.764243800000000",
+   "lng": "139.611396000000000"
   },
   {
    "name": "練馬区立練馬デイサービスセンター",
@@ -115,6 +379,10 @@
    "closed": "",
    "designated": "2006-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://www.nerima-swf.jp/office/28?c=11",
    "days": [
     "平日",
@@ -124,6 +392,54 @@
    "capacity": 5,
    "lat": "35.744116900000000",
    "lng": "139.654140500000040"
+  },
+  {
+   "name": "富士見台デイサービスセンター",
+   "identifier": "1372005007",
+   "org": "社会福祉法人練馬区社会福祉事業団",
+   "address": "東京都練馬区富士見台１－２２－４",
+   "tel": "03-5241-6010",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2006-04-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.nerima-swf.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.733347800000000",
+   "lng": "139.621132699999970"
+  },
+  {
+   "name": "石神井クラシック・コミュニティ　そよ風",
+   "identifier": "1372005239",
+   "org": "株式会社ＳＯＹＯＫＡＺＥ",
+   "address": "東京都練馬区石神井台７－１６－１１",
+   "tel": "03-5927-5140",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2006-08-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.sykz.co.jp",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.731244000000000",
+   "lng": "139.578383600000050"
   },
   {
    "name": "カルチャー倶楽部練馬北町",
@@ -136,6 +452,10 @@
    "closed": "",
    "designated": "2008-01-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.culture-club.net",
    "days": [
     "平日",
@@ -145,6 +465,54 @@
    "capacity": 20,
    "lat": "35.768239300000000",
    "lng": "139.662380699999970"
+  },
+  {
+   "name": "デイサービス　ほほえみ",
+   "identifier": "1372006096",
+   "org": "有限会社イシワタ",
+   "address": "東京都練馬区小竹町１－３５－４",
+   "tel": "03-5917-5766",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2008-03-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://ishiwata-kaigo.com",
+   "days": [
+    "平日"
+   ],
+   "lat": "35.738253800000020",
+   "lng": "139.676763599999960"
+  },
+  {
+   "name": "パナソニック　エイジフリーケアセンター練馬春日町・デイサービス",
+   "identifier": "1372006138",
+   "org": "パナソニックエイジフリー株式会社",
+   "address": "東京都練馬区春日町３－３３－２７　サンヴェリー真野１Ｆ",
+   "tel": "03-3999-6505",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2008-04-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://panasonic.biz/healthcare/elderlycare/",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "capacity": 28,
+   "lat": "35.752898900000000",
+   "lng": "139.643635499999960"
   },
   {
    "name": "ケアパートナー大泉",
@@ -157,6 +525,10 @@
    "closed": "",
    "designated": "2010-03-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://www.care-partner.com/place/oizumi/",
    "days": [
     "平日",
@@ -169,6 +541,56 @@
    "lng": "139.568927600000050"
   },
   {
+   "name": "ヒューマンライフケアあいぞめの湯",
+   "identifier": "1372007342",
+   "org": "ヒューマンライフケア株式会社",
+   "address": "東京都練馬区豊玉北６－７－２第二愛染ビル１階",
+   "tel": "03-5912-3358",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2010-07-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://kaigo.human-lifecare.jp/facilities/ds004_Aizome/summary.html",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "lat": "35.734011600000000",
+   "lng": "139.653120500000000"
+  },
+  {
+   "name": "ジョイリハＳＰＡ光ヶ丘",
+   "identifier": "1372007391",
+   "org": "株式会社ヤマウチ",
+   "address": "東京都練馬区田柄３－４－１４",
+   "tel": "03-3577-9211",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2010-08-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.okamoto-group.co.jp/joyreha/index.html",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 310,
+   "lat": "35.759970200000000",
+   "lng": "139.642299200000020"
+  },
+  {
    "name": "練馬ケアセンターそよ風",
    "identifier": "1372008753",
    "org": "株式会社ＳＯＹＯＫＡＺＥ",
@@ -179,6 +601,10 @@
    "closed": "",
    "designated": "2012-07-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.unimat-rc.co.jp/",
    "days": [
     "平日",
@@ -191,6 +617,56 @@
    "lng": "139.655337100000000"
   },
   {
+   "name": "アズハイムテラス練馬",
+   "identifier": "1372009108",
+   "org": "株式会社アズパートナーズ",
+   "address": "東京都練馬区土支田２－２１－５",
+   "tel": "03-3867-3200",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2012-12-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.as-heim.com",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.761677500000000",
+   "lng": "139.614234700000000"
+  },
+  {
+   "name": "ツクイ練馬春日町",
+   "identifier": "1372009389",
+   "org": "株式会社ツクイ",
+   "address": "東京都練馬区春日町２－９－３３",
+   "tel": "03-3577-9265",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2013-05-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.tsukui.net",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "capacity": 60,
+   "lat": "35.754561989235896",
+   "lng": "139.645631291540520"
+  },
+  {
    "name": "デイサービス　ヨウコー練馬北町",
    "identifier": "1372009835",
    "org": "株式会社ヨウコーアソシエイツ",
@@ -201,6 +677,10 @@
    "closed": "",
    "designated": "2013-10-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://rehabili-youko.com",
    "days": [
     "平日",
@@ -209,6 +689,54 @@
    ],
    "lat": "35.765653600000014",
    "lng": "139.668688600000000"
+  },
+  {
+   "name": "かがやきデイサービス練馬大泉",
+   "identifier": "1372010254",
+   "org": "株式会社やまねメディカル",
+   "address": "東京都練馬区大泉町１－５１－９",
+   "tel": "03-5947-4802",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2014-05-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.nagoyakaclub.jp/nerimaoizumi",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.769659600000004",
+   "lng": "139.603910499999980"
+  },
+  {
+   "name": "デイサービスセンター　ケアサポートねりま",
+   "identifier": "1372010452",
+   "org": "ケアサポート株式会社",
+   "address": "東京都練馬区南大泉１－２２－５０",
+   "tel": "03-6865-1165",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2014-08-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.care-support.biz/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.738003520363000",
+   "lng": "139.574136370639050"
   },
   {
    "name": "マイ・ハート　リハ倶楽部　石神井公園",
@@ -221,6 +749,10 @@
    "closed": "",
    "designated": "2015-06-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://my-heart-club.com/",
    "days": [
     "平日",
@@ -229,6 +761,55 @@
    "capacity": 24,
    "lat": "35.736227500000000",
    "lng": "139.592437900000050"
+  },
+  {
+   "name": "エンジョイ音楽デイサービスひばり桜台",
+   "identifier": "1372011088",
+   "org": "株式会社ひばりケア",
+   "address": "東京都練馬区豊玉北４－１３－２－１０１",
+   "tel": "03-6914-6039",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2015-08-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://hibari-care.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.736687299999986",
+   "lng": "139.659604100000020"
+  },
+  {
+   "name": "医療法人社団平真会　薬師堂デイサービスみのる",
+   "identifier": "1372011229",
+   "org": "医療法人社団平真会",
+   "address": "東京都練馬区富士見台３－５５－３　１階",
+   "tel": "03-6915-9622",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2015-10-01",
+   "org_kind": "医療法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://sites.google.com/view/yakushidodayminoru、http://www.yakushido.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 90,
+   "lat": "35.739269300000000",
+   "lng": "139.621054700000060"
   },
   {
    "name": "デイフォレスト練馬錦",
@@ -241,6 +822,10 @@
    "closed": "",
    "designated": "2016-03-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.fillcare.co.jp/",
    "days": [
     "平日",
@@ -250,6 +835,55 @@
    "capacity": 35,
    "lat": "35.762584499999990",
    "lng": "139.666055900000000"
+  },
+  {
+   "name": "歌笑デイサービスセンター笑いの北町",
+   "identifier": "1372011435",
+   "org": "株式会社ひばりケア",
+   "address": "東京都練馬区北町１－１９－１５リュミエール１０５",
+   "tel": "03-6906-6090",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2016-05-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://hibari-care.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.764298200000000",
+   "lng": "139.667455400000000"
+  },
+  {
+   "name": "デイサービスセンターなごやか練馬",
+   "identifier": "1372011450",
+   "org": "なごやかケアリンク株式会社",
+   "address": "東京都練馬区早宮１－３２－１２サンサン豊島園１Ｆ",
+   "tel": "03-5912-1025",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2016-06-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.nagoyaka-link.co.jp/club/nerima/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 29,
+   "lat": "35.749755200000000",
+   "lng": "139.656476200000040"
   },
   {
    "name": "ジョイリハプラス北町",
@@ -262,6 +896,10 @@
    "closed": "",
    "designated": "2017-12-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://joyreha.co.jp/shop/%E3%82%B8%E3%83%A7%E3%82%A4%E3%83%AA%E3%83%8F%E3%83%97%E3%83%A9%E3%82%B9%E5%8C%97%E7%94%BA/",
    "days": [
     "平日",
@@ -271,6 +909,54 @@
    "capacity": 35,
    "lat": "35.763798200000000",
    "lng": "139.666080500000020"
+  },
+  {
+   "name": "らいおんハートリハビリ温泉デイサービス練馬",
+   "identifier": "1372012300",
+   "org": "株式会社カスケード東京",
+   "address": "東京都練馬区東大泉７－３６－１１大泉サンヒルズいがしら",
+   "tel": "03-5935-8035",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2018-02-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://lion-heart.co/html/notfound.html",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.747044899999985",
+   "lng": "139.579794099999960"
+  },
+  {
+   "name": "ＳＯＭＰＯケア　桜台　デイサービス",
+   "identifier": "1372012557",
+   "org": "ＳＯＭＰＯケア株式会社",
+   "address": "東京都練馬区桜台２－２９－１１",
+   "tel": "03-5912-6701",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2018-07-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://www.sompocare.com",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.743079016004550",
+   "lng": "139.665259742327860"
   },
   {
    "name": "ゆとり庵",
@@ -283,6 +969,10 @@
    "closed": "",
    "designated": "2018-08-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://yutorina.org/",
    "days": [
     "平日",
@@ -292,6 +982,57 @@
    "capacity": 23,
    "lat": "35.738856900000000",
    "lng": "139.575169599999980"
+  },
+  {
+   "name": "デイサービス　スマイル大学",
+   "identifier": "1372012623",
+   "org": "株式会社スマイルケアねりま",
+   "address": "東京都練馬区高松２－１５－２２",
+   "tel": "03-5848-8315",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2018-08-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://www.smilecarenerima.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 30,
+   "lat": "35.748693500000000",
+   "lng": "139.632847600000000"
+  },
+  {
+   "name": "みちなかの里　南大泉店",
+   "identifier": "1372012748",
+   "org": "株式会社維新ネット",
+   "address": "東京都練馬区南大泉１－４８－１",
+   "tel": "03-5935-6382",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2018-12-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://ameblo.jp/michinakashakujii/",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "capacity": 25,
+   "lat": "35.743095200000000",
+   "lng": "139.573866800000020"
   },
   {
    "name": "ルネサンス　元氣ジム練馬",
@@ -304,6 +1045,10 @@
    "closed": "",
    "designated": "2019-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://kaigo.s-re.jp/kg/store/",
    "days": [
     "平日",
@@ -312,6 +1057,53 @@
    "capacity": 27,
    "lat": "35.731640500000005",
    "lng": "139.653983700000030"
+  },
+  {
+   "name": "シンシアリハビリデイサービス田柄店",
+   "identifier": "1372012912",
+   "org": "株式会社シンシア",
+   "address": "東京都練馬区田柄４－３３－２０",
+   "tel": "03-6909-9050",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2019-05-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://hp.kaipoke.biz/zfu/131060/index_0004.html",
+   "days": [
+    "平日",
+    "祝日"
+   ],
+   "capacity": 490,
+   "lat": "35.767315599999996",
+   "lng": "139.639590199999930"
+  },
+  {
+   "name": "カインドケア練馬関町",
+   "identifier": "1372013316",
+   "org": "カインドケア株式会社",
+   "address": "東京都練馬区関町北４－１－６ハイクレスト関１階",
+   "tel": "03-5903-8330",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2020-09-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://www.kind-care.biz",
+   "days": [
+    "平日",
+    "土曜日"
+   ],
+   "lat": "35.727834100000000",
+   "lng": "139.577683100000000"
   },
   {
    "name": "リハビリデイサービスｎａｇｏｍｉプラス高松店",
@@ -324,6 +1116,10 @@
    "closed": "",
    "designated": "2021-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://ncs.my-nagomi.com",
    "days": [
     "平日",
@@ -333,6 +1129,55 @@
    "capacity": 216,
    "lat": "35.757584200000000",
    "lng": "139.617318900000000"
+  },
+  {
+   "name": "富士見台ケアーズ",
+   "identifier": "1372013696",
+   "org": "株式会社ケアギバー・ジャパン",
+   "address": "東京都練馬区貫井４－１４－１５ＬＥＧＡＭＥ　１Ｆ",
+   "tel": "03-5848-6277",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2021-07-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://caregiver.co.jp/facility/day_fujimidai_cares.php",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "lat": "35.742568700000000",
+   "lng": "139.632531800000000"
+  },
+  {
+   "name": "ルネサンス　元氣ジム石神井公園",
+   "identifier": "1372013720",
+   "org": "株式会社ルネサンス",
+   "address": "東京都練馬区下石神井３－９－８",
+   "tel": "03-5910-3980",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2021-08-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.s-re.jp",
+   "days": [
+    "平日",
+    "祝日"
+   ],
+   "capacity": 27,
+   "lat": "35.735281400000000",
+   "lng": "139.607380100000000"
   },
   {
    "name": "デイサービス健楽　氷川台",
@@ -345,6 +1190,10 @@
    "closed": "",
    "designated": "2021-11-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://trustlife2021.com",
    "days": [
     "平日",
@@ -354,6 +1203,53 @@
    ],
    "lat": "35.754616600000000",
    "lng": "139.666021400000000"
+  },
+  {
+   "name": "株式会社ケアサービス　デイサービスセンター大泉学園",
+   "identifier": "1372013837",
+   "org": "株式会社ケアサービス",
+   "address": "東京都練馬区東大泉６－５２－５",
+   "tel": "03-5935-8122",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2021-12-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://www.care.co.jp/office/ds_ooizumigakuen",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.749412900000010",
+   "lng": "139.585005700000000"
+  },
+  {
+   "name": "らいおんハートリハビリデイサービス光が丘",
+   "identifier": "1372014165",
+   "org": "医療法人社団緑友会",
+   "address": "東京都練馬区旭町１－８－７フォレスト上原１Ｆ",
+   "tel": "03-6904-2126",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2022-08-01",
+   "org_kind": "医療法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.762558370909220",
+   "lng": "139.620173843768750"
   },
   {
    "name": "ウェルビスタ　ケアスタジオ　練馬北町",
@@ -366,12 +1262,62 @@
    "closed": "",
    "designated": "2023-01-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://www.sykz.co.jp/shisetsu-zaitaku/134711",
    "days": [
     "平日"
    ],
    "lat": "35.764229800000000",
    "lng": "139.657963100000000"
+  },
+  {
+   "name": "ジョイリハＳＰＡ東武練馬",
+   "identifier": "1372014462",
+   "org": "株式会社ヤマウチ",
+   "address": "東京都練馬区北町１－３５－３池上ビル１Ｆ",
+   "tel": "03-6906-6185",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2023-07-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://joyreha.co.jp/",
+   "days": [
+    "平日",
+    "祝日"
+   ],
+   "lat": "35.766419100000000",
+   "lng": "139.666035500000000"
+  },
+  {
+   "name": "デイサービス　牌の彩　練馬",
+   "identifier": "1372014470",
+   "org": "株式会社アルバンケアサービス",
+   "address": "東京都練馬区貫井４－４５－１８",
+   "tel": "03-5933-9885",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2023-07-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://www.alban-care.co.jp/",
+   "days": [
+    "平日",
+    "祝日"
+   ],
+   "lat": "35.744722500000000",
+   "lng": "139.625943600000000"
   },
   {
    "name": "ビーナスプラス吉祥寺",
@@ -384,6 +1330,10 @@
    "closed": "",
    "designated": "2023-09-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "days": [
     "平日",
     "祝日"
@@ -391,6 +1341,54 @@
    "capacity": 19,
    "lat": "35.717171600000015",
    "lng": "139.582713400000000"
+  },
+  {
+   "name": "ルネサンス元氣ジム大泉学園",
+   "identifier": "1372014736",
+   "org": "株式会社ルネサンス",
+   "address": "東京都練馬区大泉町４－３４－２７レーベンハウス大泉１Ｆ",
+   "tel": "03-5935-8782",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2024-05-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://kaigo.s-re.jp/kg/",
+   "days": [
+    "平日",
+    "祝日"
+   ],
+   "capacity": 27,
+   "lat": "35.763298200000000",
+   "lng": "139.594506800000000"
+  },
+  {
+   "name": "デイサービスひまわり",
+   "identifier": "1372014785",
+   "org": "医療法人社団真成会",
+   "address": "東京都練馬区豊玉北１－１２－１６－２階、３階",
+   "tel": "03-5999-6355",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2024-08-01",
+   "org_kind": "医療法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.shinseikai-cc.jp",
+   "days": [
+    "平日",
+    "土曜日"
+   ],
+   "capacity": 33,
+   "lat": "35.764226400000000",
+   "lng": "139.665776800000000"
   },
   {
    "name": "レッツ倶楽部練馬",
@@ -403,6 +1401,10 @@
    "closed": "",
    "designated": "2025-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://www.lets-club.jp/shop/nerima/",
    "days": [
     "平日",
@@ -411,6 +1413,45 @@
    ],
    "lat": "35.761068600000000",
    "lng": "139.623186100000000"
+  },
+  {
+   "name": "みちなかの里　春日町店",
+   "identifier": "1372014983",
+   "org": "株式会社維新ネット",
+   "address": "東京都練馬区春日町６－１２－２０ラトールシノダ１Ｆ",
+   "tel": "03-5848-8465",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2025-04-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://ameblo.jp/kasugatyou4/",
+   "days": [
+    "平日",
+    "祝日"
+   ],
+   "lat": "35.751104000000000",
+   "lng": "139.634061300000000"
+  },
+  {
+   "name": "らいおんハートデイサービス中村橋",
+   "identifier": "1372015253",
+   "org": "株式会社カスケード東京",
+   "address": "東京都練馬区中村南３－１９－１１",
+   "tel": "03-3926-8511",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2026-04-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ]
   }
  ],
  "towns": [
@@ -603,5 +1644,5 @@
  "service": "通所介護",
  "fetched": "2026-09-22",
  "source2": "厚生労働省「介護サービス情報公表システム」オープンデータ",
- "mhlw_hit": 20
+ "mhlw_hit": 59
 }

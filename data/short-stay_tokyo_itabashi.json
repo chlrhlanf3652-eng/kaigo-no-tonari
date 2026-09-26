@@ -12,19 +12,19 @@
     "city_name": "板橋区"
   },
   "seo": {
-    "title": "板橋区のショートステイ20事業所｜予約と費用【2026年9月更新】",
-    "description": "東京都板橋区の短期入所生活介護（ショートステイ）事業所20件を連絡先つきで掲載。区内24件のうち特養の空床利用型がどれかを含め、予約の取りやすさ・1級地での自己負担・食費と滞在費の見方をまとめました。",
+    "title": "板橋区のショートステイ24事業所｜予約と費用【2026年9月更新】",
+    "description": "東京都板橋区の短期入所生活介護（ショートステイ）事業所24件を連絡先つきで掲載。区内24件のうち特養の空床利用型がどれかを含め、予約の取りやすさ・1級地での自己負担・食費と滞在費の見方をまとめました。",
     "canonical": "https://kaigonotonari.com/short-stay/tokyo/itabashi/",
     "og_title": "板橋区のショートステイ一覧｜予約が取れる事業所の見分け方",
-    "og_description": "板橋区の短期入所生活介護20件を掲載。空床利用型かどうかで予約の取りやすさが変わります。費用は食費・滞在費まで含めて解説します。",
+    "og_description": "板橋区の短期入所生活介護24件を掲載。空床利用型かどうかで予約の取りやすさが変わります。費用は食費・滞在費まで含めて解説します。",
     "og_image": "https://kaigonotonari.com/assets/ogp-short-stay.jpg"
   },
   "h1": "板橋区のショートステイ一覧｜予約が取れる事業所の見分け方",
   "published": "2026-09-22",
   "modified": "2026-09-22",
-  "count_label": "掲載：20事業所",
-  "lead": "東京都板橋区で短期入所生活介護（ショートステイ）を探している方へ。東京都の指定を受けた24件から20件を連絡先つきで掲載し、そのうち特養の空床を使う<strong>空床利用型が6件</strong>あることまで示しました。ショートステイでいちばん多い壁は<strong>予約が取れないこと</strong>です。同じ区の事業所でも、専用の床を持つところと特養の空きベッドを使うところでは、押さえやすさがまったく違います。",
-  "listing_note": "板橋区内の短期入所生活介護事業所から20件を掲載しています（東京都公表・2026年9月1日時点）。区内には24件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。「特養の空床利用」「単独型」などの表示は東京都の一覧の事業所種別名です。空き状況は日々変わるため、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
+  "count_label": "掲載：24事業所",
+  "lead": "東京都板橋区で短期入所生活介護（ショートステイ）を探している方へ。東京都の指定を受けた24件から24件を連絡先つきで掲載し、そのうち特養の空床を使う<strong>空床利用型が6件</strong>あることまで示しました。ショートステイでいちばん多い壁は<strong>予約が取れないこと</strong>です。同じ区の事業所でも、専用の床を持つところと特養の空きベッドを使うところでは、押さえやすさがまったく違います。",
+  "listing_note": "板橋区内の短期入所生活介護事業所から24件を掲載しています（東京都公表・2026年9月1日時点）。区内には24件が指定を受けており、そのすべてを掲載しています。「特養の空床利用」「単独型」などの表示は東京都の一覧の事業所種別名です。空き状況は日々変わるため、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
@@ -151,6 +151,32 @@
       "url": "http://shinryukai.org/wakagilife/",
       "_tags": [
         "若木エリア",
+        "併設・専用床",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアタウン成増",
+      "telephone": "03-3939-0763",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "成増四丁目１４番１８号"
+      },
+      "parentOrganization": "社会福祉法人みその福祉会",
+      "identifier": "1371902535",
+      "_town": "成増",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2001-04-01",
+      "_years": 25.475701574264203,
+      "url": "http://www.misono-fukushikai.or.jp",
+      "_capacity": 4,
+      "_tags": [
+        "成増エリア",
         "併設・専用床",
         "ショートステイ"
       ]
@@ -285,6 +311,31 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "メープルヴィラそよ風",
+      "telephone": "03-5914-0190",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "東坂下２－２２－１４"
+      },
+      "parentOrganization": "株式会社ＳＯＹＯＫＡＺＥ",
+      "identifier": "1371908086",
+      "_town": "東坂下",
+      "_kind": "営利法人",
+      "_fkind": "単独型",
+      "_designated": "2012-07-01",
+      "_years": 14.225872689938399,
+      "_capacity": 33,
+      "_tags": [
+        "東坂下エリア",
+        "単独型",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "クローバーのさと　ショートステイ　カウピリ板橋",
       "telephone": "03-3957-1098",
       "address": {
@@ -405,6 +456,32 @@
       "_tags": [
         "若木エリア",
         "特養の空床利用",
+        "ショートステイ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "パナソニック　エイジフリーケアセンター板橋大山西町・ショートステイ",
+      "telephone": "03-5986-7056",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "大山西町４１－１"
+      },
+      "parentOrganization": "パナソニックエイジフリー株式会社",
+      "identifier": "1371910744",
+      "_town": "大山西町",
+      "_kind": "営利法人",
+      "_fkind": "単独型",
+      "_designated": "2017-12-01",
+      "_years": 8.80766598220397,
+      "url": "https://panasonic.co.jp/es/pesaf/",
+      "_capacity": 20,
+      "_tags": [
+        "大山西町エリア",
+        "単独型",
         "ショートステイ"
       ]
     },
@@ -534,6 +611,32 @@
         "特養の空床利用",
         "ショートステイ"
       ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特別養護老人ホーム　ぽっかぽか板橋",
+      "telephone": "03-6281-0051",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "中台３－２３－２６"
+      },
+      "parentOrganization": "社会福祉法人大樹会",
+      "identifier": "1371912468",
+      "_town": "中台",
+      "_kind": "社会福祉法人（社協以外）",
+      "_fkind": "特養の併設事業所型",
+      "_designated": "2024-06-01",
+      "_years": 2.308008213552361,
+      "url": "https://taijukai.com/",
+      "_tags": [
+        "中台エリア",
+        "併設・専用床",
+        "開設3年以内",
+        "ショートステイ"
+      ]
     }
   ],
   "faq": [
@@ -543,11 +646,11 @@
     },
     {
       "q": "板橋区にショートステイは何件ありますか？",
-      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で板橋区内に24件の短期入所生活介護事業所が指定を受けています。本ページではそのうち20件を連絡先つきで掲載しています。掲載分のうち6件が特養の空床利用型です。"
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で板橋区内に24件の短期入所生活介護事業所が指定を受けています。本ページではそのうち24件を連絡先つきで掲載しています。掲載分のうち6件が特養の空床利用型です。"
     },
     {
       "q": "板橋区で予約が取れないときはどうすればいいですか？",
-      "a": "まず空床利用型以外を当たってください。板橋区の掲載20件のうち14件は専用の床を持つ事業所です。それでも埋まっていれば、日程をずらすか、板橋区に隣接する区の事業所を当たります。板橋区でもお盆・年末年始・連休は数か月前から埋まります。"
+      "a": "まず空床利用型以外を当たってください。板橋区の掲載24件のうち18件は専用の床を持つ事業所です。それでも埋まっていれば、日程をずらすか、板橋区に隣接する区の事業所を当たります。板橋区でもお盆・年末年始・連休は数か月前から埋まります。"
     },
     {
       "q": "板橋区で自己負担はいくらくらいですか？",
@@ -559,20 +662,22 @@
     },
     {
       "q": "認知症があっても板橋区のショートステイを使えますか？",
-      "a": "使えます。板橋区の掲載20件のうち18件は特別養護老人ホームなどに併設されており、認知症の方の受け入れに慣れているところが多くなります。ただし環境が変わると混乱が強く出る方もいるため、板橋区でもまず1泊2日から試してください。夜間の見守り体制は事業所ごとに違います。"
+      "a": "使えます。板橋区の掲載24件のうち20件は特別養護老人ホームなどに併設されており、認知症の方の受け入れに慣れているところが多くなります。ただし環境が変わると混乱が強く出る方もいるため、板橋区でもまず1泊2日から試してください。夜間の見守り体制は事業所ごとに違います。"
     }
   ],
-  "related": "<a href=\"{{ROOT}}day-service/tokyo/itabashi/\">板橋区のデイサービス<small>日中の預け先</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/itabashi/\">板橋区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/itabashi/\">板橋区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/itabashi/\">板橋区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/itabashi/\">板橋区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/itabashi/\">板橋区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
-  "nearby_heading": "近隣エリアのショートステイ",
-  "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/nerima/\">練馬区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/kita/\">北区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/toshima/\">豊島区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/adachi/\">足立区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/shinjuku/\">新宿区</a>\n      <a href=\"{{ROOT}}short-stay/tokyo/bunkyo/\">文京区</a>",
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/itabashi/\">板橋区の訪問介護<small>自宅に来てもらう・区内158件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/itabashi/\">板橋区の訪問看護<small>医療ケアが必要な方へ・区内89件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/itabashi/\">板橋区のデイサービス<small>日帰りで通う・区内70件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/itabashi/\">板橋区の福祉用具<small>借りる・買う・区内27件</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/itabashi/\">板橋区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/itabashi/\">板橋区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "東京23区からショートステイを探す",
+  "nearby": "<a href=\"{{ROOT}}short-stay/tokyo/chiyoda/\">千代田区<small>5件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/chuo/\">中央区<small>7件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/minato/\">港区<small>10件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/shinjuku/\">新宿区<small>13件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/bunkyo/\">文京区<small>9件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/taito/\">台東区<small>9件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/sumida/\">墨田区<small>10件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/koto/\">江東区<small>16件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/shinagawa/\">品川区<small>13件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/meguro/\">目黒区<small>8件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/ota/\">大田区<small>18件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/setagaya/\">世田谷区<small>31件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/shibuya/\">渋谷区<small>9件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/nakano/\">中野区<small>12件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/suginami/\">杉並区<small>23件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/toshima/\">豊島区<small>11件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/kita/\">北区<small>12件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/arakawa/\">荒川区<small>10件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/nerima/\">練馬区<small>41件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/adachi/\">足立区<small>44件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/katsushika/\">葛飾区<small>25件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/edogawa/\">江戸川区<small>25件</small></a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
     "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／定員・公式サイト）",
     "厚生労働省「指定居宅サービス介護給付費単位数等」短期入所生活介護費（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
     "板橋区「おとしより相談センター一覧」",
-    "日本郵便 郵便番号データにもとづく板橋区の町域一覧"
+    "日本郵便 郵便番号データにもとづく板橋区の町域一覧",
+    "東京都総務局統計部「住民基本台帳による東京都の世帯と人口」（令和8年1月1日現在／年齢3区分別人口・5歳階級別人口）",
+    "東京都福祉局「介護保険事業状況報告（月報）」令和8年6月分（保険者別・第1号被保険者数／要介護認定者数）"
   ],
-  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず1泊2日から</h4>\n        <p>連続利用の上限や緊急時の預け先は、ハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}short-stay/\">ショートステイのしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>板橋区内の短期入所生活介護は24件（都指定）</li>\n          <li>掲載20件のうち空床利用型が6件</li>\n          <li>併設型・要介護3で1日約849円（1割）</li>\n          <li>食費・滞在費は全額自己負担</li>\n          <li>入口はケアマネかおとしより相談センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}short-stay/\">ショートステイのしくみ</a></li>\n          <li><a href=\"{{ROOT}}day-service/\">デイサービス</a></li>\n        </ul>\n      </div>",
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず1泊2日から</h4>\n        <p>連続利用の上限や緊急時の預け先は、ハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}short-stay/\">ショートステイのしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>板橋区内の短期入所生活介護は24件（都指定）</li>\n          <li>掲載24件のうち空床利用型が6件</li>\n          <li>併設型・要介護3で1日約849円（1割）</li>\n          <li>食費・滞在費は全額自己負担</li>\n          <li>入口はケアマネかおとしより相談センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}short-stay/\">ショートステイのしくみ</a></li>\n          <li><a href=\"{{ROOT}}day-service/\">デイサービス</a></li>\n        </ul>\n      </div>",
   "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
   "hero_image": "assets/ogp-short-stay.jpg",
   "towns": {

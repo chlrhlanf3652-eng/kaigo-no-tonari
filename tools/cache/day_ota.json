@@ -16,6 +16,10 @@
    "closed": "",
    "designated": "2001-06-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://www.care.co.jp/office/ds_oomorinishi",
    "days": [
     "平日",
@@ -25,6 +29,56 @@
    "capacity": 39,
    "lat": "35.578016279905420",
    "lng": "139.728137062344100"
+  },
+  {
+   "name": "好日苑デイサービスセンター",
+   "identifier": "1371100858",
+   "org": "社会福祉法人響会",
+   "address": "東京都大田区上池台５－７－１",
+   "tel": "03-3748-6135",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2000-02-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.hibikikai-tokyo.or.jp",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 40,
+   "lat": "35.594535500000000",
+   "lng": "139.702244899999980"
+  },
+  {
+   "name": "高齢者在宅サービスセンターやぐち南",
+   "identifier": "1371101336",
+   "org": "社会福祉法人白陽会",
+   "address": "東京都大田区矢口１－２３－１２",
+   "tel": "03-5741-3322",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2000-04-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.hakuyokai.org/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 25,
+   "lat": "35.565870000000000",
+   "lng": "139.694700600000030"
   },
   {
    "name": "株式会社ケアサービス　デイサービスセンター上池台",
@@ -37,6 +91,10 @@
    "closed": "",
    "designated": "2001-02-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.care.co.jp/",
    "days": [
     "平日",
@@ -46,6 +104,54 @@
    "capacity": 40,
    "lat": "35.592724500000000",
    "lng": "139.697276000000000"
+  },
+  {
+   "name": "通所介護　すずなり平和島",
+   "identifier": "1371102094",
+   "org": "株式会社すずなり",
+   "address": "東京都大田区大森北３－１８－７ル・フラン大森１階",
+   "tel": "03-5753-2121",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2001-06-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.suzu-care.jp/search/tenpo_heiwazima.html",
+   "days": [
+    "平日",
+    "土曜日"
+   ],
+   "capacity": 45,
+   "lat": "35.583148374539250",
+   "lng": "139.734566922090150"
+  },
+  {
+   "name": "株式会社ケアサービス　デイサービスセンター七辻",
+   "identifier": "1371102300",
+   "org": "株式会社ケアサービス",
+   "address": "東京都大田区東六郷１－１６－２セブンクロスビル１F",
+   "tel": "03-3737-0171",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2001-09-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.care.co.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.551952700000000",
+   "lng": "139.721245599999970"
   },
   {
    "name": "株式会社ケアサービス　デイサービスセンター西六郷",
@@ -58,6 +164,10 @@
    "closed": "",
    "designated": "2002-11-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.care.co.jp/",
    "days": [
     "平日",
@@ -66,6 +176,53 @@
    ],
    "lat": "35.552130400000000",
    "lng": "139.708791300000030"
+  },
+  {
+   "name": "医療法人社団　涓泉会　山王リハビリステーション",
+   "identifier": "1371102987",
+   "org": "医療法人社団涓泉会",
+   "address": "東京都大田区山王３－４５－３山王ヒルズ１階",
+   "tel": "03-3772-5122",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2003-02-01",
+   "org_kind": "医療法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.sanno-rc.com",
+   "days": [
+    "平日",
+    "祝日"
+   ],
+   "lat": "35.583867700000006",
+   "lng": "139.720393699999930"
+  },
+  {
+   "name": "デイサービスセンター　友の里下丸子",
+   "identifier": "1371103589",
+   "org": "株式会社ティーシーエス",
+   "address": "東京都大田区矢口１－２９－１１",
+   "tel": "03-5741-3635",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2004-01-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.total-care-servise.co.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.564718087493524",
+   "lng": "139.690937612441990"
   },
   {
    "name": "大田翔裕園",
@@ -78,6 +235,10 @@
    "closed": "",
    "designated": "2004-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.chojumura.or.jp",
    "days": [
     "平日",
@@ -86,6 +247,56 @@
    ],
    "lat": "35.553469100000000",
    "lng": "139.720084499999980"
+  },
+  {
+   "name": "アクセス・ケアセンター",
+   "identifier": "1371103761",
+   "org": "株式会社アクセス",
+   "address": "東京都大田区本羽田２－１６－２３",
+   "tel": "03-5735-5536",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2004-04-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.access-care.co.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 35,
+   "lat": "35.545867800000000",
+   "lng": "139.732781299999940"
+  },
+  {
+   "name": "デイサービスセンター友の里　北糀谷",
+   "identifier": "1371104025",
+   "org": "株式会社ティーシーエス",
+   "address": "東京都大田区北糀谷１－８－１１",
+   "tel": "03-5735-2557",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2004-07-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.total-care-servise.co.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "lat": "35.563420800000000",
+   "lng": "139.734557900000030"
   },
   {
    "name": "デイサービスセンターいずみえん",
@@ -98,6 +309,10 @@
    "closed": "",
    "designated": "2004-08-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.tokushinkai.jp",
    "days": [
     "平日",
@@ -107,6 +322,55 @@
    "capacity": 30,
    "lat": "35.561176300000000",
    "lng": "139.696111699999960"
+  },
+  {
+   "name": "デイサービス　春",
+   "identifier": "1371104249",
+   "org": "有限会社藤城エンタープライズ",
+   "address": "東京都大田区南雪谷一丁目１７番１１号",
+   "tel": "03-6425-3672",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2004-10-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://hp.kaipoke.biz/hc5/63416/base_0004.html",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 25,
+   "lat": "35.594643400000000",
+   "lng": "139.684191000000050"
+  },
+  {
+   "name": "正和クラブ千束",
+   "identifier": "1371104579",
+   "org": "正和ライフサービス株式会社",
+   "address": "東京都大田区南千束１－７－１４",
+   "tel": "03-6425-2556",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2005-04-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://seiwaclub.com/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.604436700000000",
+   "lng": "139.695053100000000"
   },
   {
    "name": "スマイルケア",
@@ -119,6 +383,10 @@
    "closed": "",
    "designated": "2006-07-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.smile1165.jp",
    "days": [
     "平日",
@@ -128,6 +396,56 @@
    "capacity": 30,
    "lat": "35.586606200000000",
    "lng": "139.694447900000000"
+  },
+  {
+   "name": "パナソニック　エイジフリーケアセンター蒲田・デイサービス",
+   "identifier": "1371105980",
+   "org": "パナソニックエイジフリー株式会社",
+   "address": "東京都大田区蒲田１－２９－５　エーワンハイム１Ｆ",
+   "tel": "03-3739-2275",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2008-04-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://panasonic.co.jp/es/pesasv/",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "capacity": 30,
+   "lat": "35.564253600000015",
+   "lng": "139.719503499999970"
+  },
+  {
+   "name": "パナソニック　エイジフリーケアセンター千鳥・デイサービス",
+   "identifier": "1371106012",
+   "org": "パナソニックエイジフリー株式会社",
+   "address": "東京都大田区千鳥１－１６－２　鈴木ビル１Ｆ",
+   "tel": "03-3751-0831",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2008-04-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://sumai.panasonic.jp/agefree/map/detail.php?id=4",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.572716200000000",
+   "lng": "139.693539200000030"
   },
   {
    "name": "デイサービスココファン六郷",
@@ -140,6 +458,10 @@
    "closed": "",
    "designated": "2008-11-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.cocofump.co.jp",
    "days": [
     "平日",
@@ -149,6 +471,54 @@
    "capacity": 26,
    "lat": "35.542059700000000",
    "lng": "139.708522400000000"
+  },
+  {
+   "name": "大田区立たまがわ高齢者在宅サービスセンター",
+   "identifier": "1371106491",
+   "org": "社会福祉法人池上長寿園",
+   "address": "東京都大田区下丸子４－２３－１",
+   "tel": "03-5732-1023",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2009-04-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.ikegami.or.jp",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.571016500000000",
+   "lng": "139.679046400000060"
+  },
+  {
+   "name": "大田区立蒲田高齢者在宅サービスセンター",
+   "identifier": "1371106509",
+   "org": "社会福祉法人池上長寿園",
+   "address": "東京都大田区蒲田２－８－８",
+   "tel": "03-5710-0782",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2009-04-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 40,
+   "lat": "35.566392000000010",
+   "lng": "139.727363000000000"
   },
   {
    "name": "羽田高齢者在宅サービスセンター",
@@ -161,6 +531,10 @@
    "closed": "",
    "designated": "2009-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.ikegami.or.jp",
    "days": [
     "平日",
@@ -169,6 +543,55 @@
    ],
    "lat": "35.545869003218186",
    "lng": "139.735965958962080"
+  },
+  {
+   "name": "大田区立下丸子高齢者在宅サービスセンター",
+   "identifier": "1371106541",
+   "org": "社会福祉法人池上長寿園",
+   "address": "東京都大田区下丸子４－２５－１",
+   "tel": "03-3750-8701",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2009-04-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.ikegami.or.jp",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 45,
+   "lat": "35.572297700000000",
+   "lng": "139.677937400000020"
+  },
+  {
+   "name": "大田区立糀谷高齢者在宅サービスセンター",
+   "identifier": "1371106558",
+   "org": "社会福祉法人池上長寿園",
+   "address": "東京都大田区西糀谷２－１２－１",
+   "tel": "03-3745-3006",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2009-04-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.ikegami.or.jp",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.559210400000000",
+   "lng": "139.737210799999960"
   },
   {
    "name": "デイサービス　絆",
@@ -181,6 +604,10 @@
    "closed": "",
    "designated": "2009-11-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.kizunaspa.com",
    "days": [
     "平日",
@@ -189,6 +616,55 @@
    ],
    "lat": "35.552744700000000",
    "lng": "139.737383400000000"
+  },
+  {
+   "name": "デイサービスすずやか久が原",
+   "identifier": "1371106996",
+   "org": "医療法人社団ふよう会",
+   "address": "東京都大田区久が原３－２７－１０　２階",
+   "tel": "03-6410-6970",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2010-01-01",
+   "org_kind": "医療法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.suzu-care.jp",
+   "days": [
+    "平日",
+    "土曜日"
+   ],
+   "capacity": 40,
+   "lat": "35.598228899999970",
+   "lng": "139.682868599999980"
+  },
+  {
+   "name": "株式会社ケアサービス　デイサービスセンター東矢口",
+   "identifier": "1371107366",
+   "org": "株式会社ケアサービス",
+   "address": "東京都大田区東矢口３－７－３",
+   "tel": "03-3730-1801",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2010-12-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.care.co.jp",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 38,
+   "lat": "35.563537100000000",
+   "lng": "139.706802100000000"
   },
   {
    "name": "ツクイ大田西六郷",
@@ -201,6 +677,10 @@
    "closed": "",
    "designated": "2011-05-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.tsukui.net/",
    "days": [
     "平日",
@@ -213,6 +693,56 @@
    "lng": "139.704089299999960"
   },
   {
+   "name": "ツクイ大田西糀谷",
+   "identifier": "1371107895",
+   "org": "株式会社ツクイ",
+   "address": "東京都大田区西糀谷４－９－１１",
+   "tel": "03-5735-2050",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2011-09-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.tsukui.net",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "capacity": 60,
+   "lat": "35.555952400000000",
+   "lng": "139.731214100000000"
+  },
+  {
+   "name": "ニチイケアセンター南蒲田",
+   "identifier": "1371108836",
+   "org": "株式会社ニチイ学館",
+   "address": "東京都大田区南蒲田２－１６－２テクノポート大樹生命ビルＢ１階",
+   "tel": "03-5713-1148",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2012-12-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.nichiigakkan.co.jp",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.555888200000000",
+   "lng": "139.721784200000000"
+  },
+  {
    "name": "レッツ倶楽部多摩川",
    "identifier": "1371108943",
    "org": "ＱＬＣプロデュース株式会社",
@@ -223,6 +753,10 @@
    "closed": "",
    "designated": "2013-02-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.lets-club.jp/shop/tamagawa/",
    "days": [
     "平日",
@@ -232,6 +766,55 @@
    "capacity": 20,
    "lat": "35.564759100000000",
    "lng": "139.690667800000030"
+  },
+  {
+   "name": "寿デイサービスセンター池上",
+   "identifier": "1371108976",
+   "org": "株式会社シルバーメディカルサービス",
+   "address": "東京都大田区池上８－４－８池上タウンヒル１階",
+   "tel": "03-5747-3800",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2013-03-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://www.sms-kotobuki.co.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 30,
+   "lat": "35.571574700000000",
+   "lng": "139.697924899999970"
+  },
+  {
+   "name": "デイリハ友の里",
+   "identifier": "1371110048",
+   "org": "株式会社ティーシーエス",
+   "address": "東京都大田区下丸子２－２９－１",
+   "tel": "03-3757-2151",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2014-10-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.total-care-servise.co.jp/index.shtml",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.564150800000000",
+   "lng": "139.689853999999970"
   },
   {
    "name": "株式会社ケアサービス　デイサービスセンター西蒲田",
@@ -244,6 +827,10 @@
    "closed": "",
    "designated": "2014-12-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://www.care.co.jp/office/ds_nishikamata",
    "days": [
     "平日",
@@ -253,6 +840,54 @@
    "capacity": 35,
    "lat": "35.567219800000000",
    "lng": "139.710459799999970"
+  },
+  {
+   "name": "デイサービスすずやか六郷",
+   "identifier": "1371110469",
+   "org": "医療法人社団ふよう会",
+   "address": "東京都大田区仲六郷４－３３－１１シュウハイム１階",
+   "tel": "03-6424-7555",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2015-04-01",
+   "org_kind": "医療法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://suzu-care.jp/",
+   "days": [
+    "平日",
+    "土曜日"
+   ],
+   "capacity": 30,
+   "lat": "35.542781809961510",
+   "lng": "139.710365993254100"
+  },
+  {
+   "name": "デイサービスセンター　サンケア上池台",
+   "identifier": "1371110519",
+   "org": "株式会社早稲田エルダリーヘルス事業団",
+   "address": "東京都大田区上池台５－３４－１０",
+   "tel": "03-5754-1165",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2015-04-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 55,
+   "lat": "35.590283200000000",
+   "lng": "139.697928999999930"
   },
   {
    "name": "デイサービスセンター　サンケア鵜の木",
@@ -265,6 +900,10 @@
    "closed": "",
    "designated": "2015-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.waseda-e-life.co.jp/kaigo-fukushi/",
    "days": [
     "平日",
@@ -273,6 +912,55 @@
    ],
    "lat": "35.574141765810540",
    "lng": "139.682682067459150"
+  },
+  {
+   "name": "デイサービスセンターなごやか田園調布",
+   "identifier": "1371111269",
+   "org": "なごやかケアリンク株式会社",
+   "address": "東京都大田区田園調布本町５１－３田園調布スカイライトマンション１階",
+   "tel": "03-5483-7034",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2016-06-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.nagoyaka-link.co.jp/club/denenchofu/",
+   "days": [
+    "平日",
+    "祝日"
+   ],
+   "capacity": 50,
+   "lat": "35.588310899999990",
+   "lng": "139.677967200000000"
+  },
+  {
+   "name": "デイサービスセンターなごやか大田",
+   "identifier": "1371111277",
+   "org": "なごやかケアリンク株式会社",
+   "address": "東京都大田区池上６－６－６",
+   "tel": "03-5747-2915",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2016-06-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.nagoyaka-link.co.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 100,
+   "lat": "35.571755300000000",
+   "lng": "139.704862999999930"
   },
   {
    "name": "デイサービスセンターなごやか馬込",
@@ -285,6 +973,10 @@
    "closed": "",
    "designated": "2016-06-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://club.nagoyaka-link.co.jp/magome/",
    "days": [
     "平日",
@@ -294,6 +986,54 @@
    "capacity": 30,
    "lat": "35.588058900000014",
    "lng": "139.718921164418000"
+  },
+  {
+   "name": "ファミタウン洗足",
+   "identifier": "1371111368",
+   "org": "合同会社ファミタウン洗足",
+   "address": "東京都大田区南千束２－１７－１",
+   "tel": "03-5935-6467",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2016-09-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "days": [
+    "平日",
+    "土曜日"
+   ],
+   "capacity": 25,
+   "lat": "35.604584008981460",
+   "lng": "139.688354238623080"
+  },
+  {
+   "name": "デイサービスひより千鳥町",
+   "identifier": "1371111376",
+   "org": "株式会社トラスト・ワン",
+   "address": "東京都大田区千鳥１－１５－１１　１階",
+   "tel": "03-6410-2700",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2016-09-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://www.dayservicehiyori.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "lat": "35.572524599999994",
+   "lng": "139.695152900000040"
   },
   {
    "name": "デイハウス鵜の木",
@@ -306,6 +1046,10 @@
    "closed": "",
    "designated": "2016-12-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "days": [
     "平日",
     "土曜日",
@@ -315,6 +1059,55 @@
    "capacity": 19,
    "lat": "35.576982200000000",
    "lng": "139.677365399999980"
+  },
+  {
+   "name": "ツクイ大田中馬込",
+   "identifier": "1371111582",
+   "org": "株式会社ツクイ",
+   "address": "東京都大田区中馬込３－１７－１９",
+   "tel": "03-6429-2630",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2017-03-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://www.tsukui.net/home-care/2658/",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "lat": "35.592635300000030",
+   "lng": "139.704861199999980"
+  },
+  {
+   "name": "ベストリハ山王",
+   "identifier": "1371111707",
+   "org": "ベストリハ株式会社",
+   "address": "東京都大田区山王４－１１－７シャトレ山王１階",
+   "tel": "03-3776-6830",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2017-09-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://bestreha.com",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.590241900000000",
+   "lng": "139.719199000000000"
   },
   {
    "name": "デイホームゆりの木大田",
@@ -327,6 +1120,10 @@
    "closed": "",
    "designated": "2019-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.elderly.jp/",
    "days": [
     "平日",
@@ -336,6 +1133,56 @@
    "capacity": 25,
    "lat": "35.546633300000000",
    "lng": "139.721297199999980"
+  },
+  {
+   "name": "ベストリハ南蒲田",
+   "identifier": "1371112424",
+   "org": "ベストリハ株式会社",
+   "address": "東京都大田区南蒲田１－２２－９リバティハイツ１０１",
+   "tel": "03-6424-9881",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2019-05-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://bestreha.com/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 28,
+   "lat": "35.557757400000000",
+   "lng": "139.724692499999950"
+  },
+  {
+   "name": "リハビリデイサービスｎａｇｏｍｉプラス洗足池店",
+   "identifier": "1371112655",
+   "org": "株式会社ｎＣＳ",
+   "address": "東京都大田区上池台２－１４－７",
+   "tel": "03-6425-7503",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2020-02-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://ncs.my-nagomi.com",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 216,
+   "lat": "35.600832100000000",
+   "lng": "139.693648700000000"
   },
   {
    "name": "リハデイ南六郷",
@@ -348,6 +1195,10 @@
    "closed": "",
    "designated": "2020-10-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "days": [
     "平日",
     "土曜日",
@@ -355,6 +1206,53 @@
    ],
    "lat": "35.547711999999980",
    "lng": "139.719358400000000"
+  },
+  {
+   "name": "リハデイ山王",
+   "identifier": "1371112820",
+   "org": "合同会社ＧＯＡＳ",
+   "address": "東京都大田区山王４－１９－６",
+   "tel": "03-6451-8090",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2020-10-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.584735600000010",
+   "lng": "139.720230500000000"
+  },
+  {
+   "name": "ベストリハ蒲田",
+   "identifier": "1371112861",
+   "org": "ベストリハ株式会社",
+   "address": "東京都大田区蒲田２－２－１３ヴィラはなぞの１階",
+   "tel": "03-6424-8257",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2020-11-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://bestreha.com/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.567065100000000",
+   "lng": "139.724144900000000"
   },
   {
    "name": "デイサービス夢楽羽田",
@@ -367,6 +1265,10 @@
    "closed": "",
    "designated": "2021-01-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://yumeraku.net/haneda/",
    "days": [
     "平日",
@@ -375,6 +1277,56 @@
    ],
    "lat": "35.548527600000000",
    "lng": "139.736362600000000"
+  },
+  {
+   "name": "レベルアップケア",
+   "identifier": "1371113067",
+   "org": "ＳＰヘルスケア株式会社",
+   "address": "東京都大田区中央３－８－１４",
+   "tel": "03-3773-3211",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2021-04-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://levelup-care.co.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 10,
+   "lat": "35.576635299999990",
+   "lng": "139.718252800000000"
+  },
+  {
+   "name": "ベストリハ羽田",
+   "identifier": "1371113208",
+   "org": "ベストリハ株式会社",
+   "address": "東京都大田区羽田３－６－１シャンハイツ松輝　１階",
+   "tel": "03-6423-8310",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2021-11-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://bestreha.com",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 30,
+   "lat": "35.547366200000040",
+   "lng": "139.743941200000000"
   },
   {
    "name": "ブリッジライフ大森西",
@@ -387,6 +1339,10 @@
    "closed": "",
    "designated": "2022-03-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://www.bridge-life.jp/shop/omorinishi/",
    "days": [
     "平日",
@@ -395,6 +1351,54 @@
    ],
    "lat": "35.570024000000000",
    "lng": "139.723392200000000"
+  },
+  {
+   "name": "ポラリスデイサービスセンター羽田萩中",
+   "identifier": "1371113562",
+   "org": "株式会社ポラリス",
+   "address": "東京都大田区萩中３－１４－２０",
+   "tel": "03-6423-7168",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2023-12-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://www.polaris.care/office/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 40,
+   "lat": "35.551400800000000",
+   "lng": "139.733733700000000"
+  },
+  {
+   "name": "大森スポーツリハデイサービスセンター",
+   "identifier": "1371113612",
+   "org": "ファーマライズ株式会社",
+   "address": "東京都大田区大森北１－３１－２柏屋ビル３階",
+   "tel": "03-5767-8403",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2024-04-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.585662700000010",
+   "lng": "139.727386799999980"
   },
   {
    "name": "ウェルビスタ　ケアスタジオ　大森",
@@ -407,6 +1411,10 @@
    "closed": "",
    "designated": "2025-06-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://wellbista-cs.com/",
    "days": [
     "平日",
@@ -414,6 +1422,38 @@
    ],
    "lat": "35.567222400000000",
    "lng": "139.730016900000000"
+  },
+  {
+   "name": "ブリッジライフ馬込",
+   "identifier": "1371114008",
+   "org": "株式会社シープラス",
+   "address": "東京都大田区南馬込１－６－７メゾン南松原　１階",
+   "tel": "03-6451-8261",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2026-05-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ]
+  },
+  {
+   "name": "レッツ倶楽部石川台",
+   "identifier": "1371114040",
+   "org": "ＱＬＣプロデュース株式会社",
+   "address": "東京都大田区石川町２－３－１６　２階２Ｄ",
+   "tel": "03-6421-9030",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2026-07-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ]
   }
  ],
  "towns": [
@@ -658,5 +1698,5 @@
  "service": "通所介護",
  "fetched": "2026-09-22",
  "source2": "厚生労働省「介護サービス情報公表システム」オープンデータ",
- "mhlw_hit": 20
+ "mhlw_hit": 58
 }

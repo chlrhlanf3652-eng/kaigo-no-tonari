@@ -20,6 +20,8 @@ import pathlib
 import sys
 
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
+import koreika as KO
+import linkgrid as LG
 from wards import WARDS
 from build_day import ORG_DESC, AGE_BUCKETS, years_since, esc, ward_name
 import mhlw_fields as MF
@@ -313,6 +315,8 @@ def build(wid, site):
         fee_std=fee_rows(UNITS_STD),
         near=near_rows, neart=near_total, nearc=near_cnt,
         unit3=f"{yen1(UNITS_UNIT[3][0]):,}")
+    # 区ごとの公的統計（高齢化率・要介護認定者数）を本文の最後に足す
+    content += "\n\n    " + KO.section(wid, ward, "short-stay", total)
     (BASE / "content" / f"short-stay_tokyo_{wid}.html").write_text(
         content, encoding="utf-8")
 
@@ -351,18 +355,11 @@ def build(wid, site):
               "試してください。夜間の見守り体制は事業所ごとに違います。"},
     ]
 
-    near = WARDS[wid]["near"][:6]
-    nearby = "\n      ".join(
-        '<a href="{{ROOT}}short-stay/tokyo/%s/">%s</a>' % (x, ward_name(x))
-        for x in near)
-    related = "\n      ".join([
-        '<a href="{{ROOT}}day-service/tokyo/%s/">%sのデイサービス<small>日中の預け先</small></a>' % (wid, ward),
-        '<a href="{{ROOT}}houmon-kaigo/tokyo/%s/">%sの訪問介護<small>身体介護・生活援助</small></a>' % (wid, ward),
-        '<a href="{{ROOT}}houmon-kango/tokyo/%s/">%sの訪問看護<small>医療ケアが必要な方へ</small></a>' % (wid, ward),
-        '<a href="{{ROOT}}fukushi-yogu/tokyo/%s/">%sの福祉用具レンタル<small>介護ベッド・車いす</small></a>' % (wid, ward),
-        '<a href="{{ROOT}}takuhai-bento/tokyo/%s/">%sの宅配弁当<small>高齢者向け配食サービス</small></a>' % (wid, ward),
-        '<a href="{{ROOT}}mimamori/tokyo/%s/">%sの見守りサービス<small>ひとり暮らしの安否確認</small></a>' % (wid, ward),
-    ])
+    nearby = LG.area_links("short-stay", wid)
+    related = LG.service_links(
+        "short-stay", wid,
+        [("takuhai-bento", "の宅配弁当", "高齢者向け配食サービス"),
+         ("mimamori", "の見守りサービス", "ひとり暮らしの安否確認")])
     sidebar = (
         '<div class="side cta-side">\n'
         '        <h4>まず1泊2日から</h4>\n'
@@ -424,7 +421,7 @@ def build(wid, site):
                         + "空き状況は日々変わるため、この一覧では扱っていません。"
                         + "掲載順は事業所の優劣を示すものではありません。",
         "items": items, "faq": faq, "related": related,
-        "nearby_heading": "近隣エリアのショートステイ", "nearby": nearby,
+        "nearby_heading": "東京23区からショートステイを探す", "nearby": nearby,
         "sources": [
             rec.get("source", "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）"),
             "厚生労働省「介護サービス情報公表システム」オープンデータ"
@@ -433,6 +430,7 @@ def build(wid, site):
             "（令和6年度改定後・令和8年6月改定を経て有効）／介護報酬の地域区分（1級地・1単位11.40円）",
             f"{ward}「{madoguchi}一覧」",
             f"日本郵便 郵便番号データにもとづく{ward}の町域一覧",
+            *KO.SOURCES,
         ],
         "sidebar": sidebar,
         "mcta": '<a class="m1" href="#s2">事業所一覧</a>\n  <a class="m2" href="#s4">自己負担の目安</a>',

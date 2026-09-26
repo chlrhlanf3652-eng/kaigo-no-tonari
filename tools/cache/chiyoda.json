@@ -16,6 +16,10 @@
    "closed": "",
    "designated": "2000-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "訪問介護"
+   ],
    "url": "http://www.nichiigakkan.co.jp/",
    "days": [
     "平日",
@@ -37,6 +41,10 @@
    "closed": "",
    "designated": "2006-01-01",
    "org_kind": "非営利法人（NPO）",
+   "facility_kind": "",
+   "services": [
+    "訪問介護"
+   ],
    "url": "https://care.hope-npo.org/",
    "days": [
     "平日",
@@ -57,6 +65,10 @@
    "closed": "",
    "designated": "2006-07-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "訪問介護"
+   ],
    "url": "http://carework-chiyoda.jp/",
    "days": [
     "平日",
@@ -79,6 +91,10 @@
    "closed": "",
    "designated": "2010-11-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "訪問介護"
+   ],
    "url": "http://tama-dhk.or.jp",
    "days": [
     "平日",
@@ -99,6 +115,10 @@
    "closed": "",
    "designated": "2012-09-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "訪問介護"
+   ],
    "url": "https://goodlifecare.co.jp/",
    "days": [
     "平日",
@@ -119,7 +139,11 @@
    "hours": "",
    "closed": "",
    "designated": "2016-06-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "訪問介護"
+   ]
   },
   {
    "name": "いちご訪問介護",
@@ -132,6 +156,10 @@
    "closed": "",
    "designated": "2017-06-01",
    "org_kind": "非営利法人（NPO）",
+   "facility_kind": "",
+   "services": [
+    "訪問介護"
+   ],
    "url": "https://www.ichigonokai.com",
    "days": [
     "平日",
@@ -151,6 +179,10 @@
    "closed": "",
    "designated": "2017-11-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "訪問介護"
+   ],
    "url": "https://www.careritz.co.jp/station/branch/ochanomizu/",
    "days": [
     "平日",
@@ -172,6 +204,10 @@
    "closed": "",
    "designated": "2019-09-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "訪問介護"
+   ],
    "url": "https://rainbowheart.co.jp/index.html",
    "days": [
     "平日",
@@ -191,6 +227,10 @@
    "closed": "",
    "designated": "2022-03-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "訪問介護"
+   ],
    "url": "https://care21.co.jp",
    "days": [
     "平日",
@@ -200,6 +240,32 @@
    ],
    "lat": "35.692117400000000",
    "lng": "139.743200900000000"
+  },
+  {
+   "name": "ＳＯＭＰＯケア　千代田港　訪問介護",
+   "identifier": "1370101667",
+   "org": "ＳＯＭＰＯケア株式会社",
+   "address": "東京都千代田区麹町４－５－４桜井ビル５階",
+   "tel": "03-6268-9654",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2022-09-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "訪問介護"
+   ],
+   "url": "https://www.sompocare.com/service/zaitaku/kaigo/Z000870?service=elderly",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "capacity": 100,
+   "lat": "35.683537600000000",
+   "lng": "139.736814000000000"
   },
   {
    "name": "ゆめかケア　神保町本店",
@@ -212,6 +278,10 @@
    "closed": "",
    "designated": "2023-11-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "訪問介護"
+   ],
    "url": "https://yumekaigo.co.jp/",
    "days": [
     "平日"
@@ -229,7 +299,11 @@
    "hours": "",
    "closed": "",
    "designated": "2024-03-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "訪問介護"
+   ]
   },
   {
    "name": "パール訪問介護事業所",
@@ -242,6 +316,10 @@
    "closed": "",
    "designated": "2024-07-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "訪問介護"
+   ],
    "days": [
     "平日",
     "土曜日",
@@ -263,6 +341,10 @@
    "closed": "",
    "designated": "2025-01-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "訪問介護"
+   ],
    "url": "http://asxeed-inc.co.jp",
    "days": [
     "平日",
@@ -284,6 +366,10 @@
    "closed": "",
    "designated": "2025-02-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "訪問介護"
+   ],
    "days": [
     "平日",
     "土曜日",
@@ -304,6 +390,10 @@
    "closed": "",
    "designated": "2025-04-01",
    "org_kind": "社団・財団",
+   "facility_kind": "",
+   "services": [
+    "訪問介護"
+   ],
    "url": "http://syakaihukushikai.or.jp/",
    "days": [
     "平日",
@@ -324,7 +414,11 @@
    "hours": "",
    "closed": "",
    "designated": "2026-06-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "訪問介護"
+   ]
   },
   {
    "name": "ヘルパーステーションルルドの泉",
@@ -337,6 +431,10 @@
    "closed": "",
    "designated": "2022-11-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "訪問介護"
+   ],
    "days": [
     "平日",
     "土曜日",
@@ -357,7 +455,11 @@
    "hours": "",
    "closed": "",
    "designated": "2021-06-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "訪問介護"
+   ]
   },
   {
    "name": "手結ステーション",
@@ -370,6 +472,10 @@
    "closed": "",
    "designated": "2017-09-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "訪問介護"
+   ],
    "url": "http://teistation-care.com/",
    "days": [
     "平日",
@@ -379,6 +485,31 @@
    ],
    "lat": "35.699739399999990",
    "lng": "139.749050100000000"
+  },
+  {
+   "name": "生活日和",
+   "identifier": "1371707678",
+   "org": "合同会社生活日和",
+   "address": "東京都千代田区飯田橋３－１１－２０山田ラインビルⅡ８階",
+   "tel": "03-6272-8566",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2024-02-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "訪問介護"
+   ],
+   "url": "https://seikatsubiyori.co.jp",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "lat": "35.702719525827700",
+   "lng": "139.747183292291030"
   }
  ],
  "towns": [
@@ -615,7 +746,7 @@
  "service": "訪問介護",
  "fetched": "2026-09-22",
  "source2": "厚生労働省「介護サービス情報公表システム」オープンデータ",
- "mhlw_hit": 16,
+ "mhlw_hit": 18,
  "total_csv": 22,
  "total_csv_source": "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）"
 }

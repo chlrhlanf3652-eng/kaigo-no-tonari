@@ -16,6 +16,10 @@
    "closed": "",
    "designated": "2012-03-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://carepro-hmc.co.jp/",
    "days": [
     "平日",
@@ -38,6 +42,10 @@
    "closed": "",
    "designated": "2009-07-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://www.millennia-corporation.jp/houmon/index.html",
    "days": [
     "平日",
@@ -47,6 +55,28 @@
    ],
    "lat": "35.704652100000040",
    "lng": "139.682834400000020"
+  },
+  {
+   "name": "つくし訪問看護ステーション",
+   "identifier": "1361490020",
+   "org": "株式会社ハートフルナーシング",
+   "address": "東京都中野区白鷺２－１－２３ＺＯＵマンション２０２",
+   "tel": "03-3330-0425",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2010-04-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "http://hn-tukushi.com",
+   "days": [
+    "平日"
+   ],
+   "lat": "35.716776543517675",
+   "lng": "139.635902576582340"
   },
   {
    "name": "なごみ訪問看護ステーション",
@@ -59,6 +89,10 @@
    "closed": "",
    "designated": "2012-08-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://nagomizaitaku.jp",
    "days": [
     "平日",
@@ -67,6 +101,29 @@
    "capacity": 35,
    "lat": "35.709935444187630",
    "lng": "139.658086609787000"
+  },
+  {
+   "name": "訪問看護ステーション　江古田の森",
+   "identifier": "1361490079",
+   "org": "社会福祉法人南東北福祉事業団",
+   "address": "東京都中野区江古田３－１４－１９",
+   "tel": "03-5318-3701",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2014-02-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "http://www.kaigo-egota.com/",
+   "days": [
+    "平日",
+    "土曜日"
+   ],
+   "lat": "35.729731706237430",
+   "lng": "139.665617127647500"
   },
   {
    "name": "あけぼの訪問看護ステーション",
@@ -79,6 +136,10 @@
    "closed": "",
    "designated": "2014-09-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "http://www.caregate.co.jp/",
    "days": [
     "平日",
@@ -91,6 +152,32 @@
    "lng": "139.664786071025080"
   },
   {
+   "name": "ユースタイルケア　中野　訪問看護",
+   "identifier": "1361490137",
+   "org": "ユースタイルラボラトリー株式会社",
+   "address": "東京都中野区東中野３－１４－１グリーンビル８Ｆ",
+   "tel": "07065287652",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2015-07-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "http://eustylelab.co.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "capacity": 20,
+   "lat": "35.696843899999980",
+   "lng": "139.684820000000000"
+  },
+  {
    "name": "訪問看護ステーション　リライブ",
    "identifier": "1361490152",
    "org": "株式会社ＲｅＬｉｖｅ",
@@ -101,6 +188,10 @@
    "closed": "",
    "designated": "2016-06-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "http://relive-st.com/",
    "days": [
     "平日"
@@ -120,6 +211,10 @@
    "closed": "",
    "designated": "2016-07-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://www.millennia-corporation.jp/houmon/index.html",
    "days": [
     "平日",
@@ -129,6 +224,29 @@
    ],
    "lat": "35.719766500000000",
    "lng": "139.645583699999970"
+  },
+  {
+   "name": "ひよこ訪問看護ステーション",
+   "identifier": "1361490210",
+   "org": "特定非営利活動法人なかの里を紡ぐ会",
+   "address": "東京都中野区松が丘２－３－５－２０１",
+   "tel": "03-5913-3890",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2017-12-01",
+   "org_kind": "非営利法人（NPO）",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "http://www.nakano-sato.org",
+   "days": [
+    "平日",
+    "土曜日"
+   ],
+   "lat": "35.718745062357870",
+   "lng": "139.669274078302300"
   },
   {
    "name": "リニエ訪問看護ステーション中野",
@@ -141,12 +259,42 @@
    "closed": "",
    "designated": "2018-01-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://linie-group.jp/",
    "days": [
     "平日"
    ],
    "lat": "35.709312242195395",
    "lng": "139.681341292625000"
+  },
+  {
+   "name": "ケアサポート　ＭＡＮＡ",
+   "identifier": "1361490244",
+   "org": "株式会社コンディショニングサポートＭＡＮＡ",
+   "address": "東京都中野区本町６－３５－１５－１０１",
+   "tel": "03-6382-8142",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2018-08-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "https://mana-support.com",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "capacity": 8,
+   "lat": "35.697295667160640",
+   "lng": "139.662670406045550"
   },
   {
    "name": "ほっとナビ訪問看護ステーション　中野事業所",
@@ -158,7 +306,34 @@
    "hours": "",
    "closed": "",
    "designated": "2019-03-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ]
+  },
+  {
+   "name": "医療法人社団泉樹会　訪問看護・リハビリステーションだるま",
+   "identifier": "1361490269",
+   "org": "医療法人社団泉樹会",
+   "address": "東京都中野区鷺宮３－３－６シュプール１階１Ａ",
+   "tel": "03-5942-5615",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2019-08-01",
+   "org_kind": "医療法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "http://www.hc-nakano.com/",
+   "days": [
+    "平日",
+    "祝日"
+   ],
+   "lat": "35.723067300000000",
+   "lng": "139.642618799999980"
   },
   {
    "name": "ソフィアメディ訪問看護ステーション中野新橋",
@@ -171,6 +346,10 @@
    "closed": "",
    "designated": "2019-12-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "days": [
     "平日",
     "土曜日",
@@ -192,6 +371,10 @@
    "closed": "",
    "designated": "2020-02-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://www.sophiamedi.co.jp/",
    "days": [
     "平日",
@@ -201,6 +384,22 @@
    ],
    "lat": "35.719163199999990",
    "lng": "139.652333300000000"
+  },
+  {
+   "name": "ソレイユ訪問看護ステーション中野",
+   "identifier": "1361490301",
+   "org": "株式会社ナースサポート．アリス",
+   "address": "東京都中野区丸山２－５－１６内山ビル1階",
+   "tel": "03-5942-5675",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2021-02-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ]
   },
   {
    "name": "まるこ訪問看護ステーション",
@@ -213,6 +412,10 @@
    "closed": "",
    "designated": "2021-08-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://maruco-hvst.jp",
    "days": [
     "平日",
@@ -221,6 +424,31 @@
    ],
    "lat": "35.718388200000000",
    "lng": "139.643316200000000"
+  },
+  {
+   "name": "ひなた訪問看護ステーション中野",
+   "identifier": "1361490343",
+   "org": "株式会社ナースホーム",
+   "address": "東京都中野区南台５－２３－１３アイル方南町５０２",
+   "tel": "03-6382-6979",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2022-07-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "capacity": 100,
+   "lat": "35.683153700000000",
+   "lng": "139.662562200000000"
   },
   {
    "name": "さくら訪問看護ステーション",
@@ -233,12 +461,41 @@
    "closed": "",
    "designated": "2022-08-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://sakura-nurse.net",
    "days": [
     "平日"
    ],
    "lat": "35.723801185389150",
    "lng": "139.665982666270450"
+  },
+  {
+   "name": "訪問看護ステーション　はな　中野",
+   "identifier": "1361490384",
+   "org": "株式会社はな",
+   "address": "東京都中野区東中野３－６－１４鈴木ビル２階",
+   "tel": "03-6820-2378",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2022-10-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "https://hana-gr.com/index.html",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "lat": "35.708328700000010",
+   "lng": "139.681715600000000"
   },
   {
    "name": "サルスケア訪問看護リハビリステーション",
@@ -251,6 +508,10 @@
    "closed": "",
    "designated": "2023-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "http://salus-care-houmon.com",
    "days": [
     "平日",
@@ -273,6 +534,10 @@
    "closed": "",
    "designated": "2023-10-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://charis-houkan.co.jp/",
    "days": [
     "平日",
@@ -285,6 +550,28 @@
    "lng": "139.665816700000000"
   },
   {
+   "name": "Ｌｅａケア訪問看護ステーション",
+   "identifier": "1361490434",
+   "org": "株式会社Ｌｅａケア",
+   "address": "東京都中野区南台１－３－８第８新栄ビル１０１",
+   "tel": "03-5309-2991",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2024-06-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "http://hp.kaipoke.biz/98g/",
+   "days": [
+    "平日"
+   ],
+   "lat": "35.686884600000000",
+   "lng": "139.676236800000030"
+  },
+  {
    "name": "ＣＲＡＹＯＮＺ　プライベート看護",
    "identifier": "1361490442",
    "org": "株式会社ＣＲＡＹＯＮＺ",
@@ -295,6 +582,10 @@
    "closed": "",
    "designated": "2024-06-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://homelux.crayonz.jp/",
    "days": [
     "平日",
@@ -304,6 +595,28 @@
    ],
    "lat": "35.734959400000010",
    "lng": "139.629416200000000"
+  },
+  {
+   "name": "ワンストップ訪問看護ステーション中野南台",
+   "identifier": "1361490459",
+   "org": "株式会社ワンストップ",
+   "address": "東京都中野区南台２－１７－１０－１階",
+   "tel": "03-6382-5336",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2025-04-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "days": [
+    "平日",
+    "祝日"
+   ],
+   "lat": "35.682941200000000",
+   "lng": "139.671197500000000"
   },
   {
    "name": "ルピナス訪問看護ステーション中野",
@@ -316,6 +629,10 @@
    "closed": "",
    "designated": "2025-09-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://lupinus-nursing.com/company/nakano/",
    "days": [
     "平日",
@@ -327,6 +644,31 @@
    "lng": "139.989656800000000"
   },
   {
+   "name": "サンウェルズ中野白鷺訪問看護ステーション",
+   "identifier": "1361490475",
+   "org": "株式会社サンウェルズ",
+   "address": "東京都中野区白鷺２－１４－１２",
+   "tel": "03-3310-1253",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2026-02-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "https://sunwels.jp/pdh/facility/pdhouse-nakanoshirasagi/",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "lat": "35.718136000000000",
+   "lng": "139.631691100000000"
+  },
+  {
    "name": "医心館　訪問看護ステーション　鷺ノ宮",
    "identifier": "1361490483",
    "org": "株式会社アンビス",
@@ -336,7 +678,11 @@
    "hours": "",
    "closed": "",
    "designated": "2026-05-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ]
   },
   {
    "name": "中野区医師会訪問看護ステーション",
@@ -349,6 +695,10 @@
    "closed": "",
    "designated": "2000-04-01",
    "org_kind": "社団・財団",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "http://www.nakano-med.or.jp/",
    "days": [
     "平日"
@@ -356,6 +706,29 @@
    "capacity": 5,
    "lat": "35.703837800000000",
    "lng": "139.666193700000000"
+  },
+  {
+   "name": "社会医療法人社団　健友会　上高田訪問看護ステーション",
+   "identifier": "1367191349",
+   "org": "社会医療法人社団健友会",
+   "address": "東京都中野区上高田１－５０－７大川ビル１Ｆ",
+   "tel": "03-5380-4165",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2000-04-01",
+   "org_kind": "医療法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "http://www.kenyu-kai.or.jp",
+   "days": [
+    "平日",
+    "土曜日"
+   ],
+   "lat": "35.712306600000000",
+   "lng": "139.674020599999950"
   },
   {
    "name": "中野北ベタニア訪問看護ステーション",
@@ -368,6 +741,10 @@
    "closed": "",
    "designated": "2000-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://jiseikai.jp/nakano/visit-nursing-st",
    "days": [
     "平日",
@@ -375,6 +752,29 @@
    ],
    "lat": "35.728705262666324",
    "lng": "139.663751861936560"
+  },
+  {
+   "name": "新渡戸記念訪問看護ステーション",
+   "identifier": "1367192149",
+   "org": "東京医療生活協同組合",
+   "address": "東京都中野区中野２－２１－１７東京医療別館３階",
+   "tel": "03-3382-8611",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2000-04-01",
+   "org_kind": "生協",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "http://www.nakanosogo.or.jp/outline/facilities/visitnursing.html",
+   "days": [
+    "平日",
+    "土曜日"
+   ],
+   "lat": "35.703446200000000",
+   "lng": "139.667440899999970"
   },
   {
    "name": "あすなろ訪問看護ステーション鷺宮",
@@ -387,6 +787,10 @@
    "closed": "",
    "designated": "2003-10-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://asunaro-st.com",
    "days": [
     "平日"
@@ -394,6 +798,27 @@
    "capacity": 55,
    "lat": "35.723084255092544",
    "lng": "139.638760920237700"
+  },
+  {
+   "name": "さわやかケア中野・訪問看護",
+   "identifier": "1367198393",
+   "org": "ウエルシアパートナーズ株式会社",
+   "address": "東京都中野区中央１－１－３　新都心中央ビル１階",
+   "tel": "03-5348-6216",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2006-04-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "days": [
+    "平日"
+   ],
+   "lat": "35.696814300000000",
+   "lng": "139.686676100000000"
   }
  ],
  "towns": [
@@ -478,5 +903,5 @@
  "service": "訪問看護",
  "fetched": "2026-09-22",
  "source2": "厚生労働省「介護サービス情報公表システム」オープンデータ",
- "mhlw_hit": 18
+ "mhlw_hit": 32
 }

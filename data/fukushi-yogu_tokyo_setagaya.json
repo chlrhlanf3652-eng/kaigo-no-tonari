@@ -12,19 +12,19 @@
     "city_name": "世田谷区"
   },
   "seo": {
-    "title": "世田谷区の福祉用具20事業所｜レンタルと購入【2026年9月更新】",
-    "description": "東京都世田谷区の福祉用具貸与・特定福祉用具販売の指定事業所20件を連絡先つきで掲載。区内35件のうち貸与と販売の両方を扱う事業所がどれかを示し、年10万円までの購入費と、指定事業所から買う必要がある理由を解説します。",
+    "title": "世田谷区の福祉用具35事業所｜レンタルと購入【2026年9月更新】",
+    "description": "東京都世田谷区の福祉用具貸与・特定福祉用具販売の指定事業所35件を連絡先つきで掲載。区内35件のうち貸与と販売の両方を扱う事業所がどれかを示し、年10万円までの購入費と、指定事業所から買う必要がある理由を解説します。",
     "canonical": "https://kaigonotonari.com/fukushi-yogu/tokyo/setagaya/",
     "og_title": "世田谷区の福祉用具一覧｜借りるか買うかで事業所が変わります",
-    "og_description": "世田谷区の福祉用具事業所20件を掲載。ポータブルトイレや入浴用いすは購入しかできません。指定のない店で買うと保険は出ません。",
+    "og_description": "世田谷区の福祉用具事業所35件を掲載。ポータブルトイレや入浴用いすは購入しかできません。指定のない店で買うと保険は出ません。",
     "og_image": "https://kaigonotonari.com/assets/ogp-fukushi-yogu.jpg"
   },
   "h1": "世田谷区の福祉用具一覧｜借りるか買うかで事業所が変わります",
   "published": "2026-09-22",
   "modified": "2026-09-22",
-  "count_label": "掲載：20事業所",
-  "lead": "東京都世田谷区で福祉用具のレンタルや購入を考えている方へ。東京都の指定を受けた35件から20件を連絡先つきで掲載し、そのうち<strong>貸与と販売の両方を扱う事業所が20件</strong>あることまで示しました。介護保険で福祉用具を買う場合、<strong>指定を受けた事業者から買ったものにしか支給されません</strong>。同じ商品をネット通販で買っても1円も戻らないので、ここが最初の分かれ目になります。",
-  "listing_note": "世田谷区内の福祉用具貸与・特定福祉用具販売の指定事業所から20件を掲載しています（東京都公表・2026年9月1日時点）。区内には35件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。「貸与と販売」「貸与のみ」「販売のみ」の表示は、東京都の一覧でその事業所がどちらのサービス種類で指定を受けているかによります。取扱商品や価格は事業所ごとに違い、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
+  "count_label": "掲載：35事業所",
+  "lead": "東京都世田谷区で福祉用具のレンタルや購入を考えている方へ。東京都の指定を受けた35件から35件を連絡先つきで掲載し、そのうち<strong>貸与と販売の両方を扱う事業所が34件</strong>あることまで示しました。介護保険で福祉用具を買う場合、<strong>指定を受けた事業者から買ったものにしか支給されません</strong>。同じ商品をネット通販で買っても1円も戻らないので、ここが最初の分かれ目になります。",
+  "listing_note": "世田谷区内の福祉用具貸与・特定福祉用具販売の指定事業所から35件を掲載しています（東京都公表・2026年9月1日時点）。区内には35件が指定を受けており、そのすべてを掲載しています。「貸与と販売」「貸与のみ」「販売のみ」の表示は、東京都の一覧でその事業所がどちらのサービス種類で指定を受けているかによります。取扱商品や価格は事業所ごとに違い、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
@@ -84,6 +84,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "やさしい手　住環境事業部　学芸大学営業所",
+      "telephone": "05017525770",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "下馬６－１１－１０"
+      },
+      "parentOrganization": "株式会社やさしい手",
+      "identifier": "1371000611",
+      "_town": "下馬",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2000-02-01",
+      "_years": 26.639288158795345,
+      "url": "http://www.yasashiite.com",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "下馬エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "トータルライフケア奥沢",
       "telephone": "03-6425-6431",
       "address": {
@@ -115,6 +143,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "株式会社サンハート　介楽工房",
+      "telephone": "03-5433-2421",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "代沢４－３７－２ハイツ番場Ａ・Ｂ"
+      },
+      "parentOrganization": "株式会社サンハート",
+      "identifier": "1371202050",
+      "_town": "代沢",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2000-09-01",
+      "_years": 26.05612594113621,
+      "url": "https://www.sunheart1999.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "代沢エリア",
+        "貸与と販売",
+        "土曜日も対応",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "株式会社　あかね",
       "telephone": "03-5433-1441",
       "address": {
@@ -139,6 +197,34 @@
         "三軒茶屋エリア",
         "貸与と販売",
         "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "タンドル南烏山",
+      "telephone": "03-5314-1206",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "南烏山６－４－２１ＳＪＫビル２Ｆ"
+      },
+      "parentOrganization": "株式会社タンドル",
+      "identifier": "1371206598",
+      "_town": "南烏山",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2007-01-01",
+      "_years": 19.72347707049966,
+      "url": "http://www.tandoru.com/",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "南烏山エリア",
+        "貸与と販売"
       ]
     },
     {
@@ -201,6 +287,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "フランスベッド株式会社　メディカル世田谷営業所",
+      "telephone": "03-5779-7561",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "若林４－３１－１５　光映ビル２Ｆ"
+      },
+      "parentOrganization": "フランスベッド株式会社",
+      "identifier": "1371207844",
+      "_town": "若林",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2009-04-01",
+      "_years": 17.475701574264203,
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "若林エリア",
+        "貸与と販売",
+        "土曜日も対応"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "アルファフリー",
       "telephone": "03-6411-7340",
       "address": {
@@ -223,6 +337,33 @@
       ],
       "_tags": [
         "鎌田エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アイ・ケアステーション",
+      "telephone": "03-6431-0228",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "岡本１－３３－１４－２２０"
+      },
+      "parentOrganization": "株式会社Ｎ・システム",
+      "identifier": "1371208149",
+      "_town": "岡本",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2009-09-01",
+      "_years": 17.05681040383299,
+      "url": "http://n-system-web.co.jp",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "岡本エリア",
         "貸与と販売"
       ]
     },
@@ -252,6 +393,33 @@
         "南烏山エリア",
         "貸与と販売",
         "土曜日も対応"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "セントケア　りまいん　世田谷",
+      "telephone": "03-3701-2027",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "等々力３－６－９ファニー等々力Ⅱ ２０２"
+      },
+      "parentOrganization": "セントケアりまいん株式会社",
+      "identifier": "1371208875",
+      "_town": "等々力",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2010-09-01",
+      "_years": 16.057494866529773,
+      "url": "http://care-net.biz/13/saintcare-t",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "等々力エリア",
+        "貸与と販売"
       ]
     },
     {
@@ -314,6 +482,33 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ダスキンヘルスレント世田谷ステーション",
+      "telephone": "03-6909-1075",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "北烏山９－２３－３１コンフォーレ烏山１階"
+      },
+      "parentOrganization": "株式会社いつわワールド",
+      "identifier": "1371210301",
+      "_town": "北烏山",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2012-04-01",
+      "_years": 14.47501711156742,
+      "url": "http://healthrent.duskin.jp/station/tokyo.html#setagaya",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "北烏山エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "株式会社ヤマシタ　世田谷等々力営業所",
       "telephone": "03-5752-1072",
       "address": {
@@ -345,6 +540,35 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "株式会社　フロンティア　世田谷営業所",
+      "telephone": "03-5315-5390",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "粕谷４－１８－４　１階"
+      },
+      "parentOrganization": "株式会社フロンティア",
+      "identifier": "1371211226",
+      "_town": "粕谷",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2013-04-01",
+      "_years": 13.475701574264203,
+      "url": "http://www.frontier-ph.com/homecare/",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "粕谷エリア",
+        "貸与と販売",
+        "土曜日も対応"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "パナソニック　エイジフリーショップ世田谷",
       "telephone": "03-5426-0909",
       "address": {
@@ -366,6 +590,35 @@
         "平日",
         "土曜日",
         "祝日"
+      ],
+      "_tags": [
+        "経堂エリア",
+        "貸与と販売",
+        "土曜日も対応"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "スマイライフ経堂　福祉用具事業所",
+      "telephone": "03-6413-9383",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "経堂２－４－８アンティロープ経堂　Ｂ号室"
+      },
+      "parentOrganization": "株式会社スマイライフ",
+      "identifier": "1371213305",
+      "_town": "経堂",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2015-12-01",
+      "_years": 10.809034907597535,
+      "url": "http://smi-life.com",
+      "_days": [
+        "平日",
+        "土曜日"
       ],
       "_tags": [
         "経堂エリア",
@@ -427,6 +680,29 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "アローケアクルーズ",
+      "telephone": "03-5727-8444",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "砧６－３６－３信濃屋第一ビル３Ｆ"
+      },
+      "parentOrganization": "株式会社アロー・ケアクルーズ",
+      "identifier": "1371216423",
+      "_town": "砧",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2021-09-01",
+      "_years": 5.0568104038329915,
+      "_tags": [
+        "砧エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "福祉用具ＡＩケアセンター",
       "telephone": "03-6822-1181",
       "address": {
@@ -449,6 +725,29 @@
       ],
       "_tags": [
         "船橋エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ワークライフバランス",
+      "telephone": "03-6823-5579",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "成城１－７－２"
+      },
+      "parentOrganization": "ワークライフバランス株式会社",
+      "identifier": "1371216746",
+      "_town": "成城",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2022-09-01",
+      "_years": 4.057494866529774,
+      "_tags": [
+        "成城エリア",
         "貸与と販売"
       ]
     },
@@ -481,6 +780,32 @@
         "赤堤エリア",
         "貸与と販売",
         "土曜日も対応"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ネットワーク福祉用具ステーション",
+      "telephone": "05015805024",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "羽根木２－３５－２２－１０７"
+      },
+      "parentOrganization": "株式会社オフィスネットワーク",
+      "identifier": "1371217256",
+      "_town": "羽根木",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2024-07-01",
+      "_years": 2.2258726899383983,
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "羽根木エリア",
+        "貸与と販売"
       ]
     },
     {
@@ -540,6 +865,32 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "こかげようぐ",
+      "telephone": "03-6413-8116",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "世田谷１－３３－３　Ｂ１"
+      },
+      "parentOrganization": "一般社団法人地域介護支援",
+      "identifier": "1371217710",
+      "_town": "世田谷",
+      "_kind": "社団・財団",
+      "_mix": "両方",
+      "_designated": "2025-06-01",
+      "_years": 1.3086926762491444,
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "世田谷エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "保健福祉用品部",
       "telephone": "03-6427-7908",
       "address": {
@@ -562,6 +913,29 @@
       "_tags": [
         "北沢エリア",
         "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "どうぐばこ",
+      "telephone": "08085446746",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "船橋５－３１－１０オハナコートＢ"
+      },
+      "parentOrganization": "株式会社フルフィル",
+      "identifier": "1371218080",
+      "_town": "船橋",
+      "_kind": "営利法人",
+      "_mix": "販売のみ",
+      "_designated": "2026-09-01",
+      "_years": 0.057494866529774126,
+      "_tags": [
+        "船橋エリア",
+        "販売のみ"
       ]
     },
     {
@@ -590,6 +964,34 @@
         "赤堤エリア",
         "貸与と販売"
       ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "グリーンメディ",
+      "telephone": "03-6770-5338",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "松原２－４２－９美鈴Ｎビル４０２号室"
+      },
+      "parentOrganization": "株式会社ライフタイムメディ",
+      "identifier": "1371506484",
+      "_town": "松原",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2011-04-01",
+      "_years": 15.477070499657769,
+      "url": "http://www.gc-lifetime.co.jp/",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "松原エリア",
+        "貸与と販売"
+      ]
     }
   ],
   "faq": [
@@ -599,15 +1001,15 @@
     },
     {
       "q": "世田谷区に福祉用具の事業所は何件ありますか？",
-      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で世田谷区内に35件の福祉用具の事業所（貸与または特定販売の指定を受けたもの）があります。本ページではそのうち20件を連絡先つきで掲載し、うち20件が貸与と販売の両方を扱っています。"
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で世田谷区内に35件の福祉用具の事業所（貸与または特定販売の指定を受けたもの）があります。本ページではそのうち35件を連絡先つきで掲載し、うち34件が貸与と販売の両方を扱っています。"
     },
     {
       "q": "世田谷区でポータブルトイレや入浴用のいすは、レンタルできますか？",
-      "a": "できません。これらは購入（特定福祉用具販売）の対象で、同一年度に10万円までが保険の対象になります。世田谷区の掲載20件のうち販売の指定を持つのは20件なので、買う予定があるならその中から選んでください。"
+      "a": "できません。これらは購入（特定福祉用具販売）の対象で、同一年度に10万円までが保険の対象になります。世田谷区の掲載35件のうち販売の指定を持つのは35件なので、買う予定があるならその中から選んでください。"
     },
     {
       "q": "ネット通販で買っても、世田谷区から保険は出ますか？",
-      "a": "出ません。世田谷区の掲載20件のうち20件が販売の指定を持っているので、その中から選んでください。購入前に世田谷区の介護保険担当かケアマネジャーに相談するのが確実です。"
+      "a": "出ません。世田谷区の掲載35件のうち35件が販売の指定を持っているので、その中から選んでください。購入前に世田谷区の介護保険担当かケアマネジャーに相談するのが確実です。"
     },
     {
       "q": "世田谷区で介護ベッドを借りたいのですが、要介護1でも借りられますか？",
@@ -615,21 +1017,23 @@
     },
     {
       "q": "世田谷区でレンタル料金が事業所によって違うのはなぜですか？",
-      "a": "福祉用具貸与だけは単位数が決まっておらず、事業所が商品ごとに価格を設定するしくみだからです。世田谷区の掲載20件は営利法人が20件と大半を占めますが、価格も品ぞろえも事業所ごとに差があるので、複数から見積もりを取ってください。"
+      "a": "福祉用具貸与だけは単位数が決まっておらず、事業所が商品ごとに価格を設定するしくみだからです。世田谷区の掲載35件は営利法人が34件と大半を占めますが、価格も品ぞろえも事業所ごとに差があるので、複数から見積もりを取ってください。"
     }
   ],
-  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/setagaya/\">世田谷区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/setagaya/\">世田谷区のデイサービス<small>日中の預け先</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/setagaya/\">世田谷区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/setagaya/\">世田谷区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/setagaya/\">世田谷区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/setagaya/\">世田谷区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
-  "nearby_heading": "近隣エリアの福祉用具",
-  "nearby": "<a href=\"{{ROOT}}fukushi-yogu/tokyo/meguro/\">目黒区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/shibuya/\">渋谷区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/suginami/\">杉並区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/nakano/\">中野区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/ota/\">大田区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/komae/\">komae</a>",
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/setagaya/\">世田谷区の訪問介護<small>自宅に来てもらう・区内237件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/setagaya/\">世田谷区の訪問看護<small>医療ケアが必要な方へ・区内119件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/setagaya/\">世田谷区のデイサービス<small>日帰りで通う・区内99件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/setagaya/\">世田谷区のショートステイ<small>数日あずける・区内31件</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/setagaya/\">世田谷区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/setagaya/\">世田谷区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "東京23区から福祉用具を探す",
+  "nearby": "<a href=\"{{ROOT}}fukushi-yogu/tokyo/chiyoda/\">千代田区<small>3件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/chuo/\">中央区<small>13件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/minato/\">港区<small>11件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/shinjuku/\">新宿区<small>20件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/bunkyo/\">文京区<small>6件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/taito/\">台東区<small>11件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/sumida/\">墨田区<small>23件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/koto/\">江東区<small>21件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/shinagawa/\">品川区<small>10件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/meguro/\">目黒区<small>11件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/ota/\">大田区<small>32件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/shibuya/\">渋谷区<small>8件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/nakano/\">中野区<small>15件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/suginami/\">杉並区<small>23件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/toshima/\">豊島区<small>14件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/kita/\">北区<small>20件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/arakawa/\">荒川区<small>15件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/itabashi/\">板橋区<small>27件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/nerima/\">練馬区<small>45件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/adachi/\">足立区<small>52件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/katsushika/\">葛飾区<small>31件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/edogawa/\">江戸川区<small>34件</small></a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
     "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／対応曜日・公式サイト）",
     "江東区「介護保険特定福祉用具購入費の支給」（支給限度額・対象種目・指定事業者要件）",
     "厚生労働省「令和6年度介護報酬改定」福祉用具貸与・特定福祉用具販売の選択制",
     "世田谷区「あんしんすこやかセンター一覧」",
-    "日本郵便 郵便番号データにもとづく世田谷区の町域一覧"
+    "日本郵便 郵便番号データにもとづく世田谷区の町域一覧",
+    "東京都総務局統計部「住民基本台帳による東京都の世帯と人口」（令和8年1月1日現在／年齢3区分別人口・5歳階級別人口）",
+    "東京都福祉局「介護保険事業状況報告（月報）」令和8年6月分（保険者別・第1号被保険者数／要介護認定者数）"
   ],
-  "sidebar": "<div class=\"side cta-side\">\n        <h4>買う前に確認を</h4>\n        <p>指定のない店で買うと保険は出ません。対象種目と手続きはハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>世田谷区内の福祉用具事業所は35件（都指定）</li>\n          <li>掲載20件のうち貸与と販売の両方が20件</li>\n          <li>購入は年度内10万円まで（1〜3割負担）</li>\n          <li>指定事業所以外で買うと支給されません</li>\n          <li>入口はケアマネかあんしんすこやかセンター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみ</a></li>\n          <li><a href=\"{{ROOT}}houmon-kaigo/\">訪問介護</a></li>\n        </ul>\n      </div>",
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>買う前に確認を</h4>\n        <p>指定のない店で買うと保険は出ません。対象種目と手続きはハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>世田谷区内の福祉用具事業所は35件（都指定）</li>\n          <li>掲載35件のうち貸与と販売の両方が34件</li>\n          <li>購入は年度内10万円まで（1〜3割負担）</li>\n          <li>指定事業所以外で買うと支給されません</li>\n          <li>入口はケアマネかあんしんすこやかセンター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみ</a></li>\n          <li><a href=\"{{ROOT}}houmon-kaigo/\">訪問介護</a></li>\n        </ul>\n      </div>",
   "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">費用のしくみ</a>",
   "hero_image": "assets/ogp-fukushi-yogu.jpg",
   "towns": {

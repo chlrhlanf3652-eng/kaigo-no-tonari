@@ -12,19 +12,19 @@
     "city_name": "品川区"
   },
   "seo": {
-    "title": "品川区のデイサービス20事業所｜送迎と費用の見方【2026年9月更新】",
-    "description": "東京都品川区の通所介護（デイサービス）事業所20件を連絡先つきで掲載。区内30件の中から選ぶための所在町域・運営法人・開設年数の内訳と、1級地での自己負担、見学で聞くことをまとめました。",
+    "title": "品川区のデイサービス30事業所｜送迎と費用の見方【2026年9月更新】",
+    "description": "東京都品川区の通所介護（デイサービス）事業所30件を連絡先つきで掲載。区内30件の中から選ぶための所在町域・運営法人・開設年数の内訳と、1級地での自己負担、見学で聞くことをまとめました。",
     "canonical": "https://kaigonotonari.com/day-service/tokyo/shinagawa/",
     "og_title": "品川区のデイサービス一覧｜送迎範囲と費用の見方",
-    "og_description": "品川区の通所介護事業所20件を掲載。送迎範囲・入浴設備・開設年数から選ぶ順番と、保険外費用を含めた費用の見方を解説します。",
+    "og_description": "品川区の通所介護事業所30件を掲載。送迎範囲・入浴設備・開設年数から選ぶ順番と、保険外費用を含めた費用の見方を解説します。",
     "og_image": "https://kaigonotonari.com/assets/ogp-day-service.jpg"
   },
   "h1": "品川区のデイサービス一覧｜送迎範囲と費用の見方",
   "published": "2026-09-22",
   "modified": "2026-09-22",
-  "count_label": "掲載：20事業所",
-  "lead": "東京都品川区で通所介護（デイサービス）を探している方へ。東京都の指定を受けた30件から20件を連絡先つきで掲載し、所在町域・運営法人・開設からの年数の内訳と、1級地での自己負担をまとめました。デイサービスでいちばん多い壁は<strong>本人が行きたがらないこと</strong>です。選ぶ順番は近い順ではなく、通い続けられる条件の順になります。",
-  "listing_note": "品川区内の通所介護事業所から20件を掲載しています（東京都公表・2026年9月1日時点）。区内には30件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。定員18人以下の地域密着型通所介護は区が指定するため、この一覧には含まれていません。掲載順は事業所の優劣を示すものではありません。",
+  "count_label": "掲載：30事業所",
+  "lead": "東京都品川区で通所介護（デイサービス）を探している方へ。東京都の指定を受けた30件から30件を連絡先つきで掲載し、所在町域・運営法人・開設からの年数の内訳と、1級地での自己負担をまとめました。デイサービスでいちばん多い壁は<strong>本人が行きたがらないこと</strong>です。選ぶ順番は近い順ではなく、通い続けられる条件の順になります。",
+  "listing_note": "品川区内の通所介護事業所から30件を掲載しています（東京都公表・2026年9月1日時点）。区内には30件が指定を受けており、そのすべてを掲載しています。定員18人以下の地域密着型通所介護は区が指定するため、この一覧には含まれていません。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
@@ -89,6 +89,37 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "成幸在宅サービスセンター",
+      "telephone": "03-3787-7492",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "品川区",
+        "streetAddress": "中延１－８－７"
+      },
+      "parentOrganization": "社会福祉法人三徳会",
+      "identifier": "1370900613",
+      "_town": "中延",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-03-01",
+      "_years": 26.559890485968516,
+      "url": "https://www.santokukai.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 20,
+      "_tags": [
+        "中延エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "東品川在宅サービスセンター",
       "telephone": "03-5479-2946",
       "address": {
@@ -142,6 +173,37 @@
       ],
       "_tags": [
         "大崎エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "品川区立戸越台在宅サービスセンター",
+      "telephone": "03-5750-1052",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "品川区",
+        "streetAddress": "戸越１－１５－２３"
+      },
+      "parentOrganization": "社会福祉法人三徳会",
+      "identifier": "1370900761",
+      "_town": "戸越",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-03-01",
+      "_years": 26.559890485968516,
+      "url": "http://www.santokukai.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 30,
+      "_tags": [
+        "戸越エリア",
         "土曜日も営業",
         "20年以上",
         "デイサービス"
@@ -210,6 +272,37 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "品川区立大井在宅サービスセンター",
+      "telephone": "03-5742-2721",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "品川区",
+        "streetAddress": "大井４－１４－８"
+      },
+      "parentOrganization": "社会福祉法人　品川総合福祉センター",
+      "identifier": "1370900837",
+      "_town": "大井",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-03-01",
+      "_years": 26.559890485968516,
+      "url": "http://www.shinafuku.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 35,
+      "_tags": [
+        "大井エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "品川区立中延在宅サービスセンター",
       "telephone": "03-3787-2137",
       "address": {
@@ -271,6 +364,37 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "南大井在宅サービスセンター",
+      "telephone": "03-5753-3903",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "品川区",
+        "streetAddress": "南大井５－１９－１"
+      },
+      "parentOrganization": "社会福祉法人さくら会",
+      "identifier": "1370901058",
+      "_town": "南大井",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-05-01",
+      "_years": 26.392881587953458,
+      "url": "http://www.sakurakai.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 25,
+      "_tags": [
+        "南大井エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "パナソニック　エイジフリーケアセンターしながわ・デイサービス",
       "telephone": "03-3450-8136",
       "address": {
@@ -322,6 +446,36 @@
       ],
       "_tags": [
         "大崎エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "すずなり戸越",
+      "telephone": "03-5751-5353",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "品川区",
+        "streetAddress": "戸越６－２３－２４コープ中延１階"
+      },
+      "parentOrganization": "株式会社すずなり",
+      "identifier": "1370901587",
+      "_town": "戸越",
+      "_kind": "営利法人",
+      "_designated": "2002-05-01",
+      "_years": 24.39425051334702,
+      "url": "http://www.suzu-care.jp",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_capacity": 58,
+      "_tags": [
+        "戸越エリア",
+        "土曜日も営業",
         "20年以上",
         "デイサービス"
       ]
@@ -389,6 +543,37 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "デイサービスセンター友の里　旗の台",
+      "telephone": "03-5788-6361",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "品川区",
+        "streetAddress": "旗の台４－１０－１"
+      },
+      "parentOrganization": "株式会社ティーシーエス",
+      "identifier": "1370902270",
+      "_town": "旗の台",
+      "_kind": "営利法人",
+      "_designated": "2004-12-01",
+      "_years": 21.806981519507186,
+      "url": "http://www.total-care-servise.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "旗の台エリア",
+        "日曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "通所介護すずなり立会川",
       "telephone": "03-5753-8830",
       "address": {
@@ -441,6 +626,36 @@
       "_capacity": 20,
       "_tags": [
         "平塚エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ゆめふる荏原店",
+      "telephone": "05017538180",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "品川区",
+        "streetAddress": "荏原６－５－１"
+      },
+      "parentOrganization": "株式会社やさしい手",
+      "identifier": "1370903500",
+      "_town": "荏原",
+      "_kind": "営利法人",
+      "_designated": "2010-10-01",
+      "_years": 15.97535934291581,
+      "url": "https://search.yasashiite.com/detail/tsusyokaigo_ebara/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 180,
+      "_tags": [
+        "荏原エリア",
         "土曜日も営業",
         "デイサービス"
       ]
@@ -506,6 +721,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "オハナ中延",
+      "telephone": "03-3782-7109",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "品川区",
+        "streetAddress": "中延４－５－７スタイリオ中延駅前３Ｆ"
+      },
+      "parentOrganization": "東急ウェルネス株式会社",
+      "identifier": "1370904144",
+      "_town": "中延",
+      "_kind": "営利法人",
+      "_designated": "2014-05-01",
+      "_years": 12.394250513347023,
+      "url": "http://tokyu-ohana.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 43,
+      "_tags": [
+        "中延エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "株式会社ケアサービス　デイサービスセンター豊町",
       "telephone": "03-5788-7075",
       "address": {
@@ -565,6 +810,35 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ミモザ南品川",
+      "telephone": "03-5782-8040",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "品川区",
+        "streetAddress": "南品川２－２－５　１階"
+      },
+      "parentOrganization": "ミモザ株式会社",
+      "identifier": "1370904979",
+      "_town": "南品川",
+      "_kind": "営利法人",
+      "_designated": "2018-10-01",
+      "_years": 7.975359342915811,
+      "url": "https://www.mimoza-care.jp/base/minami-shinagawa.html",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南品川エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "デイスポーツ　青空クラブ　武蔵小山",
       "telephone": "03-6452-2260",
       "address": {
@@ -618,6 +892,33 @@
         "土曜日も営業",
         "デイサービス"
       ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "つばさデイサービス西小山",
+      "telephone": "03-6426-7035",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "品川区",
+        "streetAddress": "小山６－９－２０シュテルンハイム１階"
+      },
+      "parentOrganization": "介護ジャパン株式会社",
+      "identifier": "1370905125",
+      "_town": "小山",
+      "_kind": "営利法人",
+      "_designated": "2020-05-01",
+      "_years": 6.392881587953457,
+      "url": "https://kaigojapan.co.jp/",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "小山エリア",
+        "デイサービス"
+      ]
     }
   ],
   "faq": [
@@ -627,11 +928,11 @@
     },
     {
       "q": "品川区にデイサービスは何件ありますか？",
-      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で品川区内に30件の通所介護事業所が指定を受けています。本ページではそのうち20件を連絡先つきで掲載しています。なお定員18人以下の地域密着型通所介護は区が指定するため、この件数には含まれていません。"
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で品川区内に30件の通所介護事業所が指定を受けています。本ページではそのうち30件を連絡先つきで掲載しています。なお定員18人以下の地域密着型通所介護は区が指定するため、この件数には含まれていません。"
     },
     {
       "q": "品川区の掲載事業所は、どこを見て絞り込めばいいですか？",
-      "a": "まず送迎範囲に自宅が入るかで絞り、次に入浴設備（個浴か機械浴か）で絞るのが順番です。品川区の掲載20件では営利法人が12件と最も多く、指定から20年以上の事業所も11件あります。長く続いているところは空きが出にくい一方、新しいところは空きがあります。"
+      "a": "まず送迎範囲に自宅が入るかで絞り、次に入浴設備（個浴か機械浴か）で絞るのが順番です。品川区の掲載30件では営利法人が18件と最も多く、指定から20年以上の事業所も17件あります。長く続いているところは空きが出にくい一方、新しいところは空きがあります。"
     },
     {
       "q": "品川区で自己負担はいくらくらいですか？",
@@ -639,22 +940,24 @@
     },
     {
       "q": "本人が品川区のデイサービスに行きたがりません。",
-      "a": "まず体験利用を試してください。品川区内には30件あり、掲載20件を見ても営利法人が12件と偏りがあるように、規模も雰囲気も事業所ごとに違います。合わない理由別の対処（個浴のある事業所、小規模な事業所など）はデイサービスのしくみのページにまとめました。品川区でも週1回から始めて、慣れてから増やすのが定石です。"
+      "a": "まず体験利用を試してください。品川区内には30件あり、掲載30件を見ても営利法人が18件と偏りがあるように、規模も雰囲気も事業所ごとに違います。合わない理由別の対処（個浴のある事業所、小規模な事業所など）はデイサービスのしくみのページにまとめました。品川区でも週1回から始めて、慣れてから増やすのが定石です。"
     },
     {
       "q": "品川区の事業所は、途中で変更できますか？",
       "a": "変更できます。ケアマネジャーに相談すればケアプランを見直したうえで品川区内の別の事業所に切り替えられます。品川区は区内30件と候補があるので、合わずに変える方は珍しくありません。"
     }
   ],
-  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/shinagawa/\">品川区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/shinagawa/\">品川区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/shinagawa/\">品川区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/shinagawa/\">品川区の福祉用具レンタル<small>介護ベッド・車いす</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/shinagawa/\">品川区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/shinagawa/\">品川区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
-  "nearby_heading": "近隣エリアのデイサービス",
-  "nearby": "<a href=\"{{ROOT}}day-service/tokyo/minato/\">港区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/meguro/\">目黒区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/ota/\">大田区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/koto/\">江東区</a>\n      <a href=\"{{ROOT}}day-service/tokyo/setagaya/\">世田谷区</a>",
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/shinagawa/\">品川区の訪問介護<small>自宅に来てもらう・区内55件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/shinagawa/\">品川区の訪問看護<small>医療ケアが必要な方へ・区内48件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/shinagawa/\">品川区のショートステイ<small>数日あずける・区内13件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/shinagawa/\">品川区の福祉用具<small>借りる・買う・区内10件</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/shinagawa/\">品川区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/shinagawa/\">品川区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "東京23区からデイサービスを探す",
+  "nearby": "<a href=\"{{ROOT}}day-service/tokyo/chiyoda/\">千代田区<small>3件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/chuo/\">中央区<small>13件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/minato/\">港区<small>17件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/shinjuku/\">新宿区<small>27件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/bunkyo/\">文京区<small>18件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/taito/\">台東区<small>18件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/sumida/\">墨田区<small>36件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/koto/\">江東区<small>52件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/meguro/\">目黒区<small>24件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/ota/\">大田区<small>83件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/setagaya/\">世田谷区<small>99件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/shibuya/\">渋谷区<small>15件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/nakano/\">中野区<small>25件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/suginami/\">杉並区<small>44件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/toshima/\">豊島区<small>17件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/kita/\">北区<small>46件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/arakawa/\">荒川区<small>31件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/itabashi/\">板橋区<small>70件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/nerima/\">練馬区<small>80件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/adachi/\">足立区<small>107件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/katsushika/\">葛飾区<small>71件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/edogawa/\">江戸川区<small>81件</small></a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
     "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／定員・営業曜日・公式サイト）",
     "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」通所介護費（令和6年度改定）／介護報酬の地域区分（1級地・1単位11.40円）",
     "品川区「在宅介護支援センター一覧」",
-    "日本郵便 郵便番号データにもとづく品川区の町域一覧"
+    "日本郵便 郵便番号データにもとづく品川区の町域一覧",
+    "東京都総務局統計部「住民基本台帳による東京都の世帯と人口」（令和8年1月1日現在／年齢3区分別人口・5歳階級別人口）",
+    "東京都福祉局「介護保険事業状況報告（月報）」令和8年6月分（保険者別・第1号被保険者数／要介護認定者数）"
   ],
   "sidebar": "<div class=\"side cta-side\">\n        <h4>まず体験利用を</h4>\n        <p>合うかどうかは見学だけでは分かりません。制度と費用はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}day-service/\">デイサービスのしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>品川区内の通所介護は30件（都指定）</li>\n          <li>7〜8時間・要介護1で約750円（1割）</li>\n          <li>食費などは全額自己負担</li>\n          <li>入口はケアマネか在宅介護支援センター</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}day-service/\">デイサービスのしくみ</a></li>\n          <li><a href=\"{{ROOT}}short-stay/\">ショートステイ</a></li>\n        </ul>\n      </div>",
   "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",

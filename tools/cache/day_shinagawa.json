@@ -16,6 +16,10 @@
    "closed": "",
    "designated": "2024-12-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://shinagawa.rehabili-fitness.com/",
    "days": [
     "平日",
@@ -37,6 +41,10 @@
    "closed": "",
    "designated": "2000-03-01",
    "org_kind": "生協",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.palsystem-tokyo.coop",
    "days": [
     "平日",
@@ -45,6 +53,31 @@
    ],
    "lat": "35.604457900000020",
    "lng": "139.753507099999980"
+  },
+  {
+   "name": "成幸在宅サービスセンター",
+   "identifier": "1370900613",
+   "org": "社会福祉法人三徳会",
+   "address": "東京都品川区中延１－８－７",
+   "tel": "03-3787-7492",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2000-03-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://www.santokukai.com/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 20,
+   "lat": "35.612083500000000",
+   "lng": "139.711837500000000"
   },
   {
    "name": "東品川在宅サービスセンター",
@@ -57,6 +90,10 @@
    "closed": "",
    "designated": "2000-03-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.fukueikai.or.jp",
    "days": [
     "平日",
@@ -77,6 +114,10 @@
    "closed": "",
    "designated": "2000-03-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.fukueikai.or.jp",
    "days": [
     "平日",
@@ -85,6 +126,31 @@
    ],
    "lat": "35.617027719139540",
    "lng": "139.729694989393580"
+  },
+  {
+   "name": "品川区立戸越台在宅サービスセンター",
+   "identifier": "1370900761",
+   "org": "社会福祉法人三徳会",
+   "address": "東京都品川区戸越１－１５－２３",
+   "tel": "03-5750-1052",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2000-03-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.santokukai.com/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 30,
+   "lat": "35.610679302002204",
+   "lng": "139.714658520709700"
   },
   {
    "name": "品川区立荏原在宅サービスセンター",
@@ -97,6 +163,10 @@
    "closed": "",
    "designated": "2000-03-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.santokukai.com/",
    "days": [
     "平日",
@@ -117,6 +187,10 @@
    "closed": "",
    "designated": "2000-03-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.shinafuku.com",
    "days": [
     "平日",
@@ -126,6 +200,31 @@
    "capacity": 35,
    "lat": "35.599912477342850",
    "lng": "139.751149092590340"
+  },
+  {
+   "name": "品川区立大井在宅サービスセンター",
+   "identifier": "1370900837",
+   "org": "社会福祉法人　品川総合福祉センター",
+   "address": "東京都品川区大井４－１４－８",
+   "tel": "03-5742-2721",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2000-03-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.shinafuku.com",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 35,
+   "lat": "35.601879800000000",
+   "lng": "139.732825199999980"
   },
   {
    "name": "品川区立中延在宅サービスセンター",
@@ -138,6 +237,10 @@
    "closed": "",
    "designated": "2000-03-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://shinafuku.com",
    "days": [
     "平日",
@@ -158,6 +261,10 @@
    "closed": "",
    "designated": "2000-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.shunkoufukushikai.or.jp",
    "days": [
     "平日",
@@ -167,6 +274,31 @@
    "capacity": 45,
    "lat": "35.599929700000000",
    "lng": "139.722531500000060"
+  },
+  {
+   "name": "南大井在宅サービスセンター",
+   "identifier": "1370901058",
+   "org": "社会福祉法人さくら会",
+   "address": "東京都品川区南大井５－１９－１",
+   "tel": "03-5753-3903",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2000-05-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.sakurakai.jp",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 25,
+   "lat": "35.594647400000000",
+   "lng": "139.733981099999940"
   },
   {
    "name": "パナソニック　エイジフリーケアセンターしながわ・デイサービス",
@@ -179,6 +311,10 @@
    "closed": "",
    "designated": "2000-07-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.fureai-do.co.jp/",
    "days": [
     "平日",
@@ -199,12 +335,40 @@
    "closed": "",
    "designated": "2001-03-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "days": [
     "平日",
     "祝日"
    ],
    "lat": "35.623324200000000",
    "lng": "139.724327700000000"
+  },
+  {
+   "name": "すずなり戸越",
+   "identifier": "1370901587",
+   "org": "株式会社すずなり",
+   "address": "東京都品川区戸越６－２３－２４コープ中延１階",
+   "tel": "03-5751-5353",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2002-05-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.suzu-care.jp",
+   "days": [
+    "平日",
+    "土曜日"
+   ],
+   "capacity": 58,
+   "lat": "35.606614800000000",
+   "lng": "139.714245799999960"
   },
   {
    "name": "西五反田在宅サービスセンター",
@@ -217,6 +381,10 @@
    "closed": "",
    "designated": "2004-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.sakurakai.jp",
    "days": [
     "平日",
@@ -237,6 +405,10 @@
    "closed": "",
    "designated": "2004-09-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.care.co.jp/",
    "days": [
     "平日",
@@ -246,6 +418,31 @@
    "capacity": 26,
    "lat": "35.623623800000000",
    "lng": "139.710442800000000"
+  },
+  {
+   "name": "デイサービスセンター友の里　旗の台",
+   "identifier": "1370902270",
+   "org": "株式会社ティーシーエス",
+   "address": "東京都品川区旗の台４－１０－１",
+   "tel": "03-5788-6361",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2004-12-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.total-care-servise.co.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "lat": "35.602187200000000",
+   "lng": "139.702966400000040"
   },
   {
    "name": "通所介護すずなり立会川",
@@ -258,6 +455,10 @@
    "closed": "",
    "designated": "2008-09-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.suzu-care.jp/",
    "days": [
     "平日",
@@ -278,6 +479,10 @@
    "closed": "",
    "designated": "2010-07-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "days": [
     "平日",
     "土曜日",
@@ -286,6 +491,31 @@
    "capacity": 20,
    "lat": "35.614211000000000",
    "lng": "139.710879200000020"
+  },
+  {
+   "name": "ゆめふる荏原店",
+   "identifier": "1370903500",
+   "org": "株式会社やさしい手",
+   "address": "東京都品川区荏原６－５－１",
+   "tel": "05017538180",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2010-10-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://search.yasashiite.com/detail/tsusyokaigo_ebara/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 180,
+   "lat": "35.613438700000000",
+   "lng": "139.703904800000030"
   },
   {
    "name": "レッツ倶楽部立会川",
@@ -298,6 +528,10 @@
    "closed": "",
    "designated": "2012-05-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.lets-club.jp/shop/tachiaigawa/",
    "days": [
     "平日",
@@ -319,6 +553,10 @@
    "closed": "",
    "designated": "2013-03-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://www.earthsupport.co.jp",
    "days": [
     "平日",
@@ -327,6 +565,31 @@
    ],
    "lat": "35.613563100000000",
    "lng": "139.747331400000000"
+  },
+  {
+   "name": "オハナ中延",
+   "identifier": "1370904144",
+   "org": "東急ウェルネス株式会社",
+   "address": "東京都品川区中延４－５－７スタイリオ中延駅前３Ｆ",
+   "tel": "03-3782-7109",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2014-05-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://tokyu-ohana.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 43,
+   "lat": "35.605567700000000",
+   "lng": "139.712621000000000"
   },
   {
    "name": "株式会社ケアサービス　デイサービスセンター豊町",
@@ -339,6 +602,10 @@
    "closed": "",
    "designated": "2015-02-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "days": [
     "平日",
     "土曜日",
@@ -359,6 +626,10 @@
    "closed": "",
    "designated": "2016-06-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://www.nagoyaka-link.co.jp/club/nakanobu/",
    "days": [
     "平日",
@@ -368,6 +639,30 @@
    "capacity": 25,
    "lat": "35.608214437610040",
    "lng": "139.714031351971470"
+  },
+  {
+   "name": "ミモザ南品川",
+   "identifier": "1370904979",
+   "org": "ミモザ株式会社",
+   "address": "東京都品川区南品川２－２－５　１階",
+   "tel": "03-5782-8040",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2018-10-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://www.mimoza-care.jp/base/minami-shinagawa.html",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.611970599999990",
+   "lng": "139.742210200000040"
   },
   {
    "name": "デイスポーツ　青空クラブ　武蔵小山",
@@ -380,6 +675,10 @@
    "closed": "",
    "designated": "2019-07-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://hp.kaipoke.biz/1r2/index.html",
    "days": [
     "平日"
@@ -399,6 +698,10 @@
    "closed": "",
    "designated": "2019-10-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://www.bridge-life.jp/shop/nakanobu.html",
    "days": [
     "平日",
@@ -407,6 +710,29 @@
    ],
    "lat": "35.608278200000010",
    "lng": "139.708463100000020"
+  },
+  {
+   "name": "つばさデイサービス西小山",
+   "identifier": "1370905125",
+   "org": "介護ジャパン株式会社",
+   "address": "東京都品川区小山６－９－２０シュテルンハイム１階",
+   "tel": "03-6426-7035",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2020-05-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://kaigojapan.co.jp/",
+   "days": [
+    "平日",
+    "祝日"
+   ],
+   "lat": "35.614123400000000",
+   "lng": "139.698676200000000"
   }
  ],
  "towns": [
@@ -523,5 +849,5 @@
  "service": "通所介護",
  "fetched": "2026-09-22",
  "source2": "厚生労働省「介護サービス情報公表システム」オープンデータ",
- "mhlw_hit": 20
+ "mhlw_hit": 30
 }

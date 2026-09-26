@@ -16,6 +16,10 @@
    "closed": "",
    "designated": "2003-10-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.tama-dhk.or.jp",
    "days": [
     "平日",
@@ -36,6 +40,10 @@
    "closed": "",
    "designated": "2012-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://www.foryou.or.jp/corp2/awajiday/",
    "days": [
     "平日",
@@ -56,6 +64,10 @@
    "closed": "",
    "designated": "2023-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.ichibancho-camellia-kai.com/",
    "days": [
     "平日",

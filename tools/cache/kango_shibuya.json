@@ -16,6 +16,10 @@
    "closed": "",
    "designated": "2022-11-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://hikari-lifes.net/home-nursing",
    "days": [
     "平日"
@@ -34,11 +38,41 @@
    "closed": "",
    "designated": "2023-10-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "days": [
     "平日"
    ],
    "lat": "35.710746300000010",
    "lng": "139.751911600000000"
+  },
+  {
+   "name": "ＬＥ在宅・施設訪問看護リハビリステーション　渋谷新本店",
+   "identifier": "1361290024",
+   "org": "ＬＥ．Ｏ．ＶＥ株式会社",
+   "address": "東京都渋谷区神南１－１７－１１キューブ渋谷神南５Ｆ",
+   "tel": "03-6427-8411",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2007-10-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "https://www.lovei.co.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "capacity": 14000,
+   "lat": "35.663346400000016",
+   "lng": "139.699920500000000"
   },
   {
    "name": "ナースステーション東京　渋谷　支店",
@@ -51,6 +85,10 @@
    "closed": "",
    "designated": "2008-07-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "http://zaitakucare.co.jp/",
    "days": [
     "平日"
@@ -69,6 +107,10 @@
    "closed": "",
    "designated": "2009-10-01",
    "org_kind": "非営利法人（NPO）",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "http://www.npoinochi.org/kango/index.html",
    "days": [
     "平日",
@@ -77,6 +119,29 @@
    "capacity": 43,
    "lat": "35.676064300000000",
    "lng": "139.682996200000000"
+  },
+  {
+   "name": "訪問看護ステーション　スマイライフ　代々木上原",
+   "identifier": "1361390121",
+   "org": "株式会社スマイライフ",
+   "address": "東京都渋谷区西原２－４－５",
+   "tel": "03-5738-7827",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2014-03-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "http://smi-life.com",
+   "days": [
+    "平日"
+   ],
+   "capacity": 70,
+   "lat": "35.675059642025545",
+   "lng": "139.681006116384880"
   },
   {
    "name": "訪問看護ステーション　ライム",
@@ -89,6 +154,10 @@
    "closed": "",
    "designated": "2015-03-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "http://nursecare-lime.com/",
    "days": [
     "平日"
@@ -107,12 +176,38 @@
    "closed": "",
    "designated": "2015-05-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "http://www.sncare.jp/",
    "days": [
     "平日"
    ],
    "lat": "35.649071896251800",
    "lng": "139.720234032863740"
+  },
+  {
+   "name": "金内メディカル訪問看護・リハビリステーション笹塚",
+   "identifier": "1361390196",
+   "org": "医療法人社団菱秀会",
+   "address": "東京都渋谷区笹塚１－５６－１０総栄ビル８１０",
+   "tel": "03-6304-2440",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2015-10-01",
+   "org_kind": "医療法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "days": [
+    "平日"
+   ],
+   "capacity": 80,
+   "lat": "35.674310799999990",
+   "lng": "139.668022800000020"
   },
   {
    "name": "スマイリーステーション",
@@ -124,7 +219,11 @@
    "hours": "",
    "closed": "",
    "designated": "2016-10-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ]
   },
   {
    "name": "コパン訪問看護ステーション",
@@ -137,6 +236,10 @@
    "closed": "",
    "designated": "2017-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "http://www.copan.given.co.jp",
    "days": [
     "平日",
@@ -146,6 +249,22 @@
    ],
    "lat": "35.653747418783990",
    "lng": "139.711558298811380"
+  },
+  {
+   "name": "メディキッズ訪問看護ステーション",
+   "identifier": "1361390238",
+   "org": "株式会社メディキッズ",
+   "address": "東京都渋谷区神宮前４－２３－１０ラルコバレーノ神宮前２０１",
+   "tel": "03-4405-2078",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2019-04-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ]
   },
   {
    "name": "ソフィアメディ訪問看護ステーション代官山",
@@ -158,6 +277,10 @@
    "closed": "",
    "designated": "2019-07-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "http://www.sophiamedi.co.jp/",
    "days": [
     "平日",
@@ -178,7 +301,34 @@
    "hours": "",
    "closed": "",
    "designated": "2019-09-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ]
+  },
+  {
+   "name": "メディリス訪問看護ステーション",
+   "identifier": "1361390287",
+   "org": "株式会社メディリス",
+   "address": "東京都渋谷区道玄坂１－１７－５オリンピック渋谷ビル４階",
+   "tel": "03-6434-1433",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2020-05-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "https://mediliss.com",
+   "days": [
+    "平日"
+   ],
+   "capacity": 80,
+   "lat": "35.656936812574870",
+   "lng": "139.697386550293170"
   },
   {
    "name": "初台リハケア訪問看護ステーション",
@@ -191,12 +341,40 @@
    "closed": "",
    "designated": "2021-03-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "http://reha-care.co.jp",
    "days": [
     "平日"
    ],
    "lat": "35.684110400000000",
    "lng": "139.685031300000000"
+  },
+  {
+   "name": "インホーム訪問看護ステーション",
+   "identifier": "1361390303",
+   "org": "株式会社インホーム",
+   "address": "東京都渋谷区千駄ヶ谷５－３０－１５",
+   "tel": "03-4400-1245",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2021-07-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "https://inhome.co.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.685861959354156",
+   "lng": "139.704170566988440"
   },
   {
    "name": "ハートリード訪問看護ステーション",
@@ -209,6 +387,10 @@
    "closed": "",
    "designated": "2022-02-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://heart-read.com",
    "days": [
     "平日",
@@ -231,6 +413,10 @@
    "closed": "",
    "designated": "2022-03-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://wyl.co.jp/",
    "days": [
     "平日",
@@ -240,6 +426,22 @@
    ],
    "lat": "35.678693800000000",
    "lng": "139.683157100000000"
+  },
+  {
+   "name": "訪問看護ステーションささえ　初台事業所",
+   "identifier": "1361390345",
+   "org": "株式会社ささえる",
+   "address": "東京都渋谷区初台１－３１－９初台三十一番館２０３号室",
+   "tel": "05055268494",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2023-01-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ]
   },
   {
    "name": "ぜろひゃく東京訪問看護リハビリテーション",
@@ -252,6 +454,10 @@
    "closed": "",
    "designated": "2023-05-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "http://www.zero-hyaku.com",
    "days": [
     "平日",
@@ -272,7 +478,32 @@
    "hours": "",
    "closed": "",
    "designated": "2023-11-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ]
+  },
+  {
+   "name": "指定訪問看護ステーション　おうちケア",
+   "identifier": "1361390378",
+   "org": "プライベート看護ラポールケア合同会社",
+   "address": "東京都渋谷区上原３－３７－２サンホームズ代々木上原２０１号室",
+   "tel": "03-6407-8873",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2024-01-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "days": [
+    "平日"
+   ],
+   "lat": "35.666385300000000",
+   "lng": "139.676761100000000"
   },
   {
    "name": "Ｂｕｉｌｄ訪問看護ステーション",
@@ -285,6 +516,10 @@
    "closed": "",
    "designated": "2024-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://www.build-houkan-st.com/",
    "days": [
     "平日",
@@ -305,6 +540,10 @@
    "closed": "",
    "designated": "2024-10-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "days": [
     "平日",
     "土曜日",
@@ -313,6 +552,29 @@
    ],
    "lat": "35.648356100000000",
    "lng": "139.719654500000000"
+  },
+  {
+   "name": "ハイメディック訪問看護ステーションすばる",
+   "identifier": "1361390410",
+   "org": "株式会社ハイメディック",
+   "address": "東京都渋谷区上原１－１７－１６カスタリア代々木上原Ｂ１０２号室",
+   "tel": "03-5738-3521",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2024-11-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "https://www.trustgarden.jp/nurse/",
+   "days": [
+    "平日",
+    "土曜日"
+   ],
+   "lat": "35.669231800000000",
+   "lng": "139.682933000000000"
   },
   {
    "name": "訪問看護ステーション　プロテア",
@@ -325,6 +587,10 @@
    "closed": "",
    "designated": "2025-05-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "http://protea.support",
    "days": [
     "平日"
@@ -343,6 +609,10 @@
    "closed": "",
    "designated": "2025-06-01",
    "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "https://seraphim.tokyo/",
    "days": [
     "平日",
@@ -352,6 +622,29 @@
    ],
    "lat": "35.680497399999990",
    "lng": "139.684273200000000"
+  },
+  {
+   "name": "シロップ訪問看護ステーション",
+   "identifier": "1361390444",
+   "org": "Ｃｏｇｎｉｆｏｒｔ株式会社",
+   "address": "東京都渋谷区鉢山町５－１２－Ａ棟",
+   "tel": "03-6712-7987",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2026-02-01",
+   "org_kind": "営利法人",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.651847000000000",
+   "lng": "139.699684300000030"
   },
   {
    "name": "おもて参道訪問看護ステーション",
@@ -364,6 +657,10 @@
    "closed": "",
    "designated": "2000-04-01",
    "org_kind": "社団・財団",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
    "url": "http://www.jvnf.or.jp",
    "days": [
     "平日"
@@ -371,6 +668,29 @@
    "capacity": 5,
    "lat": "35.666921300000000",
    "lng": "139.707925100000000"
+  },
+  {
+   "name": "パール訪問看護ステーション",
+   "identifier": "1367196036",
+   "org": "社会福祉法人パール",
+   "address": "東京都渋谷区鉢山町３－２７",
+   "tel": "03-5458-4812",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2001-06-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "訪問看護ステーション",
+   "services": [
+    "訪問看護"
+   ],
+   "url": "http://www.shibuya-pearl.or.jp/",
+   "days": [
+    "平日",
+    "土曜日"
+   ],
+   "lat": "35.652764387462560",
+   "lng": "139.698686926983700"
   }
  ],
  "towns": [
@@ -507,5 +827,5 @@
  "service": "訪問看護",
  "fetched": "2026-09-22",
  "source2": "厚生労働省「介護サービス情報公表システム」オープンデータ",
- "mhlw_hit": 17
+ "mhlw_hit": 26
 }

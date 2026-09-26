@@ -16,6 +16,10 @@
    "closed": "",
    "designated": "2003-06-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.tsukui.net",
    "days": [
     "平日",
@@ -38,6 +42,10 @@
    "closed": "",
    "designated": "2001-08-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.enzeru.co.jp",
    "days": [
     "平日",
@@ -59,6 +67,10 @@
    "closed": "",
    "designated": "2005-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.azeriya-akane.com/",
    "days": [
     "平日",
@@ -68,6 +80,31 @@
    "capacity": 35,
    "lat": "35.700131800000010",
    "lng": "139.729682599999930"
+  },
+  {
+   "name": "細工町高齢者在宅サービスセンター",
+   "identifier": "1370402867",
+   "org": "社会福祉法人新宿区社会福祉事業団",
+   "address": "東京都新宿区細工町１－３",
+   "tel": "03-3269-1331",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2005-04-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.shinjuku-sj.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 35,
+   "lat": "35.698509900000000",
+   "lng": "139.733232400000020"
   },
   {
    "name": "新宿区立百人町高齢者在宅サービスセンター",
@@ -80,6 +117,10 @@
    "closed": "",
    "designated": "2005-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.shinjuku-sj.jp/",
    "days": [
     "平日",
@@ -101,6 +142,10 @@
    "closed": "",
    "designated": "2005-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.shinjuku-sj.jp",
    "days": [
     "平日",
@@ -122,6 +167,10 @@
    "closed": "",
    "designated": "2005-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.shinjuku-sj.jp/",
    "days": [
     "平日",
@@ -131,6 +180,31 @@
    "capacity": 30,
    "lat": "35.717259200000000",
    "lng": "139.690727400000010"
+  },
+  {
+   "name": "若葉高齢者在宅サービスセンター",
+   "identifier": "1370402909",
+   "org": "社会福祉法人新宿区社会福祉事業団",
+   "address": "東京都新宿区若葉３－６",
+   "tel": "03-5269-0531",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2005-04-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.shinjuku-sj.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 5,
+   "lat": "35.682364300000000",
+   "lng": "139.723378400000000"
   },
   {
    "name": "デイサービス　ヨウコー早稲田",
@@ -143,6 +217,10 @@
    "closed": "",
    "designated": "2009-07-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://rehabili-youko.com/",
    "days": [
     "平日",
@@ -164,6 +242,10 @@
    "closed": "",
    "designated": "2011-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.misasakai.or.jp/kagurazaka/",
    "days": [
     "平日",
@@ -183,6 +265,10 @@
    "closed": "",
    "designated": "2014-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "days": [
     "平日",
     "土曜日",
@@ -190,6 +276,31 @@
    ],
    "lat": "35.688821700000000",
    "lng": "139.718920100000000"
+  },
+  {
+   "name": "デイサービスゆりの木　西落合",
+   "identifier": "1370405449",
+   "org": "株式会社ｒｅｌｉａｂｌｅ　ｃａｒｅ",
+   "address": "東京都新宿区西落合４－３－１３キャッスル西落合１Ｆ",
+   "tel": "03-6908-3967",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2014-06-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://dayservice-yurinoki.com/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 24,
+   "lat": "35.727306700000010",
+   "lng": "139.680975700000030"
   },
   {
    "name": "ベストリハ高田馬場",
@@ -202,6 +313,10 @@
    "closed": "",
    "designated": "2015-01-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://bestreha.com/",
    "days": [
     "平日",
@@ -222,6 +337,10 @@
    "closed": "",
    "designated": "2015-09-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.bestreha.com/",
    "days": [
     "平日",
@@ -243,6 +362,10 @@
    "closed": "",
    "designated": "2016-06-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://club.nagoyaka-link.co.jp",
    "days": [
     "平日",
@@ -252,6 +375,31 @@
    "capacity": 25,
    "lat": "35.693962900000000",
    "lng": "139.720978000000060"
+  },
+  {
+   "name": "デイサービスセンターなごやか新宿御苑",
+   "identifier": "1370405969",
+   "org": "なごやかケアリンク株式会社",
+   "address": "東京都新宿区新宿１－２９－５　グランドメゾン新宿東１階",
+   "tel": "03-5363-9825",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2016-06-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.nagoyaka-link.co.jp/club/shinjukugyoen/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 45,
+   "lat": "35.690596300000000",
+   "lng": "139.712787400000020"
   },
   {
    "name": "医療法人社団曙光会コンフォメディケアデイサービス",
@@ -264,6 +412,10 @@
    "closed": "",
    "designated": "2017-05-01",
    "org_kind": "医療法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "days": [
     "平日",
     "土曜日",
@@ -283,6 +435,10 @@
    "closed": "",
    "designated": "2017-09-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.silver-w.jp",
    "days": [
     "平日",
@@ -305,6 +461,10 @@
    "closed": "",
    "designated": "2017-10-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://caregiver.co.jp/facility/ochiai_cares.php",
    "days": [
     "平日",
@@ -317,6 +477,30 @@
    "lng": "139.679705799999960"
   },
   {
+   "name": "レッツ倶楽部新宿西落合",
+   "identifier": "1370406553",
+   "org": "ＱＬＣプロデュース株式会社",
+   "address": "東京都新宿区西落合４－４－１８ステラ西落合　１階",
+   "tel": "03-6908-3282",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2019-10-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://www.lets-club.jp/shop/shinjyukunishiochiai/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.727457100000000",
+   "lng": "139.680349900000000"
+  },
+  {
    "name": "ベストリハ西落合",
    "identifier": "1370406579",
    "org": "ベストリハ株式会社",
@@ -327,6 +511,10 @@
    "closed": "",
    "designated": "2019-10-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://bestreha.com/",
    "days": [
     "平日",
@@ -347,6 +535,10 @@
    "closed": "",
    "designated": "2019-11-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://megu-group.com/",
    "days": [
     "平日",
@@ -366,6 +558,10 @@
    "closed": "",
    "designated": "2022-10-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://rehapride.co.jp/refrain/",
    "days": [
     "平日",
@@ -374,6 +570,29 @@
    "capacity": 130,
    "lat": "35.727487299999990",
    "lng": "139.676841300000000"
+  },
+  {
+   "name": "リタポンテ落合上高田",
+   "identifier": "1370407213",
+   "org": "リタポンテ株式会社",
+   "address": "東京都新宿区上落合２－９－１６インテック落合１階",
+   "tel": "03-6908-5678",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2023-11-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.ritaponte.jp/",
+   "days": [
+    "平日",
+    "祝日"
+   ],
+   "lat": "35.713498600000000",
+   "lng": "139.689203100000000"
   },
   {
    "name": "花実　静華庵",
@@ -386,6 +605,10 @@
    "closed": "",
    "designated": "2024-07-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://www.c-ikkou.com",
    "days": [
     "平日",
@@ -406,6 +629,10 @@
    "closed": "",
    "designated": "2024-07-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://www.c-ikkou.com/",
    "days": [
     "平日",
@@ -414,6 +641,28 @@
    ],
    "lat": "35.699420600000000",
    "lng": "139.727663900000000"
+  },
+  {
+   "name": "わかいデイサービス",
+   "identifier": "1370407361",
+   "org": "和諧株式会社",
+   "address": "東京都新宿区百人町３－１－６Ｂ１－Ｂ号室",
+   "tel": "03-3369-3039",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2024-12-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "days": [
+    "平日",
+    "祝日"
+   ],
+   "lat": "35.706300900000000",
+   "lng": "139.700670400000000"
   }
  ],
  "towns": [
@@ -798,5 +1047,5 @@
  "service": "通所介護",
  "fetched": "2026-09-22",
  "source2": "厚生労働省「介護サービス情報公表システム」オープンデータ",
- "mhlw_hit": 20
+ "mhlw_hit": 27
 }

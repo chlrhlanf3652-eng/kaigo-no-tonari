@@ -17,6 +17,8 @@ import pathlib
 import sys
 
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
+import koreika as KO
+import linkgrid as LG
 from wards import WARDS
 from counts import MADOGUCHI_OVERRIDE
 from kango_tpl import HOUMON_KANGO
@@ -176,6 +178,8 @@ def build(wid, site):
         total=total, townc=len(towns), n=n, dist=dist,
         orgs=orgs, org_note=org_note, ages=ages_rows, age_note=age_note,
         days=day_rows, day_note=day_note)
+    # 区ごとの公的統計（高齢化率・要介護認定者数）を本文の最後に足す
+    content += "\n\n    " + KO.section(wid, ward, "houmon-kango", total)
     (BASE / "content" / f"houmon-kango_tokyo_{wid}.html").write_text(content, encoding="utf-8")
 
     faq = [
@@ -213,17 +217,11 @@ def build(wid, site):
               "介護保険で使う場合は、どちらも区分支給限度基準額の範囲内で組むことになります。"},
     ]
 
-    near = WARDS[wid]["near"][:6]
-    nearby = "\n      ".join('<a href="{{ROOT}}houmon-kango/tokyo/%s/">%s</a>' % (x, ward_name(x))
-                             for x in near)
-    related = "\n      ".join([
-        '<a href="{{ROOT}}houmon-kaigo/tokyo/%s/">%sの訪問介護<small>身体介護・生活援助</small></a>' % (wid, ward),
-        '<a href="{{ROOT}}day-service/tokyo/%s/">%sのデイサービス<small>通所介護</small></a>' % (wid, ward),
-        '<a href="{{ROOT}}short-stay/tokyo/%s/">%sのショートステイ<small>短期入所</small></a>' % (wid, ward),
-        '<a href="{{ROOT}}fukushi-yogu/tokyo/%s/">%sの福祉用具レンタル<small>介護ベッド・車いす</small></a>' % (wid, ward),
-        '<a href="{{ROOT}}takuhai-bento/tokyo/%s/">%sの宅配弁当<small>高齢者向け配食サービス</small></a>' % (wid, ward),
-        '<a href="{{ROOT}}mimamori/tokyo/%s/">%sの見守りサービス<small>ひとり暮らしの安否確認</small></a>' % (wid, ward),
-    ])
+    nearby = LG.area_links("houmon-kango", wid)
+    related = LG.service_links(
+        "houmon-kango", wid,
+        [("takuhai-bento", "の宅配弁当", "高齢者向け配食サービス"),
+         ("mimamori", "の見守りサービス", "ひとり暮らしの安否確認")])
     sidebar = (
         '<div class="side cta-side">\n'
         '        <h4>まず主治医に相談を</h4>\n'
@@ -280,7 +278,7 @@ def build(wid, site):
                            if total > n else f"区内には{total}件が指定を受けており、そのすべてを掲載しています。")
                         + "掲載順は事業所の優劣を示すものではありません。",
         "items": items, "faq": faq, "related": related,
-        "nearby_heading": "近隣エリアの訪問看護", "nearby": nearby,
+        "nearby_heading": "東京23区から訪問看護を探す", "nearby": nearby,
         "sources": [
             rec.get("source", "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）"),
             "厚生労働省「介護サービス情報公表システム」オープンデータ"
@@ -290,6 +288,7 @@ def build(wid, site):
             "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」訪問看護費／"
             "介護報酬の地域区分（1級地・1単位11.40円）",
             f"日本郵便 郵便番号データにもとづく{ward}の町域一覧",
+            *KO.SOURCES,
             "区内事業所数：東京都公表の指定事業所一覧にもとづく実数（2026年9月1日時点）",
         ],
         "sidebar": sidebar,

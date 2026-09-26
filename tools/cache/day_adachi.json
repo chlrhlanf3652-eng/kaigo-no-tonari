@@ -16,6 +16,10 @@
    "closed": "",
    "designated": "2000-03-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.seifuukai.or.jp/",
    "days": [
     "平日",
@@ -25,6 +29,55 @@
    "capacity": 25,
    "lat": "35.785121600000000",
    "lng": "139.800523300000000"
+  },
+  {
+   "name": "高齢者在宅サービスセンター　西新井本町友興の園",
+   "identifier": "1372101459",
+   "org": "社会福祉法人友興会",
+   "address": "東京都足立区西新井本町四丁目１３番１６号",
+   "tel": "03-3890-0705",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2000-03-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://yukokai.or.jp/gracehome/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 35,
+   "lat": "35.773008800000000",
+   "lng": "139.778561800000030"
+  },
+  {
+   "name": "足立区日の出デイ・サービスセンター",
+   "identifier": "1372101491",
+   "org": "社会福祉法人東京蒼生会",
+   "address": "東京都足立区日ノ出町２７－３－１０１",
+   "tel": "03-3870-1121",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2000-03-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.t-souseikai.or.jp/adachi2/nursing_hinode.html",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.751775899999990",
+   "lng": "139.808885599999940"
   },
   {
    "name": "社会福祉法人　愛寿会　西綾瀬在宅サービスセンター",
@@ -37,6 +90,10 @@
    "closed": "",
    "designated": "2000-03-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.aijukai.com/",
    "days": [
     "平日",
@@ -45,6 +102,56 @@
    ],
    "lat": "35.761763500000000",
    "lng": "139.815656399999970"
+  },
+  {
+   "name": "デイサービスセンターはなはた",
+   "identifier": "1372101574",
+   "org": "社会福祉法人聖風会",
+   "address": "東京都足立区花畑四丁目３９番１０号",
+   "tel": "03-3885-4864",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2000-04-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.seifuukai.or.jp",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.806363400000000",
+   "lng": "139.809833000000030"
+  },
+  {
+   "name": "足立ケアコミュニティ　そよ風",
+   "identifier": "1372101582",
+   "org": "株式会社ＳＯＹＯＫＡＺＥ",
+   "address": "東京都足立区梅島２－３１－１４",
+   "tel": "03-5888-9260",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2005-11-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://www.sykz.co.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "capacity": 35,
+   "lat": "35.778289099999990",
+   "lng": "139.801723400000010"
   },
   {
    "name": "デイサービスセンターさくら",
@@ -57,6 +164,10 @@
    "closed": "",
    "designated": "2000-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://www.houeikai.gr.jp",
    "days": [
     "平日",
@@ -65,6 +176,54 @@
    ],
    "lat": "35.790458900000000",
    "lng": "139.768267700000020"
+  },
+  {
+   "name": "高齢者在宅サービスセンター中央本町",
+   "identifier": "1372102309",
+   "org": "社会福祉法人杉の子",
+   "address": "東京都足立区中央本町４－１４－２０",
+   "tel": "03-3886-0002",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2001-04-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://s-suginoko.or.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.776447600000000",
+   "lng": "139.808522900000070"
+  },
+  {
+   "name": "ウエルガーデン　伊興園",
+   "identifier": "1372102366",
+   "org": "社会福祉法人ウエルガーデン",
+   "address": "東京都足立区伊興３－７－４",
+   "tel": "03-5691-9501",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2001-05-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://welgarden.or.jp/facilities/ikoen/common-day-service/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.792117277922660",
+   "lng": "139.783713361901870"
   },
   {
    "name": "デイサービスゆいまーる",
@@ -77,6 +236,10 @@
    "closed": "",
    "designated": "2002-02-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.kaigo-yuimaru.co.jp/",
    "days": [
     "平日",
@@ -86,6 +249,56 @@
    "capacity": 48,
    "lat": "35.746531999999990",
    "lng": "139.799147800000010"
+  },
+  {
+   "name": "医療法人社団　容生会　デイサービス　ゆとり",
+   "identifier": "1372102945",
+   "org": "医療法人社団容生会",
+   "address": "東京都足立区保塚町１５－１９ようせいメディカルコート１Ｆ",
+   "tel": "03-5831-3190",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2002-08-01",
+   "org_kind": "医療法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.yosei.or.jp",
+   "days": [
+    "平日",
+    "土曜日"
+   ],
+   "capacity": 40,
+   "lat": "35.787504210833570",
+   "lng": "139.811406655854400"
+  },
+  {
+   "name": "ツクイ足立西新井",
+   "identifier": "1372103711",
+   "org": "株式会社ツクイ",
+   "address": "東京都足立区西新井４－３８－２７",
+   "tel": "03-5839-3535",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2003-10-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.tsukui.net",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "capacity": 10,
+   "lat": "35.789840242293020",
+   "lng": "139.774993158051760"
   },
   {
    "name": "ケアセンターつどい　谷中",
@@ -98,6 +311,10 @@
    "closed": "",
    "designated": "2004-03-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.mcp-net.jp",
    "days": [
     "平日",
@@ -106,6 +323,55 @@
    ],
    "lat": "35.778542100000000",
    "lng": "139.834845500000030"
+  },
+  {
+   "name": "ふちえデイサービスセンター",
+   "identifier": "1372105096",
+   "org": "株式会社明昭",
+   "address": "東京都足立区保木間４－３１－１",
+   "tel": "03-5851-2300",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2005-09-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 20,
+   "lat": "35.798220000000000",
+   "lng": "139.806425200000030"
+  },
+  {
+   "name": "ツクイ足立入谷",
+   "identifier": "1372105179",
+   "org": "株式会社ツクイ",
+   "address": "東京都足立区入谷５－３－２",
+   "tel": "03-5839-6372",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2005-10-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://www.tsukui.net/home-care/2321/",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "lat": "35.802766100000000",
+   "lng": "139.764928400000000"
   },
   {
    "name": "デイサービスセンターハピネスあだち",
@@ -118,6 +384,10 @@
    "closed": "",
    "designated": "2006-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://family-wf.jp",
    "days": [
     "平日",
@@ -126,6 +396,55 @@
    ],
    "lat": "35.774122100000000",
    "lng": "139.763085400000020"
+  },
+  {
+   "name": "デイサービスあおば　蜜柑の家",
+   "identifier": "1372105773",
+   "org": "有限会社あおば",
+   "address": "東京都足立区辰沼２－４－１７",
+   "tel": "03-5613-8911",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2006-07-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://aoba-day.co.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 24,
+   "lat": "35.787432600000000",
+   "lng": "139.835756400000040"
+  },
+  {
+   "name": "百笑はるかぜ",
+   "identifier": "1372106094",
+   "org": "社会福祉法人はとせふ",
+   "address": "東京都足立区東保木間１－１９－５",
+   "tel": "03-3883-8918",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2007-01-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.haruhato.jp/",
+   "days": [
+    "平日",
+    "祝日"
+   ],
+   "capacity": 30,
+   "lat": "35.788818400000000",
+   "lng": "139.815844100000050"
   },
   {
    "name": "おしどりデイサービスセンター",
@@ -138,6 +457,10 @@
    "closed": "",
    "designated": "2007-06-01",
    "org_kind": "医療法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://fukujukaigr.or.jp",
    "days": [
     "平日",
@@ -145,6 +468,55 @@
    ],
    "lat": "35.785553800000000",
    "lng": "139.762901699999930"
+  },
+  {
+   "name": "千住桜花苑",
+   "identifier": "1372106425",
+   "org": "社会福祉法人聖風会",
+   "address": "東京都足立区千住元町１８－１９",
+   "tel": "03-5244-6884",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2007-06-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.seifuukai.or.jp",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.755422500000000",
+   "lng": "139.793369799999940"
+  },
+  {
+   "name": "株式会社ケアサービス　デイサービスセンターたくみ",
+   "identifier": "1372106466",
+   "org": "株式会社ケアサービス",
+   "address": "東京都足立区南花畑２－６－８",
+   "tel": "03-5851-1580",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2007-07-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.care.co.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 35,
+   "lat": "35.788757300000000",
+   "lng": "139.818929900000060"
   },
   {
    "name": "デイサービスえくぼ",
@@ -157,6 +529,10 @@
    "closed": "",
    "designated": "2007-10-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.ekubo-care.jp",
    "days": [
     "平日",
@@ -166,6 +542,56 @@
    ],
    "lat": "35.794314900000000",
    "lng": "139.807758499999980"
+  },
+  {
+   "name": "株式会社ケアサービス　デイサービスセンター江北",
+   "identifier": "1372106987",
+   "org": "株式会社ケアサービス",
+   "address": "東京都足立区江北３－３８－２３",
+   "tel": "03-5838-2511",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2008-11-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.care.co.jp",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 37,
+   "lat": "35.777743699999990",
+   "lng": "139.761374299999940"
+  },
+  {
+   "name": "ジョイリハ西新井",
+   "identifier": "1372107191",
+   "org": "株式会社ヤマウチ",
+   "address": "東京都足立区江北７－２２－１５",
+   "tel": "03-5838-1851",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2009-06-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.okamoto-group.co.jp/joyreha/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 35,
+   "lat": "35.782520800000000",
+   "lng": "139.761490800000050"
   },
   {
    "name": "フィットネス　デイ　ハンド・イン・ハンド",
@@ -178,6 +604,10 @@
    "closed": "",
    "designated": "2009-09-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.hand-in-hand.co.jp/",
    "days": [
     "平日",
@@ -185,6 +615,56 @@
    ],
    "lat": "35.783474100000000",
    "lng": "139.777389299999980"
+  },
+  {
+   "name": "ニチイケアセンター中川",
+   "identifier": "1372107373",
+   "org": "株式会社ニチイ学館",
+   "address": "東京都足立区中川１－３－１０",
+   "tel": "03-5629-6721",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2009-10-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.nichiigakkan.co.jp",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "lat": "35.767266400000000",
+   "lng": "139.853199799999970"
+  },
+  {
+   "name": "健遊館　大平湯",
+   "identifier": "1372107811",
+   "org": "株式会社健遊館",
+   "address": "東京都足立区青井６－２１－３",
+   "tel": "03-5888-3500",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2010-11-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://taiheiyu.kenyu.co.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 30,
+   "lat": "35.777955800000000",
+   "lng": "139.814105700000030"
   },
   {
    "name": "ハートデイサービスセンター",
@@ -197,6 +677,10 @@
    "closed": "",
    "designated": "2011-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.ayaseheart.or.jp/abrain/",
    "days": [
     "平日",
@@ -205,6 +689,56 @@
    "capacity": 80,
    "lat": "35.784151576985410",
    "lng": "139.838767178851270"
+  },
+  {
+   "name": "デイサービスセンター谷中翔裕園",
+   "identifier": "1372107951",
+   "org": "社会福祉法人長寿村",
+   "address": "東京都足立区谷中１－１７－７",
+   "tel": "03-5613-5503",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2011-04-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.chojumura.or.jp",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 29,
+   "lat": "35.771548500000000",
+   "lng": "139.832104200000000"
+  },
+  {
+   "name": "ベストリハ五反野",
+   "identifier": "1372108272",
+   "org": "ベストリハ株式会社",
+   "address": "東京都足立区足立３－７－１６グリーンパーク第５五反野１階",
+   "tel": "03-3880-1755",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2011-09-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://bestreha.com",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 35,
+   "lat": "35.763668700000000",
+   "lng": "139.809109600000060"
   },
   {
    "name": "ベストリハ西新井",
@@ -217,6 +751,10 @@
    "closed": "",
    "designated": "2012-06-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.bestreha.com",
    "days": [
     "平日",
@@ -226,6 +764,54 @@
    "capacity": 40,
    "lat": "35.774609334891990",
    "lng": "139.789266083114630"
+  },
+  {
+   "name": "デイサービスきたえるーむ竹ノ塚",
+   "identifier": "1372109098",
+   "org": "株式会社ヤマチコーポレーション",
+   "address": "東京都足立区六月２－１－１",
+   "tel": "03-5856-4713",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2013-01-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://kitaeroom.com/",
+   "days": [
+    "平日"
+   ],
+   "capacity": 30,
+   "lat": "35.785354900000000",
+   "lng": "139.797423600000000"
+  },
+  {
+   "name": "ベストリハ北千住",
+   "identifier": "1372109221",
+   "org": "ベストリハ株式会社",
+   "address": "東京都足立区千住旭町９－１３宝マンション１階",
+   "tel": "03-5284-1150",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2013-03-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.bestreha.com/store/03/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 29,
+   "lat": "35.747032100000000",
+   "lng": "139.808766500000050"
   },
   {
    "name": "ベストケア・デイサービスセンター足立六町",
@@ -238,6 +824,10 @@
    "closed": "",
    "designated": "2013-05-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.best-care.jp",
    "days": [
     "平日",
@@ -247,6 +837,56 @@
    "capacity": 43,
    "lat": "35.780782299999990",
    "lng": "139.811146000000040"
+  },
+  {
+   "name": "癒しのデイサービス足立",
+   "identifier": "1372109684",
+   "org": "株式会社リエイケア",
+   "address": "東京都足立区青井５－１１－２７綾瀬グランドハイツ１階",
+   "tel": "03-5888-6548",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2013-08-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.riei.co.jp/communicare/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 45,
+   "lat": "35.777631564336520",
+   "lng": "139.820522506082170"
+  },
+  {
+   "name": "平成デイサービスセンター足立",
+   "identifier": "1372110120",
+   "org": "社会福祉法人道心会",
+   "address": "東京都足立区入谷１－８－１５",
+   "tel": "03-3853-6800",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2014-04-01",
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.adachi.tokuyou.jp",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 22,
+   "lat": "35.803657141533250",
+   "lng": "139.769815817196670"
   },
   {
    "name": "デイサービスセンター　ル・ソラリオン綾瀬",
@@ -259,6 +899,10 @@
    "closed": "",
    "designated": "2015-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://www.med-wel.jp",
    "days": [
     "平日",
@@ -268,6 +912,55 @@
    "capacity": 24,
    "lat": "35.769821100000000",
    "lng": "139.834803999999960"
+  },
+  {
+   "name": "デイサービス絆の家",
+   "identifier": "1372110948",
+   "org": "合同会社愛心倶楽部",
+   "address": "東京都足立区佐野２－３２－１４－１０２号",
+   "tel": "03-5856-2352",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2015-07-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://kizunanoie.hp.peraichi.com/site",
+   "days": [
+    "平日",
+    "祝日"
+   ],
+   "capacity": 19,
+   "lat": "35.788857499999985",
+   "lng": "139.837231299999980"
+  },
+  {
+   "name": "セカンドジムプラス　西新井",
+   "identifier": "1372111243",
+   "org": "株式会社プレジデントガーデン",
+   "address": "東京都足立区西新井４－３１－１４",
+   "tel": "03-5647-5600",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2016-01-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://plus.2-gym.com",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 45,
+   "lat": "35.787637600000000",
+   "lng": "139.779200200000000"
   },
   {
    "name": "株式会社ケアサービス　デイサービスセンター島根",
@@ -280,6 +973,10 @@
    "closed": "",
    "designated": "2018-05-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "days": [
     "平日",
     "土曜日",
@@ -288,6 +985,55 @@
    "capacity": 40,
    "lat": "35.782308100000000",
    "lng": "139.794576700000000"
+  },
+  {
+   "name": "サンライズのデイサービス陽光",
+   "identifier": "1372112514",
+   "org": "サンライズ・メイト・バート株式会社",
+   "address": "東京都足立区西綾瀬２－７－６レミカーサ１階",
+   "tel": "03-6807-2600",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2018-09-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.samaba.jp",
+   "days": [
+    "平日",
+    "土曜日"
+   ],
+   "capacity": 20,
+   "lat": "35.763643800000000",
+   "lng": "139.813856399999960"
+  },
+  {
+   "name": "ベストリハステイ西新井",
+   "identifier": "1372112621",
+   "org": "ベストリハ株式会社",
+   "address": "東京都足立区加賀２－２－２",
+   "tel": "03-5837-4672",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2018-12-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://service.bestreha.com/facility/facility-18588/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 30,
+   "lat": "35.790898776578835",
+   "lng": "139.760953151626300"
   },
   {
    "name": "ａｋａｒｉ舎人",
@@ -300,6 +1046,10 @@
    "closed": "",
    "designated": "2019-02-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://humansupport-welfare.co.jp",
    "days": [
     "平日",
@@ -307,6 +1057,55 @@
    ],
    "lat": "35.809558500000000",
    "lng": "139.768063300000000"
+  },
+  {
+   "name": "デイホームゆりの木竹ノ塚",
+   "identifier": "1372112886",
+   "org": "株式会社日本エルダリーケアサービス",
+   "address": "東京都足立区竹の塚２－２３－５ヴィルヌーブ１階",
+   "tel": "03-3885-7191",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2019-04-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://www.elderly.jp",
+   "days": [
+    "平日",
+    "土曜日",
+    "日曜日",
+    "祝日"
+   ],
+   "lat": "35.790876100000000",
+   "lng": "139.794240900000000"
+  },
+  {
+   "name": "ルネサンス　元氣ジム綾瀬",
+   "identifier": "1372113074",
+   "org": "株式会社ルネサンス",
+   "address": "東京都足立区綾瀬６－５－１２アドラブール綾瀬１階",
+   "tel": "03-5849-6760",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2020-03-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://kaigo.s-re.jp/kg/",
+   "days": [
+    "平日",
+    "祝日"
+   ],
+   "capacity": 27,
+   "lat": "35.768906500000010",
+   "lng": "139.824283599999970"
   },
   {
    "name": "コンパスウォーク保木間",
@@ -319,6 +1118,10 @@
    "closed": "",
    "designated": "2020-05-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://keigo-group.co.jp/shop/tokyoto/10985/",
    "days": [
     "平日",
@@ -327,6 +1130,53 @@
    "capacity": 35,
    "lat": "35.791463100000000",
    "lng": "139.802855400000000"
+  },
+  {
+   "name": "シンシア足立",
+   "identifier": "1372113215",
+   "org": "株式会社グローバル総合研究所",
+   "address": "東京都足立区扇２－４２－８",
+   "tel": "03-5647-0968",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2020-06-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://www.sincere-gri.com/044_adachids/index.html",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.768310015726065",
+   "lng": "139.769194336770620"
+  },
+  {
+   "name": "コンパスウォーク北綾瀬",
+   "identifier": "1372113355",
+   "org": "株式会社フォー・ツリーズ",
+   "address": "東京都足立区神明南２－１２－１３",
+   "tel": "03-6320-8981",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2021-01-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://kinoukaifuku.com/?p=4107",
+   "days": [
+    "平日",
+    "祝日"
+   ],
+   "lat": "35.789137700000000",
+   "lng": "139.832154500000000"
   },
   {
    "name": "ジョイリハプラス大師前",
@@ -339,6 +1189,10 @@
    "closed": "",
    "designated": "2021-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://joyreha.co.jp/shop/%e3%82%b8%e3%83%a7%e3%82%a4%e3%83%aa%e3%83%8f%e3%83%97%e3%83%a9%e3%82%b9%e5%a4%a7%e5%b8%ab%e5%89%8d/",
    "days": [
     "平日",
@@ -347,6 +1201,52 @@
    "capacity": 30,
    "lat": "35.778315500000000",
    "lng": "139.783201800000000"
+  },
+  {
+   "name": "クレア足立デイサービスセンター",
+   "identifier": "1372113587",
+   "org": "株式会社元気な介護",
+   "address": "東京都足立区入谷２－１９－１０",
+   "tel": "03-5647-8050",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2021-07-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.809125300000000",
+   "lng": "139.763371100000000"
+  },
+  {
+   "name": "デイサービス　さぽると",
+   "identifier": "1372113785",
+   "org": "株式会社ＡＣＱＵＡ＆ＳＵＰＰＯＲＴＯ",
+   "address": "東京都足立区栗原１－１４－１９宮内サンハイツＡ棟１階",
+   "tel": "03-5831-5485",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2022-06-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://a-supporto.com/",
+   "days": [
+    "平日",
+    "祝日"
+   ],
+   "lat": "35.781270600000000",
+   "lng": "139.789039800000000"
   },
   {
    "name": "リハプライド　足立区入谷",
@@ -359,12 +1259,65 @@
    "closed": "",
    "designated": "2023-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "days": [
     "平日",
     "祝日"
    ],
    "lat": "35.809404400000010",
    "lng": "139.763344900000000"
+  },
+  {
+   "name": "ヒューマンライフケア西新井",
+   "identifier": "1372114213",
+   "org": "ヒューマンライフケア株式会社",
+   "address": "東京都足立区栗原１－２５－８ジュナラル１階",
+   "tel": "03-6853-5651",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2023-09-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://kaigo.human-lifecare.jp/facilities/ds014_NishiArai/summary.html",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 23,
+   "lat": "35.781330736652530",
+   "lng": "139.791242617196620"
+  },
+  {
+   "name": "こまどりデイサービスセンター関原",
+   "identifier": "1372114387",
+   "org": "医療法人社団福寿会",
+   "address": "東京都足立区関原３－１－１１－３階",
+   "tel": "03-5888-5900",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2024-03-01",
+   "org_kind": "医療法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://www.fukujukaigr.or.jp/shisetsu/komadori-dayservice-sekihara/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "lat": "35.769870000000000",
+   "lng": "139.791669900000000"
   },
   {
    "name": "デイサービスセンター　ｏｎｅＨｅａｒｔ",
@@ -377,6 +1330,10 @@
    "closed": "",
    "designated": "2025-06-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://nextone-hanahata.com/",
    "days": [
     "平日",
@@ -385,6 +1342,45 @@
    ],
    "lat": "35.801976800000000",
    "lng": "139.813317500000000"
+  },
+  {
+   "name": "デイサービスセンター福寿あだち保木間",
+   "identifier": "1372114981",
+   "org": "株式会社日本アメニティライフ協会",
+   "address": "東京都足立区保木間５－１６－１２",
+   "tel": "03-5851-2274",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2025-12-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ]
+  },
+  {
+   "name": "まゆら北綾瀬店",
+   "identifier": "1372115079",
+   "org": "ＡＬ１株式会社",
+   "address": "東京都足立区北加平町９－２５ユヌ・リュミエール１階",
+   "tel": "03-5809-4561",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2026-03-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "https://mayura-al1.com/",
+   "days": [
+    "平日",
+    "祝日"
+   ],
+   "lat": "35.785482600000000",
+   "lng": "139.830983400000000"
   },
   {
    "name": "ヒーローいきいき",
@@ -396,7 +1392,52 @@
    "hours": "",
    "closed": "",
    "designated": "2026-04-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ]
+  },
+  {
+   "name": "デイサービスセンターエクラシア足立保木間",
+   "identifier": "1372115236",
+   "org": "株式会社エクラシア",
+   "address": "東京都足立区保木間５－２４－４０",
+   "tel": "05068619190",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2026-06-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ]
+  },
+  {
+   "name": "デイサービスセンター　バンビ　足立店",
+   "identifier": "1372205276",
+   "org": "株式会社ワールドケアサービス",
+   "address": "東京都足立区神明南１－３－１５",
+   "tel": "03-5856-2930",
+   "fax": "",
+   "hours": "",
+   "closed": "",
+   "designated": "2011-11-01",
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
+   "url": "http://wcs-bambi.jp/",
+   "days": [
+    "平日",
+    "土曜日",
+    "祝日"
+   ],
+   "capacity": 25,
+   "lat": "35.787959909710350",
+   "lng": "139.829095185952700"
   }
  ],
  "towns": [
@@ -753,5 +1794,5 @@
  "service": "通所介護",
  "fetched": "2026-09-22",
  "source2": "厚生労働省「介護サービス情報公表システム」オープンデータ",
- "mhlw_hit": 19
+ "mhlw_hit": 57
 }

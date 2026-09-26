@@ -16,6 +16,10 @@
    "closed": "",
    "designated": "2006-12-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://rehabili-youko.com/",
    "days": [
     "平日",
@@ -38,6 +42,10 @@
    "closed": "",
    "designated": "2007-12-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.frontier-sw.or.jp",
    "days": [
     "平日",
@@ -59,6 +67,10 @@
    "closed": "",
    "designated": "2013-11-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.bestreha.com/",
    "days": [
     "平日",
@@ -80,6 +92,10 @@
    "closed": "",
    "designated": "2014-01-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://www.yumeraku.net/hakusan/gaiyo.html",
    "days": [
     "平日",
@@ -100,6 +116,10 @@
    "closed": "",
    "designated": "2016-06-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://club.nagoyaka-link.co.jp",
    "days": [
     "平日",
@@ -121,6 +141,10 @@
    "closed": "",
    "designated": "2017-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://kaigo.rakuwa.or.jp/service/station/otsuka/",
    "days": [
     "平日",
@@ -142,6 +166,10 @@
    "closed": "",
    "designated": "2017-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://bunkyo-showa.jp/",
    "days": [
     "平日",
@@ -162,6 +190,10 @@
    "closed": "",
    "designated": "2017-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://bunkyo-yushima.jp/",
    "days": [
     "平日",
@@ -182,6 +214,10 @@
    "closed": "",
    "designated": "2018-04-01",
    "org_kind": "社団・財団",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "http://kohinata.moon.bindcloud.jp",
    "days": [
     "平日",
@@ -202,6 +238,10 @@
    "closed": "",
    "designated": "2018-07-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "days": [
     "平日",
     "土曜日",
@@ -221,7 +261,11 @@
    "hours": "",
    "closed": "",
    "designated": "2020-06-01",
-   "org_kind": "営利法人"
+   "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ]
   },
   {
    "name": "ＭＥＤＩＣＡＬ　ＰＲＯ　ＳＰＯＲＴＳ　介護デイサービス　護国寺",
@@ -234,6 +278,10 @@
    "closed": "",
    "designated": "2021-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://medipro.site/shop_gokokugi.php",
    "days": [
     "平日",
@@ -253,6 +301,10 @@
    "closed": "",
    "designated": "2024-10-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "days": [
     "平日",
     "土曜日"
@@ -271,6 +323,10 @@
    "closed": "",
    "designated": "2025-04-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://wonder-wing.com/",
    "days": [
     "平日"
@@ -290,6 +346,10 @@
    "closed": "",
    "designated": "2025-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://bunkyo-mukogaoka.jp/",
    "days": [
     "平日",
@@ -310,6 +370,10 @@
    "closed": "",
    "designated": "2025-04-01",
    "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://fuyo.or.jp/information/",
    "days": [
     "平日",
@@ -330,6 +394,10 @@
    "closed": "",
    "designated": "2025-06-01",
    "org_kind": "営利法人",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ],
    "url": "https://kaigo.s-re.jp/kg/genki/",
    "days": [
     "平日",
@@ -348,7 +416,11 @@
    "hours": "",
    "closed": "",
    "designated": "2026-04-01",
-   "org_kind": "社会福祉法人（社協以外）"
+   "org_kind": "社会福祉法人（社協以外）",
+   "facility_kind": "",
+   "services": [
+    "通所介護"
+   ]
   }
  ],
  "towns": [

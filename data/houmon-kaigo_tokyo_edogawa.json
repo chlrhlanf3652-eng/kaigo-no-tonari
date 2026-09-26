@@ -12,119 +12,187 @@
     "city_name": "江戸川区"
   },
   "seo": {
-    "title": "江戸川区の訪問介護20事業所｜料金と選び方【2026年9月更新】",
-    "description": "東京都江戸川区の訪問介護（ホームヘルプ）事業所20件を連絡先つきで掲載。区内154件の中から選ぶための料金の目安、頼めること・頼めないこと、熟年相談室への相談から利用開始までの流れを解説します。",
+    "title": "江戸川区の訪問介護60事業所｜料金と選び方【2026年9月更新】",
+    "description": "東京都江戸川区の訪問介護（ホームヘルプ）事業所60件を連絡先つきで掲載。区内154件の中から選ぶための料金の目安、頼めること・頼めないこと、熟年相談室への相談から利用開始までの流れを解説します。",
     "canonical": "https://kaigonotonari.com/houmon-kaigo/tokyo/edogawa/",
     "og_title": "江戸川区の訪問介護事業所一覧｜料金の目安と選び方",
-    "og_description": "江戸川区の訪問介護事業所20件を掲載。料金の目安、できること・できないこと、利用開始までの流れを解説します。",
+    "og_description": "江戸川区の訪問介護事業所60件を掲載。料金の目安、できること・できないこと、利用開始までの流れを解説します。",
     "og_image": "https://kaigonotonari.com/assets/ogp-houmon-kaigo.jpg"
   },
   "h1": "江戸川区の訪問介護事業所一覧｜料金の目安と選び方",
   "published": "2026-09-21",
   "modified": "2026-09-21",
-  "count_label": "掲載：20事業所",
-  "lead": "東京都江戸川区で訪問介護（ホームヘルプ）を探している方へ。区内にある154件の事業所から20件を連絡先つきで掲載し、あわせて自己負担額の目安、ヘルパーに頼めること・頼めないこと、相談から利用開始までの流れをまとめました。はじめて介護保険を使う方は、まず「熟年相談室」への相談から始めるのが近道です。",
-  "listing_note": "江戸川区内の訪問介護事業所から20件を掲載しています（2026年9月時点）。区内の全件から事業所番号の順に等間隔で抽出しています。区内には154件の事業所があり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
+  "count_label": "掲載：60事業所",
+  "lead": "東京都江戸川区で訪問介護（ホームヘルプ）を探している方へ。区内にある154件の事業所から60件を連絡先つきで掲載し、あわせて自己負担額の目安、ヘルパーに頼めること・頼めないこと、相談から利用開始までの流れをまとめました。はじめて介護保険を使う方は、まず「熟年相談室」への相談から始めるのが近道です。",
+  "listing_note": "江戸川区内の訪問介護事業所から60件を掲載しています（2026年9月時点）。区内の全件から事業所番号の順に等間隔で抽出しています。区内には154件の事業所があり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
-      "name": "アステラーザ訪問介護",
-      "telephone": "03-6657-5519",
+      "name": "ふれあいプラザ　ラビット",
+      "telephone": "03-5675-3677",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "江戸川区",
-        "streetAddress": "平井2-11-1 アムールМ301"
+        "streetAddress": "西葛西３－２２－１５"
       },
-      "parentOrganization": "（同）アスノテ",
-      "identifier": "1372309714",
-      "faxNumber": "03-6657-5520",
-      "_hours": "9:00〜18:00",
-      "_closed": "日・夏季・年末年始",
-      "_town": "平井",
-      "url": "https://astellaz.jp/",
+      "parentOrganization": "有限会社ラビット",
+      "identifier": "1370200436",
+      "_town": "西葛西",
+      "url": "http://www.rabbit-jp.net",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "西葛西エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ロマン交通　らくだサービス",
+      "telephone": "03-6861-4653",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "東瑞江２－１２－２０"
+      },
+      "parentOrganization": "企業組合ロマン交通",
+      "identifier": "1370402081",
+      "_town": "東瑞江",
+      "url": "https://www.rakuda2001.com/",
       "_days": [
         "平日"
+      ],
+      "_tags": [
+        "東瑞江エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "クローバー訪問介護えどがわ",
+      "telephone": "03-3611-5259",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "平井６－４７－１３セルス有阪５階"
+      },
+      "parentOrganization": "株式会社日本アメニティライフ協会",
+      "identifier": "1372209393",
+      "_town": "平井",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
       ],
       "_tags": [
         "平井エリア",
+        "日曜日も対応",
         "訪問介護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "かたくり小岩",
-      "telephone": "03-5889-5180",
+      "name": "有限会社　しんみケアーセンター",
+      "telephone": "03-3878-0345",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "江戸川区",
-        "streetAddress": "西小岩5-11-15 吉永ビル"
+        "streetAddress": "西葛西６－１５－２０アイビーハイツ４０６"
       },
-      "parentOrganization": "ＡＬＳＯＫ介護（株）",
-      "identifier": "1372306454",
-      "faxNumber": "03-5889-5181",
-      "_hours": "8:30〜17:30",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "西小岩",
+      "parentOrganization": "有限会社しんみケアーセンター",
+      "identifier": "1372300234",
+      "_town": "西葛西",
+      "url": "https://shinmicsnishikasai.wixsite.com/shinmics2",
       "_days": [
         "平日",
         "土曜日",
         "日曜日",
         "祝日"
+      ],
+      "_tags": [
+        "西葛西エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "フォービスライフ西葛西",
+      "telephone": "03-3869-1260",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "西葛西６－２６－６クレスティ関口１Ｆ"
+      },
+      "parentOrganization": "フォービスライフ株式会社",
+      "identifier": "1372300796",
+      "_town": "西葛西",
+      "url": "https://cs-forvice.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "西葛西エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "有限会社　さわやかケアサービスセンター",
+      "telephone": "03-3673-8080",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "西小岩１－１９－２４"
+      },
+      "parentOrganization": "有限会社さわやかケアサービスセンター",
+      "identifier": "1372301091",
+      "_town": "西小岩",
+      "_days": [
+        "平日"
       ],
       "_tags": [
         "西小岩エリア",
-        "日曜日も対応",
         "訪問介護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "トラスト葛西",
-      "telephone": "03-6808-6468",
+      "name": "なぎさ和楽苑訪問介護",
+      "telephone": "03-3675-1818",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "江戸川区",
-        "streetAddress": "北葛西5-30-9-203"
+        "streetAddress": "西葛西８－１－１"
       },
-      "parentOrganization": "（株）トラスト",
-      "identifier": "1372308849",
-      "faxNumber": "03-6808-6478",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "北葛西",
-      "url": "https://www.trust2016.co.jp",
-      "_days": [
-        "平日"
-      ],
-      "_tags": [
-        "北葛西エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "Ｒａｋｕｅ江戸川",
-      "telephone": "03-6808-9491",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "江戸川区",
-        "streetAddress": "松江5-24-6 ＴＲ船堀103"
-      },
-      "parentOrganization": "ソラノニジ（株）",
-      "identifier": "1372308286",
-      "faxNumber": "03-6808-9492",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・夏季・年末年始",
-      "_town": "松江",
-      "url": "http://www.rakue.jp/",
+      "parentOrganization": "社会福祉法人東京栄和会",
+      "identifier": "1372301604",
+      "_town": "西葛西",
+      "url": "http://www.tokyoeiwakai.or.jp",
       "_days": [
         "平日",
         "土曜日",
@@ -132,85 +200,52 @@
         "祝日"
       ],
       "_tags": [
-        "松江エリア",
+        "西葛西エリア",
         "日曜日も対応",
         "訪問介護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "パルケアサービス",
-      "telephone": "03-5879-3240",
+      "name": "いきいきサポート",
+      "telephone": "03-3677-8180",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "江戸川区",
-        "streetAddress": "松江1-2-9 上田店舗2階"
+        "streetAddress": "鹿骨４－９－６"
       },
-      "parentOrganization": "パルケアサービス（株）",
-      "identifier": "1372306637",
-      "faxNumber": "03-5879-3224",
-      "_hours": "9:00〜18:00",
-      "_closed": "日",
-      "_town": "松江",
-      "url": "https://www.palcare-service.co.jp",
+      "parentOrganization": "ワーカーズいきいきサポート労働者協同組合",
+      "identifier": "1372301810",
+      "_town": "鹿骨",
+      "url": "http://www.ikiikisupport.org/",
       "_days": [
         "平日",
         "土曜日",
-        "日曜日",
         "祝日"
       ],
       "_tags": [
-        "松江エリア",
-        "日曜日も対応",
+        "鹿骨エリア",
+        "土曜日も対応",
         "訪問介護"
       ]
     },
     {
       "@type": "LocalBusiness",
-      "name": "グッドケア江戸川",
-      "telephone": "03-3657-2571",
+      "name": "永仁介護サービス　瑞江支社",
+      "telephone": "03-3698-4441",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "江戸川区",
-        "streetAddress": "東小岩5-5-9 パルロイヤル小岩101"
+        "streetAddress": "春江町３－５１－４"
       },
-      "parentOrganization": "（有）グッドケア",
-      "identifier": "1372302404",
-      "faxNumber": "03-3657-2572",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "東小岩",
-      "url": "http://park16.wakwak.com/~goodkea/",
-      "_days": [
-        "平日"
-      ],
-      "_tags": [
-        "東小岩エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "江東園ホームヘルパーステーションつばき",
-      "telephone": "03-5636-6211",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "江戸川区",
-        "streetAddress": "春江町2-5-15"
-      },
-      "parentOrganization": "（社福）江東園",
-      "identifier": "1372304111",
-      "faxNumber": "03-5636-6215",
-      "_hours": "8:30〜17:30",
-      "_closed": "日・祝・年末年始",
+      "parentOrganization": "株式会社永仁サービス",
+      "identifier": "1372302131",
       "_town": "春江町",
-      "url": "http://www.kotoen.or.jp/",
+      "url": "http://www.eijin-service.co.jp",
       "_days": [
         "平日",
         "土曜日",
@@ -225,327 +260,6 @@
     },
     {
       "@type": "LocalBusiness",
-      "name": "ラック平井",
-      "telephone": "03-3682-4441",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "江戸川区",
-        "streetAddress": "平井3-13-10"
-      },
-      "parentOrganization": "（株）ラックコーポレーション",
-      "identifier": "1372304707",
-      "faxNumber": "03-3682-4443",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・年末年始",
-      "_town": "平井",
-      "url": "http://www.lac-corp.jp/",
-      "_days": [
-        "平日",
-        "土曜日",
-        "日曜日",
-        "祝日"
-      ],
-      "_tags": [
-        "平井エリア",
-        "日曜日も対応",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "鶴亀笑福点",
-      "telephone": "03-6458-9405",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "江戸川区",
-        "streetAddress": "北小岩6-42-4"
-      },
-      "parentOrganization": "（株）達富",
-      "identifier": "1372309912",
-      "faxNumber": "03-6458-9403",
-      "_hours": "9:00〜17:00",
-      "_closed": "日・祝・年末年始",
-      "_town": "北小岩",
-      "url": "https://www.tatsuto.jp/",
-      "_days": [
-        "平日",
-        "土曜日",
-        "日曜日",
-        "祝日"
-      ],
-      "_tags": [
-        "北小岩エリア",
-        "日曜日も対応",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "オーケア",
-      "telephone": "03-5878-0834",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "江戸川区",
-        "streetAddress": "東葛西2-26-14 プラザ田町101"
-      },
-      "parentOrganization": "（株）オーケア",
-      "identifier": "1372308914",
-      "faxNumber": "03-5878-0835",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "東葛西",
-      "url": "http://www.o-care-kaigo.jp/index.html",
-      "_days": [
-        "平日"
-      ],
-      "_tags": [
-        "東葛西エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "さんちゃん",
-      "telephone": "03-6824-7630",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "江戸川区",
-        "streetAddress": "北小岩1-3-14 ベル．エポック町田501"
-      },
-      "parentOrganization": "（同）さんちゃん",
-      "identifier": "1371707603",
-      "faxNumber": "03-6824-7631",
-      "_hours": "9:00〜18:00",
-      "_closed": "年中無休",
-      "_town": "北小岩",
-      "url": "http://sanchan2022.com",
-      "_days": [
-        "平日",
-        "土曜日",
-        "日曜日",
-        "祝日"
-      ],
-      "_tags": [
-        "北小岩エリア",
-        "日曜日も対応",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ここはなケア瑞江",
-      "telephone": "03-6638-9155",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "江戸川区",
-        "streetAddress": "東瑞江1-27-5 メゾンド・コスモ602"
-      },
-      "parentOrganization": "（同）ｈａｎａｌｅａ",
-      "identifier": "1372309250",
-      "faxNumber": "03-6638-9156",
-      "_hours": "8:00〜20:00",
-      "_closed": "年末年始",
-      "_town": "東瑞江",
-      "_days": [
-        "平日",
-        "土曜日",
-        "日曜日",
-        "祝日"
-      ],
-      "_tags": [
-        "東瑞江エリア",
-        "日曜日も対応",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ケアテック ＫＯＩＷＡ",
-      "telephone": "03-5622-0407",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "江戸川区",
-        "streetAddress": "南小岩8-15-13"
-      },
-      "parentOrganization": "（株）ケアテック",
-      "identifier": "1372303501",
-      "faxNumber": "03-5694-2527",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・年末年始",
-      "_town": "南小岩",
-      "url": "http://www.caretec.biz/",
-      "_days": [
-        "平日",
-        "土曜日",
-        "日曜日",
-        "祝日"
-      ],
-      "_tags": [
-        "南小岩エリア",
-        "日曜日も対応",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ヘルパーステーション長安",
-      "telephone": "03-5664-2960",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "江戸川区",
-        "streetAddress": "篠崎町4-5-9"
-      },
-      "parentOrganization": "（社福）生光会",
-      "identifier": "1372304137",
-      "faxNumber": "03-5664-2962",
-      "_hours": "9:00〜17:00",
-      "_closed": "年末年始",
-      "_town": "篠崎町",
-      "url": "http://www.tyouanryou.or.jp/",
-      "_days": [
-        "平日",
-        "土曜日",
-        "日曜日",
-        "祝日"
-      ],
-      "_tags": [
-        "篠崎町エリア",
-        "日曜日も対応",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ラック小岩",
-      "telephone": "03-5612-1431",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "江戸川区",
-        "streetAddress": "南小岩6-18-14 所ガーデンマンション101"
-      },
-      "parentOrganization": "（株）ラックコーポレーション",
-      "identifier": "1372304822",
-      "faxNumber": "03-5612-1484",
-      "_hours": "9:00〜18:00",
-      "_closed": "土・日・年末年始",
-      "_town": "南小岩",
-      "url": "http://www.lac-corp.jp/",
-      "_days": [
-        "平日",
-        "土曜日",
-        "日曜日",
-        "祝日"
-      ],
-      "_tags": [
-        "南小岩エリア",
-        "日曜日も対応",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "江戸川あやとり地域福祉事業所",
-      "telephone": "03-5879-4635",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "江戸川区",
-        "streetAddress": "松島4-28-3 アザレハイツ202"
-      },
-      "parentOrganization": "労働者協同組合 ワーカーズコープ・センター事業団",
-      "identifier": "1372310670",
-      "faxNumber": "03-5879-4636",
-      "_hours": "8:00〜19:00",
-      "_closed": "日・年始",
-      "_town": "松島",
-      "url": "https://jwcu-coop-ayatori.jimdosite.com/",
-      "_days": [
-        "平日",
-        "土曜日",
-        "日曜日",
-        "祝日"
-      ],
-      "_tags": [
-        "松島エリア",
-        "日曜日も対応",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "ケアサービス心音",
-      "telephone": "03-5858-9495",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "江戸川区",
-        "streetAddress": "平井3-10-12 平井町ビル2階"
-      },
-      "parentOrganization": "（医社）圭信会",
-      "identifier": "1372310175",
-      "faxNumber": "03-5858-9496",
-      "_hours": "9:00〜18:00",
-      "_closed": "年中無休",
-      "_town": "平井",
-      "url": "https://www.kokone-kaigo.jp/",
-      "_days": [
-        "平日",
-        "土曜日",
-        "日曜日",
-        "祝日"
-      ],
-      "_tags": [
-        "平井エリア",
-        "日曜日も対応",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "name": "訪問介護サービスもも",
-      "telephone": "03-3686-6730",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "JP",
-        "addressRegion": "東京都",
-        "addressLocality": "江戸川区",
-        "streetAddress": "船堀6-11-25 ＢＲＩＣＫ＆ＷＯＯＤ1階"
-      },
-      "parentOrganization": "ＮＰＯ法人 アビリティクラブたすけあい江戸川たすけあいワーカーズもも",
-      "identifier": "1372304566",
-      "faxNumber": "03-5659-3557",
-      "_hours": "9:00〜17:00",
-      "_closed": "土・日・祝・年末年始",
-      "_town": "船堀",
-      "url": "http://actmomo.org/",
-      "_days": [
-        "平日"
-      ],
-      "_tags": [
-        "船堀エリア",
-        "訪問介護"
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
       "name": "あおぞら介護サービス",
       "telephone": "03-5878-3033",
       "address": {
@@ -553,13 +267,10 @@
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "江戸川区",
-        "streetAddress": "船堀6-11-9 ＫＯＤＡヒルズ1階"
+        "streetAddress": "船堀六丁目１１番９号　KODAヒルズ１階"
       },
-      "parentOrganization": "（有）大千",
+      "parentOrganization": "有限会社大千",
       "identifier": "1372302222",
-      "faxNumber": "03-5878-3034",
-      "_hours": "9:00〜18:00、土17:00まで",
-      "_closed": "日・年末年始",
       "_town": "船堀",
       "url": "http://www.daisen-aozora.com",
       "_days": [
@@ -576,22 +287,19 @@
     },
     {
       "@type": "LocalBusiness",
-      "name": "ホームヘルプサービス江戸川陽だまり",
-      "telephone": "03-3656-5892",
+      "name": "泉介護サービス",
+      "telephone": "03-5664-2620",
       "address": {
         "@type": "PostalAddress",
         "addressCountry": "JP",
         "addressRegion": "東京都",
         "addressLocality": "江戸川区",
-        "streetAddress": "松江2-10-18"
+        "streetAddress": "鹿骨四丁目２６番８号"
       },
-      "parentOrganization": "生活協同組合 パルシステム東京",
-      "identifier": "1372302594",
-      "faxNumber": "03-3656-5890",
-      "_hours": "9:00〜17:30",
-      "_closed": "土・日・年末年始",
-      "_town": "松江",
-      "url": "http://www.palsystem-tokyo.coop",
+      "parentOrganization": "有限会社　泉介護サービス",
+      "identifier": "1372302297",
+      "_town": "鹿骨",
+      "url": "http://www.izumi-kaigo.jp/",
       "_days": [
         "平日",
         "土曜日",
@@ -599,8 +307,1255 @@
         "祝日"
       ],
       "_tags": [
-        "松江エリア",
+        "鹿骨エリア",
         "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アースサポート江戸川",
+      "telephone": "03-5696-9211",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "船堀６－４－８"
+      },
+      "parentOrganization": "アースサポート株式会社",
+      "identifier": "1372302438",
+      "_town": "船堀",
+      "url": "https://www.earthsupport.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "船堀エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケア２１　平井",
+      "telephone": "03-5631-5201",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "平井５－２１－３ガーデン欣志２階"
+      },
+      "parentOrganization": "株式会社ケア２１",
+      "identifier": "1372302503",
+      "_town": "平井",
+      "url": "http://www.care21.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "平井エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "虹の丘ケアセンター",
+      "telephone": "03-3686-0897",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "西葛西四丁目2番地４７－９０２号"
+      },
+      "parentOrganization": "有限会社虹の丘ケアセンター",
+      "identifier": "1372302685",
+      "_town": "西葛西",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "西葛西エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ライフアンドケア株式会社　いきいき介護サービス",
+      "telephone": "03-5679-6321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "中葛西７－１７－１９リラ・ポルト１階"
+      },
+      "parentOrganization": "ライフアンドケア株式会社",
+      "identifier": "1372302933",
+      "_town": "中葛西",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "中葛西エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "日本リック訪問介護江戸川事業所",
+      "telephone": "03-5607-7246",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "松島４－３２－６"
+      },
+      "parentOrganization": "日本リック株式会社",
+      "identifier": "1372303287",
+      "_town": "松島",
+      "url": "http://www.rickcare.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "松島エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "グッドフェース江戸川",
+      "telephone": "03-5675-2077",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "船堀５－１１－１サンライトパレス船堀１０１"
+      },
+      "parentOrganization": "有限会社グッドフェース",
+      "identifier": "1372303758",
+      "_town": "船堀",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "船堀エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "特定非営利活動法人　はなみずき",
+      "telephone": "03-5679-0966",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "船堀３－４－８－１０１ル・タン・テール船堀"
+      },
+      "parentOrganization": "特定非営利活動法人はなみずき",
+      "identifier": "1372303949",
+      "_town": "船堀",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "船堀エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "江東園ホームヘルパーステーションつばき",
+      "telephone": "03-5636-6211",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "春江町２－５－１５"
+      },
+      "parentOrganization": "社会福祉法人江東園",
+      "identifier": "1372304111",
+      "_town": "春江町",
+      "url": "http://www.kotoen.or.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "春江町エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ファミリーケア船堀",
+      "telephone": "03-6231-4615",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "東小松川４－４５－１船堀ハイツ１階"
+      },
+      "parentOrganization": "社会福祉法人すこやか福祉会",
+      "identifier": "1372304301",
+      "_town": "東小松川",
+      "url": "http://www.sukoyaka.fu.or.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "東小松川エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ラック平井",
+      "telephone": "03-3682-4441",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "平井３－１３－１０"
+      },
+      "parentOrganization": "株式会社ラックコーポレーション",
+      "identifier": "1372304707",
+      "_town": "平井",
+      "url": "http://www.lac-corp.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "平井エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアステーションきらら船堀",
+      "telephone": "03-5667-3788",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "船堀３－１４－１０－４０３"
+      },
+      "parentOrganization": "スターツケアサービス株式会社",
+      "identifier": "1372305068",
+      "_town": "船堀",
+      "url": "http://www.starts.co.jp/s-careservice/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "船堀エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "トップ介護サービス",
+      "telephone": "03-6458-0235",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "西小岩４－９－３キャッスルアズマ１０５"
+      },
+      "parentOrganization": "株式会社ツートップ",
+      "identifier": "1372305373",
+      "_town": "西小岩",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "西小岩エリア",
+        "土曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケア２１　江戸川",
+      "telephone": "03-5889-8321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "西小岩４－１－２０千成ビル１階店舗"
+      },
+      "parentOrganization": "株式会社ケア２１",
+      "identifier": "1372306157",
+      "_town": "西小岩",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "西小岩エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＡＬＳＯＫケアステーション小岩",
+      "telephone": "03-5889-5180",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "西小岩５－１１－１５吉永ビル１階"
+      },
+      "parentOrganization": "ＡＬＳＯＫ介護株式会社",
+      "identifier": "1372306454",
+      "_town": "西小岩",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "西小岩エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヒノデ第一交通株式会社",
+      "telephone": "03-3655-4611",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "中央３－１６－３"
+      },
+      "parentOrganization": "ヒノデ第一交通株式会社",
+      "identifier": "1372306876",
+      "_town": "中央",
+      "url": "http://www.daiichi-koutsu.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "中央エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ホームヘルプサービス　ソラスト小岩",
+      "telephone": "03-5612-0086",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "北小岩６－７－７伊藤ビル１０１"
+      },
+      "parentOrganization": "株式会社ソラスト",
+      "identifier": "1372307130",
+      "_town": "北小岩",
+      "url": "https://solasto-kaigo.com/service/homecare/koiwa",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "北小岩エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "エルケア小岩ケアセンター",
+      "telephone": "03-6657-8672",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "東小岩６－１０－２風間ビル１０１号室"
+      },
+      "parentOrganization": "エルケア株式会社",
+      "identifier": "1372307403",
+      "_town": "東小岩",
+      "url": "http://www.l-care.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "東小岩エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ベストケア",
+      "telephone": "03-6231-5345",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "西一之江３－２－２０－３０２"
+      },
+      "parentOrganization": "合同会社ベストケア",
+      "identifier": "1372307551",
+      "_town": "西一之江",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "西一之江エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "みつばちケア",
+      "telephone": "03-6808-2458",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "中葛西１－４２－１新見ハイツⅡ－１０２"
+      },
+      "parentOrganization": "株式会社スクエア",
+      "identifier": "1372307908",
+      "_town": "中葛西",
+      "url": "http://www.square-izm.com/",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "中葛西エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "わだつみヘルパーステーション",
+      "telephone": "03-5243-9208",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "瑞江２－２２－５グリーンハウス下鎌田　１階－Ｄ室"
+      },
+      "parentOrganization": "株式会社スクーデリア",
+      "identifier": "1372308278",
+      "_town": "瑞江",
+      "url": "http://wadatsumi-s.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "瑞江エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアリッツ葛西",
+      "telephone": "03-6808-3851",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "西葛西５－７－８第２ドミール森田１階"
+      },
+      "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
+      "identifier": "1372308328",
+      "_town": "西葛西",
+      "url": "https://www.careritz.co.jp/station/branch/kasai/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "西葛西エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "東京海上日動みずたま介護ＳＴ一之江",
+      "telephone": "03-5678-8622",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "西一之江３－１２－３０シンコーポレーションビル２階"
+      },
+      "parentOrganization": "東京海上日動ベターライフサービス株式会社",
+      "identifier": "1372308773",
+      "_town": "西一之江",
+      "url": "http://www.tnbls.co.jp/mizutama/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "西一之江エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "Ｒａｋｕｅ葛西",
+      "telephone": "03-4283-2745",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "西葛西３－１４－３遠藤ビル２Ｆ"
+      },
+      "parentOrganization": "株式会社ＫＴＭ",
+      "identifier": "1372308831",
+      "_town": "西葛西",
+      "url": "https://www.rakue.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "西葛西エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "コクアプランニング",
+      "telephone": "03-6456-0893",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "東葛西５－１２－１５ビジネスゲート葛西５Ｆ－Ａ号室"
+      },
+      "parentOrganization": "株式会社コクアプランニング",
+      "identifier": "1372308955",
+      "_town": "東葛西",
+      "url": "https://kokuaplanning.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "東葛西エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ホームヘルプサービス　ソラスト西葛西",
+      "telephone": "03-6661-4333",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "西葛西６－９－１８トリヴァンベール１０１"
+      },
+      "parentOrganization": "株式会社ソラスト",
+      "identifier": "1372308971",
+      "_town": "西葛西",
+      "url": "https://www.solasto.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "西葛西エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアリッツ瑞江",
+      "telephone": "03-5879-8630",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "東瑞江１－２２－１１ロイヤルエステート２０７"
+      },
+      "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
+      "identifier": "1372309326",
+      "_town": "東瑞江",
+      "url": "https://www.careritz.co.jp/station/branch/mizue/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "東瑞江エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "たけのこ介護サービス　平井",
+      "telephone": "03-6657-4827",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "平井５－１０－７サンセイハイツ１－Ｂ"
+      },
+      "parentOrganization": "株式会社ライコム・コーポレーション",
+      "identifier": "1372309409",
+      "_town": "平井",
+      "url": "http://raycom.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "平井エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケア２１　一之江",
+      "telephone": "03-5607-7050",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "一之江５－１６－１３一之江５丁目事務所１階"
+      },
+      "parentOrganization": "株式会社ケア２１",
+      "identifier": "1372309706",
+      "_town": "一之江",
+      "url": "http://www.care21.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "一之江エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "おおきなき江戸川",
+      "telephone": "03-5676-5070",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "船堀１－６－３カーサマジカル船堀３０２号室"
+      },
+      "parentOrganization": "株式会社日本エルダリーケアサービス",
+      "identifier": "1372309847",
+      "_town": "船堀",
+      "url": "http://www.elderly.jp/map_list.php?id=5",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "船堀エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "虹の会介護ステーション",
+      "telephone": "05038022817",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "南葛西７－２－３"
+      },
+      "parentOrganization": "社会福祉法人共慈会",
+      "identifier": "1372309946",
+      "_town": "南葛西",
+      "url": "https://www.kyojikai.org",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南葛西エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "Ｒａｋｕｅ瑞江",
+      "telephone": "03-5664-6332",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "東瑞江２－１０－１０レグルス瑞江Ｃ店舗"
+      },
+      "parentOrganization": "ソラノニジ株式会社",
+      "identifier": "1372309995",
+      "_town": "東瑞江",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "東瑞江エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ともいきケア一之江",
+      "telephone": "03-5662-4479",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "一之江７－６６－１イーストイン１階"
+      },
+      "parentOrganization": "株式会社ともいきケア",
+      "identifier": "1372310068",
+      "_town": "一之江",
+      "url": "http://tomoikicare.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "一之江エリア",
+        "土曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアサービス心音",
+      "telephone": "03-5858-9495",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "平井３－１０－１２平井町ビル２階"
+      },
+      "parentOrganization": "医療法人社団圭信会",
+      "identifier": "1372310175",
+      "_town": "平井",
+      "url": "https://www.kokone-kaigo.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "平井エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアリッツ船堀",
+      "telephone": "03-6663-8260",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "船堀１－４－１０第２乙女屋マンション３０４"
+      },
+      "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
+      "identifier": "1372310225",
+      "_town": "船堀",
+      "url": "https://www.careritz.co.jp/station/branch/funabori/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "船堀エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "エールハート小岩",
+      "telephone": "03-6801-7635",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "西小岩４－１３－１７Ｙ’Ｓフラット"
+      },
+      "parentOrganization": "株式会社中央ケアサービス",
+      "identifier": "1372310464",
+      "_town": "西小岩",
+      "url": "http://www.carepage.net",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "西小岩エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアリッツ東葛西",
+      "telephone": "03-5878-1730",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "東葛西５－３７－１１エレガンス１０２"
+      },
+      "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
+      "identifier": "1372310522",
+      "_town": "東葛西",
+      "url": "https://www.careritz.co.jp/station/branch/higashikasai/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "東葛西エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "江戸川あやとり地域福祉事業所",
+      "telephone": "03-5879-4635",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "松島４－２８－３アザレハイツ２０２号室"
+      },
+      "parentOrganization": "労働者協同組合ワーカーズコープ・センター事業団",
+      "identifier": "1372310670",
+      "_town": "松島",
+      "url": "https://jwcu-coop-ayatori.jimdosite.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "松島エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "もっちケアサービス",
+      "telephone": "03-6638-9430",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "瑞江１－３６－１０セイントストークマンション２０６号室"
+      },
+      "parentOrganization": "ＢＩＧ　ＵＰ株式会社",
+      "identifier": "1372310779",
+      "_town": "瑞江",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "瑞江エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アプローズ・ケア小岩店",
+      "telephone": "03-5876-7044",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "西小岩４－３－２茶乃木コーポラス２０１号"
+      },
+      "parentOrganization": "合同会社江戸hana",
+      "identifier": "1372310795",
+      "_town": "西小岩",
+      "_tags": [
+        "西小岩エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "土屋訪問介護事業所　江戸川センター",
+      "telephone": "03-6782-3480",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "東小松川１－１０－３１矢作壮１０１"
+      },
+      "parentOrganization": "株式会社ＮｅｘｔＳｔａｇｅ",
+      "identifier": "1372310852",
+      "_town": "東小松川",
+      "_tags": [
+        "東小松川エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヘルパーステーションえどがわ",
+      "telephone": "03-6808-4773",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "南篠崎町１－２３－６"
+      },
+      "parentOrganization": "株式会社ナーシングホーム",
+      "identifier": "1372311033",
+      "_town": "南篠崎町",
+      "url": "https://nursing-home.co.jp/nh/minamishinozakimachi/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "南篠崎町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアフレンズ",
+      "telephone": "03-6638-7839",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "瑞江２－１７－９グランドハイツ１０１号室"
+      },
+      "parentOrganization": "合同会社ブルーフェザー",
+      "identifier": "1372311082",
+      "_town": "瑞江",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "瑞江エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ふくろう　ヘルパーステーション",
+      "telephone": "03-6824-7552",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "南篠崎町３－６－３シャルム眞木　１階"
+      },
+      "parentOrganization": "株式会社ＴＲＡＮＳ－Ｉ",
+      "identifier": "1372311140",
+      "_town": "南篠崎町",
+      "_tags": [
+        "南篠崎町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアリッツ鹿骨",
+      "telephone": "03-5879-7698",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "鹿骨２－１０－１１中川事務所１階"
+      },
+      "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
+      "identifier": "1372311199",
+      "_town": "鹿骨",
+      "url": "https://www.careritz.co.jp/station/branch/shishibone/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "鹿骨エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "光輝訪問ケア",
+      "telephone": "03-5876-7404",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "西小岩１－３０－１１ハイホーム沖田３０５"
+      },
+      "parentOrganization": "７７株式会社",
+      "identifier": "1372311298",
+      "_town": "西小岩",
+      "_tags": [
+        "西小岩エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問介護事業所　総合介護サービス　平井店",
+      "telephone": "03-5627-1188",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "平井４－５－８ＮＳビル２０１"
+      },
+      "parentOrganization": "総合介護サービス合同会社",
+      "identifier": "1372311413",
+      "_town": "平井",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "平井エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問介護のぞみ葛西臨海公園",
+      "telephone": "03-5878-1720",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "南葛西６－２－２７"
+      },
+      "parentOrganization": "株式会社キート",
+      "identifier": "1372311470",
+      "_town": "南葛西",
+      "url": "https://www.lamore.jp/company",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南葛西エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ユースタイルケア　江戸川　重度訪問介護",
+      "telephone": "05017201334",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "西小岩２－１９－２１岩本ビル５階"
+      },
+      "parentOrganization": "ユースタイルラボラトリー株式会社",
+      "identifier": "1372311579",
+      "_town": "西小岩",
+      "url": "https://eustylelab.co.jp/",
+      "_tags": [
+        "西小岩エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアないあ",
+      "telephone": "03-6638-9733",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "江戸川２－３４－３０"
+      },
+      "parentOrganization": "合同会社ないあ",
+      "identifier": "1372311678",
+      "_town": "江戸川",
+      "_tags": [
+        "江戸川エリア",
         "訪問介護"
       ]
     }
@@ -612,7 +1567,7 @@
     },
     {
       "q": "江戸川区には訪問介護事業所が何件ありますか？",
-      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で江戸川区内に154件の訪問介護事業所が指定を受けています。本ページではそのうち20件を連絡先つきで掲載しています。全件は厚生労働省「介護サービス情報公表システム」で確認できます。"
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で江戸川区内に154件の訪問介護事業所が指定を受けています。本ページではそのうち60件を連絡先つきで掲載しています。全件は厚生労働省「介護サービス情報公表システム」で確認できます。"
     },
     {
       "q": "江戸川区の担当窓口は、どうやって調べればいいですか？",
@@ -620,7 +1575,7 @@
     },
     {
       "q": "江戸川区の掲載事業所は、どこを見て絞り込めばいいですか？",
-      "a": "上の内訳表が目安になります。日曜にもヘルパーに来てほしい場合は15件、土曜まででよければ15件が対象です。そのうえで、ご自宅の町名を伝えて対応エリアに入っているかを確認するのが確実です。曜日はサービスを提供する日で、事務所の電話がつながる時間帯とは別です。"
+      "a": "上の内訳表が目安になります。日曜にもヘルパーに来てほしい場合は45件、土曜まででよければ48件が対象です。そのうえで、ご自宅の町名を伝えて対応エリアに入っているかを確認するのが確実です。曜日はサービスを提供する日で、事務所の電話がつながる時間帯とは別です。"
     },
     {
       "q": "訪問介護の自己負担はいくらくらいですか？",
@@ -628,12 +1583,12 @@
     },
     {
       "q": "江戸川区の事業所は、途中で変更できますか？",
-      "a": "変更できます。担当のケアマネジャーに相談すれば、ケアプランを見直したうえで江戸川区内の別の訪問介護事業所に切り替えられます。江戸川区は掲載20件・区内154件と候補があるので、相性やシフトの都合で変更する方は珍しくありません。"
+      "a": "変更できます。担当のケアマネジャーに相談すれば、ケアプランを見直したうえで江戸川区内の別の訪問介護事業所に切り替えられます。江戸川区は掲載60件・区内154件と候補があるので、相性やシフトの都合で変更する方は珍しくありません。"
     }
   ],
-  "related": "<a href=\"{{ROOT}}takuhai-bento/tokyo/edogawa/\">江戸川区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}koreisha-chintai/tokyo/edogawa/\">江戸川区の高齢者可賃貸<small>断られない部屋探し</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/edogawa/\">江戸川区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/edogawa/\">江戸川区のデイサービス<small>通所介護</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/edogawa/\">江戸川区の見守りサービス<small>ひとり暮らしの安否確認</small></a>\n      <a href=\"{{ROOT}}kaigo-taxi/tokyo/edogawa/\">江戸川区の介護タクシー<small>通院・外出の送迎</small></a>",
-  "nearby_heading": "近隣エリアの訪問介護",
-  "nearby": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/koto/\">江東区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/katsushika/\">葛飾区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/sumida/\">墨田区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/adachi/\">足立区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/chuo/\">中央区</a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/taito/\">台東区</a>",
+  "related": "<a href=\"{{ROOT}}houmon-kango/tokyo/edogawa/\">江戸川区の訪問看護<small>医療ケアが必要な方へ・区内87件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/edogawa/\">江戸川区のデイサービス<small>日帰りで通う・区内81件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/edogawa/\">江戸川区のショートステイ<small>数日あずける・区内25件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/edogawa/\">江戸川区の福祉用具<small>借りる・買う・区内34件</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/edogawa/\">江戸川区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/edogawa/\">江戸川区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "東京23区から訪問介護を探す",
+  "nearby": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/chiyoda/\">千代田区<small>22件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/chuo/\">中央区<small>38件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/minato/\">港区<small>70件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/shinjuku/\">新宿区<small>88件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/bunkyo/\">文京区<small>33件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/taito/\">台東区<small>59件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/sumida/\">墨田区<small>64件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/koto/\">江東区<small>77件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/shinagawa/\">品川区<small>55件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/meguro/\">目黒区<small>52件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/ota/\">大田区<small>138件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/setagaya/\">世田谷区<small>237件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/shibuya/\">渋谷区<small>48件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/nakano/\">中野区<small>77件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/suginami/\">杉並区<small>143件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/toshima/\">豊島区<small>63件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/kita/\">北区<small>93件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/arakawa/\">荒川区<small>54件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/itabashi/\">板橋区<small>158件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/nerima/\">練馬区<small>203件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/adachi/\">足立区<small>213件</small></a>\n      <a href=\"{{ROOT}}houmon-kaigo/tokyo/katsushika/\">葛飾区<small>153件</small></a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
     "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／サービス提供日・公式サイト）",
@@ -641,6 +1596,8 @@
     "江戸川区「要介護・要支援認定の申請からサービス利用までの流れ」",
     "厚生労働省「指定居宅サービス介護給付費単位数の算定構造」訪問介護費（令和6年度改定）／介護報酬の地域区分（1級地・1単位11.40円）",
     "日本郵便 郵便番号データにもとづく江戸川区の町域一覧",
+    "東京都総務局統計部「住民基本台帳による東京都の世帯と人口」（令和8年1月1日現在／年齢3区分別人口・5歳階級別人口）",
+    "東京都福祉局「介護保険事業状況報告（月報）」令和8年6月分（保険者別・第1号被保険者数／要介護認定者数）",
     "区内事業所数：東京都公表の指定事業所一覧にもとづく実数（2026年9月1日時点）"
   ],
   "sidebar": "<div class=\"side cta-side\">\n        <h4>どこに相談すればいい？</h4>\n        <p>介護がはじめての方は、まず地域の相談窓口へ。無料で手続きを案内してもらえます。</p>\n        <a class=\"btn\" href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方を見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>江戸川区内の訪問介護事業所は154件</li>\n          <li>江戸川区は1級地（1単位11.40円）</li>\n          <li>身体介護30分未満で約278円（1割）</li>\n          <li>最初の相談は熟年相談室</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/caremanager/\">ケアマネジャーの選び方</a></li>\n          <li><a href=\"{{ROOT}}guide/kubun-shikyu-gendo/\">区分支給限度基準額とは</a></li>\n          <li><a href=\"{{ROOT}}guide/jihi-service/\">介護保険外サービスの相場</a></li>\n        </ul>\n      </div>",

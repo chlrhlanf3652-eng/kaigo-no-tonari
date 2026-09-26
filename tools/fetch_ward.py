@@ -100,7 +100,7 @@ def parse_list(page: str):
     return items
 
 
-def fetch_facilities(hp: str, want: int = 20):
+def fetch_facilities(hp: str, want: int = 60):
     url = f"https://www.heartpage.jp/{hp}/list?type=visit_care"
     page = get(url)
     m = TOTAL.search(page)

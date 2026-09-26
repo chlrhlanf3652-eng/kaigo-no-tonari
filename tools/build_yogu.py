@@ -19,6 +19,8 @@ import pathlib
 import sys
 
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
+import koreika as KO
+import linkgrid as LG
 from wards import WARDS
 from build_day import ORG_DESC, AGE_BUCKETS, years_since, esc, ward_name
 from build_short import age_table
@@ -242,6 +244,8 @@ def build(wid, site):
         mixes=mixes, mix_note=mix_note, both=both, sell_note=sell_note,
         orgs=orgs, org_note=org_note, ages=ages, age_note=age_note,
         near=near_rows, neart=near_total, nearc=near_cnt)
+    # 区ごとの公的統計（高齢化率・要介護認定者数）を本文の最後に足す
+    content += "\n\n    " + KO.section(wid, ward, "fukushi-yogu", total)
     (BASE / "content" / f"fukushi-yogu_tokyo_{wid}.html").write_text(
         content, encoding="utf-8")
 
@@ -276,18 +280,11 @@ def build(wid, site):
               "複数から見積もりを取ってください。"},
     ]
 
-    near = WARDS[wid]["near"][:6]
-    nearby = "\n      ".join(
-        '<a href="{{ROOT}}fukushi-yogu/tokyo/%s/">%s</a>' % (x, ward_name(x))
-        for x in near)
-    related = "\n      ".join([
-        '<a href="{{ROOT}}houmon-kaigo/tokyo/%s/">%sの訪問介護<small>身体介護・生活援助</small></a>' % (wid, ward),
-        '<a href="{{ROOT}}day-service/tokyo/%s/">%sのデイサービス<small>日中の預け先</small></a>' % (wid, ward),
-        '<a href="{{ROOT}}houmon-kango/tokyo/%s/">%sの訪問看護<small>医療ケアが必要な方へ</small></a>' % (wid, ward),
-        '<a href="{{ROOT}}short-stay/tokyo/%s/">%sのショートステイ<small>短期入所</small></a>' % (wid, ward),
-        '<a href="{{ROOT}}takuhai-bento/tokyo/%s/">%sの宅配弁当<small>高齢者向け配食サービス</small></a>' % (wid, ward),
-        '<a href="{{ROOT}}mimamori/tokyo/%s/">%sの見守りサービス<small>ひとり暮らしの安否確認</small></a>' % (wid, ward),
-    ])
+    nearby = LG.area_links("fukushi-yogu", wid)
+    related = LG.service_links(
+        "fukushi-yogu", wid,
+        [("takuhai-bento", "の宅配弁当", "高齢者向け配食サービス"),
+         ("mimamori", "の見守りサービス", "ひとり暮らしの安否確認")])
     sidebar = (
         '<div class="side cta-side">\n'
         '        <h4>買う前に確認を</h4>\n'
@@ -350,7 +347,7 @@ def build(wid, site):
                         + "取扱商品や価格は事業所ごとに違い、この一覧では扱っていません。"
                         + "掲載順は事業所の優劣を示すものではありません。",
         "items": items, "faq": faq, "related": related,
-        "nearby_heading": "近隣エリアの福祉用具", "nearby": nearby,
+        "nearby_heading": "東京23区から福祉用具を探す", "nearby": nearby,
         "sources": [
             rec.get("source", "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）"),
             "厚生労働省「介護サービス情報公表システム」オープンデータ"
@@ -359,6 +356,7 @@ def build(wid, site):
             "厚生労働省「令和6年度介護報酬改定」福祉用具貸与・特定福祉用具販売の選択制",
             f"{ward}「{madoguchi}一覧」",
             f"日本郵便 郵便番号データにもとづく{ward}の町域一覧",
+            *KO.SOURCES,
         ],
         "sidebar": sidebar,
         "mcta": '<a class="m1" href="#s2">事業所一覧</a>\n  <a class="m2" href="#s4">費用のしくみ</a>',

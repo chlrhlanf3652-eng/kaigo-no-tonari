@@ -12,19 +12,19 @@
     "city_name": "江戸川区"
   },
   "seo": {
-    "title": "江戸川区の福祉用具20事業所｜レンタルと購入【2026年9月更新】",
-    "description": "東京都江戸川区の福祉用具貸与・特定福祉用具販売の指定事業所20件を連絡先つきで掲載。区内34件のうち貸与と販売の両方を扱う事業所がどれかを示し、年10万円までの購入費と、指定事業所から買う必要がある理由を解説します。",
+    "title": "江戸川区の福祉用具34事業所｜レンタルと購入【2026年9月更新】",
+    "description": "東京都江戸川区の福祉用具貸与・特定福祉用具販売の指定事業所34件を連絡先つきで掲載。区内34件のうち貸与と販売の両方を扱う事業所がどれかを示し、年10万円までの購入費と、指定事業所から買う必要がある理由を解説します。",
     "canonical": "https://kaigonotonari.com/fukushi-yogu/tokyo/edogawa/",
     "og_title": "江戸川区の福祉用具一覧｜借りるか買うかで事業所が変わります",
-    "og_description": "江戸川区の福祉用具事業所20件を掲載。ポータブルトイレや入浴用いすは購入しかできません。指定のない店で買うと保険は出ません。",
+    "og_description": "江戸川区の福祉用具事業所34件を掲載。ポータブルトイレや入浴用いすは購入しかできません。指定のない店で買うと保険は出ません。",
     "og_image": "https://kaigonotonari.com/assets/ogp-fukushi-yogu.jpg"
   },
   "h1": "江戸川区の福祉用具一覧｜借りるか買うかで事業所が変わります",
   "published": "2026-09-22",
   "modified": "2026-09-22",
-  "count_label": "掲載：20事業所",
-  "lead": "東京都江戸川区で福祉用具のレンタルや購入を考えている方へ。東京都の指定を受けた34件から20件を連絡先つきで掲載し、そのうち<strong>貸与と販売の両方を扱う事業所が19件</strong>あることまで示しました。介護保険で福祉用具を買う場合、<strong>指定を受けた事業者から買ったものにしか支給されません</strong>。同じ商品をネット通販で買っても1円も戻らないので、ここが最初の分かれ目になります。",
-  "listing_note": "江戸川区内の福祉用具貸与・特定福祉用具販売の指定事業所から20件を掲載しています（東京都公表・2026年9月1日時点）。区内には34件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。「貸与と販売」「貸与のみ」「販売のみ」の表示は、東京都の一覧でその事業所がどちらのサービス種類で指定を受けているかによります。取扱商品や価格は事業所ごとに違い、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
+  "count_label": "掲載：34事業所",
+  "lead": "東京都江戸川区で福祉用具のレンタルや購入を考えている方へ。東京都の指定を受けた34件から34件を連絡先つきで掲載し、そのうち<strong>貸与と販売の両方を扱う事業所が30件</strong>あることまで示しました。介護保険で福祉用具を買う場合、<strong>指定を受けた事業者から買ったものにしか支給されません</strong>。同じ商品をネット通販で買っても1円も戻らないので、ここが最初の分かれ目になります。",
+  "listing_note": "江戸川区内の福祉用具貸与・特定福祉用具販売の指定事業所から34件を掲載しています（東京都公表・2026年9月1日時点）。区内には34件が指定を受けており、そのすべてを掲載しています。「貸与と販売」「貸与のみ」「販売のみ」の表示は、東京都の一覧でその事業所がどちらのサービス種類で指定を受けているかによります。取扱商品や価格は事業所ごとに違い、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
@@ -83,6 +83,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "株式会社　共英",
+      "telephone": "03-3687-0336",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "江戸川５－１６－５１"
+      },
+      "parentOrganization": "株式会社共英",
+      "identifier": "1372301547",
+      "_town": "江戸川",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2001-11-01",
+      "_years": 24.889801505817932,
+      "url": "http://kyoei1971.jp",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "江戸川エリア",
+        "貸与と販売",
+        "土曜日も対応",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "トーリツ福祉用具　江戸川",
       "telephone": "03-5661-1301",
       "address": {
@@ -107,6 +137,36 @@
       "_tags": [
         "松島エリア",
         "貸与と販売",
+        "土曜日も対応",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "なぎさ和楽苑指定福祉用具貸与事業所",
+      "telephone": "03-6808-5568",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "西葛西八丁目１番１号"
+      },
+      "parentOrganization": "社会福祉法人東京栄和会",
+      "identifier": "1372302099",
+      "_town": "西葛西",
+      "_kind": "社会福祉法人（社協以外）",
+      "_mix": "貸与のみ",
+      "_designated": "2002-12-01",
+      "_years": 23.808350444900753,
+      "url": "http://www.tokyoeiwakai.or.jp",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "西葛西エリア",
+        "貸与のみ",
         "土曜日も対応",
         "20年以上"
       ]
@@ -172,6 +232,30 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "株式会社　カスタマ",
+      "telephone": "03-6662-7635",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "南篠崎町３－２５－７"
+      },
+      "parentOrganization": "株式会社カスタマ",
+      "identifier": "1372303220",
+      "_town": "南篠崎町",
+      "_kind": "営利法人",
+      "_mix": "販売のみ",
+      "_designated": "2006-04-14",
+      "_years": 20.44079397672827,
+      "_tags": [
+        "南篠崎町エリア",
+        "販売のみ",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "サンクスケア",
       "telephone": "03-3656-8841",
       "address": {
@@ -190,6 +274,34 @@
       "_years": 21.308692676249144,
       "_tags": [
         "中央エリア",
+        "貸与と販売",
+        "20年以上"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ダスキンヘルスレント江戸川ステーション",
+      "telephone": "03-5878-3981",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "西瑞江５－４－３１"
+      },
+      "parentOrganization": "株式会社いつわワールド",
+      "identifier": "1372304004",
+      "_town": "西瑞江",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2006-01-01",
+      "_years": 20.722792607802873,
+      "url": "https://healthrent.duskin.jp/station/tokyo/edogawa.html",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "西瑞江エリア",
         "貸与と販売",
         "20年以上"
       ]
@@ -251,6 +363,29 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "日本福祉住環境サービス",
+      "telephone": "03-3655-3373",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "中央１－２－８"
+      },
+      "parentOrganization": "有限会社日本福祉住環境サービス",
+      "identifier": "1372305001",
+      "_town": "中央",
+      "_kind": "営利法人",
+      "_mix": "販売のみ",
+      "_designated": "2009-03-01",
+      "_years": 17.560574948665298,
+      "_tags": [
+        "中央エリア",
+        "販売のみ"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "フランスベッド株式会社　メディカル江戸川営業所",
       "telephone": "03-5679-6186",
       "address": {
@@ -280,6 +415,29 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "トップ介護サービス",
+      "telephone": "03-6458-0235",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "西小岩４－９－３キャッスルアズマ１０５"
+      },
+      "parentOrganization": "株式会社ツートップ",
+      "identifier": "1372305373",
+      "_town": "西小岩",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2009-12-01",
+      "_years": 16.80766598220397,
+      "_tags": [
+        "西小岩エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ユーケアｐｌｕｓ",
       "telephone": "03-5664-6170",
       "address": {
@@ -302,6 +460,33 @@
       ],
       "_tags": [
         "篠崎町エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "えるぷらん",
+      "telephone": "03-3678-9015",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "鹿骨５－２６－７"
+      },
+      "parentOrganization": "株式会社えるぷらん",
+      "identifier": "1372305902",
+      "_town": "鹿骨",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2011-04-01",
+      "_years": 15.477070499657769,
+      "url": "https://lovelonglife.net/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "鹿骨エリア",
         "貸与と販売"
       ]
     },
@@ -361,6 +546,33 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ケアフィールド福祉用具サポートセンター",
+      "telephone": "03-5879-2600",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "本一色１－２０－７"
+      },
+      "parentOrganization": "株式会社ケアフィールド",
+      "identifier": "1372306439",
+      "_town": "本一色",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2012-04-01",
+      "_years": 14.47501711156742,
+      "url": "http://hp.kaipoke.biz/7gn/access.html",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "本一色エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ニック株式会社　江戸川営業所",
       "telephone": "03-6684-9153",
       "address": {
@@ -384,6 +596,34 @@
       ],
       "_tags": [
         "平井エリア",
+        "貸与と販売",
+        "土曜日も対応"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "まっかな花　江戸川",
+      "telephone": "03-5663-7452",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "大杉４－１７－６"
+      },
+      "parentOrganization": "アクティブライフ株式会社",
+      "identifier": "1372306967",
+      "_town": "大杉",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2013-05-01",
+      "_years": 13.39356605065024,
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "大杉エリア",
         "貸与と販売",
         "土曜日も対応"
       ]
@@ -446,6 +686,29 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "三幸福祉用具販売センター",
+      "telephone": "03-5627-3500",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "平井３－１７－１３"
+      },
+      "parentOrganization": "社会福祉法人三幸福祉会",
+      "identifier": "1372308310",
+      "_town": "平井",
+      "_kind": "社会福祉法人（社協以外）",
+      "_mix": "両方",
+      "_designated": "2015-06-01",
+      "_years": 11.31006160164271,
+      "_tags": [
+        "平井エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "株式会社　ヤマシタ　江戸川営業所",
       "telephone": "03-5612-5073",
       "address": {
@@ -471,6 +734,35 @@
       ],
       "_tags": [
         "東小岩エリア",
+        "貸与と販売",
+        "土曜日も対応"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "シルバーはあと江戸川",
+      "telephone": "03-6231-4580",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "中央１－３－１"
+      },
+      "parentOrganization": "株式会社ベネッセキャリオス",
+      "identifier": "1372308948",
+      "_town": "中央",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2017-02-01",
+      "_years": 9.637234770704996,
+      "url": "https://www.silver-heart.jp/",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "中央エリア",
         "貸与と販売",
         "土曜日も対応"
       ]
@@ -532,6 +824,29 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "和康",
+      "telephone": "03-6458-0868",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "南小岩７－３２－１３　３０１号室"
+      },
+      "parentOrganization": "株式会社和康",
+      "identifier": "1372310027",
+      "_town": "南小岩",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2019-11-01",
+      "_years": 6.891170431211499,
+      "_tags": [
+        "南小岩エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "やまとｃａｒｅ",
       "telephone": "03-6801-7478",
       "address": {
@@ -554,6 +869,33 @@
       ],
       "_tags": [
         "南小岩エリア",
+        "貸与と販売"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "介護の太助　江戸川店",
+      "telephone": "03-6657-9127",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "北小岩２－３４－１Ｔ．Ｒ．トリビュート１０１号"
+      },
+      "parentOrganization": "株式会社介護の太助",
+      "identifier": "1372310688",
+      "_town": "北小岩",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2021-10-01",
+      "_years": 4.974674880219028,
+      "url": "https://www.kaigo-tasuke.co.jp/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "北小岩エリア",
         "貸与と販売"
       ]
     },
@@ -583,6 +925,34 @@
         "中葛西エリア",
         "貸与と販売"
       ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアレントのぞみ関東",
+      "telephone": "03-5878-1688",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "南葛西６－２－２７"
+      },
+      "parentOrganization": "株式会社キート",
+      "identifier": "1372311538",
+      "_town": "南葛西",
+      "_kind": "営利法人",
+      "_mix": "両方",
+      "_designated": "2025-08-01",
+      "_years": 1.1416837782340863,
+      "url": "https://www.lamore.jp/",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "南葛西エリア",
+        "貸与と販売"
+      ]
     }
   ],
   "faq": [
@@ -592,15 +962,15 @@
     },
     {
       "q": "江戸川区に福祉用具の事業所は何件ありますか？",
-      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で江戸川区内に34件の福祉用具の事業所（貸与または特定販売の指定を受けたもの）があります。本ページではそのうち20件を連絡先つきで掲載し、うち19件が貸与と販売の両方を扱っています。"
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で江戸川区内に34件の福祉用具の事業所（貸与または特定販売の指定を受けたもの）があります。本ページではそのうち34件を連絡先つきで掲載し、うち30件が貸与と販売の両方を扱っています。"
     },
     {
       "q": "江戸川区でポータブルトイレや入浴用のいすは、レンタルできますか？",
-      "a": "できません。これらは購入（特定福祉用具販売）の対象で、同一年度に10万円までが保険の対象になります。江戸川区の掲載20件のうち販売の指定を持つのは19件なので、買う予定があるならその中から選んでください。"
+      "a": "できません。これらは購入（特定福祉用具販売）の対象で、同一年度に10万円までが保険の対象になります。江戸川区の掲載34件のうち販売の指定を持つのは32件なので、買う予定があるならその中から選んでください。"
     },
     {
       "q": "ネット通販で買っても、江戸川区から保険は出ますか？",
-      "a": "出ません。江戸川区の掲載20件のうち19件が販売の指定を持っているので、その中から選んでください。購入前に江戸川区の介護保険担当かケアマネジャーに相談するのが確実です。"
+      "a": "出ません。江戸川区の掲載34件のうち32件が販売の指定を持っているので、その中から選んでください。購入前に江戸川区の介護保険担当かケアマネジャーに相談するのが確実です。"
     },
     {
       "q": "江戸川区で介護ベッドを借りたいのですが、要介護1でも借りられますか？",
@@ -608,21 +978,23 @@
     },
     {
       "q": "江戸川区でレンタル料金が事業所によって違うのはなぜですか？",
-      "a": "福祉用具貸与だけは単位数が決まっておらず、事業所が商品ごとに価格を設定するしくみだからです。江戸川区の掲載20件は営利法人が20件と大半を占めますが、価格も品ぞろえも事業所ごとに差があるので、複数から見積もりを取ってください。"
+      "a": "福祉用具貸与だけは単位数が決まっておらず、事業所が商品ごとに価格を設定するしくみだからです。江戸川区の掲載34件は営利法人が32件と大半を占めますが、価格も品ぞろえも事業所ごとに差があるので、複数から見積もりを取ってください。"
     }
   ],
-  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/edogawa/\">江戸川区の訪問介護<small>身体介護・生活援助</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/edogawa/\">江戸川区のデイサービス<small>日中の預け先</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/edogawa/\">江戸川区の訪問看護<small>医療ケアが必要な方へ</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/edogawa/\">江戸川区のショートステイ<small>短期入所</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/edogawa/\">江戸川区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/edogawa/\">江戸川区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
-  "nearby_heading": "近隣エリアの福祉用具",
-  "nearby": "<a href=\"{{ROOT}}fukushi-yogu/tokyo/koto/\">江東区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/katsushika/\">葛飾区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/sumida/\">墨田区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/adachi/\">足立区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/chuo/\">中央区</a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/taito/\">台東区</a>",
+  "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/edogawa/\">江戸川区の訪問介護<small>自宅に来てもらう・区内154件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/edogawa/\">江戸川区の訪問看護<small>医療ケアが必要な方へ・区内87件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/edogawa/\">江戸川区のデイサービス<small>日帰りで通う・区内81件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/edogawa/\">江戸川区のショートステイ<small>数日あずける・区内25件</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/edogawa/\">江戸川区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/edogawa/\">江戸川区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
+  "nearby_heading": "東京23区から福祉用具を探す",
+  "nearby": "<a href=\"{{ROOT}}fukushi-yogu/tokyo/chiyoda/\">千代田区<small>3件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/chuo/\">中央区<small>13件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/minato/\">港区<small>11件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/shinjuku/\">新宿区<small>20件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/bunkyo/\">文京区<small>6件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/taito/\">台東区<small>11件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/sumida/\">墨田区<small>23件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/koto/\">江東区<small>21件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/shinagawa/\">品川区<small>10件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/meguro/\">目黒区<small>11件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/ota/\">大田区<small>32件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/setagaya/\">世田谷区<small>35件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/shibuya/\">渋谷区<small>8件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/nakano/\">中野区<small>15件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/suginami/\">杉並区<small>23件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/toshima/\">豊島区<small>14件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/kita/\">北区<small>20件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/arakawa/\">荒川区<small>15件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/itabashi/\">板橋区<small>27件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/nerima/\">練馬区<small>45件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/adachi/\">足立区<small>52件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/katsushika/\">葛飾区<small>31件</small></a>",
   "sources": [
     "東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）",
     "厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点／対応曜日・公式サイト）",
     "江東区「介護保険特定福祉用具購入費の支給」（支給限度額・対象種目・指定事業者要件）",
     "厚生労働省「令和6年度介護報酬改定」福祉用具貸与・特定福祉用具販売の選択制",
     "江戸川区「熟年相談室一覧」",
-    "日本郵便 郵便番号データにもとづく江戸川区の町域一覧"
+    "日本郵便 郵便番号データにもとづく江戸川区の町域一覧",
+    "東京都総務局統計部「住民基本台帳による東京都の世帯と人口」（令和8年1月1日現在／年齢3区分別人口・5歳階級別人口）",
+    "東京都福祉局「介護保険事業状況報告（月報）」令和8年6月分（保険者別・第1号被保険者数／要介護認定者数）"
   ],
-  "sidebar": "<div class=\"side cta-side\">\n        <h4>買う前に確認を</h4>\n        <p>指定のない店で買うと保険は出ません。対象種目と手続きはハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>江戸川区内の福祉用具事業所は34件（都指定）</li>\n          <li>掲載20件のうち貸与と販売の両方が19件</li>\n          <li>購入は年度内10万円まで（1〜3割負担）</li>\n          <li>指定事業所以外で買うと支給されません</li>\n          <li>入口はケアマネか熟年相談室</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみ</a></li>\n          <li><a href=\"{{ROOT}}houmon-kaigo/\">訪問介護</a></li>\n        </ul>\n      </div>",
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>買う前に確認を</h4>\n        <p>指定のない店で買うと保険は出ません。対象種目と手続きはハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>江戸川区内の福祉用具事業所は34件（都指定）</li>\n          <li>掲載34件のうち貸与と販売の両方が30件</li>\n          <li>購入は年度内10万円まで（1〜3割負担）</li>\n          <li>指定事業所以外で買うと支給されません</li>\n          <li>入口はケアマネか熟年相談室</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}fukushi-yogu/\">福祉用具のしくみ</a></li>\n          <li><a href=\"{{ROOT}}houmon-kaigo/\">訪問介護</a></li>\n        </ul>\n      </div>",
   "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">費用のしくみ</a>",
   "hero_image": "assets/ogp-fukushi-yogu.jpg",
   "towns": {
