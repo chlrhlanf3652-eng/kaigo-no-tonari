@@ -249,6 +249,10 @@ STATIC = [
     ("guide/haishoku-erabikata", "配食サービスの選び方", "高齢者向け配食サービスの選び方｜契約前に確認する5項目",
      "高齢者専門の配食が一般の宅食と違う3点、手渡しによる安否確認、契約前に確認する5項目、介護保険との関係、自治体の配食事業との使い分けまでまとめました。",
      "続くかどうかは「本人が食べきれるか」で決まります。まず試食から。", None),
+    ("guide/kubun-shikyu-gendo", "区分支給限度基準額とは", "区分支給限度基準額とは｜要介護度別の上限と、超えたときの負担",
+     "介護保険で1か月に使えるサービスの上限＝区分支給限度基準額を、要介護度別の単位数と東京23区（1級地）での金額でまとめました。"
+     "限度額に入らないサービス、処遇改善加算が枠外であること、超えたときに全額自己負担になる理由まで、出典つきで解説します。",
+     "上限は金額ではなく<strong>単位</strong>で決まっています。超えた分は1割負担の方でも全額自己負担です。", None),
     ("guide/soudan-madoguchi", "介護の相談窓口の探し方", "介護の相談窓口の探し方｜かいごのとなり",
      "介護がはじめての方の相談先である地域包括支援センターについて、自治体ごとに違う呼び名、担当地域の決まり方、相談前に用意しておくとよいものをまとめました。",
      "介護がはじめての方の相談先は、市区町村が設置している<strong>地域包括支援センター</strong>です。相談は無料です。", None),
@@ -396,6 +400,99 @@ def build_pref(cat_id, pref_id):
 
 
 
+# --------------------------------------------------- 都道府県まるごとのハブ
+def build_area(pref_id):
+    """サービス横断で、その都道府県の全市区町村を1枚にまとめたページ。
+
+    同業大手はどこも「エリアから入る」導線を持っている（ケアスル介護は
+    都道府県→市区町村→駅、介護のほんねは市区町村→路線→条件）。
+    当サイトはこれまでサービスから入る導線しかなく、フッターの
+    「地域から探す」は行き先のないリンクになっていた。ここで実体を作る。
+    """
+    sys.path.insert(0, str(BASE / "tools"))
+    from wards import WARDS as W
+    import linkgrid as LG
+    import koreika as KO
+
+    pref = next(p for p in S["prefs"] if p["id"] == pref_id)
+    root = "../"
+    cats = [c for c in S["categories"] if live_areas(c["id"], pref_id)]
+
+    # 区 × サービスの表。各セルは件数つきのリンク。
+    head = "".join(f'<th>{c["name"]}</th>' for c in cats)
+    rows = []
+    for wid, w in W.items():
+        cells = []
+        for c in cats:
+            n = LG.counts(c["id"]).get(wid) if c["id"] in LG.CATS else None
+            if has_data(c["id"], pref_id, wid):
+                label = f"{n}件" if n else "掲載中"
+                cells.append(f'<td class="num">'
+                             f'<a href="{root}{c["id"]}/{pref_id}/{wid}/">{label}</a></td>')
+            else:
+                cells.append('<td class="num tiny">—</td>')
+        st = KO.stats(wid)
+        rate = f'{st["rate65"]}%' if st else "—"
+        rows.append(f'      <tr><th>{w["name"]}</th><td class="num">{rate}</td>'
+                    + "".join(cells) + "</tr>")
+
+    total_pages = sum(1 for c in cats for wid in W if has_data(c["id"], pref_id, wid))
+    biz = sum(sum(LG.counts(c["id"]).values()) for c in cats if c["id"] in LG.CATS)
+
+    content = (
+        '  <h2 id="matrix">東京23区 × サービスの一覧</h2>\n'
+        f'  <p>区の名前とサービスが交わるところが、その区のページです。数字は'
+        f'区内にある事業所の数（東京都の指定事業所一覧にもとづく実数）で、'
+        f'23区合計で{biz:,}件あります。高齢化率もあわせて並べているので、'
+        f'「事業所は多いが高齢者も多い」区がどこかが見比べられます。</p>\n'
+        '  <div class="tw">\n  <table>\n'
+        '    <caption class="tiny" style="text-align:left;padding-bottom:6px">'
+        '東京23区のサービス別事業所数と高齢化率（区コード順）</caption>\n'
+        f'    <thead><tr><th style="width:14%">区</th><th>高齢化率</th>{head}</tr></thead>\n'
+        '    <tbody>\n' + "\n".join(rows) + '\n    </tbody>\n  </table>\n  </div>\n'
+        '  <p class="tiny">「—」は当サイトでまだ公開していない組み合わせです。'
+        '高齢化率は東京都総務局統計部「住民基本台帳による東京都の世帯と人口」'
+        '（令和8年1月1日現在）、事業所数は東京都福祉局「居宅サービス事業所一覧」'
+        '（2026年9月1日時点）によります。</p>\n'
+        f'  <h2 id="service">サービスから探す</h2>\n  <div class="lg">'
+        + "".join(f'<a href="{root}{c["id"]}/{pref_id}/">{pref["name"]}の{c["name"]}'
+                  f'<small>{c["tagline"]}</small></a>' for c in cats)
+        + "</div>\n"
+        '  <h2 id="first">はじめての方はここから</h2>\n  <div class="lg">'
+        '<a href="{{ROOT}}guide/soudan-madoguchi/">介護の相談窓口の探し方'
+        '<small>まず相談する場所</small></a>'
+        '<a href="{{ROOT}}guide/youkaigo-nintei/">要介護認定の申請から利用開始まで'
+        '<small>1か月〜1か月半かかります</small></a>'
+        '<a href="{{ROOT}}guide/houmon-kaigo-ryokin/">介護サービスの料金のしくみ'
+        '<small>単位数×地域区分×負担割合</small></a>'
+        '<a href="{{ROOT}}data-sources/">このサイトのデータの作り方'
+        '<small>出典と、載せていないこと</small></a>'
+        "</div>\n"
+    )
+
+    url = f"{SITE}/{pref_id}/"
+    graph = [
+        {"@type": "WebSite", "@id": f"{SITE}/#website", "url": f"{SITE}/",
+         "name": S["site"]["name"], "inLanguage": "ja"},
+        {"@type": "CollectionPage", "@id": f"{url}#webpage", "url": url,
+         "name": f"{pref['name']}の介護サービス",
+         "isPartOf": {"@id": f"{SITE}/#website"}, "inLanguage": "ja"},
+        {"@type": "BreadcrumbList", "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": "ホーム", "item": f"{SITE}/"},
+            {"@type": "ListItem", "position": 2, "name": pref["name"]}]},
+    ]
+    page(f"{pref_id}/index.html", root,
+         f"{pref['name']}の介護サービスを区から探す｜23区×7サービス【2026年9月更新】",
+         f"{pref['name']}23区の訪問介護・訪問看護・デイサービス・ショートステイ・福祉用具を"
+         f"区ごとにまとめた一覧です。区内の事業所数と高齢化率を並べて比較できます。"
+         f"掲載{total_pages}ページ。",
+         f"{pref['name']}の介護サービスを区から探す",
+         "お住まいの区と、必要なサービスが交わるところから入ってください。"
+         "区内の事業所数と高齢化率も並べています。",
+         crumbs([("ホーム", root), (pref["name"], None)]),
+         content, url, ld(graph), area_id=pref_id, ptype="area")
+
+
 # ------------------------------------------------------------------ 404
 def build_404():
     """GitHub Pages の 404 を自前のページに差し替える。
@@ -457,3 +554,6 @@ if __name__ == "__main__":
         for pref in S["prefs"]:
             if live_areas(cid, pref["id"]):
                 build_pref(cid, pref["id"])
+    for pref in S["prefs"]:
+        if any(live_areas(cid, pref["id"]) for cid in CATS):
+            build_area(pref["id"])
