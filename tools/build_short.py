@@ -386,6 +386,10 @@ def build(wid, site):
         '        </ul>\n'
         '      </div>')
 
+    # 空床利用型は本体の特養が満床だと使えない。予約の取りやすさが根本的に違うので
+    # title に出す。0件の区（中央・目黒・渋谷）は従来の言い方に戻す。
+    facet = f"空床利用型{kuushou}件" if kuushou else "予約と費用"
+
     d = {
         "slug": f"short-stay_tokyo_{wid}",
         "category": {"id": "short-stay", "name": "ショートステイ",
@@ -393,8 +397,9 @@ def build(wid, site):
         "area": {"pref_id": "tokyo", "pref_name": "東京都",
                  "city_id": wid, "city_name": ward},
         "seo": {
-            "title": f"{ward}のショートステイ{n}事業所｜予約と費用【2026年9月更新】",
+            "title": f"{ward}のショートステイ{n}事業所｜{facet}・空きの探し方",
             "description": f"東京都{ward}の短期入所生活介護（ショートステイ）事業所{n}件を連絡先つきで掲載。"
+                           f"特養の空床を使う空床利用型は{kuushou}件で、本体が満床だと使えません。"
                            f"区内{total}件のうち特養の空床利用型がどれかを含め、"
                            "予約の取りやすさ・1級地での自己負担・食費と滞在費の見方をまとめました。",
             "canonical": f"https://kaigonotonari.com/short-stay/tokyo/{wid}/",

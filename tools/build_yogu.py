@@ -311,6 +311,8 @@ def build(wid, site):
         '        </ul>\n'
         '      </div>')
 
+    facet = f"貸与と販売{both}件" if both else "レンタルと購入"
+
     d = {
         "slug": f"fukushi-yogu_tokyo_{wid}",
         "category": {"id": "fukushi-yogu", "name": "福祉用具",
@@ -318,8 +320,9 @@ def build(wid, site):
         "area": {"pref_id": "tokyo", "pref_name": "東京都",
                  "city_id": wid, "city_name": ward},
         "seo": {
-            "title": f"{ward}の福祉用具{n}事業所｜レンタルと購入【2026年9月更新】",
+            "title": f"{ward}の福祉用具{n}事業所｜{facet}・選択制4種目",
             "description": f"東京都{ward}の福祉用具貸与・特定福祉用具販売の指定事業所{n}件を連絡先つきで掲載。"
+                           f"貸与と販売の両方を扱うのは{both}件。入浴・排せつ用具は販売でしか手に入りません。"
                            f"区内{total}件のうち貸与と販売の両方を扱う事業所がどれかを示し、"
                            "年10万円までの購入費と、指定事業所から買う必要がある理由を解説します。",
             "canonical": f"https://kaigonotonari.com/fukushi-yogu/tokyo/{wid}/",

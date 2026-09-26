@@ -223,13 +223,18 @@ def build(wid, site):
         '        </ul>\n'
         '      </div>')
 
+    # 検索される語（「世田谷区 訪問介護 日曜」など）を title に入れる。
+    # 日曜対応は23区すべてで1件以上あることを確認済み。
+    facet = f"日曜対応{sunday}件" if sunday else f"土日対応{weekend}件"
+
     d = {
         "slug": f"houmon-kaigo_tokyo_{wid}",
         "category": {"id": "houmon-kaigo", "name": "訪問介護", "path": "/houmon-kaigo/"},
         "area": {"pref_id": "tokyo", "pref_name": "東京都", "city_id": wid, "city_name": ward},
         "seo": {
-            "title": f"{ward}の訪問介護{n}事業所｜料金と選び方【2026年9月更新】",
+            "title": f"{ward}の訪問介護{n}事業所｜{facet}・料金の目安",
             "description": f"東京都{ward}の訪問介護（ホームヘルプ）事業所{n}件を連絡先つきで掲載。"
+                           f"日曜も対応する事業所は{sunday}件、土曜まで含めると{weekend}件です。"
                            f"区内{total}件の中から選ぶための料金の目安、頼めること・頼めないこと、"
                            f"{madoguchi}への相談から利用開始までの流れを解説します。",
             "canonical": f"https://kaigonotonari.com/houmon-kaigo/tokyo/{wid}/",

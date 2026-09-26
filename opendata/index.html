@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>東京23区の介護事業所データ3,999件（CSV・CC BY 4.0）｜かいごのとなり</title>
+<meta name="description" content="東京都福祉局と厚生労働省の2つの公開データを事業所番号で突き合わせた、東京23区の介護サービス事業所3,999件のCSVを配布しています。利用可能曜日・定員・公式サイト・緯度経度つき。CC BY 4.0、商用利用可。列の埋まり具合と注意点も明記しています。">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<link rel="canonical" href="https://kaigonotonari.com/opendata/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="かいごのとなり">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:title" content="オープンデータ配布">
+<meta property="og:description" content="東京都福祉局と厚生労働省の2つの公開データを事業所番号で突き合わせた、東京23区の介護サービス事業所3,999件のCSVを配布しています。利用可能曜日・定員・公式サイト・緯度経度つき。CC BY 4.0、商用利用可。列の埋まり具合と注意点も明記しています。">
+<meta property="og:url" content="https://kaigonotonari.com/opendata/">
+<meta property="og:image" content="https://kaigonotonari.com/assets/ogp-home.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="msvalidate.01" content="53230B716A0984286983B96E3B896BFE">
+<!-- 端末標準の日本語フォントを使用（Webフォント読み込みによる描画待ちを避けるため） -->
+<link rel="stylesheet" href="../assets/style.css">
+<script>/* 文字サイズ設定を描画前に復元（ちらつき防止） */
+try{var _fs=localStorage.getItem("kt-fs");if(_fs==="l")document.documentElement.setAttribute("data-fs","l");}catch(e){}</script>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "WebSite",
+   "@id": "https://kaigonotonari.com/#website",
+   "url": "https://kaigonotonari.com/",
+   "name": "かいごのとなり",
+   "inLanguage": "ja"
+  },
+  {
+   "@type": "WebPage",
+   "@id": "https://kaigonotonari.com/opendata/#webpage",
+   "url": "https://kaigonotonari.com/opendata/",
+   "name": "オープンデータ配布",
+   "isPartOf": {
+    "@id": "https://kaigonotonari.com/#website"
+   },
+   "datePublished": "2026-09-21",
+   "dateModified": "2026-09-21",
+   "inLanguage": "ja"
+  },
+  {
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "ホーム",
+     "item": "https://kaigonotonari.com/"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "オープンデータ配布"
+    }
+   ]
+  }
+ ]
+}
+</script>
+<!-- Google tag (gtag.js) — 計測。描画は待たせない -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9M1VPRMRSD"></script>
+<script>
+window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
+</script>
+</head>
+<body data-cat="" data-area="opendata" data-ptype="static">
+<a class="skip" href="#main">本文へスキップ</a>
+<div class="pr">本サイトはアフィリエイトプログラムを利用しており、広告（PR）を含みます。掲載情報は各事業者・自治体の公表情報をもとに作成しています。</div>
+
+<div class="util">
+  <div class="wrap">
+    <span class="u-info">介護の相談は<b>お住まいの地域包括支援センター</b>へ（相談無料）<a href="../guide/soudan-madoguchi/">窓口をさがす</a></span>
+    <div class="fs">
+      <span>文字サイズ</span>
+      <button type="button" data-fs="n" aria-pressed="true">ふつう</button>
+      <button type="button" data-fs="l" aria-pressed="false">大きい</button>
+    </div>
+  </div>
+</div>
+
+<header>
+  <div class="wrap hd">
+    <a class="logo" href="../"><span>介</span>かいごのとなり</a>
+    <nav class="main" aria-label="メインメニュー">
+      <a href="../houmon-kaigo/">介護サービス</a>
+      <a href="../takuhai-bento/">暮らしの配達</a>
+      <a href="../koreisha-chintai/">住まい</a>
+      <a href="../mimamori/">見守り</a>
+      <a href="../shukatsu/">終活</a>
+      <a href="../guide/">制度ガイド</a>
+    </nav>
+  </div>
+</header>
+
+<div class="bc">
+  <div class="wrap">
+    <ol>
+      <li><a href="../">ホーム</a></li>
+      <li>オープンデータ配布</li>
+    </ol>
+  </div>
+</div>
+
+<main id="main">
+<div class="wrap">
+  <div class="hero">
+    <h1>オープンデータ配布</h1>
+    
+    <p class="lead">突き合わせた結果そのものをCSVで配ります。<strong>CC BY 4.0・商用利用可</strong>です。</p>
+  </div>
+  <h2 id="s1">配っているもの</h2>
+  <p>東京23区の介護サービス事業所<strong>3,999件</strong>を1本のCSVにまとめたものです。東京都と厚生労働省が別々に公開しているデータを、事業所番号で突き合わせて作りました。どちらか一方だけでは揃わない項目（利用可能曜日・定員・公式サイト・緯度経度）が入っています。</p>
+
+  <div class="note">
+    <strong><a href="../opendata/kaigonotonari-tokyo23-kaigo.csv" download>kaigonotonari-tokyo23-kaigo.csv をダウンロード</a></strong><br>
+    3,999行／約1.2MB／UTF-8（BOMつき・Excelでそのまま開けます）／最終更新 2026年9月26日
+  </div>
+
+  <h2 id="s2">収録範囲</h2>
+  <div class="tw">
+  <table>
+    <caption class="tiny" style="text-align:left;padding-bottom:6px">サービス種類ごとの収録件数</caption>
+    <thead><tr><th>サービス種類</th><th class="num">収録</th><th class="num">23区の全指定数</th></tr></thead>
+    <tbody>
+      <tr><th>訪問介護</th><td class="num">1,261</td><td class="num">2,292</td></tr>
+      <tr><th>訪問看護</th><td class="num">1,037</td><td class="num">1,325</td></tr>
+      <tr><th>通所介護（デイサービス）</th><td class="num">836</td><td class="num">1,007</td></tr>
+      <tr><th>短期入所生活介護</th><td class="num">385</td><td class="num">385</td></tr>
+      <tr><th>福祉用具貸与・特定福祉用具販売</th><td class="num">480</td><td class="num">480</td></tr>
+      <tr><th>合計</th><td class="num">3,999</td><td class="num">5,489</td></tr>
+    </tbody>
+  </table>
+  </div>
+  <p>1区あたり60件を上限にしています。短期入所生活介護と福祉用具は全区で全件、通所介護と訪問看護も大半の区で全件が入ります。訪問介護は事業所数の多い区で上限に当たります。抽出は事業所番号の順に等間隔で行っており、先頭から詰めていません（古い事業所ばかりになるのを避けるため）。</p>
+
+  <h2 id="s3">列と、埋まっている割合</h2>
+  <p>公表データに記載のない項目は<strong>空欄のまま</strong>にしています。「なし」と書くと「提供していない」という別の意味になってしまうためです。</p>
+  <div class="tw">
+  <table>
+    <caption class="tiny" style="text-align:left;padding-bottom:6px">全16列。記載あり件数は3,999件に対する割合</caption>
+    <thead><tr><th style="width:24%">列</th><th class="num">記載あり</th><th>出どころ・注意</th></tr></thead>
+    <tbody>
+      <tr><th>サービス種類</th><td class="num">100%</td><td>福祉用具は「貸与」「販売」の両方を扱う事業所を「・」で連結</td></tr>
+      <tr><th>市区町村名</th><td class="num">100%</td><td>東京都</td></tr>
+      <tr><th>団体コード</th><td class="num">100%</td><td>13101〜13123</td></tr>
+      <tr><th>事業所名</th><td class="num">100%</td><td>東京都</td></tr>
+      <tr><th>法人名／法人種別</th><td class="num">100%</td><td>東京都。営利法人・社会福祉法人・医療法人など</td></tr>
+      <tr><th>事業所番号</th><td class="num">100%</td><td>2つのデータを結ぶキー</td></tr>
+      <tr><th>住所／電話番号</th><td class="num">100%</td><td>東京都</td></tr>
+      <tr><th>指定年月日</th><td class="num">100%</td><td>東京都。開設年数の目安になります</td></tr>
+      <tr><th>事業所種別</th><td class="num">35.6%</td><td>東京都。短期入所生活介護でのみ「特養の空床利用型」等が入ります</td></tr>
+      <tr><th>利用可能曜日</th><td class="num">80.8%</td><td>厚生労働省。<strong>事務所の営業日ではなくサービス提供日</strong></td></tr>
+      <tr><th>定員</th><td class="num">31.9%</td><td>厚生労働省。通所介護・短期入所以外では意味が異なるため要注意</td></tr>
+      <tr><th>公式サイト</th><td class="num">74.1%</td><td>厚生労働省。ホスト名が壊れているものは除いています</td></tr>
+      <tr><th>緯度／経度</th><td class="num">90.4%</td><td>厚生労働省</td></tr>
+    </tbody>
+  </table>
+  </div>
+
+  <h2 id="s4">使う前に知っておいてほしいこと</h2>
+  <ul class="check">
+    <li><b>基準日が2つある</b>東京都側は2026年9月1日時点、厚生労働省側は2026年6月30日時点です。東京都側に新しく載った事業所は、曜日や定員が空欄になります。</li>
+    <li><b>「利用可能曜日」と「休業日」は別物</b>前者はサービスを提供する日、後者は事務所が閉まっている日です。訪問介護では事務所が休みでもヘルパーの訪問があり、掲載2,004件のうち246件でこの2つが食い違いました。どちらかの誤りではありません。</li>
+    <li><b>「定員」はサービス種類で意味が変わる</b>通所介護なら1日の受け入れ人数ですが、訪問看護では別のものが入ります。<code>0</code> は「定員0人」ではなく「該当なし・未記載」です。</li>
+    <li><b>空き状況は入っていません</b>公表データにないものは作れないため、載せていません。</li>
+  </ul>
+  <p>この判断の経緯は<a href="../data-sources/">データの作り方</a>に、もう少し詳しく書いています。</p>
+
+  <h2 id="s5">ライセンスと出典の書き方</h2>
+  <p>このCSVは<strong>クリエイティブ・コモンズ 表示 4.0 国際（CC BY 4.0）</strong>で公開します。商用・非商用を問わず、複製・改変・再配布できます。出典を書いていただくことが条件です。</p>
+  <div class="note">
+    出典表記の例：<br>
+    <code>東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0）および厚生労働省「介護サービス情報公表システム」オープンデータをもとに、かいごのとなり（https://kaigonotonari.com）が作成</code>
+  </div>
+  <p class="tiny">元データの利用条件は、東京都福祉局「居宅サービス事業所一覧」がCC BY 4.0、厚生労働省「介護サービス情報公表システム」オープンデータが営利・非営利を問わない二次利用可です。突き合わせと整形の部分が当サイトの作業にあたります。</p>
+
+  <h2 id="s6">誤りを見つけたら</h2>
+  <p>データの誤り、掲載されている事業者の方からの訂正・削除のご依頼は、<a href="../contact/">お問い合わせ</a>から受け付けています。理由の説明なしにお受けし、5営業日以内にご返信します。元データ側の誤りについては、恐れ入りますが各発行元にご確認ください。</p>
+
+  <div class="src">
+    <strong>参考・出典</strong>
+    <ul>
+      <li>東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0／2026年9月1日時点）</li>
+      <li>厚生労働省「介護サービス情報公表システム」オープンデータ（2026年6月30日時点）</li>
+    </ul>
+    <p style="margin:10px 0 0">最終確認日：2026-09-26</p>
+  </div>
+
+</div>
+</main>
+
+<footer>
+  <div class="wrap">
+    <div class="fg">
+      <div>
+        <h5>かいごのとなり</h5>
+        <p style="margin:0;font-size:13px;line-height:1.8">高齢者と家族のための地域サービス情報サイト。介護・配達・住まい・見守りを地域ごとにまとめています。</p>
+      </div>
+      <div>
+        <h5>サービスから探す</h5>
+        <ul>
+          <li><a href="../houmon-kaigo/">訪問介護</a></li>
+          <li><a href="../houmon-kango/">訪問看護</a></li>
+          <li><a href="../day-service/">デイサービス</a></li>
+          <li><a href="../short-stay/">ショートステイ</a></li>
+          <li><a href="../fukushi-yogu/">福祉用具レンタル</a></li>
+          <li><a href="../takuhai-bento/">宅配弁当・配食</a></li>
+          <li><a href="../koreisha-chintai/">高齢者可賃貸</a></li>
+          <li><a href="../kaji-daiko/">家事代行</a></li>
+          <li><a href="../mimamori/">見守りサービス</a></li>
+          <li><a href="../shukatsu/">終活</a></li>
+        </ul>
+      </div>
+      <div>
+        <h5>地域から探す</h5>
+        <ul>
+          <li><a href="../tokyo/">東京23区まとめ</a></li>
+          <li><a href="../houmon-kaigo/tokyo/">東京都の訪問介護</a></li>
+          <li><a href="../houmon-kango/tokyo/">東京都の訪問看護</a></li>
+          <li><a href="../day-service/tokyo/">東京都のデイサービス</a></li>
+          <li><a href="../short-stay/tokyo/">東京都のショートステイ</a></li>
+          <li><a href="../fukushi-yogu/tokyo/">東京都の福祉用具</a></li>
+          <li><a href="../takuhai-bento/tokyo/">東京都の宅配弁当</a></li>
+          <li><a href="../koreisha-chintai/tokyo/">東京都の高齢者可賃貸</a></li>
+        </ul>
+      </div>
+      <div>
+        <h5>サイトについて</h5>
+        <ul>
+          <li><a href="../about/">運営者情報</a></li>
+          <li><a href="../data-sources/">データの作り方</a></li>
+          <li><a href="../opendata/">オープンデータ配布</a></li>
+          <li><a href="../privacy/">プライバシーポリシー</a></li>
+          <li><a href="../disclaimer/">免責事項</a></li>
+          <li><a href="../ad-policy/">広告について</a></li>
+          <li><a href="../contact/">お問い合わせ・掲載依頼</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="cp">© 2026 かいごのとなり All rights reserved.</div>
+  </div>
+</footer>
+<script>
+(function(){
+  var root=document.documentElement,KEY="kt-fs";
+  function apply(v,save){
+    if(v==="l"){root.setAttribute("data-fs","l");}else{root.removeAttribute("data-fs");}
+    var bs=document.querySelectorAll(".fs button");
+    for(var i=0;i<bs.length;i++){bs[i].setAttribute("aria-pressed",String(bs[i].getAttribute("data-fs")===v));}
+    if(save){try{localStorage.setItem(KEY,v);}catch(e){}}
+  }
+  var cur="n";try{cur=localStorage.getItem(KEY)==="l"?"l":"n";}catch(e){}
+  apply(cur,false);
+  document.addEventListener("click",function(e){
+    var t=e.target;while(t&&t!==document){if(t.tagName==="BUTTON"&&t.parentNode&&t.parentNode.className==="fs"){apply(t.getAttribute("data-fs"),true);return;}t=t.parentNode;}
+  });
+})();
+</script>
+<script src="../assets/measure.js" defer></script>
+</body>
+</html>

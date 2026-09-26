@@ -248,13 +248,16 @@ def build(wid, site):
         '        </ul>\n'
         '      </div>')
 
+    facet = f"日曜対応{sunday}件" if sunday else f"土日対応{weekend}件"
+
     d = {
         "slug": f"houmon-kango_tokyo_{wid}",
         "category": {"id": "houmon-kango", "name": "訪問看護", "path": "/houmon-kango/"},
         "area": {"pref_id": "tokyo", "pref_name": "東京都", "city_id": wid, "city_name": ward},
         "seo": {
-            "title": f"{ward}の訪問看護{n}事業所｜主治医の指示書から始める【2026年9月更新】",
+            "title": f"{ward}の訪問看護{n}事業所｜{facet}・指示書の流れ",
             "description": f"東京都{ward}の訪問看護ステーション{n}件を連絡先つきで掲載。"
+                           f"日曜も訪問する事業所は{sunday}件、土曜まで含めると{weekend}件です。"
                            f"区内{total}件の中から選ぶための所在町域・運営法人・開設年数・"
                            "定期訪問の曜日の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
             "canonical": f"https://kaigonotonari.com/houmon-kango/tokyo/{wid}/",

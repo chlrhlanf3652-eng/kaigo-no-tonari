@@ -273,13 +273,17 @@ def build(wid, site):
         '        </ul>\n'
         '      </div>')
 
+    # デイサービスは千代田区・江東区で日曜対応が0件のため、土曜に落とす。
+    facet = f"日曜対応{sunday}件" if sunday else f"土曜対応{weekend}件"
+
     d = {
         "slug": f"day-service_tokyo_{wid}",
         "category": {"id": "day-service", "name": "デイサービス", "path": "/day-service/"},
         "area": {"pref_id": "tokyo", "pref_name": "東京都", "city_id": wid, "city_name": ward},
         "seo": {
-            "title": f"{ward}のデイサービス{n}事業所｜送迎と費用の見方【2026年9月更新】",
+            "title": f"{ward}のデイサービス{n}事業所｜{facet}・定員と送迎",
             "description": f"東京都{ward}の通所介護（デイサービス）事業所{n}件を連絡先つきで掲載。"
+                           f"日曜も通える事業所は{sunday}件、土曜まで含めると{weekend}件。定員の内訳も示しました。"
                            f"区内{total}件の中から選ぶための所在町域・運営法人・開設年数の内訳と、"
                            "1級地での自己負担、見学で聞くことをまとめました。",
             "canonical": f"https://kaigonotonari.com/day-service/tokyo/{wid}/",
