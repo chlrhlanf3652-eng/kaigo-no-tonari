@@ -40,6 +40,7 @@
       "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
       "identifier": "1370502658",
       "_town": "南大塚",
+      "_kind": "営利法人",
       "url": "https://www.careritz.co.jp/station/branch/sugamo/",
       "_days": [
         "平日",
@@ -67,6 +68,7 @@
       "parentOrganization": "霜鳥恒産株式会社",
       "identifier": "1370705111",
       "_town": "池袋本町",
+      "_kind": "営利法人",
       "url": "https://www.shimotori-kosan.co.jp",
       "_days": [
         "平日",
@@ -93,6 +95,7 @@
       "parentOrganization": "有限会社ホームケアながさき",
       "identifier": "1371600097",
       "_town": "南長崎",
+      "_kind": "営利法人",
       "url": "https://www.homecare-nagasaki.com/",
       "_days": [
         "平日",
@@ -119,6 +122,7 @@
       "parentOrganization": "株式会社大起エンゼルヘルプ",
       "identifier": "1371600170",
       "_town": "池袋",
+      "_kind": "営利法人",
       "url": "http://www.enzeru.co.jp",
       "_days": [
         "平日",
@@ -146,6 +150,7 @@
       "parentOrganization": "株式会社エヌ・テイ豊島",
       "identifier": "1371600204",
       "_town": "池袋",
+      "_kind": "営利法人",
       "url": "http://www.nt-toshima.co.jp",
       "_days": [
         "平日",
@@ -173,6 +178,7 @@
       "parentOrganization": "有限会社あさくらケアハウス",
       "identifier": "1371600428",
       "_town": "南大塚",
+      "_kind": "営利法人",
       "url": "https://asakura-care.jp/",
       "_days": [
         "平日",
@@ -200,6 +206,7 @@
       "parentOrganization": "株式会社グレイス・ケアー",
       "identifier": "1371600501",
       "_town": "南池袋",
+      "_kind": "営利法人",
       "url": "http://www.grace-care.co.jp",
       "_days": [
         "平日",
@@ -227,6 +234,7 @@
       "parentOrganization": "株式会社ニチイ学館",
       "identifier": "1371600691",
       "_town": "池袋",
+      "_kind": "営利法人",
       "url": "http://www.nichiigakkan.co.jp",
       "_days": [
         "平日",
@@ -254,6 +262,7 @@
       "parentOrganization": "有限会社バリアフリー・サポート",
       "identifier": "1371600873",
       "_town": "巣鴨",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -280,6 +289,7 @@
       "parentOrganization": "有限会社マルシモ",
       "identifier": "1371601574",
       "_town": "南大塚",
+      "_kind": "営利法人",
       "url": "https://www.marushimo.co.jp",
       "_days": [
         "平日",
@@ -307,6 +317,7 @@
       "parentOrganization": "有限会社　寿晴介護サービス",
       "identifier": "1371601582",
       "_town": "駒込",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -333,6 +344,7 @@
       "parentOrganization": "株式会社ケアリッチ",
       "identifier": "1371601780",
       "_town": "南池袋",
+      "_kind": "営利法人",
       "url": "http://www.carerich.co.jp/",
       "_days": [
         "平日",
@@ -360,6 +372,7 @@
       "parentOrganization": "有限会社サン",
       "identifier": "1371601954",
       "_town": "西巣鴨",
+      "_kind": "営利法人",
       "url": "http://www.sun-care.jp",
       "_days": [
         "平日",
@@ -387,6 +400,7 @@
       "parentOrganization": "有限会社さくら介護サービス",
       "identifier": "1371601962",
       "_town": "池袋",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -413,6 +427,7 @@
       "parentOrganization": "特定非営利活動法人やすらぎ",
       "identifier": "1371601970",
       "_town": "雑司が谷",
+      "_kind": "非営利法人（NPO）",
       "url": "https://yasuragi.lolipop.jp/",
       "_days": [
         "平日",
@@ -440,6 +455,7 @@
       "parentOrganization": "株式会社アライブ",
       "identifier": "1371602085",
       "_town": "池袋",
+      "_kind": "営利法人",
       "url": "http://www.access-point.jp",
       "_days": [
         "平日",
@@ -467,6 +483,7 @@
       "parentOrganization": "有里サポート有限会社",
       "identifier": "1371602101",
       "_town": "西池袋",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -493,6 +510,7 @@
       "parentOrganization": "社会福祉法人地球郷",
       "identifier": "1371602267",
       "_town": "南長崎",
+      "_kind": "社会福祉法人（社協以外）",
       "url": "http://www.yukiwari.org",
       "_days": [
         "平日",
@@ -520,6 +538,7 @@
       "parentOrganization": "有限会社ケアフレンド",
       "identifier": "1371602309",
       "_town": "長崎",
+      "_kind": "営利法人",
       "url": "http://care-net.biz/13/c-friend/",
       "_days": [
         "平日",
@@ -547,6 +566,7 @@
       "parentOrganization": "東京保健生活協同組合",
       "identifier": "1371602572",
       "_town": "雑司が谷",
+      "_kind": "生協",
       "url": "http://thoken.or.jp/kishibojin/",
       "_days": [
         "平日",
@@ -574,6 +594,7 @@
       "parentOrganization": "有限会社オープラス",
       "identifier": "1371602960",
       "_town": "要町",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -599,6 +620,7 @@
       "parentOrganization": "ウエルシアパートナーズ株式会社",
       "identifier": "1371602994",
       "_town": "北大塚",
+      "_kind": "営利法人",
       "url": "https://www.welcia-partners.co.jp/",
       "_days": [
         "平日"
@@ -622,6 +644,7 @@
       "parentOrganization": "株式会社サン・キューブ",
       "identifier": "1371603117",
       "_town": "南大塚",
+      "_kind": "営利法人",
       "url": "https://care-net.biz/13/suncube/",
       "_days": [
         "平日",
@@ -649,6 +672,7 @@
       "parentOrganization": "セントケア東京株式会社",
       "identifier": "1371603281",
       "_town": "東池袋",
+      "_kind": "営利法人",
       "url": "https://www.saint-care.com/tokyo/about/",
       "_days": [
         "平日",
@@ -676,6 +700,7 @@
       "parentOrganization": "ソシオ株式会社",
       "identifier": "1371603356",
       "_town": "西池袋",
+      "_kind": "営利法人",
       "url": "http://care-net.biz/13/sosio/",
       "_days": [
         "平日",
@@ -703,6 +728,7 @@
       "parentOrganization": "株式会社天使堂",
       "identifier": "1371603448",
       "_town": "池袋本町",
+      "_kind": "営利法人",
       "url": "http://www.tenshidou.com/law.html",
       "_days": [
         "平日",
@@ -730,6 +756,7 @@
       "parentOrganization": "株式会社日本介護センター",
       "identifier": "1371603521",
       "_town": "要町",
+      "_kind": "営利法人",
       "url": "http://www.nikkai-center.co.jp",
       "_days": [
         "平日",
@@ -757,6 +784,7 @@
       "parentOrganization": "ＡＬＳＯＫ介護株式会社",
       "identifier": "1371603653",
       "_town": "池袋",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -783,6 +811,7 @@
       "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
       "identifier": "1371603919",
       "_town": "池袋",
+      "_kind": "営利法人",
       "url": "https://www.careritz.co.jp/station/branch/ikebukuro/",
       "_days": [
         "平日",
@@ -810,6 +839,7 @@
       "parentOrganization": "株式会社ハート介護サービス",
       "identifier": "1371604008",
       "_town": "南長崎",
+      "_kind": "営利法人",
       "url": "https://www.heartkaigo.jp/",
       "_days": [
         "平日",
@@ -837,6 +867,7 @@
       "parentOrganization": "株式会社いずみ介護センター",
       "identifier": "1371604461",
       "_town": "池袋本町",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -863,6 +894,7 @@
       "parentOrganization": "株式会社まんぞく介護",
       "identifier": "1371604628",
       "_town": "池袋本町",
+      "_kind": "営利法人",
       "url": "http://manzokukaigo.com/",
       "_days": [
         "平日",
@@ -890,6 +922,7 @@
       "parentOrganization": "株式会社カインディア",
       "identifier": "1371604883",
       "_town": "千早",
+      "_kind": "営利法人",
       "url": "https://kindear-suzuran.com/houmonkaigo",
       "_days": [
         "平日",
@@ -917,6 +950,7 @@
       "parentOrganization": "株式会社クレオズ",
       "identifier": "1371605161",
       "_town": "要町",
+      "_kind": "営利法人",
       "url": "https://www.everyike.tokyo/",
       "_days": [
         "平日",
@@ -944,6 +978,7 @@
       "parentOrganization": "株式会社ハート介護サービス",
       "identifier": "1371605252",
       "_town": "西池袋",
+      "_kind": "営利法人",
       "url": "http://www.heartkaigo.jp",
       "_days": [
         "平日",
@@ -971,6 +1006,7 @@
       "parentOrganization": "社会福祉法人櫻灯会",
       "identifier": "1371605294",
       "_town": "南池袋",
+      "_kind": "社会福祉法人（社協以外）",
       "url": "http://outoukai.com/",
       "_days": [
         "平日",
@@ -998,6 +1034,7 @@
       "parentOrganization": "合同会社Ｋ．すずらん",
       "identifier": "1371605344",
       "_town": "南池袋",
+      "_kind": "営利法人",
       "_days": [
         "平日"
       ],
@@ -1020,6 +1057,7 @@
       "parentOrganization": "合同会社倭ケアサービス",
       "identifier": "1371605427",
       "_town": "西池袋",
+      "_kind": "営利法人",
       "url": "https://care-net.biz/13/nishiike/",
       "_days": [
         "平日",
@@ -1047,6 +1085,7 @@
       "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
       "identifier": "1371605500",
       "_town": "北大塚",
+      "_kind": "営利法人",
       "url": "https://www.careritz.co.jp/station/branch/otsukakita/",
       "_days": [
         "平日",
@@ -1074,6 +1113,7 @@
       "parentOrganization": "ＳＯＭＰＯケア株式会社",
       "identifier": "1371605518",
       "_town": "東池袋",
+      "_kind": "営利法人",
       "url": "https://www.sompocare.com",
       "_days": [
         "平日",
@@ -1101,6 +1141,7 @@
       "parentOrganization": "株式会社日本エルダリーケアサービス",
       "identifier": "1371605625",
       "_town": "南大塚",
+      "_kind": "営利法人",
       "url": "http://www.elderly.jp/",
       "_days": [
         "平日",
@@ -1128,6 +1169,7 @@
       "parentOrganization": "株式会社クレアフューチャー",
       "identifier": "1371605641",
       "_town": "東池袋",
+      "_kind": "営利法人",
       "url": "https://www.crea-future.co.jp/",
       "_days": [
         "平日",
@@ -1155,6 +1197,7 @@
       "parentOrganization": "特定非営利活動法人あすなろの会",
       "identifier": "1371605658",
       "_town": "東池袋",
+      "_kind": "非営利法人（NPO）",
       "url": "https://asunaro-kaigo.com",
       "_days": [
         "平日",
@@ -1182,6 +1225,7 @@
       "parentOrganization": "株式会社フロンティア",
       "identifier": "1371605732",
       "_town": "東池袋",
+      "_kind": "営利法人",
       "url": "https://lilas-kaigo.com",
       "_days": [
         "平日",
@@ -1209,6 +1253,7 @@
       "parentOrganization": "株式会社よつば",
       "identifier": "1371605849",
       "_town": "巣鴨",
+      "_kind": "営利法人",
       "url": "https://fourleafclover.jp/",
       "_days": [
         "平日",
@@ -1236,6 +1281,7 @@
       "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
       "identifier": "1371605856",
       "_town": "南長崎",
+      "_kind": "営利法人",
       "url": "https://www.careritz.co.jp/station/branch/shiinamachi/",
       "_days": [
         "平日",
@@ -1263,6 +1309,7 @@
       "parentOrganization": "株式会社ケア２１",
       "identifier": "1371605880",
       "_town": "巣鴨",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -1289,6 +1336,7 @@
       "parentOrganization": "株式会社ラック・メディカルサービス",
       "identifier": "1371605930",
       "_town": "南大塚",
+      "_kind": "営利法人",
       "url": "http://apln.co.jp/care/",
       "_days": [
         "平日",
@@ -1316,6 +1364,7 @@
       "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
       "identifier": "1371606045",
       "_town": "南池袋",
+      "_kind": "営利法人",
       "url": "https://www.careritz.co.jp/station/branch/higashiikebukuro/",
       "_days": [
         "平日",
@@ -1343,6 +1392,7 @@
       "parentOrganization": "星月よ合同会社",
       "identifier": "1371606060",
       "_town": "池袋",
+      "_kind": "営利法人",
       "_days": [
         "平日"
       ],
@@ -1365,6 +1415,7 @@
       "parentOrganization": "社会福祉法人桑の実園福祉会",
       "identifier": "1371606086",
       "_town": "東池袋",
+      "_kind": "社会福祉法人（社協以外）",
       "url": "https://www.kuwanomien.jp/",
       "_days": [
         "平日",
@@ -1392,6 +1443,7 @@
       "parentOrganization": "株式会社歩歩",
       "identifier": "1371606110",
       "_town": "東池袋",
+      "_kind": "営利法人",
       "url": "http://poppo.work",
       "_days": [
         "平日",
@@ -1419,6 +1471,7 @@
       "parentOrganization": "株式会社ｇｒｏｗｐｌａｃｅ",
       "identifier": "1371606128",
       "_town": "池袋本町",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -1445,6 +1498,7 @@
       "parentOrganization": "株式会社ＥＺＡＫＩ",
       "identifier": "1371606144",
       "_town": "駒込",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -1471,6 +1525,7 @@
       "parentOrganization": "株式会社いずみ介護センター",
       "identifier": "1371606177",
       "_town": "西池袋",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -1497,6 +1552,7 @@
       "parentOrganization": "株式会社ＡｎｙｗｈｅｒｅＤｏｏｒ",
       "identifier": "1371606185",
       "_town": "南大塚",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -1523,6 +1579,7 @@
       "parentOrganization": "株式会社泰規",
       "identifier": "1371606227",
       "_town": "巣鴨",
+      "_kind": "営利法人",
       "url": "http://www.necoroboman-taiki.com",
       "_days": [
         "平日",
@@ -1550,6 +1607,7 @@
       "parentOrganization": "株式会社東駿プランニング",
       "identifier": "1371606250",
       "_town": "池袋本町",
+      "_kind": "営利法人",
       "_tags": [
         "池袋本町エリア",
         "訪問介護"
@@ -1569,6 +1627,7 @@
       "parentOrganization": "ユースタイルラボラトリー株式会社",
       "identifier": "1371606268",
       "_town": "北大塚",
+      "_kind": "営利法人",
       "_tags": [
         "北大塚エリア",
         "訪問介護"
@@ -1588,6 +1647,7 @@
       "parentOrganization": "アースサポート株式会社",
       "identifier": "1371700392",
       "_town": "上池袋",
+      "_kind": "営利法人",
       "url": "http://www.earthsupport.co.jp",
       "_days": [
         "平日",

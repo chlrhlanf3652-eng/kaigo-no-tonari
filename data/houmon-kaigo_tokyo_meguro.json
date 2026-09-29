@@ -40,6 +40,7 @@
       "parentOrganization": "株式会社ケアメイト",
       "identifier": "1370500470",
       "_town": "鷹番",
+      "_kind": "営利法人",
       "url": "http://www.caremate.jp/office/目黒営業所/",
       "_days": [
         "平日",
@@ -67,6 +68,7 @@
       "parentOrganization": "目黒医療生活協同組合",
       "identifier": "1371000215",
       "_town": "目黒本町",
+      "_kind": "生協",
       "url": "http://www.yuiyuidori.net/meguro-coop/",
       "_days": [
         "平日",
@@ -92,6 +94,7 @@
       "parentOrganization": "株式会社ニチイ学館",
       "identifier": "1371000306",
       "_town": "自由が丘",
+      "_kind": "営利法人",
       "url": "http://www.nichiigakkan.co.jp",
       "_days": [
         "平日",
@@ -118,6 +121,7 @@
       "parentOrganization": "株式会社ニチイ学館",
       "identifier": "1371000363",
       "_town": "東山",
+      "_kind": "営利法人",
       "url": "http://www.nichiigakkan.co.jp",
       "_days": [
         "平日"
@@ -141,6 +145,7 @@
       "parentOrganization": "株式会社ナイスケア",
       "identifier": "1371000371",
       "_town": "大岡山",
+      "_kind": "営利法人",
       "url": "http://www.nice-care.co.jp",
       "_days": [
         "平日",
@@ -168,6 +173,7 @@
       "parentOrganization": "株式会社やさしい手",
       "identifier": "1371000843",
       "_town": "自由が丘",
+      "_kind": "営利法人",
       "url": "http://www.yasashiite.com/",
       "_days": [
         "平日",
@@ -195,6 +201,7 @@
       "parentOrganization": "有限会社ホクト物産",
       "identifier": "1371000892",
       "_town": "南",
+      "_kind": "営利法人",
       "url": "http://www.hokuto-care.com",
       "_days": [
         "平日",
@@ -222,6 +229,7 @@
       "parentOrganization": "アースサポート株式会社",
       "identifier": "1371000934",
       "_town": "下目黒",
+      "_kind": "営利法人",
       "url": "https://www.earthsupport.co.jp/",
       "_days": [
         "平日",
@@ -249,6 +257,7 @@
       "parentOrganization": "有限会社生羅",
       "identifier": "1371001122",
       "_town": "中央町",
+      "_kind": "営利法人",
       "url": "http://e-seira.jp/",
       "_days": [
         "平日",
@@ -276,6 +285,7 @@
       "parentOrganization": "有限会社映光メディカル",
       "identifier": "1371001205",
       "_town": "中央町",
+      "_kind": "営利法人",
       "url": "https://el-heart.com/",
       "_days": [
         "平日",
@@ -303,6 +313,7 @@
       "parentOrganization": "株式会社ソラスト",
       "identifier": "1371001338",
       "_town": "大岡山",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -329,6 +340,7 @@
       "parentOrganization": "有限会社しんあいケアセンター",
       "identifier": "1371001452",
       "_town": "上目黒",
+      "_kind": "営利法人",
       "url": "http://www.shin-i.co.jp",
       "_days": [
         "平日",
@@ -356,6 +368,7 @@
       "parentOrganization": "ベアタケア株式会社",
       "identifier": "1371001510",
       "_town": "平町",
+      "_kind": "営利法人",
       "url": "https://www.beata-care.com/",
       "_days": [
         "平日",
@@ -383,6 +396,7 @@
       "parentOrganization": "社会福祉法人愛隣会",
       "identifier": "1371002146",
       "_town": "大橋",
+      "_kind": "社会福祉法人（社協以外）",
       "url": "http://komabaen.org/",
       "_days": [
         "平日",
@@ -410,6 +424,7 @@
       "parentOrganization": "有限会社はぎ介護センター",
       "identifier": "1371002179",
       "_town": "目黒",
+      "_kind": "営利法人",
       "url": "https://www.hagikaigo-recruit.com/",
       "_days": [
         "平日",
@@ -437,6 +452,7 @@
       "parentOrganization": "株式会社ニチイ学館",
       "identifier": "1371002732",
       "_town": "八雲",
+      "_kind": "営利法人",
       "url": "http://www.nichiigakkan.co.jp",
       "_days": [
         "平日",
@@ -464,6 +480,7 @@
       "parentOrganization": "有限会社亜々夢",
       "identifier": "1371002823",
       "_town": "駒場",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -490,6 +507,7 @@
       "parentOrganization": "株式会社アニスケア",
       "identifier": "1371003029",
       "_town": "中町",
+      "_kind": "営利法人",
       "url": "http://hp.kaipoke.biz/3tc/info.html",
       "_days": [
         "平日",
@@ -517,6 +535,7 @@
       "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
       "identifier": "1371003060",
       "_town": "東山",
+      "_kind": "営利法人",
       "url": "https://www.careritz.co.jp/station/branch/meguro/",
       "_days": [
         "平日",
@@ -544,6 +563,7 @@
       "parentOrganization": "スターツケアサービス株式会社",
       "identifier": "1371003441",
       "_town": "鷹番",
+      "_kind": "営利法人",
       "url": "https://www.starts-care.jp/",
       "_days": [
         "平日",
@@ -571,6 +591,7 @@
       "parentOrganization": "株式会社やさしい手",
       "identifier": "1371003508",
       "_town": "碑文谷",
+      "_kind": "営利法人",
       "url": "http://www.yasashiite.com/subdomains/section/211/",
       "_days": [
         "平日",
@@ -598,6 +619,7 @@
       "parentOrganization": "株式会社トラスト・ホープ",
       "identifier": "1371003532",
       "_town": "原町",
+      "_kind": "営利法人",
       "url": "http://happiness-0401.com/",
       "_days": [
         "平日",
@@ -625,6 +647,7 @@
       "parentOrganization": "株式会社ベネッセスタイルケア",
       "identifier": "1371003664",
       "_town": "中央町",
+      "_kind": "営利法人",
       "url": "http://www.benesse-style-care.co.jp",
       "_days": [
         "平日",
@@ -652,6 +675,7 @@
       "parentOrganization": "ジーザス介護サービス合同会社",
       "identifier": "1371003771",
       "_town": "八雲",
+      "_kind": "営利法人",
       "url": "http://jesus-kaigo.com",
       "_days": [
         "平日"
@@ -675,6 +699,7 @@
       "parentOrganization": "株式会社キヨンクリエイティブ",
       "identifier": "1371004019",
       "_town": "目黒",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "祝日"
@@ -698,6 +723,7 @@
       "parentOrganization": "株式会社ＥＬＹ",
       "identifier": "1371004324",
       "_town": "鷹番",
+      "_kind": "営利法人",
       "url": "https://www.yell-welfare.com/",
       "_days": [
         "平日",
@@ -725,6 +751,7 @@
       "parentOrganization": "ぽかぽかあったかパートナー合同会社",
       "identifier": "1371004605",
       "_town": "目黒",
+      "_kind": "営利法人",
       "url": "http://www.ppap55.com",
       "_days": [
         "平日",
@@ -752,6 +779,7 @@
       "parentOrganization": "株式会社サンライフ",
       "identifier": "1371004654",
       "_town": "目黒",
+      "_kind": "営利法人",
       "url": "https://www.sunlife1930.org/",
       "_days": [
         "平日",
@@ -779,6 +807,7 @@
       "parentOrganization": "アリー合同会社",
       "identifier": "1371004753",
       "_town": "平町",
+      "_kind": "営利法人",
       "url": "https://www.allyhelper.com/",
       "_tags": [
         "平町エリア",
@@ -799,6 +828,7 @@
       "parentOrganization": "ＳＯＭＰＯケア株式会社",
       "identifier": "1371004787",
       "_town": "自由が丘",
+      "_kind": "営利法人",
       "url": "https://www.sompocare.com",
       "_days": [
         "平日",
@@ -826,6 +856,7 @@
       "parentOrganization": "ユースタイルラボラトリー株式会社",
       "identifier": "1371004878",
       "_town": "下目黒",
+      "_kind": "営利法人",
       "url": "https://eustylelab.co.jp/",
       "_days": [
         "平日",
@@ -853,6 +884,7 @@
       "parentOrganization": "株式会社ケア２１",
       "identifier": "1371004969",
       "_town": "鷹番",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -879,6 +911,7 @@
       "parentOrganization": "株式会社コンブリオ",
       "identifier": "1371004977",
       "_town": "中央町",
+      "_kind": "営利法人",
       "url": "http://vivo.con-brio.co.jp",
       "_days": [
         "平日",
@@ -906,6 +939,7 @@
       "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
       "identifier": "1371004985",
       "_town": "中根",
+      "_kind": "営利法人",
       "url": "https://www.careritz.co.jp/station/branch/toritsudaigaku/",
       "_days": [
         "平日",
@@ -933,6 +967,7 @@
       "parentOrganization": "株式会社ライフクリエーション",
       "identifier": "1371005016",
       "_town": "東が丘",
+      "_kind": "営利法人",
       "url": "http://life-creation.info",
       "_days": [
         "平日",
@@ -959,6 +994,7 @@
       "parentOrganization": "株式会社すまいるナーシング",
       "identifier": "1371005024",
       "_town": "八雲",
+      "_kind": "営利法人",
       "url": "https://smilage.jp/",
       "_days": [
         "平日",
@@ -984,6 +1020,7 @@
       "parentOrganization": "一般社団法人ＧＩＶＥＲ",
       "identifier": "1371005099",
       "_town": "碑文谷",
+      "_kind": "社団・財団",
       "_days": [
         "平日"
       ],
@@ -1006,6 +1043,7 @@
       "parentOrganization": "合同会社ウィズ",
       "identifier": "1371005115",
       "_town": "中目黒",
+      "_kind": "営利法人",
       "_days": [
         "平日"
       ],
@@ -1028,6 +1066,7 @@
       "parentOrganization": "一般社団法人ＨＡＨＡ",
       "identifier": "1371005164",
       "_town": "緑が丘",
+      "_kind": "社団・財団",
       "url": "https://haha.or.jp/",
       "_days": [
         "平日"
@@ -1051,6 +1090,7 @@
       "parentOrganization": "株式会社Ｇｒａｃｅ",
       "identifier": "1371005230",
       "_town": "中目黒",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -1077,6 +1117,7 @@
       "parentOrganization": "株式会社Ａｏｕｎ",
       "identifier": "1371005289",
       "_town": "自由が丘",
+      "_kind": "営利法人",
       "_tags": [
         "自由が丘エリア",
         "訪問介護"
@@ -1096,6 +1137,7 @@
       "parentOrganization": "一般社団法人タグボート",
       "identifier": "1371005305",
       "_town": "東山",
+      "_kind": "社団・財団",
       "url": "https://tugboat1213.com",
       "_days": [
         "平日",
@@ -1123,6 +1165,7 @@
       "parentOrganization": "株式会社ＹＡＳＵＤＡ",
       "identifier": "1371005362",
       "_town": "上目黒",
+      "_kind": "営利法人",
       "url": "https://www.ybctokyo.com/",
       "_days": [
         "平日",
@@ -1147,6 +1190,7 @@
       "parentOrganization": "株式会社ライフクリエーション",
       "identifier": "1371005396",
       "_town": "上目黒",
+      "_kind": "営利法人",
       "url": "http://life-creation.info",
       "_days": [
         "平日",
@@ -1173,6 +1217,7 @@
       "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
       "identifier": "1371005446",
       "_town": "自由が丘",
+      "_kind": "営利法人",
       "url": "https://www.careritz.co.jp/station/branch/jiyugaoka/",
       "_days": [
         "平日",
@@ -1200,6 +1245,7 @@
       "parentOrganization": "株式会社エイジオ",
       "identifier": "1371005511",
       "_town": "下目黒",
+      "_kind": "営利法人",
       "url": "https://azio.jp",
       "_days": [
         "平日",
@@ -1227,6 +1273,7 @@
       "parentOrganization": "株式会社クーラ",
       "identifier": "1371005537",
       "_town": "目黒",
+      "_kind": "営利法人",
       "url": "https://www.iroha-cura.info",
       "_days": [
         "平日",
@@ -1254,6 +1301,7 @@
       "parentOrganization": "合同会社ｏｆｆｉｃｅｃｒａｆｔ",
       "identifier": "1371005552",
       "_town": "東山",
+      "_kind": "営利法人",
       "url": "https://www.heartstation-2023.com",
       "_days": [
         "平日",
@@ -1281,6 +1329,7 @@
       "parentOrganization": "株式会社ケアリード",
       "identifier": "1371005586",
       "_town": "八雲",
+      "_kind": "営利法人",
       "_tags": [
         "八雲エリア",
         "訪問介護"
@@ -1300,6 +1349,7 @@
       "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
       "identifier": "1371005594",
       "_town": "鷹番",
+      "_kind": "営利法人",
       "_tags": [
         "鷹番エリア",
         "訪問介護"
@@ -1319,6 +1369,7 @@
       "parentOrganization": "ＡＬＳＯＫ介護株式会社",
       "identifier": "1371101450",
       "_town": "平町",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -1345,6 +1396,7 @@
       "parentOrganization": "株式会社ヒューマン・ケア",
       "identifier": "1371209758",
       "_town": "緑が丘",
+      "_kind": "営利法人",
       "_days": [
         "平日"
       ],

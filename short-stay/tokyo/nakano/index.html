@@ -484,65 +484,76 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 
     <h2 id="s2">中野区のショートステイ一覧</h2>
         <p class="cnt">中野区内の短期入所生活介護事業所から12件を掲載しています（東京都公表・2026年9月1日時点）。区内には12件が指定を受けており、そのすべてを掲載しています。「特養の空床利用」「単独型」などの表示は東京都の一覧の事業所種別名です。空き状況は日々変わるため、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。</p>
-    <div class="card">
+    <div id="flt-top"></div>
+    <div class="flt" id="flt" hidden>
+      <div class="flt-row">
+        <select data-f="town" aria-label="場所で絞り込む"><option value="">場所</option><option value="江古田">江古田（5）</option><option value="弥生町">弥生町（3）</option><option value="上鷺宮">上鷺宮（1）</option><option value="中央">中央（1）</option><option value="東中野">東中野（1）</option><option value="白鷺">白鷺（1）</option></select>
+        <select data-f="fk" aria-label="型で絞り込む"><option value="">型</option><option value="特養の併設事業所型">特養の併設事業所型（10）</option><option value="特養の空床利用型">特養の空床利用型（2）</option></select>
+      </div>
+      <p class="flt-n" aria-live="polite"><span><b id="flt-n">12</b> / 12件を表示</span><button type="button" id="flt-reset" hidden>条件をクリア</button></p>
+    </div>
+    <div class="bizlist">
+    <div class="card" data-town="江古田" data-fk="特養の空床利用型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">1</span>中野友愛ホーム</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 江古田2-24-11</dd><dt>運営法人</dt><dd>社会福祉法人武蔵野療園</dd><dt>電話</dt><dd><a class="tel" href="tel:0333895515">03-3389-5515</a></dd><dt>事業所番号</dt><dd class="id">1371400282</dd></dl>
       <div class="tags"><span class="tag">江古田エリア</span><span class="tag">特養の空床利用</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上鷺宮" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">2</span>中野区かみさぎ特別養護老人ホーム</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 上鷺宮３－１７－４</dd><dt>運営法人</dt><dd>社会福祉法人武蔵野療園</dd><dt>電話</dt><dd><a class="tel" href="tel:0339268443">03-3926-8443</a></dd><dt>事業所番号</dt><dd class="id">1371400290</dd><dt>公式サイト</dt><dd><a class="ext" href="https://kamisagi.studio.site/" target="_blank" rel="noopener">kamisagi.studio.site<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">上鷺宮エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="江古田" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">3</span>ベタニアホーム</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 江古田３－１５－２</dd><dt>運営法人</dt><dd>社会福祉法人慈生会</dd><dt>電話</dt><dd><a class="tel" href="tel:0333873388">03-3387-3388</a></dd><dt>定員</dt><dd>8</dd><dt>事業所番号</dt><dd class="id">1371400308</dd></dl>
       <div class="tags"><span class="tag">江古田エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="江古田" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">4</span>浄風園</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 江古田四丁目１９番９号</dd><dt>運営法人</dt><dd>社会福祉法人浄風園</dd><dt>電話</dt><dd><a class="tel" href="tel:0333863751">03-3386-3751</a></dd><dt>事業所番号</dt><dd class="id">1371400316</dd><dt>公式サイト</dt><dd><a class="ext" href="http://johu-en.server-shared.com" target="_blank" rel="noopener">johu-en.server-shared.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">江古田エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="弥生町" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">5</span>老人短期入所施設　弥生ホーム</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 弥生町２－４２－２</dd><dt>運営法人</dt><dd>社会福祉法人ケアネット</dd><dt>電話</dt><dd><a class="tel" href="tel:0353420820">03-5342-0820</a></dd><dt>定員</dt><dd>5</dd><dt>事業所番号</dt><dd class="id">1371401231</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.yayoi-home.com" target="_blank" rel="noopener">yayoi-home.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">弥生町エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="白鷺" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">6</span>特別養護老人ホーム　しらさぎホーム</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 白鷺二丁目５１番５号</dd><dt>運営法人</dt><dd>社会福祉法人中野区福祉サービス事業団</dd><dt>電話</dt><dd><a class="tel" href="tel:0333366511">03-3336-6511</a></dd><dt>定員</dt><dd>9</dd><dt>事業所番号</dt><dd class="id">1371401546</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.nakano-fj.jp/" target="_blank" rel="noopener">nakano-fj.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">白鷺エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中央" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">7</span>特別養護老人ホーム　小淀ホーム</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 中央１－１８－３</dd><dt>運営法人</dt><dd>社会福祉法人中野区福祉サービス事業団</dd><dt>電話</dt><dd><a class="tel" href="tel:0333666511">03-3366-6511</a></dd><dt>定員</dt><dd>4</dd><dt>事業所番号</dt><dd class="id">1371401561</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.nakano-fj.jp" target="_blank" rel="noopener">nakano-fj.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">中央エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="江古田" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">8</span>短期入所生活介護事業所　江古田の森</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 江古田３－１４－１９</dd><dt>運営法人</dt><dd>社会福祉法人南東北福祉事業団</dd><dt>電話</dt><dd><a class="tel" href="tel:0353183711">03-5318-3711</a></dd><dt>事業所番号</dt><dd class="id">1371402841</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.kaigo-egota.com/" target="_blank" rel="noopener">kaigo-egota.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">江古田エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東中野" data-fk="特養の空床利用型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">9</span>老人短期入所施設　おたきほうむ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 東中野５－１７－３０</dd><dt>運営法人</dt><dd>社会福祉法人ケアネット</dd><dt>電話</dt><dd><a class="tel" href="tel:0359372160">03-5937-2160</a></dd><dt>事業所番号</dt><dd class="id">1371404243</dd><dt>公式サイト</dt><dd><a class="ext" href="http://care-net.biz/13/carenet/" target="_blank" rel="noopener">care-net.biz<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東中野エリア</span><span class="tag">特養の空床利用</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="弥生町" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">10</span>特別養護老人ホーム　中野すみれ園</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 弥生町６－７－１６</dd><dt>運営法人</dt><dd>社会福祉法人すみれ福祉会</dd><dt>電話</dt><dd><a class="tel" href="tel:0363826511">03-6382-6511</a></dd><dt>定員</dt><dd>12</dd><dt>事業所番号</dt><dd class="id">1371405836</dd><dt>公式サイト</dt><dd><a class="ext" href="https://nakano-sumire.jp/" target="_blank" rel="noopener">nakano-sumire.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">弥生町エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="江古田" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">11</span>東京令和館　中野</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 江古田４－４３－５</dd><dt>運営法人</dt><dd>社会福祉法人東京武尊会</dd><dt>電話</dt><dd><a class="tel" href="tel:0333868038">03-3386-8038</a></dd><dt>事業所番号</dt><dd class="id">1371405976</dd><dt>公式サイト</dt><dd><a class="ext" href="http://tokyo-busonkai.or.jp/" target="_blank" rel="noopener">tokyo-busonkai.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">江古田エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="弥生町" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">12</span>ショートステイひなぎくの丘</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 弥生町５－１１－１５</dd><dt>運営法人</dt><dd>社会福祉法人武蔵野療園</dd><dt>電話</dt><dd><a class="tel" href="tel:0333811711">03-3381-1711</a></dd><dt>定員</dt><dd>68</dd><dt>事業所番号</dt><dd class="id">1371509165</dd><dt>公式サイト</dt><dd><a class="ext" href="http://hinagikuno-oka.org" target="_blank" rel="noopener">hinagikuno-oka.org<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">弥生町エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
+    </div>
+    <p class="flt-empty" id="flt-empty" hidden>条件に合う事業所はありません。条件を1つ外してみてください。</p>
     </div>
     <div class="warn"><strong>掲載情報についてのお願い</strong><br>上記12件は、2026-09-22に中野区および各事業者の公表情報で確認した内容です。営業時間・対応エリア・空き状況は変動しますので、連絡の前に必ず公式情報をご確認ください。掲載内容の訂正・削除は、<a href="../../../contact/">お問い合わせ</a>からご依頼いただければ<strong>理由の説明なしで削除します</strong>。</div>
 
@@ -876,5 +887,6 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 })();
 </script>
 <script src="../../../assets/measure.js" defer></script>
+<script src="../../../assets/filter.js" defer></script>
 </body>
 </html>

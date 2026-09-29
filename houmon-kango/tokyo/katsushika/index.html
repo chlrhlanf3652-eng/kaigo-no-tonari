@@ -1532,305 +1532,319 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 
     <h2 id="s2">葛飾区の訪問看護ステーション一覧</h2>
         <p class="cnt">葛飾区内の訪問看護ステーションから60件を掲載しています（東京都公表・2026年9月1日時点）。区内には66件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。掲載順は事業所の優劣を示すものではありません。</p>
-    <div class="card">
+    <div id="flt-top"></div>
+    <div class="flt" id="flt" hidden>
+      <div class="flt-row">
+        <select data-f="town" aria-label="場所で絞り込む"><option value="">場所</option><option value="青戸">青戸（9）</option><option value="亀有">亀有（5）</option><option value="堀切">堀切（4）</option><option value="柴又">柴又（4）</option><option value="西新小岩">西新小岩（4）</option><option value="金町">金町（4）</option><option value="高砂">高砂（4）</option><option value="お花茶屋">お花茶屋（3）</option><option value="東新小岩">東新小岩（3）</option><option value="東金町">東金町（3）</option><option value="白鳥">白鳥（3）</option><option value="立石">立石（3）</option><option value="新宿">新宿（2）</option><option value="細田">細田（2）</option><option value="南水元">南水元（1）</option><option value="四つ木">四つ木（1）</option><option value="小菅">小菅（1）</option><option value="新小岩">新小岩（1）</option><option value="東堀切">東堀切（1）</option><option value="東水元">東水元（1）</option><option value="水元">水元（1）</option></select>
+        <select data-f="day" aria-label="曜日で絞り込む"><option value="">曜日</option><option value="sat">土曜も対応（24）</option><option value="sun">日曜も対応（9）</option></select>
+        <select data-f="kind" aria-label="法人で絞り込む"><option value="">法人</option><option value="営利法人">営利法人（46）</option><option value="医療法人">医療法人（11）</option><option value="生協">生協（1）</option><option value="社会福祉法人（社協以外）">社会福祉法人（社協以外）（1）</option><option value="社団・財団">社団・財団（1）</option></select>
+      </div>
+      <p class="flt-n" aria-live="polite"><span><b id="flt-n">60</b> / 60件を表示</span><button type="button" id="flt-reset" hidden>条件をクリア</button></p>
+    </div>
+      <p class="flt-note">「場所」は事務所の所在地です。訪問サービスは近くの町からも来てもらえます。</p>
+      <p class="flt-note" id="flt-daynote" hidden>提供曜日の記載がない11件は、曜日で絞ると表示されません。</p>
+    <div class="bizlist">
+    <div class="card" data-town="東新小岩" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">1</span>東京華仁訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 東新小岩１－９－８太田ビル１０１号室</dd><dt>運営法人</dt><dd>東京癒心健康研究所合同会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0343613228">03-4361-3228</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361790387</dd><dt>公式サイト</dt><dd><a class="ext" href="https://kajinkango.com/" target="_blank" rel="noopener">kajinkango.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東新小岩エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="柴又" data-kind="営利法人">
       <h3><span class="no">2</span>株式会社フローレンス・Ｎ訪問看護事業所フローレンス柴又</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 柴又５－８－１３コンフォートフォレスタ新柴又１階</dd><dt>運営法人</dt><dd>株式会社フローレンス・Ｎ</dd><dt>電話</dt><dd><a class="tel" href="tel:0359038256">03-5903-8256</a></dd><dt>事業所番号</dt><dd class="id">1362090571</dd></dl>
       <div class="tags"><span class="tag">柴又エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東堀切" data-kind="営利法人">
       <h3><span class="no">3</span>ベル東堀切訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 東堀切１－１９－４</dd><dt>運営法人</dt><dd>有限会社ベル</dd><dt>電話</dt><dd><a class="tel" href="tel:0336022595">03-3602-2595</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1362290015</dd><dt>公式サイト</dt><dd><a class="ext" href="https://bell-care.jp/" target="_blank" rel="noopener">bell-care.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東堀切エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東金町" data-kind="営利法人">
       <h3><span class="no">4</span>株式会社ウッディ　訪問看護ステーション　はーと</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 東金町１－３８－６宇羽野ビル４階</dd><dt>運営法人</dt><dd>株式会社ウッディ</dd><dt>電話</dt><dd><a class="tel" href="tel:0358769601">03-5876-9601</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1362290049</dd><dt>公式サイト</dt><dd><a class="ext" href="http://houmonkanngo-heart.com/" target="_blank" rel="noopener">houmonkanngo-heart.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東金町エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="立石" data-day="sat" data-kind="営利法人">
       <h3><span class="no">5</span>訪問看護ステーション　オアシス</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 立石６－３３－８－１０１</dd><dt>運営法人</dt><dd>株式会社Ｔ＆Ｉ</dd><dt>電話</dt><dd><a class="tel" href="tel:0356722393">03-5672-2393</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1362290064</dd><dt>公式サイト</dt><dd><a class="ext" href="https://oasis-katsushika.com/" target="_blank" rel="noopener">oasis-katsushika.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">立石エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="立石" data-day="sat" data-kind="医療法人">
       <h3><span class="no">6</span>立石訪問看護ステーションペンギン</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 立石５－９－２６ケアガーデンＩＳＨＩＤＡ　１階</dd><dt>運営法人</dt><dd>社会医療法人社団正志会</dd><dt>電話</dt><dd><a class="tel" href="tel:0366577891">03-6657-7891</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1362290080</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.heisei-tateishi.net/visitor/community.html#penguin" target="_blank" rel="noopener">heisei-tateishi.net<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">立石エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="新小岩" data-kind="営利法人">
       <h3><span class="no">7</span>訪問看護ステーション　デューン葛飾</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 新小岩１－５１－１３新小岩大栄ビル６階</dd><dt>運営法人</dt><dd>株式会社Ｎ・フィールド</dd><dt>電話</dt><dd><a class="tel" href="tel:0358796029">03-5879-6029</a></dd><dt>事業所番号</dt><dd class="id">1362290098</dd></dl>
       <div class="tags"><span class="tag">新小岩エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="青戸" data-kind="営利法人">
       <h3><span class="no">8</span>株式会社　メディハート　訪問看護ステーション　みどり</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 青戸５－１４－８ファミーユ小池３０１</dd><dt>運営法人</dt><dd>株式会社メディハート</dd><dt>電話</dt><dd><a class="tel" href="tel:0368083223">03-6808-3223</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1362290106</dd></dl>
       <div class="tags"><span class="tag">青戸エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="青戸" data-kind="医療法人">
       <h3><span class="no">9</span>しおん訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 青戸５－３０－１５</dd><dt>運営法人</dt><dd>医療法人社団埼玉双泉会</dd><dt>電話</dt><dd><a class="tel" href="tel:0356294550">03-5629-4550</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1362290130</dd><dt>公式サイト</dt><dd><a class="ext" href="https://shion-houkan.jp" target="_blank" rel="noopener">shion-houkan.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">青戸エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="堀切" data-day="sat" data-kind="医療法人">
       <h3><span class="no">10</span>医療法人社団明芳会　葛飾ロイヤル訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 堀切２－６６－１７</dd><dt>運営法人</dt><dd>医療法人社団明芳会</dd><dt>電話</dt><dd><a class="tel" href="tel:0356712363">03-5671-2363</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1362290148</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.ims.gr.jp/reha-tokyo-katsushika/station/index.html" target="_blank" rel="noopener">ims.gr.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">堀切エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="細田" data-kind="医療法人">
       <h3><span class="no">11</span>医療法人社団ＭＸＰＧレッツ訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 細田４－１８－３エクセルハイム細田１０３</dd><dt>運営法人</dt><dd>医療法人社団ＭＸＰＧ</dd><dt>電話</dt><dd><a class="tel" href="tel:0356227011">03-5622-7011</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1362290189</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.mxpg.jp" target="_blank" rel="noopener">mxpg.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">細田エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="新宿" data-kind="営利法人">
       <h3><span class="no">12</span>あしたも笑顔訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 新宿５－７－２０リバーサイド新宿１Ｆ</dd><dt>運営法人</dt><dd>シンビオシス株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0358769954">03-5876-9954</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1362290221</dd><dt>公式サイト</dt><dd><a class="ext" href="http://asitaegaokango.com/" target="_blank" rel="noopener">asitaegaokango.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">新宿エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東新小岩" data-kind="営利法人">
       <h3><span class="no">13</span>新小岩訪問看護ステーションほほえみ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 東新小岩８－８－１１</dd><dt>運営法人</dt><dd>株式会社ソラスト</dd><dt>電話</dt><dd><a class="tel" href="tel:0356706662">03-5670-6662</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1362290247</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.solasto.co.jp/" target="_blank" rel="noopener">solasto.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東新小岩エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西新小岩" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">14</span>むつみ訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 西新小岩３－１５－１０</dd><dt>運営法人</dt><dd>株式会社総和</dd><dt>電話</dt><dd><a class="tel" href="tel:0336922565">03-3692-2565</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1362290254</dd><dt>公式サイト</dt><dd><a class="ext" href="http://mutsumi-houkan.net" target="_blank" rel="noopener">mutsumi-houkan.net<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西新小岩エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="高砂" data-day="sat" data-kind="営利法人">
       <h3><span class="no">15</span>セントケア訪問看護ステーション葛飾</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 高砂５－１０－５シルバーハイツ高砂１Ｆ</dd><dt>運営法人</dt><dd>セントケア東京株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0338265058">03-3826-5058</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1362290262</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.saint-care.com/tokyo/about/" target="_blank" rel="noopener">saint-care.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">高砂エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="お花茶屋" data-kind="営利法人">
       <h3><span class="no">16</span>訪問看護ステーション　デューンお花茶屋</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 お花茶屋１－１５－６Ｍａｘｉｍａｓ　Ⅱ　１０１号室</dd><dt>運営法人</dt><dd>株式会社Ｎ・フィールド</dd><dt>電話</dt><dd><a class="tel" href="tel:0366626925">03-6662-6925</a></dd><dt>事業所番号</dt><dd class="id">1362290304</dd></dl>
       <div class="tags"><span class="tag">お花茶屋エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="亀有" data-day="sat" data-kind="営利法人">
       <h3><span class="no">17</span>訪問看護ステーション　デライト葛飾</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 亀有１－２２－１７</dd><dt>運営法人</dt><dd>株式会社Ｈ＆Ｈホールディングス</dd><dt>電話</dt><dd><a class="tel" href="tel:0356299030">03-5629-9030</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1362290312</dd><dt>公式サイト</dt><dd><a class="ext" href="https://hokan-delight.jp/" target="_blank" rel="noopener">hokan-delight.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">亀有エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="お花茶屋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">18</span>ウィズ・ユー葛飾　訪問看護</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 お花茶屋１－２０－５</dd><dt>運営法人</dt><dd>株式会社春</dd><dt>電話</dt><dd><a class="tel" href="tel:0366626962">03-6662-6962</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1362290320</dd><dt>公式サイト</dt><dd><a class="ext" href="http://halmed.jp/" target="_blank" rel="noopener">halmed.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">お花茶屋エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="高砂" data-kind="営利法人">
       <h3><span class="no">19</span>ルミナスの和訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 高砂８－１２－４マンション戸部１０２号室</dd><dt>運営法人</dt><dd>株式会社ホリスティックメディカル</dd><dt>電話</dt><dd><a class="tel" href="tel:0358765773">03-5876-5773</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1362290346</dd><dt>公式サイト</dt><dd><a class="ext" href="https://luminousnowa.com/" target="_blank" rel="noopener">luminousnowa.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">高砂エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="亀有" data-kind="医療法人">
       <h3><span class="no">20</span>医療法人財団謙仁会　亀有病院訪問看護ステーションペンギン</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 亀有３－３６－３</dd><dt>運営法人</dt><dd>医療法人財団謙仁会</dd><dt>電話</dt><dd><a class="tel" href="tel:0366629820">03-6662-9820</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1362290353</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.kameari-hp.com/" target="_blank" rel="noopener">kameari-hp.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">亀有エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南水元" data-kind="営利法人">
       <h3><span class="no">21</span>訪問看護ステーション　ここ未来</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 南水元２－２９－１１ラ・フォンテーヌ１０２</dd><dt>運営法人</dt><dd>株式会社読売ニュースサービス</dd><dt>電話</dt><dd><a class="tel" href="tel:0358766616">03-5876-6616</a></dd><dt>サービス提供日</dt><dd>平日・祝日</dd><dt>事業所番号</dt><dd class="id">1362290379</dd><dt>公式サイト</dt><dd><a class="ext" href="https://cocomirai.studio.site/" target="_blank" rel="noopener">cocomirai.studio.site<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">南水元エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="金町" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">22</span>訪問リハ看護ステーション　立夏</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 金町５－１４－４豊栄ビル２０１</dd><dt>運営法人</dt><dd>合同会社立夏</dd><dt>電話</dt><dd><a class="tel" href="tel:0356482505">03-5648-2505</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1362290403</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.licca.support" target="_blank" rel="noopener">licca.support<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">金町エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="金町" data-day="sat" data-kind="医療法人">
       <h3><span class="no">23</span>かなちゅう訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 金町１－９－７星野マンション４０１号室</dd><dt>運営法人</dt><dd>医療法人社団玲瓏会</dd><dt>電話</dt><dd><a class="tel" href="tel:0358766278">03-5876-6278</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1362290411</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.reiroukai.or.jp/visiting-nursing/" target="_blank" rel="noopener">reiroukai.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">金町エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西新小岩" data-kind="営利法人">
       <h3><span class="no">24</span>訪問看護ステーション　コルディアーレ新小岩</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 西新小岩４－４２－１２イソマビル５階</dd><dt>運営法人</dt><dd>株式会社ＪＳＨ</dd><dt>電話</dt><dd><a class="tel" href="tel:0366577494">03-6657-7494</a></dd><dt>事業所番号</dt><dd class="id">1362290437</dd></dl>
       <div class="tags"><span class="tag">西新小岩エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="柴又" data-kind="営利法人">
       <h3><span class="no">25</span>訪問看護リハビリステーションほのぼの</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 柴又３－４－１４</dd><dt>運営法人</dt><dd>株式会社ほのぼの</dd><dt>電話</dt><dd><a class="tel" href="tel:0356483077">03-5648-3077</a></dd><dt>サービス提供日</dt><dd>平日・祝日</dd><dt>事業所番号</dt><dd class="id">1362290445</dd></dl>
       <div class="tags"><span class="tag">柴又エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="青戸" data-kind="営利法人">
       <h3><span class="no">26</span>ＳＯＭＰＯケア　葛飾　訪問看護</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 青戸３－３３－１４サンプラザビル５階</dd><dt>運営法人</dt><dd>ＳＯＭＰＯケア株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0362407035">03-6240-7035</a></dd><dt>サービス提供日</dt><dd>平日・祝日</dd><dt>事業所番号</dt><dd class="id">1362290452</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.sompocare.com/service/zaitaku/kango/Z000814" target="_blank" rel="noopener">sompocare.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">青戸エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="柴又" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">27</span>ニチイライフケア柴又ナースステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 柴又７－１３－８</dd><dt>運営法人</dt><dd>株式会社ニチイケアパレス</dd><dt>電話</dt><dd><a class="tel" href="tel:0368069437">03-6806-9437</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1362290460</dd></dl>
       <div class="tags"><span class="tag">柴又エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="白鳥" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">28</span>ウェルフォース訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 白鳥２－１０－７</dd><dt>運営法人</dt><dd>株式会社ウェルフォース</dd><dt>電話</dt><dd><a class="tel" href="tel:0366625208">03-6662-5208</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1362290486</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.elsol-group.jp" target="_blank" rel="noopener">elsol-group.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">白鳥エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="お花茶屋" data-kind="営利法人">
       <h3><span class="no">29</span>訪問看護ステーションかえで</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 お花茶屋２－１７－８</dd><dt>運営法人</dt><dd>株式会社サイマム</dd><dt>電話</dt><dd><a class="tel" href="tel:0368231442">03-6823-1442</a></dd><dt>事業所番号</dt><dd class="id">1362290502</dd></dl>
       <div class="tags"><span class="tag">お花茶屋エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="金町" data-kind="営利法人">
       <h3><span class="no">30</span>訪問看護ステーション　コルディアーレ葛飾</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 金町１－１９－３日立金町ビル５階</dd><dt>運営法人</dt><dd>株式会社ＪＳＨ</dd><dt>電話</dt><dd><a class="tel" href="tel:0358766296">03-5876-6296</a></dd><dt>事業所番号</dt><dd class="id">1362290528</dd></dl>
       <div class="tags"><span class="tag">金町エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="金町" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">31</span>訪問看護ステーション　はな　金町</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 金町５－２４－１８グランフレア金町１Ｆ</dd><dt>運営法人</dt><dd>株式会社はな</dd><dt>電話</dt><dd><a class="tel" href="tel:0368226707">03-6822-6707</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1362290544</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.hana-kango.com/" target="_blank" rel="noopener">hana-kango.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">金町エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="白鳥" data-day="sat" data-kind="営利法人">
       <h3><span class="no">32</span>訪問看護ステーション人薬</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 白鳥４－１７－１６カーサ白鳥１０２号室</dd><dt>運営法人</dt><dd>株式会社ＮＥＸＵＳ</dd><dt>電話</dt><dd><a class="tel" href="tel:0362407896">03-6240-7896</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1362290569</dd><dt>公式サイト</dt><dd><a class="ext" href="http://kango-hitogusuri.com" target="_blank" rel="noopener">kango-hitogusuri.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">白鳥エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="青戸" data-day="sat" data-kind="営利法人">
       <h3><span class="no">33</span>さくらんぼ訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 青戸７－５－７ハイムアルベール１０１</dd><dt>運営法人</dt><dd>株式会社彩心</dd><dt>電話</dt><dd><a class="tel" href="tel:0336023301">03-3602-3301</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1362290577</dd><dt>公式サイト</dt><dd><a class="ext" href="http://sakuranbo24.com" target="_blank" rel="noopener">sakuranbo24.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">青戸エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="青戸" data-kind="営利法人">
       <h3><span class="no">34</span>訪問看護ステーション藤の花</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 青戸６－１－１５万平ハイツ１０１</dd><dt>運営法人</dt><dd>株式会社ｓｈｉｐ</dd><dt>電話</dt><dd><a class="tel" href="tel:0366624083">03-6662-4083</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1362290585</dd><dt>公式サイト</dt><dd><a class="ext" href="https://fujihanast.wixsite.com/fujihana-site" target="_blank" rel="noopener">fujihanast.wixsite.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">青戸エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="青戸" data-kind="営利法人">
       <h3><span class="no">35</span>ゆい訪問看護リハビリステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 青戸２－１２－１スカイコート石川１０１号</dd><dt>運営法人</dt><dd>株式会社インペックス</dd><dt>電話</dt><dd><a class="tel" href="tel:0366625137">03-6662-5137</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1362290593</dd><dt>公式サイト</dt><dd><a class="ext" href="https://impex.tokyo/yui-horikiri/" target="_blank" rel="noopener">impex.tokyo<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">青戸エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西新小岩" data-kind="営利法人">
       <h3><span class="no">36</span>デイズ訪問看護リハビリステーション新小岩</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 西新小岩４－３９－２８</dd><dt>運営法人</dt><dd>Ｄａｙｓｒｉｇｈｔｃａｒｅ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0358756144">03-5875-6144</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1362290619</dd><dt>公式サイト</dt><dd><a class="ext" href="https://days-right-care.com/" target="_blank" rel="noopener">days-right-care.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西新小岩エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="四つ木" data-day="sat" data-kind="営利法人">
       <h3><span class="no">37</span>よつぎ訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 四つ木４－３０－３０</dd><dt>運営法人</dt><dd>界立産業株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0366628517">03-6662-8517</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1362290627</dd><dt>公式サイト</dt><dd><a class="ext" href="http://hp.kaipoke.biz/vwz/" target="_blank" rel="noopener">hp.kaipoke.biz<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">四つ木エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="堀切" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">38</span>ギフト訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 堀切４－１２－７コーポ堀切１０２</dd><dt>運営法人</dt><dd>株式会社ギフト</dd><dt>電話</dt><dd><a class="tel" href="tel:0356702100">03-5670-2100</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1362290635</dd><dt>公式サイト</dt><dd><a class="ext" href="http://katsushika-gifthokan.com" target="_blank" rel="noopener">katsushika-gifthokan.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">堀切エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東水元" data-kind="営利法人">
       <h3><span class="no">39</span>訪問看護ステーションおにぎり</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 東水元５－１１－８　２階</dd><dt>運営法人</dt><dd>ウコウコヤオ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0358763061">03-5876-3061</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1362290643</dd></dl>
       <div class="tags"><span class="tag">東水元エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="柴又" data-kind="営利法人">
       <h3><span class="no">40</span>訪問看護ステーション　向日葵</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 柴又５－３２－１３オレンジタビー３０５</dd><dt>運営法人</dt><dd>株式会社ＮＥＸＴＩｎｎｏｖａｔｉｏｎ</dd><dt>電話</dt><dd><a class="tel" href="tel:0366579105">03-6657-9105</a></dd><dt>事業所番号</dt><dd class="id">1362290650</dd></dl>
       <div class="tags"><span class="tag">柴又エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="堀切" data-kind="営利法人">
       <h3><span class="no">41</span>Ｆａｍｉｌｙ　Ｎｕｒｓｅ葛飾</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 堀切２－４－５ＣＯＲＳＡ堀切３０２号</dd><dt>運営法人</dt><dd>ＳｋｙｅＮｕｒｓｉｎｇ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:05088854615">05088854615</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1362290676</dd><dt>公式サイト</dt><dd><a class="ext" href="https://familynurse-fc.jp/katsushika/" target="_blank" rel="noopener">familynurse-fc.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">堀切エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="亀有" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">42</span>在宅療養支援ステーション　楓の友かつしか</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 亀有１－１５－２３間医療モール３Ｆ</dd><dt>運営法人</dt><dd>株式会社ＩＳＩＴＥＮ</dd><dt>電話</dt><dd><a class="tel" href="tel:0368216621">03-6821-6621</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1362290684</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.kaedenotomo.com/" target="_blank" rel="noopener">kaedenotomo.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">亀有エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東金町" data-kind="営利法人">
       <h3><span class="no">43</span>えんじゅ訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 東金町２－２６－３エスペラントハイツⅠ　１０１号室</dd><dt>運営法人</dt><dd>株式会社えんじゅ</dd><dt>電話</dt><dd><a class="tel" href="tel:0358769162">03-5876-9162</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1362290692</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.halloenjyu.com/" target="_blank" rel="noopener">halloenjyu.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東金町エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="青戸" data-day="sat" data-kind="営利法人">
       <h3><span class="no">44</span>サクラボ訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 青戸６－３－３シャムロック２０４号室</dd><dt>運営法人</dt><dd>Ｅ＆Ｎ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0366626025">03-6662-6025</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1362290700</dd><dt>公式サイト</dt><dd><a class="ext" href="https://sakulabo-houkan.com/" target="_blank" rel="noopener">sakulabo-houkan.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">青戸エリア</span><span class="tag">土曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="亀有" data-kind="営利法人">
       <h3><span class="no">45</span>訪問看護ステーション　トータルケア亀有</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 亀有３－３３－１５ジラソーレ雅１０３</dd><dt>運営法人</dt><dd>株式会社ブレイバンス</dd><dt>電話</dt><dd><a class="tel" href="tel:0366624794">03-6662-4794</a></dd><dt>事業所番号</dt><dd class="id">1362290718</dd></dl>
       <div class="tags"><span class="tag">亀有エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="青戸" data-kind="営利法人">
       <h3><span class="no">46</span>プレシャスケア訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 青戸８－３－１３タウンハイツ亀有１　２０８</dd><dt>運営法人</dt><dd>株式会社プレシャス</dd><dt>電話</dt><dd><a class="tel" href="tel:0366627962">03-6662-7962</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1362290726</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.precious-care.jp/" target="_blank" rel="noopener">precious-care.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">青戸エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="亀有" data-day="sat" data-kind="営利法人">
       <h3><span class="no">47</span>ＡＹＡＮＡ訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 亀有３－１６－１５メリーマンション２０２</dd><dt>運営法人</dt><dd>ＡＹＡＮＡ合同会社</dd><dt>電話</dt><dd><a class="tel" href="tel:08070174411">08070174411</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1362290734</dd><dt>公式サイト</dt><dd><a class="ext" href="https://ayanagroup.jp/station/" target="_blank" rel="noopener">ayanagroup.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">亀有エリア</span><span class="tag">土曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="細田" data-kind="営利法人">
       <h3><span class="no">48</span>いぶき訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 細田３－１３－３９　１階</dd><dt>運営法人</dt><dd>株式会社在宅医療サポートセンター</dd><dt>電話</dt><dd><a class="tel" href="tel:0368069733">03-6806-9733</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1362290742</dd></dl>
       <div class="tags"><span class="tag">細田エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="青戸" data-day="sat" data-kind="営利法人">
       <h3><span class="no">49</span>訪問看護ステーション　コルディアーレ青戸</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 青戸６－４－２１青戸６丁目事務所１階</dd><dt>運営法人</dt><dd>株式会社ＪＳＨ</dd><dt>電話</dt><dd><a class="tel" href="tel:0366627930">03-6662-7930</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1362290767</dd></dl>
       <div class="tags"><span class="tag">青戸エリア</span><span class="tag">土曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="小菅" data-kind="営利法人">
       <h3><span class="no">50</span>訪問看護ステーション夏</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 小菅２－２２－１０　１階</dd><dt>運営法人</dt><dd>株式会社夏</dd><dt>電話</dt><dd><a class="tel" href="tel:0356546977">03-5654-6977</a></dd><dt>事業所番号</dt><dd class="id">1362290775</dd></dl>
       <div class="tags"><span class="tag">小菅エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="高砂" data-kind="営利法人">
       <h3><span class="no">51</span>訪問看護ステーションオアシス高砂</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 高砂３－１６－３－１０１リナハイツ</dd><dt>運営法人</dt><dd>株式会社Ｔ＆Ｉ</dd><dt>電話</dt><dd><a class="tel" href="tel:0356559028">03-5655-9028</a></dd><dt>事業所番号</dt><dd class="id">1362290791</dd></dl>
       <div class="tags"><span class="tag">高砂エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="立石" data-kind="社団・財団">
       <h3><span class="no">52</span>葛飾区医師会訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 立石６－８－１４パークアベニュー１階</dd><dt>運営法人</dt><dd>一般社団法人葛飾区医師会</dd><dt>電話</dt><dd><a class="tel" href="tel:0356708100">03-5670-8100</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1367191695</dd><dt>公式サイト</dt><dd><a class="ext" href="http://katsushika-med.or.jp/kaigo/index.html" target="_blank" rel="noopener">katsushika-med.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">立石エリア</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="白鳥" data-kind="生協">
       <h3><span class="no">53</span>コープ訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 白鳥２－３－６</dd><dt>運営法人</dt><dd>東京葛飾医療生活協同組合</dd><dt>電話</dt><dd><a class="tel" href="tel:0336907112">03-3690-7112</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1367191836</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.katuseikyou.or.jp/" target="_blank" rel="noopener">katuseikyou.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">白鳥エリア</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="新宿" data-kind="医療法人">
       <h3><span class="no">54</span>訪問看護ステーションステラ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 新宿２－１６－４</dd><dt>運営法人</dt><dd>医療法人社団眞仁会</dd><dt>電話</dt><dd><a class="tel" href="tel:0338268728">03-3826-8728</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1367192636</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.shinjinkai.net/" target="_blank" rel="noopener">shinjinkai.net<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">新宿エリア</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="水元" data-day="sat" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">55</span>東京愛育苑訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 水元３－１３－２</dd><dt>運営法人</dt><dd>社会福祉法人東京愛育苑</dd><dt>電話</dt><dd><a class="tel" href="tel:0356601123">03-5660-1123</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1367192925</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.aiikuen-gr.com" target="_blank" rel="noopener">aiikuen-gr.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">水元エリア</span><span class="tag">土曜日も訪問</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東金町" data-kind="医療法人">
       <h3><span class="no">56</span>社会医療法人社団光仁会ひかり訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 東金町４－３－７</dd><dt>運営法人</dt><dd>社会医療法人社団光仁会</dd><dt>電話</dt><dd><a class="tel" href="tel:0356606061">03-5660-6061</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1367193030</dd></dl>
       <div class="tags"><span class="tag">東金町エリア</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西新小岩" data-day="sat" data-kind="医療法人">
       <h3><span class="no">57</span>医療法人勝又　訪問看護ステーションすこやか</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 西新小岩４－３９－２０</dd><dt>運営法人</dt><dd>医療法人勝又</dd><dt>電話</dt><dd><a class="tel" href="tel:0356726055">03-5672-6055</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1367193683</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.isuzukai.com/" target="_blank" rel="noopener">isuzukai.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西新小岩エリア</span><span class="tag">土曜日も訪問</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="堀切" data-day="sat" data-kind="医療法人">
       <h3><span class="no">58</span>医療法人財団慈光会　しょうぶ訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 堀切７－４－３</dd><dt>運営法人</dt><dd>医療法人財団慈光会</dd><dt>電話</dt><dd><a class="tel" href="tel:0336030002">03-3603-0002</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1367193881</dd><dt>公式サイト</dt><dd><a class="ext" href="http://horikiri-ch.or.jp" target="_blank" rel="noopener">horikiri-ch.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">堀切エリア</span><span class="tag">土曜日も訪問</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="高砂" data-kind="医療法人">
       <h3><span class="no">59</span>医療法人社団健寿会　阿久津訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 高砂２－３０－２１</dd><dt>運営法人</dt><dd>医療法人社団健寿会</dd><dt>電話</dt><dd><a class="tel" href="tel:0336597030">03-3659-7030</a></dd><dt>事業所番号</dt><dd class="id">1367194707</dd></dl>
       <div class="tags"><span class="tag">高砂エリア</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東新小岩" data-kind="営利法人">
       <h3><span class="no">60</span>トーリツ　訪問看護ステーション新小岩</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 東新小岩７－１－３－２Ｆ</dd><dt>運営法人</dt><dd>株式会社トーリツ</dd><dt>電話</dt><dd><a class="tel" href="tel:0356710232">03-5671-0232</a></dd><dt>サービス提供日</dt><dd>平日・祝日</dd><dt>事業所番号</dt><dd class="id">1367197890</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.to-ritsu.co.jp" target="_blank" rel="noopener">to-ritsu.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東新小岩エリア</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
+    </div>
+    <p class="flt-empty" id="flt-empty" hidden>条件に合う事業所はありません。条件を1つ外してみてください。</p>
     </div>
     <div class="warn"><strong>掲載情報についてのお願い</strong><br>上記60件は、2026-09-21に葛飾区および各事業者の公表情報で確認した内容です。営業時間・対応エリア・空き状況は変動しますので、連絡の前に必ず公式情報をご確認ください。掲載内容の訂正・削除は、<a href="../../../contact/">お問い合わせ</a>からご依頼いただければ<strong>理由の説明なしで削除します</strong>。</div>
 
@@ -2150,5 +2164,6 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 })();
 </script>
 <script src="../../../assets/measure.js" defer></script>
+<script src="../../../assets/filter.js" defer></script>
 </body>
 </html>

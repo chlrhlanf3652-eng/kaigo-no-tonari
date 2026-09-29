@@ -1522,305 +1522,319 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 
     <h2 id="s2">中野区の訪問介護事業所一覧</h2>
         <p class="cnt">中野区内の訪問介護事業所から60件を掲載しています（2026年9月時点）。区内の全件から事業所番号の順に等間隔で抽出しています。区内には77件の事業所があり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。</p>
-    <div class="card">
+    <div id="flt-top"></div>
+    <div class="flt" id="flt" hidden>
+      <div class="flt-row">
+        <select data-f="town" aria-label="場所で絞り込む"><option value="">場所</option><option value="中野">中野（8）</option><option value="本町">本町（8）</option><option value="中央">中央（7）</option><option value="新井">新井（6）</option><option value="野方">野方（6）</option><option value="弥生町">弥生町（4）</option><option value="東中野">東中野（4）</option><option value="江古田">江古田（4）</option><option value="若宮">若宮（3）</option><option value="上高田">上高田（2）</option><option value="丸山">丸山（2）</option><option value="沼袋">沼袋（2）</option><option value="鷺宮">鷺宮（2）</option><option value="上鷺宮">上鷺宮（1）</option><option value="白鷺">白鷺（1）</option></select>
+        <select data-f="day" aria-label="曜日で絞り込む"><option value="">曜日</option><option value="sat">土曜も対応（46）</option><option value="sun">日曜も対応（42）</option></select>
+        <select data-f="kind" aria-label="法人で絞り込む"><option value="">法人</option><option value="営利法人">営利法人（49）</option><option value="非営利法人（NPO）">非営利法人（NPO）（6）</option><option value="社会福祉法人（社協以外）">社会福祉法人（社協以外）（2）</option><option value="医療法人">医療法人（1）</option><option value="生協">生協（1）</option><option value="社団・財団">社団・財団（1）</option></select>
+      </div>
+      <p class="flt-n" aria-live="polite"><span><b id="flt-n">60</b> / 60件を表示</span><button type="button" id="flt-reset" hidden>条件をクリア</button></p>
+    </div>
+      <p class="flt-note">「場所」は事務所の所在地です。訪問サービスは近くの町からも来てもらえます。</p>
+      <p class="flt-note" id="flt-daynote" hidden>提供曜日の記載がない7件は、曜日で絞ると表示されません。</p>
+    <div class="bizlist">
+    <div class="card" data-town="東中野" data-kind="営利法人">
       <h3><span class="no">1</span>訪問介護事業所　ｃｅｒｔｏ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 東中野４－２７－３８サンパレス東中野２０３</dd><dt>運営法人</dt><dd>ＫＡＬＭＡ合同会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0366772281">03-6677-2281</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1370407262</dd></dl>
       <div class="tags"><span class="tag">東中野エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="本町" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">2</span>ニチイケアセンター中野本町</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 本町４－４－１８</dd><dt>運営法人</dt><dd>株式会社ニチイ学館</dd><dt>電話</dt><dd><a class="tel" href="tel:0353423762">03-5342-3762</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371400357</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.nichiigakkan.co.jp" target="_blank" rel="noopener">nichiigakkan.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">本町エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="野方" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">3</span>ニチイケアセンター野方</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 野方４－２１－４オービスビル４F</dd><dt>運営法人</dt><dd>株式会社ニチイ学館</dd><dt>電話</dt><dd><a class="tel" href="tel:0353455069">03-5345-5069</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371400381</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.nichiigakkan.co.jp" target="_blank" rel="noopener">nichiigakkan.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">野方エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上高田" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">4</span>ニチイケアセンター中野</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 上高田２－４６－６</dd><dt>運営法人</dt><dd>株式会社ニチイ学館</dd><dt>電話</dt><dd><a class="tel" href="tel:0353181780">03-5318-1780</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371400399</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.nichiigakkan.co.jp" target="_blank" rel="noopener">nichiigakkan.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">上高田エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="沼袋" data-day="sat|sun" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">5</span>中野区福祉サービス事業団　ヘルパーステーション中野</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 沼袋１－３４－６サンハイツ戸倉１階</dd><dt>運営法人</dt><dd>社会福祉法人中野区福祉サービス事業団</dd><dt>電話</dt><dd><a class="tel" href="tel:0353180533">03-5318-0533</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371400621</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.nakano-fj.jp/" target="_blank" rel="noopener">nakano-fj.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">沼袋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中野" data-day="sat|sun" data-kind="医療法人">
       <h3><span class="no">6</span>社会医療法人社団　健友会　ヘルパーステーションほっと</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 中野５－４４－５石井メゾン１０３</dd><dt>運営法人</dt><dd>社会医療法人社団健友会</dd><dt>電話</dt><dd><a class="tel" href="tel:0333868610">03-3386-8610</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371400639</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.kenyu-kai.or.jp" target="_blank" rel="noopener">kenyu-kai.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">中野エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="鷺宮" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">7</span>在宅サポートセンター　クローバー</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 鷺宮４－３７－１４七十七ビル４階</dd><dt>運営法人</dt><dd>株式会社タフィ</dd><dt>電話</dt><dd><a class="tel" href="tel:0353276071">03-5327-6071</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371400779</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.taffystyle.com" target="_blank" rel="noopener">taffystyle.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">鷺宮エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東中野" data-kind="営利法人">
       <h3><span class="no">8</span>ケア・アカデミー葉っぱのフレディ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 東中野５－１－１　ユニゾンモール３Ｆ</dd><dt>運営法人</dt><dd>株式会社ケア・アカデミー葉っぱのフレディ</dd><dt>電話</dt><dd><a class="tel" href="tel:0333612297">03-3361-2297</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1371400886</dd><dt>公式サイト</dt><dd><a class="ext" href="http://happa.co.jp" target="_blank" rel="noopener">happa.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東中野エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="新井" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">9</span>たんぽぽ介護</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 新井１－２６－４－２Ｆ</dd><dt>運営法人</dt><dd>株式会社アスモ</dd><dt>電話</dt><dd><a class="tel" href="tel:0353185731">03-5318-5731</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371401041</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.asumo-kaigo.jp" target="_blank" rel="noopener">asumo-kaigo.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">新井エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="本町" data-day="sat" data-kind="営利法人">
       <h3><span class="no">10</span>みつ葉訪問介護事業所</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 本町３－８－１５矢崎コープ１０１</dd><dt>運営法人</dt><dd>有限会社クローバー介護サービス</dd><dt>電話</dt><dd><a class="tel" href="tel:0353040177">03-5304-0177</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371401348</dd></dl>
       <div class="tags"><span class="tag">本町エリア</span><span class="tag">土曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="新井" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">11</span>ハナ・ケアサービス</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 新井一丁目６番４号　明和ハイム中野１階</dd><dt>運営法人</dt><dd>有限会社　ハナ・ケアサービス</dd><dt>電話</dt><dd><a class="tel" href="tel:0353182605">03-5318-2605</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371401447</dd><dt>公式サイト</dt><dd><a class="ext" href="https://hana-careservice.com/" target="_blank" rel="noopener">hana-careservice.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">新井エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="弥生町" data-day="sat" data-kind="非営利法人（NPO）">
       <h3><span class="no">12</span>ＮＰＯ　ヘルパーステーション　中野の郷</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 弥生町２－５２－４城西弥生町マンション１０６</dd><dt>運営法人</dt><dd>特定非営利活動法人モンドラゴン中野の郷</dd><dt>電話</dt><dd><a class="tel" href="tel:0333846881">03-3384-6881</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371401702</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.nakanonosato.jp" target="_blank" rel="noopener">nakanonosato.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">弥生町エリア</span><span class="tag">土曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="弥生町" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">13</span>テルウェル東日本　中野介護センタ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 弥生町３－３０－１加藤ビル１階</dd><dt>運営法人</dt><dd>テルウェル東日本株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0333757903">03-3375-7903</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371401793</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.telwel-east.co.jp/kaigo/" target="_blank" rel="noopener">telwel-east.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">弥生町エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="江古田" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">14</span>ケア２１　中野</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 江古田４－３０－３岡村ビル２階</dd><dt>運営法人</dt><dd>株式会社ケア２１</dd><dt>電話</dt><dd><a class="tel" href="tel:0353437937">03-5343-7937</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371401900</dd></dl>
       <div class="tags"><span class="tag">江古田エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中央" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">15</span>ハート介護サービス中野</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 中央３－５０－９ワタナベセカンドビル4階</dd><dt>運営法人</dt><dd>株式会社ハート介護サービス</dd><dt>電話</dt><dd><a class="tel" href="tel:0363040615">03-6304-0615</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371401959</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.media-web.co.jp/heart/" target="_blank" rel="noopener">media-web.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">中央エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中央" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">16</span>ケアサポートモモ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 中央３－３９－３</dd><dt>運営法人</dt><dd>有限会社　ケアサポートモモ</dd><dt>電話</dt><dd><a class="tel" href="tel:0333802310">03-3380-2310</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371402023</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.momokaigo.jp/" target="_blank" rel="noopener">momokaigo.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">中央エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中野" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">17</span>やさしい手中野南口訪問介護事業所</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 中野中央３－５０－９ワタナベセカンドビル２階</dd><dt>運営法人</dt><dd>株式会社やさしい手</dd><dt>電話</dt><dd><a class="tel" href="tel:05017520657">05017520657</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371402262</dd><dt>公式サイト</dt><dd><a class="ext" href="https://search.yasashiite.com/detail/homonkaigo_nakanominamiguchi/" target="_blank" rel="noopener">search.yasashiite.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">中野エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="沼袋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">18</span>ふくろうサポート</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 沼袋４－２７－１２</dd><dt>運営法人</dt><dd>株式会社ふくろうサポート</dd><dt>電話</dt><dd><a class="tel" href="tel:0333892963">03-3389-2963</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371402270</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.maroon.dti.ne.jp/fukurou-support" target="_blank" rel="noopener">maroon.dti.ne.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">沼袋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="本町" data-day="sat|sun" data-kind="非営利法人（NPO）">
       <h3><span class="no">19</span>あおば</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 本町三丁目５番４号メゾンシルクロード１階</dd><dt>運営法人</dt><dd>特定非営利活動法人あおば</dd><dt>電話</dt><dd><a class="tel" href="tel:0353588200">03-5358-8200</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371402668</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.npo-aoba.or.jp/" target="_blank" rel="noopener">npo-aoba.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">本町エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="弥生町" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">20</span>グリーンケア中野</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 弥生町２－３１－９朝日プラザ中野弥生町１Ａ</dd><dt>運営法人</dt><dd>株式会社アクトライフ</dd><dt>電話</dt><dd><a class="tel" href="tel:0353425351">03-5342-5351</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371402965</dd></dl>
       <div class="tags"><span class="tag">弥生町エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中野" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">21</span>介護ステーション　ぽけっと</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 中野２－１２－１５中野リハイム２０３号</dd><dt>運営法人</dt><dd>松野株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0353423450">03-5342-3450</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371403013</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.pocket-kaigo.com/" target="_blank" rel="noopener">pocket-kaigo.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">中野エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東中野" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">22</span>Ｃｕｒｅステーション　スマイル</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 東中野４－２３－１　グリーンハイムＫ１０１</dd><dt>運営法人</dt><dd>株式会社ヒロ・コーポレーション</dd><dt>電話</dt><dd><a class="tel" href="tel:0353323558">03-5332-3558</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371403039</dd></dl>
       <div class="tags"><span class="tag">東中野エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="新井" data-kind="非営利法人（NPO）">
       <h3><span class="no">23</span>ＮＰＯピクニックケア</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 新井１－２－２６</dd><dt>運営法人</dt><dd>特定非営利活動法人ピクニックケア</dd><dt>電話</dt><dd><a class="tel" href="tel:0359424902">03-5942-4902</a></dd><dt>サービス提供日</dt><dd>平日・祝日</dd><dt>事業所番号</dt><dd class="id">1371403187</dd><dt>公式サイト</dt><dd><a class="ext" href="https://ja-jp.facebook.com/npopicniccare/" target="_blank" rel="noopener">ja-jp.facebook.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">新井エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="江古田" data-day="sat" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">24</span>ヘルパーステーション江古田の森</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 江古田３－１４－１９</dd><dt>運営法人</dt><dd>社会福祉法人南東北福祉事業団</dd><dt>電話</dt><dd><a class="tel" href="tel:0353183729">03-5318-3729</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371403229</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.kaigo-egota.com" target="_blank" rel="noopener">kaigo-egota.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">江古田エリア</span><span class="tag">土曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="新井" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">25</span>ケアリッツ　中野</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 新井１－１８－４寺沢ハイツ１階</dd><dt>運営法人</dt><dd>株式会社ケアリッツ・アンド・パートナーズ</dd><dt>電話</dt><dd><a class="tel" href="tel:0332286601">03-3228-6601</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371403286</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.careritz.co.jp/station/branch/nakano/" target="_blank" rel="noopener">careritz.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">新井エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="弥生町" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">26</span>日本リック訪問介護中野南事業所</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 弥生町４－２２－４</dd><dt>運営法人</dt><dd>日本リック株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0353282631">03-5328-2631</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371403609</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.rickcare.jp/" target="_blank" rel="noopener">rickcare.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">弥生町エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中野" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">27</span>ケアセンター希</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 中野３－４０－２９－２０３</dd><dt>運営法人</dt><dd>株式会社ローズ倶楽部</dd><dt>電話</dt><dd><a class="tel" href="tel:0353422911">03-5342-2911</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371403617</dd></dl>
       <div class="tags"><span class="tag">中野エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="江古田" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">28</span>日本リック訪問介護中野北事業所</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 江古田２－１９－８両国凮月堂ビル１０１号室</dd><dt>運営法人</dt><dd>日本リック株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0332285072">03-3228-5072</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371403724</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.rickcare.jp" target="_blank" rel="noopener">rickcare.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">江古田エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中野" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">29</span>あけぼの介護センター</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 中野１－５０－３ベニツル中野ビル２階</dd><dt>運営法人</dt><dd>ケアゲート株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0369088888">03-6908-8888</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371403740</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.caregate.co.jp/" target="_blank" rel="noopener">caregate.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">中野エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東中野" data-kind="非営利法人（NPO）">
       <h3><span class="no">30</span>アシストセンター「ねこの手」</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 東中野１－３８－１２コーポ光１０１</dd><dt>運営法人</dt><dd>特定非営利活動法人ねこの手</dd><dt>電話</dt><dd><a class="tel" href="tel:0333604460">03-3360-4460</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1371404045</dd><dt>公式サイト</dt><dd><a class="ext" href="https://npo-nekonote.org/" target="_blank" rel="noopener">npo-nekonote.org<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東中野エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中央" data-day="sat|sun" data-kind="生協">
       <h3><span class="no">31</span>コープみらい　中野介護センター</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 中央５－４１－１８東京都生協連会館４階</dd><dt>運営法人</dt><dd>生活協同組合コープみらい</dd><dt>電話</dt><dd><a class="tel" href="tel:0333825691">03-3382-5691</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371404201</dd><dt>公式サイト</dt><dd><a class="ext" href="http://mirai.coopnet.or.jp/" target="_blank" rel="noopener">mirai.coopnet.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">中央エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="新井" data-kind="非営利法人（NPO）">
       <h3><span class="no">32</span>介護事業所めだか</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 新井３－１－１１パールシオンＢ１号室</dd><dt>運営法人</dt><dd>特定非営利活動法人中野の介護と福祉を考える会</dd><dt>電話</dt><dd><a class="tel" href="tel:0353807021">03-5380-7021</a></dd><dt>事業所番号</dt><dd class="id">1371404276</dd></dl>
       <div class="tags"><span class="tag">新井エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中央" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">33</span>ユースタイルケア　東京　重度訪問介護</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 中央１－３５－６レッチフィールド中野坂上ビル３Ｆ</dd><dt>運営法人</dt><dd>ユースタイルラボラトリー株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:05031887708">05031887708</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371405083</dd><dt>公式サイト</dt><dd><a class="ext" href="https://eustylelab.co.jp/" target="_blank" rel="noopener">eustylelab.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">中央エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="本町" data-kind="営利法人">
       <h3><span class="no">34</span>あけぼの介護センター中野南</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 本町５－３８－１１ユニテ中野１０２</dd><dt>運営法人</dt><dd>ケアゲート株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0363827907">03-6382-7907</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1371405091</dd></dl>
       <div class="tags"><span class="tag">本町エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="江古田" data-kind="営利法人">
       <h3><span class="no">35</span>こころ訪問介護</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 江古田１－２７－４翠雲荘１０１</dd><dt>運営法人</dt><dd>ハート＆ハート合同会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0369081017">03-6908-1017</a></dd><dt>事業所番号</dt><dd class="id">1371405216</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.hartcocoro.info/" target="_blank" rel="noopener">hartcocoro.info<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">江古田エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="野方" data-kind="非営利法人（NPO）">
       <h3><span class="no">36</span>サポートたすけあい</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 野方５－２６－７</dd><dt>運営法人</dt><dd>特定非営利活動法人ポタジエの会</dd><dt>電話</dt><dd><a class="tel" href="tel:0353568225">03-5356-8225</a></dd><dt>事業所番号</dt><dd class="id">1371405224</dd></dl>
       <div class="tags"><span class="tag">野方エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="丸山" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">37</span>東京海上日動みずたま介護ＳＴ中野</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 丸山１－４－４マンション窪寺１階</dd><dt>運営法人</dt><dd>東京海上日動ベターライフサービス株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0367753935">03-6775-3935</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371405349</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.tnbls.co.jp/mizutama/stations/nakano/" target="_blank" rel="noopener">tnbls.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">丸山エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="若宮" data-kind="営利法人">
       <h3><span class="no">38</span>株式会社ごせい野方ケアステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 若宮１－５５－１０若宮緑館１０１</dd><dt>運営法人</dt><dd>株式会社五生</dd><dt>電話</dt><dd><a class="tel" href="tel:0353649425">03-5364-9425</a></dd><dt>サービス提供日</dt><dd>平日・祝日</dd><dt>事業所番号</dt><dd class="id">1371405380</dd><dt>公式サイト</dt><dd><a class="ext" href="http://go-sei.com/" target="_blank" rel="noopener">go-sei.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">若宮エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="野方" data-day="sat" data-kind="営利法人">
       <h3><span class="no">39</span>スギコーケアセンター野方</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 野方５－３４－３カーサ沙羅１Ｆ</dd><dt>運営法人</dt><dd>スギコー株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0333104485">03-3310-4485</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371405422</dd><dt>公式サイト</dt><dd><a class="ext" href="http://sugiko-welfare.com/" target="_blank" rel="noopener">sugiko-welfare.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">野方エリア</span><span class="tag">土曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中央" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">40</span>ユースタイルケア　新中野　訪問介護</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 中央４－２４－１３ＴＭハウス中野１０１号室</dd><dt>運営法人</dt><dd>ユースタイルラボラトリー株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:05031603998">05031603998</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371405521</dd></dl>
       <div class="tags"><span class="tag">中央エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="新井" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">41</span>あくとケア　中野</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 新井１－３６－２菅沼ビル　２０２号室</dd><dt>運営法人</dt><dd>株式会社ＳＯＬ</dd><dt>電話</dt><dd><a class="tel" href="tel:0353185645">03-5318-5645</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371405570</dd><dt>公式サイト</dt><dd><a class="ext" href="https://actcare.jp/" target="_blank" rel="noopener">actcare.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">新井エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中央" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">42</span>ケアリッツ中野坂上</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 中央１－４３－１５マンションＶＩＰ中野坂上２０６</dd><dt>運営法人</dt><dd>株式会社ケアリッツ・アンド・パートナーズ</dd><dt>電話</dt><dd><a class="tel" href="tel:0359375761">03-5937-5761</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371405646</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.careritz.co.jp/station/branch/nakanosakaue/" target="_blank" rel="noopener">careritz.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">中央エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="野方" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">43</span>ホームケア野方</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 野方６－６－２サンクリバージュ野方　地上１階</dd><dt>運営法人</dt><dd>ＡＬＳＯＫらいふケア株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0353273930">03-5327-3930</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371405653</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.life-silver.com/life-silver/facility/houmonnogata/" target="_blank" rel="noopener">life-silver.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">野方エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="野方" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">44</span>おおきなき野方</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 野方３－２５－８ＣＡＳＡ　ＶＩＶＡ　Ｂ１Ｆ</dd><dt>運営法人</dt><dd>株式会社日本エルダリーケアサービス</dd><dt>電話</dt><dd><a class="tel" href="tel:0353186790">03-5318-6790</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371405810</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.elderly.jp/" target="_blank" rel="noopener">elderly.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">野方エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上鷺宮" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">45</span>ニチイケアセンターかみさぎ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 上鷺宮５－８－５ベル・ヴィベール１０１</dd><dt>運営法人</dt><dd>株式会社ニチイ学館</dd><dt>電話</dt><dd><a class="tel" href="tel:0359877008">03-5987-7008</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371405935</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.nichiigakkan.co.jp" target="_blank" rel="noopener">nichiigakkan.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">上鷺宮エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="若宮" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">46</span>ケアリッツ鷺ノ宮</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 若宮２－４０－１３サンハイツ中野１０１</dd><dt>運営法人</dt><dd>株式会社ケアリッツ・アンド・パートナーズ</dd><dt>電話</dt><dd><a class="tel" href="tel:0353278518">03-5327-8518</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371405943</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.careritz.co.jp/station/houmon-saginomiya/" target="_blank" rel="noopener">careritz.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">若宮エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="本町" data-kind="社団・財団">
       <h3><span class="no">47</span>中野ふれあいサービス</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 本町１－２－１２</dd><dt>運営法人</dt><dd>一般社団法人ふれあい</dd><dt>電話</dt><dd><a class="tel" href="tel:0362760172">03-6276-0172</a></dd><dt>事業所番号</dt><dd class="id">1371406115</dd></dl>
       <div class="tags"><span class="tag">本町エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="野方" data-kind="営利法人">
       <h3><span class="no">48</span>日本リック総合支援事業所　りんく野方</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 野方５－２９－１０アネックスノガタ１階</dd><dt>運営法人</dt><dd>日本リック株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0353568993">03-5356-8993</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1371406180</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.rickcare.jp/" target="_blank" rel="noopener">rickcare.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">野方エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上高田" data-kind="営利法人">
       <h3><span class="no">49</span>ミンガラーバ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 上高田２－１６－１５－３０６</dd><dt>運営法人</dt><dd>ＺＥＵＳＪＡＰＡＮ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0353439322">03-5343-9322</a></dd><dt>事業所番号</dt><dd class="id">1371406206</dd></dl>
       <div class="tags"><span class="tag">上高田エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="本町" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">50</span>ケアリッツ新中野</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 本町２－１３－６コートシルバーストーン１０１</dd><dt>運営法人</dt><dd>株式会社ケアリッツ・アンド・パートナーズ</dd><dt>電話</dt><dd><a class="tel" href="tel:0363824831">03-6382-4831</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371406222</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.careritz.co.jp/station/branch/shinnakano/" target="_blank" rel="noopener">careritz.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">本町エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中野" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">51</span>ホームケア中野</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 中野５－３２－５神谷ビル２０１号</dd><dt>運営法人</dt><dd>ＡＬＳＯＫらいふケア株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0359428681">03-5942-8681</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371406297</dd></dl>
       <div class="tags"><span class="tag">中野エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="本町" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">52</span>合同会社つかさ介護ヘルパー事業所</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 本町５－１３－６シャトレ中野新橋４０４号室</dd><dt>運営法人</dt><dd>合同会社つかさ介護ヘルパー事業所</dd><dt>電話</dt><dd><a class="tel" href="tel:0363825459">03-6382-5459</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371406321</dd></dl>
       <div class="tags"><span class="tag">本町エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="若宮" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">53</span>ＡＬＳＯＫヘルパーステーション中野</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 若宮１－２８－１３</dd><dt>運営法人</dt><dd>ＡＬＳＯＫ介護株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0353640560">03-5364-0560</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371406370</dd></dl>
       <div class="tags"><span class="tag">若宮エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中野" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">54</span>エイプレイス中野</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 中野５－２４－１８クロス・スクエアＮＡＫＡＮＯ　９０１号室</dd><dt>運営法人</dt><dd>株式会社エイプレイス</dd><dt>電話</dt><dd><a class="tel" href="tel:0353182550">03-5318-2550</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371406404</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.a-place.co.jp/" target="_blank" rel="noopener">a-place.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">中野エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="丸山" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">55</span>美優城ライフサポート株式会社</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 丸山２－３－１４ライフピアプランタン２０３</dd><dt>運営法人</dt><dd>美優城ライフサポート株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:08051808359">08051808359</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371406446</dd></dl>
       <div class="tags"><span class="tag">丸山エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中央" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">56</span>日本リック総合支援事業所　りんく中野</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 中央４－２１－１８コリンズ１４ビル１階</dd><dt>運営法人</dt><dd>日本リック株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0363828622">03-6382-8622</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371406453</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.rickcare.jp" target="_blank" rel="noopener">rickcare.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">中央エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="本町" data-kind="営利法人">
       <h3><span class="no">57</span>ハピフル訪問介護　新中野</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 本町５－４８－７ニューウェルハイツ中野３０４</dd><dt>運営法人</dt><dd>合同会社ＢＥＳＴＬＩＦＥ</dd><dt>電話</dt><dd><a class="tel" href="tel:07012918495">07012918495</a></dd><dt>事業所番号</dt><dd class="id">1371406461</dd></dl>
       <div class="tags"><span class="tag">本町エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中野" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">58</span>訪問介護フリージア</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 中野３－５０－１４－２０３号室</dd><dt>運営法人</dt><dd>合同会社フリースタイル</dd><dt>電話</dt><dd><a class="tel" href="tel:08036808853">08036808853</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371406529</dd></dl>
       <div class="tags"><span class="tag">中野エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="白鷺" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">59</span>サンウェルズ中野白鷺ヘルパーステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 白鷺２－１４－１２</dd><dt>運営法人</dt><dd>株式会社サンウェルズ</dd><dt>電話</dt><dd><a class="tel" href="tel:0333101252">03-3310-1252</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371406560</dd><dt>公式サイト</dt><dd><a class="ext" href="https://sunwels.jp/pdh/facility/pdhouse-nakanoshirasagi/" target="_blank" rel="noopener">sunwels.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">白鷺エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="鷺宮" data-kind="営利法人">
       <h3><span class="no">60</span>医心館　訪問介護ステーション　鷺ノ宮</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 中野区 鷺宮３－１４－９</dd><dt>運営法人</dt><dd>株式会社アンビス</dd><dt>電話</dt><dd><a class="tel" href="tel:0363830352">03-6383-0352</a></dd><dt>事業所番号</dt><dd class="id">1371406594</dd></dl>
       <div class="tags"><span class="tag">鷺宮エリア</span><span class="tag">訪問介護</span></div>
+    </div>
+    <p class="flt-empty" id="flt-empty" hidden>条件に合う事業所はありません。条件を1つ外してみてください。</p>
     </div>
     <div class="warn"><strong>掲載情報についてのお願い</strong><br>上記60件は、2026-09-21に中野区および各事業者の公表情報で確認した内容です。営業時間・対応エリア・空き状況は変動しますので、連絡の前に必ず公式情報をご確認ください。掲載内容の訂正・削除は、<a href="../../../contact/">お問い合わせ</a>からご依頼いただければ<strong>理由の説明なしで削除します</strong>。</div>
 
@@ -2128,5 +2142,6 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 })();
 </script>
 <script src="../../../assets/measure.js" defer></script>
+<script src="../../../assets/filter.js" defer></script>
 </body>
 </html>

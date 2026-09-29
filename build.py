@@ -88,11 +88,104 @@ def build_jsonld(d: dict) -> str:
                       ensure_ascii=False, indent=1)
 
 
+# ------------------------------------------------------------- 一覧の絞り込み
+# 60件の一覧はスマホで27画面ぶんある。持っているデータ（町域・提供曜日・
+# 法人種別など）で絞れるようにする。選択肢はビルド時に件数つきで作り、
+# JS はカードの表示・非表示を切り替えるだけ。JS が無効なら全件がそのまま見える。
+DAY_OPTS = [("sat", "土曜も対応"), ("sun", "日曜も対応")]
+DAY_WORD = {"sat": "土曜日", "sun": "日曜日"}
+# (data属性名, 項目キー, 短い見出し)。スマホで横に3つ並ぶよう見出しは2文字前後。
+FACET_ATTRS = [("fk", "_fkind", "型"), ("mix", "_mix", "扱い"), ("kind", "_kind", "法人")]
+VISITING = ("houmon-kaigo", "houmon-kango")
+
+
+def _count(vals):
+    c = {}
+    for v in vals:
+        if v:
+            c[v] = c.get(v, 0) + 1
+    return sorted(c.items(), key=lambda x: (-x[1], x[0]))
+
+
+def _facets(items):
+    """絞り込みの選択肢。2種類以上あり、1つの値が9割を占めないものだけ出す
+    （ショートステイの法人種別は9割が社会福祉法人で、選んでも絞れない）。"""
+    n = len(items)
+    out = []
+    towns = _count(it.get("_town") for it in items)
+    if len(towns) >= 2:
+        out.append(("town", "場所", [(v, f"{v}（{k}）") for v, k in towns]))
+    if any(it.get("_days") for it in items):
+        opts = []
+        for key, lab in DAY_OPTS:
+            k = sum(1 for it in items if DAY_WORD[key] in (it.get("_days") or []))
+            if k:
+                opts.append((key, f"{lab}（{k}）"))
+        if opts:
+            out.append(("day", "曜日", opts))
+    for key, attr, lab in FACET_ATTRS:
+        vals = _count(it.get(attr) for it in items)
+        if len(vals) >= 2 and vals[0][1] < n * 0.9:
+            out.append((key, lab, [(v, f"{v}（{k}）") for v, k in vals]))
+    return out
+
+
+def _card_attrs(it):
+    a = []
+    if it.get("_town"):
+        a.append(("town", it["_town"]))
+    days = [k for k, _ in DAY_OPTS if DAY_WORD[k] in (it.get("_days") or [])]
+    if days:
+        a.append(("day", "|".join(days)))
+    for key, attr, _ in FACET_ATTRS:
+        if it.get(attr):
+            a.append((key, it[attr]))
+    return "".join(f' data-{k}="{esc(v)}"' for k, v in a)
+
+
+def _filter_bar(d):
+    items = d["items"]
+    facets = _facets(items)
+    if not facets or len(items) < 6:
+        return ""
+    sel = []
+    for key, lab, opts in facets:
+        sel.append(f'        <select data-f="{key}" aria-label="{lab}で絞り込む">'
+                   # スマホ幅(390px)で3つ並べると「場所：すべて」は切れる。見出しだけにする
+                   f'<option value="">{lab}</option>'
+                   + "".join(f'<option value="{esc(v)}">{esc(t)}</option>' for v, t in opts)
+                   + "</select>")
+    notes = []
+    if any(k == "town" for k, _, _ in facets) and d["category"]["id"] in VISITING:
+        notes.append('      <p class="flt-note">「場所」は事務所の所在地です。'
+                     '訪問サービスは近くの町からも来てもらえます。</p>')
+    if any(k == "day" for k, _, _ in facets):
+        nod = sum(1 for it in items if not it.get("_days"))
+        if nod:
+            notes.append(f'      <p class="flt-note" id="flt-daynote" hidden>'
+                         f'提供曜日の記載がない{nod}件は、曜日で絞ると表示されません。</p>')
+    return (
+        '    <div id="flt-top"></div>\n'
+        '    <div class="flt" id="flt" hidden>\n'
+        '      <div class="flt-row">\n' + "\n".join(sel) + '\n      </div>\n'
+        f'      <p class="flt-n" aria-live="polite"><span><b id="flt-n">{len(items)}</b>'
+        f' / {len(items)}件を表示</span>'
+        '<button type="button" id="flt-reset" hidden>条件をクリア</button></p>\n'
+        '    </div>'
+        # 注記は上に貼りつかせない（スマホでバーが高くなりすぎるため）
+        + "".join("\n" + x for x in notes)
+    )
+
+
 def render_listing(d: dict) -> str:
     """掲載事業者カードを描画する。住所・電話は data の値をそのまま使う。"""
     out = []
     if d.get("listing_note"):
         out.append(f'    <p class="cnt">{d["listing_note"]}</p>')
+    bar = _filter_bar(d)
+    if bar:
+        out.append(bar)
+    out.append('    <div class="bizlist">')
     for i, it in enumerate(d["items"], 1):
         rows = []
         addr = it.get("address")
@@ -138,12 +231,16 @@ def render_listing(d: dict) -> str:
                         '<span class="sr">（外部サイトが開きます）</span></dd>')
         tags = "".join(f'<span class="tag">{esc(t)}</span>' for t in it.get("_tags", []))
         out.append(
-            '    <div class="card">\n'
+            f'    <div class="card"{_card_attrs(it)}>\n'
             f'      <h3><span class="no">{i}</span>{esc(it["name"])}</h3>\n'
             f'      <dl class="dl">{"".join(rows)}</dl>\n'
             + (f'      <div class="tags">{tags}</div>\n' if tags else "")
             + "    </div>"
         )
+    if bar:
+        out.append('    <p class="flt-empty" id="flt-empty" hidden>条件に合う事業所はありません。'
+                   '条件を1つ外してみてください。</p>')
+    out.append('    </div>')
     city = d["area"]["city_name"]
     out.append(
         '    <div class="warn"><strong>掲載情報についてのお願い</strong><br>'

@@ -717,120 +717,133 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 
     <h2 id="s2">墨田区の福祉用具事業所一覧</h2>
         <p class="cnt">墨田区内の福祉用具貸与・特定福祉用具販売の指定事業所から23件を掲載しています（東京都公表・2026年9月1日時点）。区内には23件が指定を受けており、そのすべてを掲載しています。「貸与と販売」「貸与のみ」「販売のみ」の表示は、東京都の一覧でその事業所がどちらのサービス種類で指定を受けているかによります。取扱商品や価格は事業所ごとに違い、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。</p>
-    <div class="card">
+    <div id="flt-top"></div>
+    <div class="flt" id="flt" hidden>
+      <div class="flt-row">
+        <select data-f="town" aria-label="場所で絞り込む"><option value="">場所</option><option value="京島">京島（4）</option><option value="押上">押上（2）</option><option value="本所">本所（2）</option><option value="東向島">東向島（2）</option><option value="江東橋">江東橋（2）</option><option value="石原">石原（2）</option><option value="菊川">菊川（2）</option><option value="両国">両国（1）</option><option value="亀沢">亀沢（1）</option><option value="吾妻橋">吾妻橋（1）</option><option value="東駒形">東駒形（1）</option><option value="業平">業平（1）</option><option value="横川">横川（1）</option><option value="緑">緑（1）</option></select>
+        <select data-f="day" aria-label="曜日で絞り込む"><option value="">曜日</option><option value="sat">土曜も対応（6）</option><option value="sun">日曜も対応（1）</option></select>
+        <select data-f="mix" aria-label="扱いで絞り込む"><option value="">扱い</option><option value="両方">両方（18）</option><option value="貸与のみ">貸与のみ（3）</option><option value="販売のみ">販売のみ（2）</option></select>
+      </div>
+      <p class="flt-n" aria-live="polite"><span><b id="flt-n">23</b> / 23件を表示</span><button type="button" id="flt-reset" hidden>条件をクリア</button></p>
+    </div>
+      <p class="flt-note" id="flt-daynote" hidden>提供曜日の記載がない8件は、曜日で絞ると表示されません。</p>
+    <div class="bizlist">
+    <div class="card" data-town="東向島" data-mix="販売のみ" data-kind="営利法人">
       <h3><span class="no">1</span>東京ガスＮｅｘｔ　ｏｎｅ株式会社</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 墨田区 東向島５－３－１</dd><dt>運営法人</dt><dd>東京ガスＮｅｘｔ　ｏｎｅ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0358289434">03-5828-9434</a></dd><dt>事業所番号</dt><dd class="id">1370603746</dd></dl>
       <div class="tags"><span class="tag">東向島エリア</span><span class="tag">販売のみ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="押上" data-mix="両方" data-kind="営利法人">
       <h3><span class="no">2</span>ケア２１ライフプラス東京城東</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 墨田区 押上３－３０－１０山﨑ビル　１階</dd><dt>運営法人</dt><dd>株式会社ケア２１ライフプラス</dd><dt>電話</dt><dd><a class="tel" href="tel:0356316421">03-5631-6421</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1370701193</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.care21.co.jp/" target="_blank" rel="noopener">care21.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">押上エリア</span><span class="tag">貸与と販売</span><span class="tag">20年以上</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="緑" data-mix="両方" data-kind="営利法人">
       <h3><span class="no">3</span>ゆとり</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 墨田区 緑２－１４－７－１０１</dd><dt>運営法人</dt><dd>株式会社コム・ブレイン</dd><dt>電話</dt><dd><a class="tel" href="tel:0356387838">03-5638-7838</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1370701276</dd></dl>
       <div class="tags"><span class="tag">緑エリア</span><span class="tag">貸与と販売</span><span class="tag">20年以上</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="本所" data-mix="貸与のみ" data-kind="営利法人">
       <h3><span class="no">4</span>有限会社　さいとう工房</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 墨田区 本所４－２６－７</dd><dt>運営法人</dt><dd>有限会社さいとう工房</dd><dt>電話</dt><dd><a class="tel" href="tel:0336210508">03-3621-0508</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1370701375</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.saitokobo.com" target="_blank" rel="noopener">saitokobo.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">本所エリア</span><span class="tag">貸与のみ</span><span class="tag">20年以上</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="江東橋" data-day="sat" data-mix="両方" data-kind="営利法人">
       <h3><span class="no">5</span>レンティケアサービス墨田</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 墨田区 江東橋１丁目１４番３号</dd><dt>運営法人</dt><dd>株式会社レンティ</dd><dt>電話</dt><dd><a class="tel" href="tel:0336315015">03-3631-5015</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1370702050</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.renty.co.jp/" target="_blank" rel="noopener">renty.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">江東橋エリア</span><span class="tag">貸与と販売</span><span class="tag">土曜日も対応</span><span class="tag">20年以上</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="京島" data-mix="両方" data-kind="営利法人">
       <h3><span class="no">6</span>ラックすみだ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 墨田区 京島１－４７－１７－２Ｆ</dd><dt>運営法人</dt><dd>株式会社ラックコーポレーション</dd><dt>電話</dt><dd><a class="tel" href="tel:0356557503">03-5655-7503</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1370702233</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.lac-corp.jp/" target="_blank" rel="noopener">lac-corp.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">京島エリア</span><span class="tag">貸与と販売</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="業平" data-mix="販売のみ" data-kind="営利法人">
       <h3><span class="no">7</span>株式会社　ＯＫＣ工務店</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 墨田区 業平２－６－１</dd><dt>運営法人</dt><dd>株式会社ＯＫＣ工務店</dd><dt>電話</dt><dd><a class="tel" href="tel:0336224338">03-3622-4338</a></dd><dt>事業所番号</dt><dd class="id">1370702753</dd></dl>
       <div class="tags"><span class="tag">業平エリア</span><span class="tag">販売のみ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東向島" data-day="sat" data-mix="両方" data-kind="営利法人">
       <h3><span class="no">8</span>ライフアドバンスセノバ東京</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 墨田区 東向島２－３１－１９－１０１号</dd><dt>運営法人</dt><dd>株式会社セノバ</dd><dt>電話</dt><dd><a class="tel" href="tel:0356553377">03-5655-3377</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1370704007</dd><dt>公式サイト</dt><dd><a class="ext" href="http://senoba.co.jp" target="_blank" rel="noopener">senoba.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東向島エリア</span><span class="tag">貸与と販売</span><span class="tag">土曜日も対応</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東駒形" data-day="sat" data-mix="両方" data-kind="営利法人">
       <h3><span class="no">9</span>株式会社　澄田</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 墨田区 東駒形２－１７－２</dd><dt>運営法人</dt><dd>株式会社澄田</dd><dt>電話</dt><dd><a class="tel" href="tel:0363152298">03-6315-2298</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1370704171</dd></dl>
       <div class="tags"><span class="tag">東駒形エリア</span><span class="tag">貸与と販売</span><span class="tag">土曜日も対応</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="石原" data-mix="両方" data-kind="営利法人">
       <h3><span class="no">10</span>カンベ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 墨田区 石原３－２４－６Ｋ.Ｋ.ビル　３階</dd><dt>運営法人</dt><dd>株式会社ニューマン</dd><dt>電話</dt><dd><a class="tel" href="tel:0336212665">03-3621-2665</a></dd><dt>事業所番号</dt><dd class="id">1370704627</dd></dl>
       <div class="tags"><span class="tag">石原エリア</span><span class="tag">貸与と販売</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="本所" data-mix="貸与のみ" data-kind="営利法人">
       <h3><span class="no">11</span>総合商社ベンキョウドー株式会社　営業本部</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 墨田区 本所３－１－８</dd><dt>運営法人</dt><dd>総合商社ベンキョウドー株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0336249240">03-3624-9240</a></dd><dt>事業所番号</dt><dd class="id">1370704684</dd></dl>
       <div class="tags"><span class="tag">本所エリア</span><span class="tag">貸与のみ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="菊川" data-mix="両方" data-kind="営利法人">
       <h3><span class="no">12</span>らいふパートナー東京</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 墨田区 菊川２－５－４－３０１</dd><dt>運営法人</dt><dd>らいふパートナー株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0367558791">03-6755-8791</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1370704916</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.lifepartner-tokyo.com" target="_blank" rel="noopener">lifepartner-tokyo.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">菊川エリア</span><span class="tag">貸与と販売</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="両国" data-mix="両方" data-kind="営利法人">
       <h3><span class="no">13</span>ＰＳ－ＰＲＯＤＵＣＴＳ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 墨田区 両国３－９－６原西ビル１階</dd><dt>運営法人</dt><dd>ＰＳ－ＰＲＯＤＵＣＴＳ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0366599666">03-6659-9666</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1370705400</dd><dt>公式サイト</dt><dd><a class="ext" href="https://ps-products.co.jp" target="_blank" rel="noopener">ps-products.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">両国エリア</span><span class="tag">貸与と販売</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="横川" data-day="sat" data-mix="両方" data-kind="営利法人">
       <h3><span class="no">14</span>フランスベッド株式会社　メディカル押上営業所</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 墨田区 横川１－１２－１６アーバンコア山本１階</dd><dt>運営法人</dt><dd>フランスベッド株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0356195130">03-5619-5130</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1370705442</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.francebed.co.jp/" target="_blank" rel="noopener">francebed.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">横川エリア</span><span class="tag">貸与と販売</span><span class="tag">土曜日も対応</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="江東橋" data-mix="貸与のみ" data-kind="営利法人">
       <h3><span class="no">15</span>サイアム・ケア墨田</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 墨田区 江東橋４－１３－８下村ビル５０１号室</dd><dt>運営法人</dt><dd>株式会社グローバルサイアムジャパン</dd><dt>電話</dt><dd><a class="tel" href="tel:0356378062">03-5637-8062</a></dd><dt>事業所番号</dt><dd class="id">1370705467</dd></dl>
       <div class="tags"><span class="tag">江東橋エリア</span><span class="tag">貸与のみ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="菊川" data-mix="両方" data-kind="営利法人">
       <h3><span class="no">16</span>福祉介護まごの手</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 墨田区 菊川２－４－１２佐藤ビル１階</dd><dt>運営法人</dt><dd>株式会社ＮＫＭ</dd><dt>電話</dt><dd><a class="tel" href="tel:0366618736">03-6661-8736</a></dd><dt>事業所番号</dt><dd class="id">1370705525</dd></dl>
       <div class="tags"><span class="tag">菊川エリア</span><span class="tag">貸与と販売</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="吾妻橋" data-day="sat" data-mix="両方" data-kind="営利法人">
       <h3><span class="no">17</span>高住研キヨタ株式会社東京中央店</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 墨田区 吾妻橋２－１－８吾妻橋パーソナルハウス１０１号</dd><dt>運営法人</dt><dd>高住研キヨタ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0356195501">03-5619-5501</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1370705533</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.kojukenkiyota.com/" target="_blank" rel="noopener">kojukenkiyota.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">吾妻橋エリア</span><span class="tag">貸与と販売</span><span class="tag">土曜日も対応</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="石原" data-day="sat|sun" data-mix="両方" data-kind="営利法人">
       <h3><span class="no">18</span>株式会社ヤマシタ墨田営業所</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 墨田区 石原４－３７－７協和ビル</dd><dt>運営法人</dt><dd>株式会社ヤマシタ</dd><dt>電話</dt><dd><a class="tel" href="tel:0336235271">03-3623-5271</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1370705756</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.ycota.jp/" target="_blank" rel="noopener">ycota.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">石原エリア</span><span class="tag">貸与と販売</span><span class="tag">土曜日も対応</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="京島" data-mix="両方" data-kind="社団・財団">
       <h3><span class="no">19</span>てらす福祉用具貸与・販売</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 墨田区 京島１－２３－１０</dd><dt>運営法人</dt><dd>一般社団法人てらす会</dd><dt>電話</dt><dd><a class="tel" href="tel:0366588457">03-6658-8457</a></dd><dt>事業所番号</dt><dd class="id">1370705855</dd></dl>
       <div class="tags"><span class="tag">京島エリア</span><span class="tag">貸与と販売</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="京島" data-mix="両方" data-kind="営利法人">
       <h3><span class="no">20</span>ＯＲＣＡ福祉用具レンタル部</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 墨田区 京島１－１８－１０フォレスト京島Ｆ１０１号室</dd><dt>運営法人</dt><dd>合同会社ＯＲＣＡ</dd><dt>電話</dt><dd><a class="tel" href="tel:0366574062">03-6657-4062</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1370705889</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.orca-welfare.com/" target="_blank" rel="noopener">orca-welfare.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">京島エリア</span><span class="tag">貸与と販売</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="押上" data-mix="両方" data-kind="営利法人">
       <h3><span class="no">21</span>あくとケア　墨田</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 墨田区 押上１－１７－６シャトレー押上　１０１</dd><dt>運営法人</dt><dd>株式会社Ｒｉｎｇ</dd><dt>電話</dt><dd><a class="tel" href="tel:0358097528">03-5809-7528</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1370705921</dd></dl>
       <div class="tags"><span class="tag">押上エリア</span><span class="tag">貸与と販売</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="京島" data-mix="両方" data-kind="営利法人">
       <h3><span class="no">22</span>コスモス福祉用具センター墨田</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 墨田区 京島３－１９－３</dd><dt>運営法人</dt><dd>合同会社にくきゅう</dd><dt>電話</dt><dd><a class="tel" href="tel:0366571223">03-6657-1223</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1370705996</dd></dl>
       <div class="tags"><span class="tag">京島エリア</span><span class="tag">貸与と販売</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="亀沢" data-mix="両方" data-kind="営利法人">
       <h3><span class="no">23</span>ユーケアＳｔａｇｅ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 墨田区 亀沢２－２０－７天田第５ビル４Ｆ</dd><dt>運営法人</dt><dd>株式会社ユナイテッドケア</dd><dt>電話</dt><dd><a class="tel" href="tel:0366585061">03-6658-5061</a></dd><dt>事業所番号</dt><dd class="id">1370706077</dd></dl>
       <div class="tags"><span class="tag">亀沢エリア</span><span class="tag">貸与と販売</span></div>
+    </div>
+    <p class="flt-empty" id="flt-empty" hidden>条件に合う事業所はありません。条件を1つ外してみてください。</p>
     </div>
     <div class="warn"><strong>掲載情報についてのお願い</strong><br>上記23件は、2026-09-22に墨田区および各事業者の公表情報で確認した内容です。営業時間・対応エリア・空き状況は変動しますので、連絡の前に必ず公式情報をご確認ください。掲載内容の訂正・削除は、<a href="../../../contact/">お問い合わせ</a>からご依頼いただければ<strong>理由の説明なしで削除します</strong>。</div>
 
@@ -1170,5 +1183,6 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 })();
 </script>
 <script src="../../../assets/measure.js" defer></script>
+<script src="../../../assets/filter.js" defer></script>
 </body>
 </html>

@@ -530,75 +530,88 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 
     <h2 id="s2">千代田区の訪問看護ステーション一覧</h2>
         <p class="cnt">千代田区内の訪問看護ステーションから14件を掲載しています（東京都公表・2026年9月1日時点）。区内には14件が指定を受けており、そのすべてを掲載しています。掲載順は事業所の優劣を示すものではありません。</p>
-    <div class="card">
+    <div id="flt-top"></div>
+    <div class="flt" id="flt" hidden>
+      <div class="flt-row">
+        <select data-f="town" aria-label="場所で絞り込む"><option value="">場所</option><option value="神田神保町">神田神保町（4）</option><option value="平河町">平河町（2）</option><option value="飯田橋">飯田橋（2）</option><option value="九段北">九段北（1）</option><option value="二番町">二番町（1）</option><option value="東神田">東神田（1）</option><option value="神田司町">神田司町（1）</option><option value="神田美土代町">神田美土代町（1）</option><option value="麹町">麹町（1）</option></select>
+        <select data-f="day" aria-label="曜日で絞り込む"><option value="">曜日</option><option value="sat">土曜も対応（4）</option><option value="sun">日曜も対応（3）</option></select>
+      </div>
+      <p class="flt-n" aria-live="polite"><span><b id="flt-n">14</b> / 14件を表示</span><button type="button" id="flt-reset" hidden>条件をクリア</button></p>
+    </div>
+      <p class="flt-note">「場所」は事務所の所在地です。訪問サービスは近くの町からも来てもらえます。</p>
+      <p class="flt-note" id="flt-daynote" hidden>提供曜日の記載がない5件は、曜日で絞ると表示されません。</p>
+    <div class="bizlist">
+    <div class="card" data-town="神田司町" data-day="sat" data-kind="営利法人">
       <h3><span class="no">1</span>アクア訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 千代田区 神田司町２－１７－６新商神田ビル５階</dd><dt>運営法人</dt><dd>株式会社ＡＣＴＩＶＥＣＡＲＥＡＧＥＮＣＹ</dd><dt>電話</dt><dd><a class="tel" href="tel:0335186403">03-3518-6403</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1360190035</dd><dt>公式サイト</dt><dd><a class="ext" href="http://active-ca.com/" target="_blank" rel="noopener">active-ca.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">神田司町エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="九段北" data-kind="営利法人">
       <h3><span class="no">2</span>九段訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 千代田区 九段北１－１０－５九段櫻ビル８階</dd><dt>運営法人</dt><dd>株式会社ステラ</dd><dt>電話</dt><dd><a class="tel" href="tel:0362725732">03-6272-5732</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360190043</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.stella-kudan.com" target="_blank" rel="noopener">stella-kudan.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">九段北エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="飯田橋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">3</span>みつい訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 千代田区 飯田橋１－８－９ニューシティハイツ飯田橋７階</dd><dt>運営法人</dt><dd>合同会社コミニュティケア</dd><dt>電話</dt><dd><a class="tel" href="tel:0352151507">03-5215-1507</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360190050</dd></dl>
       <div class="tags"><span class="tag">飯田橋エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="神田神保町" data-kind="非営利法人（NPO）">
       <h3><span class="no">4</span>訪問看護ステーション　ジャンヌ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 千代田区 神田神保町１－１４－１ＫＤＸ神保町ビル４階</dd><dt>運営法人</dt><dd>特定非営利活動法人フローレンス</dd><dt>電話</dt><dd><a class="tel" href="tel:0368110907">03-6811-0907</a></dd><dt>事業所番号</dt><dd class="id">1360190076</dd></dl>
       <div class="tags"><span class="tag">神田神保町エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="二番町" data-kind="営利法人">
       <h3><span class="no">5</span>麹町訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 千代田区 二番町１１－２０Ｍｕｓｅｕｍ１９９９二番町ビル１Ｆ</dd><dt>運営法人</dt><dd>株式会社ＮＡＲＵＴＯ</dd><dt>電話</dt><dd><a class="tel" href="tel:0362613927">03-6261-3927</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360190134</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.7610.co.jp" target="_blank" rel="noopener">7610.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">二番町エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="平河町" data-kind="営利法人">
       <h3><span class="no">6</span>かのん訪問看護ステーションちよだ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 千代田区 平河町２－３－１０ライオンズマンション平河町７０５号室</dd><dt>運営法人</dt><dd>株式会社双泉メディカルサポート</dd><dt>電話</dt><dd><a class="tel" href="tel:0362616776">03-6261-6776</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360190159</dd><dt>公式サイト</dt><dd><a class="ext" href="https://sosen-medical.co.jp/kanon-chiyoda" target="_blank" rel="noopener">sosen-medical.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">平河町エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="神田神保町" data-kind="営利法人">
       <h3><span class="no">7</span>ＳｏｉＮｕｒｓｅ訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 千代田区 神田神保町１－１０－３－４Ｆ</dd><dt>運営法人</dt><dd>株式会社ＭｅｄｉＢｌａｎｃａ</dd><dt>電話</dt><dd><a class="tel" href="tel:0366733164">03-6673-3164</a></dd><dt>事業所番号</dt><dd class="id">1360190167</dd></dl>
       <div class="tags"><span class="tag">神田神保町エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="麹町" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">8</span>在宅看護センター番町</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 千代田区 麹町２－１４－６－５０５</dd><dt>運営法人</dt><dd>株式会社Ｃｒｅａｄｅ</dd><dt>電話</dt><dd><a class="tel" href="tel:0369100397">03-6910-0397</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360190183</dd><dt>公式サイト</dt><dd><a class="ext" href="https://home-carenurse.com" target="_blank" rel="noopener">home-carenurse.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">麹町エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="神田美土代町" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">9</span>りーふ訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 千代田区 神田美土代町９－３</dd><dt>運営法人</dt><dd>りーふ訪問看護ステーション合同会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0352174670">03-5217-4670</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360190191</dd></dl>
       <div class="tags"><span class="tag">神田美土代町エリア</span><span class="tag">日曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="平河町" data-kind="営利法人">
       <h3><span class="no">10</span>セレリアンス訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 千代田区 平河町２－４－８平河町アーバンビル６Ｆ</dd><dt>運営法人</dt><dd>セレリアンス株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0363808778">03-6380-8778</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360190209</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.serelience.co.jp/" target="_blank" rel="noopener">serelience.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">平河町エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="飯田橋" data-kind="営利法人">
       <h3><span class="no">11</span>ＳｍｉＬｏｏｐ訪問看護　新宿千代田ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 千代田区 飯田橋１－１２－１Ｄａｉｅｉｓｈａビル１階</dd><dt>運営法人</dt><dd>スマイルコンバイン株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0362616715">03-6261-6715</a></dd><dt>事業所番号</dt><dd class="id">1360190217</dd></dl>
       <div class="tags"><span class="tag">飯田橋エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東神田" data-kind="営利法人">
       <h3><span class="no">12</span>訪問看護ステーションやわら</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 千代田区 東神田１－１１－７ハイツ神田岩本町６０４</dd><dt>運営法人</dt><dd>Ｔ＆Ｍコンサルティング株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0344461329">03-4446-1329</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360190225</dd></dl>
       <div class="tags"><span class="tag">東神田エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="神田神保町" data-kind="営利法人">
       <h3><span class="no">13</span>ゆめか訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 千代田区 神田神保町２－３８－１１岩田ビル３階</dd><dt>運営法人</dt><dd>株式会社ゆめかパートナーズ</dd><dt>電話</dt><dd><a class="tel" href="tel:0365552470">03-6555-2470</a></dd><dt>事業所番号</dt><dd class="id">1360190233</dd></dl>
       <div class="tags"><span class="tag">神田神保町エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="神田神保町" data-kind="営利法人">
       <h3><span class="no">14</span>訪問看護ステーションゆりえ九段下</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 千代田区 神田神保町２－３２－１１</dd><dt>運営法人</dt><dd>エムズナイン株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:07035464648">07035464648</a></dd><dt>事業所番号</dt><dd class="id">1360190241</dd></dl>
       <div class="tags"><span class="tag">神田神保町エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
+    </div>
+    <p class="flt-empty" id="flt-empty" hidden>条件に合う事業所はありません。条件を1つ外してみてください。</p>
     </div>
     <div class="warn"><strong>掲載情報についてのお願い</strong><br>上記14件は、2026-09-21に千代田区および各事業者の公表情報で確認した内容です。営業時間・対応エリア・空き状況は変動しますので、連絡の前に必ず公式情報をご確認ください。掲載内容の訂正・削除は、<a href="../../../contact/">お問い合わせ</a>からご依頼いただければ<strong>理由の説明なしで削除します</strong>。</div>
 
@@ -903,5 +916,6 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 })();
 </script>
 <script src="../../../assets/measure.js" defer></script>
+<script src="../../../assets/filter.js" defer></script>
 </body>
 </html>

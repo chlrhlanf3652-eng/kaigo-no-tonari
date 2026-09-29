@@ -40,6 +40,7 @@
       "parentOrganization": "有限会社サン介護センター",
       "identifier": "1370800045",
       "_town": "東砂",
+      "_kind": "営利法人",
       "url": "http://www.sankaigo.co.jp",
       "_days": [
         "平日",
@@ -67,6 +68,7 @@
       "parentOrganization": "株式会社アンシンケアサービス",
       "identifier": "1370800367",
       "_town": "東陽",
+      "_kind": "営利法人",
       "url": "http://www.anshin.care",
       "_days": [
         "平日",
@@ -94,6 +96,7 @@
       "parentOrganization": "フォービスライフ株式会社",
       "identifier": "1370800409",
       "_town": "海辺",
+      "_kind": "営利法人",
       "url": "http://cs-forvice.com",
       "_days": [
         "平日",
@@ -121,6 +124,7 @@
       "parentOrganization": "株式会社ニチイ学館",
       "identifier": "1370800532",
       "_town": "牡丹",
+      "_kind": "営利法人",
       "url": "https://www.nichiigakkan.co.jp",
       "_days": [
         "平日",
@@ -148,6 +152,7 @@
       "parentOrganization": "株式会社ニチイ学館",
       "identifier": "1370800805",
       "_town": "大島",
+      "_kind": "営利法人",
       "url": "http://www.nichiigakkan.co.jp",
       "_days": [
         "平日",
@@ -175,6 +180,7 @@
       "parentOrganization": "株式会社エスパーズ・プランニング",
       "identifier": "1370800888",
       "_town": "牡丹",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -201,6 +207,7 @@
       "parentOrganization": "株式会社ベストケア",
       "identifier": "1370801068",
       "_town": "南砂",
+      "_kind": "営利法人",
       "url": "https://www.best-care.co.jp",
       "_days": [
         "平日",
@@ -228,6 +235,7 @@
       "parentOrganization": "生活協同組合パルシステム東京",
       "identifier": "1370801480",
       "_town": "辰巳",
+      "_kind": "生協",
       "url": "http://www.palsystem-tokyo.coop",
       "_days": [
         "平日",
@@ -254,6 +262,7 @@
       "parentOrganization": "有限会社ヒロ薬品",
       "identifier": "1370801720",
       "_town": "千田",
+      "_kind": "営利法人",
       "url": "http://www.hiroyaku.co.jp",
       "_days": [
         "平日",
@@ -279,6 +288,7 @@
       "parentOrganization": "株式会社ケア２１",
       "identifier": "1370801795",
       "_town": "東陽",
+      "_kind": "営利法人",
       "url": "http://www.care21.co.jp",
       "_days": [
         "平日",
@@ -306,6 +316,7 @@
       "parentOrganization": "テルウェル東日本株式会社",
       "identifier": "1370801902",
       "_town": "亀戸",
+      "_kind": "営利法人",
       "url": "http://www.telwel-kaigo.com/",
       "_days": [
         "平日",
@@ -333,6 +344,7 @@
       "parentOrganization": "有限会社アイプラン",
       "identifier": "1370802454",
       "_town": "石島",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -359,6 +371,7 @@
       "parentOrganization": "株式会社ベネッセスタイルケア",
       "identifier": "1370802793",
       "_town": "亀戸",
+      "_kind": "営利法人",
       "url": "http://www.benesse-style-care.co.jp",
       "_days": [
         "平日",
@@ -386,6 +399,7 @@
       "parentOrganization": "株式会社ＴＣＳわかば",
       "identifier": "1370802843",
       "_town": "大島",
+      "_kind": "営利法人",
       "url": "http://www.tc-wakaba.com",
       "_days": [
         "平日",
@@ -411,6 +425,7 @@
       "parentOrganization": "有限会社ケア･サポートそよかぜ",
       "identifier": "1370803171",
       "_town": "大島",
+      "_kind": "営利法人",
       "url": "http://www.soyokaze-care.co.jp/",
       "_days": [
         "平日",
@@ -438,6 +453,7 @@
       "parentOrganization": "株式会社はな",
       "identifier": "1370803361",
       "_town": "大島",
+      "_kind": "営利法人",
       "url": "http://hanagroup.jp",
       "_days": [
         "平日",
@@ -465,6 +481,7 @@
       "parentOrganization": "株式会社ラックコーポレーション",
       "identifier": "1370803643",
       "_town": "亀戸",
+      "_kind": "営利法人",
       "url": "http://www.lac-corp.jp/",
       "_days": [
         "平日",
@@ -492,6 +509,7 @@
       "parentOrganization": "株式会社ケア２１",
       "identifier": "1370803742",
       "_town": "大島",
+      "_kind": "営利法人",
       "url": "http://www.care21.co.jp",
       "_days": [
         "平日",
@@ -519,6 +537,7 @@
       "parentOrganization": "株式会社みのり",
       "identifier": "1370803916",
       "_town": "亀戸",
+      "_kind": "営利法人",
       "url": "http://www.minori-kaigo.jp/",
       "_days": [
         "平日",
@@ -545,6 +564,7 @@
       "parentOrganization": "株式会社メディカル・フロント",
       "identifier": "1370803924",
       "_town": "牡丹",
+      "_kind": "営利法人",
       "url": "https://medical-care-5.jimdosite.com/",
       "_days": [
         "平日"
@@ -568,6 +588,7 @@
       "parentOrganization": "株式会社ニチイ学館",
       "identifier": "1370804039",
       "_town": "森下",
+      "_kind": "営利法人",
       "url": "http://www.nichiigakkan.co.jp",
       "_days": [
         "平日",
@@ -595,6 +616,7 @@
       "parentOrganization": "株式会社エスポワール",
       "identifier": "1370804310",
       "_town": "扇橋",
+      "_kind": "営利法人",
       "url": "https://espoir-kaigo.jp/",
       "_days": [
         "平日",
@@ -622,6 +644,7 @@
       "parentOrganization": "株式会社黒澤",
       "identifier": "1370804500",
       "_town": "大島",
+      "_kind": "営利法人",
       "url": "http://joto-hhs.com/",
       "_days": [
         "平日",
@@ -649,6 +672,7 @@
       "parentOrganization": "こころ株式会社",
       "identifier": "1370804518",
       "_town": "潮見",
+      "_kind": "営利法人",
       "url": "https://www.cocorokaigo.jp/",
       "_days": [
         "平日",
@@ -676,6 +700,7 @@
       "parentOrganization": "株式会社グッドライフケア",
       "identifier": "1370804690",
       "_town": "豊洲",
+      "_kind": "営利法人",
       "url": "https://goodlifecare.co.jp/",
       "_tags": [
         "豊洲エリア",
@@ -696,6 +721,7 @@
       "parentOrganization": "株式会社エーダン",
       "identifier": "1370804831",
       "_town": "木場",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -722,6 +748,7 @@
       "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
       "identifier": "1370804914",
       "_town": "東陽",
+      "_kind": "営利法人",
       "url": "https://www.careritz.co.jp/station/branch/kiba/",
       "_days": [
         "平日",
@@ -749,6 +776,7 @@
       "parentOrganization": "株式会社ジョイトラスト",
       "identifier": "1370804989",
       "_town": "毛利",
+      "_kind": "営利法人",
       "url": "http://www.joytrust.jp/ichigo/",
       "_days": [
         "平日",
@@ -776,6 +804,7 @@
       "parentOrganization": "株式会社さくらモンデックス",
       "identifier": "1370805176",
       "_town": "富岡",
+      "_kind": "営利法人",
       "url": "http://www.sakurakaigo.co.jp/service/detail/id/161/ken/area/3/page/2/",
       "_days": [
         "平日",
@@ -803,6 +832,7 @@
       "parentOrganization": "咲の樹ケア株式会社",
       "identifier": "1370805390",
       "_town": "東砂",
+      "_kind": "営利法人",
       "url": "https://eminoki-recruit.com/",
       "_days": [
         "平日",
@@ -830,6 +860,7 @@
       "parentOrganization": "株式会社ネクセル",
       "identifier": "1370805440",
       "_town": "北砂",
+      "_kind": "営利法人",
       "url": "http://www.nexwell.jp/",
       "_days": [
         "平日",
@@ -856,6 +887,7 @@
       "parentOrganization": "ホープウェル株式会社",
       "identifier": "1370805481",
       "_town": "北砂",
+      "_kind": "営利法人",
       "url": "http://www.couragecare.jp",
       "_days": [
         "平日",
@@ -883,6 +915,7 @@
       "parentOrganization": "株式会社シルバーウッド",
       "identifier": "1370805655",
       "_town": "東砂",
+      "_kind": "営利法人",
       "url": "http://www.ginmokusei.net",
       "_days": [
         "平日",
@@ -910,6 +943,7 @@
       "parentOrganization": "株式会社ラックコーポレーション",
       "identifier": "1370805721",
       "_town": "大島",
+      "_kind": "営利法人",
       "url": "http://lac-corp.jp/",
       "_days": [
         "平日",
@@ -937,6 +971,7 @@
       "parentOrganization": "東京海上日動ベターライフサービス株式会社",
       "identifier": "1370805788",
       "_town": "猿江",
+      "_kind": "営利法人",
       "url": "http://www.mizutama-kaigo.jp/stations/kotosumiyoshi/",
       "_days": [
         "平日",
@@ -964,6 +999,7 @@
       "parentOrganization": "グッドワン株式会社",
       "identifier": "1370805853",
       "_town": "住吉",
+      "_kind": "営利法人",
       "url": "https://goodone-kaigo.com",
       "_days": [
         "平日",
@@ -991,6 +1027,7 @@
       "parentOrganization": "グッドワン株式会社",
       "identifier": "1370805911",
       "_town": "南砂",
+      "_kind": "営利法人",
       "url": "https://goodone-kaigo.com",
       "_days": [
         "平日",
@@ -1018,6 +1055,7 @@
       "parentOrganization": "グッドワン株式会社",
       "identifier": "1370805994",
       "_town": "辰巳",
+      "_kind": "営利法人",
       "url": "https://goodone-kaigo.com",
       "_days": [
         "平日",
@@ -1045,6 +1083,7 @@
       "parentOrganization": "トータスケア株式会社",
       "identifier": "1370806059",
       "_town": "亀戸",
+      "_kind": "営利法人",
       "url": "https://tortoisecare.jp/",
       "_days": [
         "平日",
@@ -1072,6 +1111,7 @@
       "parentOrganization": "株式会社カインドケア",
       "identifier": "1370806083",
       "_town": "大島",
+      "_kind": "営利法人",
       "url": "https://www.kindcare-koto.com/",
       "_days": [
         "平日",
@@ -1098,6 +1138,7 @@
       "parentOrganization": "ＳＯＭＰＯケア株式会社",
       "identifier": "1370806190",
       "_town": "東陽",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -1124,6 +1165,7 @@
       "parentOrganization": "株式会社オハナ・ケア",
       "identifier": "1370806273",
       "_town": "大島",
+      "_kind": "営利法人",
       "url": "https://www.ohanacare.co.jp/",
       "_days": [
         "平日",
@@ -1151,6 +1193,7 @@
       "parentOrganization": "社会福祉法人あそか会",
       "identifier": "1370806331",
       "_town": "住吉",
+      "_kind": "社会福祉法人（社協以外）",
       "url": "http://www.asokakai.or.jp",
       "_days": [
         "平日",
@@ -1176,6 +1219,7 @@
       "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
       "identifier": "1370806414",
       "_town": "亀戸",
+      "_kind": "営利法人",
       "url": "https://www.careritz.co.jp/station/branch/kameido/",
       "_days": [
         "平日",
@@ -1203,6 +1247,7 @@
       "parentOrganization": "株式会社サンライフ",
       "identifier": "1370806471",
       "_town": "大島",
+      "_kind": "営利法人",
       "url": "https://sanlife.tokyo/",
       "_days": [
         "平日",
@@ -1230,6 +1275,7 @@
       "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
       "identifier": "1370806489",
       "_town": "南砂",
+      "_kind": "営利法人",
       "url": "https://www.careritz.co.jp/station/branch/minamisunamachi/",
       "_days": [
         "平日",
@@ -1257,6 +1303,7 @@
       "parentOrganization": "ｗｅ　ｃａｒｅ株式会社",
       "identifier": "1370806554",
       "_town": "大島",
+      "_kind": "営利法人",
       "url": "https://www.wecare-senior.com/daytest.html",
       "_days": [
         "平日",
@@ -1284,6 +1331,7 @@
       "parentOrganization": "株式会社ａｓｓｉｓｔ",
       "identifier": "1370806620",
       "_town": "東陽",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -1309,6 +1357,7 @@
       "parentOrganization": "株式会社愛総合福祉",
       "identifier": "1370806752",
       "_town": "木場",
+      "_kind": "営利法人",
       "url": "https://i-sogofukushi.com/",
       "_days": [
         "平日",
@@ -1336,6 +1385,7 @@
       "parentOrganization": "株式会社仁済",
       "identifier": "1370806802",
       "_town": "東陽",
+      "_kind": "営利法人",
       "url": "https://www.jinsai.co.jp",
       "_days": [
         "平日",
@@ -1363,6 +1413,7 @@
       "parentOrganization": "株式会社ＡＴＹ",
       "identifier": "1370806968",
       "_town": "亀戸",
+      "_kind": "営利法人",
       "_days": [
         "平日"
       ],
@@ -1385,6 +1436,7 @@
       "parentOrganization": "株式会社オハナ・ケア",
       "identifier": "1370806984",
       "_town": "古石場",
+      "_kind": "営利法人",
       "url": "https://www.ohanacare.co.jp/",
       "_days": [
         "平日",
@@ -1412,6 +1464,7 @@
       "parentOrganization": "セントケア東京株式会社",
       "identifier": "1370806992",
       "_town": "東雲",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "祝日"
@@ -1435,6 +1488,7 @@
       "parentOrganization": "合同会社ＰｌａｎＢ",
       "identifier": "1370807248",
       "_town": "千石",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -1461,6 +1515,7 @@
       "parentOrganization": "株式会社コミュニケーションサービス",
       "identifier": "1370807263",
       "_town": "北砂",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -1487,6 +1542,7 @@
       "parentOrganization": "株式会社ハッピーケア",
       "identifier": "1370807271",
       "_town": "大島",
+      "_kind": "営利法人",
       "url": "https://www.happycare777.com",
       "_days": [
         "平日"
@@ -1510,6 +1566,7 @@
       "parentOrganization": "アリエ祐起元株式会社",
       "identifier": "1370807305",
       "_town": "千石",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "祝日"
@@ -1533,6 +1590,7 @@
       "parentOrganization": "ＷｙＬ株式会社",
       "identifier": "1370807370",
       "_town": "猿江",
+      "_kind": "営利法人",
       "_tags": [
         "猿江エリア",
         "訪問介護"
@@ -1552,6 +1610,7 @@
       "parentOrganization": "株式会社美らぬち",
       "identifier": "1370807412",
       "_town": "有明",
+      "_kind": "営利法人",
       "_tags": [
         "有明エリア",
         "訪問介護"
@@ -1571,6 +1630,7 @@
       "parentOrganization": "株式会社ｅｃｒｕ",
       "identifier": "1370807420",
       "_town": "森下",
+      "_kind": "営利法人",
       "_tags": [
         "森下エリア",
         "訪問介護"

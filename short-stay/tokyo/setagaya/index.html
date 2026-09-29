@@ -900,160 +900,171 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 
     <h2 id="s2">世田谷区のショートステイ一覧</h2>
         <p class="cnt">世田谷区内の短期入所生活介護事業所から31件を掲載しています（東京都公表・2026年9月1日時点）。区内には31件が指定を受けており、そのすべてを掲載しています。「特養の空床利用」「単独型」などの表示は東京都の一覧の事業所種別名です。空き状況は日々変わるため、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。</p>
-    <div class="card">
+    <div id="flt-top"></div>
+    <div class="flt" id="flt" hidden>
+      <div class="flt-row">
+        <select data-f="town" aria-label="場所で絞り込む"><option value="">場所</option><option value="下馬">下馬（3）</option><option value="成城">成城（3）</option><option value="船橋">船橋（3）</option><option value="上北沢">上北沢（2）</option><option value="上用賀">上用賀（2）</option><option value="北烏山">北烏山（2）</option><option value="弦巻">弦巻（2）</option><option value="瀬田">瀬田（2）</option><option value="等々力">等々力（2）</option><option value="給田">給田（2）</option><option value="上祖師谷">上祖師谷（1）</option><option value="代田">代田（1）</option><option value="北沢">北沢（1）</option><option value="喜多見">喜多見（1）</option><option value="深沢">深沢（1）</option><option value="砧">砧（1）</option><option value="粕谷">粕谷（1）</option><option value="鎌田">鎌田（1）</option></select>
+        <select data-f="fk" aria-label="型で絞り込む"><option value="">型</option><option value="特養の併設事業所型">特養の併設事業所型（25）</option><option value="特養の空床利用型">特養の空床利用型（5）</option><option value="単独型">単独型（1）</option></select>
+      </div>
+      <p class="flt-n" aria-live="polite"><span><b id="flt-n">31</b> / 31件を表示</span><button type="button" id="flt-reset" hidden>条件をクリア</button></p>
+    </div>
+    <div class="bizlist">
+    <div class="card" data-town="船橋" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">1</span>有隣ホーム</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 世田谷区 船橋2-15-38</dd><dt>運営法人</dt><dd>社会福祉法人東京有隣会</dd><dt>電話</dt><dd><a class="tel" href="tel:0334840600">03-3484-0600</a></dd><dt>事業所番号</dt><dd class="id">1371200583</dd></dl>
       <div class="tags"><span class="tag">船橋エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="北烏山" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">2</span>久我山園</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 世田谷区 北烏山２－１４－１４</dd><dt>運営法人</dt><dd>社会福祉法人康和会</dd><dt>電話</dt><dd><a class="tel" href="tel:0333093211">03-3309-3211</a></dd><dt>定員</dt><dd>2</dd><dt>事業所番号</dt><dd class="id">1371200609</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.kugayama-en.org/" target="_blank" rel="noopener">kugayama-en.org<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">北烏山エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="船橋" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">3</span>第２有隣ホーム</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 世田谷区 船橋2-15-38</dd><dt>運営法人</dt><dd>社会福祉法人東京有隣会</dd><dt>電話</dt><dd><a class="tel" href="tel:0334823911">03-3482-3911</a></dd><dt>定員</dt><dd>10</dd><dt>事業所番号</dt><dd class="id">1371200625</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.tokyoyurinkai.or.jp/" target="_blank" rel="noopener">tokyoyurinkai.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">船橋エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="下馬" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">4</span>フレンズホーム</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 世田谷区 下馬二丁目２１番１１号</dd><dt>運営法人</dt><dd>社会福祉法人日本フレンズ奉仕団</dd><dt>電話</dt><dd><a class="tel" href="tel:0334227211">03-3422-7211</a></dd><dt>事業所番号</dt><dd class="id">1371200633</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.n-friends.or.jp" target="_blank" rel="noopener">n-friends.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">下馬エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="砧" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">5</span>砧ホーム</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 世田谷区 砧３－９－１１</dd><dt>運営法人</dt><dd>社会福祉法人友愛十字会</dd><dt>電話</dt><dd><a class="tel" href="tel:0334163164">03-3416-3164</a></dd><dt>定員</dt><dd>4</dd><dt>事業所番号</dt><dd class="id">1371200641</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.yuai.or.jp/" target="_blank" rel="noopener">yuai.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">砧エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="給田" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">6</span>千歳敬心苑</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 世田谷区 給田五丁目９番５号</dd><dt>運営法人</dt><dd>社会福祉法人敬心福祉会</dd><dt>電話</dt><dd><a class="tel" href="tel:0333071165">03-3307-1165</a></dd><dt>定員</dt><dd>42</dd><dt>事業所番号</dt><dd class="id">1371200666</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.keisinen.or.jp/" target="_blank" rel="noopener">keisinen.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">給田エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="成城" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">7</span>特別養護老人ホーム　成城アルテンハイム</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 世田谷区 成城６－１３－１７</dd><dt>運営法人</dt><dd>社会福祉法人古木会</dd><dt>電話</dt><dd><a class="tel" href="tel:0334838001">03-3483-8001</a></dd><dt>事業所番号</dt><dd class="id">1371201276</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.h2.dion.ne.jp/~furuiki/" target="_blank" rel="noopener">h2.dion.ne.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">成城エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="等々力" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">8</span>特別養護老人ホーム等々力の家</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 世田谷区 等々力８丁目２６番１６号</dd><dt>運営法人</dt><dd>社会福祉法人奉優会</dd><dt>電話</dt><dd><a class="tel" href="tel:0357520030">03-5752-0030</a></dd><dt>定員</dt><dd>12</dd><dt>事業所番号</dt><dd class="id">1371202217</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.foryou.or.jp" target="_blank" rel="noopener">foryou.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">等々力エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="鎌田" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">9</span>短期入所生活介護　博水の郷</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 世田谷区 鎌田３－１６－６</dd><dt>運営法人</dt><dd>社会福祉法人大三島育徳会</dd><dt>電話</dt><dd><a class="tel" href="tel:0354910340">03-5491-0340</a></dd><dt>事業所番号</dt><dd class="id">1371202894</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.oomishima.jp/" target="_blank" rel="noopener">oomishima.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">鎌田エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="喜多見" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">10</span>喜多見ホーム</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 世田谷区 喜多見七丁目２０番２６号</dd><dt>運営法人</dt><dd>社会福祉法人南山会</dd><dt>電話</dt><dd><a class="tel" href="tel:0357271161">03-5727-1161</a></dd><dt>定員</dt><dd>10</dd><dt>事業所番号</dt><dd class="id">1371202910</dd><dt>公式サイト</dt><dd><a class="ext" href="http://nanzankai-kitami.sakura.ne.jp/" target="_blank" rel="noopener">nanzankai-kitami.sakura.ne.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">喜多見エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上祖師谷" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">11</span>東京敬寿園</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 世田谷区 上祖師谷７丁目１番１号</dd><dt>運営法人</dt><dd>社会福祉法人敬寿会</dd><dt>電話</dt><dd><a class="tel" href="tel:0353130008">03-5313-0008</a></dd><dt>定員</dt><dd>4</dd><dt>事業所番号</dt><dd class="id">1371203587</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.keijuen.or.jp/tokyo/index.html" target="_blank" rel="noopener">keijuen.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">上祖師谷エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="等々力" data-fk="特養の空床利用型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">12</span>等々力共愛ホームズ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 世田谷区 等々力一丁目２４番１１号</dd><dt>運営法人</dt><dd>社会福祉法人老後を幸せにする会</dd><dt>電話</dt><dd><a class="tel" href="tel:0357066588">03-5706-6588</a></dd><dt>定員</dt><dd>3</dd><dt>事業所番号</dt><dd class="id">1371204858</dd><dt>公式サイト</dt><dd><a class="ext" href="http://rougo-happy.or.jp/" target="_blank" rel="noopener">rougo-happy.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">等々力エリア</span><span class="tag">特養の空床利用</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="北烏山" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">13</span>老人短期入所事業フォーライフ桃郷</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 世田谷区 北烏山７－８－１１</dd><dt>運営法人</dt><dd>社会福祉法人寿心会</dd><dt>電話</dt><dd><a class="tel" href="tel:0333001600">03-3300-1600</a></dd><dt>事業所番号</dt><dd class="id">1371205673</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.jyusinkai.or.jp" target="_blank" rel="noopener">jyusinkai.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">北烏山エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="給田" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">14</span>せたがや給田乃杜（ショートステイ）</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 世田谷区 給田５－３－５</dd><dt>運営法人</dt><dd>社会福祉法人七日会</dd><dt>電話</dt><dd><a class="tel" href="tel:0353847277">03-5384-7277</a></dd><dt>定員</dt><dd>15</dd><dt>事業所番号</dt><dd class="id">1371208537</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.nanokakai.jp" target="_blank" rel="noopener">nanokakai.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">給田エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="成城" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">15</span>特別養護老人ホーム　エリザベート成城</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 世田谷区 成城８－２７－２４</dd><dt>運営法人</dt><dd>社会福祉法人緑風会</dd><dt>電話</dt><dd><a class="tel" href="tel:0337898100">03-3789-8100</a></dd><dt>定員</dt><dd>20</dd><dt>事業所番号</dt><dd class="id">1371212612</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.ryokufu1984.or.jp/" target="_blank" rel="noopener">ryokufu1984.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">成城エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="深沢" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">16</span>特別養護老人ホーム　深沢共愛ホームズ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 世田谷区 深沢１－３２－２１</dd><dt>運営法人</dt><dd>社会福祉法人老後を幸せにする会</dd><dt>電話</dt><dd><a class="tel" href="tel:0357606331">03-5760-6331</a></dd><dt>事業所番号</dt><dd class="id">1371214592</dd><dt>公式サイト</dt><dd><a class="ext" href="http://rougo-happy.or.jp/" target="_blank" rel="noopener">rougo-happy.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">深沢エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="下馬" data-fk="特養の空床利用型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">17</span>特別養護老人ホーム下馬の家</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 世田谷区 下馬２－２５－８</dd><dt>運営法人</dt><dd>社会福祉法人奉優会</dd><dt>電話</dt><dd><a class="tel" href="tel:0368055620">03-6805-5620</a></dd><dt>事業所番号</dt><dd class="id">1371215425</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.foryou.or.jp/facility/shimouma/w114/" target="_blank" rel="noopener">foryou.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">下馬エリア</span><span class="tag">特養の空床利用</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上用賀" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">18</span>短期入所生活介護施設馬事公苑</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 世田谷区 上用賀４－１５－１２</dd><dt>運営法人</dt><dd>社会福祉法人恵神会</dd><dt>電話</dt><dd><a class="tel" href="tel:0368044835">03-6804-4835</a></dd><dt>定員</dt><dd>8</dd><dt>事業所番号</dt><dd class="id">1371215540</dd><dt>公式サイト</dt><dd><a class="ext" href="http://f-keishinkai.jp/" target="_blank" rel="noopener">f-keishinkai.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">上用賀エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="下馬" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">19</span>短期入所生活介護　ときわぎ世田谷</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 世田谷区 下馬２－３－１０</dd><dt>運営法人</dt><dd>社会福祉法人常盤会</dd><dt>電話</dt><dd><a class="tel" href="tel:0364138571">03-6413-8571</a></dd><dt>定員</dt><dd>10</dd><dt>事業所番号</dt><dd class="id">1371215680</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.tokiwakai.tokyo" target="_blank" rel="noopener">tokiwakai.tokyo<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">下馬エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="瀬田" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">20</span>介護老人福祉施設　ラペ二子玉川</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 世田谷区 瀬田４－５－５</dd><dt>運営法人</dt><dd>社会福祉法人緑樹会</dd><dt>電話</dt><dd><a class="tel" href="tel:0368056678">03-6805-6678</a></dd><dt>事業所番号</dt><dd class="id">1371215755</dd><dt>公式サイト</dt><dd><a class="ext" href="https://ryokujyukai.com" target="_blank" rel="noopener">ryokujyukai.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">瀬田エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="弦巻" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">21</span>老人短期入所施設さくらほうむ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 世田谷区 弦巻３－３－１７</dd><dt>運営法人</dt><dd>社会福祉法人ケアネット</dd><dt>電話</dt><dd><a class="tel" href="tel:0368097603">03-6809-7603</a></dd><dt>定員</dt><dd>10</dd><dt>事業所番号</dt><dd class="id">1371215854</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.yayoi-home.com" target="_blank" rel="noopener">yayoi-home.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">弦巻エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="瀬田" data-fk="単独型" data-kind="営利法人">
       <h3><span class="no">22</span>ケアプラスホテル　瀬田ステイ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 世田谷区 瀬田１－２５－４</dd><dt>運営法人</dt><dd>株式会社ＳＯＹＯＫＡＺＥ</dd><dt>電話</dt><dd><a class="tel" href="tel:0354917017">03-5491-7017</a></dd><dt>定員</dt><dd>24</dd><dt>事業所番号</dt><dd class="id">1371216043</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.sykz.co.jp/shisetsu-zaitaku/134183" target="_blank" rel="noopener">sykz.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">瀬田エリア</span><span class="tag">単独型</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="粕谷" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">23</span>特別養護老人ホーム芦花ホーム</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 世田谷区 粕谷２－２３－１</dd><dt>運営法人</dt><dd>社会福祉法人世田谷区社会福祉事業団</dd><dt>電話</dt><dd><a class="tel" href="tel:0353171094">03-5317-1094</a></dd><dt>事業所番号</dt><dd class="id">1371216332</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.setagayaj.or.jp/service/nursinghome/roka" target="_blank" rel="noopener">setagayaj.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">粕谷エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上北沢" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">24</span>特別養護老人ホーム上北沢ホーム</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 世田谷区 上北沢１－２８－１７</dd><dt>運営法人</dt><dd>社会福祉法人世田谷区社会福祉事業団</dd><dt>電話</dt><dd><a class="tel" href="tel:0333065155">03-3306-5155</a></dd><dt>事業所番号</dt><dd class="id">1371216340</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.setagayaj.or.jp/" target="_blank" rel="noopener">setagayaj.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">上北沢エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="北沢" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">25</span>短期入所生活介護きたざわ苑</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 世田谷区 北沢５－２４－１８</dd><dt>運営法人</dt><dd>社会福祉法人正吉福祉会</dd><dt>電話</dt><dd><a class="tel" href="tel:0354535620">03-5453-5620</a></dd><dt>事業所番号</dt><dd class="id">1371216357</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.shoukichi.org/kitazawa/" target="_blank" rel="noopener">shoukichi.org<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">北沢エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="成城" data-fk="特養の空床利用型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">26</span>特別養護老人ホーム　ハートハウス成城</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 世田谷区 成城３－２－９</dd><dt>運営法人</dt><dd>社会福祉法人青藍会</dd><dt>電話</dt><dd><a class="tel" href="tel:0334165820">03-3416-5820</a></dd><dt>事業所番号</dt><dd class="id">1371216985</dd></dl>
       <div class="tags"><span class="tag">成城エリア</span><span class="tag">特養の空床利用</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="船橋" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">27</span>世田谷希望丘ホーム　ショートステイ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 世田谷区 船橋６－２５－２５</dd><dt>運営法人</dt><dd>社会福祉法人楽晴会</dd><dt>電話</dt><dd><a class="tel" href="tel:0353165383">03-5316-5383</a></dd><dt>事業所番号</dt><dd class="id">1371216993</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.rakuseikai.or.jp/" target="_blank" rel="noopener">rakuseikai.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">船橋エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="弦巻" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">28</span>特別養護老人ホーム　弦巻の家</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 世田谷区 弦巻５－３４－５</dd><dt>運営法人</dt><dd>社会福祉法人奉優会</dd><dt>電話</dt><dd><a class="tel" href="tel:0364137811">03-6413-7811</a></dd><dt>事業所番号</dt><dd class="id">1371217025</dd><dt>公式サイト</dt><dd><a class="ext" href="https://foryou.or.jp" target="_blank" rel="noopener">foryou.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">弦巻エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上北沢" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">29</span>地域密着型特別養護老人ホーム寿満ホームかみきたざわ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 世田谷区 上北沢１－３２－１１</dd><dt>運営法人</dt><dd>社会福祉法人世田谷区社会福祉事業団</dd><dt>電話</dt><dd><a class="tel" href="tel:0368249080">03-6824-9080</a></dd><dt>事業所番号</dt><dd class="id">1371217322</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.setagayaj.or.jp/" target="_blank" rel="noopener">setagayaj.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">上北沢エリア</span><span class="tag">併設・専用床</span><span class="tag">開設3年以内</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="代田" data-fk="特養の空床利用型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">30</span>特別養護老人ホーム代田の家</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 世田谷区 代田１－２１－１１</dd><dt>運営法人</dt><dd>社会福祉法人奉優会</dd><dt>電話</dt><dd><a class="tel" href="tel:0357876057">03-5787-6057</a></dd><dt>事業所番号</dt><dd class="id">1371217694</dd></dl>
       <div class="tags"><span class="tag">代田エリア</span><span class="tag">特養の空床利用</span><span class="tag">開設3年以内</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上用賀" data-fk="特養の空床利用型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">31</span>特別養護老人ホーム上用賀の家</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 世田谷区 上用賀６－２－９</dd><dt>運営法人</dt><dd>社会福祉法人奉優会</dd><dt>電話</dt><dd><a class="tel" href="tel:0368044591">03-6804-4591</a></dd><dt>事業所番号</dt><dd class="id">1371218015</dd></dl>
       <div class="tags"><span class="tag">上用賀エリア</span><span class="tag">特養の空床利用</span><span class="tag">開設3年以内</span><span class="tag">ショートステイ</span></div>
+    </div>
+    <p class="flt-empty" id="flt-empty" hidden>条件に合う事業所はありません。条件を1つ外してみてください。</p>
     </div>
     <div class="warn"><strong>掲載情報についてのお願い</strong><br>上記31件は、2026-09-22に世田谷区および各事業者の公表情報で確認した内容です。営業時間・対応エリア・空き状況は変動しますので、連絡の前に必ず公式情報をご確認ください。掲載内容の訂正・削除は、<a href="../../../contact/">お問い合わせ</a>からご依頼いただければ<strong>理由の説明なしで削除します</strong>。</div>
 
@@ -1402,5 +1413,6 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 })();
 </script>
 <script src="../../../assets/measure.js" defer></script>
+<script src="../../../assets/filter.js" defer></script>
 </body>
 </html>

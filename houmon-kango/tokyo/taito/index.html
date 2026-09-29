@@ -947,170 +947,184 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 
     <h2 id="s2">台東区の訪問看護ステーション一覧</h2>
         <p class="cnt">台東区内の訪問看護ステーションから33件を掲載しています（東京都公表・2026年9月1日時点）。区内には33件が指定を受けており、そのすべてを掲載しています。掲載順は事業所の優劣を示すものではありません。</p>
-    <div class="card">
+    <div id="flt-top"></div>
+    <div class="flt" id="flt" hidden>
+      <div class="flt-row">
+        <select data-f="town" aria-label="場所で絞り込む"><option value="">場所</option><option value="根岸">根岸（4）</option><option value="千束">千束（3）</option><option value="東上野">東上野（3）</option><option value="浅草">浅草（3）</option><option value="浅草橋">浅草橋（3）</option><option value="日本堤">日本堤（2）</option><option value="下谷">下谷（1）</option><option value="元浅草">元浅草（1）</option><option value="入谷">入谷（1）</option><option value="北上野">北上野（1）</option><option value="台東">台東（1）</option><option value="寿">寿（1）</option><option value="小島">小島（1）</option><option value="松が谷">松が谷（1）</option><option value="柳橋">柳橋（1）</option><option value="橋場">橋場（1）</option><option value="清川">清川（1）</option><option value="花川戸">花川戸（1）</option><option value="蔵前">蔵前（1）</option><option value="谷中">谷中（1）</option><option value="雷門">雷門（1）</option></select>
+        <select data-f="day" aria-label="曜日で絞り込む"><option value="">曜日</option><option value="sat">土曜も対応（13）</option><option value="sun">日曜も対応（7）</option></select>
+        <select data-f="kind" aria-label="法人で絞り込む"><option value="">法人</option><option value="営利法人">営利法人（24）</option><option value="医療法人">医療法人（4）</option><option value="非営利法人（NPO）">非営利法人（NPO）（3）</option><option value="社団・財団">社団・財団（2）</option></select>
+      </div>
+      <p class="flt-n" aria-live="polite"><span><b id="flt-n">33</b> / 33件を表示</span><button type="button" id="flt-reset" hidden>条件をクリア</button></p>
+    </div>
+      <p class="flt-note">「場所」は事務所の所在地です。訪問サービスは近くの町からも来てもらえます。</p>
+      <p class="flt-note" id="flt-daynote" hidden>提供曜日の記載がない5件は、曜日で絞ると表示されません。</p>
+    <div class="bizlist">
+    <div class="card" data-town="浅草橋" data-kind="営利法人">
       <h3><span class="no">1</span>いきいきＳＵＮ訪問看護リハビリステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 台東区 浅草橋１－３２－６コスモス浅草橋酒井ビル６Ｆ</dd><dt>運営法人</dt><dd>株式会社メディセプト</dd><dt>電話</dt><dd><a class="tel" href="tel:0358091761">03-5809-1761</a></dd><dt>サービス提供日</dt><dd>平日・祝日</dd><dt>事業所番号</dt><dd class="id">1360290074</dd><dt>公式サイト</dt><dd><a class="ext" href="http://sun.medicept.co.jp/" target="_blank" rel="noopener">sun.medicept.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">浅草橋エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="浅草橋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">2</span>ソフィアメディ訪問看護ステーション東日本橋</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 台東区 浅草橋３－１９－２富士ビル３階</dd><dt>運営法人</dt><dd>ソフィアメディ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0366670702">03-6667-0702</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360290207</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.sophiamedi.co.jp" target="_blank" rel="noopener">sophiamedi.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">浅草橋エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="元浅草" data-day="sat" data-kind="医療法人">
       <h3><span class="no">3</span>医療法人社団輝生会　訪問看護ステーションわっか</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 台東区 元浅草１－６－１７ＮＩＣ上野ビル７階</dd><dt>運営法人</dt><dd>医療法人社団輝生会</dd><dt>電話</dt><dd><a class="tel" href="tel:0358288075">03-5828-8075</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360690042</dd><dt>公式サイト</dt><dd><a class="ext" href="http://motoasakusa-reha.com/" target="_blank" rel="noopener">motoasakusa-reha.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">元浅草エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="雷門" data-kind="医療法人">
       <h3><span class="no">4</span>トータルライフ訪問看護ステーション雷門</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 台東区 雷門２－１１－１０コモドール雷門１Ｆ</dd><dt>運営法人</dt><dd>医療法人社団トータルライフ医療会</dd><dt>電話</dt><dd><a class="tel" href="tel:0358273655">03-5827-3655</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360690075</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.tlc.or.jp" target="_blank" rel="noopener">tlc.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">雷門エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="台東" data-day="sat" data-kind="営利法人">
       <h3><span class="no">5</span>はる訪問看護リハビリステーション御徒町</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 台東区 台東３－１７－１ダイアパレス御徒町Ｖ３０４</dd><dt>運営法人</dt><dd>株式会社Ｇｅｎｔｅｎ　Ｌｉｎｋｓ</dd><dt>電話</dt><dd><a class="tel" href="tel:0338335556">03-3833-5556</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1360690083</dd><dt>公式サイト</dt><dd><a class="ext" href="https://haru-care.jp/" target="_blank" rel="noopener">haru-care.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">台東エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="浅草橋" data-kind="営利法人">
       <h3><span class="no">6</span>訪問看護ステーション　こんにちわ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 台東区 浅草橋１－４－２－３０５</dd><dt>運営法人</dt><dd>株式会社こんにちわ</dd><dt>電話</dt><dd><a class="tel" href="tel:0358093602">03-5809-3602</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360690109</dd></dl>
       <div class="tags"><span class="tag">浅草橋エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="浅草" data-day="sat" data-kind="営利法人">
       <h3><span class="no">7</span>訪問看護ステーションＴＯＭＯ浅草</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 台東区 浅草３－３６－９小宮ビル１Ｆ</dd><dt>運営法人</dt><dd>株式会社Ｈｕｍａｎ　Ｎｅｘｔ</dd><dt>電話</dt><dd><a class="tel" href="tel:0356032828">03-5603-2828</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360690133</dd><dt>公式サイト</dt><dd><a class="ext" href="https://hhn-tomo.life/office/tomo-asakusa.html" target="_blank" rel="noopener">hhn-tomo.life<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">浅草エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="浅草" data-kind="営利法人">
       <h3><span class="no">8</span>よつば訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 台東区 浅草５－５４－４サンファスト浅草ＳＡビル１０２号室</dd><dt>運営法人</dt><dd>株式会社よつば</dd><dt>電話</dt><dd><a class="tel" href="tel:0368023240">03-6802-3240</a></dd><dt>サービス提供日</dt><dd>平日・祝日</dd><dt>事業所番号</dt><dd class="id">1360690141</dd><dt>公式サイト</dt><dd><a class="ext" href="http://yotuba-clover.net" target="_blank" rel="noopener">yotuba-clover.net<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">浅草エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="花川戸" data-kind="営利法人">
       <h3><span class="no">9</span>こもれび訪問看護リハビリステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 台東区 花川戸１－１５－１フェスタ花川戸８０１</dd><dt>運営法人</dt><dd>ｏｎｅ’ｓ　ｈｅａｒｔ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0368027671">03-6802-7671</a></dd><dt>サービス提供日</dt><dd>平日・祝日</dd><dt>事業所番号</dt><dd class="id">1360690158</dd><dt>公式サイト</dt><dd><a class="ext" href="http://onesheart.fun/" target="_blank" rel="noopener">onesheart.fun<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">花川戸エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="北上野" data-kind="営利法人">
       <h3><span class="no">10</span>かきつばた訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 台東区 北上野１－１１－１３前島ビル</dd><dt>運営法人</dt><dd>株式会社ＮＥＸＴ　ｌｅＢＥＬＬ</dd><dt>電話</dt><dd><a class="tel" href="tel:0358092951">03-5809-2951</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360690166</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.kakitsubata-houkan.com" target="_blank" rel="noopener">kakitsubata-houkan.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">北上野エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東上野" data-day="sat" data-kind="営利法人">
       <h3><span class="no">11</span>訪問看護ステーション　はな　上野</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 台東区 東上野１－１７－１外園ビル１Ｆ</dd><dt>運営法人</dt><dd>株式会社はな</dd><dt>電話</dt><dd><a class="tel" href="tel:0368226553">03-6822-6553</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1360690174</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.hana-kango.com" target="_blank" rel="noopener">hana-kango.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東上野エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="寿" data-day="sat" data-kind="医療法人">
       <h3><span class="no">12</span>医療法人社団博腎会　ことぶき　訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 台東区 寿１－１０－２０－２Ｆ</dd><dt>運営法人</dt><dd>医療法人社団博腎会</dd><dt>電話</dt><dd><a class="tel" href="tel:0338440628">03-3844-0628</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360690182</dd></dl>
       <div class="tags"><span class="tag">寿エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="下谷" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">13</span>ソフィアメディ訪問看護ステーション入谷</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 台東区 下谷１－９－６小泉ビル３階</dd><dt>運営法人</dt><dd>ソフィアメディ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0358306330">03-5830-6330</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360690208</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.sophiamedi.co.jp/" target="_blank" rel="noopener">sophiamedi.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">下谷エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="千束" data-kind="営利法人">
       <h3><span class="no">14</span>訪問看護ステーション　あずき</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 台東区 千束３－５－１０リヴゴーシュｉＭ１階</dd><dt>運営法人</dt><dd>株式会社海月ＫＵＲＡＧＥ</dd><dt>電話</dt><dd><a class="tel" href="tel:0338745661">03-3874-5661</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360690216</dd><dt>公式サイト</dt><dd><a class="ext" href="http://kuragegroup.com" target="_blank" rel="noopener">kuragegroup.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">千束エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="小島" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">15</span>ほほえみ訪問看護リハビリステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 台東区 小島２－２１－１８ＴＸ小島ビル５階</dd><dt>運営法人</dt><dd>株式会社ダイシン</dd><dt>電話</dt><dd><a class="tel" href="tel:0358306905">03-5830-6905</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360690257</dd><dt>公式サイト</dt><dd><a class="ext" href="https://peraichi.com/landing_pages/view/hohoemihoumonnkanngo/" target="_blank" rel="noopener">peraichi.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">小島エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="松が谷" data-day="sat" data-kind="営利法人">
       <h3><span class="no">16</span>訪問看護ステーションちるな</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 台東区 松が谷３－６－８ｍａｉｓｏｎ　ｍｏｍｏ２階</dd><dt>運営法人</dt><dd>株式会社ｃｈｉｌｌｎａ</dd><dt>電話</dt><dd><a class="tel" href="tel:0368024374">03-6802-4374</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1360690273</dd><dt>公式サイト</dt><dd><a class="ext" href="https://chillna.co.jp" target="_blank" rel="noopener">chillna.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">松が谷エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="蔵前" data-kind="非営利法人（NPO）">
       <h3><span class="no">17</span>訪問看護ステーション　アンテリア</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 台東区 蔵前４－１６－４東京都ラベル印刷ビル　２階</dd><dt>運営法人</dt><dd>特定非営利活動法人Ａｌｍａ</dd><dt>電話</dt><dd><a class="tel" href="tel:0358299455">03-5829-9455</a></dd><dt>事業所番号</dt><dd class="id">1360690281</dd></dl>
       <div class="tags"><span class="tag">蔵前エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="谷中" data-kind="営利法人">
       <h3><span class="no">18</span>訪問看護ステーションほのか</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 台東区 谷中３－９－２テラスハウスベル６</dd><dt>運営法人</dt><dd>株式会社稲穂</dd><dt>電話</dt><dd><a class="tel" href="tel:0358348157">03-5834-8157</a></dd><dt>サービス提供日</dt><dd>平日・祝日</dd><dt>事業所番号</dt><dd class="id">1360690299</dd><dt>公式サイト</dt><dd><a class="ext" href="https://honoka-inaho.com/" target="_blank" rel="noopener">honoka-inaho.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">谷中エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="根岸" data-kind="営利法人">
       <h3><span class="no">19</span>オハナケア訪問看護ステーション根岸</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 台東区 根岸３－１－１６－９０１号ラウレア</dd><dt>運営法人</dt><dd>株式会社オハナケア</dd><dt>電話</dt><dd><a class="tel" href="tel:0338744448">03-3874-4448</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360690307</dd><dt>公式サイト</dt><dd><a class="ext" href="https://ohanacare-houmonkango.com/" target="_blank" rel="noopener">ohanacare-houmonkango.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">根岸エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東上野" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">20</span>訪問看護ステーション　いろどり</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 台東区 東上野６－３０－２山岸荘１Ｆ</dd><dt>運営法人</dt><dd>株式会社いろどり</dd><dt>電話</dt><dd><a class="tel" href="tel:0352464939">03-5246-4939</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360690315</dd></dl>
       <div class="tags"><span class="tag">東上野エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="千束" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">21</span>あしなら訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 台東区 千束２－１９－７コーポ梅沢Ⅱ４Ｆ</dd><dt>運営法人</dt><dd>ＧＯＪＯ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0358087942">03-5808-7942</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360690323</dd><dt>公式サイト</dt><dd><a class="ext" href="https://gojo-inc.jp" target="_blank" rel="noopener">gojo-inc.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">千束エリア</span><span class="tag">日曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="千束" data-day="sat|sun" data-kind="社団・財団">
       <h3><span class="no">22</span>訪問看護ステーションはなえ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 台東区 千束３－９－９齋藤ビル2階</dd><dt>運営法人</dt><dd>一般社団法人輝翔会</dd><dt>電話</dt><dd><a class="tel" href="tel:0368023874">03-6802-3874</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360690331</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.hanae8343.com" target="_blank" rel="noopener">hanae8343.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">千束エリア</span><span class="tag">日曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="入谷" data-kind="社団・財団">
       <h3><span class="no">23</span>グレース訪問看護ステーション城東</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 台東区 入谷１－８－１１グレースタワー４Ｆ</dd><dt>運営法人</dt><dd>一般社団法人在宅医療協会</dd><dt>電話</dt><dd><a class="tel" href="tel:0368023051">03-6802-3051</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360690356</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.grace-dc.com/clinic/nurse-joto/" target="_blank" rel="noopener">grace-dc.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">入谷エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="日本堤" data-kind="営利法人">
       <h3><span class="no">24</span>訪問看護ステーションちゃっぴー</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 台東区 日本堤１－１－１１ヴィータローザＣＱレジデンス３０２</dd><dt>運営法人</dt><dd>株式会社Ｓｍｉｌｅ．ｎｓ</dd><dt>電話</dt><dd><a class="tel" href="tel:0352464880">03-5246-4880</a></dd><dt>事業所番号</dt><dd class="id">1360690364</dd></dl>
       <div class="tags"><span class="tag">日本堤エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="根岸" data-kind="営利法人">
       <h3><span class="no">25</span>訪問看護ＢＨ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 台東区 根岸２－２０－５パストラル根岸７０１</dd><dt>運営法人</dt><dd>ＢＨ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0358089512">03-5808-9512</a></dd><dt>サービス提供日</dt><dd>平日・祝日</dd><dt>事業所番号</dt><dd class="id">1360690372</dd></dl>
       <div class="tags"><span class="tag">根岸エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="橋場" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">26</span>きょう訪問看護リハビリステーション浅草</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 台東区 橋場１－１４－２メゾンＯＫＡ１０１号</dd><dt>運営法人</dt><dd>株式会社Ｋｙｏ</dd><dt>電話</dt><dd><a class="tel" href="tel:05017215100">05017215100</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360690380</dd><dt>公式サイト</dt><dd><a class="ext" href="https://kyo-hvns.com" target="_blank" rel="noopener">kyo-hvns.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">橋場エリア</span><span class="tag">日曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="根岸" data-kind="営利法人">
       <h3><span class="no">27</span>そらのいろ訪問看護ステーション台東荒川</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 台東区 根岸２－１６－１１倉沢ビル２０１</dd><dt>運営法人</dt><dd>株式会社メイディット</dd><dt>電話</dt><dd><a class="tel" href="tel:0368023576">03-6802-3576</a></dd><dt>事業所番号</dt><dd class="id">1360690398</dd></dl>
       <div class="tags"><span class="tag">根岸エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="浅草" data-kind="営利法人">
       <h3><span class="no">28</span>ポアル訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 台東区 浅草６－２１－１４</dd><dt>運営法人</dt><dd>株式会社ＴＡＩ</dd><dt>電話</dt><dd><a class="tel" href="tel:0338737809">03-3873-7809</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360690406</dd><dt>公式サイト</dt><dd><a class="ext" href="http://poelecare.com" target="_blank" rel="noopener">poelecare.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">浅草エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="根岸" data-kind="営利法人">
       <h3><span class="no">29</span>リニエ訪問看護ステーション台東</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 台東区 根岸３－１８－１６水野ビル３Ｆ</dd><dt>運営法人</dt><dd>株式会社リニエＲ</dd><dt>電話</dt><dd><a class="tel" href="tel:0358081505">03-5808-1505</a></dd><dt>事業所番号</dt><dd class="id">1360690414</dd></dl>
       <div class="tags"><span class="tag">根岸エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="柳橋" data-kind="営利法人">
       <h3><span class="no">30</span>みねっと訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 台東区 柳橋１－１１－５柳橋ビル５０１</dd><dt>運営法人</dt><dd>合同会社Ｒｉｒｅ</dd><dt>電話</dt><dd><a class="tel" href="tel:0344058532">03-4405-8532</a></dd><dt>事業所番号</dt><dd class="id">1360690422</dd></dl>
       <div class="tags"><span class="tag">柳橋エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東上野" data-kind="医療法人">
       <h3><span class="no">31</span>医療法人財団　はるたか会　訪問看護ステーション　そら</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 台東区 東上野４－２７－３上野トーセイビル８階</dd><dt>運営法人</dt><dd>医療法人財団はるたか会</dd><dt>電話</dt><dd><a class="tel" href="tel:0364561197">03-6456-1197</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360790198</dd><dt>公式サイト</dt><dd><a class="ext" href="https://harutaka-aozora.jp" target="_blank" rel="noopener">harutaka-aozora.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東上野エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="日本堤" data-kind="非営利法人（NPO）">
       <h3><span class="no">32</span>訪問看護ステーションコスモス</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 台東区 日本堤１－１－７</dd><dt>運営法人</dt><dd>特定非営利活動法人訪問看護ステーションコスモス</dd><dt>電話</dt><dd><a class="tel" href="tel:0338717228">03-3871-7228</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1367195415</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.s-cosmos.org/" target="_blank" rel="noopener">s-cosmos.org<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">日本堤エリア</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="清川" data-kind="非営利法人（NPO）">
       <h3><span class="no">33</span>訪問看護ステーションゆうあい</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 台東区 清川２－２－３</dd><dt>運営法人</dt><dd>特定非営利活動法人友愛会</dd><dt>電話</dt><dd><a class="tel" href="tel:0358249135">03-5824-9135</a></dd><dt>サービス提供日</dt><dd>平日・祝日</dd><dt>事業所番号</dt><dd class="id">1367197023</dd><dt>公式サイト</dt><dd><a class="ext" href="https://you-i-kai.net" target="_blank" rel="noopener">you-i-kai.net<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">清川エリア</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
+    </div>
+    <p class="flt-empty" id="flt-empty" hidden>条件に合う事業所はありません。条件を1つ外してみてください。</p>
     </div>
     <div class="warn"><strong>掲載情報についてのお願い</strong><br>上記33件は、2026-09-21に台東区および各事業者の公表情報で確認した内容です。営業時間・対応エリア・空き状況は変動しますので、連絡の前に必ず公式情報をご確認ください。掲載内容の訂正・削除は、<a href="../../../contact/">お問い合わせ</a>からご依頼いただければ<strong>理由の説明なしで削除します</strong>。</div>
 
@@ -1430,5 +1444,6 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 })();
 </script>
 <script src="../../../assets/measure.js" defer></script>
+<script src="../../../assets/filter.js" defer></script>
 </body>
 </html>

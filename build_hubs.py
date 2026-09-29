@@ -302,7 +302,16 @@ def build_top():
             f'<a class="cat" href="{c["id"]}/">'
             f'<b>{c["name"]}</b><span>{c["tagline"]}</span>'
             f'<em>{label}</em></a>')
+    # ヒーローは「区ごとに、答えが違う」なのに、以前はサービスから選ばせていた。
+    # はじめての家族は、区は分かってもどのサービスが要るかは分からない。区から入れる。
+    sys.path.insert(0, str(BASE / "tools"))
+    from wards import WARDS as W
+    wards = "\n      ".join(f'<a href="tokyo/{w}/">{v["name"]}</a>' for w, v in W.items())
     content = (
+        '  <h2 id="ward">お住まいの区から探す</h2>\n'
+        '  <p>区を選ぶと、その区で使える介護サービスと事業所数、最初の相談窓口の名前がわかります。'
+        '現在は東京23区を掲載しています。</p>\n'
+        f'  <div class="lg tight">\n      {wards}\n  </div>\n'
         '  <h2 id="cat">サービスから探す</h2>\n'
         '  <div class="cats">' + "".join(cards) + "</div>\n"
         + partial("hub_top", root)
@@ -437,7 +446,7 @@ def build_area(pref_id):
                 cells.append('<td class="num tiny">—</td>')
         st = KO.stats(wid)
         rate = f'{st["rate65"]}%' if st else "—"
-        rows.append(f'      <tr><th class="nw">{w["name"]}</th><td class="num">{rate}</td>'
+        rows.append(f'      <tr><th class="nw"><a href="{wid}/">{w["name"]}</a></th><td class="num">{rate}</td>'
                     + "".join(cells) + "</tr>")
 
     total_pages = sum(1 for c in cats for wid in W if has_data(c["id"], pref_id, wid))
@@ -495,6 +504,113 @@ def build_area(pref_id):
          "区内の事業所数と高齢化率も並べています。",
          crumbs([("ホーム", root), (pref["name"], None)]),
          content, url, ld(graph), area_id=pref_id, ptype="area")
+
+
+# ------------------------------------------------------------ 区ごとのハブ
+def _ward_madoguchi(wid, rec):
+    """build_ward.py と同じ書き方で、相談窓口の呼び名と設置数を一文にする。"""
+    from counts import MADOGUCHI_OVERRIDE   # 訪問介護ページと同じ呼び名にそろえる
+    ward = rec.get("name", "")
+    madoguchi = (MADOGUCHI_OVERRIDE.get(wid) or rec.get("madoguchi")
+                 or "地域包括支援センター")
+    centers = rec.get("centers")
+    where = f"区内に{centers}か所" if centers else "区内各地に"
+    if madoguchi == "地域包括支援センター":
+        return madoguchi, f"{ward}の地域包括支援センターは{where}あります。"
+    if "（" in madoguchi:
+        base, alias = madoguchi.split("（", 1)
+        return madoguchi, (f"{ward}では{base}を「{alias.rstrip('）')}」の愛称で呼び、"
+                           f"{where}あります。")
+    return madoguchi, f"{ward}では地域包括支援センターを「{madoguchi}」と呼び、{where}あります。"
+
+
+def build_ward_hub(pref_id, wid):
+    """1つの区の、使えるサービスをまとめたページ。
+
+    トップの「区から探す」の行き先。区を選んで、サービスを選ぶ。2回のタップで
+    事業所一覧にたどり着けるようにする（サービスが何か分からない人でも迷わない）。
+    """
+    sys.path.insert(0, str(BASE / "tools"))
+    from wards import WARDS as W
+    import linkgrid as LG
+    import koreika as KO
+
+    pref = next(p for p in S["prefs"] if p["id"] == pref_id)
+    ward = W[wid]["name"]
+    root = "../../"
+    base = BASE / "tools" / "cache" / f"{wid}.json"
+    rec = json.loads(base.read_text(encoding="utf-8")) if base.exists() else {"name": ward}
+    madoguchi, mado_note = _ward_madoguchi(wid, rec)
+
+    cards, total = [], 0
+    for c in S["categories"]:
+        if not has_data(c["id"], pref_id, wid):
+            continue
+        n = LG.counts(c["id"]).get(wid) if c["id"] in LG.CATS else None
+        total += n or 0
+        label = f"区内{n}件" if n else "掲載中"
+        cards.append(f'<a class="cat" href="{root}{c["id"]}/{pref_id}/{wid}/">'
+                     f'<b>{c["name"]}</b><span>{c["tagline"]}</span><em>{label}</em></a>')
+
+    st = KO.stats(wid)
+    stats_html = ""
+    if st:
+        stats_html = (
+            f'  <h2 id="stats">{ward}の高齢化率は{st["rate65"]}%</h2>\n'
+            '  <div class="tw">\n  <table>\n'
+            f'    <caption class="tiny" style="text-align:left;padding-bottom:6px">{ward}の高齢者人口と要介護認定</caption>\n'
+            '    <tbody>\n'
+            f'      <tr><th>総人口</th><td class="num">{st["pop"]:,}人</td></tr>\n'
+            f'      <tr><th>65歳以上</th><td class="num">{st["p65"]:,}人（{st["rate65"]}%）</td></tr>\n'
+            f'      <tr><th>うち75歳以上</th><td class="num">{st["p75"]:,}人（{st["rate75"]}%）</td></tr>\n'
+            f'      <tr><th>要支援・要介護の認定</th><td class="num">{st["nintei"]:,}人（認定率{st["ninteiritsu"]}%）</td></tr>\n'
+            '    </tbody>\n  </table>\n  </div>\n'
+        )
+
+    others = "\n      ".join(
+        f'<a href="{root}{pref_id}/{x}/">{w["name"]}</a>' for x, w in W.items() if x != wid)
+
+    content = (
+        f'  <h2 id="svc">{ward}のサービスを選ぶ</h2>\n'
+        f'  <p>{ward}内の介護サービス事業所は、下の5種類だけで{total:,}件あります。'
+        '数字は東京都の指定事業所一覧にもとづく区内の実数です。</p>\n'
+        '  <div class="cats">' + "".join(cards) + "</div>\n"
+        '  <h2 id="first">どれを使えばいいか分からないとき</h2>\n'
+        f'  <p>{mado_note}要介護認定の申請から、どのサービスを組み合わせるかまで、'
+        '無料で相談できます。担当の窓口はお住まいの町名で決まります。</p>\n'
+        '  <div class="lg"><a href="{{ROOT}}guide/soudan-madoguchi/">相談窓口の探し方<small>まず相談する場所</small></a>'
+        '<a href="{{ROOT}}guide/youkaigo-nintei/">要介護認定の申請から利用開始まで<small>1か月〜1か月半かかります</small></a></div>\n'
+        + stats_html +
+        '  <h2 id="other">ほかの区から探す</h2>\n'
+        f'  <div class="lg tight">\n      {others}\n  </div>\n'
+        '  <div class="src"><strong>参考・出典</strong><ul>'
+        '<li>東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0／2026年9月1日時点）</li>'
+        + "".join(f"<li>{s}</li>" for s in KO.SOURCES) +
+        '</ul></div>\n'
+    )
+
+    url = f"{SITE}/{pref_id}/{wid}/"
+    graph = [
+        {"@type": "WebSite", "@id": f"{SITE}/#website", "url": f"{SITE}/",
+         "name": S["site"]["name"], "inLanguage": "ja"},
+        {"@type": "CollectionPage", "@id": f"{url}#webpage", "url": url,
+         "name": f"{ward}の介護サービス", "isPartOf": {"@id": f"{SITE}/#website"},
+         "inLanguage": "ja"},
+        {"@type": "BreadcrumbList", "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": "ホーム", "item": f"{SITE}/"},
+            {"@type": "ListItem", "position": 2, "name": pref["name"], "item": f"{SITE}/{pref_id}/"},
+            {"@type": "ListItem", "position": 3, "name": ward}]},
+    ]
+    page(f"{pref_id}/{wid}/index.html", root,
+         f"{ward}の介護サービス｜5種類の事業所数と相談窓口",
+         f"{ward}で使える訪問介護・訪問看護・デイサービス・ショートステイ・福祉用具を、"
+         f"区内の事業所数つきでまとめました。最初の相談先「{madoguchi}」と、"
+         f"{ward}の高齢化率・要介護認定者数もあわせて確認できます。",
+         f"{ward}の介護サービス",
+         f"{ward}で使えるサービスを、種類ごとにまとめています。"
+         f"どれを使えばいいか分からないときは、まず区の相談窓口「<strong>{madoguchi}</strong>」へ。相談は無料です。",
+         crumbs([("ホーム", root), (pref["name"], f"{root}{pref_id}/"), (ward, None)]),
+         content, url, ld(graph), area_id=f"{pref_id}/{wid}", ptype="ward")
 
 
 # ------------------------------------------------------------------ 404
@@ -561,3 +677,8 @@ if __name__ == "__main__":
     for pref in S["prefs"]:
         if any(live_areas(cid, pref["id"]) for cid in CATS):
             build_area(pref["id"])
+            sys.path.insert(0, str(BASE / "tools"))
+            from wards import WARDS as _W
+            if pref["id"] == "tokyo":
+                for _wid in _W:
+                    build_ward_hub(pref["id"], _wid)

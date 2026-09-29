@@ -1294,250 +1294,264 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 
     <h2 id="s2">江東区の訪問看護ステーション一覧</h2>
         <p class="cnt">江東区内の訪問看護ステーションから49件を掲載しています（東京都公表・2026年9月1日時点）。区内には49件が指定を受けており、そのすべてを掲載しています。掲載順は事業所の優劣を示すものではありません。</p>
-    <div class="card">
+    <div id="flt-top"></div>
+    <div class="flt" id="flt" hidden>
+      <div class="flt-row">
+        <select data-f="town" aria-label="場所で絞り込む"><option value="">場所</option><option value="東陽">東陽（11）</option><option value="亀戸">亀戸（9）</option><option value="大島">大島（8）</option><option value="木場">木場（4）</option><option value="南砂">南砂（3）</option><option value="住吉">住吉（2）</option><option value="北砂">北砂（2）</option><option value="豊洲">豊洲（2）</option><option value="富岡">富岡（1）</option><option value="森下">森下（1）</option><option value="深川">深川（1）</option><option value="清澄">清澄（1）</option><option value="猿江">猿江（1）</option><option value="越中島">越中島（1）</option><option value="門前仲町">門前仲町（1）</option><option value="高橋">高橋（1）</option></select>
+        <select data-f="day" aria-label="曜日で絞り込む"><option value="">曜日</option><option value="sat">土曜も対応（18）</option><option value="sun">日曜も対応（11）</option></select>
+        <select data-f="kind" aria-label="法人で絞り込む"><option value="">法人</option><option value="営利法人">営利法人（43）</option><option value="医療法人">医療法人（4）</option><option value="社会福祉法人（社協以外）">社会福祉法人（社協以外）（1）</option><option value="社団・財団">社団・財団（1）</option></select>
+      </div>
+      <p class="flt-n" aria-live="polite"><span><b id="flt-n">49</b> / 49件を表示</span><button type="button" id="flt-reset" hidden>条件をクリア</button></p>
+    </div>
+      <p class="flt-note">「場所」は事務所の所在地です。訪問サービスは近くの町からも来てもらえます。</p>
+      <p class="flt-note" id="flt-daynote" hidden>提供曜日の記載がない8件は、曜日で絞ると表示されません。</p>
+    <div class="bizlist">
+    <div class="card" data-town="豊洲" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">1</span>みんなのかかりつけ訪問看護ステーション豊洲</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 豊洲４－１－１２コーポ豊洲　５０１号室</dd><dt>運営法人</dt><dd>株式会社デザインケア</dd><dt>電話</dt><dd><a class="tel" href="tel:0362282505">03-6228-2505</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360290249</dd><dt>公式サイト</dt><dd><a class="ext" href="https://kakaritsuke.co.jp" target="_blank" rel="noopener">kakaritsuke.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">豊洲エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="大島" data-day="sat" data-kind="営利法人">
       <h3><span class="no">2</span>訪問看護リハビリステーション　アオアクア</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 大島８－５－１Ｎ＆Ｈビル４０１号室</dd><dt>運営法人</dt><dd>株式会社アオアクア</dd><dt>電話</dt><dd><a class="tel" href="tel:0356286120">03-5628-6120</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360890030</dd><dt>公式サイト</dt><dd><a class="ext" href="https://aoakua.net" target="_blank" rel="noopener">aoakua.net<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">大島エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="大島" data-kind="医療法人">
       <h3><span class="no">3</span>医療法人財団健和会　大島訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 大島１－３６－５江東ビル４Ｆ</dd><dt>運営法人</dt><dd>医療法人財団健和会</dd><dt>電話</dt><dd><a class="tel" href="tel:0356267621">03-5626-7621</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360890048</dd><dt>公式サイト</dt><dd><a class="ext" href="http://kenwa-houmon.com/" target="_blank" rel="noopener">kenwa-houmon.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">大島エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="亀戸" data-kind="営利法人">
       <h3><span class="no">4</span>訪問看護ステーションせりえ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 亀戸７－１４－７</dd><dt>運営法人</dt><dd>株式会社ＳＭＢ</dd><dt>電話</dt><dd><a class="tel" href="tel:0368029557">03-6802-9557</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360890063</dd></dl>
       <div class="tags"><span class="tag">亀戸エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="北砂" data-day="sat" data-kind="営利法人">
       <h3><span class="no">5</span>訪問看護サボテン砂町</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 北砂３－１７－１９</dd><dt>運営法人</dt><dd>株式会社アース</dd><dt>電話</dt><dd><a class="tel" href="tel:0366660173">03-6666-0173</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1360890105</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.earth-saboten.co.jp/" target="_blank" rel="noopener">earth-saboten.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">北砂エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東陽" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">6</span>ボンズシップ訪問看護リハビリステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 東陽３－１０－５丸半ビル別館３階</dd><dt>運営法人</dt><dd>株式会社ボンズシップ</dd><dt>電話</dt><dd><a class="tel" href="tel:0356337290">03-5633-7290</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360890113</dd><dt>公式サイト</dt><dd><a class="ext" href="http://bondsship.com/" target="_blank" rel="noopener">bondsship.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東陽エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="深川" data-kind="営利法人">
       <h3><span class="no">7</span>ＢＰリハビリ訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 深川１－３－１１パークフロントビル８階</dd><dt>運営法人</dt><dd>Ｂｏｄｙ　Ｐｉｏｎｅｅｒ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0364585397">03-6458-5397</a></dd><dt>サービス提供日</dt><dd>平日・祝日</dd><dt>事業所番号</dt><dd class="id">1360890121</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.bodypioneer.net/company" target="_blank" rel="noopener">bodypioneer.net<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">深川エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東陽" data-day="sat" data-kind="営利法人">
       <h3><span class="no">8</span>訪問看護ステーション　デューン江東</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 東陽４－８－５宿本ビル２階</dd><dt>運営法人</dt><dd>株式会社Ｎ・フィールド</dd><dt>電話</dt><dd><a class="tel" href="tel:0366666171">03-6666-6171</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360890147</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.nfield.co.jp/" target="_blank" rel="noopener">nfield.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東陽エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="大島" data-kind="営利法人">
       <h3><span class="no">9</span>あわーず東京江東訪問看護リハビリステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 大島１－３３－１２西大島和田ビル４Ｆ</dd><dt>運営法人</dt><dd>株式会社あわーず</dd><dt>電話</dt><dd><a class="tel" href="tel:0368690337">03-6869-0337</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360890188</dd><dt>公式サイト</dt><dd><a class="ext" href="https://ours-sr.co.jp/" target="_blank" rel="noopener">ours-sr.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">大島エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東陽" data-kind="営利法人">
       <h3><span class="no">10</span>日本財団在宅看護センター　アィルビー訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 東陽５－２９－４７サンフィールド１階</dd><dt>運営法人</dt><dd>株式会社在宅看護センター城東</dd><dt>電話</dt><dd><a class="tel" href="tel:0358758626">03-5875-8626</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360890196</dd><dt>公式サイト</dt><dd><a class="ext" href="http://hp.kaipoke.biz/e4f/" target="_blank" rel="noopener">hp.kaipoke.biz<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東陽エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="大島" data-kind="営利法人">
       <h3><span class="no">11</span>あすなろ訪問看護ステーション西大島</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 大島４－５－１１藤和西大島コープ１階</dd><dt>運営法人</dt><dd>株式会社エムイーネット</dd><dt>電話</dt><dd><a class="tel" href="tel:0358754166">03-5875-4166</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360890204</dd><dt>公式サイト</dt><dd><a class="ext" href="https://asunaro-st.com" target="_blank" rel="noopener">asunaro-st.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">大島エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南砂" data-kind="営利法人">
       <h3><span class="no">12</span>訪問看護ステーション　すまいる</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 南砂７－４－６－２０３</dd><dt>運営法人</dt><dd>株式会社すまいる</dd><dt>電話</dt><dd><a class="tel" href="tel:0366665868">03-6666-5868</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360890212</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.2525nurse.co.jp/" target="_blank" rel="noopener">2525nurse.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">南砂エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="豊洲" data-kind="営利法人">
       <h3><span class="no">13</span>マハロ豊洲訪問看護リハビリステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 豊洲４－６－３メゾン豊洲２０１</dd><dt>運営法人</dt><dd>株式会社ＭＡＨＡＬＯ</dd><dt>電話</dt><dd><a class="tel" href="tel:0335209730">03-3520-9730</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360890261</dd><dt>公式サイト</dt><dd><a class="ext" href="http://mahalo-toyosu.com/" target="_blank" rel="noopener">mahalo-toyosu.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">豊洲エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東陽" data-kind="営利法人">
       <h3><span class="no">14</span>セコム深川訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 東陽１－２５－４ブリリアンス丹羽４０１号室</dd><dt>運営法人</dt><dd>セコム医療システム株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0366665801">03-6666-5801</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360890279</dd><dt>公式サイト</dt><dd><a class="ext" href="http://medical.secom.co.jp/" target="_blank" rel="noopener">medical.secom.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東陽エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="猿江" data-kind="営利法人">
       <h3><span class="no">15</span>訪問看護ステーションリンク</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 猿江１－１２－１住吉パークホームズ１階</dd><dt>運営法人</dt><dd>株式会社Ｓｐｉｎｎｅｒ</dd><dt>電話</dt><dd><a class="tel" href="tel:0366599303">03-6659-9303</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360890295</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.spinner.co.jp" target="_blank" rel="noopener">spinner.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">猿江エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="大島" data-kind="営利法人">
       <h3><span class="no">16</span>訪問看護ステーション　デューン大島</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 大島１－３０－４Ｌ－ＴＯＷＥＲ ５階</dd><dt>運営法人</dt><dd>株式会社Ｎ・フィールド</dd><dt>電話</dt><dd><a class="tel" href="tel:0358750925">03-5875-0925</a></dd><dt>事業所番号</dt><dd class="id">1360890303</dd></dl>
       <div class="tags"><span class="tag">大島エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="木場" data-kind="営利法人">
       <h3><span class="no">17</span>ざいたくサポート木場</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 木場２－７－２２小鳥居ビル　２階</dd><dt>運営法人</dt><dd>株式会社エラーブル</dd><dt>電話</dt><dd><a class="tel" href="tel:0364585900">03-6458-5900</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360890311</dd><dt>公式サイト</dt><dd><a class="ext" href="https://zaitaku-support.com/" target="_blank" rel="noopener">zaitaku-support.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">木場エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="高橋" data-day="sat" data-kind="営利法人">
       <h3><span class="no">18</span>ホウカンＴＯＫＹＯ江東</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 高橋１４－１３清澄ＳＯＨＯ　２Ｂ</dd><dt>運営法人</dt><dd>株式会社アフルケア</dd><dt>電話</dt><dd><a class="tel" href="tel:0366669117">03-6666-9117</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1360890329</dd><dt>公式サイト</dt><dd><a class="ext" href="https://hokan.tokyo/afc/" target="_blank" rel="noopener">hokan.tokyo<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">高橋エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="亀戸" data-kind="営利法人">
       <h3><span class="no">19</span>訪問看護ステーションＯＨＡＮＡ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 亀戸２－４４－１２亀戸ビル２階</dd><dt>運営法人</dt><dd>合同会社ＯＨＡＮＡ</dd><dt>電話</dt><dd><a class="tel" href="tel:0358588747">03-5858-8747</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360890337</dd><dt>公式サイト</dt><dd><a class="ext" href="https://ohanast087.jp/" target="_blank" rel="noopener">ohanast087.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">亀戸エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東陽" data-kind="営利法人">
       <h3><span class="no">20</span>訪問看護ステーション　コルディアーレ東陽町</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 東陽１－３４－１３ディックビル３階</dd><dt>運営法人</dt><dd>株式会社ＪＳＨ</dd><dt>電話</dt><dd><a class="tel" href="tel:0358575260">03-5857-5260</a></dd><dt>事業所番号</dt><dd class="id">1360890352</dd></dl>
       <div class="tags"><span class="tag">東陽エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東陽" data-kind="営利法人">
       <h3><span class="no">21</span>ＰＡＬ訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 東陽４－６－１４トーカンマンション東陽町２０２号室</dd><dt>運営法人</dt><dd>株式会社ＰＡＬ　ＧＬＡＤ</dd><dt>電話</dt><dd><a class="tel" href="tel:0722609483">072-260-9483</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360890360</dd></dl>
       <div class="tags"><span class="tag">東陽エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="亀戸" data-kind="営利法人">
       <h3><span class="no">22</span>ガイア訪問看護ステーション　江東</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 亀戸６－３３－３諸橋ビル２階</dd><dt>運営法人</dt><dd>株式会社ガイアメディケア</dd><dt>電話</dt><dd><a class="tel" href="tel:0366668156">03-6666-8156</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360890378</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.gaia-medicare.jp/" target="_blank" rel="noopener">gaia-medicare.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">亀戸エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="木場" data-kind="営利法人">
       <h3><span class="no">23</span>訪問看護ステーションＰＩＴ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 木場３－８－１１リフィオ木場公園１０２号室</dd><dt>運営法人</dt><dd>合同会社サーカス</dd><dt>電話</dt><dd><a class="tel" href="tel:0358759104">03-5875-9104</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360890394</dd><dt>公式サイト</dt><dd><a class="ext" href="https://medical-pit.com/" target="_blank" rel="noopener">medical-pit.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">木場エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="亀戸" data-day="sat" data-kind="営利法人">
       <h3><span class="no">24</span>訪問看護ステーション　はな　亀戸</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 亀戸１－３９－５サンウエストビルⅡ　１Ｆ</dd><dt>運営法人</dt><dd>株式会社はな</dd><dt>電話</dt><dd><a class="tel" href="tel:0344009916">03-4400-9916</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1360890410</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.hana-kango.com/index.html" target="_blank" rel="noopener">hana-kango.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">亀戸エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東陽" data-kind="営利法人">
       <h3><span class="no">25</span>訪問看護ステーション　デライト江東</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 東陽３－２８－９山屋東陽ハイツ　４０６号室</dd><dt>運営法人</dt><dd>株式会社Ｈ＆Ｈホールディングス</dd><dt>電話</dt><dd><a class="tel" href="tel:0366667282">03-6666-7282</a></dd><dt>事業所番号</dt><dd class="id">1360890436</dd></dl>
       <div class="tags"><span class="tag">東陽エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="木場" data-kind="営利法人">
       <h3><span class="no">26</span>タスサポ訪問看護ステーション木場</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 木場６－７－１９宇田川ビル４Ｆ</dd><dt>運営法人</dt><dd>株式会社リシェス</dd><dt>電話</dt><dd><a class="tel" href="tel:0343303320">03-4330-3320</a></dd><dt>事業所番号</dt><dd class="id">1360890451</dd></dl>
       <div class="tags"><span class="tag">木場エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="富岡" data-kind="営利法人">
       <h3><span class="no">27</span>ラヴィ訪問看護ステーション　門前仲町</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 富岡１－２５－５メディカルビル門前仲町９階</dd><dt>運営法人</dt><dd>株式会社ラヴィサポート</dd><dt>電話</dt><dd><a class="tel" href="tel:0369022886">03-6902-2886</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360890469</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.lavie-support.jp/" target="_blank" rel="noopener">lavie-support.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">富岡エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="越中島" data-kind="営利法人">
       <h3><span class="no">28</span>訪問看護ステーション　らぴーす</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 越中島１－２－１３ＴＫ門前仲町ビル１階</dd><dt>運営法人</dt><dd>株式会社ミコム</dd><dt>電話</dt><dd><a class="tel" href="tel:0356219932">03-5621-9932</a></dd><dt>事業所番号</dt><dd class="id">1360890477</dd></dl>
       <div class="tags"><span class="tag">越中島エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="亀戸" data-kind="営利法人">
       <h3><span class="no">29</span>訪問看護ステーション星松</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 亀戸２－３－１３－８０２</dd><dt>運営法人</dt><dd>株式会社星松</dd><dt>電話</dt><dd><a class="tel" href="tel:0358752705">03-5875-2705</a></dd><dt>事業所番号</dt><dd class="id">1360890485</dd></dl>
       <div class="tags"><span class="tag">亀戸エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="住吉" data-day="sat" data-kind="営利法人">
       <h3><span class="no">30</span>訪問看護ステーションチャーム</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 住吉２－６－５インテグレート村上２０１</dd><dt>運営法人</dt><dd>合同会社シッタとマッチ</dd><dt>電話</dt><dd><a class="tel" href="tel:0356690517">03-5669-0517</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1360890501</dd></dl>
       <div class="tags"><span class="tag">住吉エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="大島" data-day="sat" data-kind="営利法人">
       <h3><span class="no">31</span>そらまめ訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 大島１－２９－１６</dd><dt>運営法人</dt><dd>スリーウィン株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0366595146">03-6659-5146</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1360890519</dd><dt>公式サイト</dt><dd><a class="ext" href="https://soramame-station.jp/" target="_blank" rel="noopener">soramame-station.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">大島エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="北砂" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">32</span>訪問看護ステーション　慈穏</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 北砂６－１９－１９</dd><dt>運営法人</dt><dd>合同会社Ｐｌａｎｔ</dd><dt>電話</dt><dd><a class="tel" href="tel:0366666530">03-6666-6530</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360890527</dd><dt>公式サイト</dt><dd><a class="ext" href="https://houkanjion.com" target="_blank" rel="noopener">houkanjion.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">北砂エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南砂" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">33</span>葵訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 南砂２－３－１－１２７</dd><dt>運営法人</dt><dd>株式会社葵メディカルホールディングス</dd><dt>電話</dt><dd><a class="tel" href="tel:0366664717">03-6666-4717</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360890543</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.aoi-homonkango-nurse.com/" target="_blank" rel="noopener">aoi-homonkango-nurse.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">南砂エリア</span><span class="tag">日曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="森下" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">34</span>ひなた訪問看護リハビリステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 森下２－１９－８谷ビル２０２</dd><dt>運営法人</dt><dd>合同会社マイナース東京</dd><dt>電話</dt><dd><a class="tel" href="tel:0366669778">03-6666-9778</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360890550</dd><dt>公式サイト</dt><dd><a class="ext" href="http://mynursetokyo.co.jp" target="_blank" rel="noopener">mynursetokyo.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">森下エリア</span><span class="tag">日曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="木場" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">35</span>ツクイ江東訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 木場５－１１－１３ザイマックス木場公園ビル６階</dd><dt>運営法人</dt><dd>株式会社ツクイ</dd><dt>電話</dt><dd><a class="tel" href="tel:0356395055">03-5639-5055</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360890568</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.tsukui.net/" target="_blank" rel="noopener">tsukui.net<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">木場エリア</span><span class="tag">日曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="亀戸" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">36</span>訪問看護ステーション　トータルケア亀戸</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 亀戸２－３－１７　４階</dd><dt>運営法人</dt><dd>株式会社ナビック</dd><dt>電話</dt><dd><a class="tel" href="tel:0358752011">03-5875-2011</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360890576</dd></dl>
       <div class="tags"><span class="tag">亀戸エリア</span><span class="tag">日曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東陽" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">37</span>あかり訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 東陽６－３－２５－１０１号</dd><dt>運営法人</dt><dd>株式会社Ｋ２－Ｃｏｒｐｏｒａｔｉｏｎ</dd><dt>電話</dt><dd><a class="tel" href="tel:0366666856">03-6666-6856</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360890592</dd><dt>公式サイト</dt><dd><a class="ext" href="http://k2-corporation.jp/akari-kango/" target="_blank" rel="noopener">k2-corporation.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東陽エリア</span><span class="tag">日曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="亀戸" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">38</span>医心館　訪問看護ステーション　亀戸</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 亀戸５－６ー２０</dd><dt>運営法人</dt><dd>株式会社アンビス</dd><dt>電話</dt><dd><a class="tel" href="tel:0356271330">03-5627-1330</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360890600</dd></dl>
       <div class="tags"><span class="tag">亀戸エリア</span><span class="tag">日曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="清澄" data-kind="営利法人">
       <h3><span class="no">39</span>オリーブ訪問看護リハビリステーション江東</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 清澄２－１１－７　４階</dd><dt>運営法人</dt><dd>株式会社Ｏｌｅａ</dd><dt>電話</dt><dd><a class="tel" href="tel:0364585103">03-6458-5103</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360890618</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.carenurse-olea.jp" target="_blank" rel="noopener">carenurse-olea.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">清澄エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東陽" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">40</span>ベストリハ訪問看護ステーションⅡ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 東陽１－２５－４ブリリアンス丹羽３０２号</dd><dt>運営法人</dt><dd>ベストリハ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0366667592">03-6666-7592</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360890626</dd><dt>公式サイト</dt><dd><a class="ext" href="https://bestreha.com/health-care/vc/" target="_blank" rel="noopener">bestreha.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東陽エリア</span><span class="tag">日曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="大島" data-kind="営利法人">
       <h3><span class="no">41</span>ケアワン訪問看護</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 大島４－３－６－２Ｆ</dd><dt>運営法人</dt><dd>英源グローバルサービス株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0368212168">03-6821-2168</a></dd><dt>事業所番号</dt><dd class="id">1360890634</dd></dl>
       <div class="tags"><span class="tag">大島エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="門前仲町" data-day="sat|sun" data-kind="医療法人">
       <h3><span class="no">42</span>はるナースステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 門前仲町２－２－１６ひまわり１０１</dd><dt>運営法人</dt><dd>医療法人社団白友会</dd><dt>電話</dt><dd><a class="tel" href="tel:0364588213">03-6458-8213</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360890642</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.haru-nurse-station.com/" target="_blank" rel="noopener">haru-nurse-station.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">門前仲町エリア</span><span class="tag">日曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東陽" data-kind="営利法人">
       <h3><span class="no">43</span>訪問看護リハビリステーションかなめ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 東陽３－２８－９山屋東陽ハイツ１０階１００１号室</dd><dt>運営法人</dt><dd>株式会社境を越えて</dd><dt>電話</dt><dd><a class="tel" href="tel:0368217262">03-6821-7262</a></dd><dt>事業所番号</dt><dd class="id">1360890659</dd></dl>
       <div class="tags"><span class="tag">東陽エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="亀戸" data-kind="営利法人">
       <h3><span class="no">44</span>株式会社ケアサービス　訪問看護亀戸</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 亀戸１－４２－１８　６Ｆ</dd><dt>運営法人</dt><dd>株式会社ケアサービス</dd><dt>電話</dt><dd><a class="tel" href="tel:0358586260">03-5858-6260</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1362390625</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.care.co.jp/office/vn_kameido" target="_blank" rel="noopener">care.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">亀戸エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東陽" data-kind="社団・財団">
       <h3><span class="no">45</span>公益社団法人江東区医師会訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 東陽５－３１－１８</dd><dt>運営法人</dt><dd>公益社団法人江東区医師会</dd><dt>電話</dt><dd><a class="tel" href="tel:0336465500">03-3646-5500</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1367192008</dd></dl>
       <div class="tags"><span class="tag">東陽エリア</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南砂" data-kind="医療法人">
       <h3><span class="no">46</span>医療法人財団　寿康会　砂町訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 南砂７－１３－５アイコーポレーションビル２０１</dd><dt>運営法人</dt><dd>医療法人財団寿康会</dd><dt>電話</dt><dd><a class="tel" href="tel:0366668431">03-6666-8431</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1367193634</dd><dt>公式サイト</dt><dd><a class="ext" href="https://jukoukai.or.jp/sunamachi/" target="_blank" rel="noopener">jukoukai.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">南砂エリア</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="大島" data-kind="医療法人">
       <h3><span class="no">47</span>社会医療法人社団　順江会　江東病院　訪問看護ステーション　たんぽぽ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 大島５－１０－１０セントラルプラザ４０１</dd><dt>運営法人</dt><dd>社会医療法人社団順江会</dd><dt>電話</dt><dd><a class="tel" href="tel:0356275820">03-5627-5820</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1367195043</dd><dt>公式サイト</dt><dd><a class="ext" href="https://koto-hospital.or.jp/about/related_facilities/tanpopo/" target="_blank" rel="noopener">koto-hospital.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">大島エリア</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="亀戸" data-kind="営利法人">
       <h3><span class="no">48</span>セコム江東訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 亀戸６－５５－１９ルミエールビル５階</dd><dt>運営法人</dt><dd>セコム医療システム株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0356275741">03-5627-5741</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1367195399</dd><dt>公式サイト</dt><dd><a class="ext" href="http://medical.secom.co.jp/" target="_blank" rel="noopener">medical.secom.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">亀戸エリア</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="住吉" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">49</span>あそか訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 江東区 住吉１－１８－１</dd><dt>運営法人</dt><dd>社会福祉法人あそか会</dd><dt>電話</dt><dd><a class="tel" href="tel:0356698641">03-5669-8641</a></dd><dt>サービス提供日</dt><dd>平日・祝日</dd><dt>事業所番号</dt><dd class="id">1367197080</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.asokakai.or.jp/" target="_blank" rel="noopener">asokakai.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">住吉エリア</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
+    </div>
+    <p class="flt-empty" id="flt-empty" hidden>条件に合う事業所はありません。条件を1つ外してみてください。</p>
     </div>
     <div class="warn"><strong>掲載情報についてのお願い</strong><br>上記49件は、2026-09-21に江東区および各事業者の公表情報で確認した内容です。営業時間・対応エリア・空き状況は変動しますので、連絡の前に必ず公式情報をご確認ください。掲載内容の訂正・削除は、<a href="../../../contact/">お問い合わせ</a>からご依頼いただければ<strong>理由の説明なしで削除します</strong>。</div>
 
@@ -1851,5 +1865,6 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 })();
 </script>
 <script src="../../../assets/measure.js" defer></script>
+<script src="../../../assets/filter.js" defer></script>
 </body>
 </html>

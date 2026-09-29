@@ -748,125 +748,137 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 
     <h2 id="s2">板橋区のショートステイ一覧</h2>
         <p class="cnt">板橋区内の短期入所生活介護事業所から24件を掲載しています（東京都公表・2026年9月1日時点）。区内には24件が指定を受けており、そのすべてを掲載しています。「特養の空床利用」「単独型」などの表示は東京都の一覧の事業所種別名です。空き状況は日々変わるため、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。</p>
-    <div class="card">
+    <div id="flt-top"></div>
+    <div class="flt" id="flt" hidden>
+      <div class="flt-row">
+        <select data-f="town" aria-label="場所で絞り込む"><option value="">場所</option><option value="成増">成増（4）</option><option value="前野町">前野町（2）</option><option value="向原">向原（2）</option><option value="東坂下">東坂下（2）</option><option value="若木">若木（2）</option><option value="三園">三園（1）</option><option value="中台">中台（1）</option><option value="仲町">仲町（1）</option><option value="加賀">加賀（1）</option><option value="大原町">大原町（1）</option><option value="大山西町">大山西町（1）</option><option value="大門">大門（1）</option><option value="小茂根">小茂根（1）</option><option value="小豆沢">小豆沢（1）</option><option value="徳丸">徳丸（1）</option><option value="舟渡">舟渡（1）</option><option value="高島平">高島平（1）</option></select>
+        <select data-f="fk" aria-label="型で絞り込む"><option value="">型</option><option value="特養の併設事業所型">特養の併設事業所型（14）</option><option value="特養の空床利用型">特養の空床利用型（6）</option><option value="単独型">単独型（4）</option></select>
+        <select data-f="kind" aria-label="法人で絞り込む"><option value="">法人</option><option value="社会福祉法人（社協以外）">社会福祉法人（社協以外）（20）</option><option value="営利法人">営利法人（4）</option></select>
+      </div>
+      <p class="flt-n" aria-live="polite"><span><b id="flt-n">24</b> / 24件を表示</span><button type="button" id="flt-reset" hidden>条件をクリア</button></p>
+    </div>
+    <div class="bizlist">
+    <div class="card" data-town="小茂根" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">1</span>東京武蔵野ホーム</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 小茂根四丁目１１番１１号</dd><dt>運営法人</dt><dd>社会福祉法人小茂根の郷</dd><dt>電話</dt><dd><a class="tel" href="tel:0339597421">03-3959-7421</a></dd><dt>定員</dt><dd>9</dd><dt>事業所番号</dt><dd class="id">1371900281</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.komonenosato.com" target="_blank" rel="noopener">komonenosato.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">小茂根エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="舟渡" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">2</span>特別養護老人ホーム　ケアポート板橋</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 舟渡三丁目４番８号</dd><dt>運営法人</dt><dd>社会福祉法人不二健育会</dd><dt>電話</dt><dd><a class="tel" href="tel:0339693120">03-3969-3120</a></dd><dt>定員</dt><dd>15</dd><dt>事業所番号</dt><dd class="id">1371900893</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.fujikenikukai.or.jp" target="_blank" rel="noopener">fujikenikukai.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">舟渡エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東坂下" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">3</span>いずみの苑</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 東坂下２－２－２２</dd><dt>運営法人</dt><dd>社会福祉法人東京援護協会</dd><dt>電話</dt><dd><a class="tel" href="tel:0359709101">03-5970-9101</a></dd><dt>定員</dt><dd>5</dd><dt>事業所番号</dt><dd class="id">1371900984</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.tokyoengokyokai.or.jp" target="_blank" rel="noopener">tokyoengokyokai.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東坂下エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="加賀" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">4</span>加賀さくらの杜</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 加賀２－１－１</dd><dt>運営法人</dt><dd>社会福祉法人寿栄会</dd><dt>電話</dt><dd><a class="tel" href="tel:0335790661">03-3579-0661</a></dd><dt>定員</dt><dd>6</dd><dt>事業所番号</dt><dd class="id">1371901479</dd><dt>公式サイト</dt><dd><a class="ext" href="http://jyueikai.sakura.ne.jp" target="_blank" rel="noopener">jyueikai.sakura.ne.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">加賀エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="若木" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">5</span>若木ライフ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 若木一丁目２１番３号</dd><dt>運営法人</dt><dd>社会福祉法人信隆会</dd><dt>電話</dt><dd><a class="tel" href="tel:0339333900">03-3933-3900</a></dd><dt>事業所番号</dt><dd class="id">1371901990</dd><dt>公式サイト</dt><dd><a class="ext" href="http://shinryukai.org/wakagilife/" target="_blank" rel="noopener">shinryukai.org<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">若木エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="成増" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">6</span>ケアタウン成増</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 成増四丁目１４番１８号</dd><dt>運営法人</dt><dd>社会福祉法人みその福祉会</dd><dt>電話</dt><dd><a class="tel" href="tel:0339390763">03-3939-0763</a></dd><dt>定員</dt><dd>4</dd><dt>事業所番号</dt><dd class="id">1371902535</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.misono-fukushikai.or.jp" target="_blank" rel="noopener">misono-fukushikai.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">成増エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="徳丸" data-fk="特養の空床利用型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">7</span>ショートステイ　マイライフ徳丸</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 徳丸３－３２－２８</dd><dt>運営法人</dt><dd>社会福祉法人北野会</dd><dt>電話</dt><dd><a class="tel" href="tel:0339330039">03-3933-0039</a></dd><dt>定員</dt><dd>4</dd><dt>事業所番号</dt><dd class="id">1371903525</dd><dt>公式サイト</dt><dd><a class="ext" href="http://kitanokai.com/" target="_blank" rel="noopener">kitanokai.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">徳丸エリア</span><span class="tag">特養の空床利用</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="大門" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">8</span>ブルーポピー</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 大門８－５</dd><dt>運営法人</dt><dd>社会福祉法人四葉晃耀会</dd><dt>電話</dt><dd><a class="tel" href="tel:0359040220">03-5904-0220</a></dd><dt>事業所番号</dt><dd class="id">1371904713</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.tshnet.or.jp/" target="_blank" rel="noopener">tshnet.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">大門エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="成増" data-fk="特養の空床利用型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">9</span>特別養護老人ホーム　音羽台レジデンス</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 成増４－３３－１</dd><dt>運営法人</dt><dd>社会福祉法人翠生会</dd><dt>電話</dt><dd><a class="tel" href="tel:0339390200">03-3939-0200</a></dd><dt>定員</dt><dd>7</dd><dt>事業所番号</dt><dd class="id">1371906361</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.suisei-kai.jp/index.html" target="_blank" rel="noopener">suisei-kai.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">成増エリア</span><span class="tag">特養の空床利用</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="前野町" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">10</span>特別養護老人ホーム　板橋の里　英智園</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 前野町３－４５－７</dd><dt>運営法人</dt><dd>社会福祉法人福翠会</dd><dt>電話</dt><dd><a class="tel" href="tel:0359150225">03-5915-0225</a></dd><dt>定員</dt><dd>5</dd><dt>事業所番号</dt><dd class="id">1371906858</dd><dt>公式サイト</dt><dd><a class="ext" href="http://care-net.biz/13/eichien/" target="_blank" rel="noopener">care-net.biz<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">前野町エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="小豆沢" data-fk="特養の空床利用型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">11</span>あずさわの里　短期入所生活介護</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 小豆沢４－１４－３</dd><dt>運営法人</dt><dd>社会福祉法人相愛福祉会</dd><dt>電話</dt><dd><a class="tel" href="tel:0359705300">03-5970-5300</a></dd><dt>事業所番号</dt><dd class="id">1371907997</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.kawatsuru-g.jp/" target="_blank" rel="noopener">kawatsuru-g.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">小豆沢エリア</span><span class="tag">特養の空床利用</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東坂下" data-fk="単独型" data-kind="営利法人">
       <h3><span class="no">12</span>メープルヴィラそよ風</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 東坂下２－２２－１４</dd><dt>運営法人</dt><dd>株式会社ＳＯＹＯＫＡＺＥ</dd><dt>電話</dt><dd><a class="tel" href="tel:0359140190">03-5914-0190</a></dd><dt>定員</dt><dd>33</dd><dt>事業所番号</dt><dd class="id">1371908086</dd></dl>
       <div class="tags"><span class="tag">東坂下エリア</span><span class="tag">単独型</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="仲町" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">13</span>クローバーのさと　ショートステイ　カウピリ板橋</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 仲町１－４</dd><dt>運営法人</dt><dd>社会福祉法人明東会</dd><dt>電話</dt><dd><a class="tel" href="tel:0339571098">03-3957-1098</a></dd><dt>定員</dt><dd>20</dd><dt>事業所番号</dt><dd class="id">1371909373</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.ims.gr.jp/clover" target="_blank" rel="noopener">ims.gr.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">仲町エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="成増" data-fk="単独型" data-kind="営利法人">
       <h3><span class="no">14</span>アズハイムテラス成増</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 成増１－２－３</dd><dt>運営法人</dt><dd>株式会社アズパートナーズ</dd><dt>電話</dt><dd><a class="tel" href="tel:0339391870">03-3939-1870</a></dd><dt>事業所番号</dt><dd class="id">1371909704</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.as-heim.com" target="_blank" rel="noopener">as-heim.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">成増エリア</span><span class="tag">単独型</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="成増" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">15</span>オーネスト成増短期入所生活介護事業所</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 成増４－２９－７</dd><dt>運営法人</dt><dd>社会福祉法人紫水会</dd><dt>電話</dt><dd><a class="tel" href="tel:0369043831">03-6904-3831</a></dd><dt>事業所番号</dt><dd class="id">1371909720</dd></dl>
       <div class="tags"><span class="tag">成増エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="三園" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">16</span>三園の里短期入所生活介護</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 三園２－１５－２２</dd><dt>運営法人</dt><dd>社会福祉法人相愛福祉会</dd><dt>電話</dt><dd><a class="tel" href="tel:0359671140">03-5967-1140</a></dd><dt>事業所番号</dt><dd class="id">1371909985</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.kawatsuru-g.jp" target="_blank" rel="noopener">kawatsuru-g.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">三園エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="若木" data-fk="特養の空床利用型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">17</span>ゆめの園りあん若葉　ショートステイ事業所</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 若木３－１５－１</dd><dt>運営法人</dt><dd>社会福祉法人ハッピーネット</dd><dt>電話</dt><dd><a class="tel" href="tel:0339355780">03-3935-5780</a></dd><dt>事業所番号</dt><dd class="id">1371910512</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.happynet.or.jp/" target="_blank" rel="noopener">happynet.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">若木エリア</span><span class="tag">特養の空床利用</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="大山西町" data-fk="単独型" data-kind="営利法人">
       <h3><span class="no">18</span>パナソニック　エイジフリーケアセンター板橋大山西町・ショートステイ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 大山西町４１－１</dd><dt>運営法人</dt><dd>パナソニックエイジフリー株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0359867056">03-5986-7056</a></dd><dt>定員</dt><dd>20</dd><dt>事業所番号</dt><dd class="id">1371910744</dd><dt>公式サイト</dt><dd><a class="ext" href="https://panasonic.co.jp/es/pesaf/" target="_blank" rel="noopener">panasonic.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">大山西町エリア</span><span class="tag">単独型</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="向原" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">19</span>介護老人福祉施設ケアホーム板橋</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 向原３－７－８</dd><dt>運営法人</dt><dd>社会福祉法人平成記念会</dd><dt>電話</dt><dd><a class="tel" href="tel:0359645600">03-5964-5600</a></dd><dt>定員</dt><dd>20</dd><dt>事業所番号</dt><dd class="id">1371911346</dd><dt>公式サイト</dt><dd><a class="ext" href="https://itabashi.tokuyou.jp/" target="_blank" rel="noopener">itabashi.tokuyou.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">向原エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="向原" data-fk="特養の空床利用型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">20</span>介護老人福祉施設ケアホーム板橋</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 向原三丁目7番8号</dd><dt>運営法人</dt><dd>社会福祉法人平成記念会</dd><dt>電話</dt><dd><a class="tel" href="tel:0359645600">03-5964-5600</a></dd><dt>事業所番号</dt><dd class="id">1371911361</dd><dt>公式サイト</dt><dd><a class="ext" href="https://itabashi.tokuyou.jp/" target="_blank" rel="noopener">itabashi.tokuyou.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">向原エリア</span><span class="tag">特養の空床利用</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="高島平" data-fk="単独型" data-kind="営利法人">
       <h3><span class="no">21</span>ショートステイ　ケアサポートいたばし</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 高島平７－１１－４</dd><dt>運営法人</dt><dd>ケアサポート株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0359681765">03-5968-1765</a></dd><dt>事業所番号</dt><dd class="id">1371911395</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.care-support.biz/facilities/itabashi/" target="_blank" rel="noopener">care-support.biz<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">高島平エリア</span><span class="tag">単独型</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="大原町" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">22</span>特別養護老人ホーム　サニーヒル板橋</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 大原町６－８</dd><dt>運営法人</dt><dd>社会福祉法人隆徳会</dd><dt>電話</dt><dd><a class="tel" href="tel:0359398832">03-5939-8832</a></dd><dt>定員</dt><dd>11</dd><dt>事業所番号</dt><dd class="id">1371911437</dd><dt>公式サイト</dt><dd><a class="ext" href="http://sunnyhill.or.jp" target="_blank" rel="noopener">sunnyhill.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">大原町エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="前野町" data-fk="特養の空床利用型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">23</span>特別養護老人ホーム　みどりの苑</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 前野町５－９－３</dd><dt>運営法人</dt><dd>社会福祉法人奉優会</dd><dt>電話</dt><dd><a class="tel" href="tel:0359945927">03-5994-5927</a></dd><dt>事業所番号</dt><dd class="id">1371912245</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.foryou.or.jp/facility/midorinosono/w154/" target="_blank" rel="noopener">foryou.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">前野町エリア</span><span class="tag">特養の空床利用</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中台" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">24</span>特別養護老人ホーム　ぽっかぽか板橋</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 中台３－２３－２６</dd><dt>運営法人</dt><dd>社会福祉法人大樹会</dd><dt>電話</dt><dd><a class="tel" href="tel:0362810051">03-6281-0051</a></dd><dt>事業所番号</dt><dd class="id">1371912468</dd><dt>公式サイト</dt><dd><a class="ext" href="https://taijukai.com/" target="_blank" rel="noopener">taijukai.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">中台エリア</span><span class="tag">併設・専用床</span><span class="tag">開設3年以内</span><span class="tag">ショートステイ</span></div>
+    </div>
+    <p class="flt-empty" id="flt-empty" hidden>条件に合う事業所はありません。条件を1つ外してみてください。</p>
     </div>
     <div class="warn"><strong>掲載情報についてのお願い</strong><br>上記24件は、2026-09-22に板橋区および各事業者の公表情報で確認した内容です。営業時間・対応エリア・空き状況は変動しますので、連絡の前に必ず公式情報をご確認ください。掲載内容の訂正・削除は、<a href="../../../contact/">お問い合わせ</a>からご依頼いただければ<strong>理由の説明なしで削除します</strong>。</div>
 
@@ -1214,5 +1226,6 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 })();
 </script>
 <script src="../../../assets/measure.js" defer></script>
+<script src="../../../assets/filter.js" defer></script>
 </body>
 </html>

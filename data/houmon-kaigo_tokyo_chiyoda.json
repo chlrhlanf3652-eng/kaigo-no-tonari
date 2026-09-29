@@ -40,6 +40,7 @@
       "parentOrganization": "株式会社ニチイ学館",
       "identifier": "1370100248",
       "_town": "神田小川町",
+      "_kind": "営利法人",
       "url": "http://www.nichiigakkan.co.jp/",
       "_days": [
         "平日",
@@ -67,6 +68,7 @@
       "parentOrganization": "特定非営利活動法人ホープ",
       "identifier": "1370100800",
       "_town": "飯田橋",
+      "_kind": "非営利法人（NPO）",
       "url": "https://care.hope-npo.org/",
       "_days": [
         "平日",
@@ -92,6 +94,7 @@
       "parentOrganization": "有限会社ケアワーク千代田",
       "identifier": "1370100875",
       "_town": "九段北",
+      "_kind": "営利法人",
       "url": "http://carework-chiyoda.jp/",
       "_days": [
         "平日",
@@ -119,6 +122,7 @@
       "parentOrganization": "社会福祉法人多摩同胞会",
       "identifier": "1370101139",
       "_town": "神田淡路町",
+      "_kind": "社会福祉法人（社協以外）",
       "url": "http://tama-dhk.or.jp",
       "_days": [
         "平日",
@@ -145,6 +149,7 @@
       "parentOrganization": "株式会社グッドライフケア",
       "identifier": "1370101303",
       "_town": "九段北",
+      "_kind": "営利法人",
       "url": "https://goodlifecare.co.jp/",
       "_days": [
         "平日",
@@ -172,6 +177,7 @@
       "parentOrganization": "株式会社やさしいきもち",
       "identifier": "1370101451",
       "_town": "神田須田町",
+      "_kind": "営利法人",
       "_tags": [
         "神田須田町エリア",
         "訪問介護"
@@ -191,6 +197,7 @@
       "parentOrganization": "特定非営利活動法人いちごの会",
       "identifier": "1370101519",
       "_town": "神田東松下町",
+      "_kind": "非営利法人（NPO）",
       "url": "https://www.ichigonokai.com",
       "_days": [
         "平日",
@@ -215,6 +222,7 @@
       "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
       "identifier": "1370101535",
       "_town": "神田神保町",
+      "_kind": "営利法人",
       "url": "https://www.careritz.co.jp/station/branch/ochanomizu/",
       "_days": [
         "平日",
@@ -242,6 +250,7 @@
       "parentOrganization": "株式会社レインボーハート",
       "identifier": "1370101550",
       "_town": "三番町",
+      "_kind": "営利法人",
       "url": "https://rainbowheart.co.jp/index.html",
       "_days": [
         "平日",
@@ -266,6 +275,7 @@
       "parentOrganization": "株式会社ケア２１",
       "identifier": "1370101634",
       "_town": "九段南",
+      "_kind": "営利法人",
       "url": "https://care21.co.jp",
       "_days": [
         "平日",
@@ -293,6 +303,7 @@
       "parentOrganization": "ＳＯＭＰＯケア株式会社",
       "identifier": "1370101667",
       "_town": "麹町",
+      "_kind": "営利法人",
       "url": "https://www.sompocare.com/service/zaitaku/kaigo/Z000870?service=elderly",
       "_days": [
         "平日",
@@ -320,6 +331,7 @@
       "parentOrganization": "株式会社ゆめか",
       "identifier": "1370101758",
       "_town": "神田神保町",
+      "_kind": "営利法人",
       "url": "https://yumekaigo.co.jp/",
       "_days": [
         "平日"
@@ -343,6 +355,7 @@
       "parentOrganization": "有限会社のぞみ",
       "identifier": "1370101766",
       "_town": "神田佐久間町",
+      "_kind": "営利法人",
       "_tags": [
         "神田佐久間町エリア",
         "訪問介護"
@@ -362,6 +375,7 @@
       "parentOrganization": "有限会社しんみケアーセンター",
       "identifier": "1370101782",
       "_town": "三番町",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -388,6 +402,7 @@
       "parentOrganization": "株式会社ＡＳＸＥＥＤ",
       "identifier": "1370101808",
       "_town": "神田神保町",
+      "_kind": "営利法人",
       "url": "http://asxeed-inc.co.jp",
       "_days": [
         "平日",
@@ -415,6 +430,7 @@
       "parentOrganization": "株式会社Ｓｏｌｅｉｌ",
       "identifier": "1370101824",
       "_town": "二番町",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -441,6 +457,7 @@
       "parentOrganization": "一般財団法人社会福祉会",
       "identifier": "1370101840",
       "_town": "外神田",
+      "_kind": "社団・財団",
       "url": "http://syakaihukushikai.or.jp/",
       "_days": [
         "平日",
@@ -468,6 +485,7 @@
       "parentOrganization": "株式会社ＡＩＳＯ",
       "identifier": "1370101865",
       "_town": "九段南",
+      "_kind": "営利法人",
       "_tags": [
         "九段南エリア",
         "訪問介護"
@@ -487,6 +505,7 @@
       "parentOrganization": "株式会社ルルドの泉",
       "identifier": "1370202663",
       "_town": "神田小川町",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -513,6 +532,7 @@
       "parentOrganization": "株式会社つながるカンパニー",
       "identifier": "1370503599",
       "_town": "九段南",
+      "_kind": "営利法人",
       "_tags": [
         "九段南エリア",
         "訪問介護"
@@ -532,6 +552,7 @@
       "parentOrganization": "合同会社アルファ・アソシエイツ",
       "identifier": "1371111723",
       "_town": "飯田橋",
+      "_kind": "営利法人",
       "url": "http://teistation-care.com/",
       "_days": [
         "平日",
@@ -559,6 +580,7 @@
       "parentOrganization": "合同会社生活日和",
       "identifier": "1371707678",
       "_town": "飯田橋",
+      "_kind": "営利法人",
       "url": "https://seikatsubiyori.co.jp",
       "_days": [
         "平日",

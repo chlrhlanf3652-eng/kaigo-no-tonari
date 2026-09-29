@@ -40,6 +40,7 @@
       "parentOrganization": "株式会社アライブ",
       "identifier": "1371206945",
       "_town": "初台",
+      "_kind": "営利法人",
       "url": "http://www.access-point.jp",
       "_days": [
         "平日",
@@ -67,6 +68,7 @@
       "parentOrganization": "株式会社ニチイ学館",
       "identifier": "1371300110",
       "_town": "広尾",
+      "_kind": "営利法人",
       "url": "https://www.nichii-kaigo.jp/base/base-result/05C49/",
       "_days": [
         "平日",
@@ -94,6 +96,7 @@
       "parentOrganization": "アースサポート株式会社",
       "identifier": "1371300219",
       "_town": "本町",
+      "_kind": "営利法人",
       "url": "https://www.earthsupport.co.jp",
       "_days": [
         "平日",
@@ -121,6 +124,7 @@
       "parentOrganization": "株式会社モテギ",
       "identifier": "1371300276",
       "_town": "代々木",
+      "_kind": "営利法人",
       "url": "https://care-net.biz/13/motegi/",
       "_days": [
         "平日",
@@ -148,6 +152,7 @@
       "parentOrganization": "株式会社生活援助会",
       "identifier": "1371300318",
       "_town": "",
+      "_kind": "営利法人",
       "url": "http://seikatsuenjyokai.com",
       "_days": [
         "平日",
@@ -171,6 +176,7 @@
       "parentOrganization": "社会福祉法人パール",
       "identifier": "1371300359",
       "_town": "鉢山町",
+      "_kind": "社会福祉法人（社協以外）",
       "url": "http://www.shibuya-pearl.or.jp/",
       "_days": [
         "平日",
@@ -198,6 +204,7 @@
       "parentOrganization": "有限会社笹塚ケア・ニジュウイチ",
       "identifier": "1371300375",
       "_town": "笹塚",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -224,6 +231,7 @@
       "parentOrganization": "株式会社日本介護センター",
       "identifier": "1371300417",
       "_town": "代々木",
+      "_kind": "営利法人",
       "url": "http://www.nikkai-center.co.jp",
       "_days": [
         "平日",
@@ -251,6 +259,7 @@
       "parentOrganization": "株式会社ソラスト",
       "identifier": "1371300656",
       "_town": "幡ヶ谷",
+      "_kind": "営利法人",
       "url": "https://www.solasto.co.jp/",
       "_days": [
         "平日",
@@ -278,6 +287,7 @@
       "parentOrganization": "株式会社ポピンズファミリーケア",
       "identifier": "1371300672",
       "_town": "広尾",
+      "_kind": "営利法人",
       "url": "http://www.poppins.co.jp/",
       "_days": [
         "平日",
@@ -305,6 +315,7 @@
       "parentOrganization": "テルウェル東日本株式会社",
       "identifier": "1371300821",
       "_town": "元代々木町",
+      "_kind": "営利法人",
       "url": "http://www.telwel-kaigo.com",
       "_days": [
         "平日",
@@ -332,6 +343,7 @@
       "parentOrganization": "泰の木有限会社",
       "identifier": "1371300946",
       "_town": "本町",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -358,6 +370,7 @@
       "parentOrganization": "株式会社トモ・コミュニケーションズ",
       "identifier": "1371301233",
       "_town": "渋谷",
+      "_kind": "営利法人",
       "url": "http://www.tomo-tokyo.co.jp",
       "_days": [
         "平日",
@@ -385,6 +398,7 @@
       "parentOrganization": "株式会社ケア２１",
       "identifier": "1371301340",
       "_town": "西原",
+      "_kind": "営利法人",
       "url": "http://www.care21.co.jp",
       "_days": [
         "平日",
@@ -412,6 +426,7 @@
       "parentOrganization": "有限会社ばむりぃ",
       "identifier": "1371301407",
       "_town": "本町",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -438,6 +453,7 @@
       "parentOrganization": "株式会社やさしい手",
       "identifier": "1371301480",
       "_town": "東",
+      "_kind": "営利法人",
       "url": "http://www.yasashiite.com/subdomains/section/024/",
       "_days": [
         "平日",
@@ -465,6 +481,7 @@
       "parentOrganization": "有限会社アルカディアライフ",
       "identifier": "1371301530",
       "_town": "東",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -491,6 +508,7 @@
       "parentOrganization": "有限会社　広尾紹介サービス",
       "identifier": "1371301555",
       "_town": "広尾",
+      "_kind": "営利法人",
       "url": "http://www.hiroo-kaseifu.com",
       "_days": [
         "平日",
@@ -518,6 +536,7 @@
       "parentOrganization": "有限会社さわやか介護",
       "identifier": "1371301589",
       "_town": "東",
+      "_kind": "営利法人",
       "url": "http://www.sawayaka-kaigo.jp/",
       "_days": [
         "平日",
@@ -545,6 +564,7 @@
       "parentOrganization": "株式会社ニチイ学館",
       "identifier": "1371302140",
       "_town": "神宮前",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -570,6 +590,7 @@
       "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
       "identifier": "1371302272",
       "_town": "本町",
+      "_kind": "営利法人",
       "url": "https://www.careritz.co.jp/station/branch/hatsudai/",
       "_days": [
         "平日",
@@ -597,6 +618,7 @@
       "parentOrganization": "株式会社クイーンズプロモーション",
       "identifier": "1371302769",
       "_town": "千駄ヶ谷",
+      "_kind": "営利法人",
       "url": "http://www.kamecare.jp",
       "_days": [
         "平日",
@@ -624,6 +646,7 @@
       "parentOrganization": "株式会社スマイライフ",
       "identifier": "1371303031",
       "_town": "西原",
+      "_kind": "営利法人",
       "url": "http://smi-life.com/",
       "_days": [
         "平日",
@@ -651,6 +674,7 @@
       "parentOrganization": "特定非営利活動法人まごころ",
       "identifier": "1371303072",
       "_town": "幡ヶ谷",
+      "_kind": "非営利法人（NPO）",
       "url": "http://www.magocoro.org",
       "_days": [
         "平日",
@@ -678,6 +702,7 @@
       "parentOrganization": "株式会社ルータス",
       "identifier": "1371303122",
       "_town": "笹塚",
+      "_kind": "営利法人",
       "_tags": [
         "笹塚エリア",
         "訪問介護"
@@ -697,6 +722,7 @@
       "parentOrganization": "東京海上日動ベターライフサービス株式会社",
       "identifier": "1371303403",
       "_town": "本町",
+      "_kind": "営利法人",
       "url": "http://www.mizutama-kaigo.jp/",
       "_days": [
         "平日",
@@ -724,6 +750,7 @@
       "parentOrganization": "特定非営利活動法人いのち",
       "identifier": "1371303478",
       "_town": "西原",
+      "_kind": "非営利法人（NPO）",
       "url": "http://www.npoinochi.org/",
       "_days": [
         "平日",
@@ -751,6 +778,7 @@
       "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
       "identifier": "1371303502",
       "_town": "桜丘町",
+      "_kind": "営利法人",
       "url": "https://www.careritz.co.jp/station/branch/ebisu/",
       "_days": [
         "平日",
@@ -778,6 +806,7 @@
       "parentOrganization": "ＳＯＭＰＯケア株式会社",
       "identifier": "1371303577",
       "_town": "代々木",
+      "_kind": "営利法人",
       "url": "https://www.sompocare.com",
       "_days": [
         "平日",
@@ -805,6 +834,7 @@
       "parentOrganization": "合同会社タップ＆カイゴ",
       "identifier": "1371303601",
       "_town": "本町",
+      "_kind": "営利法人",
       "url": "https://tapandkaigo.jimdofree.com/",
       "_days": [
         "平日"
@@ -828,6 +858,7 @@
       "parentOrganization": "ＡＬＳＯＫらいふケア株式会社",
       "identifier": "1371303635",
       "_town": "代々木",
+      "_kind": "営利法人",
       "url": "https://www.life-silver.com/life_homecare/office/",
       "_days": [
         "平日",
@@ -855,6 +886,7 @@
       "parentOrganization": "特定非営利活動法人アスター",
       "identifier": "1371303734",
       "_town": "代々木",
+      "_kind": "非営利法人（NPO）",
       "url": "https://regene.themedia.jp/",
       "_days": [
         "平日",
@@ -882,6 +914,7 @@
       "parentOrganization": "社会福祉法人パール",
       "identifier": "1371303775",
       "_town": "神宮前",
+      "_kind": "社会福祉法人（社協以外）",
       "url": "http://www.shibuya-pearl.or.jp",
       "_days": [
         "平日",
@@ -908,6 +941,7 @@
       "parentOrganization": "有限会社天山堂",
       "identifier": "1371303916",
       "_town": "幡ヶ谷",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -934,6 +968,7 @@
       "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
       "identifier": "1371303932",
       "_town": "千駄ヶ谷",
+      "_kind": "営利法人",
       "url": "https://www.careritz.co.jp/station/branch/sendagaya/",
       "_days": [
         "平日",
@@ -961,6 +996,7 @@
       "parentOrganization": "株式会社セレッソ",
       "identifier": "1371304039",
       "_town": "神泉町",
+      "_kind": "営利法人",
       "url": "https://care.shibuya-canary.com/",
       "_days": [
         "平日",
@@ -988,6 +1024,7 @@
       "parentOrganization": "合同会社Ｕサポート",
       "identifier": "1371304054",
       "_town": "本町",
+      "_kind": "営利法人",
       "url": "https://www.usuppout.com",
       "_days": [
         "平日"
@@ -1011,6 +1048,7 @@
       "parentOrganization": "株式会社春の花",
       "identifier": "1371304062",
       "_town": "西原",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -1037,6 +1075,7 @@
       "parentOrganization": "株式会社榮福ケア",
       "identifier": "1371304070",
       "_town": "恵比寿西",
+      "_kind": "営利法人",
       "url": "https://eifukugroup.com/",
       "_tags": [
         "恵比寿西エリア",
@@ -1057,6 +1096,7 @@
       "parentOrganization": "フォース株式会社",
       "identifier": "1371304088",
       "_town": "初台",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -1083,6 +1123,7 @@
       "parentOrganization": "株式会社ウエスト",
       "identifier": "1371304096",
       "_town": "広尾",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -1109,6 +1150,7 @@
       "parentOrganization": "株式会社エンプレシャス",
       "identifier": "1371304104",
       "_town": "代々木",
+      "_kind": "営利法人",
       "url": "https://www.enprecious.net/",
       "_tags": [
         "代々木エリア",
@@ -1129,6 +1171,7 @@
       "parentOrganization": "株式会社オルカ",
       "identifier": "1371304112",
       "_town": "千駄ヶ谷",
+      "_kind": "営利法人",
       "url": "https://orcacare.co.jp/",
       "_tags": [
         "千駄ヶ谷エリア",
@@ -1149,6 +1192,7 @@
       "parentOrganization": "ユースタイルラボラトリー株式会社",
       "identifier": "1371304120",
       "_town": "初台",
+      "_kind": "営利法人",
       "_tags": [
         "初台エリア",
         "訪問介護"
@@ -1168,6 +1212,7 @@
       "parentOrganization": "株式会社ＭＵＬ",
       "identifier": "1371304138",
       "_town": "幡ヶ谷",
+      "_kind": "営利法人",
       "_days": [
         "平日"
       ],
@@ -1190,6 +1235,7 @@
       "parentOrganization": "合同会社ｍｋｓ",
       "identifier": "1371304146",
       "_town": "神泉町",
+      "_kind": "営利法人",
       "_tags": [
         "神泉町エリア",
         "訪問介護"
@@ -1209,6 +1255,7 @@
       "parentOrganization": "特定非営利活動法人渋谷なかよしぐるーぷ",
       "identifier": "1371304153",
       "_town": "西原",
+      "_kind": "非営利法人（NPO）",
       "_tags": [
         "西原エリア",
         "訪問介護"
@@ -1228,6 +1275,7 @@
       "parentOrganization": "有限会社くんちゃんず",
       "identifier": "1371905082",
       "_town": "本町",
+      "_kind": "営利法人",
       "url": "http://www.ekaigo.co/",
       "_days": [
         "平日",

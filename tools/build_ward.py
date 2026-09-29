@@ -66,6 +66,7 @@ def to_items(rec, towns):
         if closed:
             it["_closed"] = closed
         it["_town"] = town
+        it["_kind"] = r.get("org_kind") or "その他"
         if r.get("url"):
             it["url"] = r["url"]
         if r.get("days"):

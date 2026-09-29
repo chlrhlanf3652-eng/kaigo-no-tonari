@@ -1272,245 +1272,259 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 
     <h2 id="s2">品川区の訪問看護ステーション一覧</h2>
         <p class="cnt">品川区内の訪問看護ステーションから48件を掲載しています（東京都公表・2026年9月1日時点）。区内には48件が指定を受けており、そのすべてを掲載しています。掲載順は事業所の優劣を示すものではありません。</p>
-    <div class="card">
+    <div id="flt-top"></div>
+    <div class="flt" id="flt" hidden>
+      <div class="flt-row">
+        <select data-f="town" aria-label="場所で絞り込む"><option value="">場所</option><option value="北品川">北品川（7）</option><option value="中延">中延（4）</option><option value="南大井">南大井（4）</option><option value="大崎">大崎（4）</option><option value="旗の台">旗の台（4）</option><option value="西五反田">西五反田（4）</option><option value="小山台">小山台（3）</option><option value="西大井">西大井（3）</option><option value="南品川">南品川（2）</option><option value="小山">小山（2）</option><option value="戸越">戸越（2）</option><option value="東大井">東大井（2）</option><option value="二葉">二葉（1）</option><option value="大井">大井（1）</option><option value="平塚">平塚（1）</option><option value="東五反田">東五反田（1）</option><option value="東品川">東品川（1）</option><option value="荏原">荏原（1）</option><option value="西品川">西品川（1）</option></select>
+        <select data-f="day" aria-label="曜日で絞り込む"><option value="">曜日</option><option value="sat">土曜も対応（22）</option><option value="sun">日曜も対応（16）</option></select>
+        <select data-f="kind" aria-label="法人で絞り込む"><option value="">法人</option><option value="営利法人">営利法人（42）</option><option value="社団・財団">社団・財団（3）</option><option value="社会福祉法人（社協以外）">社会福祉法人（社協以外）（2）</option><option value="医療法人">医療法人（1）</option></select>
+      </div>
+      <p class="flt-n" aria-live="polite"><span><b id="flt-n">48</b> / 48件を表示</span><button type="button" id="flt-reset" hidden>条件をクリア</button></p>
+    </div>
+      <p class="flt-note">「場所」は事務所の所在地です。訪問サービスは近くの町からも来てもらえます。</p>
+      <p class="flt-note" id="flt-daynote" hidden>提供曜日の記載がない5件は、曜日で絞ると表示されません。</p>
+    <div class="bizlist">
+    <div class="card" data-town="旗の台" data-kind="営利法人">
       <h3><span class="no">1</span>クレール訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 旗の台２－８－６ピアース旗の台６０５</dd><dt>運営法人</dt><dd>株式会社ｐａｒｆａｉｔ</dd><dt>電話</dt><dd><a class="tel" href="tel:0368244330">03-6824-4330</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360490583</dd></dl>
       <div class="tags"><span class="tag">旗の台エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="北品川" data-kind="営利法人">
       <h3><span class="no">2</span>元気訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 北品川２－９－２１</dd><dt>運営法人</dt><dd>有限会社アローズ</dd><dt>電話</dt><dd><a class="tel" href="tel:0357155386">03-5715-5386</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360990012</dd><dt>公式サイト</dt><dd><a class="ext" href="https://tokyo-arrows.com/" target="_blank" rel="noopener">tokyo-arrows.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">北品川エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西品川" data-kind="営利法人">
       <h3><span class="no">3</span>ソフィアメディ訪問看護ステーション豊町</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 西品川２－１－２２サザンヒル３階</dd><dt>運営法人</dt><dd>ソフィアメディ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0368651030">03-6865-1030</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360990087</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.sophiamedi.co.jp/station/yutakacho/" target="_blank" rel="noopener">sophiamedi.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西品川エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="大崎" data-kind="営利法人">
       <h3><span class="no">4</span>ナースステーション　もも</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 大崎４－２－４６</dd><dt>運営法人</dt><dd>株式会社ファイン</dd><dt>電話</dt><dd><a class="tel" href="tel:0334952300">03-3495-2300</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360990095</dd><dt>公式サイト</dt><dd><a class="ext" href="https://fine-momo.amebaownd.com/" target="_blank" rel="noopener">fine-momo.amebaownd.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">大崎エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西大井" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">5</span>ケアメイト品川訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 西大井２－４－１４</dd><dt>運営法人</dt><dd>株式会社ケアメイト</dd><dt>電話</dt><dd><a class="tel" href="tel:0363037834">03-6303-7834</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360990111</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.caremate.jp" target="_blank" rel="noopener">caremate.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西大井エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="北品川" data-kind="営利法人">
       <h3><span class="no">6</span>訪問看護ステーション　リリフル</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 北品川５－１２－１－５０３号</dd><dt>運営法人</dt><dd>株式会社リリフル</dd><dt>電話</dt><dd><a class="tel" href="tel:0354757733">03-5475-7733</a></dd><dt>事業所番号</dt><dd class="id">1360990129</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.reliefull.com/" target="_blank" rel="noopener">reliefull.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">北品川エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="戸越" data-kind="営利法人">
       <h3><span class="no">7</span>ほっとホームケア訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 戸越５－１４－２４ＩＴＯビル４階</dd><dt>運営法人</dt><dd>鳳優商事株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0364215951">03-6421-5951</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360990186</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.hotto-homecare.com/" target="_blank" rel="noopener">hotto-homecare.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">戸越エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西五反田" data-day="sat" data-kind="医療法人">
       <h3><span class="no">8</span>訪問看護ステーションｃａｒｎａ五反田</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 西五反田３－１０－９ｃａｒｎａ五反田６階</dd><dt>運営法人</dt><dd>医療法人社団東光会</dd><dt>電話</dt><dd><a class="tel" href="tel:0354968774">03-5496-8774</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360990194</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.tmg-houmonkango.jp/gotanda/" target="_blank" rel="noopener">tmg-houmonkango.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西五反田エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="荏原" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">9</span>レディーバグ訪問看護ステーション武蔵小山</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 荏原４－１４－７－１Ｆ</dd><dt>運営法人</dt><dd>株式会社レインボー・ナース</dd><dt>電話</dt><dd><a class="tel" href="tel:0364269671">03-6426-9671</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360990202</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.heartpage.jp/shinagawa/facility/20010052?header=off" target="_blank" rel="noopener">heartpage.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">荏原エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南大井" data-kind="営利法人">
       <h3><span class="no">10</span>喜楽訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 南大井６－１６－１２大森コーポビアネーズ４０７号</dd><dt>運営法人</dt><dd>株式会社ＭＫＨ企画</dd><dt>電話</dt><dd><a class="tel" href="tel:0364596705">03-6459-6705</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360990244</dd></dl>
       <div class="tags"><span class="tag">南大井エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西五反田" data-day="sat" data-kind="営利法人">
       <h3><span class="no">11</span>訪問看護ステーション　デューン品川</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 西五反田８－９－５ＦＯＲＥＣＡＳＴ五反田ＷＥＳＴ９階</dd><dt>運営法人</dt><dd>株式会社Ｎ・フィールド</dd><dt>電話</dt><dd><a class="tel" href="tel:0364200520">03-6420-0520</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360990269</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.nfield.co.jp" target="_blank" rel="noopener">nfield.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西五反田エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="二葉" data-kind="営利法人">
       <h3><span class="no">12</span>株式会社仁済　訪問看護ステーション品川</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 二葉１－１２－８マメゾン１Ｆ</dd><dt>運営法人</dt><dd>株式会社仁済</dd><dt>電話</dt><dd><a class="tel" href="tel:0364107611">03-6410-7611</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360990293</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.jinsai1939.jp" target="_blank" rel="noopener">jinsai1939.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">二葉エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西大井" data-day="sat|sun" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">13</span>にしおおい訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 西大井２－４－４</dd><dt>運営法人</dt><dd>社会福祉法人春光福祉会</dd><dt>電話</dt><dd><a class="tel" href="tel:0363037040">03-6303-7040</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360990319</dd><dt>公式サイト</dt><dd><a class="ext" href="https://shunkoufukushikai.or.jp" target="_blank" rel="noopener">shunkoufukushikai.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西大井エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="北品川" data-day="sat" data-kind="社団・財団">
       <h3><span class="no">14</span>訪問看護ステーションソピア御殿山</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 北品川５－２－１</dd><dt>運営法人</dt><dd>公益財団法人河野臨牀医学研究所</dd><dt>電話</dt><dd><a class="tel" href="tel:0357933416">03-5793-3416</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1360990327</dd><dt>公式サイト</dt><dd><a class="ext" href="http://kcmi.or.jp/sopiagotenyama/houmonkango/" target="_blank" rel="noopener">kcmi.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">北品川エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南品川" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">15</span>ソフィアメディ訪問看護ステーション青物横丁</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 南品川２－１７－３４　２階</dd><dt>運営法人</dt><dd>ソフィアメディ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0357963219">03-5796-3219</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360990343</dd></dl>
       <div class="tags"><span class="tag">南品川エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="旗の台" data-kind="営利法人">
       <h3><span class="no">16</span>訪問看護ステーションこころ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 旗の台６－２４－１２旗の台サマリヤマンション１０１</dd><dt>運営法人</dt><dd>株式会社こころ</dd><dt>電話</dt><dd><a class="tel" href="tel:0367122839">03-6712-2839</a></dd><dt>サービス提供日</dt><dd>平日・祝日</dd><dt>事業所番号</dt><dd class="id">1360990368</dd><dt>公式サイト</dt><dd><a class="ext" href="https://cocorostation.jp" target="_blank" rel="noopener">cocorostation.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">旗の台エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東五反田" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">17</span>ビジナ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 東五反田１－５－１ユニーブル島津山６０６号室</dd><dt>運営法人</dt><dd>プラチナ看護株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0364096356">03-6409-6356</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360990392</dd><dt>公式サイト</dt><dd><a class="ext" href="https://visina.jp/" target="_blank" rel="noopener">visina.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東五反田エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="北品川" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">18</span>訪問看護ステーション　タック</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 北品川３－１１－１９ラ・メール４０１</dd><dt>運営法人</dt><dd>株式会社ＯＮＥ　ＴＥＡＭ</dd><dt>電話</dt><dd><a class="tel" href="tel:0368103711">03-6810-3711</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360990400</dd><dt>公式サイト</dt><dd><a class="ext" href="https://tack-kango.com" target="_blank" rel="noopener">tack-kango.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">北品川エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南大井" data-kind="営利法人">
       <h3><span class="no">19</span>フローカ訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 南大井６－１３－８</dd><dt>運営法人</dt><dd>フローカ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0366650891">03-6665-0891</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360990418</dd><dt>公式サイト</dt><dd><a class="ext" href="https://kango.floca.co.jp/" target="_blank" rel="noopener">kango.floca.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">南大井エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="旗の台" data-kind="営利法人">
       <h3><span class="no">20</span>訪問看護ステーション　デライト品川</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 旗の台２－８－６Ｆｅｌｉｃｅ　Ｈａｔａｇａｏｋａ　１階</dd><dt>運営法人</dt><dd>株式会社Ｈ＆Ｈホールディングス</dd><dt>電話</dt><dd><a class="tel" href="tel:0364216283">03-6421-6283</a></dd><dt>事業所番号</dt><dd class="id">1360990426</dd></dl>
       <div class="tags"><span class="tag">旗の台エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="大井" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">21</span>和ごころ訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 大井４－２４－２０ガーデニアヴィラ１階</dd><dt>運営法人</dt><dd>株式会社ＩＭＵＺＡ</dd><dt>電話</dt><dd><a class="tel" href="tel:0357180288">03-5718-0288</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360990442</dd><dt>公式サイト</dt><dd><a class="ext" href="https://wagokoro2021.com" target="_blank" rel="noopener">wagokoro2021.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">大井エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西五反田" data-kind="営利法人">
       <h3><span class="no">22</span>ＡＳＨＣＡＲＥ　訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 西五反田５－１１－８不動前マンション４０５</dd><dt>運営法人</dt><dd>株式会社ＡＳＨＣＡＲＥ</dd><dt>電話</dt><dd><a class="tel" href="tel:0364179262">03-6417-9262</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360990467</dd><dt>公式サイト</dt><dd><a class="ext" href="https://ash-care.jp" target="_blank" rel="noopener">ash-care.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西五反田エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南品川" data-kind="営利法人">
       <h3><span class="no">23</span>訪問看護ステーションここのわ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 南品川３－４－１４永光マンション２０1号室</dd><dt>運営法人</dt><dd>株式会社ミーナ</dd><dt>電話</dt><dd><a class="tel" href="tel:0357157511">03-5715-7511</a></dd><dt>事業所番号</dt><dd class="id">1360990475</dd></dl>
       <div class="tags"><span class="tag">南品川エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中延" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">24</span>かかりつけ訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 中延３－１１－２モアナハウス１０２</dd><dt>運営法人</dt><dd>株式会社在宅看護センター品川</dd><dt>電話</dt><dd><a class="tel" href="tel:0364266276">03-6426-6276</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360990483</dd><dt>公式サイト</dt><dd><a class="ext" href="https://kakari-kango-center.com/" target="_blank" rel="noopener">kakari-kango-center.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">中延エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="小山台" data-kind="営利法人">
       <h3><span class="no">25</span>ぬくまる看護</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 小山台１－２２－８昭和ビル２階</dd><dt>運営法人</dt><dd>株式会社コウゼン</dd><dt>電話</dt><dd><a class="tel" href="tel:0364512278">03-6451-2278</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360990491</dd></dl>
       <div class="tags"><span class="tag">小山台エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中延" data-kind="営利法人">
       <h3><span class="no">26</span>訪問看護ステーション　アライブ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 中延５－１１－２５ハウスＨＭ　Ａ号室</dd><dt>運営法人</dt><dd>株式会社ＡＬＩＶＥ</dd><dt>電話</dt><dd><a class="tel" href="tel:0364268154">03-6426-8154</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360990509</dd></dl>
       <div class="tags"><span class="tag">中延エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="大崎" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">27</span>あいらく訪問看護ステーション　大崎</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 大崎５－４－１２日床ビル２Ｆ</dd><dt>運営法人</dt><dd>株式会社ＶｉｖｉＬｕｋｅ</dd><dt>電話</dt><dd><a class="tel" href="tel:0364319578">03-6431-9578</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360990525</dd></dl>
       <div class="tags"><span class="tag">大崎エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中延" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">28</span>ｃｕｒｕｎ訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 中延５－９－２８小笠原ハウス２０２</dd><dt>運営法人</dt><dd>合同会社ｃｕｒｕｎ訪問看護ステーション</dd><dt>電話</dt><dd><a class="tel" href="tel:0368269942">03-6826-9942</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日</dd><dt>事業所番号</dt><dd class="id">1360990541</dd><dt>公式サイト</dt><dd><a class="ext" href="https://curun.co.jp/" target="_blank" rel="noopener">curun.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">中延エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東大井" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">29</span>医心館　訪問看護ステーション　大井町</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 東大井４－１２－１４</dd><dt>運営法人</dt><dd>株式会社アンビス</dd><dt>電話</dt><dd><a class="tel" href="tel:0367123530">03-6712-3530</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360990558</dd></dl>
       <div class="tags"><span class="tag">東大井エリア</span><span class="tag">日曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="北品川" data-kind="営利法人">
       <h3><span class="no">30</span>訪問看護ステーションウェイオブライフ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 北品川１－２４－１９ハイツ青木１０３</dd><dt>運営法人</dt><dd>合同会社ウェイオブライフ</dd><dt>電話</dt><dd><a class="tel" href="tel:0362600660">03-6260-0660</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360990566</dd></dl>
       <div class="tags"><span class="tag">北品川エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西大井" data-day="sat" data-kind="営利法人">
       <h3><span class="no">31</span>ともに訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 西大井６－９－３ヴィラロトンダ１階</dd><dt>運営法人</dt><dd>Ｃｏｎｔｉｎｕｅｓ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0366864611">03-6686-4611</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360990574</dd><dt>公式サイト</dt><dd><a class="ext" href="https://tomonihoukan.com/" target="_blank" rel="noopener">tomonihoukan.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西大井エリア</span><span class="tag">土曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南大井" data-kind="営利法人">
       <h3><span class="no">32</span>ケアウィル訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 南大井２－９－２　２Ｆ</dd><dt>運営法人</dt><dd>ウェルグリーン株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0332983685">03-3298-3685</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360990590</dd><dt>公式サイト</dt><dd><a class="ext" href="https://carewil.com/" target="_blank" rel="noopener">carewil.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">南大井エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="小山" data-day="sat" data-kind="営利法人">
       <h3><span class="no">33</span>訪問看護ステーション　はな　小山</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 小山６－２８－１５</dd><dt>運営法人</dt><dd>株式会社ＳＡＴ</dd><dt>電話</dt><dd><a class="tel" href="tel:0368262207">03-6826-2207</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1360990608</dd><dt>公式サイト</dt><dd><a class="ext" href="https://hana-kango.com/about_us/index.html" target="_blank" rel="noopener">hana-kango.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">小山エリア</span><span class="tag">土曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="大崎" data-kind="営利法人">
       <h3><span class="no">34</span>Ｋｉｄｓ　Ｉｎｎｏｖａｔｉｏｎ　訪問看護</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 大崎２－７－５Ｍｙ　Ｓｔｙｌｅ　Ｏｓａｋｉ　１０２</dd><dt>運営法人</dt><dd>株式会社ＫｉｄｓＩｎｎｏｖａｔｉｏｎ</dd><dt>電話</dt><dd><a class="tel" href="tel:0364353423">03-6435-3423</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360990624</dd><dt>公式サイト</dt><dd><a class="ext" href="https://machan-childcare.com" target="_blank" rel="noopener">machan-childcare.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">大崎エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東品川" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">35</span>愛恩訪問看護ステーション品川</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 東品川２－２－２５サンウッド品川天王洲タワー１３０６</dd><dt>運営法人</dt><dd>愛恩株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0364332552">03-6433-2552</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360990632</dd></dl>
       <div class="tags"><span class="tag">東品川エリア</span><span class="tag">日曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="大崎" data-kind="営利法人">
       <h3><span class="no">36</span>ザオーケア訪問看護ステーション大崎</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 大崎４－４－２４ａｏｚｏｒａ．ｓｏ　３Ａ</dd><dt>運営法人</dt><dd>アリア株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0357479686">03-5747-9686</a></dd><dt>事業所番号</dt><dd class="id">1360990640</dd></dl>
       <div class="tags"><span class="tag">大崎エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="旗の台" data-kind="営利法人">
       <h3><span class="no">37</span>訪問看護ステーション・湯～亀</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 旗の台４－５－１７</dd><dt>運営法人</dt><dd>有限会社新井湯</dd><dt>電話</dt><dd><a class="tel" href="tel:0357889655">03-5788-9655</a></dd><dt>サービス提供日</dt><dd>平日・祝日</dd><dt>事業所番号</dt><dd class="id">1360990657</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.yu-ki.fun/company" target="_blank" rel="noopener">yu-ki.fun<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">旗の台エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西五反田" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">38</span>コアエイド訪問看護ステーション目黒</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 西五反田２－２３－１ＡＲＺ五反田８階</dd><dt>運営法人</dt><dd>株式会社コアエイド</dd><dt>電話</dt><dd><a class="tel" href="tel:05017925982">05017925982</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360990665</dd><dt>公式サイト</dt><dd><a class="ext" href="https://core-aid.co.jp/" target="_blank" rel="noopener">core-aid.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西五反田エリア</span><span class="tag">日曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="小山台" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">39</span>訪問看護ひまわりガーデンプレイス</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 小山台１－１０－３</dd><dt>運営法人</dt><dd>株式会社グリーンラボ</dd><dt>電話</dt><dd><a class="tel" href="tel:0368994814">03-6899-4814</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1360990673</dd><dt>公式サイト</dt><dd><a class="ext" href="https://himawari-gp.com/" target="_blank" rel="noopener">himawari-gp.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">小山台エリア</span><span class="tag">日曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="小山台" data-kind="営利法人">
       <h3><span class="no">40</span>訪問看護　ＭＯＲＥ　ＣＡＲＥ　品川</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 小山台１－１８－１１コートＭＩＫＩ２０１</dd><dt>運営法人</dt><dd>株式会社ＭＯＲＥＣＡＲＥ</dd><dt>電話</dt><dd><a class="tel" href="tel:07031363681">07031363681</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1360990681</dd><dt>公式サイト</dt><dd><a class="ext" href="https://morecare-jp.com/company/" target="_blank" rel="noopener">morecare-jp.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">小山台エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南大井" data-kind="営利法人">
       <h3><span class="no">41</span>指定訪問看護アットリハ大森</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 南大井６－４－１</dd><dt>運営法人</dt><dd>株式会社ＡＴ</dd><dt>電話</dt><dd><a class="tel" href="tel:0362716184">03-6271-6184</a></dd><dt>事業所番号</dt><dd class="id">1360990699</dd></dl>
       <div class="tags"><span class="tag">南大井エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="平塚" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">42</span>ｚｅｎ　ｐｌａｃｅ訪問看護ステーション戸越</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 平塚３－１１－５サンライズビル２Ｆ</dd><dt>運営法人</dt><dd>株式会社ＺＥＮＰＬＡＣＥ</dd><dt>電話</dt><dd><a class="tel" href="tel:0364216531">03-6421-6531</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361090317</dd><dt>公式サイト</dt><dd><a class="ext" href="https://nurse.zenplace.co.jp/index.html" target="_blank" rel="noopener">nurse.zenplace.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">平塚エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="戸越" data-kind="営利法人">
       <h3><span class="no">43</span>まいど訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 戸越４－３－１８ＶＩＣ　ＡＣＲＯＳＳ　ＴＯＧＯＳＨＩ１０１</dd><dt>運営法人</dt><dd>株式会社Ｔｒｙｎｕｒｓｉｎｇ</dd><dt>電話</dt><dd><a class="tel" href="tel:0368238408">03-6823-8408</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1362290551</dd></dl>
       <div class="tags"><span class="tag">戸越エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="北品川" data-kind="社団・財団">
       <h3><span class="no">44</span>医師会立品川区訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 北品川３－７－２５</dd><dt>運営法人</dt><dd>一般社団法人品川区医師会</dd><dt>電話</dt><dd><a class="tel" href="tel:0334725518">03-3472-5518</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1367191075</dd><dt>公式サイト</dt><dd><a class="ext" href="http://shinagawakuishikai.or.jp/06_kango-st.html" target="_blank" rel="noopener">shinagawakuishikai.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">北品川エリア</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中延" data-kind="社団・財団">
       <h3><span class="no">45</span>医師会立荏原訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 中延２－６－５</dd><dt>運営法人</dt><dd>一般社団法人荏原医師会</dd><dt>電話</dt><dd><a class="tel" href="tel:0337832360">03-3783-2360</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1367192032</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.ebr-med.or.jp" target="_blank" rel="noopener">ebr-med.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">中延エリア</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東大井" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">46</span>南大井訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 東大井４－９－１</dd><dt>運営法人</dt><dd>社会福祉法人さくら会</dd><dt>電話</dt><dd><a class="tel" href="tel:0354957084">03-5495-7084</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1367194657</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.shinagawa-sakurakai.or.jp" target="_blank" rel="noopener">shinagawa-sakurakai.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東大井エリア</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="小山" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">47</span>ソフィアメディ訪問看護ステーション小山</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 小山７－１０－１ロワール洗足１０２</dd><dt>運営法人</dt><dd>ソフィアメディ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0357491657">03-5749-1657</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1367196926</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.sophiamedi.co.jp/" target="_blank" rel="noopener">sophiamedi.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">小山エリア</span><span class="tag">日曜日も訪問</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="北品川" data-day="sat" data-kind="営利法人">
       <h3><span class="no">48</span>株式会社ライフケアーサービスセンター訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 品川区 北品川３－３－３東和ビル３階</dd><dt>運営法人</dt><dd>株式会社ライフケアーサービスセンター</dd><dt>電話</dt><dd><a class="tel" href="tel:0334713908">03-3471-3908</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1367197619</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.lcss.co.jp" target="_blank" rel="noopener">lcss.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">北品川エリア</span><span class="tag">土曜日も訪問</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
+    </div>
+    <p class="flt-empty" id="flt-empty" hidden>条件に合う事業所はありません。条件を1つ外してみてください。</p>
     </div>
     <div class="warn"><strong>掲載情報についてのお願い</strong><br>上記48件は、2026-09-21に品川区および各事業者の公表情報で確認した内容です。営業時間・対応エリア・空き状況は変動しますので、連絡の前に必ず公式情報をご確認ください。掲載内容の訂正・削除は、<a href="../../../contact/">お問い合わせ</a>からご依頼いただければ<strong>理由の説明なしで削除します</strong>。</div>
 
@@ -1826,5 +1840,6 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 })();
 </script>
 <script src="../../../assets/measure.js" defer></script>
+<script src="../../../assets/filter.js" defer></script>
 </body>
 </html>

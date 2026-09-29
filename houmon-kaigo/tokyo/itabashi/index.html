@@ -1516,305 +1516,319 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 
     <h2 id="s2">板橋区の訪問介護事業所一覧</h2>
         <p class="cnt">板橋区内の訪問介護事業所から60件を掲載しています（2026年9月時点）。区内の全件から事業所番号の順に等間隔で抽出しています。区内には158件の事業所があり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。</p>
-    <div class="card">
+    <div id="flt-top"></div>
+    <div class="flt" id="flt" hidden>
+      <div class="flt-row">
+        <select data-f="town" aria-label="場所で絞り込む"><option value="">場所</option><option value="上板橋">上板橋（7）</option><option value="板橋">板橋（7）</option><option value="小茂根">小茂根（4）</option><option value="徳丸">徳丸（4）</option><option value="蓮根">蓮根（4）</option><option value="仲町">仲町（3）</option><option value="前野町">前野町（3）</option><option value="栄町">栄町（3）</option><option value="赤塚">赤塚（3）</option><option value="高島平">高島平（3）</option><option value="三園">三園（2）</option><option value="中板橋">中板橋（2）</option><option value="南町">南町（2）</option><option value="坂下">坂下（2）</option><option value="小豆沢">小豆沢（2）</option><option value="本町">本町（2）</option><option value="西台">西台（2）</option><option value="常盤台">常盤台（1）</option><option value="志村">志村（1）</option><option value="成増">成増（1）</option><option value="東坂下">東坂下（1）</option><option value="稲荷台">稲荷台（1）</option></select>
+        <select data-f="day" aria-label="曜日で絞り込む"><option value="">曜日</option><option value="sat">土曜も対応（50）</option><option value="sun">日曜も対応（46）</option></select>
+        <select data-f="kind" aria-label="法人で絞り込む"><option value="">法人</option><option value="営利法人">営利法人（49）</option><option value="医療法人">医療法人（4）</option><option value="非営利法人（NPO）">非営利法人（NPO）（3）</option><option value="社会福祉法人（社協以外）">社会福祉法人（社協以外）（2）</option><option value="その他">その他（1）</option><option value="社団・財団">社団・財団（1）</option></select>
+      </div>
+      <p class="flt-n" aria-live="polite"><span><b id="flt-n">60</b> / 60件を表示</span><button type="button" id="flt-reset" hidden>条件をクリア</button></p>
+    </div>
+      <p class="flt-note">「場所」は事務所の所在地です。訪問サービスは近くの町からも来てもらえます。</p>
+      <p class="flt-note" id="flt-daynote" hidden>提供曜日の記載がない7件は、曜日で絞ると表示されません。</p>
+    <div class="bizlist">
+    <div class="card" data-town="稲荷台" data-day="sat|sun" data-kind="非営利法人（NPO）">
       <h3><span class="no">1</span>在宅ケア協会</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 稲荷台２０－４</dd><dt>運営法人</dt><dd>特定非営利活動法人在宅ケア協会</dd><dt>電話</dt><dd><a class="tel" href="tel:0369057590">03-6905-7590</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1370400788</dd><dt>公式サイト</dt><dd><a class="ext" href="https://zaitaku.or.jp/" target="_blank" rel="noopener">zaitaku.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">稲荷台エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="成増" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">2</span>アースサポ－ト板橋</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 成増３－１－９</dd><dt>運営法人</dt><dd>アースサポート株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0359041700">03-5904-1700</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371301191</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.earthsupport.co.jp" target="_blank" rel="noopener">earthsupport.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">成増エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="小茂根" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">3</span>ベスト・ケアー　ヘルパーステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 小茂根１－２７－３</dd><dt>運営法人</dt><dd>株式会社ベスト・ケアー</dd><dt>電話</dt><dd><a class="tel" href="tel:0335548121">03-3554-8121</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371900380</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.bestcare-kaigo.jp/" target="_blank" rel="noopener">bestcare-kaigo.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">小茂根エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="前野町" data-day="sat|sun" data-kind="医療法人">
       <h3><span class="no">4</span>医療法人財団　朔望会　訪問介護ビオラ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 前野町３－３６－１０</dd><dt>運営法人</dt><dd>医療法人財団朔望会</dd><dt>電話</dt><dd><a class="tel" href="tel:0339601005">03-3960-1005</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371900570</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.tshnet.or.jp/" target="_blank" rel="noopener">tshnet.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">前野町エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="栄町" data-day="sat" data-kind="その他">
       <h3><span class="no">5</span>ワーカーズコープ　パル板橋</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 栄町２１－１２青木ビル１Ｆ</dd><dt>運営法人</dt><dd>労働者協同組合労協センター事業団</dd><dt>電話</dt><dd><a class="tel" href="tel:0335795531">03-3579-5531</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371900679</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.roukyou.gr.jp/" target="_blank" rel="noopener">roukyou.gr.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">栄町エリア</span><span class="tag">土曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東坂下" data-day="sat" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">6</span>いずみの苑　ふれあいヘルプ事業所</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 東坂下２－２－２２</dd><dt>運営法人</dt><dd>社会福祉法人東京援護協会</dd><dt>電話</dt><dd><a class="tel" href="tel:0359702922">03-5970-2922</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371901214</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.tokyoengokyokai.or.jp" target="_blank" rel="noopener">tokyoengokyokai.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東坂下エリア</span><span class="tag">土曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="小茂根" data-day="sat|sun" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">7</span>こもねヘルパーステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 小茂根４－１１－１１</dd><dt>運営法人</dt><dd>社会福祉法人小茂根の郷</dd><dt>電話</dt><dd><a class="tel" href="tel:0339597498">03-3959-7498</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371901313</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.komonenosato.com" target="_blank" rel="noopener">komonenosato.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">小茂根エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="徳丸" data-day="sat|sun" data-kind="非営利法人（NPO）">
       <h3><span class="no">8</span>ＮＰＯ・ＡＣＴたすけあいワーカーズあやとり</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 徳丸２－３０－１６生活クラブ館徳丸２階</dd><dt>運営法人</dt><dd>特定非営利活動法人アビリティクラブたすけあい板橋たすけあいワーカーズあやとり</dd><dt>電話</dt><dd><a class="tel" href="tel:0359223560">03-5922-3560</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371901891</dd><dt>公式サイト</dt><dd><a class="ext" href="http://act-ayatori.com" target="_blank" rel="noopener">act-ayatori.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">徳丸エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="板橋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">9</span>アイ・ヘルパーサービス</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 板橋一丁目４８番４号　ウッドリバー３ＦＡ</dd><dt>運営法人</dt><dd>有限会社　アイ・ヘルパーサービス</dd><dt>電話</dt><dd><a class="tel" href="tel:0359435281">03-5943-5281</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371902444</dd></dl>
       <div class="tags"><span class="tag">板橋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="小茂根" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">10</span>ニチイケアセンター小茂根</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 小茂根５－４－４１</dd><dt>運営法人</dt><dd>株式会社ニチイ学館</dd><dt>電話</dt><dd><a class="tel" href="tel:0359175862">03-5917-5862</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371902568</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.nichiigakkan.co.jp" target="_blank" rel="noopener">nichiigakkan.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">小茂根エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="常盤台" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">11</span>ヘルパーステーション　上板橋</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 常盤台４－２２－１２山和常盤台ビル</dd><dt>運営法人</dt><dd>株式会社ＹＯＵ優ＣＡＲＥ</dd><dt>電話</dt><dd><a class="tel" href="tel:0359459511">03-5945-9511</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371903053</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.youyou-care.co.jp/" target="_blank" rel="noopener">youyou-care.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">常盤台エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西台" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">12</span>ぐうにいずケアセンター</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 西台４－８－１３ヒラタビル２Ｆ</dd><dt>運営法人</dt><dd>有限会社協徳</dd><dt>電話</dt><dd><a class="tel" href="tel:0335505336">03-3550-5336</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371903350</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.gunizu.com/" target="_blank" rel="noopener">gunizu.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西台エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="坂下" data-day="sat|sun" data-kind="社団・財団">
       <h3><span class="no">13</span>東京ＹＷＣＡケアサポート　板橋</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 坂下１－３４－２５</dd><dt>運営法人</dt><dd>公益財団法人東京ＹＷＣＡ</dd><dt>電話</dt><dd><a class="tel" href="tel:0359141849">03-5914-1849</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371903491</dd><dt>公式サイト</dt><dd><a class="ext" href="http://tokyo.ywca.or.jp/care" target="_blank" rel="noopener">tokyo.ywca.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">坂下エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上板橋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">14</span>有限会社　さくら苑</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 上板橋２－２９－９ボゥソレイユ１階</dd><dt>運営法人</dt><dd>有限会社　さくら苑</dd><dt>電話</dt><dd><a class="tel" href="tel:0359212133">03-5921-2133</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371903749</dd></dl>
       <div class="tags"><span class="tag">上板橋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="蓮根" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">15</span>アイケアセンター蓮根</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 蓮根２－３０－８－１０３</dd><dt>運営法人</dt><dd>株式会社ケアフレンド</dd><dt>電話</dt><dd><a class="tel" href="tel:0359163239">03-5916-3239</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371903848</dd><dt>公式サイト</dt><dd><a class="ext" href="https://aicarecenter.co.jp/" target="_blank" rel="noopener">aicarecenter.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">蓮根エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="板橋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">16</span>レインボーブリッジ　板橋ケアセンター</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 板橋３－５－１５</dd><dt>運営法人</dt><dd>有限会社レインボーブリッジ</dd><dt>電話</dt><dd><a class="tel" href="tel:0359432951">03-5943-2951</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371903921</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.rainbowbridge.co.jp/" target="_blank" rel="noopener">rainbowbridge.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">板橋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="高島平" data-kind="営利法人">
       <h3><span class="no">17</span>灯の会</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 高島平九丁目２９番３号　エステート野口１Ｆ</dd><dt>運営法人</dt><dd>有限会社　灯の会</dd><dt>電話</dt><dd><a class="tel" href="tel:0339315678">03-3931-5678</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1371904366</dd></dl>
       <div class="tags"><span class="tag">高島平エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中板橋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">18</span>有限会社中板橋介護支援センター</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 中板橋４－１５　１０４</dd><dt>運営法人</dt><dd>有限会社中板橋介護支援センター</dd><dt>電話</dt><dd><a class="tel" href="tel:0369050877">03-6905-0877</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371904754</dd></dl>
       <div class="tags"><span class="tag">中板橋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南町" data-day="sat|sun" data-kind="非営利法人（NPO）">
       <h3><span class="no">19</span>ブリッジ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 南町３５－５庄野ビル１０２号</dd><dt>運営法人</dt><dd>特定非営利活動法人ブリッジ</dd><dt>電話</dt><dd><a class="tel" href="tel:0339593853">03-3959-3853</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371904960</dd></dl>
       <div class="tags"><span class="tag">南町エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上板橋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">20</span>ＡＬＳＯＫケアステーション板橋</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 上板橋３－１９－８ジュネス上板橋１０５</dd><dt>運営法人</dt><dd>ＡＬＳＯＫ介護株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0353997223">03-5399-7223</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371905736</dd></dl>
       <div class="tags"><span class="tag">上板橋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上板橋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">21</span>セントケア板橋</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 上板橋１－１６－６　町田ビル１Ｆ</dd><dt>運営法人</dt><dd>セントケア東京株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0359202943">03-5920-2943</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371905827</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.saint-care.com" target="_blank" rel="noopener">saint-care.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">上板橋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="蓮根" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">22</span>訪問介護・みよこ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 蓮根２－１８－２１</dd><dt>運営法人</dt><dd>有限会社ミセス，カネコ</dd><dt>電話</dt><dd><a class="tel" href="tel:0339674255">03-3967-4255</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371906114</dd></dl>
       <div class="tags"><span class="tag">蓮根エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上板橋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">23</span>ケア２１　上板橋</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 上板橋３－２０－１２ルートビルディング１階</dd><dt>運営法人</dt><dd>株式会社ケア２１</dd><dt>電話</dt><dd><a class="tel" href="tel:0359225506">03-5922-5506</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371906205</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.care21.co.jp/" target="_blank" rel="noopener">care21.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">上板橋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="赤塚" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">24</span>ニチイケアセンター赤塚</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 赤塚１－１８－８</dd><dt>運営法人</dt><dd>株式会社ニチイ学館</dd><dt>電話</dt><dd><a class="tel" href="tel:0359685130">03-5968-5130</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371906700</dd></dl>
       <div class="tags"><span class="tag">赤塚エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="仲町" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">25</span>すももケアサービス</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 仲町１０－１２</dd><dt>運営法人</dt><dd>株式会社寿百</dd><dt>電話</dt><dd><a class="tel" href="tel:0359266095">03-5926-6095</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371907021</dd></dl>
       <div class="tags"><span class="tag">仲町エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="志村" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">26</span>ヘルパーステーション　花のまる</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 志村３－２６－１５</dd><dt>運営法人</dt><dd>株式会社こねこのて</dd><dt>電話</dt><dd><a class="tel" href="tel:0359704337">03-5970-4337</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371907575</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.hananomaru.net/" target="_blank" rel="noopener">hananomaru.net<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">志村エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="本町" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">27</span>ケアリッツ板橋</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 本町３３－１９シャトレー長谷川１階</dd><dt>運営法人</dt><dd>株式会社ケアリッツ・アンド・パートナーズ</dd><dt>電話</dt><dd><a class="tel" href="tel:0359441258">03-5944-1258</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371907823</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.careritz.co.jp/station/branch/itabashi/" target="_blank" rel="noopener">careritz.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">本町エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="前野町" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">28</span>ホームヘルプサービス　ソラストときわ台</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 前野町１－２９－１０　商業棟３階</dd><dt>運営法人</dt><dd>株式会社ソラスト</dd><dt>電話</dt><dd><a class="tel" href="tel:0359146273">03-5914-6273</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371908110</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.solasto.co.jp" target="_blank" rel="noopener">solasto.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">前野町エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上板橋" data-day="sat" data-kind="営利法人">
       <h3><span class="no">29</span>板橋のそら</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 上板橋３－１１－９</dd><dt>運営法人</dt><dd>株式会社のそら</dd><dt>電話</dt><dd><a class="tel" href="tel:0369067942">03-6906-7942</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371908185</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.nosora.jp/" target="_blank" rel="noopener">nosora.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">上板橋エリア</span><span class="tag">土曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="赤塚" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">30</span>きらきらケアサービス</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 赤塚１－１－１０</dd><dt>運営法人</dt><dd>株式会社きらきらケアサービス</dd><dt>電話</dt><dd><a class="tel" href="tel:0362810604">03-6281-0604</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371908292</dd><dt>公式サイト</dt><dd><a class="ext" href="http://kirakiracs.com" target="_blank" rel="noopener">kirakiracs.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">赤塚エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中板橋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">31</span>はなまる介護</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 中板橋２９－８クリテックビル３Ｆ</dd><dt>運営法人</dt><dd>８７０株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0359439870">03-5943-9870</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371908649</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.870kaigo.com/" target="_blank" rel="noopener">870kaigo.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">中板橋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="蓮根" data-kind="営利法人">
       <h3><span class="no">32</span>ケアセンスヘルパーステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 蓮根３－１１－２５東久蓮根ハイツ１階－Ｃ</dd><dt>運営法人</dt><dd>株式会社ケアセンス</dd><dt>電話</dt><dd><a class="tel" href="tel:0364549681">03-6454-9681</a></dd><dt>事業所番号</dt><dd class="id">1371908821</dd></dl>
       <div class="tags"><span class="tag">蓮根エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="板橋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">33</span>訪問介護　ハピネス</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 板橋１－４３－６宝ビル７階</dd><dt>運営法人</dt><dd>花咲くホーム株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0367945663">03-6794-5663</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371909142</dd><dt>公式サイト</dt><dd><a class="ext" href="http://hanasakuhappiness.jimdo.com/" target="_blank" rel="noopener">hanasakuhappiness.jimdo.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">板橋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="仲町" data-day="sat|sun" data-kind="医療法人">
       <h3><span class="no">34</span>クローバーのさと　カウピリ板橋　訪問介護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 仲町１－４</dd><dt>運営法人</dt><dd>医療法人社団明芳会</dd><dt>電話</dt><dd><a class="tel" href="tel:0339559682">03-3955-9682</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371909449</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.ims.gr.jp/clover/" target="_blank" rel="noopener">ims.gr.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">仲町エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="板橋" data-kind="営利法人">
       <h3><span class="no">35</span>バタフライ板橋</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 板橋４－３８－４－４０１</dd><dt>運営法人</dt><dd>株式会社ＢＣＳ</dd><dt>電話</dt><dd><a class="tel" href="tel:0369057691">03-6905-7691</a></dd><dt>事業所番号</dt><dd class="id">1371909621</dd></dl>
       <div class="tags"><span class="tag">板橋エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="徳丸" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">36</span>あけぼの介護センター東武練馬</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 徳丸１－１２－１３コウヨウハウスビル１０２</dd><dt>運営法人</dt><dd>ケアゲート株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0359225461">03-5922-5461</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371909977</dd></dl>
       <div class="tags"><span class="tag">徳丸エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="板橋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">37</span>東京海上日動みずたま介護ＳＴ板橋</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 板橋３－６－１１フラワー１１　２Ｆ</dd><dt>運営法人</dt><dd>東京海上日動ベターライフサービス株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0359431055">03-5943-1055</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371910272</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.mizutama-kaigo.jp" target="_blank" rel="noopener">mizutama-kaigo.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">板橋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="栄町" data-kind="営利法人">
       <h3><span class="no">38</span>ヘルパーステーションえがお　板橋</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 栄町１８－８オリンポス板橋栄町２０６号</dd><dt>運営法人</dt><dd>株式会社ＥＧＡＯ</dd><dt>電話</dt><dd><a class="tel" href="tel:0369056263">03-6905-6263</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1371910645</dd></dl>
       <div class="tags"><span class="tag">栄町エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="小豆沢" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">39</span>ケアリッツ小豆沢</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 小豆沢３－６－７小豆沢ローズハイム３１３</dd><dt>運営法人</dt><dd>株式会社ケアリッツ・アンド・パートナーズ</dd><dt>電話</dt><dd><a class="tel" href="tel:0364545931">03-6454-5931</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371910785</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.careritz.co.jp/station/branch/azusawa/" target="_blank" rel="noopener">careritz.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">小豆沢エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="三園" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">40</span>訪問介護事業所すみれ板橋</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 三園１－２７－１５</dd><dt>運営法人</dt><dd>株式会社エメラルドの郷</dd><dt>電話</dt><dd><a class="tel" href="tel:0359046022">03-5904-6022</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371910835</dd></dl>
       <div class="tags"><span class="tag">三園エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="小茂根" data-day="sat|sun" data-kind="医療法人">
       <h3><span class="no">41</span>訪問介護ステーションなごやか板橋</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 小茂根３－２－１５</dd><dt>運営法人</dt><dd>医療法人知真会</dd><dt>電話</dt><dd><a class="tel" href="tel:0359956630">03-5995-6630</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371910942</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.chishinkai-group.jp/" target="_blank" rel="noopener">chishinkai-group.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">小茂根エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="栄町" data-kind="営利法人">
       <h3><span class="no">42</span>金太郎ケアサービス</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 栄町２６－１１コーポ栄１０２</dd><dt>運営法人</dt><dd>株式会社金太郎本舗</dd><dt>電話</dt><dd><a class="tel" href="tel:0369096088">03-6909-6088</a></dd><dt>事業所番号</dt><dd class="id">1371911122</dd></dl>
       <div class="tags"><span class="tag">栄町エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="小豆沢" data-day="sat|sun" data-kind="医療法人">
       <h3><span class="no">43</span>あずさわヘルパーステーションえがお</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 小豆沢１－９－１６　２階</dd><dt>運営法人</dt><dd>医療法人財団健康文化会</dd><dt>電話</dt><dd><a class="tel" href="tel:0359156360">03-5915-6360</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371911478</dd></dl>
       <div class="tags"><span class="tag">小豆沢エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="蓮根" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">44</span>ケアリッツ西台</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 蓮根２－１３－５レックス稲見１階</dd><dt>運営法人</dt><dd>株式会社ケアリッツ・アンド・パートナーズ</dd><dt>電話</dt><dd><a class="tel" href="tel:0359186226">03-5918-6226</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371911601</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.careritz.co.jp/station/branch/nishidai/" target="_blank" rel="noopener">careritz.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">蓮根エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="本町" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">45</span>マルシモホームヘルプサービス板橋</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 本町１７－１６ウッドベル板橋本町Ｂ－１０１</dd><dt>運営法人</dt><dd>有限会社マルシモ</dd><dt>電話</dt><dd><a class="tel" href="tel:0359267799">03-5926-7799</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371911700</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.marushimo.co.jp" target="_blank" rel="noopener">marushimo.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">本町エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="赤塚" data-day="sat" data-kind="営利法人">
       <h3><span class="no">46</span>訪問介護まめの木</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 赤塚１－２０－３ラーバンヤマミツ１０６号</dd><dt>運営法人</dt><dd>株式会社豆の木</dd><dt>電話</dt><dd><a class="tel" href="tel:0369092171">03-6909-2171</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371911817</dd></dl>
       <div class="tags"><span class="tag">赤塚エリア</span><span class="tag">土曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西台" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">47</span>やさしい手西台訪問介護事業所</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 西台２－２４－１５</dd><dt>運営法人</dt><dd>株式会社やさしい手</dd><dt>電話</dt><dd><a class="tel" href="tel:05017521339">05017521339</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371911924</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.yasashiite.com/subdomains/section/783/" target="_blank" rel="noopener">yasashiite.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西台エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="徳丸" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">48</span>訪問介護はっぴいす</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 徳丸１－４－１０</dd><dt>運営法人</dt><dd>株式会社はっぴいす</dd><dt>電話</dt><dd><a class="tel" href="tel:0369064154">03-6906-4154</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371911965</dd></dl>
       <div class="tags"><span class="tag">徳丸エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="三園" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">49</span>サンウェルズ板橋ヘルパーステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 三園１－２１－２</dd><dt>運営法人</dt><dd>株式会社サンウェルズ</dd><dt>電話</dt><dd><a class="tel" href="tel:0359671316">03-5967-1316</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371912054</dd><dt>公式サイト</dt><dd><a class="ext" href="http://sunwels.jp/" target="_blank" rel="noopener">sunwels.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">三園エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="仲町" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">50</span>ケアワーク板橋</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 仲町２２－３津軽ハイツ２０１</dd><dt>運営法人</dt><dd>合同会社和佳</dd><dt>電話</dt><dd><a class="tel" href="tel:0359309419">03-5930-9419</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371912104</dd></dl>
       <div class="tags"><span class="tag">仲町エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="徳丸" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">51</span>訪問介護事業所　みかん</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 徳丸１－２４－５ゼフィール１０２</dd><dt>運営法人</dt><dd>合同会社みかん</dd><dt>電話</dt><dd><a class="tel" href="tel:0368241153">03-6824-1153</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371912161</dd><dt>公式サイト</dt><dd><a class="ext" href="https://houmonkaigo-mikan.jp/" target="_blank" rel="noopener">houmonkaigo-mikan.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">徳丸エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上板橋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">52</span>ホームケアソレイユ上板橋</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 上板橋２－３－３新井ビル２０１号</dd><dt>運営法人</dt><dd>株式会社ＨＲＰ</dd><dt>電話</dt><dd><a class="tel" href="tel:0369066739">03-6906-6739</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371912328</dd><dt>公式サイト</dt><dd><a class="ext" href="https://hr-p.biz/" target="_blank" rel="noopener">hr-p.biz<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">上板橋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="高島平" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">53</span>ケアリッツ高島平南</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 高島平２－２３－３泉マンション１０５</dd><dt>運営法人</dt><dd>株式会社ケアリッツ・アンド・パートナーズ</dd><dt>電話</dt><dd><a class="tel" href="tel:0369065742">03-6906-5742</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371912351</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.careritz.co.jp/station/branch/takashimadairaminami/" target="_blank" rel="noopener">careritz.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">高島平エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="板橋" data-kind="営利法人">
       <h3><span class="no">54</span>ユースタイルケア　板橋センター</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 板橋１－４６－２シャロン新板橋１０３</dd><dt>運営法人</dt><dd>株式会社ＴＲｉｐ</dd><dt>電話</dt><dd><a class="tel" href="tel:0369124220">03-6912-4220</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1371912393</dd></dl>
       <div class="tags"><span class="tag">板橋エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南町" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">55</span>ケアステーション　アプト</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 南町１－９</dd><dt>運営法人</dt><dd>株式会社アプト</dd><dt>電話</dt><dd><a class="tel" href="tel:0359645940">03-5964-5940</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371912518</dd></dl>
       <div class="tags"><span class="tag">南町エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上板橋" data-kind="営利法人">
       <h3><span class="no">56</span>医心館　訪問介護ステーション　上板橋</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 上板橋２－５－８</dd><dt>運営法人</dt><dd>株式会社アンビス</dd><dt>電話</dt><dd><a class="tel" href="tel:0362810805">03-6281-0805</a></dd><dt>事業所番号</dt><dd class="id">1371912575</dd></dl>
       <div class="tags"><span class="tag">上板橋エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="坂下" data-kind="営利法人">
       <h3><span class="no">57</span>訪問介護ベストデイ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 坂下１－１１－３</dd><dt>運営法人</dt><dd>株式会社ベストデイエンタープライズ</dd><dt>電話</dt><dd><a class="tel" href="tel:0359398912">03-5939-8912</a></dd><dt>事業所番号</dt><dd class="id">1371912658</dd><dt>公式サイト</dt><dd><a class="ext" href="https://bestday.co.jp/" target="_blank" rel="noopener">bestday.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">坂下エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="板橋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">58</span>訪問介護事業所　Ｂｅａ　Ｌｉｆｅ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 板橋３－４－１２西岡ビル１階</dd><dt>運営法人</dt><dd>合同会社Ｊ．ｃｏｎｎｅｃｔ</dd><dt>電話</dt><dd><a class="tel" href="tel:0368205012">03-6820-5012</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371912690</dd></dl>
       <div class="tags"><span class="tag">板橋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="前野町" data-kind="営利法人">
       <h3><span class="no">59</span>メディホス訪問介護板橋</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 前野町１－２９－１０</dd><dt>運営法人</dt><dd>株式会社メディホス</dd><dt>電話</dt><dd><a class="tel" href="tel:0364545382">03-6454-5382</a></dd><dt>事業所番号</dt><dd class="id">1371912831</dd></dl>
       <div class="tags"><span class="tag">前野町エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="高島平" data-kind="営利法人">
       <h3><span class="no">60</span>はるかぜケア高島平</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 板橋区 高島平４－２－１５</dd><dt>運営法人</dt><dd>合同会社はるかぜ</dd><dt>電話</dt><dd><a class="tel" href="tel:0363398351">03-6339-8351</a></dd><dt>事業所番号</dt><dd class="id">1371912880</dd></dl>
       <div class="tags"><span class="tag">高島平エリア</span><span class="tag">訪問介護</span></div>
+    </div>
+    <p class="flt-empty" id="flt-empty" hidden>条件に合う事業所はありません。条件を1つ外してみてください。</p>
     </div>
     <div class="warn"><strong>掲載情報についてのお願い</strong><br>上記60件は、2026-09-21に板橋区および各事業者の公表情報で確認した内容です。営業時間・対応エリア・空き状況は変動しますので、連絡の前に必ず公式情報をご確認ください。掲載内容の訂正・削除は、<a href="../../../contact/">お問い合わせ</a>からご依頼いただければ<strong>理由の説明なしで削除します</strong>。</div>
 
@@ -2129,5 +2143,6 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 })();
 </script>
 <script src="../../../assets/measure.js" defer></script>
+<script src="../../../assets/filter.js" defer></script>
 </body>
 </html>

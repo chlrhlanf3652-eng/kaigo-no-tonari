@@ -835,145 +835,159 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 
     <h2 id="s2">荒川区の訪問看護ステーション一覧</h2>
         <p class="cnt">荒川区内の訪問看護ステーションから28件を掲載しています（東京都公表・2026年9月1日時点）。区内には28件が指定を受けており、そのすべてを掲載しています。掲載順は事業所の優劣を示すものではありません。</p>
-    <div class="card">
+    <div id="flt-top"></div>
+    <div class="flt" id="flt" hidden>
+      <div class="flt-row">
+        <select data-f="town" aria-label="場所で絞り込む"><option value="">場所</option><option value="東日暮里">東日暮里（8）</option><option value="西日暮里">西日暮里（6）</option><option value="東尾久">東尾久（4）</option><option value="荒川">荒川（4）</option><option value="南千住">南千住（3）</option><option value="町屋">町屋（2）</option><option value="西尾久">西尾久（1）</option></select>
+        <select data-f="day" aria-label="曜日で絞り込む"><option value="">曜日</option><option value="sat">土曜も対応（13）</option><option value="sun">日曜も対応（8）</option></select>
+        <select data-f="kind" aria-label="法人で絞り込む"><option value="">法人</option><option value="営利法人">営利法人（23）</option><option value="医療法人">医療法人（4）</option><option value="社団・財団">社団・財団（1）</option></select>
+      </div>
+      <p class="flt-n" aria-live="polite"><span><b id="flt-n">28</b> / 28件を表示</span><button type="button" id="flt-reset" hidden>条件をクリア</button></p>
+    </div>
+      <p class="flt-note">「場所」は事務所の所在地です。訪問サービスは近くの町からも来てもらえます。</p>
+      <p class="flt-note" id="flt-daynote" hidden>提供曜日の記載がない3件は、曜日で絞ると表示されません。</p>
+    <div class="bizlist">
+    <div class="card" data-town="西日暮里" data-kind="営利法人">
       <h3><span class="no">1</span>カガクル訪問看護ステーション荒川</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 荒川区 西日暮里６－４０－５松本ビル１０１号</dd><dt>運営法人</dt><dd>株式会社科学的看護・介護研究機構</dd><dt>電話</dt><dd><a class="tel" href="tel:0368078536">03-6807-8536</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361590944</dd><dt>公式サイト</dt><dd><a class="ext" href="https://kagakul-arakawa.jp/" target="_blank" rel="noopener">kagakul-arakawa.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西日暮里エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東尾久" data-kind="営利法人">
       <h3><span class="no">2</span>めでたい訪問看護ステーション尾久</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 荒川区 東尾久２－４９－１３Ａｍｂｉｔｉｏｎ東尾久１０１号室</dd><dt>運営法人</dt><dd>株式会社Ｂｌｕｅｓｈａｃｋ</dd><dt>電話</dt><dd><a class="tel" href="tel:0358389960">03-5838-9960</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361790551</dd></dl>
       <div class="tags"><span class="tag">東尾久エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西尾久" data-kind="営利法人">
       <h3><span class="no">3</span>訪問看護ステーションつばさ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 荒川区 西尾久７－７－４－３階</dd><dt>運営法人</dt><dd>合同会社ウイングケア</dd><dt>電話</dt><dd><a class="tel" href="tel:0356925217">03-5692-5217</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361890021</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.tsubasa-kango.com/" target="_blank" rel="noopener">tsubasa-kango.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西尾久エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南千住" data-day="sat" data-kind="医療法人">
       <h3><span class="no">4</span>磯医院訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 荒川区 南千住５－９－１</dd><dt>運営法人</dt><dd>医療法人財団源会</dd><dt>電話</dt><dd><a class="tel" href="tel:0356152760">03-5615-2760</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1361890047</dd><dt>公式サイト</dt><dd><a class="ext" href="http://iso-hp.or.jp" target="_blank" rel="noopener">iso-hp.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">南千住エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東尾久" data-day="sat" data-kind="営利法人">
       <h3><span class="no">5</span>訪問看護ステーション　てんとうむし</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 荒川区 東尾久２－３０－７　１階</dd><dt>運営法人</dt><dd>株式会社レディバグ</dd><dt>電話</dt><dd><a class="tel" href="tel:0362408199">03-6240-8199</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1361890062</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.houkan-tentoumushi.com/" target="_blank" rel="noopener">houkan-tentoumushi.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東尾久エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南千住" data-kind="医療法人">
       <h3><span class="no">6</span>東京リバーサイド訪問看護ステーションペンギン</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 荒川区 南千住８－４－５けやき通り北参番館２階２０５号</dd><dt>運営法人</dt><dd>社会医療法人社団正志会</dd><dt>電話</dt><dd><a class="tel" href="tel:0356045432">03-5604-5432</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361890070</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.penguin-nurse.jp" target="_blank" rel="noopener">penguin-nurse.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">南千住エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="荒川" data-day="sat" data-kind="営利法人">
       <h3><span class="no">7</span>アーム看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 荒川区 荒川３－６８－６菅又ビル１階</dd><dt>運営法人</dt><dd>株式会社じーぷろーど</dd><dt>電話</dt><dd><a class="tel" href="tel:0368067495">03-6806-7495</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1361890138</dd></dl>
       <div class="tags"><span class="tag">荒川エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東尾久" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">8</span>天使の翼訪問看護</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 荒川区 東尾久１－１５－８－１０５</dd><dt>運営法人</dt><dd>アンジュエール株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0359011021">03-5901-1021</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361890146</dd></dl>
       <div class="tags"><span class="tag">東尾久エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="荒川" data-kind="営利法人">
       <h3><span class="no">9</span>訪問看護ステーション　デューン荒川</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 荒川区 荒川７－２２－６フロンティアワン３階</dd><dt>運営法人</dt><dd>株式会社Ｎ・フィールド</dd><dt>電話</dt><dd><a class="tel" href="tel:0356049640">03-5604-9640</a></dd><dt>事業所番号</dt><dd class="id">1361890187</dd></dl>
       <div class="tags"><span class="tag">荒川エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東日暮里" data-kind="営利法人">
       <h3><span class="no">10</span>あしすと訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 荒川区 東日暮里１－６－９東出ビル１階</dd><dt>運営法人</dt><dd>株式会社あしすと</dd><dt>電話</dt><dd><a class="tel" href="tel:0368068283">03-6806-8283</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361890229</dd></dl>
       <div class="tags"><span class="tag">東日暮里エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東日暮里" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">11</span>ハレノヒ訪問看護リハビリステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 荒川区 東日暮里１－１７－４</dd><dt>運営法人</dt><dd>株式会社Ｆｕｋｕｉｋｕ</dd><dt>電話</dt><dd><a class="tel" href="tel:0356045940">03-5604-5940</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361890252</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.harenohihoukan.com" target="_blank" rel="noopener">harenohihoukan.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東日暮里エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東日暮里" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">12</span>アンドライフ訪問看護ステーション日暮里</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 荒川区 東日暮里６－４３－８竹山ビル七番館１０３号室</dd><dt>運営法人</dt><dd>株式会社Ｅ＆ＬＩＦＥ</dd><dt>電話</dt><dd><a class="tel" href="tel:0358386941">03-5838-6941</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361890260</dd><dt>公式サイト</dt><dd><a class="ext" href="https://e-and-life.com/" target="_blank" rel="noopener">e-and-life.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東日暮里エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東日暮里" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">13</span>訪問看護ステーションナイチンゲール</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 荒川区 東日暮里２－４９－２大和コーポ２０４</dd><dt>運営法人</dt><dd>株式会社ＮｓＬｉｆｅ</dd><dt>電話</dt><dd><a class="tel" href="tel:0368068507">03-6806-8507</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361890278</dd></dl>
       <div class="tags"><span class="tag">東日暮里エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西日暮里" data-kind="営利法人">
       <h3><span class="no">14</span>ＮＳ－ＭＥＮ　ＦＡＳＴ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 荒川区 西日暮里２－４９－５－４０１号室</dd><dt>運営法人</dt><dd>株式会社ナスメン</dd><dt>電話</dt><dd><a class="tel" href="tel:0356045971">03-5604-5971</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361890286</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.nsmen-inc.com/" target="_blank" rel="noopener">nsmen-inc.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西日暮里エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="荒川" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">15</span>訪問看護ファミリー・ホスピス荒川</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 荒川区 荒川７－２－３</dd><dt>運営法人</dt><dd>ファミリー・ホスピス株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0368095643">03-6809-5643</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361890294</dd></dl>
       <div class="tags"><span class="tag">荒川エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="町屋" data-kind="営利法人">
       <h3><span class="no">16</span>リナース訪問看護リハビリステーション町屋</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 荒川区 町屋３－１２－１２マロニエハイツ３０１</dd><dt>運営法人</dt><dd>株式会社リナース</dd><dt>電話</dt><dd><a class="tel" href="tel:0368078704">03-6807-8704</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361890310</dd></dl>
       <div class="tags"><span class="tag">町屋エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東尾久" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">17</span>ファミーユ訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 荒川区 東尾久８－４２－１２</dd><dt>運営法人</dt><dd>メヴィ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0368079531">03-6807-9531</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361890328</dd></dl>
       <div class="tags"><span class="tag">東尾久エリア</span><span class="tag">日曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東日暮里" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">18</span>訪問看護ステーション　ホームケア荒川</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 荒川区 東日暮里５－４５－１２いかるがビル５０３号室</dd><dt>運営法人</dt><dd>株式会社ミレニア</dd><dt>電話</dt><dd><a class="tel" href="tel:0356151212">03-5615-1212</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361890336</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.millennia-corporation.jp" target="_blank" rel="noopener">millennia-corporation.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東日暮里エリア</span><span class="tag">日曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東日暮里" data-day="sat" data-kind="営利法人">
       <h3><span class="no">19</span>訪問看護ステーション　デライト荒川</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 荒川区 東日暮里３－４３－９ビジュアルシティ４０１号室</dd><dt>運営法人</dt><dd>株式会社Ｈ＆Ｈホールディングス</dd><dt>電話</dt><dd><a class="tel" href="tel:0368065347">03-6806-5347</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361890344</dd><dt>公式サイト</dt><dd><a class="ext" href="https://hokan-delight.jp/" target="_blank" rel="noopener">hokan-delight.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東日暮里エリア</span><span class="tag">土曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西日暮里" data-kind="営利法人">
       <h3><span class="no">20</span>きらめき訪問看護リハビリステーション日暮里事業所</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 荒川区 西日暮里２－１８－４小川ビル２階</dd><dt>運営法人</dt><dd>株式会社メディウェルズ</dd><dt>電話</dt><dd><a class="tel" href="tel:0356155414">03-5615-5414</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361890351</dd><dt>公式サイト</dt><dd><a class="ext" href="https://kiramekihoukan.com/" target="_blank" rel="noopener">kiramekihoukan.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西日暮里エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東日暮里" data-kind="営利法人">
       <h3><span class="no">21</span>あいず訪問看護ステーション日暮里</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 荒川区 東日暮里５－４３－３プリメーラ１Ｆ</dd><dt>運営法人</dt><dd>株式会社あいず</dd><dt>電話</dt><dd><a class="tel" href="tel:0356049197">03-5604-9197</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361890369</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.aizu-company.co.jp" target="_blank" rel="noopener">aizu-company.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東日暮里エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西日暮里" data-kind="営利法人">
       <h3><span class="no">22</span>訪問看護ステーションスマイルリンク</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 荒川区 西日暮里６－４５－８永田ビル１０２号室</dd><dt>運営法人</dt><dd>合同会社かぶき屋</dd><dt>電話</dt><dd><a class="tel" href="tel:0359019250">03-5901-9250</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361890377</dd><dt>公式サイト</dt><dd><a class="ext" href="https://houmonkaigo-smilelink.com/" target="_blank" rel="noopener">houmonkaigo-smilelink.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西日暮里エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南千住" data-kind="営利法人">
       <h3><span class="no">23</span>ベストリハ訪問看護ステーション南千住</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 荒川区 南千住６－６５－４</dd><dt>運営法人</dt><dd>ベストリハ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0368066296">03-6806-6296</a></dd><dt>事業所番号</dt><dd class="id">1361890385</dd></dl>
       <div class="tags"><span class="tag">南千住エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="荒川" data-kind="医療法人">
       <h3><span class="no">24</span>訪問看護ステーションオリーブ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 荒川区 荒川５－６－７宮地マンション１階</dd><dt>運営法人</dt><dd>医療法人社団杏精会</dd><dt>電話</dt><dd><a class="tel" href="tel:0356152144">03-5615-2144</a></dd><dt>事業所番号</dt><dd class="id">1361890393</dd></dl>
       <div class="tags"><span class="tag">荒川エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西日暮里" data-kind="社団・財団">
       <h3><span class="no">25</span>荒川区医師会訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 荒川区 西日暮里６－５－３</dd><dt>運営法人</dt><dd>一般社団法人荒川区医師会</dd><dt>電話</dt><dd><a class="tel" href="tel:0338932321">03-3893-2321</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1367191224</dd><dt>公式サイト</dt><dd><a class="ext" href="http://arakawa-med.or.jp/" target="_blank" rel="noopener">arakawa-med.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西日暮里エリア</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="町屋" data-day="sat" data-kind="医療法人">
       <h3><span class="no">26</span>社会医療法人社団一成会　訪問看護ステーションみどり</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 荒川区 町屋４－１－１６</dd><dt>運営法人</dt><dd>社会医療法人社団一成会</dd><dt>電話</dt><dd><a class="tel" href="tel:0338920106">03-3892-0106</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1367192313</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.kimura-hp.or.jp/" target="_blank" rel="noopener">kimura-hp.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">町屋エリア</span><span class="tag">土曜日も訪問</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西日暮里" data-kind="営利法人">
       <h3><span class="no">27</span>訪問看護ステーションＳＵＮ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 荒川区 西日暮里６－８－８モミービル２階</dd><dt>運営法人</dt><dd>ケア・プランニング株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0364582166">03-6458-2166</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1367197775</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.best-kaigo.com" target="_blank" rel="noopener">best-kaigo.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西日暮里エリア</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東日暮里" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">28</span>スイート・ハート訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 荒川区 東日暮里５－５０－１７アネックスＭ301</dd><dt>運営法人</dt><dd>有限会社　てぃーら</dd><dt>電話</dt><dd><a class="tel" href="tel:0356041554">03-5604-1554</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1367197791</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.sweet-hearts.jp/" target="_blank" rel="noopener">sweet-hearts.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東日暮里エリア</span><span class="tag">日曜日も訪問</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
+    </div>
+    <p class="flt-empty" id="flt-empty" hidden>条件に合う事業所はありません。条件を1つ外してみてください。</p>
     </div>
     <div class="warn"><strong>掲載情報についてのお願い</strong><br>上記28件は、2026-09-21に荒川区および各事業者の公表情報で確認した内容です。営業時間・対応エリア・空き状況は変動しますので、連絡の前に必ず公式情報をご確認ください。掲載内容の訂正・削除は、<a href="../../../contact/">お問い合わせ</a>からご依頼いただければ<strong>理由の説明なしで削除します</strong>。</div>
 
@@ -1273,5 +1287,6 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 })();
 </script>
 <script src="../../../assets/measure.js" defer></script>
+<script src="../../../assets/filter.js" defer></script>
 </body>
 </html>

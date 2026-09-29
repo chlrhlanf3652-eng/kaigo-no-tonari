@@ -440,55 +440,66 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 
     <h2 id="s2">墨田区のショートステイ一覧</h2>
         <p class="cnt">墨田区内の短期入所生活介護事業所から10件を掲載しています（東京都公表・2026年9月1日時点）。区内には10件が指定を受けており、そのすべてを掲載しています。「特養の空床利用」「単独型」などの表示は東京都の一覧の事業所種別名です。空き状況は日々変わるため、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。</p>
-    <div class="card">
+    <div id="flt-top"></div>
+    <div class="flt" id="flt" hidden>
+      <div class="flt-row">
+        <select data-f="town" aria-label="場所で絞り込む"><option value="">場所</option><option value="八広">八広（2）</option><option value="立花">立花（2）</option><option value="両国">両国（1）</option><option value="東向島">東向島（1）</option><option value="東墨田">東墨田（1）</option><option value="業平">業平（1）</option><option value="横網">横網（1）</option><option value="石原">石原（1）</option></select>
+        <select data-f="fk" aria-label="型で絞り込む"><option value="">型</option><option value="特養の併設事業所型">特養の併設事業所型（7）</option><option value="特養の空床利用型">特養の空床利用型（2）</option><option value="単独型">単独型（1）</option></select>
+      </div>
+      <p class="flt-n" aria-live="polite"><span><b id="flt-n">10</b> / 10件を表示</span><button type="button" id="flt-reset" hidden>条件をクリア</button></p>
+    </div>
+    <div class="bizlist">
+    <div class="card" data-town="立花" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">1</span>東京清風園</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 墨田区 立花１－２５－１２</dd><dt>運営法人</dt><dd>社会福祉法人賛育会</dd><dt>電話</dt><dd><a class="tel" href="tel:0368618771">03-6861-8771</a></dd><dt>定員</dt><dd>20</dd><dt>事業所番号</dt><dd class="id">1370700245</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.san-ikukai.or.jp/sumida/seifu/index.html" target="_blank" rel="noopener">san-ikukai.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">立花エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="八広" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">2</span>和翔苑</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 墨田区 八広6-55-17</dd><dt>運営法人</dt><dd>社会福祉法人八広会</dd><dt>電話</dt><dd><a class="tel" href="tel:0336171501">03-3617-1501</a></dd><dt>事業所番号</dt><dd class="id">1370700286</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.washouen.com" target="_blank" rel="noopener">washouen.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">八広エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="横網" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">3</span>特別養護老人ホーム同愛記念ホーム</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 墨田区 横網２－１－１１</dd><dt>運営法人</dt><dd>社会福祉法人同愛記念病院財団</dd><dt>電話</dt><dd><a class="tel" href="tel:0336256391">03-3625-6391</a></dd><dt>事業所番号</dt><dd class="id">1370700468</dd></dl>
       <div class="tags"><span class="tag">横網エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="立花" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">4</span>墨田区立特別養護老人ホームたちばなホーム</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 墨田区 立花３－１０－１</dd><dt>運営法人</dt><dd>社会福祉法人賛育会</dd><dt>電話</dt><dd><a class="tel" href="tel:0336138718">03-3613-8718</a></dd><dt>定員</dt><dd>6</dd><dt>事業所番号</dt><dd class="id">1370701920</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.san-ikukai.or.jp/sumida/tachibana/" target="_blank" rel="noopener">san-ikukai.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">立花エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="八広" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">5</span>墨田区特別養護老人ホームはなみずきホーム</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 墨田区 八広三丁目２２番１４号</dd><dt>運営法人</dt><dd>社会福祉法人賛育会</dd><dt>電話</dt><dd><a class="tel" href="tel:0336178734">03-3617-8734</a></dd><dt>事業所番号</dt><dd class="id">1370701987</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.san-ikukai.or.jp" target="_blank" rel="noopener">san-ikukai.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">八広エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="両国" data-fk="特養の空床利用型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">6</span>ケアホームズ両国</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 墨田区 両国２－５－１３</dd><dt>運営法人</dt><dd>社会福祉法人奉優会</dd><dt>電話</dt><dd><a class="tel" href="tel:0356244165">03-5624-4165</a></dd><dt>定員</dt><dd>6</dd><dt>事業所番号</dt><dd class="id">1370702621</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.jusankai.or.jp" target="_blank" rel="noopener">jusankai.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">両国エリア</span><span class="tag">特養の空床利用</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="石原" data-fk="単独型" data-kind="営利法人">
       <h3><span class="no">7</span>せらび　両国</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 墨田区 石原２－７－４</dd><dt>運営法人</dt><dd>株式会社ソラスト</dd><dt>電話</dt><dd><a class="tel" href="tel:0356084165">03-5608-4165</a></dd><dt>定員</dt><dd>43</dd><dt>事業所番号</dt><dd class="id">1370703421</dd><dt>公式サイト</dt><dd><a class="ext" href="https://solasto-kaigo.com/service/shortstay/ryogoku" target="_blank" rel="noopener">solasto-kaigo.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">石原エリア</span><span class="tag">単独型</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="業平" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">8</span>墨田区特別養護老人ホームなりひらホーム</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 墨田区 業平５－６－２</dd><dt>運営法人</dt><dd>社会福祉法人カメリア会</dd><dt>電話</dt><dd><a class="tel" href="tel:0358193741">03-5819-3741</a></dd><dt>事業所番号</dt><dd class="id">1370704551</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.camellia-kai.com" target="_blank" rel="noopener">camellia-kai.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">業平エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東墨田" data-fk="特養の空床利用型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">9</span>特別養護老人ホーム寿老の里</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 墨田区 東墨田３－１３－４</dd><dt>運営法人</dt><dd>社会福祉法人寿老福祉会</dd><dt>電話</dt><dd><a class="tel" href="tel:0366570310">03-6657-0310</a></dd><dt>事業所番号</dt><dd class="id">1370704601</dd></dl>
       <div class="tags"><span class="tag">東墨田エリア</span><span class="tag">特養の空床利用</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東向島" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">10</span>特別養護老人ホーム しらひげ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 墨田区 東向島４丁目２番１１号</dd><dt>運営法人</dt><dd>社会福祉法人玄武会</dd><dt>電話</dt><dd><a class="tel" href="tel:0366572300">03-6657-2300</a></dd><dt>事業所番号</dt><dd class="id">1370705509</dd><dt>公式サイト</dt><dd><a class="ext" href="http://hakuho.or.jp/ako/genbukai/index/" target="_blank" rel="noopener">hakuho.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東向島エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
+    </div>
+    <p class="flt-empty" id="flt-empty" hidden>条件に合う事業所はありません。条件を1つ外してみてください。</p>
     </div>
     <div class="warn"><strong>掲載情報についてのお願い</strong><br>上記10件は、2026-09-22に墨田区および各事業者の公表情報で確認した内容です。営業時間・対応エリア・空き状況は変動しますので、連絡の前に必ず公式情報をご確認ください。掲載内容の訂正・削除は、<a href="../../../contact/">お問い合わせ</a>からご依頼いただければ<strong>理由の説明なしで削除します</strong>。</div>
 
@@ -826,5 +837,6 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 })();
 </script>
 <script src="../../../assets/measure.js" defer></script>
+<script src="../../../assets/filter.js" defer></script>
 </body>
 </html>

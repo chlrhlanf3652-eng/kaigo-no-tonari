@@ -507,70 +507,81 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 
     <h2 id="s2">新宿区のショートステイ一覧</h2>
         <p class="cnt">新宿区内の短期入所生活介護事業所から13件を掲載しています（東京都公表・2026年9月1日時点）。区内には13件が指定を受けており、そのすべてを掲載しています。「特養の空床利用」「単独型」などの表示は東京都の一覧の事業所種別名です。空き状況は日々変わるため、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。</p>
-    <div class="card">
+    <div id="flt-top"></div>
+    <div class="flt" id="flt" hidden>
+      <div class="flt-row">
+        <select data-f="town" aria-label="場所で絞り込む"><option value="">場所</option><option value="中落合">中落合（2）</option><option value="上落合">上落合（1）</option><option value="下落合">下落合（1）</option><option value="北山伏町">北山伏町（1）</option><option value="北新宿">北新宿（1）</option><option value="原町">原町（1）</option><option value="富久町">富久町（1）</option><option value="市谷薬王寺町">市谷薬王寺町（1）</option><option value="新宿">新宿（1）</option><option value="百人町">百人町（1）</option><option value="矢来町">矢来町（1）</option><option value="西落合">西落合（1）</option></select>
+        <select data-f="fk" aria-label="型で絞り込む"><option value="">型</option><option value="特養の併設事業所型">特養の併設事業所型（10）</option><option value="単独型">単独型（2）</option><option value="特養の空床利用型">特養の空床利用型（1）</option></select>
+      </div>
+      <p class="flt-n" aria-live="polite"><span><b id="flt-n">13</b> / 13件を表示</span><button type="button" id="flt-reset" hidden>条件をクリア</button></p>
+    </div>
+    <div class="bizlist">
+    <div class="card" data-town="原町" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">1</span>原町ホーム</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 新宿区 原町３－８</dd><dt>運営法人</dt><dd>社会福祉法人恩賜財団東京都同胞援護会</dd><dt>電話</dt><dd><a class="tel" href="tel:0333595651">03-3359-5651</a></dd><dt>定員</dt><dd>2</dd><dt>事業所番号</dt><dd class="id">1370400341</dd><dt>公式サイト</dt><dd><a class="ext" href="https://douen.jp" target="_blank" rel="noopener">douen.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">原町エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中落合" data-fk="特養の空床利用型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">2</span>特別養護老人ホーム　聖母ホーム</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 新宿区 中落合２－５－２１</dd><dt>運営法人</dt><dd>社会福祉法人聖母会</dd><dt>電話</dt><dd><a class="tel" href="tel:0339534028">03-3953-4028</a></dd><dt>事業所番号</dt><dd class="id">1370401430</dd></dl>
       <div class="tags"><span class="tag">中落合エリア</span><span class="tag">特養の空床利用</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中落合" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">3</span>短期入所施設　聖母ホーム</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 新宿区 中落合二丁目５番２１号</dd><dt>運営法人</dt><dd>社会福祉法人聖母会</dd><dt>電話</dt><dd><a class="tel" href="tel:0339534028">03-3953-4028</a></dd><dt>事業所番号</dt><dd class="id">1370401448</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.seibohome.jp" target="_blank" rel="noopener">seibohome.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">中落合エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="北新宿" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">4</span>北新宿特別養護老人ホーム</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 新宿区 北新宿３－２７－６</dd><dt>運営法人</dt><dd>社会福祉法人新宿区社会福祉事業団</dd><dt>電話</dt><dd><a class="tel" href="tel:0333633291">03-3363-3291</a></dd><dt>事業所番号</dt><dd class="id">1370402966</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.shinjuku-sj.jp/" target="_blank" rel="noopener">shinjuku-sj.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">北新宿エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="北山伏町" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">5</span>特別養護老人ホームあかね苑</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 新宿区 北山伏町２－１２</dd><dt>運営法人</dt><dd>社会福祉法人アゼリヤ会</dd><dt>電話</dt><dd><a class="tel" href="tel:0332661811">03-3266-1811</a></dd><dt>事業所番号</dt><dd class="id">1370402974</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.azeriya-akane.com" target="_blank" rel="noopener">azeriya-akane.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">北山伏町エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="百人町" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">6</span>ショートステイ新宿けやき園</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 新宿区 百人町４－５－１</dd><dt>運営法人</dt><dd>社会福祉法人邦友会</dd><dt>電話</dt><dd><a class="tel" href="tel:0333671601">03-3367-1601</a></dd><dt>事業所番号</dt><dd class="id">1370403766</dd><dt>公式サイト</dt><dd><a class="ext" href="http://hoyukai.iuhw.ac.jp/keyakien" target="_blank" rel="noopener">hoyukai.iuhw.ac.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">百人町エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="矢来町" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">7</span>ショートステイ　神楽坂</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 新宿区 矢来町１０４</dd><dt>運営法人</dt><dd>社会福祉法人三篠会</dd><dt>電話</dt><dd><a class="tel" href="tel:0332697555">03-3269-7555</a></dd><dt>事業所番号</dt><dd class="id">1370404335</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.misasakai.or.jp/kagurazaka/" target="_blank" rel="noopener">misasakai.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">矢来町エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上落合" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">8</span>ショートステイもみの樹園</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 新宿区 上落合１－１７－８</dd><dt>運営法人</dt><dd>社会福祉法人園盛会</dd><dt>電話</dt><dd><a class="tel" href="tel:0369153001">03-6915-3001</a></dd><dt>定員</dt><dd>20</dd><dt>事業所番号</dt><dd class="id">1370405688</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.enseikai.com/" target="_blank" rel="noopener">enseikai.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">上落合エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西落合" data-fk="単独型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">9</span>優っくりショートステイ新宿西落合</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 新宿区 西落合２－８－７</dd><dt>運営法人</dt><dd>社会福祉法人奉優会</dd><dt>電話</dt><dd><a class="tel" href="tel:0335656283">03-3565-6283</a></dd><dt>定員</dt><dd>20</dd><dt>事業所番号</dt><dd class="id">1370405977</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.foryou.or.jp/corp1/nishiochiaiss/" target="_blank" rel="noopener">foryou.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西落合エリア</span><span class="tag">単独型</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="下落合" data-fk="単独型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">10</span>ショートステイ下落合幸朋苑</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 新宿区 下落合１－９－１０</dd><dt>運営法人</dt><dd>社会福祉法人こうほうえん</dd><dt>電話</dt><dd><a class="tel" href="tel:0333651335">03-3365-1335</a></dd><dt>定員</dt><dd>27</dd><dt>事業所番号</dt><dd class="id">1370406082</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.kohoen.jp" target="_blank" rel="noopener">kohoen.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">下落合エリア</span><span class="tag">単独型</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="富久町" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">11</span>みさよはうす富久</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 新宿区 富久町３５－７</dd><dt>運営法人</dt><dd>社会福祉法人シルヴァーウィング</dd><dt>電話</dt><dd><a class="tel" href="tel:0368229282">03-6822-9282</a></dd><dt>事業所番号</dt><dd class="id">1370406504</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.silver-w.jp/" target="_blank" rel="noopener">silver-w.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">富久町エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="市谷薬王寺町" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">12</span>ショート新宿和光園</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 新宿区 市谷薬王寺町１９－３８</dd><dt>運営法人</dt><dd>社会福祉法人大和会</dd><dt>電話</dt><dd><a class="tel" href="tel:0333558555">03-3355-8555</a></dd><dt>定員</dt><dd>12</dd><dt>事業所番号</dt><dd class="id">1370407049</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.yamatokai-tokyo.or.jp/nursing_homes/shinjuku-wakoen/" target="_blank" rel="noopener">yamatokai-tokyo.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">市谷薬王寺町エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="新宿" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">13</span>小規模特別養護老人ホーム　マザアス新宿</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 新宿区 新宿７－３－３１</dd><dt>運営法人</dt><dd>社会福祉法人マザアス</dd><dt>電話</dt><dd><a class="tel" href="tel:0352852531">03-5285-2531</a></dd><dt>定員</dt><dd>3</dd><dt>事業所番号</dt><dd class="id">1374801106</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.moth.or.jp" target="_blank" rel="noopener">moth.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">新宿エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
+    </div>
+    <p class="flt-empty" id="flt-empty" hidden>条件に合う事業所はありません。条件を1つ外してみてください。</p>
     </div>
     <div class="warn"><strong>掲載情報についてのお願い</strong><br>上記13件は、2026-09-22に新宿区および各事業者の公表情報で確認した内容です。営業時間・対応エリア・空き状況は変動しますので、連絡の前に必ず公式情報をご確認ください。掲載内容の訂正・削除は、<a href="../../../contact/">お問い合わせ</a>からご依頼いただければ<strong>理由の説明なしで削除します</strong>。</div>
 
@@ -911,5 +922,6 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 })();
 </script>
 <script src="../../../assets/measure.js" defer></script>
+<script src="../../../assets/filter.js" defer></script>
 </body>
 </html>

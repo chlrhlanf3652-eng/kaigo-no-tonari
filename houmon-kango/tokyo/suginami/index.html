@@ -1537,305 +1537,319 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 
     <h2 id="s2">杉並区の訪問看護ステーション一覧</h2>
         <p class="cnt">杉並区内の訪問看護ステーションから60件を掲載しています（東京都公表・2026年9月1日時点）。区内には73件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。掲載順は事業所の優劣を示すものではありません。</p>
-    <div class="card">
+    <div id="flt-top"></div>
+    <div class="flt" id="flt" hidden>
+      <div class="flt-row">
+        <select data-f="town" aria-label="場所で絞り込む"><option value="">場所</option><option value="上井草">上井草（6）</option><option value="上荻">上荻（4）</option><option value="下井草">下井草（4）</option><option value="荻窪">荻窪（4）</option><option value="高円寺南">高円寺南（4）</option><option value="久我山">久我山（3）</option><option value="和田">和田（3）</option><option value="松庵">松庵（3）</option><option value="今川">今川（2）</option><option value="和泉">和泉（2）</option><option value="堀ノ内">堀ノ内（2）</option><option value="方南">方南（2）</option><option value="梅里">梅里（2）</option><option value="永福">永福（2）</option><option value="西荻北">西荻北（2）</option><option value="西荻南">西荻南（2）</option><option value="阿佐谷北">阿佐谷北（2）</option><option value="阿佐谷南">阿佐谷南（2）</option><option value="高井戸東">高井戸東（2）</option><option value="上高井戸">上高井戸（1）</option><option value="井草">井草（1）</option><option value="天沼">天沼（1）</option><option value="成田東">成田東（1）</option><option value="清水">清水（1）</option><option value="高井戸西">高井戸西（1）</option><option value="高円寺北">高円寺北（1）</option></select>
+        <select data-f="day" aria-label="曜日で絞り込む"><option value="">曜日</option><option value="sat">土曜も対応（31）</option><option value="sun">日曜も対応（17）</option></select>
+        <select data-f="kind" aria-label="法人で絞り込む"><option value="">法人</option><option value="営利法人">営利法人（48）</option><option value="医療法人">医療法人（6）</option><option value="社団・財団">社団・財団（4）</option><option value="社会福祉法人（社協以外）">社会福祉法人（社協以外）（2）</option></select>
+      </div>
+      <p class="flt-n" aria-live="polite"><span><b id="flt-n">60</b> / 60件を表示</span><button type="button" id="flt-reset" hidden>条件をクリア</button></p>
+    </div>
+      <p class="flt-note">「場所」は事務所の所在地です。訪問サービスは近くの町からも来てもらえます。</p>
+      <p class="flt-note" id="flt-daynote" hidden>提供曜日の記載がない5件は、曜日で絞ると表示されません。</p>
+    <div class="bizlist">
+    <div class="card" data-town="上荻" data-kind="社団・財団">
       <h3><span class="no">1</span>訪問看護ステーション　ｃｏ－ｃｏ－ｒｏ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 上荻３－２６－１４ドミトリー上荻Ⅱ２０２</dd><dt>運営法人</dt><dd>一般社団法人産前産後ケア推進協会</dd><dt>電話</dt><dd><a class="tel" href="tel:0369136778">03-6913-6778</a></dd><dt>事業所番号</dt><dd class="id">1361390261</dd></dl>
       <div class="tags"><span class="tag">上荻エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="高円寺南" data-kind="営利法人">
       <h3><span class="no">2</span>ローズ訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 高円寺南２－４６－１６第８シュヴェルニー１０１号室</dd><dt>運営法人</dt><dd>株式会社ライフサイクロペディア</dd><dt>電話</dt><dd><a class="tel" href="tel:0333132014">03-3313-2014</a></dd><dt>サービス提供日</dt><dd>平日・祝日</dd><dt>事業所番号</dt><dd class="id">1361590027</dd><dt>公式サイト</dt><dd><a class="ext" href="http://rose.lifecyclopedia.jp" target="_blank" rel="noopener">rose.lifecyclopedia.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">高円寺南エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="高円寺南" data-kind="営利法人">
       <h3><span class="no">3</span>訪問看護ステーション　ＨＵＧ　はぐ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 高円寺南４－４５－４高円寺南サマリアマンション７０４</dd><dt>運営法人</dt><dd>ケアプロ在宅医療株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0353078989">03-5307-8989</a></dd><dt>事業所番号</dt><dd class="id">1361590043</dd></dl>
       <div class="tags"><span class="tag">高円寺南エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="高井戸東" data-day="sat" data-kind="営利法人">
       <h3><span class="no">4</span>あおい訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 高井戸東３－１７－１８</dd><dt>運営法人</dt><dd>合同会社Ｙ＆Ｕケア芙蓉会</dd><dt>電話</dt><dd><a class="tel" href="tel:0367958144">03-6795-8144</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1361590100</dd><dt>公式サイト</dt><dd><a class="ext" href="http://aoi-yandu.co.jp" target="_blank" rel="noopener">aoi-yandu.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">高井戸東エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西荻南" data-kind="営利法人">
       <h3><span class="no">5</span>笑生訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 西荻南３－７－２</dd><dt>運営法人</dt><dd>株式会社テラ</dd><dt>電話</dt><dd><a class="tel" href="tel:0353449838">03-5344-9838</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361590118</dd><dt>公式サイト</dt><dd><a class="ext" href="https://shosei-tera.co.jp/" target="_blank" rel="noopener">shosei-tera.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西荻南エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="久我山" data-kind="営利法人">
       <h3><span class="no">6</span>セコム訪問看護ステーションくがやま</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 久我山３－１－３０</dd><dt>運営法人</dt><dd>セコム医療システム株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0353367722">03-5336-7722</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361590159</dd></dl>
       <div class="tags"><span class="tag">久我山エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="今川" data-kind="営利法人">
       <h3><span class="no">7</span>りんご訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 今川２－２４－１カリフール今川１号棟１０４</dd><dt>運営法人</dt><dd>株式会社シナプス</dd><dt>電話</dt><dd><a class="tel" href="tel:0364547990">03-6454-7990</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361590167</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.ringo-synapse.com" target="_blank" rel="noopener">ringo-synapse.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">今川エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上荻" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">8</span>ケィズリハビリ訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 上荻１－１８－１６亀屋酒販第１ビル５０１号</dd><dt>運営法人</dt><dd>株式会社ケィズコネクションズ</dd><dt>電話</dt><dd><a class="tel" href="tel:0353359702">03-5335-9702</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361590217</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.ks-reha.com" target="_blank" rel="noopener">ks-reha.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">上荻エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="荻窪" data-kind="営利法人">
       <h3><span class="no">9</span>ガイア訪問看護ステーション　荻窪</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 荻窪４－３１－１１アクアレール２０１</dd><dt>運営法人</dt><dd>株式会社ガイアメディケア</dd><dt>電話</dt><dd><a class="tel" href="tel:0362769171">03-6276-9171</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361590258</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.gaia-medicare.jp/" target="_blank" rel="noopener">gaia-medicare.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">荻窪エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="高井戸西" data-kind="営利法人">
       <h3><span class="no">10</span>メディケアーズ訪問看護リハビリステーション高井戸</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 高井戸西２－１０－７新川ビル２Ｆ－２</dd><dt>運営法人</dt><dd>株式会社ＨＰＭ</dd><dt>電話</dt><dd><a class="tel" href="tel:0353449700">03-5344-9700</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361590266</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.hpm86.com/" target="_blank" rel="noopener">hpm86.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">高井戸西エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上荻" data-kind="営利法人">
       <h3><span class="no">11</span>訪問看護ステーションみのり</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 上荻１－２４－１２第１浅賀ビル　２階Ｃ号室</dd><dt>運営法人</dt><dd>トキノ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0369151524">03-6915-1524</a></dd><dt>事業所番号</dt><dd class="id">1361590282</dd></dl>
       <div class="tags"><span class="tag">上荻エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="荻窪" data-kind="営利法人">
       <h3><span class="no">12</span>プライム訪問看護リハビリステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 荻窪５－１１－２２榎本ビル４Ｆ</dd><dt>運営法人</dt><dd>日本総合福祉会株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0353359873">03-5335-9873</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361590290</dd><dt>公式サイト</dt><dd><a class="ext" href="http://nsf.co.jp/" target="_blank" rel="noopener">nsf.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">荻窪エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="阿佐谷北" data-day="sat" data-kind="営利法人">
       <h3><span class="no">13</span>エフリオ訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 阿佐谷北２－１４－５大阪やビル１階</dd><dt>運営法人</dt><dd>エフリオ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0353561266">03-5356-1266</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1361590316</dd><dt>公式サイト</dt><dd><a class="ext" href="http://f-reo.jp" target="_blank" rel="noopener">f-reo.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">阿佐谷北エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="和田" data-day="sat" data-kind="営利法人">
       <h3><span class="no">14</span>リハラボ訪問看護リハビリステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 和田３－３１－１５パイロットハウス１０１</dd><dt>運営法人</dt><dd>株式会社ＲｅｈａＬａｂｏＪａｐａｎ</dd><dt>電話</dt><dd><a class="tel" href="tel:0359137286">03-5913-7286</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361590357</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.rehalabo.co.jp" target="_blank" rel="noopener">rehalabo.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">和田エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="高井戸東" data-kind="営利法人">
       <h3><span class="no">15</span>スギコー訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 高井戸東３－１８－７杉交第２ビル２０１・２０２</dd><dt>運営法人</dt><dd>スギコー株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0332477500">03-3247-7500</a></dd><dt>サービス提供日</dt><dd>平日・祝日</dd><dt>事業所番号</dt><dd class="id">1361590407</dd><dt>公式サイト</dt><dd><a class="ext" href="https://sugiko-welfare.com/" target="_blank" rel="noopener">sugiko-welfare.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">高井戸東エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上井草" data-kind="営利法人">
       <h3><span class="no">16</span>ののはな訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 上井草４－２４－３</dd><dt>運営法人</dt><dd>株式会社ＪＯＹ</dd><dt>電話</dt><dd><a class="tel" href="tel:0369138743">03-6913-8743</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361590415</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.nonohanahoukan.com" target="_blank" rel="noopener">nonohanahoukan.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">上井草エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="堀ノ内" data-kind="営利法人">
       <h3><span class="no">17</span>ナーシングケア　いおり</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 堀ノ内２－３９－１８</dd><dt>運営法人</dt><dd>株式会社Ｓｋｙｈｏｏｋ</dd><dt>電話</dt><dd><a class="tel" href="tel:0363832901">03-6383-2901</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361590423</dd><dt>公式サイト</dt><dd><a class="ext" href="http://nc-iori.com" target="_blank" rel="noopener">nc-iori.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">堀ノ内エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="和田" data-day="sat" data-kind="営利法人">
       <h3><span class="no">18</span>トータルライフケア新中野訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 和田１－２９－１１</dd><dt>運営法人</dt><dd>株式会社トータルライフケア</dd><dt>電話</dt><dd><a class="tel" href="tel:0363824951">03-6382-4951</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361590456</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.ikiikitlc.co.jp/" target="_blank" rel="noopener">ikiikitlc.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">和田エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="荻窪" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">19</span>訪問看護ステーション　ユアネーム</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 荻窪３－４１－１９</dd><dt>運営法人</dt><dd>社会福祉法人呉ハレルヤ会</dd><dt>電話</dt><dd><a class="tel" href="tel:0369151347">03-6915-1347</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361590464</dd><dt>公式サイト</dt><dd><a class="ext" href="https://yournameog.web.fc2.com/" target="_blank" rel="noopener">yournameog.web.fc2.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">荻窪エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="梅里" data-kind="営利法人">
       <h3><span class="no">20</span>オラロア訪問看護リハビリステーション新高円寺</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 梅里１－７－１７Ｋ＆Ⅱビル４０１</dd><dt>運営法人</dt><dd>やすらぎ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0359139554">03-5913-9554</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361590498</dd><dt>公式サイト</dt><dd><a class="ext" href="http://yasuragi-0703.co.jp/" target="_blank" rel="noopener">yasuragi-0703.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">梅里エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上高井戸" data-kind="社団・財団">
       <h3><span class="no">21</span>フローラル訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 上高井戸１－１－１０カメリアガーデン３０３</dd><dt>運営法人</dt><dd>一般社団法人Ｇｅｎｙ</dd><dt>電話</dt><dd><a class="tel" href="tel:0353161505">03-5316-1505</a></dd><dt>サービス提供日</dt><dd>平日・祝日</dd><dt>事業所番号</dt><dd class="id">1361590514</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.is-geny.com/" target="_blank" rel="noopener">is-geny.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">上高井戸エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="高円寺南" data-day="sat" data-kind="営利法人">
       <h3><span class="no">22</span>訪問看護ステーション　デューン高円寺</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 高円寺南４－４０－１７モンコトー２階</dd><dt>運営法人</dt><dd>株式会社Ｎ・フィールド</dd><dt>電話</dt><dd><a class="tel" href="tel:0359297601">03-5929-7601</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361590522</dd></dl>
       <div class="tags"><span class="tag">高円寺南エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="成田東" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">23</span>ソフィアメディ訪問看護ステーション阿佐ヶ谷</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 成田東５－４０－１０ソレイユビル３Ｆ</dd><dt>運営法人</dt><dd>ソフィアメディ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0362769324">03-6276-9324</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361590530</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.sophiamedi.co.jp/" target="_blank" rel="noopener">sophiamedi.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">成田東エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上荻" data-day="sat" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">24</span>いたる訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 上荻１－１２－１荻窪ビル３階Ｃ号室</dd><dt>運営法人</dt><dd>社会福祉法人いたるセンター</dd><dt>電話</dt><dd><a class="tel" href="tel:0362799350">03-6279-9350</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361590548</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.itarucenter.com" target="_blank" rel="noopener">itarucenter.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">上荻エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="永福" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">25</span>ソフィアメディ訪問看護ステーション永福</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 永福４－６－１３アメニティコート４７０　２階</dd><dt>運営法人</dt><dd>ソフィアメディ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0362658604">03-6265-8604</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361590563</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.sophiamedi.co.jp/" target="_blank" rel="noopener">sophiamedi.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">永福エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="松庵" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">26</span>ソフィアメディ訪問看護ステーション西荻窪</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 松庵２－１３－３３ＶＩＬＬＡ ＭＡＲＲＯＮＮＩＥＲＥ １Ｆ</dd><dt>運営法人</dt><dd>ソフィアメディ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0359417512">03-5941-7512</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361590571</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.sophiamedi.co.jp/" target="_blank" rel="noopener">sophiamedi.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">松庵エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西荻北" data-day="sat" data-kind="営利法人">
       <h3><span class="no">27</span>ぱんだ訪問看護リハビリステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 西荻北２－１－３シャトルマンション１０２</dd><dt>運営法人</dt><dd>株式会社ＰＡＮＤＡ</dd><dt>電話</dt><dd><a class="tel" href="tel:0369136124">03-6913-6124</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361590589</dd><dt>公式サイト</dt><dd><a class="ext" href="https://nr.panda-gr.com/" target="_blank" rel="noopener">nr.panda-gr.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西荻北エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="下井草" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">28</span>ソフィアメディ訪問看護ステーション下井草</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 下井草２－１９－１９</dd><dt>運営法人</dt><dd>ソフィアメディ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0369138790">03-6913-8790</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361590605</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.sophiamedi.co.jp/" target="_blank" rel="noopener">sophiamedi.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">下井草エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上井草" data-kind="営利法人">
       <h3><span class="no">29</span>ウォームハート訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 上井草３－１７－２４</dd><dt>運営法人</dt><dd>株式会社クールヘッド</dd><dt>電話</dt><dd><a class="tel" href="tel:0369135161">03-6913-5161</a></dd><dt>サービス提供日</dt><dd>平日・祝日</dd><dt>事業所番号</dt><dd class="id">1361590647</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.coolhead.co.jp" target="_blank" rel="noopener">coolhead.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">上井草エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="和田" data-kind="営利法人">
       <h3><span class="no">30</span>ホウカンＴＯＫＹＯ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 和田３－３２－９</dd><dt>運営法人</dt><dd>ハノン・ケアシステム株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0359137299">03-5913-7299</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361590654</dd><dt>公式サイト</dt><dd><a class="ext" href="https://hokantokyo.jp/station/" target="_blank" rel="noopener">hokantokyo.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">和田エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="下井草" data-kind="営利法人">
       <h3><span class="no">31</span>野いちご訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 下井草３－８－５</dd><dt>運営法人</dt><dd>株式会社喜咲</dd><dt>電話</dt><dd><a class="tel" href="tel:0369138590">03-6913-8590</a></dd><dt>サービス提供日</dt><dd>平日・祝日</dd><dt>事業所番号</dt><dd class="id">1361590662</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.kisaku2020.co.jp" target="_blank" rel="noopener">kisaku2020.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">下井草エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西荻北" data-kind="営利法人">
       <h3><span class="no">32</span>訪問看護ステーション　デライト杉並</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 西荻北２－３－９トラストビル２階</dd><dt>運営法人</dt><dd>株式会社Ｈ＆Ｈホールディングス</dd><dt>電話</dt><dd><a class="tel" href="tel:0364547528">03-6454-7528</a></dd><dt>事業所番号</dt><dd class="id">1361590688</dd></dl>
       <div class="tags"><span class="tag">西荻北エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="井草" data-kind="営利法人">
       <h3><span class="no">33</span>ＣＢ訪問看護リハビリステーション井荻</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 井草４－８－１４</dd><dt>運営法人</dt><dd>株式会社Ｍｏｎｓｏｏｋ</dd><dt>電話</dt><dd><a class="tel" href="tel:0368227257">03-6822-7257</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361590696</dd><dt>公式サイト</dt><dd><a class="ext" href="https://cb-houmonkango.com/" target="_blank" rel="noopener">cb-houmonkango.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">井草エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="梅里" data-day="sat|sun" data-kind="社団・財団">
       <h3><span class="no">34</span>アート訪問看護センター</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 梅里１－２１－８</dd><dt>運営法人</dt><dd>一般社団法人カインドネス</dd><dt>電話</dt><dd><a class="tel" href="tel:0359299497">03-5929-9497</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361590720</dd><dt>公式サイト</dt><dd><a class="ext" href="https://kindness-art.jp" target="_blank" rel="noopener">kindness-art.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">梅里エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="方南" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">35</span>ＰＩＥＣＥ訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 方南１－１３－８</dd><dt>運営法人</dt><dd>株式会社ＰＩＥＣＥ</dd><dt>電話</dt><dd><a class="tel" href="tel:0363043398">03-6304-3398</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361590761</dd><dt>公式サイト</dt><dd><a class="ext" href="https://piece-houkan.jp/" target="_blank" rel="noopener">piece-houkan.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">方南エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="荻窪" data-day="sat" data-kind="営利法人">
       <h3><span class="no">36</span>訪問看護ステーション　はな　荻窪</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 荻窪４－１１－１６ドミシール荻窪１０１</dd><dt>運営法人</dt><dd>株式会社はな</dd><dt>電話</dt><dd><a class="tel" href="tel:0368234666">03-6823-4666</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1361590787</dd><dt>公式サイト</dt><dd><a class="ext" href="https://hana-gr.com" target="_blank" rel="noopener">hana-gr.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">荻窪エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="高円寺北" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">37</span>セントケアＤＸ訪問看護ステーション高円寺</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 高円寺北４－３２－４カーサベルテ３０１号</dd><dt>運営法人</dt><dd>セントケアＤＸ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0344313214">03-4431-3214</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361590803</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.saint-care.com/dx/" target="_blank" rel="noopener">saint-care.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">高円寺北エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="下井草" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">38</span>Ｎａｎａ訪問看護ステーション下井草</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 下井草１－２７－３トリコロール３号室</dd><dt>運営法人</dt><dd>日本訪問看護株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0368269460">03-6826-9460</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日</dd><dt>事業所番号</dt><dd class="id">1361590829</dd><dt>公式サイト</dt><dd><a class="ext" href="https://nana-station.com/" target="_blank" rel="noopener">nana-station.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">下井草エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="阿佐谷北" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">39</span>ツクイ杉並訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 阿佐谷北１－４３－１３ＡＩビル３階</dd><dt>運営法人</dt><dd>株式会社ツクイ</dd><dt>電話</dt><dd><a class="tel" href="tel:0353737330">03-5373-7330</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361590837</dd></dl>
       <div class="tags"><span class="tag">阿佐谷北エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上井草" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">40</span>グラン訪問看護ＴＯＫＹＯ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 上井草１－２２－１７浅賀マンション２１０号室</dd><dt>運営法人</dt><dd>株式会社グラン訪問看護ＴＯＫＹＯ</dd><dt>電話</dt><dd><a class="tel" href="tel:0369150330">03-6915-0330</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361590845</dd><dt>公式サイト</dt><dd><a class="ext" href="https://grandtokyo.wixsite.com/houmonnstation" target="_blank" rel="noopener">grandtokyo.wixsite.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">上井草エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="堀ノ内" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">41</span>セントケアＤＸ訪問看護ステーション堀ノ内</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 堀ノ内１－１０－２堀ノ内ＧＡＬＡＸＹ　4Ａ</dd><dt>運営法人</dt><dd>セントケアＤＸ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0344313211">03-4431-3211</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361590852</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.saint-care.com/dx/" target="_blank" rel="noopener">saint-care.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">堀ノ内エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="清水" data-day="sat" data-kind="営利法人">
       <h3><span class="no">42</span>トータルライフケア杉並訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 清水３－３１－１０ｙａｓｈｉｍａビル２Ｆ</dd><dt>運営法人</dt><dd>株式会社トータルライフケア</dd><dt>電話</dt><dd><a class="tel" href="tel:0364547280">03-6454-7280</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361590860</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.ikiikitlc.co.jp/" target="_blank" rel="noopener">ikiikitlc.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">清水エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="松庵" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">43</span>医心館　訪問看護ステーション　西荻窪</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 松庵３－２４－１８</dd><dt>運営法人</dt><dd>株式会社アンビス</dd><dt>電話</dt><dd><a class="tel" href="tel:0359416136">03-5941-6136</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361590894</dd></dl>
       <div class="tags"><span class="tag">松庵エリア</span><span class="tag">日曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="永福" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">44</span>医心館　訪問看護ステーション　西永福</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 永福３－２１－１３</dd><dt>運営法人</dt><dd>株式会社アンビス</dd><dt>電話</dt><dd><a class="tel" href="tel:0362657805">03-6265-7805</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361590902</dd></dl>
       <div class="tags"><span class="tag">永福エリア</span><span class="tag">日曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="高円寺南" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">45</span>ぴゅあ訪問看護リハビリステーション高円寺</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 高円寺南４－２７－７ラインビルド高円寺・林４０３号室</dd><dt>運営法人</dt><dd>株式会社ｈａｌｋａ</dd><dt>電話</dt><dd><a class="tel" href="tel:0359138435">03-5913-8435</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361590928</dd><dt>公式サイト</dt><dd><a class="ext" href="https://halka-pure.com/" target="_blank" rel="noopener">halka-pure.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">高円寺南エリア</span><span class="tag">日曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="松庵" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">46</span>訪問看護ファミリー・ホスピス００２</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 松庵２－１５－１２</dd><dt>運営法人</dt><dd>ファミリー・ホスピス株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0333340550">03-3334-0550</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361590936</dd></dl>
       <div class="tags"><span class="tag">松庵エリア</span><span class="tag">日曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="和泉" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">47</span>杉並ふくろう訪問看護リハビリステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 和泉３－４１－６</dd><dt>運営法人</dt><dd>株式会社Ｋ＆Ｎ－ＮＥＸＴ</dd><dt>電話</dt><dd><a class="tel" href="tel:0363793691">03-6379-3691</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361590951</dd><dt>公式サイト</dt><dd><a class="ext" href="http://fukurou-houmon.net" target="_blank" rel="noopener">fukurou-houmon.net<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">和泉エリア</span><span class="tag">日曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="下井草" data-day="sat" data-kind="営利法人">
       <h3><span class="no">48</span>ソラーナ訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 下井草４－３２－１７第二陵雲閣３０４号室</dd><dt>運営法人</dt><dd>株式会社ＳｏｌａｎａＭｅｄｉｃｓ</dd><dt>電話</dt><dd><a class="tel" href="tel:08065795645">08065795645</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361590985</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.solanamedics.com/" target="_blank" rel="noopener">solanamedics.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">下井草エリア</span><span class="tag">土曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="方南" data-day="sat" data-kind="営利法人">
       <h3><span class="no">49</span>訪問看護ステーション　コルディアーレ杉並</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 方南１－５３－９髙見澤貸事務所１階</dd><dt>運営法人</dt><dd>株式会社ＪＳＨ</dd><dt>電話</dt><dd><a class="tel" href="tel:0359298960">03-5929-8960</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361590993</dd></dl>
       <div class="tags"><span class="tag">方南エリア</span><span class="tag">土曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="久我山" data-kind="営利法人">
       <h3><span class="no">50</span>ハートリハ訪問看護ステーション久我山</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 久我山２－１６－１９メゾンドフローラ１０３</dd><dt>運営法人</dt><dd>株式会社ハートリハ</dd><dt>電話</dt><dd><a class="tel" href="tel:0359416550">03-5941-6550</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361591009</dd><dt>公式サイト</dt><dd><a class="ext" href="https://heart-reha.co.jp/" target="_blank" rel="noopener">heart-reha.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">久我山エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上井草" data-kind="営利法人">
       <h3><span class="no">51</span>ゆり訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 上井草３－１９－１８フォルム上井草２０７</dd><dt>運営法人</dt><dd>株式会社ジョイ</dd><dt>電話</dt><dd><a class="tel" href="tel:0353039290">03-5303-9290</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361591017</dd></dl>
       <div class="tags"><span class="tag">上井草エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="和泉" data-kind="医療法人">
       <h3><span class="no">52</span>訪問看護ステーション　ドルチェ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 和泉１－３－１ＢＳビル２階</dd><dt>運営法人</dt><dd>医療法人社団ラルゴ</dd><dt>電話</dt><dd><a class="tel" href="tel:0357269517">03-5726-9517</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361591041</dd><dt>公式サイト</dt><dd><a class="ext" href="https://houkan-dolce.com/" target="_blank" rel="noopener">houkan-dolce.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">和泉エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="久我山" data-kind="営利法人">
       <h3><span class="no">53</span>訪問看護ステーション悠楽々東京</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 久我山４－２－２５ミモザビル２Ｆ</dd><dt>運営法人</dt><dd>株式会社ワイグッドナーシング</dd><dt>電話</dt><dd><a class="tel" href="tel:0359416315">03-5941-6315</a></dd><dt>事業所番号</dt><dd class="id">1361591058</dd></dl>
       <div class="tags"><span class="tag">久我山エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="阿佐谷南" data-day="sat" data-kind="医療法人">
       <h3><span class="no">54</span>河北訪問看護・リハビリステーション阿佐谷</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 阿佐谷南１－１６－８ＩＳＭ　ＡＳＡＧＡＹＡ６階</dd><dt>運営法人</dt><dd>社会医療法人河北医療財団</dd><dt>電話</dt><dd><a class="tel" href="tel:0359137977">03-5913-7977</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1367191232</dd><dt>公式サイト</dt><dd><a class="ext" href="https://kawakita.or.jp/suginami-area/station/" target="_blank" rel="noopener">kawakita.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">阿佐谷南エリア</span><span class="tag">土曜日も訪問</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="阿佐谷南" data-day="sat" data-kind="医療法人">
       <h3><span class="no">55</span>医療法人社団　野﨑クリニック　野﨑クリニック訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 阿佐谷南３－３７－１３大同ビル２階</dd><dt>運営法人</dt><dd>医療法人社団野﨑クリニック</dd><dt>電話</dt><dd><a class="tel" href="tel:0333983330">03-3398-3330</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1367191794</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.nozaki-clinic.or.jp" target="_blank" rel="noopener">nozaki-clinic.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">阿佐谷南エリア</span><span class="tag">土曜日も訪問</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西荻南" data-day="sat" data-kind="医療法人">
       <h3><span class="no">56</span>社会医療法人社団　健友会　西荻南訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 西荻南４－２－７西荻窪診療所２階</dd><dt>運営法人</dt><dd>社会医療法人社団健友会</dd><dt>電話</dt><dd><a class="tel" href="tel:0333336584">03-3333-6584</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1367192693</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.kenyu-kai.or.jp/" target="_blank" rel="noopener">kenyu-kai.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西荻南エリア</span><span class="tag">土曜日も訪問</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="今川" data-kind="医療法人">
       <h3><span class="no">57</span>荻窪病院訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 今川２－５－７サニーヒルズ荻窪３０１号</dd><dt>運営法人</dt><dd>医療法人財団荻窪病院</dd><dt>電話</dt><dd><a class="tel" href="tel:0353103162">03-5310-3162</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1367193337</dd><dt>公式サイト</dt><dd><a class="ext" href="https://houkan.ogikubo-hospital.or.jp/" target="_blank" rel="noopener">houkan.ogikubo-hospital.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">今川エリア</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="天沼" data-kind="社団・財団">
       <h3><span class="no">58</span>杉並区医師会訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 天沼３－１９－１４フェニックス杉並１Ｆ</dd><dt>運営法人</dt><dd>一般社団法人杉並区医師会</dd><dt>電話</dt><dd><a class="tel" href="tel:0333910009">03-3391-0009</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1367193600</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.sgn.tokyo.med.or.jp" target="_blank" rel="noopener">sgn.tokyo.med.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">天沼エリア</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上井草" data-kind="営利法人">
       <h3><span class="no">59</span>訪問看護ステーション　ほたるすぎなみ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 上井草１－２２－１７－１０７</dd><dt>運営法人</dt><dd>株式会社ジェネラス</dd><dt>電話</dt><dd><a class="tel" href="tel:0353116577">03-5311-6577</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1367197403</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.generous.co.jp" target="_blank" rel="noopener">generous.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">上井草エリア</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上井草" data-kind="医療法人">
       <h3><span class="no">60</span>越川病院訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 杉並区 上井草４－５－２７　２階</dd><dt>運営法人</dt><dd>医療法人社団杏順会</dd><dt>電話</dt><dd><a class="tel" href="tel:0333017700">03-3301-7700</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1367197916</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.koshikawa-hosp.or.jp" target="_blank" rel="noopener">koshikawa-hosp.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">上井草エリア</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
+    </div>
+    <p class="flt-empty" id="flt-empty" hidden>条件に合う事業所はありません。条件を1つ外してみてください。</p>
     </div>
     <div class="warn"><strong>掲載情報についてのお願い</strong><br>上記60件は、2026-09-21に杉並区および各事業者の公表情報で確認した内容です。営業時間・対応エリア・空き状況は変動しますので、連絡の前に必ず公式情報をご確認ください。掲載内容の訂正・削除は、<a href="../../../contact/">お問い合わせ</a>からご依頼いただければ<strong>理由の説明なしで削除します</strong>。</div>
 
@@ -2159,5 +2173,6 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 })();
 </script>
 <script src="../../../assets/measure.js" defer></script>
+<script src="../../../assets/filter.js" defer></script>
 </body>
 </html>

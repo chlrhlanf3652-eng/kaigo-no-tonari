@@ -770,130 +770,141 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 
     <h2 id="s2">葛飾区のショートステイ一覧</h2>
         <p class="cnt">葛飾区内の短期入所生活介護事業所から25件を掲載しています（東京都公表・2026年9月1日時点）。区内には25件が指定を受けており、そのすべてを掲載しています。「特養の空床利用」「単独型」などの表示は東京都の一覧の事業所種別名です。空き状況は日々変わるため、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。</p>
-    <div class="card">
+    <div id="flt-top"></div>
+    <div class="flt" id="flt" hidden>
+      <div class="flt-row">
+        <select data-f="town" aria-label="場所で絞り込む"><option value="">場所</option><option value="西水元">西水元（4）</option><option value="奥戸">奥戸（3）</option><option value="新宿">新宿（3）</option><option value="青戸">青戸（3）</option><option value="亀有">亀有（2）</option><option value="細田">細田（2）</option><option value="宝町">宝町（1）</option><option value="小菅">小菅（1）</option><option value="東四つ木">東四つ木（1）</option><option value="東金町">東金町（1）</option><option value="水元">水元（1）</option><option value="白鳥">白鳥（1）</option><option value="西亀有">西亀有（1）</option><option value="西新小岩">西新小岩（1）</option></select>
+        <select data-f="fk" aria-label="型で絞り込む"><option value="">型</option><option value="特養の併設事業所型">特養の併設事業所型（18）</option><option value="特養の空床利用型">特養の空床利用型（4）</option><option value="特養以外の併設事業所型">特養以外の併設事業所型（3）</option></select>
+      </div>
+      <p class="flt-n" aria-live="polite"><span><b id="flt-n">25</b> / 25件を表示</span><button type="button" id="flt-reset" hidden>条件をクリア</button></p>
+    </div>
+    <div class="bizlist">
+    <div class="card" data-town="西水元" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">1</span>中川園</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 西水元４－５－１</dd><dt>運営法人</dt><dd>社会福祉法人仁生社</dd><dt>電話</dt><dd><a class="tel" href="tel:0336074060">03-3607-4060</a></dd><dt>事業所番号</dt><dd class="id">1372200491</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.jinseisha.jp" target="_blank" rel="noopener">jinseisha.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西水元エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="水元" data-fk="特養の空床利用型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">2</span>水元ふれあいの家</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 水元１－２６－２０</dd><dt>運営法人</dt><dd>社会福祉法人仁生社</dd><dt>電話</dt><dd><a class="tel" href="tel:0336077881">03-3607-7881</a></dd><dt>事業所番号</dt><dd class="id">1372200509</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.jinseisha.jp" target="_blank" rel="noopener">jinseisha.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">水元エリア</span><span class="tag">特養の空床利用</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西水元" data-fk="特養の空床利用型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">3</span>水元園</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 西水元４－６－１</dd><dt>運営法人</dt><dd>社会福祉法人仁生社</dd><dt>電話</dt><dd><a class="tel" href="tel:0336074060">03-3607-4060</a></dd><dt>定員</dt><dd>100</dd><dt>事業所番号</dt><dd class="id">1372200517</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.jinseisha.jp" target="_blank" rel="noopener">jinseisha.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西水元エリア</span><span class="tag">特養の空床利用</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="奥戸" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">4</span>奥戸くつろぎの郷</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 奥戸３－２５－１</dd><dt>運営法人</dt><dd>社会福祉法人仁生社</dd><dt>電話</dt><dd><a class="tel" href="tel:0356701261">03-5670-1261</a></dd><dt>定員</dt><dd>8</dd><dt>事業所番号</dt><dd class="id">1372200525</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.jinseisha.jp" target="_blank" rel="noopener">jinseisha.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">奥戸エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西新小岩" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">5</span>すずうらホーム</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 西新小岩３－３７－２７</dd><dt>運営法人</dt><dd>社会福祉法人清遊の家</dd><dt>電話</dt><dd><a class="tel" href="tel:0356703010">03-5670-3010</a></dd><dt>定員</dt><dd>8</dd><dt>事業所番号</dt><dd class="id">1372200533</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.seiyunoie.or.jp" target="_blank" rel="noopener">seiyunoie.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西新小岩エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西水元" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">6</span>特別養護老人ホーム西水元あやめ園</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 西水元２－２－８</dd><dt>運営法人</dt><dd>社会福祉法人武蔵野会</dd><dt>電話</dt><dd><a class="tel" href="tel:0338262951">03-3826-2951</a></dd><dt>事業所番号</dt><dd class="id">1372200558</dd><dt>公式サイト</dt><dd><a class="ext" href="http://care-net.biz/13/ayame/" target="_blank" rel="noopener">care-net.biz<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西水元エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東四つ木" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">7</span>東四つ木ほほえみの里</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 東四つ木２－２６－１５</dd><dt>運営法人</dt><dd>社会福祉法人共生会</dd><dt>電話</dt><dd><a class="tel" href="tel:0356982341">03-5698-2341</a></dd><dt>定員</dt><dd>7</dd><dt>事業所番号</dt><dd class="id">1372200996</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.kyousei-kai.com/hohoemi/index.html" target="_blank" rel="noopener">kyousei-kai.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東四つ木エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西水元" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">8</span>西水元ナーシングホーム</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 西水元６－１２－２</dd><dt>運営法人</dt><dd>社会福祉法人東翔会</dd><dt>電話</dt><dd><a class="tel" href="tel:0336070050">03-3607-0050</a></dd><dt>定員</dt><dd>3</dd><dt>事業所番号</dt><dd class="id">1372201242</dd><dt>公式サイト</dt><dd><a class="ext" href="http://care-net.biz/13/tosyou/" target="_blank" rel="noopener">care-net.biz<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西水元エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="新宿" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">9</span>葛飾やすらぎの郷</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 新宿三丁目４番１０号</dd><dt>運営法人</dt><dd>社会福祉法人すこやか福祉会</dd><dt>電話</dt><dd><a class="tel" href="tel:0356488250">03-5648-8250</a></dd><dt>定員</dt><dd>5</dd><dt>事業所番号</dt><dd class="id">1372201523</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.sukoyaka-fu.or.jp/jigyosho/tokuyou/yasuragi.html" target="_blank" rel="noopener">sukoyaka-fu.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">新宿エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="青戸" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">10</span>特別養護老人ホーム　癒しの里　青戸</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 青戸８－１８－１３</dd><dt>運営法人</dt><dd>社会福祉法人三幸福祉会</dd><dt>電話</dt><dd><a class="tel" href="tel:0356295843">03-5629-5843</a></dd><dt>定員</dt><dd>12</dd><dt>事業所番号</dt><dd class="id">1372201887</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.sanko-fukusi.or.jp/" target="_blank" rel="noopener">sanko-fukusi.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">青戸エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="白鳥" data-fk="特養の空床利用型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">11</span>ショートステイかつしか苑</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 白鳥二丁目９番１８号</dd><dt>運営法人</dt><dd>社会福祉法人葛飾会</dd><dt>電話</dt><dd><a class="tel" href="tel:0366622220">03-6662-2220</a></dd><dt>事業所番号</dt><dd class="id">1372202570</dd></dl>
       <div class="tags"><span class="tag">白鳥エリア</span><span class="tag">特養の空床利用</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="亀有" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">12</span>社会福祉法人三幸福祉会特別養護老人ホーム癒しの里亀有</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 亀有２－６０－５</dd><dt>運営法人</dt><dd>社会福祉法人三幸福祉会</dd><dt>電話</dt><dd><a class="tel" href="tel:0356295866">03-5629-5866</a></dd><dt>事業所番号</dt><dd class="id">1372203347</dd><dt>公式サイト</dt><dd><a class="ext" href="http://sanko-fukushi.jp/" target="_blank" rel="noopener">sanko-fukushi.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">亀有エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="細田" data-fk="特養以外の併設事業所型" data-kind="営利法人">
       <h3><span class="no">13</span>SILVER　SUPPORT　星にねがいを</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 細田４－２－８</dd><dt>運営法人</dt><dd>株式会社サンハート</dd><dt>電話</dt><dd><a class="tel" href="tel:0356934165">03-5693-4165</a></dd><dt>事業所番号</dt><dd class="id">1372203354</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.sunheart-care.jp" target="_blank" rel="noopener">sunheart-care.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">細田エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="青戸" data-fk="特養以外の併設事業所型" data-kind="医療法人">
       <h3><span class="no">14</span>短期入所生活介護施設　こはるび</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 青戸七丁目３４番６号</dd><dt>運営法人</dt><dd>医療法人財団光善会</dd><dt>電話</dt><dd><a class="tel" href="tel:0336021011">03-3602-1011</a></dd><dt>事業所番号</dt><dd class="id">1372203537</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.e-kouzenkai.or.jp/" target="_blank" rel="noopener">e-kouzenkai.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">青戸エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="新宿" data-fk="特養以外の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">15</span>ショートステイ葛飾敬寿園</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 新宿３－１９－１９</dd><dt>運営法人</dt><dd>社会福祉法人敬寿会</dd><dt>電話</dt><dd><a class="tel" href="tel:0336001551">03-3600-1551</a></dd><dt>定員</dt><dd>9</dd><dt>事業所番号</dt><dd class="id">1372203859</dd><dt>公式サイト</dt><dd><a class="ext" href="http://keijuen.or.jp/katsushika/" target="_blank" rel="noopener">keijuen.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">新宿エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="青戸" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">16</span>ショートステイ　ル・ソラリオン葛飾</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 青戸４－１６－７</dd><dt>運営法人</dt><dd>社会福祉法人敬仁会</dd><dt>電話</dt><dd><a class="tel" href="tel:0336013711">03-3601-3711</a></dd><dt>定員</dt><dd>20</dd><dt>事業所番号</dt><dd class="id">1372203883</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.med-wel.jp/katushika/" target="_blank" rel="noopener">med-wel.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">青戸エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="新宿" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">17</span>短期入所生活介護事業所　エトワール</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 新宿６－２－１３</dd><dt>運営法人</dt><dd>社会福祉法人藤寿会</dd><dt>電話</dt><dd><a class="tel" href="tel:0358761212">03-5876-1212</a></dd><dt>事業所番号</dt><dd class="id">1372204535</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.toujukai.jp/" target="_blank" rel="noopener">toujukai.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">新宿エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東金町" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">18</span>東かなまち桜園（介護予防）短期入所生活介護事業所</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 東金町２－１３－１０</dd><dt>運営法人</dt><dd>社会福祉法人清風会</dd><dt>電話</dt><dd><a class="tel" href="tel:0358765281">03-5876-5281</a></dd><dt>事業所番号</dt><dd class="id">1372205938</dd><dt>公式サイト</dt><dd><a class="ext" href="http://kanamachisakuraen.seifu-kai.jp/" target="_blank" rel="noopener">kanamachisakuraen.seifu-kai.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東金町エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="細田" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">19</span>ショートステイ　バタフライ ヒル細田</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 細田４－２０－１４</dd><dt>運営法人</dt><dd>社会福祉法人善光会</dd><dt>電話</dt><dd><a class="tel" href="tel:0356121717">03-5612-1717</a></dd><dt>事業所番号</dt><dd class="id">1372205987</dd><dt>公式サイト</dt><dd><a class="ext" href="http://zenkoukai.jp/japanese/" target="_blank" rel="noopener">zenkoukai.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">細田エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="亀有" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">20</span>ショートステイかつしか苑亀有</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 亀有１－６－１１</dd><dt>運営法人</dt><dd>社会福祉法人葛飾会</dd><dt>電話</dt><dd><a class="tel" href="tel:0366622223">03-6662-2223</a></dd><dt>事業所番号</dt><dd class="id">1372206621</dd></dl>
       <div class="tags"><span class="tag">亀有エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="宝町" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">21</span>アンブル宝町ショートステイ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 宝町１－２－９</dd><dt>運営法人</dt><dd>社会福祉法人アストリー</dd><dt>電話</dt><dd><a class="tel" href="tel:0356548880">03-5654-8880</a></dd><dt>事業所番号</dt><dd class="id">1372206993</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.astory.jp" target="_blank" rel="noopener">astory.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">宝町エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="奥戸" data-fk="特養の空床利用型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">22</span>特別養護老人ホーム　第二奥戸くつろぎの郷</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 奥戸３－２５－２３</dd><dt>運営法人</dt><dd>社会福祉法人仁生社</dd><dt>電話</dt><dd><a class="tel" href="tel:0356546130">03-5654-6130</a></dd><dt>事業所番号</dt><dd class="id">1372207751</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.jinseisha.jp/top/index.htm" target="_blank" rel="noopener">jinseisha.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">奥戸エリア</span><span class="tag">特養の空床利用</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="奥戸" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">23</span>スマイルホーム西井掘　短期入所生活介護</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 奥戸３－２４－１５</dd><dt>運営法人</dt><dd>社会福祉法人喜清会</dd><dt>電話</dt><dd><a class="tel" href="tel:0336928600">03-3692-8600</a></dd><dt>事業所番号</dt><dd class="id">1372207819</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.tokyokiseikai.or.jp/" target="_blank" rel="noopener">tokyokiseikai.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">奥戸エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="小菅" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">24</span>介護老人福祉施設ケアホーム葛飾</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 小菅１－３５－１０</dd><dt>運営法人</dt><dd>社会福祉法人平成記念会</dd><dt>電話</dt><dd><a class="tel" href="tel:0336025900">03-3602-5900</a></dd><dt>定員</dt><dd>18</dd><dt>事業所番号</dt><dd class="id">1372208361</dd><dt>公式サイト</dt><dd><a class="ext" href="https://katsushika.tokuyou.jp" target="_blank" rel="noopener">katsushika.tokuyou.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">小菅エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西亀有" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">25</span>ショートステイ　癒しの里西亀有</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 葛飾区 西亀有３－１８－６</dd><dt>運営法人</dt><dd>社会福祉法人三幸福祉会</dd><dt>電話</dt><dd><a class="tel" href="tel:0356477454">03-5647-7454</a></dd><dt>事業所番号</dt><dd class="id">1372208452</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.sanko-fukushi.jp/" target="_blank" rel="noopener">sanko-fukushi.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西亀有エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
+    </div>
+    <p class="flt-empty" id="flt-empty" hidden>条件に合う事業所はありません。条件を1つ外してみてください。</p>
     </div>
     <div class="warn"><strong>掲載情報についてのお願い</strong><br>上記25件は、2026-09-22に葛飾区および各事業者の公表情報で確認した内容です。営業時間・対応エリア・空き状況は変動しますので、連絡の前に必ず公式情報をご確認ください。掲載内容の訂正・削除は、<a href="../../../contact/">お問い合わせ</a>からご依頼いただければ<strong>理由の説明なしで削除します</strong>。</div>
 
@@ -1237,5 +1248,6 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 })();
 </script>
 <script src="../../../assets/measure.js" defer></script>
+<script src="../../../assets/filter.js" defer></script>
 </body>
 </html>

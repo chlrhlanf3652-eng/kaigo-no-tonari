@@ -40,6 +40,7 @@
       "parentOrganization": "特定非営利活動法人在宅ケア協会",
       "identifier": "1370400788",
       "_town": "稲荷台",
+      "_kind": "非営利法人（NPO）",
       "url": "https://zaitaku.or.jp/",
       "_days": [
         "平日",
@@ -67,6 +68,7 @@
       "parentOrganization": "アースサポート株式会社",
       "identifier": "1371301191",
       "_town": "成増",
+      "_kind": "営利法人",
       "url": "https://www.earthsupport.co.jp",
       "_days": [
         "平日",
@@ -94,6 +96,7 @@
       "parentOrganization": "株式会社ベスト・ケアー",
       "identifier": "1371900380",
       "_town": "小茂根",
+      "_kind": "営利法人",
       "url": "http://www.bestcare-kaigo.jp/",
       "_days": [
         "平日",
@@ -121,6 +124,7 @@
       "parentOrganization": "医療法人財団朔望会",
       "identifier": "1371900570",
       "_town": "前野町",
+      "_kind": "医療法人",
       "url": "http://www.tshnet.or.jp/",
       "_days": [
         "平日",
@@ -148,6 +152,7 @@
       "parentOrganization": "労働者協同組合労協センター事業団",
       "identifier": "1371900679",
       "_town": "栄町",
+      "_kind": "その他",
       "url": "http://www.roukyou.gr.jp/",
       "_days": [
         "平日",
@@ -174,6 +179,7 @@
       "parentOrganization": "社会福祉法人東京援護協会",
       "identifier": "1371901214",
       "_town": "東坂下",
+      "_kind": "社会福祉法人（社協以外）",
       "url": "http://www.tokyoengokyokai.or.jp",
       "_days": [
         "平日",
@@ -200,6 +206,7 @@
       "parentOrganization": "社会福祉法人小茂根の郷",
       "identifier": "1371901313",
       "_town": "小茂根",
+      "_kind": "社会福祉法人（社協以外）",
       "url": "http://www.komonenosato.com",
       "_days": [
         "平日",
@@ -227,6 +234,7 @@
       "parentOrganization": "特定非営利活動法人アビリティクラブたすけあい板橋たすけあいワーカーズあやとり",
       "identifier": "1371901891",
       "_town": "徳丸",
+      "_kind": "非営利法人（NPO）",
       "url": "http://act-ayatori.com",
       "_days": [
         "平日",
@@ -254,6 +262,7 @@
       "parentOrganization": "有限会社　アイ・ヘルパーサービス",
       "identifier": "1371902444",
       "_town": "板橋",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -280,6 +289,7 @@
       "parentOrganization": "株式会社ニチイ学館",
       "identifier": "1371902568",
       "_town": "小茂根",
+      "_kind": "営利法人",
       "url": "http://www.nichiigakkan.co.jp",
       "_days": [
         "平日",
@@ -307,6 +317,7 @@
       "parentOrganization": "株式会社ＹＯＵ優ＣＡＲＥ",
       "identifier": "1371903053",
       "_town": "常盤台",
+      "_kind": "営利法人",
       "url": "http://www.youyou-care.co.jp/",
       "_days": [
         "平日",
@@ -334,6 +345,7 @@
       "parentOrganization": "有限会社協徳",
       "identifier": "1371903350",
       "_town": "西台",
+      "_kind": "営利法人",
       "url": "http://www.gunizu.com/",
       "_days": [
         "平日",
@@ -361,6 +373,7 @@
       "parentOrganization": "公益財団法人東京ＹＷＣＡ",
       "identifier": "1371903491",
       "_town": "坂下",
+      "_kind": "社団・財団",
       "url": "http://tokyo.ywca.or.jp/care",
       "_days": [
         "平日",
@@ -388,6 +401,7 @@
       "parentOrganization": "有限会社　さくら苑",
       "identifier": "1371903749",
       "_town": "上板橋",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -414,6 +428,7 @@
       "parentOrganization": "株式会社ケアフレンド",
       "identifier": "1371903848",
       "_town": "蓮根",
+      "_kind": "営利法人",
       "url": "https://aicarecenter.co.jp/",
       "_days": [
         "平日",
@@ -441,6 +456,7 @@
       "parentOrganization": "有限会社レインボーブリッジ",
       "identifier": "1371903921",
       "_town": "板橋",
+      "_kind": "営利法人",
       "url": "http://www.rainbowbridge.co.jp/",
       "_days": [
         "平日",
@@ -468,6 +484,7 @@
       "parentOrganization": "有限会社　灯の会",
       "identifier": "1371904366",
       "_town": "高島平",
+      "_kind": "営利法人",
       "_days": [
         "平日"
       ],
@@ -490,6 +507,7 @@
       "parentOrganization": "有限会社中板橋介護支援センター",
       "identifier": "1371904754",
       "_town": "中板橋",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -516,6 +534,7 @@
       "parentOrganization": "特定非営利活動法人ブリッジ",
       "identifier": "1371904960",
       "_town": "南町",
+      "_kind": "非営利法人（NPO）",
       "_days": [
         "平日",
         "土曜日",
@@ -542,6 +561,7 @@
       "parentOrganization": "ＡＬＳＯＫ介護株式会社",
       "identifier": "1371905736",
       "_town": "上板橋",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -568,6 +588,7 @@
       "parentOrganization": "セントケア東京株式会社",
       "identifier": "1371905827",
       "_town": "上板橋",
+      "_kind": "営利法人",
       "url": "http://www.saint-care.com",
       "_days": [
         "平日",
@@ -595,6 +616,7 @@
       "parentOrganization": "有限会社ミセス，カネコ",
       "identifier": "1371906114",
       "_town": "蓮根",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -621,6 +643,7 @@
       "parentOrganization": "株式会社ケア２１",
       "identifier": "1371906205",
       "_town": "上板橋",
+      "_kind": "営利法人",
       "url": "http://www.care21.co.jp/",
       "_days": [
         "平日",
@@ -648,6 +671,7 @@
       "parentOrganization": "株式会社ニチイ学館",
       "identifier": "1371906700",
       "_town": "赤塚",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -674,6 +698,7 @@
       "parentOrganization": "株式会社寿百",
       "identifier": "1371907021",
       "_town": "仲町",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -700,6 +725,7 @@
       "parentOrganization": "株式会社こねこのて",
       "identifier": "1371907575",
       "_town": "志村",
+      "_kind": "営利法人",
       "url": "http://www.hananomaru.net/",
       "_days": [
         "平日",
@@ -727,6 +753,7 @@
       "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
       "identifier": "1371907823",
       "_town": "本町",
+      "_kind": "営利法人",
       "url": "https://www.careritz.co.jp/station/branch/itabashi/",
       "_days": [
         "平日",
@@ -754,6 +781,7 @@
       "parentOrganization": "株式会社ソラスト",
       "identifier": "1371908110",
       "_town": "前野町",
+      "_kind": "営利法人",
       "url": "http://www.solasto.co.jp",
       "_days": [
         "平日",
@@ -781,6 +809,7 @@
       "parentOrganization": "株式会社のそら",
       "identifier": "1371908185",
       "_town": "上板橋",
+      "_kind": "営利法人",
       "url": "http://www.nosora.jp/",
       "_days": [
         "平日",
@@ -807,6 +836,7 @@
       "parentOrganization": "株式会社きらきらケアサービス",
       "identifier": "1371908292",
       "_town": "赤塚",
+      "_kind": "営利法人",
       "url": "http://kirakiracs.com",
       "_days": [
         "平日",
@@ -834,6 +864,7 @@
       "parentOrganization": "８７０株式会社",
       "identifier": "1371908649",
       "_town": "中板橋",
+      "_kind": "営利法人",
       "url": "https://www.870kaigo.com/",
       "_days": [
         "平日",
@@ -861,6 +892,7 @@
       "parentOrganization": "株式会社ケアセンス",
       "identifier": "1371908821",
       "_town": "蓮根",
+      "_kind": "営利法人",
       "_tags": [
         "蓮根エリア",
         "訪問介護"
@@ -880,6 +912,7 @@
       "parentOrganization": "花咲くホーム株式会社",
       "identifier": "1371909142",
       "_town": "板橋",
+      "_kind": "営利法人",
       "url": "http://hanasakuhappiness.jimdo.com/",
       "_days": [
         "平日",
@@ -907,6 +940,7 @@
       "parentOrganization": "医療法人社団明芳会",
       "identifier": "1371909449",
       "_town": "仲町",
+      "_kind": "医療法人",
       "url": "http://www.ims.gr.jp/clover/",
       "_days": [
         "平日",
@@ -934,6 +968,7 @@
       "parentOrganization": "株式会社ＢＣＳ",
       "identifier": "1371909621",
       "_town": "板橋",
+      "_kind": "営利法人",
       "_tags": [
         "板橋エリア",
         "訪問介護"
@@ -953,6 +988,7 @@
       "parentOrganization": "ケアゲート株式会社",
       "identifier": "1371909977",
       "_town": "徳丸",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -979,6 +1015,7 @@
       "parentOrganization": "東京海上日動ベターライフサービス株式会社",
       "identifier": "1371910272",
       "_town": "板橋",
+      "_kind": "営利法人",
       "url": "http://www.mizutama-kaigo.jp",
       "_days": [
         "平日",
@@ -1006,6 +1043,7 @@
       "parentOrganization": "株式会社ＥＧＡＯ",
       "identifier": "1371910645",
       "_town": "栄町",
+      "_kind": "営利法人",
       "_days": [
         "平日"
       ],
@@ -1028,6 +1066,7 @@
       "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
       "identifier": "1371910785",
       "_town": "小豆沢",
+      "_kind": "営利法人",
       "url": "https://www.careritz.co.jp/station/branch/azusawa/",
       "_days": [
         "平日",
@@ -1055,6 +1094,7 @@
       "parentOrganization": "株式会社エメラルドの郷",
       "identifier": "1371910835",
       "_town": "三園",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -1081,6 +1121,7 @@
       "parentOrganization": "医療法人知真会",
       "identifier": "1371910942",
       "_town": "小茂根",
+      "_kind": "医療法人",
       "url": "http://www.chishinkai-group.jp/",
       "_days": [
         "平日",
@@ -1108,6 +1149,7 @@
       "parentOrganization": "株式会社金太郎本舗",
       "identifier": "1371911122",
       "_town": "栄町",
+      "_kind": "営利法人",
       "_tags": [
         "栄町エリア",
         "訪問介護"
@@ -1127,6 +1169,7 @@
       "parentOrganization": "医療法人財団健康文化会",
       "identifier": "1371911478",
       "_town": "小豆沢",
+      "_kind": "医療法人",
       "_days": [
         "平日",
         "土曜日",
@@ -1153,6 +1196,7 @@
       "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
       "identifier": "1371911601",
       "_town": "蓮根",
+      "_kind": "営利法人",
       "url": "https://www.careritz.co.jp/station/branch/nishidai/",
       "_days": [
         "平日",
@@ -1180,6 +1224,7 @@
       "parentOrganization": "有限会社マルシモ",
       "identifier": "1371911700",
       "_town": "本町",
+      "_kind": "営利法人",
       "url": "https://www.marushimo.co.jp",
       "_days": [
         "平日",
@@ -1207,6 +1252,7 @@
       "parentOrganization": "株式会社豆の木",
       "identifier": "1371911817",
       "_town": "赤塚",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -1232,6 +1278,7 @@
       "parentOrganization": "株式会社やさしい手",
       "identifier": "1371911924",
       "_town": "西台",
+      "_kind": "営利法人",
       "url": "https://www.yasashiite.com/subdomains/section/783/",
       "_days": [
         "平日",
@@ -1259,6 +1306,7 @@
       "parentOrganization": "株式会社はっぴいす",
       "identifier": "1371911965",
       "_town": "徳丸",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -1285,6 +1333,7 @@
       "parentOrganization": "株式会社サンウェルズ",
       "identifier": "1371912054",
       "_town": "三園",
+      "_kind": "営利法人",
       "url": "http://sunwels.jp/",
       "_days": [
         "平日",
@@ -1312,6 +1361,7 @@
       "parentOrganization": "合同会社和佳",
       "identifier": "1371912104",
       "_town": "仲町",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -1338,6 +1388,7 @@
       "parentOrganization": "合同会社みかん",
       "identifier": "1371912161",
       "_town": "徳丸",
+      "_kind": "営利法人",
       "url": "https://houmonkaigo-mikan.jp/",
       "_days": [
         "平日",
@@ -1365,6 +1416,7 @@
       "parentOrganization": "株式会社ＨＲＰ",
       "identifier": "1371912328",
       "_town": "上板橋",
+      "_kind": "営利法人",
       "url": "https://hr-p.biz/",
       "_days": [
         "平日",
@@ -1392,6 +1444,7 @@
       "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
       "identifier": "1371912351",
       "_town": "高島平",
+      "_kind": "営利法人",
       "url": "https://www.careritz.co.jp/station/branch/takashimadairaminami/",
       "_days": [
         "平日",
@@ -1419,6 +1472,7 @@
       "parentOrganization": "株式会社ＴＲｉｐ",
       "identifier": "1371912393",
       "_town": "板橋",
+      "_kind": "営利法人",
       "_days": [
         "平日"
       ],
@@ -1441,6 +1495,7 @@
       "parentOrganization": "株式会社アプト",
       "identifier": "1371912518",
       "_town": "南町",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -1467,6 +1522,7 @@
       "parentOrganization": "株式会社アンビス",
       "identifier": "1371912575",
       "_town": "上板橋",
+      "_kind": "営利法人",
       "_tags": [
         "上板橋エリア",
         "訪問介護"
@@ -1486,6 +1542,7 @@
       "parentOrganization": "株式会社ベストデイエンタープライズ",
       "identifier": "1371912658",
       "_town": "坂下",
+      "_kind": "営利法人",
       "url": "https://bestday.co.jp/",
       "_tags": [
         "坂下エリア",
@@ -1506,6 +1563,7 @@
       "parentOrganization": "合同会社Ｊ．ｃｏｎｎｅｃｔ",
       "identifier": "1371912690",
       "_town": "板橋",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -1532,6 +1590,7 @@
       "parentOrganization": "株式会社メディホス",
       "identifier": "1371912831",
       "_town": "前野町",
+      "_kind": "営利法人",
       "_tags": [
         "前野町エリア",
         "訪問介護"
@@ -1551,6 +1610,7 @@
       "parentOrganization": "合同会社はるかぜ",
       "identifier": "1371912880",
       "_town": "高島平",
+      "_kind": "営利法人",
       "_tags": [
         "高島平エリア",
         "訪問介護"

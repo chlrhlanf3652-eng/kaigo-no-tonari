@@ -40,6 +40,7 @@
       "parentOrganization": "有限会社　渡瀬",
       "identifier": "1370500058",
       "_town": "本駒込",
+      "_kind": "営利法人",
       "url": "http://www.watase-kaigo.jp",
       "_days": [
         "平日",
@@ -67,6 +68,7 @@
       "parentOrganization": "株式会社ケアワーク弥生",
       "identifier": "1370500108",
       "_town": "弥生",
+      "_kind": "営利法人",
       "url": "http://www.carework.co.jp",
       "_days": [
         "平日",
@@ -94,6 +96,7 @@
       "parentOrganization": "東京保健生活協同組合",
       "identifier": "1370500264",
       "_town": "大塚",
+      "_kind": "生協",
       "url": "http://www.thoken.or.jp",
       "_days": [
         "平日",
@@ -121,6 +124,7 @@
       "parentOrganization": "有限会社あゆみ介護文京",
       "identifier": "1370500272",
       "_town": "千駄木",
+      "_kind": "営利法人",
       "_days": [
         "平日"
       ],
@@ -143,6 +147,7 @@
       "parentOrganization": "株式会社ニチイ学館",
       "identifier": "1370500280",
       "_town": "春日",
+      "_kind": "営利法人",
       "url": "http://www.nichiigakkan.co.jp",
       "_days": [
         "平日",
@@ -170,6 +175,7 @@
       "parentOrganization": "有限会社老松ケアサービス",
       "identifier": "1370500306",
       "_town": "大塚",
+      "_kind": "営利法人",
       "url": "http://www.oimatsu-care.jp",
       "_days": [
         "平日",
@@ -197,6 +203,7 @@
       "parentOrganization": "有限会社　加藤介護サービス",
       "identifier": "1370500355",
       "_town": "本駒込",
+      "_kind": "営利法人",
       "url": "http://katocareservice.co.jp/index.html",
       "_days": [
         "平日",
@@ -224,6 +231,7 @@
       "parentOrganization": "有限会社アドワンス",
       "identifier": "1370500637",
       "_town": "千駄木",
+      "_kind": "営利法人",
       "url": "http://www.adonce.net/",
       "_days": [
         "平日",
@@ -251,6 +259,7 @@
       "parentOrganization": "有限会社　カインド　ケア",
       "identifier": "1370501023",
       "_town": "湯島",
+      "_kind": "営利法人",
       "url": "https://www.kindcare.co.jp",
       "_days": [
         "平日",
@@ -278,6 +287,7 @@
       "parentOrganization": "株式会社けせら",
       "identifier": "1370501114",
       "_town": "本郷",
+      "_kind": "営利法人",
       "url": "https://www.houkankesera.net",
       "_days": [
         "平日",
@@ -304,6 +314,7 @@
       "parentOrganization": "佐々木ケアサービス株式会社",
       "identifier": "1370501353",
       "_town": "千駄木",
+      "_kind": "営利法人",
       "url": "http://www.magonote.com/",
       "_days": [
         "平日",
@@ -331,6 +342,7 @@
       "parentOrganization": "有限会社　リンデンケア",
       "identifier": "1370501379",
       "_town": "小石川",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -357,6 +369,7 @@
       "parentOrganization": "株式会社ふくしあ",
       "identifier": "1370501619",
       "_town": "千駄木",
+      "_kind": "営利法人",
       "_days": [
         "平日"
       ],
@@ -379,6 +392,7 @@
       "parentOrganization": "特定非営利活動法人スタジオアイエル文京",
       "identifier": "1370501890",
       "_town": "本駒込",
+      "_kind": "非営利法人（NPO）",
       "url": "https://ilbunkyo.jimdo.com/",
       "_days": [
         "平日"
@@ -402,6 +416,7 @@
       "parentOrganization": "株式会社ケアワーク弥生",
       "identifier": "1370502401",
       "_town": "千駄木",
+      "_kind": "営利法人",
       "url": "http://www.carework.co.jp",
       "_days": [
         "平日",
@@ -429,6 +444,7 @@
       "parentOrganization": "株式会社グッドライフケア",
       "identifier": "1370502807",
       "_town": "小石川",
+      "_kind": "営利法人",
       "url": "https://goodlifecare.co.jp/",
       "_tags": [
         "小石川エリア",
@@ -449,6 +465,7 @@
       "parentOrganization": "株式会社ＦＩＴ西片",
       "identifier": "1370502823",
       "_town": "白山",
+      "_kind": "営利法人",
       "url": "http://fit-kaigo.com",
       "_days": [
         "平日",
@@ -476,6 +493,7 @@
       "parentOrganization": "エイチアイケーサービス合同会社",
       "identifier": "1370503235",
       "_town": "小石川",
+      "_kind": "営利法人",
       "url": "https://pika1care.co.jp/",
       "_days": [
         "平日",
@@ -502,6 +520,7 @@
       "parentOrganization": "株式会社拓",
       "identifier": "1370503243",
       "_town": "本郷",
+      "_kind": "営利法人",
       "url": "https://www.cuore-hiraku.jp",
       "_days": [
         "平日",
@@ -529,6 +548,7 @@
       "parentOrganization": "ＳＯＭＰＯケア株式会社",
       "identifier": "1370503359",
       "_town": "小日向",
+      "_kind": "営利法人",
       "url": "https://www.sompocare.com",
       "_days": [
         "平日",
@@ -556,6 +576,7 @@
       "parentOrganization": "株式会社Ｓｏｕｒａ",
       "identifier": "1370503524",
       "_town": "千駄木",
+      "_kind": "営利法人",
       "url": "https://www.soura.co.jp/",
       "_days": [
         "平日",
@@ -583,6 +604,7 @@
       "parentOrganization": "合同会社Ｆ＆Ｋ",
       "identifier": "1370503565",
       "_town": "千石",
+      "_kind": "営利法人",
       "url": "https://omusubi.online",
       "_days": [
         "平日",
@@ -610,6 +632,7 @@
       "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
       "identifier": "1370503672",
       "_town": "白山",
+      "_kind": "営利法人",
       "url": "https://www.careritz.co.jp/station/branch/hakusan/",
       "_days": [
         "平日",
@@ -637,6 +660,7 @@
       "parentOrganization": "巴電気通信株式会社",
       "identifier": "1370503698",
       "_town": "小石川",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日"
@@ -661,6 +685,7 @@
       "parentOrganization": "株式会社インテンド",
       "identifier": "1370503706",
       "_town": "湯島",
+      "_kind": "営利法人",
       "url": "https://kango-rihabiristation.com",
       "_days": [
         "平日",
@@ -688,6 +713,7 @@
       "parentOrganization": "クードシュバル株式会社",
       "identifier": "1370503748",
       "_town": "本郷",
+      "_kind": "営利法人",
       "url": "https://melissacare.com/",
       "_tags": [
         "本郷エリア",
@@ -708,6 +734,7 @@
       "parentOrganization": "株式会社ケア２１",
       "identifier": "1370503755",
       "_town": "向丘",
+      "_kind": "営利法人",
       "url": "https://www.care21.co.jp/",
       "_days": [
         "平日",
@@ -735,6 +762,7 @@
       "parentOrganization": "ｋｕｋｏｒ株式会社",
       "identifier": "1370503763",
       "_town": "大塚",
+      "_kind": "営利法人",
       "_tags": [
         "大塚エリア",
         "訪問介護"
@@ -754,6 +782,7 @@
       "parentOrganization": "ＡＬＳＯＫ介護株式会社",
       "identifier": "1370503805",
       "_town": "白山",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -780,6 +809,7 @@
       "parentOrganization": "株式会社快活快護",
       "identifier": "1370503821",
       "_town": "本郷",
+      "_kind": "営利法人",
       "url": "https://www.kaikei-home.com/shimmuraktax/",
       "_days": [
         "平日",
@@ -807,6 +837,7 @@
       "parentOrganization": "株式会社パワーエール",
       "identifier": "1370503839",
       "_town": "白山",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日"
@@ -831,6 +862,7 @@
       "parentOrganization": "一般社団法人ＹＯＲＩＳＯＩＮＥＴ",
       "identifier": "1370503920",
       "_town": "後楽",
+      "_kind": "社団・財団",
       "url": "https://yorisoinet.jp",
       "_days": [
         "平日",
@@ -857,6 +889,7 @@
       "parentOrganization": "合同会社リアン",
       "identifier": "1370504068",
       "_town": "本郷",
+      "_kind": "営利法人",
       "_tags": [
         "本郷エリア",
         "訪問介護"

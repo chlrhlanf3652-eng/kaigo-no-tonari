@@ -40,6 +40,7 @@
       "parentOrganization": "株式会社アイメック",
       "identifier": "1367195779",
       "_town": "東尾久",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -65,6 +66,7 @@
       "parentOrganization": "ベストリハ株式会社",
       "identifier": "1370202465",
       "_town": "南千住",
+      "_kind": "営利法人",
       "url": "https://bestreha.com/",
       "_days": [
         "平日",
@@ -92,6 +94,7 @@
       "parentOrganization": "トラム株式会社",
       "identifier": "1370602185",
       "_town": "町屋",
+      "_kind": "営利法人",
       "_tags": [
         "町屋エリア",
         "訪問介護"
@@ -111,6 +114,7 @@
       "parentOrganization": "カスミ有限会社",
       "identifier": "1371602325",
       "_town": "東日暮里",
+      "_kind": "営利法人",
       "_tags": [
         "東日暮里エリア",
         "訪問介護"
@@ -130,6 +134,7 @@
       "parentOrganization": "株式会社Ｂｌｕｅｓｈａｃｋ",
       "identifier": "1371707835",
       "_town": "東尾久",
+      "_kind": "営利法人",
       "url": "https://www.blueshack-1203.net",
       "_days": [
         "平日"
@@ -153,6 +158,7 @@
       "parentOrganization": "株式会社大起エンゼルヘルプ",
       "identifier": "1371800200",
       "_town": "町屋",
+      "_kind": "営利法人",
       "url": "http://www.enzeru.co.jp/",
       "_days": [
         "平日",
@@ -180,6 +186,7 @@
       "parentOrganization": "有限会社ケアサービス大和田",
       "identifier": "1371800234",
       "_town": "南千住",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -206,6 +213,7 @@
       "parentOrganization": "株式会社ニチイ学館",
       "identifier": "1371800424",
       "_town": "西日暮里",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -232,6 +240,7 @@
       "parentOrganization": "有限会社ビーブル介護サービス",
       "identifier": "1371800713",
       "_town": "東尾久",
+      "_kind": "営利法人",
       "url": "https://peraichi.com/landing_pages/view/vivrekaigo",
       "_days": [
         "平日",
@@ -259,6 +268,7 @@
       "parentOrganization": "有限会社宮本ケアステーション",
       "identifier": "1371800853",
       "_town": "町屋",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -285,6 +295,7 @@
       "parentOrganization": "特定非営利活動法人東京ケアネットワーク",
       "identifier": "1371800861",
       "_town": "西日暮里",
+      "_kind": "非営利法人（NPO）",
       "url": "http://care-net.biz/13/kadokoro/",
       "_days": [
         "平日",
@@ -312,6 +323,7 @@
       "parentOrganization": "有限会社　丸藤商事",
       "identifier": "1371800929",
       "_town": "南千住",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "祝日"
@@ -335,6 +347,7 @@
       "parentOrganization": "株式会社やさしい手",
       "identifier": "1371800952",
       "_town": "東日暮里",
+      "_kind": "営利法人",
       "url": "http://www.yasashiite.com/",
       "_days": [
         "平日",
@@ -362,6 +375,7 @@
       "parentOrganization": "有限会社アイ・エム・サポート",
       "identifier": "1371801166",
       "_town": "町屋",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -388,6 +402,7 @@
       "parentOrganization": "株式会社介護ユーアイ",
       "identifier": "1371801182",
       "_town": "西尾久",
+      "_kind": "営利法人",
       "url": "http://kaigo-ui.co.jp/index.html",
       "_days": [
         "平日",
@@ -415,6 +430,7 @@
       "parentOrganization": "有限会社中田",
       "identifier": "1371801232",
       "_town": "荒川",
+      "_kind": "営利法人",
       "url": "https://ss-group9.wixsite.com/siawase",
       "_days": [
         "平日",
@@ -442,6 +458,7 @@
       "parentOrganization": "株式会社千代田サービスセンター",
       "identifier": "1371801265",
       "_town": "西日暮里",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -468,6 +485,7 @@
       "parentOrganization": "特定非営利活動法人荒川ケアサポートひだまり",
       "identifier": "1371801364",
       "_town": "荒川",
+      "_kind": "非営利法人（NPO）",
       "url": "https://arakawa-hidamari.jimdofree.com",
       "_days": [
         "平日",
@@ -495,6 +513,7 @@
       "parentOrganization": "有限会社さくら介護サービス",
       "identifier": "1371801620",
       "_town": "町屋",
+      "_kind": "営利法人",
       "url": "http://www.sakura-kaigo.co.jp",
       "_days": [
         "平日",
@@ -522,6 +541,7 @@
       "parentOrganization": "ミレサポート有限会社",
       "identifier": "1371801695",
       "_town": "東日暮里",
+      "_kind": "営利法人",
       "url": "https://www.mire-support.co.jp",
       "_days": [
         "平日",
@@ -549,6 +569,7 @@
       "parentOrganization": "有限会社おもいやり",
       "identifier": "1371801760",
       "_town": "荒川",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -574,6 +595,7 @@
       "parentOrganization": "株式会社ダイユウケアシステム",
       "identifier": "1371801778",
       "_town": "荒川",
+      "_kind": "営利法人",
       "url": "http://www.jyohokukaigo.com",
       "_days": [
         "平日",
@@ -601,6 +623,7 @@
       "parentOrganization": "株式会社エムティーエム",
       "identifier": "1371801950",
       "_town": "西尾久",
+      "_kind": "営利法人",
       "url": "http://www.care-momotarou.jp",
       "_days": [
         "平日",
@@ -628,6 +651,7 @@
       "parentOrganization": "株式会社リエイケア",
       "identifier": "1371802784",
       "_town": "南千住",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -654,6 +678,7 @@
       "parentOrganization": "株式会社ホームライク",
       "identifier": "1371802818",
       "_town": "西日暮里",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -680,6 +705,7 @@
       "parentOrganization": "株式会社愛総合福祉",
       "identifier": "1371802875",
       "_town": "東日暮里",
+      "_kind": "営利法人",
       "url": "https://i-sogofukushi.com/",
       "_days": [
         "平日",
@@ -707,6 +733,7 @@
       "parentOrganization": "ケア・プランニング株式会社",
       "identifier": "1371802982",
       "_town": "西日暮里",
+      "_kind": "営利法人",
       "url": "http://www.best-kaigo.com",
       "_days": [
         "平日",
@@ -734,6 +761,7 @@
       "parentOrganization": "株式会社シーキューブ",
       "identifier": "1371803295",
       "_town": "東尾久",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -760,6 +788,7 @@
       "parentOrganization": "藤木金物株式会社",
       "identifier": "1371803360",
       "_town": "荒川",
+      "_kind": "営利法人",
       "_days": [
         "平日"
       ],
@@ -782,6 +811,7 @@
       "parentOrganization": "株式会社みやび",
       "identifier": "1371803469",
       "_town": "東日暮里",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -807,6 +837,7 @@
       "parentOrganization": "株式会社照",
       "identifier": "1371803782",
       "_town": "町屋",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -833,6 +864,7 @@
       "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
       "identifier": "1371803816",
       "_town": "西日暮里",
+      "_kind": "営利法人",
       "url": "https://www.careritz.co.jp/station/branch/arakawa/",
       "_days": [
         "平日",
@@ -860,6 +892,7 @@
       "parentOrganization": "虹ケアサポートセンター合同会社",
       "identifier": "1371803881",
       "_town": "町屋",
+      "_kind": "営利法人",
       "_tags": [
         "町屋エリア",
         "訪問介護"
@@ -879,6 +912,7 @@
       "parentOrganization": "合資会社ケア本舗",
       "identifier": "1371804012",
       "_town": "西尾久",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -905,6 +939,7 @@
       "parentOrganization": "合同会社昴",
       "identifier": "1371804038",
       "_town": "南千住",
+      "_kind": "営利法人",
       "url": "https://www.kaigosubaru.com/",
       "_days": [
         "平日",
@@ -929,6 +964,7 @@
       "parentOrganization": "エンジェルサポート株式会社",
       "identifier": "1371804111",
       "_town": "町屋",
+      "_kind": "営利法人",
       "url": "http://care-support-angel.com/",
       "_days": [
         "平日"
@@ -952,6 +988,7 @@
       "parentOrganization": "合同会社アイリスケアサービス",
       "identifier": "1371804202",
       "_town": "町屋",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -978,6 +1015,7 @@
       "parentOrganization": "ＳＯＭＰＯケア株式会社",
       "identifier": "1371804350",
       "_town": "東尾久",
+      "_kind": "営利法人",
       "url": "https://www.sompocare.com/service/zaitaku/kaigo/Z000055",
       "_days": [
         "平日",
@@ -1005,6 +1043,7 @@
       "parentOrganization": "ｏｎｅ’ｓ　ｈｅａｒｔ株式会社",
       "identifier": "1371804418",
       "_town": "南千住",
+      "_kind": "営利法人",
       "url": "https://onesheart.fun/",
       "_days": [
         "平日",
@@ -1032,6 +1071,7 @@
       "parentOrganization": "株式会社ＦＯＲＺＡ",
       "identifier": "1371804459",
       "_town": "東日暮里",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -1058,6 +1098,7 @@
       "parentOrganization": "株式会社ニチイ学館",
       "identifier": "1371804517",
       "_town": "西尾久",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -1084,6 +1125,7 @@
       "parentOrganization": "合同会社天の川",
       "identifier": "1371804582",
       "_town": "荒川",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -1109,6 +1151,7 @@
       "parentOrganization": "株式会社愛総合福祉",
       "identifier": "1371804608",
       "_town": "西尾久",
+      "_kind": "営利法人",
       "url": "https://i-sogofukushi.com/",
       "_days": [
         "平日",
@@ -1136,6 +1179,7 @@
       "parentOrganization": "株式会社１．ｌｉｆｅ",
       "identifier": "1371804616",
       "_town": "西尾久",
+      "_kind": "営利法人",
       "url": "https://1life-tt.co.jp/",
       "_tags": [
         "西尾久エリア",
@@ -1156,6 +1200,7 @@
       "parentOrganization": "株式会社夢路商事",
       "identifier": "1371804673",
       "_town": "西尾久",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -1182,6 +1227,7 @@
       "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
       "identifier": "1371804681",
       "_town": "町屋",
+      "_kind": "営利法人",
       "url": "https://www.careritz.co.jp/station/branch/machiya/",
       "_days": [
         "平日",
@@ -1209,6 +1255,7 @@
       "parentOrganization": "株式会社ケア２１",
       "identifier": "1371804749",
       "_town": "南千住",
+      "_kind": "営利法人",
       "url": "https://www.care21.co.jp/",
       "_days": [
         "平日",
@@ -1236,6 +1283,7 @@
       "parentOrganization": "株式会社幸健",
       "identifier": "1371804806",
       "_town": "東尾久",
+      "_kind": "営利法人",
       "url": "https://www.kouken-yuahoumonkaigo.com/",
       "_days": [
         "平日",
@@ -1263,6 +1311,7 @@
       "parentOrganization": "ファミリー・ホスピス株式会社",
       "identifier": "1371804848",
       "_town": "荒川",
+      "_kind": "営利法人",
       "url": "http://family-hospice.co.jp",
       "_days": [
         "平日",
@@ -1290,6 +1339,7 @@
       "parentOrganization": "株式会社健",
       "identifier": "1371804855",
       "_town": "南千住",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -1316,6 +1366,7 @@
       "parentOrganization": "株式会社ひまわり",
       "identifier": "1371804988",
       "_town": "西日暮里",
+      "_kind": "営利法人",
       "_tags": [
         "西日暮里エリア",
         "訪問介護"
@@ -1335,6 +1386,7 @@
       "parentOrganization": "ＮＰＯ法人とらいぶコミュニティ",
       "identifier": "1371804996",
       "_town": "東尾久",
+      "_kind": "非営利法人（NPO）",
       "url": "http://www.trb-nqo323.com",
       "_days": [
         "平日",
@@ -1362,6 +1414,7 @@
       "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
       "identifier": "1371805027",
       "_town": "南千住",
+      "_kind": "営利法人",
       "url": "https://www.careritz.co.jp/station/branch/minamisenju/",
       "_days": [
         "平日",
@@ -1389,6 +1442,7 @@
       "parentOrganization": "株式会社江東ライフケア",
       "identifier": "1371805043",
       "_town": "荒川",
+      "_kind": "営利法人",
       "_tags": [
         "荒川エリア",
         "訪問介護"

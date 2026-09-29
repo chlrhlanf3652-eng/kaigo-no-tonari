@@ -117,6 +117,16 @@ details[open] summary{border-bottom:1px solid var(--line)}
 .lg.tight small{font-size:12px}
 /* 23区×サービスの表。区名が縦に割れないようにする */
 .tw th.nw,.tw td.nw{white-space:nowrap}
+/* 事業所一覧の絞り込み。JSが有効なときだけ表示される */
+.flt{position:sticky;top:0;z-index:15;background:#fff;border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin:12px 0 16px;box-shadow:0 2px 8px rgba(0,0,0,.06)}
+.flt-row{display:flex;gap:8px}
+.flt select{flex:1 1 0;min-width:0;min-height:44px;font-size:14px;padding:0 4px;border:1px solid var(--line);border-radius:8px;background:#fff;color:var(--ink)}
+.flt-n{margin:8px 0 0;font-size:14px;display:flex;align-items:center;justify-content:space-between;gap:10px}
+.flt-n b{font-size:18px;color:var(--c)}
+.flt-n button{min-height:36px;padding:0 12px;border:1px solid var(--line);border-radius:8px;background:#fff;font-size:13px;cursor:pointer;color:var(--ink)}
+.flt-note{font-size:12.5px;color:var(--ink2);margin:6px 0 0;line-height:1.6}
+.flt-empty{font-size:14px;color:var(--ink2);padding:20px 16px;border:1px dashed var(--line);border-radius:8px;text-align:center}
+.flt[hidden],.flt [hidden],.bizlist [hidden]{display:none!important}
 /* sources */
 .src{background:var(--bg);border-radius:var(--r);padding:16px 20px;font-size:13.5px;color:var(--ink2);margin:30px 0 0}
 .src ul{margin:6px 0 0;padding-left:1.2em}
@@ -255,3 +265,8 @@ a.ext{color:var(--c);text-decoration:none;border-bottom:1px solid var(--c-l);wor
 a.ext:hover{border-bottom-color:var(--c)}
 .exti{font-size:11px;margin-left:3px;vertical-align:1px}
 .sr{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0}
+
+/* 148行目以降に基本ルールが重複して書かれていて（初期公開時から）、48行目の
+   スマホ用 @media を打ち消していた。そのためスマホでも2カラムのままになり、
+   画面幅375pxでページ幅が912pxになっていた。ファイルの最後で効かせ直す。 */
+@media(max-width:940px){.cols{grid-template-columns:minmax(0,1fr);gap:24px}}

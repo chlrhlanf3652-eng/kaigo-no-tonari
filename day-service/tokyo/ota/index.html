@@ -1533,305 +1533,318 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 
     <h2 id="s2">大田区のデイサービス一覧</h2>
         <p class="cnt">大田区内の通所介護事業所から60件を掲載しています（東京都公表・2026年9月1日時点）。区内には83件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。定員18人以下の地域密着型通所介護は区が指定するため、この一覧には含まれていません。掲載順は事業所の優劣を示すものではありません。</p>
-    <div class="card">
+    <div id="flt-top"></div>
+    <div class="flt" id="flt" hidden>
+      <div class="flt-row">
+        <select data-f="town" aria-label="場所で絞り込む"><option value="">場所</option><option value="上池台">上池台（4）</option><option value="矢口">矢口（4）</option><option value="下丸子">下丸子（3）</option><option value="山王">山王（3）</option><option value="本羽田">本羽田（3）</option><option value="蒲田">蒲田（3）</option><option value="西糀谷">西糀谷（3）</option><option value="久が原">久が原（2）</option><option value="仲六郷">仲六郷（2）</option><option value="千鳥">千鳥（2）</option><option value="南六郷">南六郷（2）</option><option value="南千束">南千束（2）</option><option value="南蒲田">南蒲田（2）</option><option value="南馬込">南馬込（2）</option><option value="大森北">大森北（2）</option><option value="大森西">大森西（2）</option><option value="東六郷">東六郷（2）</option><option value="池上">池上（2）</option><option value="西六郷">西六郷（2）</option><option value="鵜の木">鵜の木（2）</option><option value="中央">中央（1）</option><option value="中馬込">中馬込（1）</option><option value="北糀谷">北糀谷（1）</option><option value="南雪谷">南雪谷（1）</option><option value="大森中">大森中（1）</option><option value="東矢口">東矢口（1）</option><option value="田園調布本町">田園調布本町（1）</option><option value="石川町">石川町（1）</option><option value="羽田">羽田（1）</option><option value="萩中">萩中（1）</option><option value="西蒲田">西蒲田（1）</option></select>
+        <select data-f="day" aria-label="曜日で絞り込む"><option value="">曜日</option><option value="sat">土曜も対応（55）</option><option value="sun">日曜も対応（7）</option></select>
+        <select data-f="kind" aria-label="法人で絞り込む"><option value="">法人</option><option value="営利法人">営利法人（48）</option><option value="社会福祉法人（社協以外）">社会福祉法人（社協以外）（9）</option><option value="医療法人">医療法人（3）</option></select>
+      </div>
+      <p class="flt-n" aria-live="polite"><span><b id="flt-n">60</b> / 60件を表示</span><button type="button" id="flt-reset" hidden>条件をクリア</button></p>
+    </div>
+      <p class="flt-note" id="flt-daynote" hidden>提供曜日の記載がない2件は、曜日で絞ると表示されません。</p>
+    <div class="bizlist">
+    <div class="card" data-town="大森西" data-day="sat" data-kind="営利法人">
       <h3><span class="no">1</span>株式会社ケアサービス　デイサービスセンター大森西</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 大森西２－２－２９</dd><dt>運営法人</dt><dd>株式会社ケアサービス</dd><dt>電話</dt><dd><a class="tel" href="tel:0357677753">03-5767-7753</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>定員</dt><dd>39</dd><dt>事業所番号</dt><dd class="id">1370901348</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.care.co.jp/office/ds_oomorinishi" target="_blank" rel="noopener">care.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">大森西エリア</span><span class="tag">土曜日も営業</span><span class="tag">20年以上</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上池台" data-day="sat" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">2</span>好日苑デイサービスセンター</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 上池台５－７－１</dd><dt>運営法人</dt><dd>社会福祉法人響会</dd><dt>電話</dt><dd><a class="tel" href="tel:0337486135">03-3748-6135</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>定員</dt><dd>40</dd><dt>事業所番号</dt><dd class="id">1371100858</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.hibikikai-tokyo.or.jp" target="_blank" rel="noopener">hibikikai-tokyo.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">上池台エリア</span><span class="tag">土曜日も営業</span><span class="tag">20年以上</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="矢口" data-day="sat" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">3</span>高齢者在宅サービスセンターやぐち南</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 矢口１－２３－１２</dd><dt>運営法人</dt><dd>社会福祉法人白陽会</dd><dt>電話</dt><dd><a class="tel" href="tel:0357413322">03-5741-3322</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>定員</dt><dd>25</dd><dt>事業所番号</dt><dd class="id">1371101336</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.hakuyokai.org/" target="_blank" rel="noopener">hakuyokai.org<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">矢口エリア</span><span class="tag">土曜日も営業</span><span class="tag">20年以上</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上池台" data-day="sat" data-kind="営利法人">
       <h3><span class="no">4</span>株式会社ケアサービス　デイサービスセンター上池台</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 上池台３－４３－５</dd><dt>運営法人</dt><dd>株式会社ケアサービス</dd><dt>電話</dt><dd><a class="tel" href="tel:0357545575">03-5754-5575</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>定員</dt><dd>40</dd><dt>事業所番号</dt><dd class="id">1371101948</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.care.co.jp/" target="_blank" rel="noopener">care.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">上池台エリア</span><span class="tag">土曜日も営業</span><span class="tag">20年以上</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="大森北" data-day="sat" data-kind="営利法人">
       <h3><span class="no">5</span>通所介護　すずなり平和島</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 大森北３－１８－７ル・フラン大森１階</dd><dt>運営法人</dt><dd>株式会社すずなり</dd><dt>電話</dt><dd><a class="tel" href="tel:0357532121">03-5753-2121</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>定員</dt><dd>45</dd><dt>事業所番号</dt><dd class="id">1371102094</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.suzu-care.jp/search/tenpo_heiwazima.html" target="_blank" rel="noopener">suzu-care.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">大森北エリア</span><span class="tag">土曜日も営業</span><span class="tag">20年以上</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東六郷" data-day="sat" data-kind="営利法人">
       <h3><span class="no">6</span>株式会社ケアサービス　デイサービスセンター七辻</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 東六郷１－１６－２セブンクロスビル１F</dd><dt>運営法人</dt><dd>株式会社ケアサービス</dd><dt>電話</dt><dd><a class="tel" href="tel:0337370171">03-3737-0171</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371102300</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.care.co.jp/" target="_blank" rel="noopener">care.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東六郷エリア</span><span class="tag">土曜日も営業</span><span class="tag">20年以上</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西六郷" data-day="sat" data-kind="営利法人">
       <h3><span class="no">7</span>株式会社ケアサービス　デイサービスセンター西六郷</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 西六郷１－４８－１５</dd><dt>運営法人</dt><dd>株式会社ケアサービス</dd><dt>電話</dt><dd><a class="tel" href="tel:0357107520">03-5710-7520</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371102854</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.care.co.jp/" target="_blank" rel="noopener">care.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西六郷エリア</span><span class="tag">土曜日も営業</span><span class="tag">20年以上</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="山王" data-kind="医療法人">
       <h3><span class="no">8</span>医療法人社団　涓泉会　山王リハビリステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 山王３－４５－３山王ヒルズ１階</dd><dt>運営法人</dt><dd>医療法人社団涓泉会</dd><dt>電話</dt><dd><a class="tel" href="tel:0337725122">03-3772-5122</a></dd><dt>サービス提供日</dt><dd>平日・祝日</dd><dt>事業所番号</dt><dd class="id">1371102987</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.sanno-rc.com" target="_blank" rel="noopener">sanno-rc.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">山王エリア</span><span class="tag">20年以上</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="矢口" data-day="sat" data-kind="営利法人">
       <h3><span class="no">9</span>デイサービスセンター　友の里下丸子</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 矢口１－２９－１１</dd><dt>運営法人</dt><dd>株式会社ティーシーエス</dd><dt>電話</dt><dd><a class="tel" href="tel:0357413635">03-5741-3635</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371103589</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.total-care-servise.co.jp/" target="_blank" rel="noopener">total-care-servise.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">矢口エリア</span><span class="tag">土曜日も営業</span><span class="tag">20年以上</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東六郷" data-day="sat" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">10</span>大田翔裕園</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 東六郷１－１２－１２</dd><dt>運営法人</dt><dd>社会福祉法人長寿村</dd><dt>電話</dt><dd><a class="tel" href="tel:0337361213">03-3736-1213</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371103746</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.chojumura.or.jp" target="_blank" rel="noopener">chojumura.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東六郷エリア</span><span class="tag">土曜日も営業</span><span class="tag">20年以上</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="本羽田" data-day="sat" data-kind="営利法人">
       <h3><span class="no">11</span>アクセス・ケアセンター</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 本羽田２－１６－２３</dd><dt>運営法人</dt><dd>株式会社アクセス</dd><dt>電話</dt><dd><a class="tel" href="tel:0357355536">03-5735-5536</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>定員</dt><dd>35</dd><dt>事業所番号</dt><dd class="id">1371103761</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.access-care.co.jp/" target="_blank" rel="noopener">access-care.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">本羽田エリア</span><span class="tag">土曜日も営業</span><span class="tag">20年以上</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="北糀谷" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">12</span>デイサービスセンター友の里　北糀谷</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 北糀谷１－８－１１</dd><dt>運営法人</dt><dd>株式会社ティーシーエス</dd><dt>電話</dt><dd><a class="tel" href="tel:0357352557">03-5735-2557</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371104025</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.total-care-servise.co.jp/" target="_blank" rel="noopener">total-care-servise.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">北糀谷エリア</span><span class="tag">日曜日も営業</span><span class="tag">20年以上</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="矢口" data-day="sat" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">13</span>デイサービスセンターいずみえん</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 矢口３－１－５</dd><dt>運営法人</dt><dd>社会福祉法人徳心会</dd><dt>電話</dt><dd><a class="tel" href="tel:0337595550">03-3759-5550</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>定員</dt><dd>30</dd><dt>事業所番号</dt><dd class="id">1371104165</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.tokushinkai.jp" target="_blank" rel="noopener">tokushinkai.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">矢口エリア</span><span class="tag">土曜日も営業</span><span class="tag">20年以上</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南雪谷" data-day="sat" data-kind="営利法人">
       <h3><span class="no">14</span>デイサービス　春</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 南雪谷一丁目１７番１１号</dd><dt>運営法人</dt><dd>有限会社藤城エンタープライズ</dd><dt>電話</dt><dd><a class="tel" href="tel:0364253672">03-6425-3672</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>定員</dt><dd>25</dd><dt>事業所番号</dt><dd class="id">1371104249</dd><dt>公式サイト</dt><dd><a class="ext" href="http://hp.kaipoke.biz/hc5/63416/base_0004.html" target="_blank" rel="noopener">hp.kaipoke.biz<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">南雪谷エリア</span><span class="tag">土曜日も営業</span><span class="tag">20年以上</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南千束" data-day="sat" data-kind="営利法人">
       <h3><span class="no">15</span>正和クラブ千束</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 南千束１－７－１４</dd><dt>運営法人</dt><dd>正和ライフサービス株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0364252556">03-6425-2556</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371104579</dd><dt>公式サイト</dt><dd><a class="ext" href="http://seiwaclub.com/" target="_blank" rel="noopener">seiwaclub.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">南千束エリア</span><span class="tag">土曜日も営業</span><span class="tag">20年以上</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="久が原" data-day="sat" data-kind="営利法人">
       <h3><span class="no">16</span>スマイルケア</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 久が原１－４－３　小川マンション１階</dd><dt>運営法人</dt><dd>有限会社スマイルケア</dd><dt>電話</dt><dd><a class="tel" href="tel:0357471165">03-5747-1165</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>定員</dt><dd>30</dd><dt>事業所番号</dt><dd class="id">1371105220</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.smile1165.jp" target="_blank" rel="noopener">smile1165.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">久が原エリア</span><span class="tag">土曜日も営業</span><span class="tag">20年以上</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="蒲田" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">17</span>パナソニック　エイジフリーケアセンター蒲田・デイサービス</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 蒲田１－２９－５　エーワンハイム１Ｆ</dd><dt>運営法人</dt><dd>パナソニックエイジフリー株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0337392275">03-3739-2275</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>定員</dt><dd>30</dd><dt>事業所番号</dt><dd class="id">1371105980</dd><dt>公式サイト</dt><dd><a class="ext" href="http://panasonic.co.jp/es/pesasv/" target="_blank" rel="noopener">panasonic.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">蒲田エリア</span><span class="tag">日曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="千鳥" data-day="sat" data-kind="営利法人">
       <h3><span class="no">18</span>パナソニック　エイジフリーケアセンター千鳥・デイサービス</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 千鳥１－１６－２　鈴木ビル１Ｆ</dd><dt>運営法人</dt><dd>パナソニックエイジフリー株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0337510831">03-3751-0831</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371106012</dd><dt>公式サイト</dt><dd><a class="ext" href="https://sumai.panasonic.jp/agefree/map/detail.php?id=4" target="_blank" rel="noopener">sumai.panasonic.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">千鳥エリア</span><span class="tag">土曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="仲六郷" data-day="sat" data-kind="営利法人">
       <h3><span class="no">19</span>デイサービスココファン六郷</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 仲六郷４－１６－１２</dd><dt>運営法人</dt><dd>株式会社学研ココファン</dd><dt>電話</dt><dd><a class="tel" href="tel:0357032163">03-5703-2163</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>定員</dt><dd>26</dd><dt>事業所番号</dt><dd class="id">1371106293</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.cocofump.co.jp" target="_blank" rel="noopener">cocofump.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">仲六郷エリア</span><span class="tag">土曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="下丸子" data-day="sat" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">20</span>大田区立たまがわ高齢者在宅サービスセンター</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 下丸子４－２３－１</dd><dt>運営法人</dt><dd>社会福祉法人池上長寿園</dd><dt>電話</dt><dd><a class="tel" href="tel:0357321023">03-5732-1023</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371106491</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.ikegami.or.jp" target="_blank" rel="noopener">ikegami.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">下丸子エリア</span><span class="tag">土曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="蒲田" data-day="sat" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">21</span>大田区立蒲田高齢者在宅サービスセンター</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 蒲田２－８－８</dd><dt>運営法人</dt><dd>社会福祉法人池上長寿園</dd><dt>電話</dt><dd><a class="tel" href="tel:0357100782">03-5710-0782</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>定員</dt><dd>40</dd><dt>事業所番号</dt><dd class="id">1371106509</dd></dl>
       <div class="tags"><span class="tag">蒲田エリア</span><span class="tag">土曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="本羽田" data-day="sat" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">22</span>羽田高齢者在宅サービスセンター</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 本羽田３－２３－４５</dd><dt>運営法人</dt><dd>社会福祉法人池上長寿園</dd><dt>電話</dt><dd><a class="tel" href="tel:0337457854">03-3745-7854</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371106525</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.ikegami.or.jp" target="_blank" rel="noopener">ikegami.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">本羽田エリア</span><span class="tag">土曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="下丸子" data-day="sat" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">23</span>大田区立下丸子高齢者在宅サービスセンター</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 下丸子４－２５－１</dd><dt>運営法人</dt><dd>社会福祉法人池上長寿園</dd><dt>電話</dt><dd><a class="tel" href="tel:0337508701">03-3750-8701</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>定員</dt><dd>45</dd><dt>事業所番号</dt><dd class="id">1371106541</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.ikegami.or.jp" target="_blank" rel="noopener">ikegami.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">下丸子エリア</span><span class="tag">土曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西糀谷" data-day="sat" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">24</span>大田区立糀谷高齢者在宅サービスセンター</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 西糀谷２－１２－１</dd><dt>運営法人</dt><dd>社会福祉法人池上長寿園</dd><dt>電話</dt><dd><a class="tel" href="tel:0337453006">03-3745-3006</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371106558</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.ikegami.or.jp" target="_blank" rel="noopener">ikegami.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西糀谷エリア</span><span class="tag">土曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西糀谷" data-day="sat" data-kind="営利法人">
       <h3><span class="no">25</span>デイサービス　絆</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 西糀谷３－４０－７ラミアール西糀谷１０１</dd><dt>運営法人</dt><dd>株式会社リアン</dd><dt>電話</dt><dd><a class="tel" href="tel:0364239225">03-6423-9225</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371106913</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.kizunaspa.com" target="_blank" rel="noopener">kizunaspa.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西糀谷エリア</span><span class="tag">土曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="久が原" data-day="sat" data-kind="医療法人">
       <h3><span class="no">26</span>デイサービスすずやか久が原</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 久が原３－２７－１０　２階</dd><dt>運営法人</dt><dd>医療法人社団ふよう会</dd><dt>電話</dt><dd><a class="tel" href="tel:0364106970">03-6410-6970</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>定員</dt><dd>40</dd><dt>事業所番号</dt><dd class="id">1371106996</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.suzu-care.jp" target="_blank" rel="noopener">suzu-care.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">久が原エリア</span><span class="tag">土曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東矢口" data-day="sat" data-kind="営利法人">
       <h3><span class="no">27</span>株式会社ケアサービス　デイサービスセンター東矢口</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 東矢口３－７－３</dd><dt>運営法人</dt><dd>株式会社ケアサービス</dd><dt>電話</dt><dd><a class="tel" href="tel:0337301801">03-3730-1801</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>定員</dt><dd>38</dd><dt>事業所番号</dt><dd class="id">1371107366</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.care.co.jp" target="_blank" rel="noopener">care.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東矢口エリア</span><span class="tag">土曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西六郷" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">28</span>ツクイ大田西六郷</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 西六郷３－３１－１２</dd><dt>運営法人</dt><dd>株式会社ツクイ</dd><dt>電話</dt><dd><a class="tel" href="tel:0357443768">03-5744-3768</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>定員</dt><dd>60</dd><dt>事業所番号</dt><dd class="id">1371107630</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.tsukui.net/" target="_blank" rel="noopener">tsukui.net<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西六郷エリア</span><span class="tag">日曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西糀谷" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">29</span>ツクイ大田西糀谷</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 西糀谷４－９－１１</dd><dt>運営法人</dt><dd>株式会社ツクイ</dd><dt>電話</dt><dd><a class="tel" href="tel:0357352050">03-5735-2050</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>定員</dt><dd>60</dd><dt>事業所番号</dt><dd class="id">1371107895</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.tsukui.net" target="_blank" rel="noopener">tsukui.net<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西糀谷エリア</span><span class="tag">日曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南蒲田" data-day="sat" data-kind="営利法人">
       <h3><span class="no">30</span>ニチイケアセンター南蒲田</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 南蒲田２－１６－２テクノポート大樹生命ビルＢ１階</dd><dt>運営法人</dt><dd>株式会社ニチイ学館</dd><dt>電話</dt><dd><a class="tel" href="tel:0357131148">03-5713-1148</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371108836</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.nichiigakkan.co.jp" target="_blank" rel="noopener">nichiigakkan.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">南蒲田エリア</span><span class="tag">土曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="矢口" data-day="sat" data-kind="営利法人">
       <h3><span class="no">31</span>レッツ倶楽部多摩川</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 矢口１－２９－１３ナンバビル</dd><dt>運営法人</dt><dd>ＱＬＣプロデュース株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0357415014">03-5741-5014</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>定員</dt><dd>20</dd><dt>事業所番号</dt><dd class="id">1371108943</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.lets-club.jp/shop/tamagawa/" target="_blank" rel="noopener">lets-club.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">矢口エリア</span><span class="tag">土曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="池上" data-day="sat" data-kind="営利法人">
       <h3><span class="no">32</span>寿デイサービスセンター池上</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 池上８－４－８池上タウンヒル１階</dd><dt>運営法人</dt><dd>株式会社シルバーメディカルサービス</dd><dt>電話</dt><dd><a class="tel" href="tel:0357473800">03-5747-3800</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>定員</dt><dd>30</dd><dt>事業所番号</dt><dd class="id">1371108976</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.sms-kotobuki.co.jp/" target="_blank" rel="noopener">sms-kotobuki.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">池上エリア</span><span class="tag">土曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="下丸子" data-day="sat" data-kind="営利法人">
       <h3><span class="no">33</span>デイリハ友の里</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 下丸子２－２９－１</dd><dt>運営法人</dt><dd>株式会社ティーシーエス</dd><dt>電話</dt><dd><a class="tel" href="tel:0337572151">03-3757-2151</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371110048</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.total-care-servise.co.jp/index.shtml" target="_blank" rel="noopener">total-care-servise.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">下丸子エリア</span><span class="tag">土曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西蒲田" data-day="sat" data-kind="営利法人">
       <h3><span class="no">34</span>株式会社ケアサービス　デイサービスセンター西蒲田</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 西蒲田６－１０－７</dd><dt>運営法人</dt><dd>株式会社ケアサービス</dd><dt>電話</dt><dd><a class="tel" href="tel:0354805562">03-5480-5562</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>定員</dt><dd>35</dd><dt>事業所番号</dt><dd class="id">1371110154</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.care.co.jp/office/ds_nishikamata" target="_blank" rel="noopener">care.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西蒲田エリア</span><span class="tag">土曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="仲六郷" data-day="sat" data-kind="医療法人">
       <h3><span class="no">35</span>デイサービスすずやか六郷</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 仲六郷４－３３－１１シュウハイム１階</dd><dt>運営法人</dt><dd>医療法人社団ふよう会</dd><dt>電話</dt><dd><a class="tel" href="tel:0364247555">03-6424-7555</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>定員</dt><dd>30</dd><dt>事業所番号</dt><dd class="id">1371110469</dd><dt>公式サイト</dt><dd><a class="ext" href="http://suzu-care.jp/" target="_blank" rel="noopener">suzu-care.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">仲六郷エリア</span><span class="tag">土曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上池台" data-day="sat" data-kind="営利法人">
       <h3><span class="no">36</span>デイサービスセンター　サンケア上池台</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 上池台５－３４－１０</dd><dt>運営法人</dt><dd>株式会社早稲田エルダリーヘルス事業団</dd><dt>電話</dt><dd><a class="tel" href="tel:0357541165">03-5754-1165</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>定員</dt><dd>55</dd><dt>事業所番号</dt><dd class="id">1371110519</dd></dl>
       <div class="tags"><span class="tag">上池台エリア</span><span class="tag">土曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="鵜の木" data-day="sat" data-kind="営利法人">
       <h3><span class="no">37</span>デイサービスセンター　サンケア鵜の木</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 鵜の木１－２２－８</dd><dt>運営法人</dt><dd>株式会社早稲田エルダリーヘルス事業団</dd><dt>電話</dt><dd><a class="tel" href="tel:0357321138">03-5732-1138</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371110527</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.waseda-e-life.co.jp/kaigo-fukushi/" target="_blank" rel="noopener">waseda-e-life.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">鵜の木エリア</span><span class="tag">土曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="田園調布本町" data-kind="営利法人">
       <h3><span class="no">38</span>デイサービスセンターなごやか田園調布</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 田園調布本町５１－３田園調布スカイライトマンション１階</dd><dt>運営法人</dt><dd>なごやかケアリンク株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0354837034">03-5483-7034</a></dd><dt>サービス提供日</dt><dd>平日・祝日</dd><dt>定員</dt><dd>50</dd><dt>事業所番号</dt><dd class="id">1371111269</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.nagoyaka-link.co.jp/club/denenchofu/" target="_blank" rel="noopener">nagoyaka-link.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">田園調布本町エリア</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="池上" data-day="sat" data-kind="営利法人">
       <h3><span class="no">39</span>デイサービスセンターなごやか大田</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 池上６－６－６</dd><dt>運営法人</dt><dd>なごやかケアリンク株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0357472915">03-5747-2915</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>定員</dt><dd>100</dd><dt>事業所番号</dt><dd class="id">1371111277</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.nagoyaka-link.co.jp/" target="_blank" rel="noopener">nagoyaka-link.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">池上エリア</span><span class="tag">土曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南馬込" data-day="sat" data-kind="営利法人">
       <h3><span class="no">40</span>デイサービスセンターなごやか馬込</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 南馬込３－１－２ＮＴＴ馬込ビル１階</dd><dt>運営法人</dt><dd>なごやかケアリンク株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0357437678">03-5743-7678</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>定員</dt><dd>30</dd><dt>事業所番号</dt><dd class="id">1371111285</dd><dt>公式サイト</dt><dd><a class="ext" href="http://club.nagoyaka-link.co.jp/magome/" target="_blank" rel="noopener">club.nagoyaka-link.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">南馬込エリア</span><span class="tag">土曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南千束" data-day="sat" data-kind="営利法人">
       <h3><span class="no">41</span>ファミタウン洗足</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 南千束２－１７－１</dd><dt>運営法人</dt><dd>合同会社ファミタウン洗足</dd><dt>電話</dt><dd><a class="tel" href="tel:0359356467">03-5935-6467</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>定員</dt><dd>25</dd><dt>事業所番号</dt><dd class="id">1371111368</dd></dl>
       <div class="tags"><span class="tag">南千束エリア</span><span class="tag">土曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="千鳥" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">42</span>デイサービスひより千鳥町</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 千鳥１－１５－１１　１階</dd><dt>運営法人</dt><dd>株式会社トラスト・ワン</dd><dt>電話</dt><dd><a class="tel" href="tel:0364102700">03-6410-2700</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371111376</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.dayservicehiyori.jp/" target="_blank" rel="noopener">dayservicehiyori.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">千鳥エリア</span><span class="tag">日曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="鵜の木" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">43</span>デイハウス鵜の木</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 鵜の木３－２３－３リバーフロントⅡ多摩川１Ｆ</dd><dt>運営法人</dt><dd>株式会社ゼネラルサポートサービス</dd><dt>電話</dt><dd><a class="tel" href="tel:0367152742">03-6715-2742</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>定員</dt><dd>19</dd><dt>事業所番号</dt><dd class="id">1371111475</dd></dl>
       <div class="tags"><span class="tag">鵜の木エリア</span><span class="tag">日曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中馬込" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">44</span>ツクイ大田中馬込</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 中馬込３－１７－１９</dd><dt>運営法人</dt><dd>株式会社ツクイ</dd><dt>電話</dt><dd><a class="tel" href="tel:0364292630">03-6429-2630</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371111582</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.tsukui.net/home-care/2658/" target="_blank" rel="noopener">tsukui.net<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">中馬込エリア</span><span class="tag">日曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="山王" data-day="sat" data-kind="営利法人">
       <h3><span class="no">45</span>ベストリハ山王</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 山王４－１１－７シャトレ山王１階</dd><dt>運営法人</dt><dd>ベストリハ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0337766830">03-3776-6830</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371111707</dd><dt>公式サイト</dt><dd><a class="ext" href="http://bestreha.com" target="_blank" rel="noopener">bestreha.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">山王エリア</span><span class="tag">土曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南六郷" data-day="sat" data-kind="営利法人">
       <h3><span class="no">46</span>デイホームゆりの木大田</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 南六郷２－１７－１１泉マンション１Ｆ</dd><dt>運営法人</dt><dd>株式会社日本エルダリーケアサービス</dd><dt>電話</dt><dd><a class="tel" href="tel:0357142331">03-5714-2331</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>定員</dt><dd>25</dd><dt>事業所番号</dt><dd class="id">1371112416</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.elderly.jp/" target="_blank" rel="noopener">elderly.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">南六郷エリア</span><span class="tag">土曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南蒲田" data-day="sat" data-kind="営利法人">
       <h3><span class="no">47</span>ベストリハ南蒲田</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 南蒲田１－２２－９リバティハイツ１０１</dd><dt>運営法人</dt><dd>ベストリハ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0364249881">03-6424-9881</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>定員</dt><dd>28</dd><dt>事業所番号</dt><dd class="id">1371112424</dd><dt>公式サイト</dt><dd><a class="ext" href="https://bestreha.com/" target="_blank" rel="noopener">bestreha.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">南蒲田エリア</span><span class="tag">土曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上池台" data-day="sat" data-kind="営利法人">
       <h3><span class="no">48</span>リハビリデイサービスｎａｇｏｍｉプラス洗足池店</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 上池台２－１４－７</dd><dt>運営法人</dt><dd>株式会社ｎＣＳ</dd><dt>電話</dt><dd><a class="tel" href="tel:0364257503">03-6425-7503</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>定員</dt><dd>216</dd><dt>事業所番号</dt><dd class="id">1371112655</dd><dt>公式サイト</dt><dd><a class="ext" href="https://ncs.my-nagomi.com" target="_blank" rel="noopener">ncs.my-nagomi.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">上池台エリア</span><span class="tag">土曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南六郷" data-day="sat" data-kind="営利法人">
       <h3><span class="no">49</span>リハデイ南六郷</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 南六郷２－２４－１７</dd><dt>運営法人</dt><dd>合同会社ＧＯＡＳ</dd><dt>電話</dt><dd><a class="tel" href="tel:0367157271">03-6715-7271</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371112812</dd></dl>
       <div class="tags"><span class="tag">南六郷エリア</span><span class="tag">土曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="山王" data-day="sat" data-kind="営利法人">
       <h3><span class="no">50</span>リハデイ山王</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 山王４－１９－６</dd><dt>運営法人</dt><dd>合同会社ＧＯＡＳ</dd><dt>電話</dt><dd><a class="tel" href="tel:0364518090">03-6451-8090</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371112820</dd></dl>
       <div class="tags"><span class="tag">山王エリア</span><span class="tag">土曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="蒲田" data-day="sat" data-kind="営利法人">
       <h3><span class="no">51</span>ベストリハ蒲田</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 蒲田２－２－１３ヴィラはなぞの１階</dd><dt>運営法人</dt><dd>ベストリハ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0364248257">03-6424-8257</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371112861</dd><dt>公式サイト</dt><dd><a class="ext" href="https://bestreha.com/" target="_blank" rel="noopener">bestreha.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">蒲田エリア</span><span class="tag">土曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="本羽田" data-day="sat" data-kind="営利法人">
       <h3><span class="no">52</span>デイサービス夢楽羽田</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 本羽田３－３－１２</dd><dt>運営法人</dt><dd>株式会社我喜大笑</dd><dt>電話</dt><dd><a class="tel" href="tel:0364237960">03-6423-7960</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371112937</dd><dt>公式サイト</dt><dd><a class="ext" href="https://yumeraku.net/haneda/" target="_blank" rel="noopener">yumeraku.net<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">本羽田エリア</span><span class="tag">土曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中央" data-day="sat" data-kind="営利法人">
       <h3><span class="no">53</span>レベルアップケア</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 中央３－８－１４</dd><dt>運営法人</dt><dd>ＳＰヘルスケア株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0337733211">03-3773-3211</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>定員</dt><dd>10</dd><dt>事業所番号</dt><dd class="id">1371113067</dd><dt>公式サイト</dt><dd><a class="ext" href="https://levelup-care.co.jp/" target="_blank" rel="noopener">levelup-care.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">中央エリア</span><span class="tag">土曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="羽田" data-day="sat" data-kind="営利法人">
       <h3><span class="no">54</span>ベストリハ羽田</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 羽田３－６－１シャンハイツ松輝　１階</dd><dt>運営法人</dt><dd>ベストリハ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0364238310">03-6423-8310</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>定員</dt><dd>30</dd><dt>事業所番号</dt><dd class="id">1371113208</dd><dt>公式サイト</dt><dd><a class="ext" href="https://bestreha.com" target="_blank" rel="noopener">bestreha.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">羽田エリア</span><span class="tag">土曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="大森西" data-day="sat" data-kind="営利法人">
       <h3><span class="no">55</span>ブリッジライフ大森西</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 大森西７－５－１５英行ビル１階</dd><dt>運営法人</dt><dd>株式会社メディカルケアワークス</dd><dt>電話</dt><dd><a class="tel" href="tel:0368699019">03-6869-9019</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371113224</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.bridge-life.jp/shop/omorinishi/" target="_blank" rel="noopener">bridge-life.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">大森西エリア</span><span class="tag">土曜日も営業</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="萩中" data-day="sat" data-kind="営利法人">
       <h3><span class="no">56</span>ポラリスデイサービスセンター羽田萩中</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 萩中３－１４－２０</dd><dt>運営法人</dt><dd>株式会社ポラリス</dd><dt>電話</dt><dd><a class="tel" href="tel:0364237168">03-6423-7168</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>定員</dt><dd>40</dd><dt>事業所番号</dt><dd class="id">1371113562</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.polaris.care/office/" target="_blank" rel="noopener">polaris.care<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">萩中エリア</span><span class="tag">土曜日も営業</span><span class="tag">開設3年以内</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="大森北" data-day="sat" data-kind="営利法人">
       <h3><span class="no">57</span>大森スポーツリハデイサービスセンター</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 大森北１－３１－２柏屋ビル３階</dd><dt>運営法人</dt><dd>ファーマライズ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0357678403">03-5767-8403</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371113612</dd></dl>
       <div class="tags"><span class="tag">大森北エリア</span><span class="tag">土曜日も営業</span><span class="tag">開設3年以内</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="大森中" data-kind="営利法人">
       <h3><span class="no">58</span>ウェルビスタ　ケアスタジオ　大森</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 大森中２－２－５</dd><dt>運営法人</dt><dd>株式会社ＳＯＹＯＫＡＺＥ</dd><dt>電話</dt><dd><a class="tel" href="tel:0337657650">03-3765-7650</a></dd><dt>サービス提供日</dt><dd>平日・祝日</dd><dt>事業所番号</dt><dd class="id">1371113810</dd><dt>公式サイト</dt><dd><a class="ext" href="https://wellbista-cs.com/" target="_blank" rel="noopener">wellbista-cs.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">大森中エリア</span><span class="tag">開設3年以内</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南馬込" data-kind="営利法人">
       <h3><span class="no">59</span>ブリッジライフ馬込</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 南馬込１－６－７メゾン南松原　１階</dd><dt>運営法人</dt><dd>株式会社シープラス</dd><dt>電話</dt><dd><a class="tel" href="tel:0364518261">03-6451-8261</a></dd><dt>事業所番号</dt><dd class="id">1371114008</dd></dl>
       <div class="tags"><span class="tag">南馬込エリア</span><span class="tag">開設3年以内</span><span class="tag">デイサービス</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="石川町" data-kind="営利法人">
       <h3><span class="no">60</span>レッツ倶楽部石川台</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 大田区 石川町２－３－１６　２階２Ｄ</dd><dt>運営法人</dt><dd>ＱＬＣプロデュース株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0364219030">03-6421-9030</a></dd><dt>事業所番号</dt><dd class="id">1371114040</dd></dl>
       <div class="tags"><span class="tag">石川町エリア</span><span class="tag">開設3年以内</span><span class="tag">デイサービス</span></div>
+    </div>
+    <p class="flt-empty" id="flt-empty" hidden>条件に合う事業所はありません。条件を1つ外してみてください。</p>
     </div>
     <div class="warn"><strong>掲載情報についてのお願い</strong><br>上記60件は、2026-09-22に大田区および各事業者の公表情報で確認した内容です。営業時間・対応エリア・空き状況は変動しますので、連絡の前に必ず公式情報をご確認ください。掲載内容の訂正・削除は、<a href="../../../contact/">お問い合わせ</a>からご依頼いただければ<strong>理由の説明なしで削除します</strong>。</div>
 
@@ -2165,5 +2178,6 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 })();
 </script>
 <script src="../../../assets/measure.js" defer></script>
+<script src="../../../assets/filter.js" defer></script>
 </body>
 </html>

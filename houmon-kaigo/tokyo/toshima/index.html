@@ -1525,305 +1525,318 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 
     <h2 id="s2">豊島区の訪問介護事業所一覧</h2>
         <p class="cnt">豊島区内の訪問介護事業所から60件を掲載しています（2026年9月時点）。区内の全件から事業所番号の順に等間隔で抽出しています。区内には63件の事業所があり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。</p>
-    <div class="card">
+    <div id="flt-top"></div>
+    <div class="flt" id="flt" hidden>
+      <div class="flt-row">
+        <select data-f="town" aria-label="場所で絞り込む"><option value="">場所</option><option value="池袋">池袋（8）</option><option value="南大塚">南大塚（7）</option><option value="東池袋">東池袋（7）</option><option value="池袋本町">池袋本町（6）</option><option value="南池袋">南池袋（5）</option><option value="西池袋">西池袋（5）</option><option value="南長崎">南長崎（4）</option><option value="巣鴨">巣鴨（4）</option><option value="北大塚">北大塚（3）</option><option value="要町">要町（3）</option><option value="雑司が谷">雑司が谷（2）</option><option value="駒込">駒込（2）</option><option value="上池袋">上池袋（1）</option><option value="千早">千早（1）</option><option value="西巣鴨">西巣鴨（1）</option><option value="長崎">長崎（1）</option></select>
+        <select data-f="day" aria-label="曜日で絞り込む"><option value="">曜日</option><option value="sat">土曜も対応（55）</option><option value="sun">日曜も対応（52）</option></select>
+      </div>
+      <p class="flt-n" aria-live="polite"><span><b id="flt-n">60</b> / 60件を表示</span><button type="button" id="flt-reset" hidden>条件をクリア</button></p>
+    </div>
+      <p class="flt-note">「場所」は事務所の所在地です。訪問サービスは近くの町からも来てもらえます。</p>
+      <p class="flt-note" id="flt-daynote" hidden>提供曜日の記載がない2件は、曜日で絞ると表示されません。</p>
+    <div class="bizlist">
+    <div class="card" data-town="南大塚" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">1</span>ケアリッツ巣鴨</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 南大塚１－３１－１７マイスターＳＹ２０２</dd><dt>運営法人</dt><dd>株式会社ケアリッツ・アンド・パートナーズ</dd><dt>電話</dt><dd><a class="tel" href="tel:0359818107">03-5981-8107</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1370502658</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.careritz.co.jp/station/branch/sugamo/" target="_blank" rel="noopener">careritz.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">南大塚エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="池袋本町" data-day="sat" data-kind="営利法人">
       <h3><span class="no">2</span>しもとり訪問介護</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 池袋本町４－８－２－１０１クレスト本町</dd><dt>運営法人</dt><dd>霜鳥恒産株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0359049577">03-5904-9577</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1370705111</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.shimotori-kosan.co.jp" target="_blank" rel="noopener">shimotori-kosan.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">池袋本町エリア</span><span class="tag">土曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南長崎" data-day="sat" data-kind="営利法人">
       <h3><span class="no">3</span>有限会社ホームケアながさき</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 南長崎５－９－１０　１０１号</dd><dt>運営法人</dt><dd>有限会社ホームケアながさき</dd><dt>電話</dt><dd><a class="tel" href="tel:0359887377">03-5988-7377</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371600097</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.homecare-nagasaki.com/" target="_blank" rel="noopener">homecare-nagasaki.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">南長崎エリア</span><span class="tag">土曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="池袋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">4</span>株式会社　大起エンゼルヘルプ　豊島ケアセンター</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 池袋４－１１－４メゾンドール池袋１０１</dd><dt>運営法人</dt><dd>株式会社大起エンゼルヘルプ</dd><dt>電話</dt><dd><a class="tel" href="tel:0353916789">03-5391-6789</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371600170</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.enzeru.co.jp" target="_blank" rel="noopener">enzeru.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">池袋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="池袋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">5</span>株式会社エヌ・テイ豊島</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 池袋２－７３－１</dd><dt>運営法人</dt><dd>株式会社エヌ・テイ豊島</dd><dt>電話</dt><dd><a class="tel" href="tel:0339865678">03-3986-5678</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371600204</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.nt-toshima.co.jp" target="_blank" rel="noopener">nt-toshima.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">池袋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南大塚" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">6</span>有限会社　あさくらケアハウス　ヘルパーステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 南大塚２－４３－４ブロッサム南大塚１Ｆ</dd><dt>運営法人</dt><dd>有限会社あさくらケアハウス</dd><dt>電話</dt><dd><a class="tel" href="tel:0339410047">03-3941-0047</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371600428</dd><dt>公式サイト</dt><dd><a class="ext" href="https://asakura-care.jp/" target="_blank" rel="noopener">asakura-care.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">南大塚エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南池袋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">7</span>株式会社グレイス・ケアー</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 南池袋４－１６－１１</dd><dt>運営法人</dt><dd>株式会社グレイス・ケアー</dd><dt>電話</dt><dd><a class="tel" href="tel:0339876446">03-3987-6446</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371600501</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.grace-care.co.jp" target="_blank" rel="noopener">grace-care.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">南池袋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="池袋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">8</span>ニチイケアセンター豊島</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 池袋４－２７－５和田ビル１階</dd><dt>運営法人</dt><dd>株式会社ニチイ学館</dd><dt>電話</dt><dd><a class="tel" href="tel:0359795983">03-5979-5983</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371600691</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.nichiigakkan.co.jp" target="_blank" rel="noopener">nichiigakkan.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">池袋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="巣鴨" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">9</span>バリアフリーサポート巣鴨訪問介護事業所</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 巣鴨２－４－２　岡田ビル７０５</dd><dt>運営法人</dt><dd>有限会社バリアフリー・サポート</dd><dt>電話</dt><dd><a class="tel" href="tel:0359613441">03-5961-3441</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371600873</dd></dl>
       <div class="tags"><span class="tag">巣鴨エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南大塚" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">10</span>マルシモホームヘルプサービス</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 南大塚２－３１－１１共栄大塚ビル３階</dd><dt>運営法人</dt><dd>有限会社マルシモ</dd><dt>電話</dt><dd><a class="tel" href="tel:0359406048">03-5940-6048</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371601574</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.marushimo.co.jp" target="_blank" rel="noopener">marushimo.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">南大塚エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="駒込" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">11</span>有限会社　寿晴介護サービス</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 駒込４－８－９</dd><dt>運営法人</dt><dd>有限会社　寿晴介護サービス</dd><dt>電話</dt><dd><a class="tel" href="tel:0359613101">03-5961-3101</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371601582</dd></dl>
       <div class="tags"><span class="tag">駒込エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南池袋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">12</span>ケアリッチ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 南池袋２－６－１２宮城ビル２Ｆ</dd><dt>運営法人</dt><dd>株式会社ケアリッチ</dd><dt>電話</dt><dd><a class="tel" href="tel:0353969911">03-5396-9911</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371601780</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.carerich.co.jp/" target="_blank" rel="noopener">carerich.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">南池袋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西巣鴨" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">13</span>サン・ケアセンター</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 西巣鴨３－１５－１０ＵＫビル２０３</dd><dt>運営法人</dt><dd>有限会社サン</dd><dt>電話</dt><dd><a class="tel" href="tel:0339183571">03-3918-3571</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371601954</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.sun-care.jp" target="_blank" rel="noopener">sun-care.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西巣鴨エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="池袋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">14</span>さくら介護サービス豊島</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 池袋３－１４－１６</dd><dt>運営法人</dt><dd>有限会社さくら介護サービス</dd><dt>電話</dt><dd><a class="tel" href="tel:0353911012">03-5391-1012</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371601962</dd></dl>
       <div class="tags"><span class="tag">池袋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="雑司が谷" data-day="sat|sun" data-kind="非営利法人（NPO）">
       <h3><span class="no">15</span>やすら木</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 雑司が谷２－２２－１８－１Ｆ</dd><dt>運営法人</dt><dd>特定非営利活動法人やすらぎ</dd><dt>電話</dt><dd><a class="tel" href="tel:0359527500">03-5952-7500</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371601970</dd><dt>公式サイト</dt><dd><a class="ext" href="https://yasuragi.lolipop.jp/" target="_blank" rel="noopener">yasuragi.lolipop.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">雑司が谷エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="池袋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">16</span>アクセスポイント池袋</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 池袋２－５５－１３合田ビル１階</dd><dt>運営法人</dt><dd>株式会社アライブ</dd><dt>電話</dt><dd><a class="tel" href="tel:0359500231">03-5950-0231</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371602085</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.access-point.jp" target="_blank" rel="noopener">access-point.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">池袋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西池袋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">17</span>有里サポート有限会社</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 西池袋４－３２－１ドミール太田１０１</dd><dt>運営法人</dt><dd>有里サポート有限会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0369093370">03-6909-3370</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371602101</dd></dl>
       <div class="tags"><span class="tag">西池袋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南長崎" data-day="sat|sun" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">18</span>ゆきわりそうこの町サービス</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 南長崎６－１９－５ゆきわりそう１階</dd><dt>運営法人</dt><dd>社会福祉法人地球郷</dd><dt>電話</dt><dd><a class="tel" href="tel:0339502004">03-3950-2004</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371602267</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.yukiwari.org" target="_blank" rel="noopener">yukiwari.org<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">南長崎エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="長崎" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">19</span>ケアフレンド豊島</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 長崎２－４－９</dd><dt>運営法人</dt><dd>有限会社ケアフレンド</dd><dt>電話</dt><dd><a class="tel" href="tel:0359170186">03-5917-0186</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371602309</dd><dt>公式サイト</dt><dd><a class="ext" href="http://care-net.biz/13/c-friend/" target="_blank" rel="noopener">care-net.biz<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">長崎エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="雑司が谷" data-day="sat|sun" data-kind="生協">
       <h3><span class="no">20</span>東京保健生活協同組合介護センター健生豊島</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 雑司が谷３－３－１７　２階</dd><dt>運営法人</dt><dd>東京保健生活協同組合</dd><dt>電話</dt><dd><a class="tel" href="tel:0359600838">03-5960-0838</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371602572</dd><dt>公式サイト</dt><dd><a class="ext" href="http://thoken.or.jp/kishibojin/" target="_blank" rel="noopener">thoken.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">雑司が谷エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="要町" data-day="sat" data-kind="営利法人">
       <h3><span class="no">21</span>ケアステーション　オープラス</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 要町２－４－８　大恵ビル１Ｆ</dd><dt>運営法人</dt><dd>有限会社オープラス</dd><dt>電話</dt><dd><a class="tel" href="tel:0339722680">03-3972-2680</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371602960</dd></dl>
       <div class="tags"><span class="tag">要町エリア</span><span class="tag">土曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="北大塚" data-kind="営利法人">
       <h3><span class="no">22</span>さわやかケアポートとしま・訪問介護</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 北大塚１－１２－１５協同興業北大塚ビル</dd><dt>運営法人</dt><dd>ウエルシアパートナーズ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0359074293">03-5907-4293</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1371602994</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.welcia-partners.co.jp/" target="_blank" rel="noopener">welcia-partners.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">北大塚エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南大塚" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">23</span>株式会社　サン・キューブ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 南大塚３－２１－８鈴和南大塚マンション１０１</dd><dt>運営法人</dt><dd>株式会社サン・キューブ</dd><dt>電話</dt><dd><a class="tel" href="tel:0339875439">03-3987-5439</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371603117</dd><dt>公式サイト</dt><dd><a class="ext" href="https://care-net.biz/13/suncube/" target="_blank" rel="noopener">care-net.biz<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">南大塚エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東池袋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">24</span>セントケア豊島</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 東池袋３－２０－２１広宣ビル２階</dd><dt>運営法人</dt><dd>セントケア東京株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0359535030">03-5953-5030</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371603281</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.saint-care.com/tokyo/about/" target="_blank" rel="noopener">saint-care.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東池袋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西池袋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">25</span>ソシオケアサービス</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 西池袋２－３６－１ソフトタウン池袋８０２</dd><dt>運営法人</dt><dd>ソシオ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0359588828">03-5958-8828</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371603356</dd><dt>公式サイト</dt><dd><a class="ext" href="http://care-net.biz/13/sosio/" target="_blank" rel="noopener">care-net.biz<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西池袋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="池袋本町" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">26</span>わたぼうし</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 池袋本町４－２８－１０</dd><dt>運営法人</dt><dd>株式会社天使堂</dd><dt>電話</dt><dd><a class="tel" href="tel:0369074306">03-6907-4306</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371603448</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.tenshidou.com/law.html" target="_blank" rel="noopener">tenshidou.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">池袋本町エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="要町" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">27</span>日介センター豊島</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 要町１－２８－１　２階－Ａ</dd><dt>運営法人</dt><dd>株式会社日本介護センター</dd><dt>電話</dt><dd><a class="tel" href="tel:0359174009">03-5917-4009</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371603521</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.nikkai-center.co.jp" target="_blank" rel="noopener">nikkai-center.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">要町エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="池袋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">28</span>ＡＬＳＯＫヘルパーステーション池袋</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 池袋２－５５－１２セピア池袋Ⅱ705号</dd><dt>運営法人</dt><dd>ＡＬＳＯＫ介護株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0359562066">03-5956-2066</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371603653</dd></dl>
       <div class="tags"><span class="tag">池袋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="池袋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">29</span>ケアリッツ池袋</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 池袋３－５８－２１浅井ビル１Ｆ</dd><dt>運営法人</dt><dd>株式会社ケアリッツ・アンド・パートナーズ</dd><dt>電話</dt><dd><a class="tel" href="tel:0359857185">03-5985-7185</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371603919</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.careritz.co.jp/station/branch/ikebukuro/" target="_blank" rel="noopener">careritz.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">池袋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南長崎" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">30</span>ハート介護サービス豊島</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 南長崎５－１０－１３コーポ五郎久保１０１</dd><dt>運営法人</dt><dd>株式会社ハート介護サービス</dd><dt>電話</dt><dd><a class="tel" href="tel:0359887666">03-5988-7666</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371604008</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.heartkaigo.jp/" target="_blank" rel="noopener">heartkaigo.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">南長崎エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="池袋本町" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">31</span>いずみ介護センター本町</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 池袋本町４－１６－６</dd><dt>運営法人</dt><dd>株式会社いずみ介護センター</dd><dt>電話</dt><dd><a class="tel" href="tel:0364106647">03-6410-6647</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371604461</dd></dl>
       <div class="tags"><span class="tag">池袋本町エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="池袋本町" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">32</span>本町まんぞく介護</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 池袋本町１－４６－５　２Ｆ</dd><dt>運営法人</dt><dd>株式会社まんぞく介護</dd><dt>電話</dt><dd><a class="tel" href="tel:0359549878">03-5954-9878</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371604628</dd><dt>公式サイト</dt><dd><a class="ext" href="http://manzokukaigo.com/" target="_blank" rel="noopener">manzokukaigo.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">池袋本町エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="千早" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">33</span>訪問介護ステーションすずらん</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 千早２－２８－４ドマーニ千早１０２号室</dd><dt>運営法人</dt><dd>株式会社カインディア</dd><dt>電話</dt><dd><a class="tel" href="tel:0359269872">03-5926-9872</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371604883</dd><dt>公式サイト</dt><dd><a class="ext" href="https://kindear-suzuran.com/houmonkaigo" target="_blank" rel="noopener">kindear-suzuran.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">千早エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="要町" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">34</span>エブリーサポート池袋</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 要町２－２６－５メゾン池袋要町２０６</dd><dt>運営法人</dt><dd>株式会社クレオズ</dd><dt>電話</dt><dd><a class="tel" href="tel:0359269187">03-5926-9187</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371605161</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.everyike.tokyo/" target="_blank" rel="noopener">everyike.tokyo<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">要町エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西池袋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">35</span>ハート介護サービス池袋</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 西池袋２－３６－１ソフトタウン池袋８１１</dd><dt>運営法人</dt><dd>株式会社ハート介護サービス</dd><dt>電話</dt><dd><a class="tel" href="tel:0358102906">03-5810-2906</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371605252</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.heartkaigo.jp" target="_blank" rel="noopener">heartkaigo.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西池袋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南池袋" data-day="sat|sun" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">36</span>ほほえみケアサービス</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 南池袋４－５－１</dd><dt>運営法人</dt><dd>社会福祉法人櫻灯会</dd><dt>電話</dt><dd><a class="tel" href="tel:0359278001">03-5927-8001</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371605294</dd><dt>公式サイト</dt><dd><a class="ext" href="http://outoukai.com/" target="_blank" rel="noopener">outoukai.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">南池袋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南池袋" data-kind="営利法人">
       <h3><span class="no">37</span>合同会社　Ｋ．すずらん</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 南池袋２－４１－１２</dd><dt>運営法人</dt><dd>合同会社Ｋ．すずらん</dd><dt>電話</dt><dd><a class="tel" href="tel:0369142307">03-6914-2307</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1371605344</dd></dl>
       <div class="tags"><span class="tag">南池袋エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西池袋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">38</span>西池袋ホームヘルプサービス</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 西池袋３－３３－６ＳＨＫビル２階</dd><dt>運営法人</dt><dd>合同会社倭ケアサービス</dd><dt>電話</dt><dd><a class="tel" href="tel:0358433360">03-5843-3360</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371605427</dd><dt>公式サイト</dt><dd><a class="ext" href="https://care-net.biz/13/nishiike/" target="_blank" rel="noopener">care-net.biz<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西池袋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="北大塚" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">39</span>ケアリッツ大塚北</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 北大塚３－３４－８マイハウス大塚１階</dd><dt>運営法人</dt><dd>株式会社ケアリッツ・アンド・パートナーズ</dd><dt>電話</dt><dd><a class="tel" href="tel:0369037709">03-6903-7709</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371605500</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.careritz.co.jp/station/branch/otsukakita/" target="_blank" rel="noopener">careritz.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">北大塚エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東池袋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">40</span>ＳＯＭＰＯケア　豊島　訪問介護</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 東池袋５－４４－１５東信東池袋ビル４階</dd><dt>運営法人</dt><dd>ＳＯＭＰＯケア株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0359620195">03-5962-0195</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371605518</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.sompocare.com" target="_blank" rel="noopener">sompocare.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東池袋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南大塚" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">41</span>おおきなき豊島</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 南大塚３－５１－２　大塚斉藤ビル２０１号室</dd><dt>運営法人</dt><dd>株式会社日本エルダリーケアサービス</dd><dt>電話</dt><dd><a class="tel" href="tel:0359563630">03-5956-3630</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371605625</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.elderly.jp/" target="_blank" rel="noopener">elderly.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">南大塚エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東池袋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">42</span>くれあ訪問介護</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 東池袋３－１５－２ライオンズマンション池袋７０８号室</dd><dt>運営法人</dt><dd>株式会社クレアフューチャー</dd><dt>電話</dt><dd><a class="tel" href="tel:0359577735">03-5957-7735</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371605641</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.crea-future.co.jp/" target="_blank" rel="noopener">crea-future.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東池袋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東池袋" data-day="sat|sun" data-kind="非営利法人（NPO）">
       <h3><span class="no">43</span>訪問介護　あすなろ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 東池袋１－３６－７アルテール東池袋４１７</dd><dt>運営法人</dt><dd>特定非営利活動法人あすなろの会</dd><dt>電話</dt><dd><a class="tel" href="tel:0359819466">03-5981-9466</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371605658</dd><dt>公式サイト</dt><dd><a class="ext" href="https://asunaro-kaigo.com" target="_blank" rel="noopener">asunaro-kaigo.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東池袋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東池袋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">44</span>リラス訪問介護センター</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 東池袋１－２３－８東池袋ＩＳＫビル７階</dd><dt>運営法人</dt><dd>株式会社フロンティア</dd><dt>電話</dt><dd><a class="tel" href="tel:0345501116">03-4550-1116</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371605732</dd><dt>公式サイト</dt><dd><a class="ext" href="https://lilas-kaigo.com" target="_blank" rel="noopener">lilas-kaigo.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東池袋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="巣鴨" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">45</span>よつばケアセンター</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 巣鴨３－３１－２アルカディア篠Ｂ棟３０５</dd><dt>運営法人</dt><dd>株式会社よつば</dd><dt>電話</dt><dd><a class="tel" href="tel:0359721483">03-5972-1483</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371605849</dd><dt>公式サイト</dt><dd><a class="ext" href="https://fourleafclover.jp/" target="_blank" rel="noopener">fourleafclover.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">巣鴨エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南長崎" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">46</span>ケアリッツ椎名町</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 南長崎２－５－２コレクティフイリデッサン１０１</dd><dt>運営法人</dt><dd>株式会社ケアリッツ・アンド・パートナーズ</dd><dt>電話</dt><dd><a class="tel" href="tel:0369083752">03-6908-3752</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371605856</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.careritz.co.jp/station/branch/shiinamachi/" target="_blank" rel="noopener">careritz.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">南長崎エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="巣鴨" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">47</span>ケア２１　巣鴨</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 巣鴨１－２４－３　小島ビル１階</dd><dt>運営法人</dt><dd>株式会社ケア２１</dd><dt>電話</dt><dd><a class="tel" href="tel:0359400106">03-5940-0106</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371605880</dd></dl>
       <div class="tags"><span class="tag">巣鴨エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南大塚" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">48</span>ラック訪問介護</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 南大塚３－４４－１３クレスト南大塚６０２</dd><dt>運営法人</dt><dd>株式会社ラック・メディカルサービス</dd><dt>電話</dt><dd><a class="tel" href="tel:0359535310">03-5953-5310</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371605930</dd><dt>公式サイト</dt><dd><a class="ext" href="http://apln.co.jp/care/" target="_blank" rel="noopener">apln.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">南大塚エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南池袋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">49</span>ケアリッツ東池袋</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 南池袋４－２０－９サンロードビル４０３</dd><dt>運営法人</dt><dd>株式会社ケアリッツ・アンド・パートナーズ</dd><dt>電話</dt><dd><a class="tel" href="tel:0359449241">03-5944-9241</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371606045</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.careritz.co.jp/station/branch/higashiikebukuro/" target="_blank" rel="noopener">careritz.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">南池袋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="池袋" data-kind="営利法人">
       <h3><span class="no">50</span>星月よ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 池袋２－５６－１－４０６号</dd><dt>運営法人</dt><dd>星月よ合同会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0363380510">03-6338-0510</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1371606060</dd></dl>
       <div class="tags"><span class="tag">池袋エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東池袋" data-day="sat|sun" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">51</span>東池袋桑の実園ヘルパーステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 東池袋５－３９－１８</dd><dt>運営法人</dt><dd>社会福祉法人桑の実園福祉会</dd><dt>電話</dt><dd><a class="tel" href="tel:0358103100">03-5810-3100</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371606086</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.kuwanomien.jp/" target="_blank" rel="noopener">kuwanomien.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東池袋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東池袋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">52</span>幸歩</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 東池袋３－１－４メゾンサンシャイン１２１９号室</dd><dt>運営法人</dt><dd>株式会社歩歩</dd><dt>電話</dt><dd><a class="tel" href="tel:0369128562">03-6912-8562</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371606110</dd><dt>公式サイト</dt><dd><a class="ext" href="http://poppo.work" target="_blank" rel="noopener">poppo.work<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東池袋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="池袋本町" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">53</span>ユースタイルケア　豊島センター</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 池袋本町３－２６－１２豊島ビル２０１</dd><dt>運営法人</dt><dd>株式会社ｇｒｏｗｐｌａｃｅ</dd><dt>電話</dt><dd><a class="tel" href="tel:0368234137">03-6823-4137</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371606128</dd></dl>
       <div class="tags"><span class="tag">池袋本町エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="駒込" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">54</span>訪問介護事業所ケアリス</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 駒込２－７－１６シェルハウス駒込５０１号</dd><dt>運営法人</dt><dd>株式会社ＥＺＡＫＩ</dd><dt>電話</dt><dd><a class="tel" href="tel:09057967859">09057967859</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371606144</dd></dl>
       <div class="tags"><span class="tag">駒込エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西池袋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">55</span>いずみ介護センター</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 西池袋４－２８－１０</dd><dt>運営法人</dt><dd>株式会社いずみ介護センター</dd><dt>電話</dt><dd><a class="tel" href="tel:0359267897">03-5926-7897</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371606177</dd></dl>
       <div class="tags"><span class="tag">西池袋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南大塚" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">56</span>しずかヘルパーステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 南大塚１－４６－１８ハイツタカノ　１０５号</dd><dt>運営法人</dt><dd>株式会社ＡｎｙｗｈｅｒｅＤｏｏｒ</dd><dt>電話</dt><dd><a class="tel" href="tel:0369121929">03-6912-1929</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371606185</dd></dl>
       <div class="tags"><span class="tag">南大塚エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="巣鴨" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">57</span>ネコロボマン訪問介護巣鴨店</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 巣鴨１－４０－４メゾン清水１０３</dd><dt>運営法人</dt><dd>株式会社泰規</dd><dt>電話</dt><dd><a class="tel" href="tel:0369121677">03-6912-1677</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371606227</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.necoroboman-taiki.com" target="_blank" rel="noopener">necoroboman-taiki.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">巣鴨エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="池袋本町" data-kind="営利法人">
       <h3><span class="no">58</span>訪問介護東駿プランニング</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 池袋本町１－３２－３エルファーロ池袋本町２０１</dd><dt>運営法人</dt><dd>株式会社東駿プランニング</dd><dt>電話</dt><dd><a class="tel" href="tel:0369152068">03-6915-2068</a></dd><dt>事業所番号</dt><dd class="id">1371606250</dd></dl>
       <div class="tags"><span class="tag">池袋本町エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="北大塚" data-kind="営利法人">
       <h3><span class="no">59</span>ユースタイルケア　北東京　重度訪問介護</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 北大塚２－１７－４大塚キャリアビル５階</dd><dt>運営法人</dt><dd>ユースタイルラボラトリー株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:05017298177">05017298177</a></dd><dt>事業所番号</dt><dd class="id">1371606268</dd></dl>
       <div class="tags"><span class="tag">北大塚エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上池袋" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">60</span>アースサポート豊島</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 上池袋１－７－７</dd><dt>運営法人</dt><dd>アースサポート株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0359743400">03-5974-3400</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371700392</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.earthsupport.co.jp" target="_blank" rel="noopener">earthsupport.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">上池袋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
+    </div>
+    <p class="flt-empty" id="flt-empty" hidden>条件に合う事業所はありません。条件を1つ外してみてください。</p>
     </div>
     <div class="warn"><strong>掲載情報についてのお願い</strong><br>上記60件は、2026-09-21に豊島区および各事業者の公表情報で確認した内容です。営業時間・対応エリア・空き状況は変動しますので、連絡の前に必ず公式情報をご確認ください。掲載内容の訂正・削除は、<a href="../../../contact/">お問い合わせ</a>からご依頼いただければ<strong>理由の説明なしで削除します</strong>。</div>
 
@@ -2128,5 +2141,6 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 })();
 </script>
 <script src="../../../assets/measure.js" defer></script>
+<script src="../../../assets/filter.js" defer></script>
 </body>
 </html>

@@ -1077,200 +1077,214 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 
     <h2 id="s2">北区の訪問看護ステーション一覧</h2>
         <p class="cnt">北区内の訪問看護ステーションから39件を掲載しています（東京都公表・2026年9月1日時点）。区内には39件が指定を受けており、そのすべてを掲載しています。掲載順は事業所の優劣を示すものではありません。</p>
-    <div class="card">
+    <div id="flt-top"></div>
+    <div class="flt" id="flt" hidden>
+      <div class="flt-row">
+        <select data-f="town" aria-label="場所で絞り込む"><option value="">場所</option><option value="赤羽">赤羽（5）</option><option value="神谷">神谷（4）</option><option value="志茂">志茂（3）</option><option value="西ケ原">西ケ原（3）</option><option value="昭和町">昭和町（2）</option><option value="東十条">東十条（2）</option><option value="王子">王子（2）</option><option value="豊島">豊島（2）</option><option value="赤羽北">赤羽北（2）</option><option value="赤羽南">赤羽南（2）</option><option value="上中里">上中里（1）</option><option value="十条仲原">十条仲原（1）</option><option value="堀船">堀船（1）</option><option value="岩淵町">岩淵町（1）</option><option value="岸町">岸町（1）</option><option value="浮間">浮間（1）</option><option value="滝野川">滝野川（1）</option><option value="王子本町">王子本町（1）</option><option value="田端">田端（1）</option><option value="田端新町">田端新町（1）</option><option value="西が丘">西が丘（1）</option><option value="赤羽西">赤羽西（1）</option></select>
+        <select data-f="day" aria-label="曜日で絞り込む"><option value="">曜日</option><option value="sat">土曜も対応（22）</option><option value="sun">日曜も対応（11）</option></select>
+        <select data-f="kind" aria-label="法人で絞り込む"><option value="">法人</option><option value="営利法人">営利法人（26）</option><option value="医療法人">医療法人（7）</option><option value="生協">生協（2）</option><option value="社会福祉法人（社協以外）">社会福祉法人（社協以外）（2）</option><option value="社団・財団">社団・財団（2）</option></select>
+      </div>
+      <p class="flt-n" aria-live="polite"><span><b id="flt-n">39</b> / 39件を表示</span><button type="button" id="flt-reset" hidden>条件をクリア</button></p>
+    </div>
+      <p class="flt-note">「場所」は事務所の所在地です。訪問サービスは近くの町からも来てもらえます。</p>
+      <p class="flt-note" id="flt-daynote" hidden>提供曜日の記載がない3件は、曜日で絞ると表示されません。</p>
+    <div class="bizlist">
+    <div class="card" data-town="西ケ原" data-kind="営利法人">
       <h3><span class="no">1</span>訪問看護リハビリステーション　はなえみ駒込</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 西ケ原１－１１－４駒込Ｋ＆Ｍビル　Ｂ１０１</dd><dt>運営法人</dt><dd>株式会社ｆｉｆｔｙｎｕｒｓｅ</dd><dt>電話</dt><dd><a class="tel" href="tel:0359721195">03-5972-1195</a></dd><dt>事業所番号</dt><dd class="id">1360990533</dd></dl>
       <div class="tags"><span class="tag">西ケ原エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西ケ原" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">2</span>訪問看護ステーション　飛鳥晴山苑</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 西ケ原４－５１－１</dd><dt>運営法人</dt><dd>社会福祉法人晴山会</dd><dt>電話</dt><dd><a class="tel" href="tel:0359800102">03-5980-0102</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361790015</dd><dt>公式サイト</dt><dd><a class="ext" href="https://seizan-kai.or.jp/" target="_blank" rel="noopener">seizan-kai.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西ケ原エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="志茂" data-day="sat" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">3</span>うらら訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 志茂３－１３－５信濃ビル３階</dd><dt>運営法人</dt><dd>社会福祉法人うらら</dd><dt>電話</dt><dd><a class="tel" href="tel:0359396731">03-5939-6731</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1361790031</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.urara.or.jp" target="_blank" rel="noopener">urara.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">志茂エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="田端" data-kind="医療法人">
       <h3><span class="no">4</span>はくちょう訪問看護リハビリステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 田端３－１８－２４</dd><dt>運営法人</dt><dd>医療法人社団福寿会</dd><dt>電話</dt><dd><a class="tel" href="tel:0338226082">03-3822-6082</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361790056</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.fukujukaigr.or.jp/" target="_blank" rel="noopener">fukujukaigr.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">田端エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="赤羽西" data-kind="医療法人">
       <h3><span class="no">5</span>大橋病院　訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 赤羽西６－１７－８　１階</dd><dt>運営法人</dt><dd>医療法人財団逸生会</dd><dt>電話</dt><dd><a class="tel" href="tel:0359636301">03-5963-6301</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361790072</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.o-hp.or.jp/zaitaku/houmonkango/" target="_blank" rel="noopener">o-hp.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">赤羽西エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="田端新町" data-kind="社団・財団">
       <h3><span class="no">6</span>訪問看護ステーションそれいゆ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 田端新町１－２２－５</dd><dt>運営法人</dt><dd>一般社団法人ナースプラネット</dd><dt>電話</dt><dd><a class="tel" href="tel:0358553744">03-5855-3744</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361790114</dd><dt>公式サイト</dt><dd><a class="ext" href="https://nurseplanet.jp/service/nursing_station.html" target="_blank" rel="noopener">nurseplanet.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">田端新町エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西ケ原" data-kind="医療法人">
       <h3><span class="no">7</span>花と森の訪問看護ステーションペンギン</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 西ケ原２－３－２</dd><dt>運営法人</dt><dd>社会医療法人社団正志会</dd><dt>電話</dt><dd><a class="tel" href="tel:0359807121">03-5980-7121</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361790148</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.hanamorithp.jp/" target="_blank" rel="noopener">hanamorithp.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西ケ原エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="王子" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">8</span>王子神谷訪問看護リハビリステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 王子５－２－２第２号棟第１１７号室</dd><dt>運営法人</dt><dd>合同会社ＩＭＧ</dd><dt>電話</dt><dd><a class="tel" href="tel:0359023881">03-5902-3881</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361790163</dd><dt>公式サイト</dt><dd><a class="ext" href="https://ojikamiya-hc.com/" target="_blank" rel="noopener">ojikamiya-hc.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">王子エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="赤羽" data-day="sat" data-kind="医療法人">
       <h3><span class="no">9</span>訪問看護ステーション凛</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 赤羽２－４８－３末広ビル３階</dd><dt>運営法人</dt><dd>医療法人社団神幸会</dd><dt>電話</dt><dd><a class="tel" href="tel:0359394026">03-5939-4026</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361790189</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.houkan-rin.com" target="_blank" rel="noopener">houkan-rin.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">赤羽エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="滝野川" data-kind="営利法人">
       <h3><span class="no">10</span>タツミ訪問看護ステーション滝野川</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 滝野川１－６８－７早稲田ビル４階</dd><dt>運営法人</dt><dd>株式会社メディプラス</dd><dt>電話</dt><dd><a class="tel" href="tel:0369037574">03-6903-7574</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361790247</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.medi-p.jp/cat-station/visit-nursing/112/" target="_blank" rel="noopener">medi-p.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">滝野川エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="赤羽南" data-day="sat" data-kind="営利法人">
       <h3><span class="no">11</span>訪問看護ステーション　はな　赤羽</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 赤羽南２－１１－１４ルイケ第二マンション１階</dd><dt>運営法人</dt><dd>株式会社はな</dd><dt>電話</dt><dd><a class="tel" href="tel:0368226565">03-6822-6565</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1361790288</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.hana-kango.com" target="_blank" rel="noopener">hana-kango.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">赤羽南エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="豊島" data-kind="営利法人">
       <h3><span class="no">12</span>スマイル優　訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 豊島３－２０－１２アップステアーズａｎｎｅｘ２０１</dd><dt>運営法人</dt><dd>合同会社Ｓａｌｉｘ</dd><dt>電話</dt><dd><a class="tel" href="tel:0367706522">03-6770-6522</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361790312</dd><dt>公式サイト</dt><dd><a class="ext" href="https://smileyou.me/" target="_blank" rel="noopener">smileyou.me<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">豊島エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="赤羽" data-kind="営利法人">
       <h3><span class="no">13</span>訪問看護ステーション　ぱんだ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 赤羽１－６６－５グリーンコーポⅡ３０１</dd><dt>運営法人</dt><dd>株式会社ＰＮＤ</dd><dt>電話</dt><dd><a class="tel" href="tel:0369039822">03-6903-9822</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361790353</dd><dt>公式サイト</dt><dd><a class="ext" href="https://pnd.themedia.jp" target="_blank" rel="noopener">pnd.themedia.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">赤羽エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="赤羽" data-day="sat" data-kind="営利法人">
       <h3><span class="no">14</span>訪問看護ステーション　ＡＬＷＡＹＳ赤羽</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 赤羽２－１９－１０伊東ビル２０１号室</dd><dt>運営法人</dt><dd>株式会社ハートカンパニー</dd><dt>電話</dt><dd><a class="tel" href="tel:0359399151">03-5939-9151</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1361790361</dd><dt>公式サイト</dt><dd><a class="ext" href="https://always-ns.jp/" target="_blank" rel="noopener">always-ns.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">赤羽エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上中里" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">15</span>訪問看護ステーション　はな　王子</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 上中里３－６－１７</dd><dt>運営法人</dt><dd>株式会社ＯＺビルメンテナンス</dd><dt>電話</dt><dd><a class="tel" href="tel:0368237686">03-6823-7686</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361790379</dd></dl>
       <div class="tags"><span class="tag">上中里エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東十条" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">16</span>みつば訪問看護ステーション赤羽</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 東十条６－７－１２サンチェリーハイツ１０１</dd><dt>運営法人</dt><dd>株式会社ベストケア・パートナーズ</dd><dt>電話</dt><dd><a class="tel" href="tel:0369039029">03-6903-9029</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361790395</dd><dt>公式サイト</dt><dd><a class="ext" href="https://bestcare-partners.co.jp/" target="_blank" rel="noopener">bestcare-partners.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東十条エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="志茂" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">17</span>訪問看護ステーション　ホームケア赤羽</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 志茂２－２１－１ｍａｉｓｏｎ　ｄｅ　ｕｒｂａｎ　２０１</dd><dt>運営法人</dt><dd>株式会社ミレニア</dd><dt>電話</dt><dd><a class="tel" href="tel:0352493313">03-5249-3313</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361790403</dd></dl>
       <div class="tags"><span class="tag">志茂エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="王子本町" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">18</span>Ｃｈｅｅｒ　Ｕｐ　ａｔ　Ｎｕｒｓｉｎｇ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 王子本町１－２４－６ハイムロワール１０１</dd><dt>運営法人</dt><dd>株式会社ＣｈｅｅｒＨａｎｄ</dd><dt>電話</dt><dd><a class="tel" href="tel:0363131225">03-6313-1225</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361790411</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.cheerhand.com/" target="_blank" rel="noopener">cheerhand.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">王子本町エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="岸町" data-day="sat" data-kind="営利法人">
       <h3><span class="no">19</span>訪問看護ステーション　デューン王子</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 岸町１－６－１９青葉ビル２階</dd><dt>運営法人</dt><dd>株式会社Ｎ・フィールド</dd><dt>電話</dt><dd><a class="tel" href="tel:0369032678">03-6903-2678</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361790429</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.nfield.co.jp/" target="_blank" rel="noopener">nfield.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">岸町エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="赤羽" data-day="sat" data-kind="営利法人">
       <h3><span class="no">20</span>東京療育・家族支援訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 赤羽２－４７－２貴正ハイツ１０１</dd><dt>運営法人</dt><dd>家族支援株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0368246360">03-6824-6360</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1361790437</dd></dl>
       <div class="tags"><span class="tag">赤羽エリア</span><span class="tag">土曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="浮間" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">21</span>アワー訪問看護ステーション赤羽</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 浮間１－１４－３ユーコート赤羽１０４</dd><dt>運営法人</dt><dd>ＯＵＲ株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0368245872">03-6824-5872</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361790445</dd><dt>公式サイト</dt><dd><a class="ext" href="https://awahoukan.wixsite.com/toppage" target="_blank" rel="noopener">awahoukan.wixsite.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">浮間エリア</span><span class="tag">日曜日も訪問</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="神谷" data-kind="営利法人">
       <h3><span class="no">22</span>しりうす訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 神谷２－４８－１９－３０１駒崎ビル</dd><dt>運営法人</dt><dd>株式会社青星</dd><dt>電話</dt><dd><a class="tel" href="tel:0359486805">03-5948-6805</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361790452</dd><dt>公式サイト</dt><dd><a class="ext" href="https://aoboshi.net/" target="_blank" rel="noopener">aoboshi.net<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">神谷エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="昭和町" data-kind="営利法人">
       <h3><span class="no">23</span>ｓｔｅｌｌａ訪問看護北ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 昭和町１－２－２４アルテール尾久　１階</dd><dt>運営法人</dt><dd>ｓｔｅｌｌａ８３株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0359442699">03-5944-2699</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361790460</dd><dt>公式サイト</dt><dd><a class="ext" href="https://stella83.jp/" target="_blank" rel="noopener">stella83.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">昭和町エリア</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="王子" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">24</span>訪問看護ステーション　ｈａｒｕ　ｓｔｙｌｅ　北区王子</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 王子１－１９－１１第一サカモトビル５階</dd><dt>運営法人</dt><dd>株式会社エイル</dd><dt>電話</dt><dd><a class="tel" href="tel:0359336961">03-5933-6961</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日</dd><dt>事業所番号</dt><dd class="id">1361790478</dd><dt>公式サイト</dt><dd><a class="ext" href="https://ouji.haru-style.jp" target="_blank" rel="noopener">ouji.haru-style.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">王子エリア</span><span class="tag">日曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="赤羽北" data-day="sat" data-kind="営利法人">
       <h3><span class="no">25</span>訪問看護ステーション　エルライト</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 赤羽北２－２８－１コーポ原島１０３</dd><dt>運営法人</dt><dd>合同会社医食同源</dd><dt>電話</dt><dd><a class="tel" href="tel:0363851353">03-6385-1353</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361790486</dd></dl>
       <div class="tags"><span class="tag">赤羽北エリア</span><span class="tag">土曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="岩淵町" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">26</span>めいと訪問看護ステーション第２</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 岩淵町５－１３アルス赤羽３０１</dd><dt>運営法人</dt><dd>株式会社めいとケア</dd><dt>電話</dt><dd><a class="tel" href="tel:0359397231">03-5939-7231</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361790494</dd></dl>
       <div class="tags"><span class="tag">岩淵町エリア</span><span class="tag">日曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="赤羽" data-kind="営利法人">
       <h3><span class="no">27</span>訪問看護ステーションアドニス・ケア赤羽</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 赤羽１－６２－１２サンライズ赤羽６０１</dd><dt>運営法人</dt><dd>株式会社アドニス・ケア</dd><dt>電話</dt><dd><a class="tel" href="tel:0359396115">03-5939-6115</a></dd><dt>事業所番号</dt><dd class="id">1361790502</dd></dl>
       <div class="tags"><span class="tag">赤羽エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西が丘" data-day="sat|sun" data-kind="医療法人">
       <h3><span class="no">28</span>西が丘訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 西が丘１－５－９</dd><dt>運営法人</dt><dd>医療法人社団岩江クリニック</dd><dt>電話</dt><dd><a class="tel" href="tel:0339053160">03-3905-3160</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361790510</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.iwae.net" target="_blank" rel="noopener">iwae.net<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西が丘エリア</span><span class="tag">日曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="十条仲原" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">29</span>訪問看護ステーション　トータルケア王子</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 十条仲原２－４－３コーポエム２０３</dd><dt>運営法人</dt><dd>株式会社トータルケア王子</dd><dt>電話</dt><dd><a class="tel" href="tel:0359489267">03-5948-9267</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361790528</dd><dt>公式サイト</dt><dd><a class="ext" href="https://lecaldo.co.jp/total-care-oji/" target="_blank" rel="noopener">lecaldo.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">十条仲原エリア</span><span class="tag">日曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="志茂" data-day="sat" data-kind="営利法人">
       <h3><span class="no">30</span>にこっと訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 志茂１－１８－１</dd><dt>運営法人</dt><dd>株式会社Ｙｕｗｃｏｎｎｅｃｔ</dd><dt>電話</dt><dd><a class="tel" href="tel:0359486575">03-5948-6575</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1361790536</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.nicotnurse-akabane.com/" target="_blank" rel="noopener">nicotnurse-akabane.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">志茂エリア</span><span class="tag">土曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="神谷" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">31</span>訪問看護ステーション　ことぶき</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 神谷１－７－１２フローラ神谷橋１０２</dd><dt>運営法人</dt><dd>株式会社ことぶき</dd><dt>電話</dt><dd><a class="tel" href="tel:0369032954">03-6903-2954</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1361790544</dd></dl>
       <div class="tags"><span class="tag">神谷エリア</span><span class="tag">日曜日も訪問</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東十条" data-kind="営利法人">
       <h3><span class="no">32</span>訪問看護ステーションゆうわ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 東十条２－４－３</dd><dt>運営法人</dt><dd>株式会社優和</dd><dt>電話</dt><dd><a class="tel" href="tel:0368262103">03-6826-2103</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1361790585</dd></dl>
       <div class="tags"><span class="tag">東十条エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="赤羽北" data-kind="営利法人">
       <h3><span class="no">33</span>にじ訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 赤羽北１－２５－３８</dd><dt>運営法人</dt><dd>株式会社Ｔ＆Ｘコーポレーション</dd><dt>電話</dt><dd><a class="tel" href="tel:08020248603">08020248603</a></dd><dt>事業所番号</dt><dd class="id">1361790593</dd></dl>
       <div class="tags"><span class="tag">赤羽北エリア</span><span class="tag">開設3年以内</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="赤羽南" data-day="sat" data-kind="医療法人">
       <h3><span class="no">34</span>医療法人社団  博栄会  訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 赤羽南２－１２－５五十子ビル１階</dd><dt>運営法人</dt><dd>医療法人社団博栄会</dd><dt>電話</dt><dd><a class="tel" href="tel:0339030711">03-3903-0711</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1367192669</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.hakueikai.or.jp" target="_blank" rel="noopener">hakueikai.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">赤羽南エリア</span><span class="tag">土曜日も訪問</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="堀船" data-kind="生協">
       <h3><span class="no">35</span>東京ふれあい医療生活協同組合ふれあい訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 堀船３－３１－１５ふれあいセンタービル２Ｆ</dd><dt>運営法人</dt><dd>東京ふれあい医療生活協同組合</dd><dt>電話</dt><dd><a class="tel" href="tel:0339113000">03-3911-3000</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1367192990</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.fureaico-op.info" target="_blank" rel="noopener">fureaico-op.info<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">堀船エリア</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="神谷" data-day="sat" data-kind="医療法人">
       <h3><span class="no">36</span>神谷病院訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 神谷１－２７－１４</dd><dt>運営法人</dt><dd>医療法人社団田島厚生会</dd><dt>電話</dt><dd><a class="tel" href="tel:0369033126">03-6903-3126</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1367193121</dd></dl>
       <div class="tags"><span class="tag">神谷エリア</span><span class="tag">土曜日も訪問</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="神谷" data-kind="社団・財団">
       <h3><span class="no">37</span>あすか山訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 神谷１－１３－１０Ｋｏｕｒｔ　Ｋ３　１階</dd><dt>運営法人</dt><dd>公益財団法人日本訪問看護財団</dd><dt>電話</dt><dd><a class="tel" href="tel:0359593121">03-5959-3121</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1367193725</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.jvnf.or.jp/asukayama/" target="_blank" rel="noopener">jvnf.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">神谷エリア</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="豊島" data-day="sat" data-kind="生協">
       <h3><span class="no">38</span>訪問看護ステーションほくと</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 豊島３－１９－３東京ほくと医療生協豊島ビル１階</dd><dt>運営法人</dt><dd>東京ほくと医療生活協同組合</dd><dt>電話</dt><dd><a class="tel" href="tel:0359027156">03-5902-7156</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1367195894</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.t-hokuto.coop" target="_blank" rel="noopener">t-hokuto.coop<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">豊島エリア</span><span class="tag">土曜日も訪問</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="昭和町" data-kind="営利法人">
       <h3><span class="no">39</span>さわやか訪問看護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 北区 昭和町２－７－１３ＳＫビル２０１</dd><dt>運営法人</dt><dd>株式会社メディカルオフィスベラ</dd><dt>電話</dt><dd><a class="tel" href="tel:0338107127">03-3810-7127</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1367196793</dd><dt>公式サイト</dt><dd><a class="ext" href="http://sawayaka-nurse.com/" target="_blank" rel="noopener">sawayaka-nurse.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">昭和町エリア</span><span class="tag">20年以上</span><span class="tag">訪問看護</span></div>
+    </div>
+    <p class="flt-empty" id="flt-empty" hidden>条件に合う事業所はありません。条件を1つ外してみてください。</p>
     </div>
     <div class="warn"><strong>掲載情報についてのお願い</strong><br>上記39件は、2026-09-21に北区および各事業者の公表情報で確認した内容です。営業時間・対応エリア・空き状況は変動しますので、連絡の前に必ず公式情報をご確認ください。掲載内容の訂正・削除は、<a href="../../../contact/">お問い合わせ</a>からご依頼いただければ<strong>理由の説明なしで削除します</strong>。</div>
 
@@ -1589,5 +1603,6 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 })();
 </script>
 <script src="../../../assets/measure.js" defer></script>
+<script src="../../../assets/filter.js" defer></script>
 </body>
 </html>

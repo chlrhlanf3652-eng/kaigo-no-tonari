@@ -1353,265 +1353,278 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 
     <h2 id="s2">目黒区の訪問介護事業所一覧</h2>
         <p class="cnt">目黒区内の訪問介護事業所から52件を掲載しています（2026年9月時点）。区内には52件の事業所があり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。</p>
-    <div class="card">
+    <div id="flt-top"></div>
+    <div class="flt" id="flt" hidden>
+      <div class="flt-row">
+        <select data-f="town" aria-label="場所で絞り込む"><option value="">場所</option><option value="目黒">目黒（5）</option><option value="自由が丘">自由が丘（5）</option><option value="鷹番">鷹番（5）</option><option value="中央町">中央町（4）</option><option value="八雲">八雲（4）</option><option value="東山">東山（4）</option><option value="上目黒">上目黒（3）</option><option value="下目黒">下目黒（3）</option><option value="平町">平町（3）</option><option value="中目黒">中目黒（2）</option><option value="大岡山">大岡山（2）</option><option value="碑文谷">碑文谷（2）</option><option value="緑が丘">緑が丘（2）</option><option value="中根">中根（1）</option><option value="中町">中町（1）</option><option value="南">南（1）</option><option value="原町">原町（1）</option><option value="大橋">大橋（1）</option><option value="東が丘">東が丘（1）</option><option value="目黒本町">目黒本町（1）</option><option value="駒場">駒場（1）</option></select>
+        <select data-f="day" aria-label="曜日で絞り込む"><option value="">曜日</option><option value="sat">土曜も対応（40）</option><option value="sun">日曜も対応（35）</option></select>
+      </div>
+      <p class="flt-n" aria-live="polite"><span><b id="flt-n">52</b> / 52件を表示</span><button type="button" id="flt-reset" hidden>条件をクリア</button></p>
+    </div>
+      <p class="flt-note">「場所」は事務所の所在地です。訪問サービスは近くの町からも来てもらえます。</p>
+      <p class="flt-note" id="flt-daynote" hidden>提供曜日の記載がない4件は、曜日で絞ると表示されません。</p>
+    <div class="bizlist">
+    <div class="card" data-town="鷹番" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">1</span>ケアメイト目黒訪問介護事業所</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 鷹番２－１９－３エミタ鷹番ビル１０１号室</dd><dt>運営法人</dt><dd>株式会社ケアメイト</dd><dt>電話</dt><dd><a class="tel" href="tel:0357258215">03-5725-8215</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1370500470</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.caremate.jp/office/目黒営業所/" target="_blank" rel="noopener">caremate.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">鷹番エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="目黒本町" data-day="sat" data-kind="生協">
       <h3><span class="no">2</span>ヘルパーステーション　目黒医療生協</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 目黒本町６－６－８</dd><dt>運営法人</dt><dd>目黒医療生活協同組合</dd><dt>電話</dt><dd><a class="tel" href="tel:0357681344">03-5768-1344</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1371000215</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.yuiyuidori.net/meguro-coop/" target="_blank" rel="noopener">yuiyuidori.net<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">目黒本町エリア</span><span class="tag">土曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="自由が丘" data-day="sat" data-kind="営利法人">
       <h3><span class="no">3</span>ニチイケアセンター自由ヶ丘</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 自由が丘２－１０－１６栗山ビル６階</dd><dt>運営法人</dt><dd>株式会社ニチイ学館</dd><dt>電話</dt><dd><a class="tel" href="tel:0357293402">03-5729-3402</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371000306</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.nichiigakkan.co.jp" target="_blank" rel="noopener">nichiigakkan.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">自由が丘エリア</span><span class="tag">土曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東山" data-kind="営利法人">
       <h3><span class="no">4</span>ニチイケアセンター中目黒</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 東山１－４－４目黒東山ビル１Ｆ</dd><dt>運営法人</dt><dd>株式会社ニチイ学館</dd><dt>電話</dt><dd><a class="tel" href="tel:0357681135">03-5768-1135</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1371000363</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.nichiigakkan.co.jp" target="_blank" rel="noopener">nichiigakkan.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東山エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="大岡山" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">5</span>訪問介護　ナイスケア</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 大岡山１－５－１５大岡山ＮＣビル１Ｆ</dd><dt>運営法人</dt><dd>株式会社ナイスケア</dd><dt>電話</dt><dd><a class="tel" href="tel:0337177143">03-3717-7143</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371000371</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.nice-care.co.jp" target="_blank" rel="noopener">nice-care.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">大岡山エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="自由が丘" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">6</span>やさしい手自由が丘訪問介護事業所</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 自由が丘２－１１－１０パルシィード４階</dd><dt>運営法人</dt><dd>株式会社やさしい手</dd><dt>電話</dt><dd><a class="tel" href="tel:05017520679">05017520679</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371000843</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.yasashiite.com/" target="_blank" rel="noopener">yasashiite.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">自由が丘エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">7</span>ホクトケアサポート</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 南１－２３－１４</dd><dt>運営法人</dt><dd>有限会社ホクト物産</dd><dt>電話</dt><dd><a class="tel" href="tel:0364595671">03-6459-5671</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371000892</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.hokuto-care.com" target="_blank" rel="noopener">hokuto-care.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">南エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="下目黒" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">8</span>アースサポート目黒</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 下目黒２－２１－１６</dd><dt>運営法人</dt><dd>アースサポート株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0334923330">03-3492-3330</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371000934</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.earthsupport.co.jp/" target="_blank" rel="noopener">earthsupport.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">下目黒エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中央町" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">9</span>有限会社　生羅</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 中央町２－１６－３ミネタウンハウスＢ棟</dd><dt>運営法人</dt><dd>有限会社生羅</dd><dt>電話</dt><dd><a class="tel" href="tel:0357207797">03-5720-7797</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371001122</dd><dt>公式サイト</dt><dd><a class="ext" href="http://e-seira.jp/" target="_blank" rel="noopener">e-seira.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">中央町エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中央町" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">10</span>えるはあと　ケアセンター</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 中央町２－６－１Ｋ２ビル２Ｆ</dd><dt>運営法人</dt><dd>有限会社映光メディカル</dd><dt>電話</dt><dd><a class="tel" href="tel:0357254771">03-5725-4771</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371001205</dd><dt>公式サイト</dt><dd><a class="ext" href="https://el-heart.com/" target="_blank" rel="noopener">el-heart.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">中央町エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="大岡山" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">11</span>ホームヘルプサービス　ソラスト大岡山</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 大岡山１－３－４ドリームマンション１階　１０１号室</dd><dt>運営法人</dt><dd>株式会社ソラスト</dd><dt>電話</dt><dd><a class="tel" href="tel:0357260915">03-5726-0915</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371001338</dd></dl>
       <div class="tags"><span class="tag">大岡山エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上目黒" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">12</span>(有)しんあいケアセンター　中目黒</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 上目黒２－４９－１４</dd><dt>運営法人</dt><dd>有限会社しんあいケアセンター</dd><dt>電話</dt><dd><a class="tel" href="tel:0337117088">03-3711-7088</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371001452</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.shin-i.co.jp" target="_blank" rel="noopener">shin-i.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">上目黒エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="平町" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">13</span>ベアタケア</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 平町１－２６－３アーバンハイム１０１号</dd><dt>運営法人</dt><dd>ベアタケア株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0337233988">03-3723-3988</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371001510</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.beata-care.com/" target="_blank" rel="noopener">beata-care.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">平町エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="大橋" data-day="sat|sun" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">14</span>ヘルパーステーションこまば</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 大橋２－１９－３８</dd><dt>運営法人</dt><dd>社会福祉法人愛隣会</dd><dt>電話</dt><dd><a class="tel" href="tel:0334662444">03-3466-2444</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371002146</dd><dt>公式サイト</dt><dd><a class="ext" href="http://komabaen.org/" target="_blank" rel="noopener">komabaen.org<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">大橋エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="目黒" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">15</span>有限会社　はぎ介護センター</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 目黒２－８－１０アーバン目黒ビル７階</dd><dt>運営法人</dt><dd>有限会社はぎ介護センター</dd><dt>電話</dt><dd><a class="tel" href="tel:0354366081">03-5436-6081</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371002179</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.hagikaigo-recruit.com/" target="_blank" rel="noopener">hagikaigo-recruit.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">目黒エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="八雲" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">16</span>ニチイケアセンター八雲</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 八雲１－８－７　エスパス八雲１Ｆ</dd><dt>運営法人</dt><dd>株式会社ニチイ学館</dd><dt>電話</dt><dd><a class="tel" href="tel:0337238882">03-3723-8882</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371002732</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.nichiigakkan.co.jp" target="_blank" rel="noopener">nichiigakkan.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">八雲エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="駒場" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">17</span>ケアサービス駒場</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 駒場３－１１－９－１０１</dd><dt>運営法人</dt><dd>有限会社亜々夢</dd><dt>電話</dt><dd><a class="tel" href="tel:0364079428">03-6407-9428</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371002823</dd></dl>
       <div class="tags"><span class="tag">駒場エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中町" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">18</span>アニスケア　訪問介護事業所</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 中町２－４８－３３市川興産ビル３０５号</dd><dt>運営法人</dt><dd>株式会社アニスケア</dd><dt>電話</dt><dd><a class="tel" href="tel:0337601377">03-3760-1377</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371003029</dd><dt>公式サイト</dt><dd><a class="ext" href="http://hp.kaipoke.biz/3tc/info.html" target="_blank" rel="noopener">hp.kaipoke.biz<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">中町エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東山" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">19</span>ケアリッツ目黒</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 東山１－１５－１５</dd><dt>運営法人</dt><dd>株式会社ケアリッツ・アンド・パートナーズ</dd><dt>電話</dt><dd><a class="tel" href="tel:0357258290">03-5725-8290</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371003060</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.careritz.co.jp/station/branch/meguro/" target="_blank" rel="noopener">careritz.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東山エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="鷹番" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">20</span>ケアステーションきらら学芸大学</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 鷹番３－６－６－１０２</dd><dt>運営法人</dt><dd>スターツケアサービス株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0357217216">03-5721-7216</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371003441</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.starts-care.jp/" target="_blank" rel="noopener">starts-care.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">鷹番エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="碑文谷" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">21</span>やさしい手学芸大学訪問介護事業所</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 碑文谷５－２０－１ドゥオールビル２０１号室</dd><dt>運営法人</dt><dd>株式会社やさしい手</dd><dt>電話</dt><dd><a class="tel" href="tel:05017520680">05017520680</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371003508</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.yasashiite.com/subdomains/section/211/" target="_blank" rel="noopener">yasashiite.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">碑文谷エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="原町" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">22</span>ハピネスヘルパーステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 原町２－８－１４　１Ｆ</dd><dt>運営法人</dt><dd>株式会社トラスト・ホープ</dd><dt>電話</dt><dd><a class="tel" href="tel:0364512170">03-6451-2170</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371003532</dd><dt>公式サイト</dt><dd><a class="ext" href="http://happiness-0401.com/" target="_blank" rel="noopener">happiness-0401.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">原町エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中央町" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">23</span>ベネッセ介護センター学芸大学</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 中央町２－２０－１１</dd><dt>運営法人</dt><dd>株式会社ベネッセスタイルケア</dd><dt>電話</dt><dd><a class="tel" href="tel:0357734545">03-5773-4545</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371003664</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.benesse-style-care.co.jp" target="_blank" rel="noopener">benesse-style-care.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">中央町エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="八雲" data-kind="営利法人">
       <h3><span class="no">24</span>ジーザス介護サービス合同会社</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 八雲３－１４－１７八雲マンション３０２</dd><dt>運営法人</dt><dd>ジーザス介護サービス合同会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0337171681">03-3717-1681</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1371003771</dd><dt>公式サイト</dt><dd><a class="ext" href="http://jesus-kaigo.com" target="_blank" rel="noopener">jesus-kaigo.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">八雲エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="目黒" data-kind="営利法人">
       <h3><span class="no">25</span>クリエイティブ・ケア</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 目黒３－２－２１サンホーム１階</dd><dt>運営法人</dt><dd>株式会社キヨンクリエイティブ</dd><dt>電話</dt><dd><a class="tel" href="tel:0364524595">03-6452-4595</a></dd><dt>サービス提供日</dt><dd>平日・祝日</dd><dt>事業所番号</dt><dd class="id">1371004019</dd></dl>
       <div class="tags"><span class="tag">目黒エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="鷹番" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">26</span>トータル介護　エール目黒</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 鷹番３－２１－１４第一菊地マンションン１０５</dd><dt>運営法人</dt><dd>株式会社ＥＬＹ</dd><dt>電話</dt><dd><a class="tel" href="tel:0363034753">03-6303-4753</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371004324</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.yell-welfare.com/" target="_blank" rel="noopener">yell-welfare.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">鷹番エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="目黒" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">27</span>訪問介護　ぽかぽかあったか　めぐろ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 目黒２－１１－１２－７０１号</dd><dt>運営法人</dt><dd>ぽかぽかあったかパートナー合同会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0364179688">03-6417-9688</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371004605</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.ppap55.com" target="_blank" rel="noopener">ppap55.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">目黒エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="目黒" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">28</span>サンライフ東京指定訪問介護事業所</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 目黒１－５－１９目黒第一ビル３０７</dd><dt>運営法人</dt><dd>株式会社サンライフ</dd><dt>電話</dt><dd><a class="tel" href="tel:0334956211">03-3495-6211</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371004654</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.sunlife1930.org/" target="_blank" rel="noopener">sunlife1930.org<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">目黒エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="平町" data-kind="営利法人">
       <h3><span class="no">29</span>アリーヘルパーステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 平町１－２０－１７平町アビタシオン２０２号室</dd><dt>運営法人</dt><dd>アリー合同会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0367216087">03-6721-6087</a></dd><dt>事業所番号</dt><dd class="id">1371004753</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.allyhelper.com/" target="_blank" rel="noopener">allyhelper.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">平町エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="自由が丘" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">30</span>ＳＯＭＰＯケア　目黒　訪問介護</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 自由が丘１－２０－１９光進自由が丘ビルＢ１階一号室</dd><dt>運営法人</dt><dd>ＳＯＭＰＯケア株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0364211559">03-6421-1559</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371004787</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.sompocare.com" target="_blank" rel="noopener">sompocare.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">自由が丘エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="下目黒" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">31</span>ユースタイルケア　不動前　訪問介護</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 下目黒３－１８－７－２０１</dd><dt>運営法人</dt><dd>ユースタイルラボラトリー株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0357045788">03-5704-5788</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371004878</dd><dt>公式サイト</dt><dd><a class="ext" href="https://eustylelab.co.jp/" target="_blank" rel="noopener">eustylelab.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">下目黒エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="鷹番" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">32</span>ケア２１　学芸大学</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 鷹番２－１８－２５美松コーポ１０２号室</dd><dt>運営法人</dt><dd>株式会社ケア２１</dd><dt>電話</dt><dd><a class="tel" href="tel:0357208137">03-5720-8137</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371004969</dd></dl>
       <div class="tags"><span class="tag">鷹番エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中央町" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">33</span>訪問介護ビーボ学芸大学</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 中央町２－３５－１７ＮＯＶＡハイツ学芸大学１０２</dd><dt>運営法人</dt><dd>株式会社コンブリオ</dd><dt>電話</dt><dd><a class="tel" href="tel:0363031134">03-6303-1134</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371004977</dd><dt>公式サイト</dt><dd><a class="ext" href="http://vivo.con-brio.co.jp" target="_blank" rel="noopener">vivo.con-brio.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">中央町エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中根" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">34</span>ケアリッツ都立大学</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 中根２－１３－１１コンパウンド中根３０１</dd><dt>運営法人</dt><dd>株式会社ケアリッツ・アンド・パートナーズ</dd><dt>電話</dt><dd><a class="tel" href="tel:0357269831">03-5726-9831</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371004985</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.careritz.co.jp/station/branch/toritsudaigaku/" target="_blank" rel="noopener">careritz.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">中根エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東が丘" data-day="sat" data-kind="営利法人">
       <h3><span class="no">35</span>アドバンスライフ駒沢大学</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 東が丘２－１４－１２コテージ東が丘１０３</dd><dt>運営法人</dt><dd>株式会社ライフクリエーション</dd><dt>電話</dt><dd><a class="tel" href="tel:0364507236">03-6450-7236</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371005016</dd><dt>公式サイト</dt><dd><a class="ext" href="http://life-creation.info" target="_blank" rel="noopener">life-creation.info<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東が丘エリア</span><span class="tag">土曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="八雲" data-day="sat" data-kind="営利法人">
       <h3><span class="no">36</span>ＰＡステーションすまいる</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 八雲２－８－２ウェルス都立大１０２</dd><dt>運営法人</dt><dd>株式会社すまいるナーシング</dd><dt>電話</dt><dd><a class="tel" href="tel:0357265015">03-5726-5015</a></dd><dt>サービス提供日</dt><dd>平日・土曜日</dd><dt>事業所番号</dt><dd class="id">1371005024</dd><dt>公式サイト</dt><dd><a class="ext" href="https://smilage.jp/" target="_blank" rel="noopener">smilage.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">八雲エリア</span><span class="tag">土曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="碑文谷" data-kind="社団・財団">
       <h3><span class="no">37</span>ＧＩＶＥＲ訪問介護ステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 碑文谷４－２２－１ＴＳ碑文谷２０２</dd><dt>運営法人</dt><dd>一般社団法人ＧＩＶＥＲ</dd><dt>電話</dt><dd><a class="tel" href="tel:0364510210">03-6451-0210</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1371005099</dd></dl>
       <div class="tags"><span class="tag">碑文谷エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中目黒" data-kind="営利法人">
       <h3><span class="no">38</span>ひまわりヘルパーステーション</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 中目黒５－４－２</dd><dt>運営法人</dt><dd>合同会社ウィズ</dd><dt>電話</dt><dd><a class="tel" href="tel:0364510860">03-6451-0860</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1371005115</dd></dl>
       <div class="tags"><span class="tag">中目黒エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="緑が丘" data-kind="社団・財団">
       <h3><span class="no">39</span>ヘルパーステーションＨＡＨＡ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 緑が丘２－３－１グレンデール自由が丘１０２号</dd><dt>運営法人</dt><dd>一般社団法人ＨＡＨＡ</dd><dt>電話</dt><dd><a class="tel" href="tel:0364212760">03-6421-2760</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1371005164</dd><dt>公式サイト</dt><dd><a class="ext" href="https://haha.or.jp/" target="_blank" rel="noopener">haha.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">緑が丘エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="中目黒" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">40</span>在宅介護センターｎａｇｏｍｉ和ケア</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 中目黒１－３－３ＵＲＢＡＮ　ＲＥＳＯＲＴ代官山８Ｄ</dd><dt>運営法人</dt><dd>株式会社Ｇｒａｃｅ</dd><dt>電話</dt><dd><a class="tel" href="tel:0364127041">03-6412-7041</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371005230</dd></dl>
       <div class="tags"><span class="tag">中目黒エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="自由が丘" data-kind="営利法人">
       <h3><span class="no">41</span>あうん訪問サービス</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 自由が丘１－１３－１４－７０２号</dd><dt>運営法人</dt><dd>株式会社Ａｏｕｎ</dd><dt>電話</dt><dd><a class="tel" href="tel:0364214808">03-6421-4808</a></dd><dt>事業所番号</dt><dd class="id">1371005289</dd></dl>
       <div class="tags"><span class="tag">自由が丘エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東山" data-day="sat|sun" data-kind="社団・財団">
       <h3><span class="no">42</span>ヘルパーステーション　タグボート</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 東山１－２２－２７－１０１エスペランサ東山</dd><dt>運営法人</dt><dd>一般社団法人タグボート</dd><dt>電話</dt><dd><a class="tel" href="tel:0368220473">03-6822-0473</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371005305</dd><dt>公式サイト</dt><dd><a class="ext" href="https://tugboat1213.com" target="_blank" rel="noopener">tugboat1213.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東山エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上目黒" data-kind="営利法人">
       <h3><span class="no">43</span>Ｙ’ｓ　Ｇｅｎｋｉ　ｃｌｕｂ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 上目黒４－８－７アトリウム稲荷坂Ｉ号</dd><dt>運営法人</dt><dd>株式会社ＹＡＳＵＤＡ</dd><dt>電話</dt><dd><a class="tel" href="tel:0366265020">03-6626-5020</a></dd><dt>サービス提供日</dt><dd>平日・祝日</dd><dt>事業所番号</dt><dd class="id">1371005362</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.ybctokyo.com/" target="_blank" rel="noopener">ybctokyo.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">上目黒エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="上目黒" data-day="sat" data-kind="営利法人">
       <h3><span class="no">44</span>アドバンスライフ中目黒</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 上目黒５－８－２サンライズＫＥＮ１０３</dd><dt>運営法人</dt><dd>株式会社ライフクリエーション</dd><dt>電話</dt><dd><a class="tel" href="tel:0363032492">03-6303-2492</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371005396</dd><dt>公式サイト</dt><dd><a class="ext" href="http://life-creation.info" target="_blank" rel="noopener">life-creation.info<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">上目黒エリア</span><span class="tag">土曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="自由が丘" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">45</span>ケアリッツ自由が丘</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 自由が丘１－２１－７ＧＡＲＤＥＮＶＩＥＷ自由が丘１０２</dd><dt>運営法人</dt><dd>株式会社ケアリッツ・アンド・パートナーズ</dd><dt>電話</dt><dd><a class="tel" href="tel:0357269416">03-5726-9416</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371005446</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.careritz.co.jp/station/branch/jiyugaoka/" target="_blank" rel="noopener">careritz.co.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">自由が丘エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="下目黒" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">46</span>エイジオ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 下目黒１－２－２２セザール目黒９０４</dd><dt>運営法人</dt><dd>株式会社エイジオ</dd><dt>電話</dt><dd><a class="tel" href="tel:0343618521">03-4361-8521</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371005511</dd><dt>公式サイト</dt><dd><a class="ext" href="https://azio.jp" target="_blank" rel="noopener">azio.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">下目黒エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="目黒" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">47</span>いろはケア</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 目黒２－３－９目黒田道マンション１０２</dd><dt>運営法人</dt><dd>株式会社クーラ</dd><dt>電話</dt><dd><a class="tel" href="tel:0364523752">03-6452-3752</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371005537</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.iroha-cura.info" target="_blank" rel="noopener">iroha-cura.info<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">目黒エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東山" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">48</span>Ｈｅａｒｔ　Ｓｔａｔｉｏｎ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 東山３－１－１１サンサーラ東山８０３</dd><dt>運営法人</dt><dd>合同会社ｏｆｆｉｃｅｃｒａｆｔ</dd><dt>電話</dt><dd><a class="tel" href="tel:0368262448">03-6826-2448</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371005552</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.heartstation-2023.com" target="_blank" rel="noopener">heartstation-2023.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">東山エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="八雲" data-kind="営利法人">
       <h3><span class="no">49</span>訪問介護ステーションててて</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 八雲２－２－６ＹＫハウス１０５号</dd><dt>運営法人</dt><dd>株式会社ケアリード</dd><dt>電話</dt><dd><a class="tel" href="tel:0364214026">03-6421-4026</a></dd><dt>事業所番号</dt><dd class="id">1371005586</dd></dl>
       <div class="tags"><span class="tag">八雲エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="鷹番" data-kind="営利法人">
       <h3><span class="no">50</span>ケアリッツ学芸大学</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 鷹番３－４－５鷹番３丁目事務所２階</dd><dt>運営法人</dt><dd>株式会社ケアリッツ・アンド・パートナーズ</dd><dt>電話</dt><dd><a class="tel" href="tel:0363032285">03-6303-2285</a></dd><dt>事業所番号</dt><dd class="id">1371005594</dd></dl>
       <div class="tags"><span class="tag">鷹番エリア</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="平町" data-day="sat|sun" data-kind="営利法人">
       <h3><span class="no">51</span>ＡＬＳＯＫヘルパーステーション目黒</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 平町１－２１－２１－３０２</dd><dt>運営法人</dt><dd>ＡＬＳＯＫ介護株式会社</dd><dt>電話</dt><dd><a class="tel" href="tel:0357312171">03-5731-2171</a></dd><dt>サービス提供日</dt><dd>平日・土曜日・日曜日・祝日</dd><dt>事業所番号</dt><dd class="id">1371101450</dd></dl>
       <div class="tags"><span class="tag">平町エリア</span><span class="tag">日曜日も対応</span><span class="tag">訪問介護</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="緑が丘" data-kind="営利法人">
       <h3><span class="no">52</span>ヒューマン・ケア</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 目黒区 緑が丘２－１５－１４－２０２</dd><dt>運営法人</dt><dd>株式会社ヒューマン・ケア</dd><dt>電話</dt><dd><a class="tel" href="tel:0337240773">03-3724-0773</a></dd><dt>サービス提供日</dt><dd>平日</dd><dt>事業所番号</dt><dd class="id">1371209758</dd></dl>
       <div class="tags"><span class="tag">緑が丘エリア</span><span class="tag">訪問介護</span></div>
+    </div>
+    <p class="flt-empty" id="flt-empty" hidden>条件に合う事業所はありません。条件を1つ外してみてください。</p>
     </div>
     <div class="warn"><strong>掲載情報についてのお願い</strong><br>上記52件は、2026-09-21に目黒区および各事業者の公表情報で確認した内容です。営業時間・対応エリア・空き状況は変動しますので、連絡の前に必ず公式情報をご確認ください。掲載内容の訂正・削除は、<a href="../../../contact/">お問い合わせ</a>からご依頼いただければ<strong>理由の説明なしで削除します</strong>。</div>
 
@@ -1922,5 +1935,6 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 })();
 </script>
 <script src="../../../assets/measure.js" defer></script>
+<script src="../../../assets/filter.js" defer></script>
 </body>
 </html>

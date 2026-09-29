@@ -463,60 +463,71 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 
     <h2 id="s2">豊島区のショートステイ一覧</h2>
         <p class="cnt">豊島区内の短期入所生活介護事業所から11件を掲載しています（東京都公表・2026年9月1日時点）。区内には11件が指定を受けており、そのすべてを掲載しています。「特養の空床利用」「単独型」などの表示は東京都の一覧の事業所種別名です。空き状況は日々変わるため、この一覧では扱っていません。掲載順は事業所の優劣を示すものではありません。</p>
-    <div class="card">
+    <div id="flt-top"></div>
+    <div class="flt" id="flt" hidden>
+      <div class="flt-row">
+        <select data-f="town" aria-label="場所で絞り込む"><option value="">場所</option><option value="南池袋">南池袋（2）</option><option value="長崎">長崎（2）</option><option value="南長崎">南長崎（1）</option><option value="東池袋">東池袋（1）</option><option value="池袋">池袋（1）</option><option value="池袋本町">池袋本町（1）</option><option value="西巣鴨">西巣鴨（1）</option><option value="要町">要町（1）</option><option value="高田">高田（1）</option></select>
+        <select data-f="fk" aria-label="型で絞り込む"><option value="">型</option><option value="特養の併設事業所型">特養の併設事業所型（9）</option><option value="単独型">単独型（1）</option><option value="特養の空床利用型">特養の空床利用型（1）</option></select>
+      </div>
+      <p class="flt-n" aria-live="polite"><span><b id="flt-n">11</b> / 11件を表示</span><button type="button" id="flt-reset" hidden>条件をクリア</button></p>
+    </div>
+    <div class="bizlist">
+    <div class="card" data-town="池袋本町" data-fk="特養の空床利用型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">1</span>特別養護老人ホーム池袋ほんちょうの郷</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 池袋本町１‐２９‐１２</dd><dt>運営法人</dt><dd>社会福祉法人フロンティア</dd><dt>電話</dt><dd><a class="tel" href="tel:0339716541">03-3971-6541</a></dd><dt>事業所番号</dt><dd class="id">1371600519</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.frontier-sw.or.jp/" target="_blank" rel="noopener">frontier-sw.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">池袋本町エリア</span><span class="tag">特養の空床利用</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="長崎" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">2</span>ゆたか苑</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 長崎３－２６－４</dd><dt>運営法人</dt><dd>社会福祉法人恩賜財団東京都同胞援護会</dd><dt>電話</dt><dd><a class="tel" href="tel:0339592129">03-3959-2129</a></dd><dt>定員</dt><dd>4</dd><dt>事業所番号</dt><dd class="id">1371600766</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.yutakaen-douen.com/" target="_blank" rel="noopener">yutakaen-douen.com<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">長崎エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="池袋" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">3</span>特別養護老人ホームシオンとしま</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 池袋１－４－１１</dd><dt>運営法人</dt><dd>社会福祉法人清栄会</dd><dt>電話</dt><dd><a class="tel" href="tel:0339847477">03-3984-7477</a></dd><dt>定員</dt><dd>2</dd><dt>事業所番号</dt><dd class="id">1371602077</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.seiei-kai.jp/" target="_blank" rel="noopener">seiei-kai.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">池袋エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="西巣鴨" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">4</span>特別養護老人ホーム菊かおる園</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 西巣鴨２－３０－１９</dd><dt>運営法人</dt><dd>社会福祉法人豊島区社会福祉事業団</dd><dt>電話</dt><dd><a class="tel" href="tel:0335762266">03-3576-2266</a></dd><dt>事業所番号</dt><dd class="id">1371602457</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.toshimaj.or.jp/kourei/k_shisetsu/s_kiku/" target="_blank" rel="noopener">toshimaj.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">西巣鴨エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="長崎" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">5</span>特別養護老人ホーム　アトリエ村</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 長崎４－２３－１</dd><dt>運営法人</dt><dd>社会福祉法人豊島区社会福祉事業団</dd><dt>電話</dt><dd><a class="tel" href="tel:0359653400">03-5965-3400</a></dd><dt>定員</dt><dd>8</dd><dt>事業所番号</dt><dd class="id">1371602523</dd><dt>公式サイト</dt><dd><a class="ext" href="https://www.toshimaj.or.jp" target="_blank" rel="noopener">toshimaj.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">長崎エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南池袋" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">6</span>池袋敬心苑</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 南池袋３－７－８</dd><dt>運営法人</dt><dd>社会福祉法人敬心福祉会</dd><dt>電話</dt><dd><a class="tel" href="tel:0359581165">03-5958-1165</a></dd><dt>事業所番号</dt><dd class="id">1371602531</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.keishinen.or.jp/ikebukuro/home/index.html" target="_blank" rel="noopener">keishinen.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">南池袋エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南長崎" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">7</span>特別養護老人ホーム　風かおる里</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 南長崎６－１５－６</dd><dt>運営法人</dt><dd>社会福祉法人豊島区社会福祉事業団</dd><dt>電話</dt><dd><a class="tel" href="tel:0359821021">03-5982-1021</a></dd><dt>事業所番号</dt><dd class="id">1371602549</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.toshimaj.or.jp" target="_blank" rel="noopener">toshimaj.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">南長崎エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="高田" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">8</span>特別養護老人ホーム　山吹の里</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 高田３－３７－１７</dd><dt>運営法人</dt><dd>社会福祉法人フロンティア</dd><dt>電話</dt><dd><a class="tel" href="tel:0339815051">03-3981-5051</a></dd><dt>定員</dt><dd>4</dd><dt>事業所番号</dt><dd class="id">1371602564</dd><dt>公式サイト</dt><dd><a class="ext" href="http://frontier-sw.or.jp" target="_blank" rel="noopener">frontier-sw.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">高田エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="南池袋" data-fk="単独型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">9</span>ショートステイ　しあわせの灯</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 南池袋４－５－１</dd><dt>運営法人</dt><dd>社会福祉法人櫻灯会</dd><dt>電話</dt><dd><a class="tel" href="tel:0359278050">03-5927-8050</a></dd><dt>事業所番号</dt><dd class="id">1371604826</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.outoukai.or.jp" target="_blank" rel="noopener">outoukai.or.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">南池袋エリア</span><span class="tag">単独型</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="要町" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">10</span>短期入所生活介護　千川の杜</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 要町３－５４－９</dd><dt>運営法人</dt><dd>社会福祉法人七日会</dd><dt>電話</dt><dd><a class="tel" href="tel:0359170370">03-5917-0370</a></dd><dt>定員</dt><dd>12</dd><dt>事業所番号</dt><dd class="id">1371605013</dd><dt>公式サイト</dt><dd><a class="ext" href="http://www.nanokakai.jp/senkawa-no-mori/" target="_blank" rel="noopener">nanokakai.jp<span class="exti" aria-hidden="true">↗</span></a><span class="sr">（外部サイトが開きます）</span></dd></dl>
       <div class="tags"><span class="tag">要町エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
     </div>
-    <div class="card">
+    <div class="card" data-town="東池袋" data-fk="特養の併設事業所型" data-kind="社会福祉法人（社協以外）">
       <h3><span class="no">11</span>東池袋桑の実園ショートステイ</h3>
       <dl class="dl"><dt>所在地</dt><dd>東京都 豊島区 東池袋５－３９－１８</dd><dt>運営法人</dt><dd>社会福祉法人桑の実園福祉会</dd><dt>電話</dt><dd><a class="tel" href="tel:0359281360">03-5928-1360</a></dd><dt>定員</dt><dd>10</dd><dt>事業所番号</dt><dd class="id">1371605203</dd></dl>
       <div class="tags"><span class="tag">東池袋エリア</span><span class="tag">併設・専用床</span><span class="tag">ショートステイ</span></div>
+    </div>
+    <p class="flt-empty" id="flt-empty" hidden>条件に合う事業所はありません。条件を1つ外してみてください。</p>
     </div>
     <div class="warn"><strong>掲載情報についてのお願い</strong><br>上記11件は、2026-09-22に豊島区および各事業者の公表情報で確認した内容です。営業時間・対応エリア・空き状況は変動しますので、連絡の前に必ず公式情報をご確認ください。掲載内容の訂正・削除は、<a href="../../../contact/">お問い合わせ</a>からご依頼いただければ<strong>理由の説明なしで削除します</strong>。</div>
 
@@ -850,5 +861,6 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 })();
 </script>
 <script src="../../../assets/measure.js" defer></script>
+<script src="../../../assets/filter.js" defer></script>
 </body>
 </html>
