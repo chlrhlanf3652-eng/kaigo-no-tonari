@@ -270,3 +270,18 @@ a.ext:hover{border-bottom-color:var(--c)}
    スマホ用 @media を打ち消していた。そのためスマホでも2カラムのままになり、
    画面幅375pxでページ幅が912pxになっていた。ファイルの最後で効かせ直す。 */
 @media(max-width:940px){.cols{grid-template-columns:minmax(0,1fr);gap:24px}}
+
+/* 事業所カード: 1枚を低くし、電話を主役にする（1枚325px→目標200px以下） */
+.card{padding:14px 16px;margin:0 0 10px}
+.card h3{margin:0 0 4px;font-size:17px;line-height:1.5}
+.c-sub{margin:0;font-size:14px;color:var(--ink2);line-height:1.6}
+.c-org::before{content:"・";margin:0 2px}
+.c-tags{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin:6px 0 0}
+.c-tags .tag{font-size:12px}
+.c-days{font-size:12.5px;color:var(--ink2)}
+.card .dl{margin-top:8px;font-size:14px}
+.c-act{display:flex;gap:8px;margin:8px 0 0}
+.c-act .tel{flex:1 1 auto;display:flex;align-items:center;justify-content:center;gap:8px;min-height:44px;border-radius:8px;background:var(--c);color:#fff;font-size:17px}
+.c-act .tel-l{font-size:12.5px;font-weight:500;opacity:.92}
+.c-act a.ext{flex:0 0 auto;display:flex;align-items:center;min-height:44px;padding:0 12px;border:1px solid var(--line);border-radius:8px;font-size:13.5px;word-break:normal;white-space:nowrap}
+.c-id{margin:4px 0 0;line-height:1.3;font-size:11.5px;color:var(--ink2);text-align:right;font-variant-numeric:tabular-nums;opacity:.8}

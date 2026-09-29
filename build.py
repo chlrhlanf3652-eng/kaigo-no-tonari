@@ -177,6 +177,18 @@ def _filter_bar(d):
     )
 
 
+# 住所の「１－３９－１７」は全角で幅を取り、スマホではほぼ必ず2行に折り返す。
+# 表示だけ半角にする（JSON-LD とCSVは元の表記のまま）。長音「ー」には触らない。
+_HALF = {**{chr(0xFF10 + i): str(i) for i in range(10)},
+         **{chr(0xFF21 + i): chr(0x41 + i) for i in range(26)},
+         **{chr(0xFF41 + i): chr(0x61 + i) for i in range(26)},
+         "\uff0d": "-", "\u3000": " "}
+
+
+def _half(s: str) -> str:
+    return "".join(_HALF.get(ch, ch) for ch in s)
+
+
 def render_listing(d: dict) -> str:
     """掲載事業者カードを描画する。住所・電話は data の値をそのまま使う。"""
     out = []
@@ -186,62 +198,72 @@ def render_listing(d: dict) -> str:
     if bar:
         out.append(bar)
     out.append('    <div class="bizlist">')
+    city = d["area"]["city_name"]
+    cat_name = d["category"]["name"]
     for i, it in enumerate(d["items"], 1):
-        rows = []
+        # --- 1行目: 住所（区名まではページで分かるので番地から）と、名前と違うときだけ運営法人
+        sub = []
         addr = it.get("address")
         if addr:
-            street = " ".join(x for x in [addr.get("addressRegion", ""), addr.get("addressLocality", ""),
-                                          addr.get("streetAddress", "")] if x)
-            rows.append(f"<dt>所在地</dt><dd>{esc(street)}</dd>")
-        if it.get("parentOrganization"):
-            org = it["parentOrganization"]
-            org = org if isinstance(org, str) else org.get("name", "")
-            rows.append(f"<dt>運営法人</dt><dd>{esc(org)}</dd>")
-        if it.get("telephone"):
-            tel = re.sub(r"[^0-9]", "", it["telephone"])
-            rows.append(f'<dt>電話</dt><dd><a class="tel" href="tel:{tel}">{esc(it["telephone"])}</a></dd>')
+            loc = addr.get("addressLocality", "")
+            street = addr.get("streetAddress", "")
+            sub.append(esc(_half(street if loc == city else " ".join(x for x in (loc, street) if x))))
+        org = it.get("parentOrganization")
+        org = org if isinstance(org, str) else (org or {}).get("name", "")
+        if org and re.sub(r"\s", "", org) != re.sub(r"\s", "", it["name"]):
+            sub.append(f'<span class="c-org">{esc(org)}</span>')
+
+        # --- 2行目: ひと目で分かる事実だけ。カテゴリ名と「〇〇エリア」は住所・ページと重複するので外す
+        chips = [f'<span class="tag">{esc(t)}</span>' for t in it.get("_tags", [])
+                 if t != cat_name and not t.endswith("エリア")]
+        if it.get("_capacity"):
+            chips.append(f'<span class="tag">定員{int(it["_capacity"])}人</span>')
+        if it.get("_days"):
+            short = {"土曜日": "土", "日曜日": "日", "祝日": "祝"}
+            chips.append('<span class="c-days">提供日 %s</span>'
+                         % esc("・".join(short.get(x, x) for x in it["_days"])))
+
+        # --- 数の少ない項目（宅配弁当・賃貸などにだけある）は従来どおり表で
+        rows = []
         if it.get("faxNumber"):
             rows.append(f'<dt>FAX</dt><dd>{esc(it["faxNumber"])}</dd>')
         if it.get("_hours"):
             rows.append(f'<dt>電話受付</dt><dd>{esc(it["_hours"])}</dd>')
         if it.get("_closed"):
             rows.append(f'<dt>事務所の休業日</dt><dd>{esc(it["_closed"])}</dd>')
-        # サービスを提供する曜日（厚労省オープンデータ）。
-        # 上の「事務所の休業日」とは別のもので、休業日に出ていても
-        # サービス自体は行われていることがある。見出しで区別する。
-        if it.get("_days"):
-            rows.append('<dt>サービス提供日</dt><dd>%s</dd>'
-                        % esc("・".join(it["_days"])))
-        if it.get("_capacity"):
-            rows.append(f'<dt>定員</dt><dd>{int(it["_capacity"])}</dd>')
-        if it.get("identifier"):
-            rows.append(f'<dt>事業所番号</dt><dd class="id">{esc(it["identifier"])}</dd>')
         if it.get("areaServed"):
             rows.append(f'<dt>対応エリア</dt><dd>{esc(it["areaServed"])}</dd>')
         if it.get("description"):
             rows.append(f'<dt>特徴</dt><dd>{esc(it["description"])}</dd>')
-        # 公式サイトの URL は data にあるのに出していなかった。
-        # 載せないと利用者は自分で検索し直すことになるし、離脱の計測もできない。
+
+        # --- 電話を主役に。ここが利用者にとっての「次の一歩」で、tel_tap で計測している
+        act = []
+        if it.get("telephone"):
+            tel = re.sub(r"[^0-9]", "", it["telephone"])
+            act.append(f'<a class="tel" href="tel:{tel}"><span class="tel-l">電話する</span>'
+                       f'{esc(it["telephone"])}</a>')
         if it.get("url"):
-            u = it["url"]
-            host = re.sub(r"^https?://(?:www\.)?", "", u).split("/")[0]
-            rows.append('<dt>公式サイト</dt><dd>'
-                        f'<a class="ext" href="{esc(u)}" target="_blank" rel="noopener">'
-                        f'{esc(host)}<span class="exti" aria-hidden="true">↗</span></a>'
-                        '<span class="sr">（外部サイトが開きます）</span></dd>')
-        tags = "".join(f'<span class="tag">{esc(t)}</span>' for t in it.get("_tags", []))
+            act.append(f'<a class="ext" href="{esc(it["url"])}" target="_blank" rel="noopener">'
+                       '公式サイト<span class="exti" aria-hidden="true">↗</span>'
+                       '<span class="sr">（外部サイトが開きます）</span></a>')
+
         out.append(
             f'    <div class="card"{_card_attrs(it)}>\n'
             f'      <h3><span class="no">{i}</span>{esc(it["name"])}</h3>\n'
-            f'      <dl class="dl">{"".join(rows)}</dl>\n'
-            + (f'      <div class="tags">{tags}</div>\n' if tags else "")
+            + (f'      <p class="c-sub">{"".join(sub)}</p>\n' if sub else "")
+            + (f'      <div class="c-tags">{"".join(chips)}</div>\n' if chips else "")
+            + (f'      <dl class="dl">{"".join(rows)}</dl>\n' if rows else "")
+            + (f'      <div class="c-act">{"".join(act)}</div>\n' if act else "")
+            # 事業所番号は利用者の判断材料ではないが、厚労省の公表システムで
+            # 照合するときの手がかりなので、消さずに小さく残す
+            + (f'      <p class="c-id">事業所番号 {esc(it["identifier"])}</p>\n'
+               if it.get("identifier") else "")
             + "    </div>"
         )
     if bar:
         out.append('    <p class="flt-empty" id="flt-empty" hidden>条件に合う事業所はありません。'
                    '条件を1つ外してみてください。</p>')
     out.append('    </div>')
-    city = d["area"]["city_name"]
     out.append(
         '    <div class="warn"><strong>掲載情報についてのお願い</strong><br>'
         f'上記{len(d["items"])}件は、{d["modified"]}に{city}および各事業者の公表情報で確認した内容です。'
