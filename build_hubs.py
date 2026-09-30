@@ -300,7 +300,8 @@ def build_static():
              "dateModified": MODIFIED.get(slug, "2026-09-21"), "inLanguage": "ja"},
             {"@type": "BreadcrumbList", "itemListElement": [
                 {"@type": "ListItem", "position": i + 1, "name": n,
-                 **({"item": f"{SITE}/"} if i == 0 else {})}
+                 # 最後以外の項目には item(URL) が必須（無いとGoogleが「無効な項目」と判定する）
+                 **({"item": f"{SITE}/" + ("guide/" if i == 1 else "")} if i < len(crumb) - 1 else {})}
                 for i, (n, _) in enumerate(crumb)]},
         ]
         content = "  " + partial(key, root).strip() + "\n"
