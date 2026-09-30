@@ -208,6 +208,7 @@ def build(wid, site):
         days=day_rows, day_note=day_note, caps=cap_rows, cap_note=cap_note)
     # 区ごとの公的統計（高齢化率・要介護認定者数）を本文の最後に足す
     content += "\n\n    " + KO.section(wid, ward, "day-service", total)
+    content = KO.glance(wid, ward, "day-service", total) + "\n\n    " + content
     (BASE / "content" / f"day-service_tokyo_{wid}.html").write_text(content, encoding="utf-8")
 
     nonstop_note = ""

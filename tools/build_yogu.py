@@ -246,6 +246,7 @@ def build(wid, site):
         near=near_rows, neart=near_total, nearc=near_cnt)
     # 区ごとの公的統計（高齢化率・要介護認定者数）を本文の最後に足す
     content += "\n\n    " + KO.section(wid, ward, "fukushi-yogu", total)
+    content = KO.glance(wid, ward, "fukushi-yogu", total) + "\n\n    " + content
     (BASE / "content" / f"fukushi-yogu_tokyo_{wid}.html").write_text(
         content, encoding="utf-8")
 
@@ -304,6 +305,7 @@ def build(wid, site):
         '      <div class="side">\n'
         '        <h4>関連ガイド</h4>\n'
         '        <ul>\n'
+        '          <li><a href="{{ROOT}}guide/fukushi-yogu-kariru-kau/">福祉用具はレンタル？購入？</a></li>\n'
         '          <li><a href="{{ROOT}}guide/youkaigo-nintei/">要介護認定の申請方法</a></li>\n'
         '          <li><a href="{{ROOT}}guide/soudan-madoguchi/">相談窓口の探し方</a></li>\n'
         '          <li><a href="{{ROOT}}fukushi-yogu/">福祉用具のしくみ</a></li>\n'

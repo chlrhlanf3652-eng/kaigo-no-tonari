@@ -73,8 +73,8 @@ HOUMON_KAIGO = """<h2 id="s1">%(ward)sで訪問介護を探すとき、最初に
       <caption class="tiny" style="text-align:left;padding-bottom:6px">%(ward)sでの自己負担の目安（1割負担の場合）</caption>
       <thead><tr><th>よく使われるサービス</th><th>単位数</th><th>1割負担</th></tr></thead>
       <tbody>
-        <tr><th>身体介護 20分以上30分未満</th><td class="num">244単位</td><td class="num">約278円</td></tr>
-        <tr><th>身体介護 30分以上1時間未満</th><td class="num">387単位</td><td class="num">約441円</td></tr>
+        <tr><th>身体介護 20分以上30分未満</th><td class="num">244単位</td><td class="num">約279円</td></tr>
+        <tr><th>身体介護 30分以上1時間未満</th><td class="num">387単位</td><td class="num">約442円</td></tr>
         <tr><th>生活援助 20分以上45分未満</th><td class="num">179単位</td><td class="num">約204円</td></tr>
       </tbody>
     </table>

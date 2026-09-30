@@ -317,6 +317,7 @@ def build(wid, site):
         unit3=f"{yen1(UNITS_UNIT[3][0]):,}")
     # 区ごとの公的統計（高齢化率・要介護認定者数）を本文の最後に足す
     content += "\n\n    " + KO.section(wid, ward, "short-stay", total)
+    content = KO.glance(wid, ward, "short-stay", total) + "\n\n    " + content
     (BASE / "content" / f"short-stay_tokyo_{wid}.html").write_text(
         content, encoding="utf-8")
 
@@ -379,6 +380,7 @@ def build(wid, site):
         '      <div class="side">\n'
         '        <h4>関連ガイド</h4>\n'
         '        <ul>\n'
+        '          <li><a href="{{ROOT}}guide/short-stay-hiyou/">ショートステイの費用と使い方</a></li>\n'
         '          <li><a href="{{ROOT}}guide/youkaigo-nintei/">要介護認定の申請方法</a></li>\n'
         '          <li><a href="{{ROOT}}guide/soudan-madoguchi/">相談窓口の探し方</a></li>\n'
         '          <li><a href="{{ROOT}}short-stay/">ショートステイのしくみ</a></li>\n'

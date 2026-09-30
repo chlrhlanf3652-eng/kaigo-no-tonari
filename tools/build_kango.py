@@ -180,6 +180,7 @@ def build(wid, site):
         days=day_rows, day_note=day_note)
     # 区ごとの公的統計（高齢化率・要介護認定者数）を本文の最後に足す
     content += "\n\n    " + KO.section(wid, ward, "houmon-kango", total)
+    content = KO.glance(wid, ward, "houmon-kango", total) + "\n\n    " + content
     (BASE / "content" / f"houmon-kango_tokyo_{wid}.html").write_text(content, encoding="utf-8")
 
     faq = [
@@ -241,6 +242,7 @@ def build(wid, site):
         '      <div class="side">\n'
         '        <h4>関連ガイド</h4>\n'
         '        <ul>\n'
+        '          <li><a href="{{ROOT}}guide/houmon-kango-chigai/">訪問介護と訪問看護の違い</a></li>\n'
         '          <li><a href="{{ROOT}}guide/youkaigo-nintei/">要介護認定の申請方法</a></li>\n'
         '          <li><a href="{{ROOT}}guide/soudan-madoguchi/">相談窓口の探し方</a></li>\n'
         '          <li><a href="{{ROOT}}guide/houmon-kaigo-dekirukoto/">ヘルパーに頼めること</a></li>\n'

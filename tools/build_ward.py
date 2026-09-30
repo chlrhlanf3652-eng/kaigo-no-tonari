@@ -159,6 +159,7 @@ def build(wid, site):
         open_min=st["open_min"], open_max=st["open_max"], hours_note=hours_note)
     # 区ごとの公的統計（高齢化率・要介護認定者数）を本文の最後に足す
     content += "\n\n    " + KO.section(wid, ward, "houmon-kaigo", total)
+    content = KO.glance(wid, ward, "houmon-kaigo", total) + "\n\n    " + content
     (BASE / "content" / f"houmon-kaigo_tokyo_{wid}.html").write_text(content, encoding="utf-8")
 
     faq = [
@@ -184,7 +185,7 @@ def build(wid, site):
               "曜日はサービスを提供する日で、事務所の電話がつながる時間帯とは別です。"},
         {"q": "訪問介護の自己負担はいくらくらいですか？",
          "a": f"{ward}は介護報酬の地域区分で1級地（1単位＝11.40円）にあたるため、自己負担1割なら"
-              "身体介護20分以上30分未満で約278円、生活援助20分以上45分未満で約204円が目安になります。"
+              "身体介護20分以上30分未満で約279円、生活援助20分以上45分未満で約204円が目安になります。"
               f"処遇改善加算や区分支給限度基準額まで含めた考え方は{ward}に限らず共通なので、"
               "「訪問介護の料金のしくみ」にまとめました。"},
         {"q": f"{ward}の事業所は、途中で変更できますか？",
@@ -210,13 +211,14 @@ def build(wid, site):
         '        <ul>\n'
         f'          <li>{ward}内の訪問介護事業所は{total}件</li>\n'
         f'          <li>{ward}は1級地（1単位11.40円）</li>\n'
-        '          <li>身体介護30分未満で約278円（1割）</li>\n'
+        '          <li>身体介護30分未満で約279円（1割）</li>\n'
         f'          <li>最初の相談は{madoguchi}</li>\n'
         '        </ul>\n'
         '      </div>\n'
         '      <div class="side">\n'
         '        <h4>関連ガイド</h4>\n'
         '        <ul>\n'
+        '          <li><a href="{{ROOT}}guide/houmon-kango-chigai/">訪問介護と訪問看護の違い</a></li>\n'
         '          <li><a href="{{ROOT}}guide/youkaigo-nintei/">要介護認定の申請方法</a></li>\n'
         '          <li><a href="{{ROOT}}guide/caremanager/">ケアマネジャーの選び方</a></li>\n'
         '          <li><a href="{{ROOT}}guide/kubun-shikyu-gendo/">区分支給限度基準額とは</a></li>\n'

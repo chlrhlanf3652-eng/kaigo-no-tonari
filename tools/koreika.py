@@ -96,3 +96,39 @@ def section(wid: str, ward: str, cat: str, total: int, sid: str = "s9") -> str:
     </div>
     <p>{ward}で要介護・要支援の認定を受けているのは{d['nintei']:,}人、区内の{label}は{total}件なので、<strong>1事業所あたり{per:.0f}人</strong>という計算になります。認定者が全員このサービスを使うわけではないため、混み具合そのものではありません。</p>
     <p class="tiny">認定者数は第1号被保険者（65歳以上）の再掲値で、40〜64歳の方は含みません。出典はページ下部に記載しています。</p>"""
+
+
+def _rank(vals: dict, wid: str) -> int:
+    """大きい順の順位（同値は同順位）。"""
+    me = vals[wid]
+    return 1 + sum(1 for v in vals.values() if v > me)
+
+
+def glance(wid: str, ward: str, cat: str, total: int) -> str:
+    """一覧ページの冒頭に置く「数字で見る」ボックス。
+
+    同業の一覧ページは事業所を並べるだけで、区どうしを比べた数字は出していない。
+    ここに出す順位はすべて公的データ（東京都の指定事業所一覧・住民基本台帳）から
+    計算したもので、このサイトにしかない情報になる。
+    """
+    import linkgrid as LG
+    d = stats(wid)
+    counts = dict(LG.counts(cat))
+    if not d or wid not in counts:
+        return ""
+    counts[wid] = total
+    per = {w: counts[w] / stats(w)["p65"] * 10000
+           for w in counts if stats(w) and stats(w).get("p65")}
+    rates = {w: v["rate65"] for w, v in _d.items()}
+    n23 = len(counts)
+    label = CAT_LABEL.get(cat, "事業所")
+    return f"""<div class="glance">
+      <p class="glance-h">数字で見る{ward}の{label}</p>
+      <dl>
+        <div><dt>区内の事業所</dt><dd><b>{total:,}</b>件<small>{n23}区中{_rank(counts, wid)}位（多い順）</small></dd></div>
+        <div><dt>65歳以上1万人あたり</dt><dd><b>{per[wid]:.1f}</b>件<small>{len(per)}区中{_rank(per, wid)}位（多い順）</small></dd></div>
+        <div><dt>高齢化率</dt><dd><b>{d['rate65']}</b>%<small>23区中{_rank(rates, wid)}位（高い順）</small></dd></div>
+        <div><dt>要介護・要支援の認定</dt><dd><b>{d['nintei']:,}</b>人<small>65歳以上の{d['ninteiritsu']}%</small></dd></div>
+      </dl>
+      <p class="glance-n">事業所数は東京都福祉局の指定事業所一覧（2026年9月1日時点）、人口は住民基本台帳（2026年1月1日時点）から計算。<a href="#s9">区の統計をくわしく見る</a></p>
+    </div>"""

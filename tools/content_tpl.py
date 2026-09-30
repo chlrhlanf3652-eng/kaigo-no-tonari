@@ -51,7 +51,7 @@ HOUMON_KAIGO = """<h2 id="s1">はじめての方へ：3分でわかる流れ</h2
           <text x="702" y="103" font-size="28" fill="#55636a">＝</text>
           <rect x="730" y="52" width="146" height="86" rx="10" fill="#fdf1ea" stroke="#f0d0bc"/>
           <text x="803" y="80" font-size="14" fill="#a9491a">自己負担</text>
-          <text x="803" y="112" font-size="28" font-weight="700" fill="#d9622a">約278円</text>
+          <text x="803" y="112" font-size="28" font-weight="700" fill="#d9622a">約279円</text>
           <text x="450" y="28" font-size="15" font-weight="700" fill="#1d2b2a">訪問介護の自己負担が決まる3つの数字</text>
           <text x="450" y="172" font-size="12" fill="#55636a">※実際の請求額には処遇改善加算などが上乗せされます</text>
         </g>
@@ -67,10 +67,10 @@ HOUMON_KAIGO = """<h2 id="s1">はじめての方へ：3分でわかる流れ</h2
       </thead>
       <tbody>
         <tr><th rowspan="3">身体介護が中心</th><td>20分未満</td><td class="num">163単位</td><td class="num">約186円</td></tr>
-        <tr><td>20分以上30分未満</td><td class="num">244単位</td><td class="num">約278円</td></tr>
-        <tr><td>30分以上1時間未満</td><td class="num">387単位</td><td class="num">約441円</td></tr>
+        <tr><td>20分以上30分未満</td><td class="num">244単位</td><td class="num">約279円</td></tr>
+        <tr><td>30分以上1時間未満</td><td class="num">387単位</td><td class="num">約442円</td></tr>
         <tr><th rowspan="2">生活援助が中心</th><td>20分以上45分未満</td><td class="num">179単位</td><td class="num">約204円</td></tr>
-        <tr><td>45分以上70分未満</td><td class="num">220単位</td><td class="num">約251円</td></tr>
+        <tr><td>45分以上</td><td class="num">220単位</td><td class="num">約251円</td></tr>
       </tbody>
     </table>
     </div>
