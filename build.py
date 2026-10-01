@@ -228,6 +228,8 @@ def render_listing(d: dict) -> str:
     out = []
     if d.get("listing_note"):
         out.append(f'    <p class="cnt">{d["listing_note"]}</p>')
+    # 「事業所一覧へ」ボタンの飛び先。絞り込みバーと地図を含めた一覧全体の先頭
+    out.append('    <div id="jigyosho"></div>')
     bar = _filter_bar(d)
     if bar:
         out.append(bar)
@@ -241,7 +243,7 @@ def render_listing(d: dict) -> str:
                 '      <p class="kmap-n" id="kmap-n" hidden>地図：<a href="https://maps.gsi.go.jp/development/ichiran.html" target="_blank" rel="noopener">国土地理院（地理院タイル）</a>を加工して作成。'
                 '位置は厚生労働省の公表データの座標で、建物の入口とずれることがあります。</p>\n'
                 '    </div>')
-    out.append('    <div class="bizlist" id="jigyosho">')
+    out.append('    <div class="bizlist">')
     city = d["area"]["city_name"]
     cat_name = d["category"]["name"]
     for i, it in enumerate(d["items"], 1):

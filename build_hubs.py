@@ -625,7 +625,7 @@ def build_ward_hub(pref_id, wid):
             f'  <p>{ward}の事業所数を、23区の中で比べました。「1万人あたり」は65歳以上の人口1万人に対する事業所数で、'
             '高齢者の数に対して事業所が多いか少ないかの目安になります。順位はどちらも多い順です。</p>\n'
             '  <div class="tw">\n  <table>\n'
-            '    <thead><tr><th>サービス</th><th>区内の事業所</th><th>23区中</th><th>65歳以上1万人あたり</th><th>23区中</th></tr></thead>\n'
+            '    <thead><tr><th>サービス</th><th>区内の事業所</th><th>23区中</th><th>65歳以上<br>1万人あたり</th><th>23区中</th></tr></thead>\n'
             '    <tbody>\n' + "".join(rank_rows) + '    </tbody>\n  </table>\n  </div>\n'
             '  <p class="tiny">事業所数は東京都福祉局の指定事業所一覧（2026年9月1日時点）、人口は住民基本台帳（2026年1月1日時点）から計算しています。</p>\n')
 
