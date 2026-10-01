@@ -385,12 +385,8 @@ _TOWN_TABLE = re.compile(
 
 def _mobile_tweaks(content: str, d: dict) -> str:
     """スマホで一覧にたどり着くまでが長いので、2つだけ手当てする。
-    ① 冒頭に「事業所一覧へ」のジャンプボタン（CSSでスマホ幅のときだけ表示）
+    ① 冒頭の「事業所一覧へ」ボタンは build() でテンプレートの見出し直下に入れる
     ② 町域ごとの事業所名の表（一覧と同じ情報で、スマホだと2,000px超）を折りたたむ"""
-    n = len(d.get("items") or [])
-    if n and 'id="jigyosho"' in content:
-        content = (f'<a class="jump" href="#jigyosho">事業所一覧へ<small>（{n}件）</small></a>\n    '
-                   + content.lstrip())
 
     def fold(m):
         rows = m.group("tw").count("<tr>") - 1
@@ -403,6 +399,11 @@ def build(slug: str) -> pathlib.Path:
     d = json.loads((BASE / "data" / f"{slug}.json").read_text(encoding="utf-8"))
     content = (BASE / "content" / f"{slug}.html").read_text(encoding="utf-8")
     tpl = (BASE / "templates" / "city.html").read_text(encoding="utf-8")
+    n_items = len(d.get("items") or [])
+    if n_items:
+        # スマホでは一覧が4画面ほど下から始まるので、見出しのすぐ下に飛ぶボタンを置く（CSSでスマホ幅だけ表示）
+        tpl = tpl.replace("    {{HERO_IMAGE}}",
+                          f'    <a class="jump" href="#jigyosho">事業所一覧へ<small>（{n_items}件）</small></a>\n    {{{{HERO_IMAGE}}}}', 1)
 
     cat, area = d["category"], d["area"]
     out_dir = BASE / cat["id"] / area["pref_id"] / area["city_id"]

@@ -324,7 +324,7 @@ details.more .tw{margin:0;padding:0 10px 10px}
   td.num{white-space:normal}
   .tw table thead th{font-size:13px}
   /* 冒頭の「事業所一覧へ」 */
-  .jump{display:flex;align-items:center;justify-content:center;gap:4px;min-height:48px;margin:0 0 18px;border-radius:8px;background:var(--c);color:#fff;font-weight:700;font-size:16px;text-decoration:none}
+  .jump{display:flex;align-items:center;justify-content:center;gap:4px;min-height:48px;margin:4px 0 16px;border-radius:8px;background:var(--c);color:#fff;font-weight:700;font-size:16px;text-decoration:none}
   .jump small{font-weight:400;font-size:13px;opacity:.9}
   .jump::after{content:"↓";margin-left:6px}
   /* 文字サイズ切替ボタンを押しやすく */
@@ -334,3 +334,9 @@ details.more .tw{margin:0;padding:0 10px 10px}
   .lg a{padding:10px 12px;font-size:14.5px}
   .lg.tight{grid-template-columns:repeat(3,minmax(0,1fr))}
 }
+@media(max-width:700px){
+  /* 5列以上の表は文字を一段小さくして、なるべく横スクロールなしで収める */
+  .tw table:has(tr > :nth-child(5)){font-size:12.5px}
+  .tw table:has(tr > :nth-child(5)) th,.tw table:has(tr > :nth-child(5)) td{padding:6px 5px}
+}
+@media(max-width:700px){.tw th a,.tw td a{display:inline-block;padding:7px 0}}
