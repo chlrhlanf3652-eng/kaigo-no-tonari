@@ -306,3 +306,5 @@ a.ext:hover{border-bottom-color:var(--c)}
 .c-act a.ext.map{padding:0 10px}
 .card:target{outline:2px solid var(--a);outline-offset:2px}
 @media(max-width:640px){.kmap{height:300px}}
+/* 地図ボタンが増えた分、狭い画面では「電話する」の文字を記号にして番号を1行に収める */
+@media(max-width:420px){.c-act{gap:6px}.c-act .tel-l{display:none}.c-act .tel::before{content:"☎";font-size:16px}.c-act .tel{font-size:16px;white-space:nowrap;padding:0 8px}.c-act a.ext{padding:0 9px;font-size:13px}}
