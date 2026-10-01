@@ -308,3 +308,29 @@ a.ext:hover{border-bottom-color:var(--c)}
 @media(max-width:640px){.kmap{height:300px}}
 /* 地図ボタンが増えた分、狭い画面では「電話する」の文字を記号にして番号を1行に収める */
 @media(max-width:420px){.c-act{gap:6px}.c-act .tel-l{display:none}.c-act .tel::before{content:"☎";font-size:16px}.c-act .tel{font-size:16px;white-space:nowrap;padding:0 8px}.c-act a.ext{padding:0 9px;font-size:13px}}
+
+/* ===== スマホ最適化（2026-10-01）=====
+   ファイル末尾に置くのは、途中の重複ブロックが前方の @media を打ち消すため（.cols と同じ理由）。 */
+.jump{display:none}
+details.more{margin:14px 0}
+details.more summary{cursor:pointer;padding:12px 14px;font-size:15px;color:var(--c);font-weight:700;min-height:44px;box-sizing:border-box}
+details.more summary small{font-weight:400;color:var(--ink2);font-size:12.5px;margin-left:4px}
+details.more .tw{margin:0;padding:0 10px 10px}
+#jigyosho,#s2{scroll-margin-top:72px}
+@media(max-width:700px){
+  /* 表：横スクロールさせず画面幅に収める。収まらない表だけ従来どおり横にスクロール */
+  table{min-width:0;font-size:14px;line-height:1.6}
+  th,td{padding:8px 9px}
+  td.num{white-space:normal}
+  .tw table thead th{font-size:13px}
+  /* 冒頭の「事業所一覧へ」 */
+  .jump{display:flex;align-items:center;justify-content:center;gap:4px;min-height:48px;margin:0 0 18px;border-radius:8px;background:var(--c);color:#fff;font-weight:700;font-size:16px;text-decoration:none}
+  .jump small{font-weight:400;font-size:13px;opacity:.9}
+  .jump::after{content:"↓";margin-left:6px}
+  /* 文字サイズ切替ボタンを押しやすく */
+  .fs button{min-height:36px;padding:3px 14px}
+  /* リンクのタイルは2列に */
+  .lg{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+  .lg a{padding:10px 12px;font-size:14.5px}
+  .lg.tight{grid-template-columns:repeat(3,minmax(0,1fr))}
+}

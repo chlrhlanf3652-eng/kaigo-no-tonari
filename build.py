@@ -241,7 +241,7 @@ def render_listing(d: dict) -> str:
                 '      <p class="kmap-n" id="kmap-n" hidden>地図：<a href="https://maps.gsi.go.jp/development/ichiran.html" target="_blank" rel="noopener">国土地理院（地理院タイル）</a>を加工して作成。'
                 '位置は厚生労働省の公表データの座標で、建物の入口とずれることがあります。</p>\n'
                 '    </div>')
-    out.append('    <div class="bizlist">')
+    out.append('    <div class="bizlist" id="jigyosho">')
     city = d["area"]["city_name"]
     cat_name = d["category"]["name"]
     for i, it in enumerate(d["items"], 1):
@@ -378,6 +378,27 @@ def render_toc(content: str) -> str:
     return "\n".join(rows)
 
 
+_TOWN_TABLE = re.compile(
+    r'(?P<tw><div class="tw">\s*<table>\s*<thead><tr><th[^>]*>町域</th><th>掲載事業所</th></tr></thead>.*?</table>\s*</div>)',
+    re.S)
+
+
+def _mobile_tweaks(content: str, d: dict) -> str:
+    """スマホで一覧にたどり着くまでが長いので、2つだけ手当てする。
+    ① 冒頭に「事業所一覧へ」のジャンプボタン（CSSでスマホ幅のときだけ表示）
+    ② 町域ごとの事業所名の表（一覧と同じ情報で、スマホだと2,000px超）を折りたたむ"""
+    n = len(d.get("items") or [])
+    if n and 'id="jigyosho"' in content:
+        content = (f'<a class="jump" href="#jigyosho">事業所一覧へ<small>（{n}件）</small></a>\n    '
+                   + content.lstrip())
+
+    def fold(m):
+        rows = m.group("tw").count("<tr>") - 1
+        return ('<details class="more"><summary>町域ごとの事業所名を見る'
+                f'<small>（{rows}町域）</small></summary>\n    {m.group("tw")}\n    </details>')
+    return _TOWN_TABLE.sub(fold, content, count=1)
+
+
 def build(slug: str) -> pathlib.Path:
     d = json.loads((BASE / "data" / f"{slug}.json").read_text(encoding="utf-8"))
     content = (BASE / "content" / f"{slug}.html").read_text(encoding="utf-8")
@@ -388,6 +409,7 @@ def build(slug: str) -> pathlib.Path:
     root = "../" * 3  # /<cat>/<pref>/<city>/ からサイトルートまで
 
     content = content.replace("{{LISTING}}", render_listing(d))
+    content = _mobile_tweaks(content, d)
     content = content.replace("{{FAQ}}", render_faq(d))
     towns_html = render_towns(d)
 
