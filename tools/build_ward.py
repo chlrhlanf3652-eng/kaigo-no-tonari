@@ -222,7 +222,7 @@ def build(wid, site):
         '          <li><a href="{{ROOT}}guide/youkaigo-nintei/">要介護認定の申請方法</a></li>\n'
         '          <li><a href="{{ROOT}}guide/caremanager/">ケアマネジャーの選び方</a></li>\n'
         '          <li><a href="{{ROOT}}guide/kubun-shikyu-gendo/">区分支給限度基準額とは</a></li>\n'
-        '          <li><a href="{{ROOT}}guide/jihi-service/">介護保険外サービスの相場</a></li>\n'
+        '          <li><a href="{{ROOT}}guide/youkaigodo-betsu/">要介護度別に使えるサービス</a></li>\n'
         '        </ul>\n'
         '      </div>')
 

@@ -266,6 +266,21 @@ STATIC = [
     ("guide/short-stay-hiyou", "ショートステイの費用と使い方", "ショートステイの費用と使い方｜1日いくら？東京23区の目安と30日ルール",
      "ショートステイ（短期入所生活介護）の1日あたりの費用を東京23区の単価11.10円で計算。要介護度別の自己負担、2026年8月改定の食費、滞在費、負担限度額認定、連続30日のルール、区立施設の予約時期までまとめました。",
      "費用は「介護サービス費」と「食費・滞在費」の2つ。後者は保険がきかず、1日の負担の半分以上を占めます。", None),
+    ("guide/day-service-ryokin", "デイサービスの料金", "デイサービスの料金｜1日いくら？要介護度×時間の早見表（東京23区）",
+     "デイサービス（通所介護）の1日の料金を、要介護度と利用時間ごとに東京23区の単価10.90円で計算した早見表。施設の規模による違い、入浴・機能訓練の加算、食費、要支援の月額制、1か月の上限まで出典つきでまとめました。",
+     "料金は「要介護度×いる時間×施設の規模」。東京23区で要介護1・7〜8時間なら1割負担718円です。", None),
+    ("guide/youkaigodo-betsu", "要介護度別に使えるサービス", "要介護度別に使えるサービス｜要支援1〜要介護5で何が変わるか",
+     "要支援1から要介護5までの7段階の違いを、認定の基準時間、状態の目安、1か月の上限、介護ベッドのレンタル、特別養護老人ホームの入所条件、認定の有効期間で比べました。東京23区での金額の目安つき。",
+     "要支援2と要介護1は介護にかかる時間の目安が同じ。それでも使えるサービスは大きく変わります。", None),
+    ("guide/caremanager", "ケアマネジャーの選び方", "ケアマネジャーの選び方｜探し方・確認する5つのこと・変え方",
+     "ケアマネジャー（介護支援専門員）の役割と探し方、選ぶときに確認したい5つのこと、事業所を選んだ理由の説明を求められる権利、合わないときの変え方まで。ケアプランの作成に自己負担はありません。",
+     "ケアプランの作成は自己負担なし。合わなければいつでも変えられます。", None),
+    ("guide/kachin-hosho", "家賃債務保証会社の選び方", "家賃債務保証会社の選び方｜国の登録・認定と契約書で見るところ",
+     "保証人がいない高齢者が賃貸を借りるときに使う家賃債務保証会社。国土交通省の登録制度と2025年10月からの認定制度、最高裁で無効とされた「追い出し条項」、新宿区・杉並区の保証料助成まで出典つきで解説します。",
+     "保証会社は家賃を「立て替える」だけ。国の登録・認定を受けた会社を選ぶのが安心です。", None),
+    ("guide/housing-safety-net", "住宅セーフティネット制度とは", "住宅セーフティネット制度とは｜登録住宅・居住サポート住宅の探し方",
+     "高齢者などの入居を拒まない賃貸住宅を登録する住宅セーフティネット制度。3つの柱、登録住宅と専用住宅の違い、2025年10月の改正で始まった居住サポート住宅、東京での探し方と相談先をまとめました。",
+     "「入居を拒まない」住宅を国が登録する制度です。2025年10月から見守りつきの住宅も加わりました。", None),
     ("guide/soudan-madoguchi", "介護の相談窓口の探し方", "介護の相談窓口の探し方｜かいごのとなり",
      "介護がはじめての方の相談先である地域包括支援センターについて、自治体ごとに違う呼び名、担当地域の決まり方、相談前に用意しておくとよいものをまとめました。",
      "介護がはじめての方の相談先は、市区町村が設置している<strong>地域包括支援センター</strong>です。相談は無料です。", None),
@@ -275,10 +290,15 @@ STATIC = [
 # 内容を見直したページの更新日（構造化データの dateModified に使う）
 MODIFIED = {
     "guide/houmon-kaigo-ryokin": "2026-09-30",
-    "guide/koreisha-chintai-kotowarareru": "2026-09-30",
     "guide/houmon-kango-chigai": "2026-09-30",
     "guide/fukushi-yogu-kariru-kau": "2026-09-30",
     "guide/short-stay-hiyou": "2026-09-30",
+    "guide/day-service-ryokin": "2026-10-01",
+    "guide/youkaigodo-betsu": "2026-10-01",
+    "guide/caremanager": "2026-10-01",
+    "guide/kachin-hosho": "2026-10-01",
+    "guide/housing-safety-net": "2026-10-01",
+    "guide/koreisha-chintai-kotowarareru": "2026-10-01",
 }
 
 
@@ -587,6 +607,28 @@ def build_ward_hub(pref_id, wid):
             '    </tbody>\n  </table>\n  </div>\n'
         )
 
+    # 5サービスの区内件数を23区で比べる（KO.glance と同じ計算。一覧ページの冒頭ボックスと数字がそろう）
+    rank_rows = []
+    for cat, (_, cname, _) in LG.CATS.items():
+        c = LG.counts(cat)
+        if wid not in c or not st:
+            continue
+        per = {w: c[w] / KO.stats(w)["p65"] * 10000 for w in c if KO.stats(w)}
+        rank_rows.append(
+            f'      <tr><th><a href="{root}{cat}/{pref_id}/{wid}/">{cname}</a></th>'
+            f'<td class="num">{c[wid]:,}件</td><td class="num">{KO._rank(c, wid)}位</td>'
+            f'<td class="num">{per[wid]:.1f}件</td><td class="num">{KO._rank(per, wid)}位</td></tr>\n')
+    rank_html = ""
+    if rank_rows:
+        rank_html = (
+            f'  <h2 id="rank">数字で見る{ward}の介護サービス</h2>\n'
+            f'  <p>{ward}の事業所数を、23区の中で比べました。「1万人あたり」は65歳以上の人口1万人に対する事業所数で、'
+            '高齢者の数に対して事業所が多いか少ないかの目安になります。順位はどちらも多い順です。</p>\n'
+            '  <div class="tw">\n  <table>\n'
+            '    <thead><tr><th>サービス</th><th>区内の事業所</th><th>23区中</th><th>65歳以上1万人あたり</th><th>23区中</th></tr></thead>\n'
+            '    <tbody>\n' + "".join(rank_rows) + '    </tbody>\n  </table>\n  </div>\n'
+            '  <p class="tiny">事業所数は東京都福祉局の指定事業所一覧（2026年9月1日時点）、人口は住民基本台帳（2026年1月1日時点）から計算しています。</p>\n')
+
     others = "\n      ".join(
         f'<a href="{root}{pref_id}/{x}/">{w["name"]}</a>' for x, w in W.items() if x != wid)
 
@@ -600,7 +642,7 @@ def build_ward_hub(pref_id, wid):
         '無料で相談できます。担当の窓口はお住まいの町名で決まります。</p>\n'
         '  <div class="lg"><a href="{{ROOT}}guide/soudan-madoguchi/">相談窓口の探し方<small>まず相談する場所</small></a>'
         '<a href="{{ROOT}}guide/youkaigo-nintei/">要介護認定の申請から利用開始まで<small>1か月〜1か月半かかります</small></a></div>\n'
-        + stats_html +
+        + rank_html + stats_html +
         '  <h2 id="other">ほかの区から探す</h2>\n'
         f'  <div class="lg tight">\n      {others}\n  </div>\n'
         '  <div class="src"><strong>参考・出典</strong><ul>'

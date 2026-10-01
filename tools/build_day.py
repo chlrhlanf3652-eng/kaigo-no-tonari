@@ -267,6 +267,7 @@ def build(wid, site):
         '      <div class="side">\n'
         '        <h4>関連ガイド</h4>\n'
         '        <ul>\n'
+        '          <li><a href="{{ROOT}}guide/day-service-ryokin/">デイサービスの料金</a></li>\n'
         '          <li><a href="{{ROOT}}guide/youkaigo-nintei/">要介護認定の申請方法</a></li>\n'
         '          <li><a href="{{ROOT}}guide/soudan-madoguchi/">相談窓口の探し方</a></li>\n'
         '          <li><a href="{{ROOT}}day-service/">デイサービスのしくみ</a></li>\n'

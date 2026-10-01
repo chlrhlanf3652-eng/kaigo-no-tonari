@@ -175,8 +175,6 @@ def build(wid, site):
         '        <h4>関連ガイド</h4>\n'
         '        <ul>\n'
         '          <li><a href="{{ROOT}}guide/kaigoshoku-keitai/">介護食の食形態とは</a></li>\n'
-        '          <li><a href="{{ROOT}}guide/goen-yobou/">誤嚥を防ぐ食事の工夫</a></li>\n'
-        '          <li><a href="{{ROOT}}guide/hitorigurashi-shokuji/">ひとり暮らしの食事の整え方</a></li>\n'
         '          <li><a href="{{ROOT}}guide/soudan-madoguchi/">介護の相談窓口の探し方</a></li>\n'
         '        </ul>\n'
         '      </div>')
