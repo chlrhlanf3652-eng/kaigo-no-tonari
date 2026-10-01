@@ -39,6 +39,8 @@
     reset.hidden = !any;
     if (empty) empty.hidden = n > 0;
     if (dnote) dnote.hidden = !want.day;
+    // 地図（map.js）にも絞り込み結果を伝える
+    document.dispatchEvent(new CustomEvent("kt:filter"));
     if (ev) {
       // 一覧の途中で条件を変えると、上にあったカードが消えて位置を見失う。先頭に戻す。
       if (top && top.getBoundingClientRect().top < 0) top.scrollIntoView({ block: "start" });

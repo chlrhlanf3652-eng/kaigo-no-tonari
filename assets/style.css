@@ -296,3 +296,13 @@ a.ext:hover{border-bottom-color:var(--c)}
 .glance dd small{display:block;font-size:11.5px;color:#55636a}
 .glance-n{margin:8px 0 0;font-size:11.5px;color:#55636a;line-height:1.5}
 @media(max-width:640px){.glance dl{grid-template-columns:repeat(2,minmax(0,1fr))}}
+/* 地図（map.js）。ボタンを押したときだけ読み込む */
+.kmap-wrap{margin:0 0 14px}
+.kmap-btn{display:flex;align-items:center;justify-content:center;gap:6px;width:100%;min-height:44px;border:1px solid var(--c);border-radius:8px;background:#fff;color:var(--c);font-size:15px;font-weight:700;cursor:pointer}
+.kmap-btn small{font-weight:400;font-size:12.5px;color:var(--ink2)}
+.kmap{height:360px;margin:10px 0 0;border-radius:10px;border:1px solid var(--line);z-index:0}
+.kmap-n{margin:6px 0 0;font-size:11.5px;color:var(--ink2);line-height:1.5}
+.kmap[hidden],.kmap-n[hidden],.kmap-btn[hidden]{display:none!important}
+.c-act a.ext.map{padding:0 10px}
+.card:target{outline:2px solid var(--a);outline-offset:2px}
+@media(max-width:640px){.kmap{height:300px}}

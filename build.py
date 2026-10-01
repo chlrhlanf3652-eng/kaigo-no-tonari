@@ -18,6 +18,7 @@
 import json
 import pathlib
 import re
+import urllib.parse
 import sys
 
 BASE = pathlib.Path(__file__).parent
@@ -130,8 +131,41 @@ def _facets(items):
     return out
 
 
+# 地図を出す一覧（利用者が通う・泊まるサービスだけ）。訪問系は事務所の場所なので地図は出さない
+MAP_CATS = ("day-service", "short-stay")
+_COORDS = None
+
+
+def _coords(ident):
+    """事業所番号 → (緯度, 経度)。厚労省オープンデータ由来で、tools/cache の各区ファイルに入っている。"""
+    global _COORDS
+    if _COORDS is None:
+        _COORDS = {}
+        for f in (BASE / "tools" / "cache").glob("*.json"):
+            try:
+                rec = json.loads(f.read_text(encoding="utf-8"))
+            except Exception:
+                continue
+            for it in rec.get("items", []) if isinstance(rec, dict) else []:
+                if isinstance(it, dict) and it.get("identifier") and it.get("lat") and it.get("lng"):
+                    _COORDS[it["identifier"]] = (float(it["lat"]), float(it["lng"]))
+    return _COORDS.get(ident)
+
+
+def _gmap_url(it, city):
+    """Googleマップの検索URL（APIキー不要の公式URL形式）。住所＋名前で検索する。"""
+    addr = it.get("address") or {}
+    q = " ".join(x for x in ("東京都", addr.get("addressLocality") or city,
+                             addr.get("streetAddress", ""), it.get("name", "")) if x)
+    return "https://www.google.com/maps/search/?api=1&query=" + urllib.parse.quote(q)
+
+
 def _card_attrs(it):
     a = []
+    c = _coords(it.get("identifier")) if it.get("identifier") else None
+    if c:
+        a.append(("lat", f"{c[0]:.6f}"))
+        a.append(("lng", f"{c[1]:.6f}"))
     if it.get("_town"):
         a.append(("town", it["_town"]))
     days = [k for k, _ in DAY_OPTS if DAY_WORD[k] in (it.get("_days") or [])]
@@ -197,6 +231,16 @@ def render_listing(d: dict) -> str:
     bar = _filter_bar(d)
     if bar:
         out.append(bar)
+    if d["category"]["id"] in MAP_CATS:
+        pins = sum(1 for it in d["items"] if it.get("identifier") and _coords(it["identifier"]))
+        if pins:
+            out.append(
+                '    <div class="kmap-wrap">\n'
+                f'      <button type="button" class="kmap-btn" id="kmap-btn" hidden>地図で見る<small>（{pins}件の場所）</small></button>\n'
+                '      <div id="kmap" class="kmap" hidden></div>\n'
+                '      <p class="kmap-n" id="kmap-n" hidden>地図：<a href="https://maps.gsi.go.jp/development/ichiran.html" target="_blank" rel="noopener">国土地理院（地理院タイル）</a>を加工して作成。'
+                '位置は厚生労働省の公表データの座標で、建物の入口とずれることがあります。</p>\n'
+                '    </div>')
     out.append('    <div class="bizlist">')
     city = d["area"]["city_name"]
     cat_name = d["category"]["name"]
@@ -242,13 +286,16 @@ def render_listing(d: dict) -> str:
             tel = re.sub(r"[^0-9]", "", it["telephone"])
             act.append(f'<a class="tel" href="tel:{tel}"><span class="tel-l">電話する</span>'
                        f'{esc(it["telephone"])}</a>')
+        if it.get("address"):
+            act.append(f'<a class="ext map" href="{esc(_gmap_url(it, city))}" target="_blank" rel="noopener">'
+                       '地図<span class="sr">（Googleマップが開きます）</span></a>')
         if it.get("url"):
             act.append(f'<a class="ext" href="{esc(it["url"])}" target="_blank" rel="noopener">'
                        '公式サイト<span class="exti" aria-hidden="true">↗</span>'
                        '<span class="sr">（外部サイトが開きます）</span></a>')
 
         out.append(
-            f'    <div class="card"{_card_attrs(it)}>\n'
+            f'    <div class="card" id="b{i}"{_card_attrs(it)}>\n'
             f'      <h3><span class="no">{i}</span>{esc(it["name"])}</h3>\n'
             + (f'      <p class="c-sub">{"".join(sub)}</p>\n' if sub else "")
             + (f'      <div class="c-tags">{"".join(chips)}</div>\n' if chips else "")
