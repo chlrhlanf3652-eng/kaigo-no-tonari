@@ -302,12 +302,28 @@ MODIFIED = {
 }
 
 
+# 2026-09-21 の公開後に追加したページの公開日
+PUBLISHED = {
+    "guide/houmon-kango-chigai": "2026-09-30",
+    "guide/fukushi-yogu-kariru-kau": "2026-09-30",
+    "guide/short-stay-hiyou": "2026-09-30",
+    "guide/day-service-ryokin": "2026-10-01",
+    "guide/youkaigodo-betsu": "2026-10-01",
+    "guide/caremanager": "2026-10-01",
+    "guide/kachin-hosho": "2026-10-01",
+    "guide/housing-safety-net": "2026-10-01",
+    "guide/kubun-shikyu-gendo": "2026-09-26",
+}
+
+
 def build_static():
     for slug, name, title, desc, lead, ogp in STATIC:
         depth = slug.count("/") + 1
         root = "../" * depth
         key = "page_" + slug.replace("/", "_")
         url = f"{SITE}/{slug}/"
+        pub = PUBLISHED.get(slug, "2026-09-21")
+        mod = max(MODIFIED.get(slug, pub), pub)
         crumb = [("ホーム", root)]
         if "/" in slug:
             crumb.append(("制度ガイド", f"{root}guide/"))
@@ -316,8 +332,8 @@ def build_static():
             {"@type": "WebSite", "@id": f"{SITE}/#website", "url": f"{SITE}/",
              "name": S["site"]["name"], "inLanguage": "ja"},
             {"@type": "WebPage", "@id": f"{url}#webpage", "url": url, "name": name,
-             "isPartOf": {"@id": f"{SITE}/#website"}, "datePublished": "2026-09-21",
-             "dateModified": MODIFIED.get(slug, "2026-09-21"), "inLanguage": "ja"},
+             "isPartOf": {"@id": f"{SITE}/#website"}, "datePublished": pub,
+             "dateModified": mod, "inLanguage": "ja"},
             {"@type": "BreadcrumbList", "itemListElement": [
                 {"@type": "ListItem", "position": i + 1, "name": n,
                  # 最後以外の項目には item(URL) が必須（無いとGoogleが「無効な項目」と判定する）
@@ -325,6 +341,16 @@ def build_static():
                 for i, (n, _) in enumerate(crumb)]},
         ]
         content = "  " + partial(key, root).strip() + "\n"
+        if slug.startswith("guide/"):
+            # 制度ガイドは記事として扱う（AI検索・Google向けに公開日と更新日を明示し、画面にも出す）
+            graph.append({
+                "@type": "Article", "@id": f"{url}#article", "headline": name,
+                "description": desc, "datePublished": pub, "dateModified": mod,
+                "inLanguage": "ja", "mainEntityOfPage": {"@id": f"{url}#webpage"},
+                "author": {"@type": "Organization", "name": S["site"]["name"], "url": f"{SITE}/about/"},
+                "publisher": {"@type": "Organization", "name": S["site"]["name"], "url": f"{SITE}/"},
+            })
+            content = (f'  <p class="upd">公開日：{pub}　更新日：{mod}</p>\n' + content)
         page(f"{slug}/index.html", root, title, desc, name, lead,
              crumbs(crumb), content, url,
              ld(graph), ogp=f"{SITE}/assets/{ogp}" if ogp else None, hero=ogp,

@@ -340,3 +340,9 @@ details.more .tw{margin:0;padding:0 10px 10px}
   .tw table:has(tr > :nth-child(5)) th,.tw table:has(tr > :nth-child(5)) td{padding:6px 5px}
 }
 @media(max-width:700px){.tw th a,.tw td a{display:inline-block;padding:7px 0}}
+/* フッターの見出し（見出しタグだと h2→h5 の飛びになるので段落にした） */
+.fg .fh{margin:0 0 8px;font-size:14px;color:#fff;font-weight:700}
+/* 制度ガイドの公開日・更新日 */
+.upd{margin:0 0 18px;font-size:13px;color:var(--ink2)}
+/* 動きを減らす設定の人にはスムーススクロールを止める */
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
