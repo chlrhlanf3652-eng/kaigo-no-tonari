@@ -58,6 +58,11 @@ UNITS_UNIT = {1: (704, 746), 2: (772, 815), 3: (847, 891),
               4: (918, 959), 5: (987, 1028)}
 
 
+
+def _pick(total, n):
+    """リード文用。全件載せているときに「14件から14件」と書かないため。"""
+    return f"{total}件すべて" if n >= total else f"{total}件から{n}件"
+
 def yen1(units: int) -> int:
     """単位数から1割負担の円を出す。費用総額を1円未満切り捨て、その1割。"""
     return int(math.floor(math.floor(units * TANKA) / 10))
@@ -399,8 +404,8 @@ def build(wid, site):
         "area": {"pref_id": "tokyo", "pref_name": "東京都",
                  "city_id": wid, "city_name": ward},
         "seo": {
-            "title": f"{ward}のショートステイ{n}事業所｜{facet}・空きの探し方",
-            "description": f"東京都{ward}の短期入所生活介護（ショートステイ）事業所{n}件を連絡先つきで掲載。"
+            "title": f"{ward}のショートステイ一覧（{n}件）｜{facet}・空きの探し方",
+            "description": f"{ward}の短期入所生活介護（ショートステイ）事業所{n}件を、電話番号・地図つきで一覧にしました。"
                            f"特養の空床を使う空床利用型は{kuushou}件で、本体が満床だと使えません。"
                            f"区内{total}件のうち特養の空床利用型がどれかを含め、"
                            "予約の取りやすさ・1級地での自己負担・食費と滞在費の見方をまとめました。",
@@ -414,7 +419,7 @@ def build(wid, site):
         "published": TODAY, "modified": TODAY,
         "count_label": f"掲載：{n}事業所",
         "lead": f"東京都{ward}で短期入所生活介護（ショートステイ）を探している方へ。"
-                f"東京都の指定を受けた{total}件から{n}件を連絡先つきで掲載し、"
+                f"東京都の指定を受けた{_pick(total, n)}を電話番号・地図つきで掲載し、"
                 f"そのうち特養の空床を使う<strong>空床利用型が{kuushou}件</strong>あることまで示しました。"
                 f"ショートステイでいちばん多い壁は<strong>予約が取れないこと</strong>です。"
                 "同じ区の事業所でも、専用の床を持つところと特養の空きベッドを使うところでは、"

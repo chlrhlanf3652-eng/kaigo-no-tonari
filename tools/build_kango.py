@@ -31,6 +31,11 @@ TODAY = "2026-09-21"
 MIN_ITEMS = 3
 
 
+
+def _pick(total, n):
+    """リード文用。全件載せているときに「14件から14件」と書かないため。"""
+    return f"{total}件すべて" if n >= total else f"{total}件から{n}件"
+
 def esc(s):
     return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
@@ -257,8 +262,8 @@ def build(wid, site):
         "category": {"id": "houmon-kango", "name": "訪問看護", "path": "/houmon-kango/"},
         "area": {"pref_id": "tokyo", "pref_name": "東京都", "city_id": wid, "city_name": ward},
         "seo": {
-            "title": f"{ward}の訪問看護{n}事業所｜{facet}・指示書の流れ",
-            "description": f"東京都{ward}の訪問看護ステーション{n}件を連絡先つきで掲載。"
+            "title": f"{ward}の訪問看護一覧（{n}件）｜{facet}・指示書の流れ",
+            "description": f"{ward}の訪問看護ステーション{n}件を、電話番号・地図つきで一覧にしました。"
                            f"日曜も訪問する事業所は{sunday}件、土曜まで含めると{weekend}件です。"
                            f"区内{total}件の中から選ぶための所在町域・運営法人・開設年数・"
                            "定期訪問の曜日の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
@@ -271,8 +276,8 @@ def build(wid, site):
         "h1": f"{ward}の訪問看護ステーション一覧｜選び方と始め方",
         "published": TODAY, "modified": TODAY,
         "count_label": f"掲載：{n}事業所",
-        "lead": f"東京都{ward}で訪問看護を探している方へ。区内にある{total}件のステーションから"
-                f"{n}件を連絡先つきで掲載し、そのうち<strong>日曜日も定期訪問があるのは"
+        "lead": f"東京都{ward}で訪問看護を探している方へ。区内にあるステーション{_pick(total, n)}を"
+                f"電話番号・地図つきで掲載し、そのうち<strong>日曜日も定期訪問があるのは"
                 f"{sunday}件</strong>であることまで示しました。"
                 f"主治医の指示書から利用開始までの流れもまとめています。"
                 f"訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",

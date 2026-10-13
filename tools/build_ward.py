@@ -33,6 +33,11 @@ MIN_ITEMS = 3
 EXTRA_NAMES = {"komae": "狛江市", "mitaka": "三鷹市", "musashino": "武蔵野市"}
 
 
+
+def _pick(total, n):
+    """リード文用。全件載せているときに「14件から14件」と書かないため。"""
+    return f"{total}件すべて" if n >= total else f"{total}件から{n}件"
+
 def esc(s):
     return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
@@ -235,8 +240,8 @@ def build(wid, site):
         "category": {"id": "houmon-kaigo", "name": "訪問介護", "path": "/houmon-kaigo/"},
         "area": {"pref_id": "tokyo", "pref_name": "東京都", "city_id": wid, "city_name": ward},
         "seo": {
-            "title": f"{ward}の訪問介護{n}事業所｜{facet}・料金の目安",
-            "description": f"東京都{ward}の訪問介護（ホームヘルプ）事業所{n}件を連絡先つきで掲載。"
+            "title": f"{ward}の訪問介護一覧（{n}件）｜{facet}・料金の目安",
+            "description": f"{ward}の訪問介護（ホームヘルプ）事業所{n}件を、電話番号・地図つきで一覧にしました。"
                            f"日曜も対応する事業所は{sunday}件、土曜まで含めると{weekend}件です。"
                            f"区内{total}件の中から選ぶための料金の目安、頼めること・頼めないこと、"
                            f"{madoguchi}への相談から利用開始までの流れを解説します。",
@@ -249,8 +254,8 @@ def build(wid, site):
         "h1": f"{ward}の訪問介護事業所一覧｜料金の目安と選び方",
         "published": TODAY, "modified": TODAY,
         "count_label": f"掲載：{n}事業所",
-        "lead": f"東京都{ward}で訪問介護（ホームヘルプ）を探している方へ。区内にある{total}件の事業所から"
-                f"{n}件を連絡先つきで掲載し、あわせて自己負担額の目安、ヘルパーに頼めること・頼めないこと、"
+        "lead": f"東京都{ward}で訪問介護（ホームヘルプ）を探している方へ。区内にある事業所{_pick(total, n)}を"
+                f"電話番号・地図つきで掲載し、あわせて自己負担額の目安、ヘルパーに頼めること・頼めないこと、"
                 f"相談から利用開始までの流れをまとめました。はじめて介護保険を使う方は、"
                 f"まず「{madoguchi}」への相談から始めるのが近道です。",
         "listing_note": f"{ward}内の訪問介護事業所から{n}件を掲載しています（2026年9月時点）。"

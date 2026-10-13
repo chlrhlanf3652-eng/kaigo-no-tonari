@@ -54,6 +54,11 @@ AGE_BUCKETS = [
 ]
 
 
+
+def _pick(total, n):
+    """リード文用。全件載せているときに「14件から14件」と書かないため。"""
+    return f"{total}件すべて" if n >= total else f"{total}件から{n}件"
+
 def esc(s):
     return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
@@ -283,8 +288,8 @@ def build(wid, site):
         "category": {"id": "day-service", "name": "デイサービス", "path": "/day-service/"},
         "area": {"pref_id": "tokyo", "pref_name": "東京都", "city_id": wid, "city_name": ward},
         "seo": {
-            "title": f"{ward}のデイサービス{n}事業所｜{facet}・定員と送迎",
-            "description": f"東京都{ward}の通所介護（デイサービス）事業所{n}件を連絡先つきで掲載。"
+            "title": f"{ward}のデイサービス一覧（{n}件）｜{facet}・定員と送迎",
+            "description": f"{ward}の通所介護（デイサービス）事業所{n}件を、電話番号・地図つきで一覧にしました。"
                            f"日曜も通える事業所は{sunday}件、土曜まで含めると{weekend}件。定員の内訳も示しました。"
                            f"区内{total}件の中から選ぶための所在町域・運営法人・開設年数の内訳と、"
                            "1級地での自己負担、見学で聞くことをまとめました。",
@@ -298,7 +303,7 @@ def build(wid, site):
         "published": TODAY, "modified": TODAY,
         "count_label": f"掲載：{n}事業所",
         "lead": f"東京都{ward}で通所介護（デイサービス）を探している方へ。"
-                f"東京都の指定を受けた{total}件から{n}件を連絡先つきで掲載し、"
+                f"東京都の指定を受けた{_pick(total, n)}を電話番号・地図つきで掲載し、"
                 f"所在町域・運営法人・開設からの年数の内訳と、1級地での自己負担をまとめました。"
                 f"デイサービスでいちばん多い壁は<strong>本人が行きたがらないこと</strong>です。"
                 "選ぶ順番は近い順ではなく、通い続けられる条件の順になります。",
