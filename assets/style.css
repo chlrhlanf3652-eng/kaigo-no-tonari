@@ -360,3 +360,4 @@ details.more .tw{margin:0;padding:0 10px 10px}
 .ks-out{margin:14px 0 0;padding:12px 14px;border-radius:8px;background:var(--c-ll);border:1px solid #cfe0dc}
 .ks-big{margin:0 0 8px;font-size:16px}
 .ks-big b{font-size:26px;color:var(--c-d);margin-left:6px}
+.ks-row label{white-space:nowrap;flex:1 1 150px}
