@@ -18,6 +18,7 @@ import sys
 
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 import koreika as KO
+import facts as FX
 import linkgrid as LG
 from wards import WARDS
 from counts import COUNTS, MADOGUCHI_OVERRIDE
@@ -157,6 +158,7 @@ def build(wid, site):
         scale_note = ""
 
     content = HOUMON_KAIGO % dict(
+        facts=FX.facts("houmon-kaigo", wid, ward, items, "訪問介護"),
         ward=ward, id=wid, center=madoguchi, center_note=note,
         center_count_label=center_count_label, scale_note=scale_note,
         total=total, townc=len(towns), n=n, dist=dist,
@@ -233,6 +235,8 @@ def build(wid, site):
 
     # 検索される語（「世田谷区 訪問介護 日曜」など）を title に入れる。
     # 日曜対応は23区すべてで1件以上あることを確認済み。
+    # 区が変わっても答えが同じ質問は制度ガイドに任せ、区ページには区ごとに答えが変わる質問だけ残す
+    faq = [x for x in faq if not any(k in x["q"] for k in ['自己負担はいくら', '途中で変更'])]
     facet = f"日曜対応{sunday}件" if sunday else f"土日対応{weekend}件"
 
     d = {

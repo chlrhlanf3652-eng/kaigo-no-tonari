@@ -346,3 +346,17 @@ details.more .tw{margin:0;padding:0 10px 10px}
 .upd{margin:0 0 18px;font-size:13px;color:var(--ink2)}
 /* 動きを減らす設定の人にはスムーススクロールを止める */
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+/* 自己負担計算（/keisan/） */
+.ks{border:1px solid var(--line);border-radius:10px;padding:14px 16px;margin:16px 0 24px;background:#fbfdfc}
+.ks-row{display:flex;gap:12px;flex-wrap:wrap}
+.ks label{display:flex;justify-content:space-between;align-items:center;gap:10px;margin:6px 0;font-size:15px}
+.ks-row label{flex:1 1 140px}
+.ks select,.ks input[type=number]{min-height:40px;font-size:16px;padding:0 8px;border:1px solid var(--line);border-radius:6px;background:#fff;color:var(--ink)}
+.ks input[type=number]{width:5.5em;text-align:right}
+.ks fieldset{border:0;border-top:1px solid var(--line);margin:12px 0 0;padding:10px 0 0}
+.ks legend{font-weight:700;font-size:15px;padding:0 6px 0 0}
+.ks .ks-chk{justify-content:flex-start}
+.ks .ks-chk input{width:20px;height:20px}
+.ks-out{margin:14px 0 0;padding:12px 14px;border-radius:8px;background:var(--c-ll);border:1px solid #cfe0dc}
+.ks-big{margin:0 0 8px;font-size:16px}
+.ks-big b{font-size:26px;color:var(--c-d);margin-left:6px}

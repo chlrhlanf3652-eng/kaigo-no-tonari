@@ -20,6 +20,7 @@ import sys
 
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 import koreika as KO
+import facts as FX
 import linkgrid as LG
 from wards import WARDS
 import mhlw_fields as MF
@@ -207,6 +208,7 @@ def build(wid, site):
 
     from day_tpl import DAY_SERVICE
     content = DAY_SERVICE % dict(
+        facts=FX.facts("day-service", wid, ward, items, "デイサービス"),
         ward=ward, id=wid, center=madoguchi, scale_note=scale_note,
         total=total, townc=len(towns), n=n, dist=dist,
         orgs=orgs, org_note=org_note, ages=ages_rows, age_note=age_note,
@@ -281,6 +283,8 @@ def build(wid, site):
         '      </div>')
 
     # デイサービスは千代田区・江東区で日曜対応が0件のため、土曜に落とす。
+    # 区が変わっても答えが同じ質問は制度ガイドに任せ、区ページには区ごとに答えが変わる質問だけ残す
+    faq = [x for x in faq if not any(k in x["q"] for k in ['自己負担はいくら', '行きたがりません', '途中で変更'])]
     facet = f"日曜対応{sunday}件" if sunday else f"土曜対応{weekend}件"
 
     d = {

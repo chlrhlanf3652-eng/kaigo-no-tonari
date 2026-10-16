@@ -187,6 +187,7 @@
 - [要介護認定の申請から利用開始まで｜4ステップと認定調査](https://kaigonotonari.com/guide/youkaigo-nintei/)
 - [要介護度別に使えるサービス｜要支援1〜要介護5で何が変わるか](https://kaigonotonari.com/guide/youkaigodo-betsu/)
 - [かいごのとなり｜高齢者と家族のための地域サービス情報](https://kaigonotonari.com/)
+- [介護保険の自己負担計算｜東京23区で1か月いくら？上限超えも判定](https://kaigonotonari.com/keisan/)
 - [東京23区の介護事業所データ3,999件（CSV・CC BY 4.0）｜かいごのとなり](https://kaigonotonari.com/opendata/)
 - [プライバシーポリシー｜かいごのとなり](https://kaigonotonari.com/privacy/)
 - [足立区の介護サービス一覧｜事業所536件と相談窓口](https://kaigonotonari.com/tokyo/adachi/)

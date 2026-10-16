@@ -257,6 +257,9 @@ STATIC = [
      "介護保険で1か月に使えるサービスの上限＝区分支給限度基準額を、要介護度別の単位数と東京23区（1級地）での金額でまとめました。"
      "限度額に入らないサービス、処遇改善加算が枠外であること、超えたときに全額自己負担になる理由まで、出典つきで解説します。",
      "上限は金額ではなく<strong>単位</strong>で決まっています。超えた分は1割負担の方でも全額自己負担です。", None),
+    ("keisan", "介護保険の自己負担計算", "介護保険の自己負担計算｜東京23区で1か月いくら？上限超えも判定",
+     "要介護度と負担割合を選び、訪問介護・訪問看護・デイサービス・ショートステイの回数を入れると、東京23区での1か月の自己負担と、区分支給限度基準額を超えるかどうかがすぐわかります。単位数は令和6年度改定の告示どおり。",
+     "回数を入れるだけで、1か月の自己負担の目安と上限を超えるかどうかがわかります。", None),
     ("guide/houmon-kango-chigai", "訪問介護と訪問看護の違い", "訪問介護と訪問看護の違い｜頼めること・保険・料金を比較",
      "訪問介護はヘルパーによる生活の介助、訪問看護は主治医の指示書にもとづく医療的なケア。来る人、ヘルパーに頼める医療行為ではないこと、介護保険と医療保険の使い分け、東京23区での料金まで比較しました。",
      "違いは「生活の介助」か「医療のケア」か。来る人も、始めるときの手続きも違います。", None),
@@ -304,6 +307,7 @@ MODIFIED = {
 
 # 2026-09-21 の公開後に追加したページの公開日
 PUBLISHED = {
+    "keisan": "2026-10-16",
     "guide/houmon-kango-chigai": "2026-09-30",
     "guide/fukushi-yogu-kariru-kau": "2026-09-30",
     "guide/short-stay-hiyou": "2026-09-30",
@@ -341,6 +345,11 @@ def build_static():
                 for i, (n, _) in enumerate(crumb)]},
         ]
         content = "  " + partial(key, root).strip() + "\n"
+        if slug == "keisan":
+            graph.append({"@type": "WebApplication", "@id": f"{url}#app", "name": name,
+                          "url": url, "applicationCategory": "FinanceApplication",
+                          "operatingSystem": "All", "inLanguage": "ja",
+                          "offers": {"@type": "Offer", "price": "0", "priceCurrency": "JPY"}})
         if slug.startswith("guide/"):
             # 制度ガイドは記事として扱う（AI検索・Google向けに公開日と更新日を明示し、画面にも出す）
             graph.append({
@@ -378,7 +387,7 @@ def build_top():
         '  <p>区を選ぶと、その区で使える介護サービスと事業所数、最初の相談窓口の名前がわかります。'
         '現在は東京23区を掲載しています。</p>\n'
         f'  <div class="lg tight">\n      {wards}\n  </div>\n'
-        '  <h2 id="cat">サービスから探す</h2>\n'
+        '  <div class="note"><strong>1か月いくらかかる？</strong>　要介護度と回数を入れるだけで自己負担の目安がわかる<a href="{{ROOT}}keisan/">介護保険の自己負担計算</a>もどうぞ。</div>\n  <h2 id="cat">サービスから探す</h2>\n'
         '  <div class="cats">' + "".join(cards) + "</div>\n"
         + partial("hub_top", root)
     )

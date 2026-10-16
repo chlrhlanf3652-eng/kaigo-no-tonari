@@ -21,6 +21,7 @@ import sys
 
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 import koreika as KO
+import facts as FX
 import linkgrid as LG
 from wards import WARDS
 from build_day import ORG_DESC, AGE_BUCKETS, years_since, esc, ward_name
@@ -310,6 +311,7 @@ def build(wid, site):
 
     from short_tpl import SHORT_STAY
     content = SHORT_STAY % dict(
+        facts=FX.facts("short-stay", wid, ward, items, "ショートステイ"),
         caps=cap_rows, cap_note=cap_note,
         senyo=n - kuushou, ratio_note=ratio_note, town_note=town_note,
         ward=ward, id=wid, center=madoguchi, scale_note=scale_note,
@@ -395,6 +397,8 @@ def build(wid, site):
 
     # 空床利用型は本体の特養が満床だと使えない。予約の取りやすさが根本的に違うので
     # title に出す。0件の区（中央・目黒・渋谷）は従来の言い方に戻す。
+    # 区が変わっても答えが同じ質問は制度ガイドに任せ、区ページには区ごとに答えが変わる質問だけ残す
+    faq = [x for x in faq if not any(k in x["q"] for k in ['自己負担はいくら', '何日まで連続'])]
     facet = f"空床利用型{kuushou}件" if kuushou else "予約と費用"
 
     d = {

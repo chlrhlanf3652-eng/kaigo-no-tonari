@@ -20,6 +20,7 @@ import sys
 
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 import koreika as KO
+import facts as FX
 import linkgrid as LG
 from wards import WARDS
 from build_day import ORG_DESC, AGE_BUCKETS, years_since, esc, ward_name
@@ -242,6 +243,7 @@ def build(wid, site):
 
     from yogu_tpl import FUKUSHI_YOGU
     content = FUKUSHI_YOGU % dict(
+        facts=FX.facts("fukushi-yogu", wid, ward, items, "福祉用具事業所"),
         days=day_rows, day_note=day_note,
         ratio_note=ratio_note, town_note=town_note,
         ward=ward, id=wid, center=madoguchi, scale_note=scale_note,
@@ -318,6 +320,8 @@ def build(wid, site):
         '        </ul>\n'
         '      </div>')
 
+    # 区が変わっても答えが同じ質問は制度ガイドに任せ、区ページには区ごとに答えが変わる質問だけ残す
+    faq = [x for x in faq if not any(k in x["q"] for k in ['ポータブルトイレ', 'ネット通販', '要介護1でも', 'レンタル料金が'])]
     facet = f"貸与と販売{both}件" if both else "レンタルと購入"
 
     d = {
