@@ -12,19 +12,19 @@
     "city_name": "大田区"
   },
   "seo": {
-    "title": "大田区のデイサービス一覧（60件）｜日曜対応7件・定員と送迎",
-    "description": "大田区の通所介護（デイサービス）事業所60件を、電話番号・地図つきで一覧にしました。日曜も通える事業所は7件、土曜まで含めると55件。定員の内訳も示しました。区内83件の中から選ぶための所在町域・運営法人・開設年数の内訳と、1級地での自己負担、見学で聞くことをまとめました。",
+    "title": "大田区のデイサービス一覧（全83件）｜日曜対応10件・定員と送迎",
+    "description": "大田区の通所介護（デイサービス）事業所83件すべてを、電話番号・地図つきで一覧にしました。日曜も通える事業所は10件、土曜まで含めると76件。定員の内訳も示しました。区内83件の中から選ぶための所在町域・運営法人・開設年数の内訳と、1級地での自己負担、見学で聞くことをまとめました。",
     "canonical": "https://kaigonotonari.com/day-service/tokyo/ota/",
     "og_title": "大田区のデイサービス一覧｜送迎範囲と費用の見方",
-    "og_description": "大田区の通所介護事業所60件を掲載。送迎範囲・入浴設備・開設年数から選ぶ順番と、保険外費用を含めた費用の見方を解説します。",
+    "og_description": "大田区の通所介護事業所全83件を掲載。送迎範囲・入浴設備・開設年数から選ぶ順番と、保険外費用を含めた費用の見方を解説します。",
     "og_image": "https://kaigonotonari.com/assets/ogp-day-service.jpg"
   },
   "h1": "大田区のデイサービス一覧｜送迎範囲と費用の見方",
   "published": "2026-09-22",
   "modified": "2026-09-22",
-  "count_label": "掲載：60事業所",
-  "lead": "東京都大田区で通所介護（デイサービス）を探している方へ。東京都の指定を受けた83件から60件を電話番号・地図つきで掲載し、所在町域・運営法人・開設からの年数の内訳と、1級地での自己負担をまとめました。デイサービスでいちばん多い壁は<strong>本人が行きたがらないこと</strong>です。選ぶ順番は近い順ではなく、通い続けられる条件の順になります。",
-  "listing_note": "大田区内の通所介護事業所から60件を掲載しています（東京都公表・2026年9月1日時点）。区内には83件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。定員18人以下の地域密着型通所介護は区が指定するため、この一覧には含まれていません。掲載順は事業所の優劣を示すものではありません。",
+  "count_label": "掲載：83事業所",
+  "lead": "東京都大田区で通所介護（デイサービス）を探している方へ。東京都の指定を受けた83件すべてを電話番号・地図つきで掲載し、所在町域・運営法人・開設からの年数の内訳と、1級地での自己負担をまとめました。デイサービスでいちばん多い壁は<strong>本人が行きたがらないこと</strong>です。選ぶ順番は近い順ではなく、通い続けられる条件の順になります。",
+  "listing_note": "大田区内で指定を受けている通所介護事業所83件をすべて掲載しています（東京都公表・2026年9月1日時点）。区内には83件が指定を受けており、そのすべてを掲載しています。定員18人以下の地域密着型通所介護は区が指定するため、この一覧には含まれていません。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
@@ -114,6 +114,37 @@
       "_capacity": 25,
       "_tags": [
         "矢口エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "寿デイサービスセンター六郷",
+      "telephone": "03-6428-7655",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "仲六郷２－３－１２ラフィネ　シャトー１Ｆ"
+      },
+      "parentOrganization": "株式会社シルバーメディカルサービス",
+      "identifier": "1371101682",
+      "_town": "仲六郷",
+      "_kind": "営利法人",
+      "_designated": "2000-07-01",
+      "_years": 26.2258726899384,
+      "url": "https://www.sms-kotobuki.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 36,
+      "_tags": [
+        "仲六郷エリア",
         "土曜日も営業",
         "20年以上",
         "デイサービス"
@@ -212,6 +243,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "通所介護すずなり大森",
+      "telephone": "03-5737-7773",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "大森南２－２０－３"
+      },
+      "parentOrganization": "株式会社すずなり",
+      "identifier": "1371102458",
+      "_town": "大森南",
+      "_kind": "営利法人",
+      "_designated": "2002-03-01",
+      "_years": 24.56125941136208,
+      "url": "http://www.suzu-care.jp",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_capacity": 50,
+      "_tags": [
+        "大森南エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "株式会社ケアサービス　デイサービスセンター西六郷",
       "telephone": "03-5710-7520",
       "address": {
@@ -264,6 +325,36 @@
       ],
       "_tags": [
         "山王エリア",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "通所介護　すずなり　池上",
+      "telephone": "03-5747-2088",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "仲池上一丁目２１番７号"
+      },
+      "parentOrganization": "株式会社すずなり",
+      "identifier": "1371103027",
+      "_town": "仲池上",
+      "_kind": "営利法人",
+      "_designated": "2003-04-01",
+      "_years": 23.477070499657767,
+      "url": "http://www.suzu-care.jp/",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_capacity": 40,
+      "_tags": [
+        "仲池上エリア",
+        "土曜日も営業",
         "20年以上",
         "デイサービス"
       ]
@@ -354,6 +445,36 @@
       "_capacity": 35,
       "_tags": [
         "本羽田エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社ケアサービス　デイサービスセンター大岡山",
+      "telephone": "03-5754-0081",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "南千束３－１８－１３"
+      },
+      "parentOrganization": "株式会社ケアサービス",
+      "identifier": "1371103951",
+      "_town": "南千束",
+      "_kind": "営利法人",
+      "_designated": "2004-06-01",
+      "_years": 22.308008213552363,
+      "url": "https://www.care.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南千束エリア",
         "土曜日も営業",
         "20年以上",
         "デイサービス"
@@ -454,6 +575,37 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "株式会社　ケアサービス　デイサービスセンター夫婦坂",
+      "telephone": "03-5746-2870",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "北馬込１－１７－７"
+      },
+      "parentOrganization": "株式会社ケアサービス",
+      "identifier": "1371104272",
+      "_town": "北馬込",
+      "_kind": "営利法人",
+      "_designated": "2004-10-01",
+      "_years": 21.973990417522245,
+      "url": "http://www.care.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 30,
+      "_tags": [
+        "北馬込エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "正和クラブ千束",
       "telephone": "03-6425-2556",
       "address": {
@@ -510,6 +662,36 @@
         "久が原エリア",
         "土曜日も営業",
         "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービス　ジーノエバーノ",
+      "telephone": "03-5483-3332",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "田園調布４－４７－１１"
+      },
+      "parentOrganization": "株式会社ガブージャパン",
+      "identifier": "1371105899",
+      "_town": "田園調布",
+      "_kind": "営利法人",
+      "_designated": "2007-12-01",
+      "_years": 18.809034907597535,
+      "url": "https://gabujapan.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 30,
+      "_tags": [
+        "田園調布エリア",
+        "土曜日も営業",
         "デイサービス"
       ]
     },
@@ -605,6 +787,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "大田区立矢口高齢者在宅サービスセンター",
+      "telephone": "03-5711-0851",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "新蒲田２－１２－１８"
+      },
+      "parentOrganization": "社会福祉法人池上長寿園",
+      "identifier": "1371106459",
+      "_town": "新蒲田",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2009-04-01",
+      "_years": 17.475701574264203,
+      "url": "http://www.ikegami.or.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 25,
+      "_tags": [
+        "新蒲田エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "大田区立たまがわ高齢者在宅サービスセンター",
       "telephone": "03-5732-1023",
       "address": {
@@ -657,6 +869,35 @@
       "_capacity": 40,
       "_tags": [
         "蒲田エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "池上高齢者在宅サービスセンター",
+      "telephone": "03-5700-1239",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "仲池上２－２４－８"
+      },
+      "parentOrganization": "社会福祉法人池上長寿園",
+      "identifier": "1371106517",
+      "_town": "仲池上",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2009-04-01",
+      "_years": 17.475701574264203,
+      "url": "http://www.ikegami.or.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "仲池上エリア",
         "土曜日も営業",
         "デイサービス"
       ]
@@ -751,6 +992,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ベストケア・デイサービスセンター蒲田",
+      "telephone": "03-6424-8070",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "仲六郷１－２２－２ハイツアオキ第３－１階"
+      },
+      "parentOrganization": "ベストケア株式会社",
+      "identifier": "1371106905",
+      "_town": "仲六郷",
+      "_kind": "営利法人",
+      "_designated": "2009-11-01",
+      "_years": 16.889801505817932,
+      "url": "http://www.best-care.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 38,
+      "_tags": [
+        "仲六郷エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "デイサービス　絆",
       "telephone": "03-6423-9225",
       "address": {
@@ -839,6 +1110,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "健遊館　富久湯",
+      "telephone": "03-5741-2155",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "矢口２－１５－６"
+      },
+      "parentOrganization": "株式会社健遊館",
+      "identifier": "1371107564",
+      "_town": "矢口",
+      "_kind": "営利法人",
+      "_designated": "2011-04-01",
+      "_years": 15.477070499657769,
+      "url": "http://fukuyu.kenyu.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 24,
+      "_tags": [
+        "矢口エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ツクイ大田西六郷",
       "telephone": "03-5744-3768",
       "address": {
@@ -896,6 +1197,36 @@
       "_tags": [
         "西糀谷エリア",
         "日曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "リラックスサロン　絆",
+      "telephone": "03-6424-7122",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "仲六郷２－８－１３丸井ビルディング１階"
+      },
+      "parentOrganization": "株式会社リアン",
+      "identifier": "1371108042",
+      "_town": "仲六郷",
+      "_kind": "営利法人",
+      "_designated": "2011-11-01",
+      "_years": 14.8911704312115,
+      "url": "http://www.kizunaspa.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 180,
+      "_tags": [
+        "仲六郷エリア",
+        "土曜日も営業",
         "デイサービス"
       ]
     },
@@ -990,6 +1321,37 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "デイサービスひより大岡山",
+      "telephone": "03-5726-8021",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "北千束１－９－１９アーバンエミネンス１階"
+      },
+      "parentOrganization": "株式会社トラスト・ワン",
+      "identifier": "1371109602",
+      "_town": "北千束",
+      "_kind": "営利法人",
+      "_designated": "2014-03-01",
+      "_years": 12.56125941136208,
+      "url": "https://www.dayservicehiyori.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_capacity": 19,
+      "_tags": [
+        "北千束エリア",
+        "日曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "デイリハ友の里",
       "telephone": "03-3757-2151",
       "address": {
@@ -1043,6 +1405,36 @@
       "_capacity": 35,
       "_tags": [
         "西蒲田エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ハルサコミュニティー羽田大鳥居",
+      "telephone": "03-5735-1056",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "東糀谷２－４－７"
+      },
+      "parentOrganization": "ＱＬＣプロデュース株式会社",
+      "identifier": "1371110188",
+      "_town": "東糀谷",
+      "_kind": "営利法人",
+      "_designated": "2015-01-01",
+      "_years": 11.723477070499658,
+      "url": "http://halsacommunity.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 38,
+      "_tags": [
+        "東糀谷エリア",
         "土曜日も営業",
         "デイサービス"
       ]
@@ -1130,6 +1522,36 @@
       ],
       "_tags": [
         "鵜の木エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社　仁済　デイサービスセンター仲六郷",
+      "telephone": "03-5480-4170",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "仲六郷３－２７－７アンビシャス福原１Ｆ"
+      },
+      "parentOrganization": "株式会社仁済",
+      "identifier": "1371110808",
+      "_town": "仲六郷",
+      "_kind": "営利法人",
+      "_designated": "2015-08-01",
+      "_years": 11.143052703627653,
+      "url": "http://www.jinsai.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 25,
+      "_tags": [
+        "仲六郷エリア",
         "土曜日も営業",
         "デイサービス"
       ]
@@ -1224,6 +1646,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "デイサービスセンターなごやか羽田",
+      "telephone": "03-5735-3920",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "羽田旭町１５－１第５高橋ビル１０１号"
+      },
+      "parentOrganization": "なごやかケアリンク株式会社",
+      "identifier": "1371111293",
+      "_town": "羽田旭町",
+      "_kind": "営利法人",
+      "_designated": "2016-06-01",
+      "_years": 10.30800821355236,
+      "url": "http://club.nagoyaka-link.co.jp/haneda/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 29,
+      "_tags": [
+        "羽田旭町エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ファミタウン洗足",
       "telephone": "03-5935-6467",
       "address": {
@@ -1276,6 +1728,36 @@
       ],
       "_tags": [
         "千鳥エリア",
+        "日曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ツクイ大田久が原",
+      "telephone": "03-5700-7833",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "久が原２－２５－２６"
+      },
+      "parentOrganization": "株式会社ツクイ",
+      "identifier": "1371111384",
+      "_town": "久が原",
+      "_kind": "営利法人",
+      "_designated": "2016-10-01",
+      "_years": 9.973990417522245,
+      "url": "http://www.tsukui.net",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "久が原エリア",
         "日曜日も営業",
         "デイサービス"
       ]
@@ -1371,6 +1853,35 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "シンシアリハビリデイサービス大森",
+      "telephone": "03-6450-0012",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "大森西３－２９－２"
+      },
+      "parentOrganization": "株式会社光医",
+      "identifier": "1371111897",
+      "_town": "大森西",
+      "_kind": "営利法人",
+      "_designated": "2018-04-01",
+      "_years": 8.476386036960985,
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 24,
+      "_tags": [
+        "大森西エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "デイホームゆりの木大田",
       "telephone": "03-5714-2331",
       "address": {
@@ -1425,6 +1936,35 @@
       "_capacity": 28,
       "_tags": [
         "南蒲田エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンターみそら",
+      "telephone": "03-3751-2002",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "池上５－３－２１プリマヴェーラ池上１０３号"
+      },
+      "parentOrganization": "株式会社ＩＰＰＯ",
+      "identifier": "1371112580",
+      "_town": "池上",
+      "_kind": "営利法人",
+      "_designated": "2019-11-01",
+      "_years": 6.891170431211499,
+      "url": "http://misora-day.sub.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "池上エリア",
         "土曜日も営業",
         "デイサービス"
       ]
@@ -1511,6 +2051,36 @@
       ],
       "_tags": [
         "山王エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "リハビリデイサービスｎａｇｏｍｉプラス大森店",
+      "telephone": "03-6404-9530",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "大森西５－２５－１１"
+      },
+      "parentOrganization": "株式会社ｎＣＳ",
+      "identifier": "1371112853",
+      "_town": "大森西",
+      "_kind": "営利法人",
+      "_designated": "2020-11-01",
+      "_years": 5.88911704312115,
+      "url": "https://ncs.my-nagomi.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 216,
+      "_tags": [
+        "大森西エリア",
         "土曜日も営業",
         "デイサービス"
       ]
@@ -1605,6 +2175,35 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "デイサービス元気倶楽部",
+      "telephone": "03-6715-7831",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "南蒲田２－３０－１７イセモトハイツ１Ｆ"
+      },
+      "parentOrganization": "株式会社シンシア",
+      "identifier": "1371113075",
+      "_town": "南蒲田",
+      "_kind": "営利法人",
+      "_designated": "2021-05-01",
+      "_years": 5.393566050650239,
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南蒲田エリア",
+        "日曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ベストリハ羽田",
       "telephone": "03-6423-8310",
       "address": {
@@ -1659,6 +2258,33 @@
       "_tags": [
         "大森西エリア",
         "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "くらしの友リハプライド　羽田",
+      "telephone": "03-5705-7018",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "東糀谷２－１３－１１"
+      },
+      "parentOrganization": "株式会社シモン",
+      "identifier": "1371113315",
+      "_town": "東糀谷",
+      "_kind": "営利法人",
+      "_designated": "2022-07-01",
+      "_years": 4.227241615331964,
+      "url": "https://www.rehapride.co.jp/haneda/",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "東糀谷エリア",
         "デイサービス"
       ]
     },
@@ -1752,6 +2378,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "グリーンエイド",
+      "telephone": "03-3736-7660",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "西六郷１－２０－８鈴木ビル１階"
+      },
+      "parentOrganization": "ディニティコス合同会社",
+      "identifier": "1371113828",
+      "_town": "西六郷",
+      "_kind": "営利法人",
+      "_designated": "2025-06-01",
+      "_years": 1.3086926762491444,
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 20,
+      "_tags": [
+        "西六郷エリア",
+        "土曜日も営業",
+        "開設3年以内",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ブリッジライフ馬込",
       "telephone": "03-6451-8261",
       "address": {
@@ -1795,6 +2451,29 @@
         "開設3年以内",
         "デイサービス"
       ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ビーナスプラス本羽田",
+      "telephone": "03-6423-7372",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "本羽田３－２４－６コーピアス多摩川１階"
+      },
+      "parentOrganization": "株式会社ビーナス",
+      "identifier": "1371114065",
+      "_town": "本羽田",
+      "_kind": "営利法人",
+      "_designated": "2026-08-01",
+      "_years": 0.14236824093086928,
+      "_tags": [
+        "本羽田エリア",
+        "開設3年以内",
+        "デイサービス"
+      ]
     }
   ],
   "faq": [
@@ -1804,11 +2483,11 @@
     },
     {
       "q": "大田区にデイサービスは何件ありますか？",
-      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で大田区内に83件の通所介護事業所が指定を受けています。本ページではそのうち60件を連絡先つきで掲載しています。なお定員18人以下の地域密着型通所介護は区が指定するため、この件数には含まれていません。"
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で大田区内に83件の通所介護事業所が指定を受けています。本ページでは83件すべてを連絡先つきで掲載しています。なお定員18人以下の地域密着型通所介護は区が指定するため、この件数には含まれていません。"
     },
     {
       "q": "大田区の掲載事業所は、どこを見て絞り込めばいいですか？",
-      "a": "まず送迎範囲に自宅が入るかで絞り、次に入浴設備（個浴か機械浴か）で絞るのが順番です。大田区の掲載60件では営利法人が48件と最も多く、指定から20年以上の事業所も16件あります。長く続いているところは空きが出にくい一方、新しいところは空きがあります。"
+      "a": "まず送迎範囲に自宅が入るかで絞り、次に入浴設備（個浴か機械浴か）で絞るのが順番です。大田区の掲載83件では営利法人が69件と最も多く、指定から20年以上の事業所も21件あります。長く続いているところは空きが出にくい一方、新しいところは空きがあります。"
     }
   ],
   "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/ota/\">大田区の訪問介護<small>自宅に来てもらう・区内138件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/ota/\">大田区の訪問看護<small>医療ケアが必要な方へ・区内99件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/ota/\">大田区のショートステイ<small>数日あずける・区内18件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/ota/\">大田区の福祉用具<small>借りる・買う・区内32件</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/ota/\">大田区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/ota/\">大田区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",

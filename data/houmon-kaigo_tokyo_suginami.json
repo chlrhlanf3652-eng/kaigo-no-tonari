@@ -12,19 +12,19 @@
     "city_name": "杉並区"
   },
   "seo": {
-    "title": "杉並区の訪問介護一覧（60件）｜日曜対応37件・料金の目安",
-    "description": "杉並区の訪問介護（ホームヘルプ）事業所60件を、電話番号・地図つきで一覧にしました。日曜も対応する事業所は37件、土曜まで含めると44件です。区内143件の中から選ぶための料金の目安、頼めること・頼めないこと、ケア24への相談から利用開始までの流れを解説します。",
+    "title": "杉並区の訪問介護一覧（全143件）｜日曜対応95件・料金の目安",
+    "description": "杉並区の訪問介護（ホームヘルプ）事業所143件すべてを、電話番号・地図つきで一覧にしました。日曜も対応する事業所は95件、土曜まで含めると109件です。区内143件の中から選ぶための料金の目安、頼めること・頼めないこと、ケア24への相談から利用開始までの流れを解説します。",
     "canonical": "https://kaigonotonari.com/houmon-kaigo/tokyo/suginami/",
     "og_title": "杉並区の訪問介護事業所一覧｜料金の目安と選び方",
-    "og_description": "杉並区の訪問介護事業所60件を掲載。料金の目安、できること・できないこと、利用開始までの流れを解説します。",
+    "og_description": "杉並区の訪問介護事業所全143件を掲載。料金の目安、できること・できないこと、利用開始までの流れを解説します。",
     "og_image": "https://kaigonotonari.com/assets/ogp-houmon-kaigo.jpg"
   },
   "h1": "杉並区の訪問介護事業所一覧｜料金の目安と選び方",
   "published": "2026-09-21",
   "modified": "2026-09-21",
-  "count_label": "掲載：60事業所",
-  "lead": "東京都杉並区で訪問介護（ホームヘルプ）を探している方へ。区内にある事業所143件から60件を電話番号・地図つきで掲載し、あわせて自己負担額の目安、ヘルパーに頼めること・頼めないこと、相談から利用開始までの流れをまとめました。はじめて介護保険を使う方は、まず「ケア24」への相談から始めるのが近道です。",
-  "listing_note": "杉並区内の訪問介護事業所から60件を掲載しています（2026年9月時点）。区内の全件から事業所番号の順に等間隔で抽出しています。区内には143件の事業所があり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
+  "count_label": "掲載：143事業所",
+  "lead": "東京都杉並区で訪問介護（ホームヘルプ）を探している方へ。区内にある事業所143件すべてを電話番号・地図つきで掲載し、あわせて自己負担額の目安、ヘルパーに頼めること・頼めないこと、相談から利用開始までの流れをまとめました。はじめて介護保険を使う方は、まず「ケア24」への相談から始めるのが近道です。",
+  "listing_note": "杉並区内で指定を受けている訪問介護事業所143件をすべて掲載しています（2026年9月時点）。最新の指定状況は厚生労働省「介護サービス情報公表システム」でも確認できます。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
@@ -56,6 +56,26 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "愛の手",
+      "telephone": "03-3380-5017",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "高円寺南５－３６－８"
+      },
+      "parentOrganization": "有限会社プロビジョン",
+      "identifier": "1371401744",
+      "_town": "高円寺南",
+      "_kind": "営利法人",
+      "_tags": [
+        "高円寺南エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ディーケア",
       "telephone": "03-5327-4701",
       "address": {
@@ -71,6 +91,34 @@
       "_kind": "営利法人",
       "_tags": [
         "下井草エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "有限会社　ケアネット三和",
+      "telephone": "03-3310-3087",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "高円寺北三丁目２０番９号　サイチハイツ３０１号"
+      },
+      "parentOrganization": "有限会社　ケアネット三和",
+      "identifier": "1371500214",
+      "_town": "高円寺北",
+      "_kind": "営利法人",
+      "url": "http://kaigo.sanwa.jp.net/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "高円寺北エリア",
+        "日曜日も対応",
         "訪問介護"
       ]
     },
@@ -95,6 +143,61 @@
       ],
       "_tags": [
         "荻窪エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "日介センター杉並",
+      "telephone": "03-5301-8651",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "大宮１－３－１２　ギャレリア杉並２０３号室"
+      },
+      "parentOrganization": "株式会社日本介護センター",
+      "identifier": "1371500297",
+      "_town": "大宮",
+      "_kind": "営利法人",
+      "url": "http://www.nikkai-center.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "大宮エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "松庵ケアサービス",
+      "telephone": "03-3333-4783",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "松庵３－３９－１０"
+      },
+      "parentOrganization": "有限会社松庵ケアサービス",
+      "identifier": "1371500321",
+      "_town": "松庵",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "松庵エリア",
+        "日曜日も対応",
         "訪問介護"
       ]
     },
@@ -128,6 +231,33 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "有限会社　白鷺介護サービス",
+      "telephone": "03-3399-1997",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "下井草３－４１－７サンビル２階"
+      },
+      "parentOrganization": "有限会社　白鷺介護サービス",
+      "identifier": "1371500503",
+      "_town": "下井草",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "下井草エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ニチイケアセンター井荻",
       "telephone": "03-5311-4706",
       "address": {
@@ -147,6 +277,34 @@
       ],
       "_tags": [
         "上井草エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アースサポート高円寺",
+      "telephone": "03-5327-5301",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "高円寺北２－１４－２６"
+      },
+      "parentOrganization": "アースサポート株式会社",
+      "identifier": "1371500867",
+      "_town": "高円寺北",
+      "_kind": "営利法人",
+      "url": "https://www.earthsupport.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "高円寺北エリア",
+        "日曜日も対応",
         "訪問介護"
       ]
     },
@@ -174,6 +332,62 @@
       "_tags": [
         "和田エリア",
         "土曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "青山會ケアサービス　杉並ステーション",
+      "telephone": "03-5929-3885",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "高円寺南２－３５－１６高南ビル３０２"
+      },
+      "parentOrganization": "合資会社青山會",
+      "identifier": "1371501360",
+      "_town": "高円寺南",
+      "_kind": "営利法人",
+      "url": "http://www.seizankai.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "高円寺南エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "上井草虹のヘルパーステーション",
+      "telephone": "03-5303-6561",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "今川３－３０－１０"
+      },
+      "parentOrganization": "東京西部保健生活協同組合",
+      "identifier": "1371501485",
+      "_town": "今川",
+      "_kind": "生協",
+      "url": "http://kamisinn-clinic.jimdo.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "今川エリア",
+        "日曜日も対応",
         "訪問介護"
       ]
     },
@@ -207,6 +421,30 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "特定非営利活動法人　たすけあいワーカーズ　さざんか",
+      "telephone": "03-5347-1234",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "荻窪五丁目１８番１１号サニーシティ荻窪４０１号"
+      },
+      "parentOrganization": "特定非営利活動法人たすけあいワーカーズさざんか",
+      "identifier": "1371501527",
+      "_town": "荻窪",
+      "_kind": "非営利法人（NPO）",
+      "url": "https://www.npo-sazanka.org/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "荻窪エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ケアプランニング結い杉並",
       "telephone": "03-5305-0882",
       "address": {
@@ -230,6 +468,61 @@
       "_tags": [
         "成田東エリア",
         "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヘルパーステーション楓",
+      "telephone": "03-5356-9512",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "阿佐谷北４－６－３万成コーポ２０７"
+      },
+      "parentOrganization": "有限会社アルカディアケアサービス",
+      "identifier": "1371501592",
+      "_town": "阿佐谷北",
+      "_kind": "営利法人",
+      "url": "http://kaede-hs.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "阿佐谷北エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "野﨑クリニックヘルパーステーション",
+      "telephone": "03-5335-2327",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "阿佐谷南３－３７－１３　大同ビル４階４０３号"
+      },
+      "parentOrganization": "医療法人社団野﨑クリニック",
+      "identifier": "1371501659",
+      "_town": "阿佐谷南",
+      "_kind": "医療法人",
+      "url": "http://www10.plala.or.jp/NOZAKI-CLINIC/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "阿佐谷南エリア",
+        "土曜日も対応",
         "訪問介護"
       ]
     },
@@ -259,6 +552,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "有限会社　ほっとらいふ",
+      "telephone": "03-5328-0787",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "和田１－１４－３"
+      },
+      "parentOrganization": "有限会社ほっとらいふ",
+      "identifier": "1371501832",
+      "_town": "和田",
+      "_kind": "営利法人",
+      "url": "http://www.hotlife.biz/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "和田エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ウォームハート杉並",
       "telephone": "03-3335-5690",
       "address": {
@@ -281,6 +602,33 @@
       ],
       "_tags": [
         "上井草エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "杉並介護センター",
+      "telephone": "03-5305-6835",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "成田東４－２６－１５田畑コーポ３０１"
+      },
+      "parentOrganization": "有限会社　杉並介護センター",
+      "identifier": "1371502343",
+      "_town": "成田東",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "成田東エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -315,6 +663,61 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "アースサポート永福",
+      "telephone": "03-5355-3511",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "永福２－５０－２０"
+      },
+      "parentOrganization": "アースサポート株式会社",
+      "identifier": "1371502426",
+      "_town": "永福",
+      "_kind": "営利法人",
+      "url": "https://www.earthsupport.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "永福エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアハウスしゃぼん玉",
+      "telephone": "03-5305-2385",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "成田東１－８－３－２０１"
+      },
+      "parentOrganization": "有限会社　ケアハウスしゃぼん玉",
+      "identifier": "1371502483",
+      "_town": "成田東",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "成田東エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "有限会社　堀ノ内　ケアサービス",
       "telephone": "03-3311-1722",
       "address": {
@@ -336,6 +739,33 @@
       ],
       "_tags": [
         "堀ノ内エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヘルパーステーション　「ひいらぎ」",
+      "telephone": "03-3390-3915",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "下井草３－２９－１０佐藤ビル３階"
+      },
+      "parentOrganization": "有限会社　テイ・アンド・ケイ",
+      "identifier": "1371502590",
+      "_town": "下井草",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "下井草エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -367,6 +797,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "株式会社　あかね　杉並事業所",
+      "telephone": "03-5305-6717",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "和田３－３０－８ＧＳハイム１０６"
+      },
+      "parentOrganization": "株式会社あかね",
+      "identifier": "1371502665",
+      "_town": "和田",
+      "_kind": "営利法人",
+      "url": "http://www.akane-kaigo.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "和田エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ユニバーサル介護センター永福",
       "telephone": "03-3325-8676",
       "address": {
@@ -389,6 +847,61 @@
       ],
       "_tags": [
         "永福エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヘルパーセンタートマト",
+      "telephone": "03-3306-0241",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "上高井戸一丁目２番１号"
+      },
+      "parentOrganization": "有限会社　Ｋ・Ｅ・Ｉ",
+      "identifier": "1371502863",
+      "_town": "上高井戸",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "上高井戸エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ベルケア",
+      "telephone": "03-5316-3991",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "浜田山１－２４－２０ラセイム新美Ⅰ　１１１号室"
+      },
+      "parentOrganization": "有限会社浜野ライフ",
+      "identifier": "1371502954",
+      "_town": "浜田山",
+      "_kind": "営利法人",
+      "url": "https://www.bellcare.ne.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "浜田山エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -423,6 +936,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ベネッセ介護センター高円寺",
+      "telephone": "03-5305-6150",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "高円寺南４－２６－１６ビクトリアプラザ高円寺４階"
+      },
+      "parentOrganization": "株式会社ベネッセスタイルケア",
+      "identifier": "1371503093",
+      "_town": "高円寺南",
+      "_kind": "営利法人",
+      "url": "http://www.benesse-style-care.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "高円寺南エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ケアサポート　かすみ草",
       "telephone": "03-6265-7991",
       "address": {
@@ -445,6 +986,58 @@
       ],
       "_tags": [
         "和泉エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ニチイケアセンター　方南町",
+      "telephone": "03-5305-7247",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "方南２－２９－６　野口ビル１Ｆ"
+      },
+      "parentOrganization": "株式会社ニチイ学館",
+      "identifier": "1371503424",
+      "_town": "方南",
+      "_kind": "営利法人",
+      "url": "http://www.nichiigakkan.co.jp",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "方南エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "日本リック訪問介護杉並事業所",
+      "telephone": "03-5377-5065",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "阿佐谷南１－９－７コマムラビル１０１号"
+      },
+      "parentOrganization": "日本リック株式会社",
+      "identifier": "1371503473",
+      "_town": "阿佐谷南",
+      "_kind": "営利法人",
+      "url": "https://www.rickcare.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "阿佐谷南エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -479,6 +1072,33 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ハート・ケア　たんぽぽ",
+      "telephone": "03-5327-4660",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "本天沼２－１３－１４"
+      },
+      "parentOrganization": "有限会社クリエイト・フューチャー",
+      "identifier": "1371503903",
+      "_town": "本天沼",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "本天沼エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ひゅーまんネット",
       "telephone": "03-6304-7440",
       "address": {
@@ -494,6 +1114,34 @@
       "_kind": "社会福祉法人（社協以外）",
       "_tags": [
         "方南エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヘルプメイト井草",
+      "telephone": "03-5382-1663",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "井草３－２－４　レヂオンス井荻３０３"
+      },
+      "parentOrganization": "株式会社ヘルプメイト",
+      "identifier": "1371503960",
+      "_town": "井草",
+      "_kind": "営利法人",
+      "url": "http://www.helpmate.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "井草エリア",
+        "日曜日も対応",
         "訪問介護"
       ]
     },
@@ -519,6 +1167,61 @@
       "_tags": [
         "高井戸西エリア",
         "土曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "オフィス久我山ケアーセンター",
+      "telephone": "03-5336-3795",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "松庵１－１３－１３－２０１"
+      },
+      "parentOrganization": "株式会社オフィス久我山",
+      "identifier": "1371504554",
+      "_town": "松庵",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "松庵エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケア２１荻窪",
+      "telephone": "03-5347-9780",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "阿佐谷南３－４９－２サンライズ山村１０２"
+      },
+      "parentOrganization": "株式会社ケア２１",
+      "identifier": "1371504927",
+      "_town": "阿佐谷南",
+      "_kind": "営利法人",
+      "url": "http://www.care21.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "阿佐谷南エリア",
+        "日曜日も対応",
         "訪問介護"
       ]
     },
@@ -552,6 +1255,29 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "プロケア",
+      "telephone": "03-3394-6622",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "西荻北２－７－２－４０５"
+      },
+      "parentOrganization": "株式会社プロケア",
+      "identifier": "1371505056",
+      "_town": "西荻北",
+      "_kind": "営利法人",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "西荻北エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ビーステップ井草",
       "telephone": "03-5311-0791",
       "address": {
@@ -574,6 +1300,58 @@
       "_tags": [
         "井草エリア",
         "土曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ラ　ヴィータ西荻",
+      "telephone": "03-5311-1051",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "西荻北２－９－１０市川ビル１階"
+      },
+      "parentOrganization": "株式会社Ｌａ　Ｖｉｔａ",
+      "identifier": "1371505437",
+      "_town": "西荻北",
+      "_kind": "営利法人",
+      "url": "https://cs-lavita.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "西荻北エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ニチイケアセンター高井戸駅前",
+      "telephone": "03-5336-7261",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "高井戸西１－２７－２３井田ビル２Ｆ"
+      },
+      "parentOrganization": "株式会社ニチイ学館",
+      "identifier": "1371505528",
+      "_town": "高井戸西",
+      "_kind": "営利法人",
+      "url": "http://www.nichiigakkan.co.jp",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "高井戸西エリア",
         "訪問介護"
       ]
     },
@@ -606,6 +1384,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "日本リック訪問介護西荻事業所",
+      "telephone": "03-5336-8541",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "宮前３－３５－１５　ロイヤルヒルズ西荻窪１０１号"
+      },
+      "parentOrganization": "日本リック株式会社",
+      "identifier": "1371505643",
+      "_town": "宮前",
+      "_kind": "営利法人",
+      "url": "http://www.rickcare.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "宮前エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "のぞみケアサービス",
       "telephone": "03-5305-8061",
       "address": {
@@ -621,6 +1427,34 @@
       "_kind": "営利法人",
       "_tags": [
         "梅里エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "リアルタイム・ケアサポート",
+      "telephone": "03-3396-1626",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "井草３－３－７新井ビル１階"
+      },
+      "parentOrganization": "株式会社リアルタイム",
+      "identifier": "1371505858",
+      "_town": "井草",
+      "_kind": "営利法人",
+      "url": "http://www.realtime.ne.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "井草エリア",
+        "日曜日も対応",
         "訪問介護"
       ]
     },
@@ -654,6 +1488,60 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "青いとりケアセンター",
+      "telephone": "03-5300-3311",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "和泉３－６０－１６和泉方南通りビル１階"
+      },
+      "parentOrganization": "フェロー株式会社",
+      "identifier": "1371506112",
+      "_town": "和泉",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "和泉エリア",
+        "土曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケア２１　堀之内",
+      "telephone": "03-5305-6552",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "堀ノ内２－２７－１２パレドール方南町１０４号室"
+      },
+      "parentOrganization": "株式会社ケア２１",
+      "identifier": "1371506351",
+      "_town": "堀ノ内",
+      "_kind": "営利法人",
+      "url": "http://www.care21.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "堀ノ内エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "さくら・介護ステーション方南",
       "telephone": "03-5355-1601",
       "address": {
@@ -677,6 +1565,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "あけぼの介護センター阿佐谷",
+      "telephone": "03-6915-1701",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "阿佐谷北１－４３－１３ＡＩビル５Ｆ"
+      },
+      "parentOrganization": "ケアゲート株式会社",
+      "identifier": "1371506633",
+      "_town": "阿佐谷北",
+      "_kind": "営利法人",
+      "url": "http://www.caregate.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "阿佐谷北エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "株式会社　ソレイユ",
       "telephone": "03-5929-7337",
       "address": {
@@ -695,6 +1611,26 @@
       ],
       "_tags": [
         "高円寺南エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "そよ風　ケアサービス",
+      "telephone": "03-3321-6429",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "大宮１－１－１１－２０２"
+      },
+      "parentOrganization": "有限会社宮通米穀販売所",
+      "identifier": "1371506963",
+      "_town": "大宮",
+      "_kind": "営利法人",
+      "_tags": [
+        "大宮エリア",
         "訪問介護"
       ]
     },
@@ -727,6 +1663,61 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "キラキラヘルパーステーション",
+      "telephone": "03-6265-5711",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "阿佐谷北１－３－１４佐々木ビル１０１"
+      },
+      "parentOrganization": "株式会社キラキラステーション",
+      "identifier": "1371507110",
+      "_town": "阿佐谷北",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "阿佐谷北エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アースサポート高井戸",
+      "telephone": "03-5941-5601",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "高井戸東３－２８－８"
+      },
+      "parentOrganization": "アースサポート株式会社",
+      "identifier": "1371507334",
+      "_town": "高井戸東",
+      "_kind": "営利法人",
+      "url": "https://www.earthsupport.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "高井戸東エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ひかり介護サービス",
       "telephone": "03-6682-6860",
       "address": {
@@ -748,6 +1739,34 @@
       ],
       "_tags": [
         "荻窪エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアリッツ杉並",
+      "telephone": "03-5929-7971",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "阿佐谷南２－１２－７ロワイヤル・ヒロ１階"
+      },
+      "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
+      "identifier": "1371507441",
+      "_town": "阿佐谷南",
+      "_kind": "営利法人",
+      "url": "https://www.careritz.co.jp/station/branch/suginami/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "阿佐谷南エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -782,6 +1801,53 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "安信訪問介護サービス富士山",
+      "telephone": "03-5941-5050",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "西荻南３－１５－１３高梨ビル３０２"
+      },
+      "parentOrganization": "株式会社富士蓮花社",
+      "identifier": "1371507706",
+      "_town": "西荻南",
+      "_kind": "営利法人",
+      "_tags": [
+        "西荻南エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアセンターももか園",
+      "telephone": "03-6379-0714",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "和泉２－３５－１８"
+      },
+      "parentOrganization": "株式会社介護桃香園",
+      "identifier": "1371507987",
+      "_town": "和泉",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "和泉エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ケアサポート　キラリ",
       "telephone": "03-6379-2505",
       "address": {
@@ -797,6 +1863,34 @@
       "_kind": "営利法人",
       "_tags": [
         "和泉エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "在宅介護事業所らいと",
+      "telephone": "03-5303-9878",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "上井草１－２３－２３上井草１丁目事務所３Ｆ"
+      },
+      "parentOrganization": "合同会社らいと",
+      "identifier": "1371508035",
+      "_town": "上井草",
+      "_kind": "営利法人",
+      "url": "http://hp.kaipoke.biz/4dz",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "上井草エリア",
+        "日曜日も対応",
         "訪問介護"
       ]
     },
@@ -824,6 +1918,34 @@
       ],
       "_tags": [
         "西荻南エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アスノステーション",
+      "telephone": "03-5307-7050",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "松ノ木３－３１－１５"
+      },
+      "parentOrganization": "株式会社ＧＴライフサポート",
+      "identifier": "1371508217",
+      "_town": "松ノ木",
+      "_kind": "営利法人",
+      "url": "https://gtlife.hp.gogo.jp/pc/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "松ノ木エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -858,6 +1980,62 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "訪問介護　福は家",
+      "telephone": "03-6913-8824",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "善福寺４－１７－６"
+      },
+      "parentOrganization": "株式会社Ｔａｋｅ　Ａｉｍ",
+      "identifier": "1371508431",
+      "_town": "善福寺",
+      "_kind": "営利法人",
+      "url": "https://www.takeaim703.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "善福寺エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "日本リック訪問介護方南町事業所",
+      "telephone": "03-5929-7216",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "堀ノ内１－８－６エクセル方南Ⅱ１０３号"
+      },
+      "parentOrganization": "日本リック株式会社",
+      "identifier": "1371508787",
+      "_town": "堀ノ内",
+      "_kind": "営利法人",
+      "url": "http://www.rickcare.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "堀ノ内エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "團ライフ杉並訪問介護事業所",
       "telephone": "03-5335-7645",
       "address": {
@@ -879,6 +2057,33 @@
       ],
       "_tags": [
         "天沼エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ひまわりケア",
+      "telephone": "03-5930-5163",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "上荻２－２５－１３セゾン上荻２０２号"
+      },
+      "parentOrganization": "株式会社ｉｎｇ",
+      "identifier": "1371508936",
+      "_town": "上荻",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "上荻エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -913,6 +2118,61 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ケアリッツ荻窪",
+      "telephone": "03-5941-6460",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "荻窪５－６－１１"
+      },
+      "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
+      "identifier": "1371509124",
+      "_town": "荻窪",
+      "_kind": "営利法人",
+      "url": "https://www.careritz.co.jp/station/branch/ogikubo/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "荻窪エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "スギコーケアセンター荻窪",
+      "telephone": "03-5347-4646",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "荻窪４－６－１６"
+      },
+      "parentOrganization": "スギコー株式会社",
+      "identifier": "1371509249",
+      "_town": "荻窪",
+      "_kind": "営利法人",
+      "url": "http://sugiko-welfare.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "荻窪エリア",
+        "土曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "スギコーケアセンター永福町",
       "telephone": "03-5355-6446",
       "address": {
@@ -934,6 +2194,33 @@
       ],
       "_tags": [
         "永福エリア",
+        "土曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "スギコーヘルパーセンター",
+      "telephone": "03-5344-1681",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "高井戸東３－１８－７杉交第２ビル"
+      },
+      "parentOrganization": "スギコー株式会社",
+      "identifier": "1371509314",
+      "_town": "高井戸東",
+      "_kind": "営利法人",
+      "url": "https://sugiko-welfare.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "高井戸東エリア",
         "土曜日も対応",
         "訪問介護"
       ]
@@ -967,6 +2254,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "愛・訪問介護ステーション杉並",
+      "telephone": "03-6379-7325",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "和泉３－１３－１７永福前田ビル２Ｆ"
+      },
+      "parentOrganization": "株式会社愛総合福祉",
+      "identifier": "1371509447",
+      "_town": "和泉",
+      "_kind": "営利法人",
+      "url": "https://i-sogofukushi.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "和泉エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "青い鳥",
       "telephone": "03-6383-5888",
       "address": {
@@ -986,6 +2301,57 @@
       ],
       "_tags": [
         "荻窪エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ムウケア宮前",
+      "telephone": "03-5336-7227",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "宮前２－３０－２２ウィンダム宮前Ａ号"
+      },
+      "parentOrganization": "株式会社ネットワークビジネスラボラトリー",
+      "identifier": "1371509520",
+      "_town": "宮前",
+      "_kind": "営利法人",
+      "url": "http://www.nbl-inc.co.jp/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "宮前エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケア結いオアシス",
+      "telephone": "03-5913-7088",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "成田東４－２８－１５コーポ横山１０３号室"
+      },
+      "parentOrganization": "株式会社オアシス",
+      "identifier": "1371509637",
+      "_town": "成田東",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "成田東エリア",
+        "日曜日も対応",
         "訪問介護"
       ]
     },
@@ -1012,6 +2378,34 @@
       ],
       "_tags": [
         "西荻北エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアリッツ下井草",
+      "telephone": "03-6913-9626",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "下井草４－３２－２１メゾンドソフィア１０１"
+      },
+      "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
+      "identifier": "1371509702",
+      "_town": "下井草",
+      "_kind": "営利法人",
+      "url": "https://www.careritz.co.jp/station/branch/shimoigusa/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "下井草エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -1045,6 +2439,30 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ホームケア阿佐ヶ谷",
+      "telephone": "03-5327-4255",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "阿佐谷北１－４２－６ベルメゾン阿佐谷２階"
+      },
+      "parentOrganization": "ＡＬＳＯＫらいふケア株式会社",
+      "identifier": "1371509900",
+      "_town": "阿佐谷北",
+      "_kind": "営利法人",
+      "url": "http://www.life-silver.com/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "阿佐谷北エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ＳＯＭＰＯケア　堀ノ内　訪問介護",
       "telephone": "03-5305-5859",
       "address": {
@@ -1068,6 +2486,58 @@
       "_tags": [
         "堀ノ内エリア",
         "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアサービスピース",
+      "telephone": "03-6336-8700",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "上井草３－２－１２コーポ藤本１０１"
+      },
+      "parentOrganization": "株式会社ケアサービスピース",
+      "identifier": "1371510106",
+      "_town": "上井草",
+      "_kind": "営利法人",
+      "url": "https://www.cs-peace.com/",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "上井草エリア",
+        "土曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "エフリオケアステーション",
+      "telephone": "03-5356-6120",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "阿佐谷北２－１４－５大阪やビル１階"
+      },
+      "parentOrganization": "エフリオ株式会社",
+      "identifier": "1371510114",
+      "_town": "阿佐谷北",
+      "_kind": "営利法人",
+      "url": "http://f-reo.jp",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "阿佐谷北エリア",
+        "土曜日も対応",
         "訪問介護"
       ]
     },
@@ -1101,6 +2571,27 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "アイケア　サポートサービス",
+      "telephone": "03-6454-6455",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "高円寺南２－２３－３"
+      },
+      "parentOrganization": "株式会社アイケア",
+      "identifier": "1371510163",
+      "_town": "高円寺南",
+      "_kind": "営利法人",
+      "url": "http://www.aicare-1st.co.jp/",
+      "_tags": [
+        "高円寺南エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ゆき訪問介護事業所",
       "telephone": "03-4285-6046",
       "address": {
@@ -1123,6 +2614,62 @@
       ],
       "_tags": [
         "上荻エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あくとケア　荻窪",
+      "telephone": "03-5347-3010",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "荻窪４－３３－５ダイトウマンション　５０３号室"
+      },
+      "parentOrganization": "株式会社ＳＯＬ",
+      "identifier": "1371510239",
+      "_town": "荻窪",
+      "_kind": "営利法人",
+      "url": "http://actcare.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "荻窪エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアステーション銀河",
+      "telephone": "03-3334-2360",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "久我山５－９－１９サンハイム久我山１Ｆ"
+      },
+      "parentOrganization": "株式会社銀河研究所",
+      "identifier": "1371510270",
+      "_town": "久我山",
+      "_kind": "営利法人",
+      "url": "http://hp.kaipoke.biz/8wg/info.html",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "久我山エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -1157,6 +2704,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ＴＯＫＩＯＲＩ浜田山",
+      "telephone": "03-6778-8066",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "高井戸東４－２７－１７"
+      },
+      "parentOrganization": "東京海上日動ベターライフサービス株式会社",
+      "identifier": "1371510346",
+      "_town": "高井戸東",
+      "_kind": "営利法人",
+      "url": "https://www.tnbls.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "高井戸東エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ヘルパーステーションたいせい",
       "telephone": "03-6379-7424",
       "address": {
@@ -1184,6 +2759,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ニチイケアセンター西荻",
+      "telephone": "03-5311-1321",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "上荻４－２９－１２ケイショーアークツー２０２"
+      },
+      "parentOrganization": "株式会社ニチイ学館",
+      "identifier": "1371510437",
+      "_town": "上荻",
+      "_kind": "営利法人",
+      "url": "http://www.nichiigakkan.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "上荻エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ニチイケアセンター杉並宮前",
       "telephone": "03-5336-1220",
       "address": {
@@ -1203,6 +2806,62 @@
       ],
       "_tags": [
         "西荻南エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアステーションきらら阿佐ヶ谷",
+      "telephone": "03-5356-1782",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "阿佐谷北２－８－２２大鷹建設第２ビル　３Ｆ"
+      },
+      "parentOrganization": "スターツケアサービス株式会社",
+      "identifier": "1371510452",
+      "_town": "阿佐谷北",
+      "_kind": "営利法人",
+      "url": "https://www.starts-care.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "阿佐谷北エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＮＰＯケア杉並",
+      "telephone": "03-5378-8051",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "方南２－２３－６林ビル２０２"
+      },
+      "parentOrganization": "特定非営利活動法人在宅ケア・セラビ",
+      "identifier": "1371510460",
+      "_town": "方南",
+      "_kind": "非営利法人（NPO）",
+      "url": "http://npo-care-suginami.jimdo.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "方南エリア",
+        "日曜日も対応",
         "訪問介護"
       ]
     },
@@ -1236,6 +2895,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ケアリッツ高井戸",
+      "telephone": "03-5941-7451",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "高井戸東３－３０－３田澤ビル３０１"
+      },
+      "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
+      "identifier": "1371510551",
+      "_town": "高井戸東",
+      "_kind": "営利法人",
+      "url": "https://www.careritz.co.jp/station/branch/takaido/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "高井戸東エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "キラッと高井戸訪問介護事業所",
       "telephone": "03-5941-3906",
       "address": {
@@ -1263,6 +2950,54 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "訪問介護ハートランド・エミシア久我山",
+      "telephone": "03-5336-1504",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "久我山４－１４－２０"
+      },
+      "parentOrganization": "株式会社ワイグッドケア",
+      "identifier": "1371510577",
+      "_town": "久我山",
+      "_kind": "営利法人",
+      "url": "https://ygood.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "久我山エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ことのは",
+      "telephone": "03-5335-7203",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "天沼３－１４－１１興振ビル３１０"
+      },
+      "parentOrganization": "合同会社ことのは",
+      "identifier": "1371510601",
+      "_town": "天沼",
+      "_kind": "営利法人",
+      "_tags": [
+        "天沼エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ハート＆ハート",
       "telephone": "03-6383-0666",
       "address": {
@@ -1278,6 +3013,26 @@
       "_kind": "営利法人",
       "_tags": [
         "井草エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "エルケアステーション",
+      "telephone": "03-5913-7805",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "松ノ木３－２６－１１日信ビル３階"
+      },
+      "parentOrganization": "株式会社Ｌｉｌａｖ",
+      "identifier": "1371510858",
+      "_town": "松ノ木",
+      "_kind": "営利法人",
+      "_tags": [
+        "松ノ木エリア",
         "訪問介護"
       ]
     },
@@ -1307,6 +3062,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "訪問介護本舗　実意丁寧",
+      "telephone": "03-6913-6845",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "上井草１－２４－１９クレスト杉並２０２号室"
+      },
+      "parentOrganization": "合同会社実意丁寧",
+      "identifier": "1371510965",
+      "_town": "上井草",
+      "_kind": "営利法人",
+      "url": "https://dayservicehonpo.jp/houmonjitsuiteinei/shop/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "上井草エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問介護　匠８０",
       "telephone": "03-3397-9255",
       "address": {
@@ -1328,6 +3111,58 @@
       ],
       "_tags": [
         "今川エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "キラッと西荻訪問介護事業所",
+      "telephone": "03-6454-7045",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "西荻北４－７－５"
+      },
+      "parentOrganization": "株式会社Ｐｒｏｆｅｓｓｉｏｎａｌ",
+      "identifier": "1371511013",
+      "_town": "西荻北",
+      "_kind": "営利法人",
+      "url": "https://www.kiratto.co.jp",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "西荻北エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "セントケアＤＸ堀ノ内",
+      "telephone": "03-4431-3210",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "堀ノ内１－１０－２堀ノ内ＧＡＬＡＸＹ　４Ａ"
+      },
+      "parentOrganization": "セントケアＤＸ株式会社",
+      "identifier": "1371511039",
+      "_town": "堀ノ内",
+      "_kind": "営利法人",
+      "url": "http://www.saint-care.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "堀ノ内エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -1362,6 +3197,29 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ユアーズ訪問介護　杉並",
+      "telephone": "03-6454-7465",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "下井草３－３４－５メイベルコート１０１号室"
+      },
+      "parentOrganization": "有限会社ユアーズ",
+      "identifier": "1371511104",
+      "_town": "下井草",
+      "_kind": "営利法人",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "下井草エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "マリーゴールドケアステーションａｎｄラボ",
       "telephone": "03-6913-6583",
       "address": {
@@ -1381,6 +3239,30 @@
       ],
       "_tags": [
         "西荻北エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "プラム",
+      "telephone": "03-5344-9799",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "南荻窪２－６－９グリーンマンション３０５号室"
+      },
+      "parentOrganization": "株式会社ＫＡＴＡＣＨＩ",
+      "identifier": "1371511146",
+      "_town": "南荻窪",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "南荻窪エリア",
         "訪問介護"
       ]
     },
@@ -1408,6 +3290,62 @@
       ],
       "_tags": [
         "阿佐谷南エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "にじケア",
+      "telephone": "03-6821-2499",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "高井戸東３－２８－９安田ビル２Ｆ"
+      },
+      "parentOrganization": "株式会社Ｎｉｊｉｙｕｉｒａ",
+      "identifier": "1371511211",
+      "_town": "高井戸東",
+      "_kind": "営利法人",
+      "url": "http://nijikea.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "高井戸東エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＺＥＲＯ訪問介護",
+      "telephone": "03-6783-2573",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "阿佐谷北２－２５－１０グレージングシーサー阿佐谷１０１"
+      },
+      "parentOrganization": "合同会社和顔愛語",
+      "identifier": "1371511229",
+      "_town": "阿佐谷北",
+      "_kind": "営利法人",
+      "url": "https://wagen-aigo-zero.hp.peraichi.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "阿佐谷北エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -1442,6 +3380,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ヒューマンライフケア西荻の輪",
+      "telephone": "03-6825-2264",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "西荻南３－１８－２０タウンハウス西荻　１Ｄ"
+      },
+      "parentOrganization": "ヒューマンライフケア株式会社",
+      "identifier": "1371511286",
+      "_town": "西荻南",
+      "_kind": "営利法人",
+      "url": "https://kaigo.human-lifecare.jp/facilities/ft003_NishiOgi/summary.html",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "西荻南エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ケアサポート　Ａｎｎｅ",
       "telephone": "03-5941-3920",
       "address": {
@@ -1463,6 +3429,62 @@
       ],
       "_tags": [
         "松庵エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "セントケア西荻",
+      "telephone": "03-5344-3120",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "西荻南３－２２－９エクセリア西荻窪２－Ａ"
+      },
+      "parentOrganization": "セントケア東京株式会社",
+      "identifier": "1371511302",
+      "_town": "西荻南",
+      "_kind": "営利法人",
+      "url": "https://www.saint-care.com/tokyo/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "西荻南エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヒューマンライフケア浜田山の輪",
+      "telephone": "03-6823-8529",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "浜田山３－２６－２５第二ハウス崔綜　１階　２１０号室"
+      },
+      "parentOrganization": "ヒューマンライフケア株式会社",
+      "identifier": "1371511310",
+      "_town": "浜田山",
+      "_kind": "営利法人",
+      "url": "http://human-lifecare.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "浜田山エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -1497,6 +3519,33 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "医心館　訪問介護ステーション　西荻窪",
+      "telephone": "03-5941-6136",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "松庵３－２４－１８"
+      },
+      "parentOrganization": "株式会社アンビス",
+      "identifier": "1371511385",
+      "_town": "松庵",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "松庵エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ケア２１　久我山",
       "telephone": "03-5344-5621",
       "address": {
@@ -1515,6 +3564,33 @@
       ],
       "_tags": [
         "久我山エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "医心館　訪問介護ステーション　西永福",
+      "telephone": "03-6265-7805",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "永福３－２１－１３"
+      },
+      "parentOrganization": "株式会社アンビス",
+      "identifier": "1371511401",
+      "_town": "永福",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "永福エリア",
+        "日曜日も対応",
         "訪問介護"
       ]
     },
@@ -1548,6 +3624,57 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ゆかりサポート",
+      "telephone": "03-5941-3451",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "宮前５－２６－３８　２階"
+      },
+      "parentOrganization": "合同会社ゆかりサポートグループ",
+      "identifier": "1371511450",
+      "_town": "宮前",
+      "_kind": "営利法人",
+      "url": "https://yukari-support.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "宮前エリア",
+        "土曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ホームケア高円寺",
+      "telephone": "03-6304-9227",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "高円寺南４－２３－５ＡＣＰビル７階Ａ号"
+      },
+      "parentOrganization": "ＡＬＳＯＫらいふケア株式会社",
+      "identifier": "1371511559",
+      "_town": "高円寺南",
+      "_kind": "営利法人",
+      "url": "http://www.life-silver.com/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "高円寺南エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "日本リック総合支援事業所　りんく杉並",
       "telephone": "03-6454-7870",
       "address": {
@@ -1576,6 +3703,27 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "アテニティ訪問介護　久我山",
+      "telephone": "03-5344-9774",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "宮前４－３０－３"
+      },
+      "parentOrganization": "株式会社グッドパートナーズ",
+      "identifier": "1371511690",
+      "_town": "宮前",
+      "_kind": "営利法人",
+      "url": "https://attenity.jp/nurshome/kugayama/",
+      "_tags": [
+        "宮前エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問介護事業所さんた（杉太）",
       "telephone": "03-3338-8630",
       "address": {
@@ -1597,6 +3745,54 @@
         "阿佐谷北エリア",
         "訪問介護"
       ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "スタートケア　井荻",
+      "telephone": "03-6913-7220",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "上井草１－３０－１７"
+      },
+      "parentOrganization": "株式会社ＳＴＡＲＴ",
+      "identifier": "1371511724",
+      "_town": "上井草",
+      "_kind": "営利法人",
+      "url": "https://start-care.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "上井草エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "カオリテラス西荻訪問介護",
+      "telephone": "03-3397-8758",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "杉並区",
+        "streetAddress": "西荻北３－３１－１０"
+      },
+      "parentOrganization": "ｚｅｒｏ＆ｏｎｅ株式会社",
+      "identifier": "1371511773",
+      "_town": "西荻北",
+      "_kind": "営利法人",
+      "_tags": [
+        "西荻北エリア",
+        "訪問介護"
+      ]
     }
   ],
   "faq": [
@@ -1606,7 +3802,7 @@
     },
     {
       "q": "杉並区には訪問介護事業所が何件ありますか？",
-      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で杉並区内に143件の訪問介護事業所が指定を受けています。本ページではそのうち60件を連絡先つきで掲載しています。全件は厚生労働省「介護サービス情報公表システム」で確認できます。"
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で杉並区内に143件の訪問介護事業所が指定を受けています。本ページでは143件すべてを連絡先つきで掲載しています。最新の指定状況は厚生労働省「介護サービス情報公表システム」でも確認できます。"
     },
     {
       "q": "杉並区の担当窓口は、どうやって調べればいいですか？",
@@ -1614,7 +3810,7 @@
     },
     {
       "q": "杉並区の掲載事業所は、どこを見て絞り込めばいいですか？",
-      "a": "上の内訳表が目安になります。日曜にもヘルパーに来てほしい場合は37件、土曜まででよければ44件が対象です。そのうえで、ご自宅の町名を伝えて対応エリアに入っているかを確認するのが確実です。曜日はサービスを提供する日で、事務所の電話がつながる時間帯とは別です。"
+      "a": "上の内訳表が目安になります。日曜にもヘルパーに来てほしい場合は95件、土曜まででよければ109件が対象です。そのうえで、ご自宅の町名を伝えて対応エリアに入っているかを確認するのが確実です。曜日はサービスを提供する日で、事務所の電話がつながる時間帯とは別です。"
     }
   ],
   "related": "<a href=\"{{ROOT}}houmon-kango/tokyo/suginami/\">杉並区の訪問看護<small>医療ケアが必要な方へ・区内73件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/suginami/\">杉並区のデイサービス<small>日帰りで通う・区内44件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/suginami/\">杉並区のショートステイ<small>数日あずける・区内23件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/suginami/\">杉並区の福祉用具<small>借りる・買う・区内23件</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/suginami/\">杉並区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/suginami/\">杉並区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",

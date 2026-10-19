@@ -12,19 +12,19 @@
     "city_name": "世田谷区"
   },
   "seo": {
-    "title": "世田谷区の訪問看護一覧（60件）｜日曜対応19件・指示書の流れ",
-    "description": "世田谷区の訪問看護ステーション60件を、電話番号・地図つきで一覧にしました。日曜も訪問する事業所は19件、土曜まで含めると28件です。区内119件の中から選ぶための所在町域・運営法人・開設年数・定期訪問の曜日の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
+    "title": "世田谷区の訪問看護一覧（全119件）｜日曜対応34件・指示書の流れ",
+    "description": "世田谷区の訪問看護ステーション119件すべてを、電話番号・地図つきで一覧にしました。日曜も訪問する事業所は34件、土曜まで含めると56件です。区内119件の中から選ぶための所在町域・運営法人・開設年数・定期訪問の曜日の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
     "canonical": "https://kaigonotonari.com/houmon-kango/tokyo/setagaya/",
     "og_title": "世田谷区の訪問看護ステーション一覧｜選び方と始め方",
-    "og_description": "世田谷区の訪問看護ステーション60件を掲載。対応できる医療処置の確認と、主治医の指示書から始める流れを解説します。",
+    "og_description": "世田谷区の訪問看護ステーション全119件を掲載。対応できる医療処置の確認と、主治医の指示書から始める流れを解説します。",
     "og_image": "https://kaigonotonari.com/assets/ogp-houmon-kango.jpg"
   },
   "h1": "世田谷区の訪問看護ステーション一覧｜選び方と始め方",
   "published": "2026-09-21",
   "modified": "2026-09-21",
-  "count_label": "掲載：60事業所",
-  "lead": "東京都世田谷区で訪問看護を探している方へ。区内にあるステーション119件から60件を電話番号・地図つきで掲載し、そのうち<strong>日曜日も定期訪問があるのは19件</strong>であることまで示しました。主治医の指示書から利用開始までの流れもまとめています。訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
-  "listing_note": "世田谷区内の訪問看護ステーションから60件を掲載しています（東京都公表・2026年9月1日時点）。区内には119件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。掲載順は事業所の優劣を示すものではありません。",
+  "count_label": "掲載：119事業所",
+  "lead": "東京都世田谷区で訪問看護を探している方へ。区内にあるステーション119件すべてを電話番号・地図つきで掲載し、そのうち<strong>日曜日も定期訪問があるのは34件</strong>であることまで示しました。主治医の指示書から利用開始までの流れもまとめています。訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
+  "listing_note": "世田谷区内で指定を受けている訪問看護ステーション119件をすべて掲載しています（東京都公表・2026年9月1日時点）。区内には119件が指定を受けており、そのすべてを掲載しています。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
@@ -80,6 +80,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ソフィアメディ訪問看護ステーション経堂",
+      "telephone": "03-5450-3156",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "宮坂３－１２－１７ＨＬビル５階"
+      },
+      "parentOrganization": "ソフィアメディ株式会社",
+      "identifier": "1361290065",
+      "_town": "宮坂",
+      "_kind": "営利法人",
+      "_designated": "2009-03-01",
+      "_years": 17.560574948665298,
+      "url": "http://www.sophiamedi.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "宮坂エリア",
+        "日曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ソフィアメディ訪問看護ステーション成城",
       "telephone": "03-5727-9215",
       "address": {
@@ -105,6 +135,32 @@
       "_tags": [
         "成城エリア",
         "日曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "みなみ東京訪問看護ステーション",
+      "telephone": "03-6303-1301",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "下馬６－１２－１５　２Ｆ"
+      },
+      "parentOrganization": "株式会社ウェリナ",
+      "identifier": "1361290156",
+      "_town": "下馬",
+      "_kind": "営利法人",
+      "_designated": "2011-09-01",
+      "_years": 15.058179329226558,
+      "url": "https://www.minami-tyo-welina.com",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "下馬エリア",
         "訪問看護"
       ]
     },
@@ -139,6 +195,35 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "医療法人社団　輝生会　訪問看護ステーション　成城リハケア",
+      "telephone": "03-5429-8300",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "祖師谷３－８－７ガーデン成城ビル１階"
+      },
+      "parentOrganization": "医療法人社団輝生会",
+      "identifier": "1361290172",
+      "_town": "祖師谷",
+      "_kind": "医療法人",
+      "_designated": "2012-04-01",
+      "_years": 14.47501711156742,
+      "url": "http://seijo-reha.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "祖師谷エリア",
+        "土曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "医療法人社団プラタナス　ナースケア・リビング世田谷中町",
       "telephone": "03-6411-6422",
       "address": {
@@ -160,6 +245,34 @@
       ],
       "_tags": [
         "中町エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション三軒茶屋",
+      "telephone": "03-5779-9085",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "太子堂２－４－１６テラスコート三軒茶屋２０１"
+      },
+      "parentOrganization": "社会福祉法人世田谷区社会福祉事業団",
+      "identifier": "1361290230",
+      "_town": "太子堂",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2013-02-01",
+      "_years": 13.637234770704996,
+      "url": "http://www.setagayaj.or.jp/",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "太子堂エリア",
+        "土曜日も訪問",
         "訪問看護"
       ]
     },
@@ -195,6 +308,35 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "せたがや訪問看護ステーション",
+      "telephone": "03-6413-7393",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "世田谷３－３－３グランドステータス世田谷２階"
+      },
+      "parentOrganization": "株式会社みゆき",
+      "identifier": "1361290263",
+      "_town": "世田谷",
+      "_kind": "営利法人",
+      "_designated": "2013-09-01",
+      "_years": 13.05681040383299,
+      "url": "https://setagayast.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "世田谷エリア",
+        "土曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ソフィアメディ訪問看護ステーション芦花公園",
       "telephone": "03-5315-9525",
       "address": {
@@ -225,6 +367,28 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "株式会社　東京精神訪問看護ステーション",
+      "telephone": "03-6804-9700",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "大原１－４７－１５レスポワール大原２０２"
+      },
+      "parentOrganization": "株式会社東京精神訪問看護ステーション",
+      "identifier": "1361290305",
+      "_town": "大原",
+      "_kind": "営利法人",
+      "_designated": "2013-12-01",
+      "_years": 12.80766598220397,
+      "_tags": [
+        "大原エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ケアパートナー梅ヶ丘訪問看護ステーション",
       "telephone": "03-6432-6100",
       "address": {
@@ -246,6 +410,32 @@
       ],
       "_tags": [
         "梅丘エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "医療法人社団美誠会訪問看護ステーション　サンセール世田谷大蔵",
+      "telephone": "03-5727-9535",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "大蔵１－３－２２"
+      },
+      "parentOrganization": "医療法人社団美誠会",
+      "identifier": "1361290339",
+      "_town": "大蔵",
+      "_kind": "医療法人",
+      "_designated": "2014-03-01",
+      "_years": 12.56125941136208,
+      "url": "http://sin-setagayaokura.com/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "大蔵エリア",
         "訪問看護"
       ]
     },
@@ -281,6 +471,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "指定訪問看護　アットリハ若林",
+      "telephone": "03-5787-5193",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "若林２－１７－９第二エメラルド青木ビル３０１号"
+      },
+      "parentOrganization": "株式会社ＡＴ",
+      "identifier": "1361290370",
+      "_town": "若林",
+      "_kind": "営利法人",
+      "_designated": "2014-10-01",
+      "_years": 11.97535934291581,
+      "url": "http://care-net.biz/14/at/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "若林エリア",
+        "日曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "シーエルポート世田谷",
       "telephone": "03-6880-2192",
       "address": {
@@ -302,6 +522,36 @@
       ],
       "_tags": [
         "上用賀エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ホームナーシング　モア世田谷用賀",
+      "telephone": "03-6805-7138",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "玉川台２－１７－２"
+      },
+      "parentOrganization": "株式会社ｍｏｒｅ",
+      "identifier": "1361290453",
+      "_town": "玉川台",
+      "_kind": "営利法人",
+      "_designated": "2015-05-01",
+      "_years": 11.394934976043805,
+      "url": "https://more-g.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "玉川台エリア",
+        "日曜日も訪問",
         "訪問看護"
       ]
     },
@@ -337,6 +587,28 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　デューン世田谷",
+      "telephone": "03-6450-8515",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "池尻３－２２－４池尻大橋ビル５階"
+      },
+      "parentOrganization": "株式会社Ｎ・フィールド",
+      "identifier": "1361290495",
+      "_town": "池尻",
+      "_kind": "営利法人",
+      "_designated": "2015-08-01",
+      "_years": 11.143052703627653,
+      "_tags": [
+        "池尻エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ソフィアメディ訪問看護ステーション二子玉川",
       "telephone": "03-5797-5140",
       "address": {
@@ -362,6 +634,32 @@
       "_tags": [
         "玉川エリア",
         "日曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "在宅療養支援ステーション楓の風　世田谷",
+      "telephone": "03-6413-3411",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "世田谷３－１７－１５古谷マンション２階２０２号室"
+      },
+      "parentOrganization": "楓の風在宅療養支援株式会社",
+      "identifier": "1361290529",
+      "_town": "世田谷",
+      "_kind": "営利法人",
+      "_designated": "2015-09-01",
+      "_years": 11.058179329226558,
+      "url": "http://kaedenokaze.com/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "世田谷エリア",
         "訪問看護"
       ]
     },
@@ -397,6 +695,32 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "あむ訪問看護ステーション",
+      "telephone": "03-6304-3090",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "経堂２－６－６小松ビル２Ｆ"
+      },
+      "parentOrganization": "株式会社ＡＬＴＷＥＬＬＮＵＲＳＥ",
+      "identifier": "1361290586",
+      "_town": "経堂",
+      "_kind": "営利法人",
+      "_designated": "2016-04-01",
+      "_years": 10.47501711156742,
+      "url": "http://amu-kango.com/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "経堂エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "りはっぴぃの訪問看護",
       "telephone": "03-6413-6690",
       "address": {
@@ -423,6 +747,28 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "訪問看護リハビリステーション七つの海",
+      "telephone": "03-6805-9140",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "玉川台２－３１－１９Ｂｙ　ｔｈｅ　ｆｏｒｅｓｔ　Ｂ号室"
+      },
+      "parentOrganization": "株式会社琉球マインド",
+      "identifier": "1361290610",
+      "_town": "玉川台",
+      "_kind": "営利法人",
+      "_designated": "2016-06-01",
+      "_years": 10.30800821355236,
+      "_tags": [
+        "玉川台エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問看護ステーションふくろう等々力",
       "telephone": "03-6432-2975",
       "address": {
@@ -444,6 +790,36 @@
       ],
       "_tags": [
         "等々力エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "医療法人社団プラタナス　松原ナースケア・ステーション",
+      "telephone": "03-6379-0207",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "松原５－３４－６"
+      },
+      "parentOrganization": "医療法人社団プラタナス",
+      "identifier": "1361290669",
+      "_town": "松原",
+      "_kind": "医療法人",
+      "_designated": "2017-02-01",
+      "_years": 9.637234770704996,
+      "url": "https://matsubara-urban.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "松原エリア",
+        "日曜日も訪問",
         "訪問看護"
       ]
     },
@@ -479,6 +855,28 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "こころのホームクリニック世田谷　ナースステーション",
+      "telephone": "03-6909-1218",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "北烏山３－５－９日栄ビル２階２０１号室"
+      },
+      "parentOrganization": "医療法人社団リカバリー",
+      "identifier": "1361290685",
+      "_town": "北烏山",
+      "_kind": "医療法人",
+      "_designated": "2017-07-01",
+      "_years": 9.22655715263518,
+      "_tags": [
+        "北烏山エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "はなまる会訪問看護ステーション",
       "telephone": "03-5490-7086",
       "address": {
@@ -509,6 +907,32 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "なの花訪問看護ステーション千歳台",
+      "telephone": "03-6411-5118",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "千歳台５－１８－９"
+      },
+      "parentOrganization": "株式会社メディカルシステムネットワーク",
+      "identifier": "1361290719",
+      "_town": "千歳台",
+      "_kind": "営利法人",
+      "_designated": "2017-12-01",
+      "_years": 8.80766598220397,
+      "url": "https://www.nanohana-kango.jp/chitosedai/index.html",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "千歳台エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "いちから訪問看護ステーション",
       "telephone": "03-6413-9136",
       "address": {
@@ -530,6 +954,31 @@
       ],
       "_tags": [
         "経堂エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "医療法人社団医真会　ＳＨＣ訪問看護ステーション",
+      "telephone": "03-6279-5936",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "粕谷４－１９－５塩原ビル２階"
+      },
+      "parentOrganization": "医療法人社団医真会",
+      "identifier": "1361290800",
+      "_town": "粕谷",
+      "_kind": "医療法人",
+      "_designated": "2018-10-01",
+      "_years": 7.975359342915811,
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "粕谷エリア",
         "訪問看護"
       ]
     },
@@ -565,6 +1014,32 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "つづる訪問看護ステーション",
+      "telephone": "03-6431-0803",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "玉川４－９－６アクア二子玉川２０２"
+      },
+      "parentOrganization": "株式会社プラス",
+      "identifier": "1361290826",
+      "_town": "玉川",
+      "_kind": "営利法人",
+      "_designated": "2018-11-01",
+      "_years": 7.8904859685147155,
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "玉川エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "リニエ訪問看護ステーションキッズ世田谷",
       "telephone": "03-6909-1965",
       "address": {
@@ -582,6 +1057,28 @@
       "_years": 7.8904859685147155,
       "_tags": [
         "南烏山エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーションワイズメンタル",
+      "telephone": "03-6820-2733",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "駒沢２－７－１－２３０４"
+      },
+      "parentOrganization": "合同会社ワイズメンタル",
+      "identifier": "1361290867",
+      "_town": "駒沢",
+      "_kind": "営利法人",
+      "_designated": "2018-12-01",
+      "_years": 7.808350444900753,
+      "_tags": [
+        "駒沢エリア",
         "訪問看護"
       ]
     },
@@ -610,6 +1107,34 @@
       ],
       "_tags": [
         "弦巻エリア",
+        "土曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション梅ヶ丘",
+      "telephone": "03-6379-0534",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "松原６－３７－１"
+      },
+      "parentOrganization": "一般財団法人脳神経疾患研究所",
+      "identifier": "1361290891",
+      "_town": "松原",
+      "_kind": "社団・財団",
+      "_designated": "2019-04-01",
+      "_years": 7.477070499657769,
+      "url": "http://www.tokyo-rehabili.jp/",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "松原エリア",
         "土曜日も訪問",
         "訪問看護"
       ]
@@ -645,6 +1170,28 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "訪問看護ファミリー・ホスピス００１",
+      "telephone": "03-6432-7252",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "玉川３－３９－９"
+      },
+      "parentOrganization": "ファミリー・ホスピス株式会社",
+      "identifier": "1361290933",
+      "_town": "玉川",
+      "_kind": "営利法人",
+      "_designated": "2019-11-01",
+      "_years": 6.891170431211499,
+      "_tags": [
+        "玉川エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ルミナス訪問看護ステーション",
       "telephone": "03-5727-8582",
       "address": {
@@ -674,6 +1221,35 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "桜十字訪問看護ステーション世田谷八幡山",
+      "telephone": "03-5969-9220",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "桜上水５－５－２９ベルクール桜上水２１２号室"
+      },
+      "parentOrganization": "株式会社桜十字",
+      "identifier": "1361290974",
+      "_town": "桜上水",
+      "_kind": "営利法人",
+      "_designated": "2020-04-01",
+      "_years": 6.4750171115674195,
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "桜上水エリア",
+        "日曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問看護ステーション　いぶき三軒茶屋",
       "telephone": "03-6413-8715",
       "address": {
@@ -691,6 +1267,35 @@
       "_years": 6.4750171115674195,
       "_tags": [
         "三軒茶屋エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "トータルライフケア烏山訪問看護ステーション",
+      "telephone": "03-5315-9308",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "南烏山５－３－３Ｎａｓｉｃフローラコート世田谷１Ｆ　Ｎｏ．２"
+      },
+      "parentOrganization": "株式会社トータルライフケア",
+      "identifier": "1361290990",
+      "_town": "南烏山",
+      "_kind": "営利法人",
+      "_designated": "2020-04-01",
+      "_years": 6.4750171115674195,
+      "url": "https://www.ikiikitlc.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南烏山エリア",
+        "土曜日も訪問",
         "訪問看護"
       ]
     },
@@ -725,6 +1330,32 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "成城克歩訪問看護ステーション",
+      "telephone": "03-6805-8658",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "成城１－１３－２ゲミュートリヒ成城１０１号室"
+      },
+      "parentOrganization": "医療法人社団さくら会",
+      "identifier": "1361291022",
+      "_town": "成城",
+      "_kind": "医療法人",
+      "_designated": "2020-08-01",
+      "_years": 6.140999315537303,
+      "url": "https://setagaya-sakura.wixsite.com",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "成城エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "カンデラ・メディカルケア世田谷本店",
       "telephone": "03-3703-0810",
       "address": {
@@ -749,6 +1380,32 @@
       "_tags": [
         "奥沢エリア",
         "土曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アベリア訪問看護ステーション",
+      "telephone": "03-6304-3977",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "松原５－６０－２"
+      },
+      "parentOrganization": "株式会社アベリア",
+      "identifier": "1361291048",
+      "_town": "松原",
+      "_kind": "営利法人",
+      "_designated": "2020-10-01",
+      "_years": 5.973990417522245,
+      "url": "http://www.grandiflora.jp",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "松原エリア",
         "訪問看護"
       ]
     },
@@ -780,6 +1437,35 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "医心館　訪問看護ステーション　経堂",
+      "telephone": "03-6413-9337",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "宮坂３－２－８"
+      },
+      "parentOrganization": "株式会社アンビス",
+      "identifier": "1361291071",
+      "_town": "宮坂",
+      "_kind": "営利法人",
+      "_designated": "2020-12-01",
+      "_years": 5.806981519507187,
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "宮坂エリア",
+        "日曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ネットワーク訪問ナースステーション",
       "telephone": "03-6762-2272",
       "address": {
@@ -801,6 +1487,32 @@
       ],
       "_tags": [
         "松原エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ライフ訪問看護ステーション駒澤",
+      "telephone": "03-6450-9700",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "駒沢２－１１－１駒沢フォーラムガーデン８０１"
+      },
+      "parentOrganization": "株式会社ＡＲＣＷＥＬＬ",
+      "identifier": "1361291113",
+      "_town": "駒沢",
+      "_kind": "営利法人",
+      "_designated": "2021-08-01",
+      "_years": 5.1416837782340865,
+      "url": "https://life-houkan.net/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "駒沢エリア",
         "訪問看護"
       ]
     },
@@ -830,6 +1542,32 @@
       "_tags": [
         "経堂エリア",
         "日曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ライフ訪問看護ステーション経堂",
+      "telephone": "03-5799-7835",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "宮坂３－４－１ライオンズマンション経堂４０６"
+      },
+      "parentOrganization": "株式会社ＡＲＣＷＥＬＬ",
+      "identifier": "1361291162",
+      "_town": "宮坂",
+      "_kind": "営利法人",
+      "_designated": "2022-02-01",
+      "_years": 4.63791923340178,
+      "url": "https://life-houkan.net/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "宮坂エリア",
         "訪問看護"
       ]
     },
@@ -865,6 +1603,35 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "マイナビ訪問看護ステーション　祖師谷",
+      "telephone": "03-6411-5688",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "祖師谷３－８－１０　１階"
+      },
+      "parentOrganization": "株式会社マイナビナースケア",
+      "identifier": "1361291188",
+      "_town": "祖師谷",
+      "_kind": "営利法人",
+      "_designated": "2022-06-01",
+      "_years": 4.309377138945927,
+      "url": "https://houmon-kango.mynavi.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "祖師谷エリア",
+        "土曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問看護　カラフルステーション",
       "telephone": "03-6805-8582",
       "address": {
@@ -886,6 +1653,32 @@
       ],
       "_tags": [
         "砧エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "医療法人社団プラタナス　桜新町ナースケア・ステーション",
+      "telephone": "03-5716-5220",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "上用賀５－１２－１１　３０１"
+      },
+      "parentOrganization": "医療法人社団プラタナス",
+      "identifier": "1361291212",
+      "_town": "上用賀",
+      "_kind": "医療法人",
+      "_designated": "2022-07-01",
+      "_years": 4.227241615331964,
+      "url": "https://www.sakura-urban.jp/home_medical_care/home_visit_nursing.html",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "上用賀エリア",
         "訪問看護"
       ]
     },
@@ -917,6 +1710,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "訪問看護かえりえ成城",
+      "telephone": "05017533851",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "成城１－１－９"
+      },
+      "parentOrganization": "株式会社やさしい手",
+      "identifier": "1361291238",
+      "_town": "成城",
+      "_kind": "営利法人",
+      "_designated": "2022-09-01",
+      "_years": 4.057494866529774,
+      "url": "https://search.yasashiite.com/detail/houmonkango_seijo/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "成城エリア",
+        "日曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "スーパーキッズ訪問看護ステーション",
       "telephone": "07031913231",
       "address": {
@@ -934,6 +1757,28 @@
       "_years": 3.890485968514716,
       "_tags": [
         "梅丘エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　デライト尾山台",
+      "telephone": "03-6455-9928",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "尾山台３－３３－５須摩ビル２０１号室"
+      },
+      "parentOrganization": "株式会社Ｈ＆Ｈホールディングス",
+      "identifier": "1361291253",
+      "_town": "尾山台",
+      "_kind": "営利法人",
+      "_designated": "2023-02-01",
+      "_years": 3.6386036960985626,
+      "_tags": [
+        "尾山台エリア",
         "訪問看護"
       ]
     },
@@ -960,6 +1805,35 @@
       ],
       "_tags": [
         "代田エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護リハビリステーション東京敬寿園",
+      "telephone": "03-5313-0064",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "上祖師谷７－１－１"
+      },
+      "parentOrganization": "社会福祉法人敬寿会",
+      "identifier": "1361291279",
+      "_town": "上祖師谷",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2023-04-01",
+      "_years": 3.477070499657769,
+      "url": "https://keijuen.or.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "上祖師谷エリア",
+        "土曜日も訪問",
         "訪問看護"
       ]
     },
@@ -995,6 +1869,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ソフィアメディ訪問看護ステーション等々力",
+      "telephone": "03-6809-7822",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "等々力８－２５－１６　２０１号室"
+      },
+      "parentOrganization": "ソフィアメディ株式会社",
+      "identifier": "1361291303",
+      "_town": "等々力",
+      "_kind": "営利法人",
+      "_designated": "2023-05-01",
+      "_years": 3.3949349760438055,
+      "url": "https://www.sophiamedi.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "等々力エリア",
+        "日曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ハイメディック訪問看護ステーション",
       "telephone": "08041678056",
       "address": {
@@ -1015,6 +1919,33 @@
       ],
       "_tags": [
         "玉川台エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "マース訪問看護ステーション千歳船橋",
+      "telephone": "03-6804-4373",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "船橋４－５－７"
+      },
+      "parentOrganization": "株式会社ＭＡＲＳ",
+      "identifier": "1361291329",
+      "_town": "船橋",
+      "_kind": "営利法人",
+      "_designated": "2023-06-01",
+      "_years": 3.3100616016427105,
+      "url": "https://www.mars-houkan.jp/",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "船橋エリア",
         "訪問看護"
       ]
     },
@@ -1049,6 +1980,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　デューン烏山",
+      "telephone": "03-6279-5136",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "南烏山６－２９－６栗原ビル１０１号室"
+      },
+      "parentOrganization": "株式会社Ｎ・フィールド",
+      "identifier": "1361291345",
+      "_town": "南烏山",
+      "_kind": "営利法人",
+      "_designated": "2023-06-01",
+      "_years": 3.3100616016427105,
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南烏山エリア",
+        "土曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ほっとナビ訪問看護ステーション　世田谷",
       "telephone": "03-6304-7298",
       "address": {
@@ -1070,6 +2029,36 @@
       ],
       "_tags": [
         "松原エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護かえりえ給田",
+      "telephone": "05017547379",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "給田１－１－１１"
+      },
+      "parentOrganization": "株式会社やさしい手",
+      "identifier": "1361291360",
+      "_town": "給田",
+      "_kind": "営利法人",
+      "_designated": "2023-08-01",
+      "_years": 3.143052703627652,
+      "url": "https://search.yasashiite.com/detail/homonkango_kyuden/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "給田エリア",
+        "日曜日も訪問",
         "訪問看護"
       ]
     },
@@ -1097,6 +2086,35 @@
       ],
       "_tags": [
         "上用賀エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "祖師谷スキンケアステーション",
+      "telephone": "080-3276-7978",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "祖師谷４－７－１"
+      },
+      "parentOrganization": "株式会社ＫＣＳ",
+      "identifier": "1361291386",
+      "_town": "祖師谷",
+      "_kind": "営利法人",
+      "_designated": "2023-09-01",
+      "_years": 3.058179329226557,
+      "url": "https://soshigaya-skincare.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "祖師谷エリア",
+        "土曜日も訪問",
         "訪問看護"
       ]
     },
@@ -1133,6 +2151,37 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "サンウェルズ用賀訪問看護ステーション",
+      "telephone": "03-5491-7700",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "瀬田５－３３－２２"
+      },
+      "parentOrganization": "株式会社サンウェルズ",
+      "identifier": "1361291402",
+      "_town": "瀬田",
+      "_kind": "営利法人",
+      "_designated": "2023-10-01",
+      "_years": 2.976043805612594,
+      "url": "https://sunwels.jp/pdh/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "瀬田エリア",
+        "日曜日も訪問",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "あいず訪問看護ステーション三軒茶屋",
       "telephone": "03-6805-2702",
       "address": {
@@ -1160,6 +2209,37 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ソフィアメディ訪問看護ステーション千歳船橋",
+      "telephone": "03-5787-7064",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "千歳台１－３０－１４　１０１号室"
+      },
+      "parentOrganization": "ソフィアメディ株式会社",
+      "identifier": "1361291436",
+      "_town": "千歳台",
+      "_kind": "営利法人",
+      "_designated": "2023-12-01",
+      "_years": 2.809034907597536,
+      "url": "https://www.sophiamedi.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "千歳台エリア",
+        "日曜日も訪問",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問看護ステーション　紅白せたがや",
       "telephone": "03-5797-9535",
       "address": {
@@ -1180,6 +2260,34 @@
       ],
       "_tags": [
         "瀬田エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　ｈａｒｕ　ｓｔｙｌｅ　世田谷",
+      "telephone": "03-6804-4162",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "桜新町１－１５－１チェリーハイム３０２"
+      },
+      "parentOrganization": "合同会社Ｍａｉｓｏｎ８４",
+      "identifier": "1361291469",
+      "_town": "桜新町",
+      "_kind": "営利法人",
+      "_designated": "2024-04-01",
+      "_years": 2.4750171115674195,
+      "url": "https://setagaya.haru-style.jp/",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "桜新町エリア",
         "開設3年以内",
         "訪問看護"
       ]
@@ -1213,6 +2321,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "アライブ世田谷下馬　訪問看護ステーション",
+      "telephone": "03-5433-5310",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "下馬６－２９－２２"
+      },
+      "parentOrganization": "株式会社アライブメディケア",
+      "identifier": "1361291493",
+      "_town": "下馬",
+      "_kind": "営利法人",
+      "_designated": "2024-06-01",
+      "_years": 2.308008213552361,
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "下馬エリア",
+        "日曜日も訪問",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "まなか訪問看護ステーション",
       "telephone": "03-5936-1286",
       "address": {
@@ -1233,6 +2371,36 @@
       ],
       "_tags": [
         "桜エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ひだまり訪問看護ステーション用賀",
+      "telephone": "03-6808-7414",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "用賀４－２３－１２ユアハウス用賀２"
+      },
+      "parentOrganization": "Ｓｈｉｎｙｌｉｆｅ株式会社",
+      "identifier": "1361291519",
+      "_town": "用賀",
+      "_kind": "営利法人",
+      "_designated": "2024-07-01",
+      "_years": 2.2258726899383983,
+      "url": "https://www.hidamari-youga.info/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "用賀エリア",
+        "土曜日も訪問",
         "開設3年以内",
         "訪問看護"
       ]
@@ -1266,6 +2434,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "いのり訪問看護ステーション",
+      "telephone": "03-6909-0632",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "南烏山６－１３－１３冨岡コーポ　Ｃ－１０９"
+      },
+      "parentOrganization": "株式会社ＨＯＰＥ",
+      "identifier": "1361291535",
+      "_town": "南烏山",
+      "_kind": "営利法人",
+      "_designated": "2024-10-01",
+      "_years": 1.9739904175222451,
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "南烏山エリア",
+        "土曜日も訪問",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "医心館　訪問看護ステーション　祖師谷",
       "telephone": "03-5787-7825",
       "address": {
@@ -1289,6 +2485,37 @@
       ],
       "_tags": [
         "祖師谷エリア",
+        "日曜日も訪問",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護かえりえ上北沢",
+      "telephone": "05017069196",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "上北沢３－３２－１３　３階・４階"
+      },
+      "parentOrganization": "株式会社やさしい手",
+      "identifier": "1361291550",
+      "_town": "上北沢",
+      "_kind": "営利法人",
+      "_designated": "2025-03-01",
+      "_years": 1.5605749486652978,
+      "url": "https://search.yasashiite.com/detail/homonkango_kamikitazawa/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "上北沢エリア",
         "日曜日も訪問",
         "開設3年以内",
         "訪問看護"
@@ -1326,6 +2553,29 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ベルケア千歳烏山訪問看護ステーション",
+      "telephone": "03-6789-2095",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "南烏山４－３－８マノアール世田谷　１０２"
+      },
+      "parentOrganization": "ＥＮ－ＣＯＬＯＲｂｅｌｌｅ－ｃａｒｅ合同会社",
+      "identifier": "1361291576",
+      "_town": "南烏山",
+      "_kind": "営利法人",
+      "_designated": "2025-11-01",
+      "_years": 0.8898015058179329,
+      "_tags": [
+        "南烏山エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "いろどり訪問看護ＲＣＵ世田谷",
       "telephone": "03-6279-5700",
       "address": {
@@ -1347,6 +2597,34 @@
       ],
       "_tags": [
         "北烏山エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "＠コレモ訪問看護",
+      "telephone": "03-4218-6953",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "上馬１－３３－１６小川ハイツ３０１"
+      },
+      "parentOrganization": "株式会社Ｄ．ｐｏｄｓ",
+      "identifier": "1361291592",
+      "_town": "上馬",
+      "_kind": "営利法人",
+      "_designated": "2026-02-01",
+      "_years": 0.6379192334017796,
+      "url": "https://www.dpodspodp.jp/",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "上馬エリア",
         "開設3年以内",
         "訪問看護"
       ]
@@ -1376,6 +2654,29 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ショコラ訪問看護ステーション田園調布",
+      "telephone": "03-5755-5388",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "玉川田園調布１－９－１壱番館１０１"
+      },
+      "parentOrganization": "株式会社ユナイテッドパス",
+      "identifier": "1361291618",
+      "_town": "玉川田園調布",
+      "_kind": "営利法人",
+      "_designated": "2026-04-01",
+      "_years": 0.47638603696098564,
+      "_tags": [
+        "玉川田園調布エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "青藍会在宅医療支援センターハートハウス成城　訪問看護ステーション",
       "telephone": "03-3416-4160",
       "address": {
@@ -1393,6 +2694,29 @@
       "_years": 0.3942505133470226,
       "_tags": [
         "成城エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ファミリー・ホスピス成城",
+      "telephone": "03-6279-5584",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "上祖師谷６－３１－１"
+      },
+      "parentOrganization": "ファミリー・ホスピス株式会社",
+      "identifier": "1361291634",
+      "_town": "上祖師谷",
+      "_kind": "営利法人",
+      "_designated": "2026-06-01",
+      "_years": 0.30937713894592744,
+      "_tags": [
+        "上祖師谷エリア",
         "開設3年以内",
         "訪問看護"
       ]
@@ -1422,6 +2746,33 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "グリーンメディ訪問看護ステーション明大前",
+      "telephone": "03-6770-5338",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "松原２－４２－９美鈴Ｎビル４０２号室"
+      },
+      "parentOrganization": "株式会社ライフタイムメディ",
+      "identifier": "1361590142",
+      "_town": "松原",
+      "_kind": "営利法人",
+      "_designated": "2011-04-01",
+      "_years": 15.477070499657769,
+      "url": "http://www.gc-lifetime.co.jp",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "松原エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "成城訪問看護ステーション",
       "telephone": "03-3482-0088",
       "address": {
@@ -1443,6 +2794,35 @@
       ],
       "_tags": [
         "成城エリア",
+        "20年以上",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーションけやき",
+      "telephone": "03-5450-8806",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "世田谷１－２３－２"
+      },
+      "parentOrganization": "社会福祉法人世田谷区社会福祉事業団",
+      "identifier": "1367191539",
+      "_town": "世田谷",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "url": "http://www.setagayaj.or.jp",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "世田谷エリア",
+        "土曜日も訪問",
         "20年以上",
         "訪問看護"
       ]
@@ -1478,6 +2858,33 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "訪問看護ステーション青い鳥",
+      "telephone": "03-5758-6331",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "奥沢７－１２－２５－２Ｆ"
+      },
+      "parentOrganization": "医療法人社団青い鳥会",
+      "identifier": "1367192511",
+      "_town": "奥沢",
+      "_kind": "医療法人",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "url": "http://www.aoitorikai.com/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "奥沢エリア",
+        "20年以上",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問看護ステーション北沢",
       "telephone": "03-5355-6200",
       "address": {
@@ -1507,6 +2914,32 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "克歩訪問看護ステーション",
+      "telephone": "03-5451-8511",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "世田谷１－３２－４  ２０４号室"
+      },
+      "parentOrganization": "医療法人社団さくら会",
+      "identifier": "1367193055",
+      "_town": "世田谷",
+      "_kind": "医療法人",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "世田谷エリア",
+        "20年以上",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "医療法人財団　青葉会　太子堂訪問看護ステーション",
       "telephone": "03-5481-8111",
       "address": {
@@ -1527,6 +2960,35 @@
       ],
       "_tags": [
         "太子堂エリア",
+        "20年以上",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "医療法人社団　多聞会　訪問看護ステーションこあら",
+      "telephone": "03-3706-8133",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "世田谷１－４２－１１"
+      },
+      "parentOrganization": "医療法人社団多聞会",
+      "identifier": "1367194558",
+      "_town": "世田谷",
+      "_kind": "医療法人",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "url": "https://www.tamonkai.or.jp/home-nursing-koala/",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "世田谷エリア",
+        "土曜日も訪問",
         "20年以上",
         "訪問看護"
       ]
@@ -1560,6 +3022,33 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "セコム世田谷訪問看護ステーション",
+      "telephone": "03-5329-0761",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "松原１－４６－９ＯＨＲＥＭ明大前３０１"
+      },
+      "parentOrganization": "セコム医療システム株式会社",
+      "identifier": "1367196017",
+      "_town": "松原",
+      "_kind": "営利法人",
+      "_designated": "2001-05-01",
+      "_years": 25.39356605065024,
+      "url": "http://medical.secom.co.jp/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "松原エリア",
+        "20年以上",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問看護ステーションきたざわ苑",
       "telephone": "03-5453-5620",
       "address": {
@@ -1583,6 +3072,37 @@
       "_tags": [
         "北沢エリア",
         "土曜日も訪問",
+        "20年以上",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "トータルライフケア奥沢　訪問看護ステーション",
+      "telephone": "03-5754-2879",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "奥沢３－４５－６鈴木第一ビル１Ｆ"
+      },
+      "parentOrganization": "株式会社トータルライフケア",
+      "identifier": "1367196298",
+      "_town": "奥沢",
+      "_kind": "営利法人",
+      "_designated": "2002-01-01",
+      "_years": 24.722792607802873,
+      "url": "https://www.ikiikitlc.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "奥沢エリア",
+        "日曜日も訪問",
         "20年以上",
         "訪問看護"
       ]
@@ -1620,6 +3140,33 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "そよかぜ訪問看護ステーション上北沢",
+      "telephone": "03-5316-5260",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "上北沢４－１６－１１　４Ｆ"
+      },
+      "parentOrganization": "株式会社まごころ",
+      "identifier": "1367197858",
+      "_town": "上北沢",
+      "_kind": "営利法人",
+      "_designated": "2005-06-01",
+      "_years": 21.308692676249144,
+      "url": "http://www.magokoro-sakura.jp/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "上北沢エリア",
+        "20年以上",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "下馬訪問看護ステーション",
       "telephone": "03-5433-0206",
       "address": {
@@ -1641,6 +3188,33 @@
       ],
       "_tags": [
         "下馬エリア",
+        "20年以上",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　お天気",
+      "telephone": "03-5450-7270",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "宮坂２－２６－２６宮坂ハイム５０１"
+      },
+      "parentOrganization": "有限会社幸せ在宅計画社",
+      "identifier": "1367198120",
+      "_town": "宮坂",
+      "_kind": "営利法人",
+      "_designated": "2005-10-01",
+      "_years": 20.974674880219027,
+      "url": "http://park7.wakwak.com/~otenki/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "宮坂エリア",
         "20年以上",
         "訪問看護"
       ]
@@ -1675,6 +3249,36 @@
         "20年以上",
         "訪問看護"
       ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ソフィアメディ訪問看護ステーション用賀",
+      "telephone": "03-3707-1501",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "玉川台２－２２－２０イイダアネックス７　３０４"
+      },
+      "parentOrganization": "ソフィアメディ株式会社",
+      "identifier": "1367198955",
+      "_town": "玉川台",
+      "_kind": "営利法人",
+      "_designated": "2007-03-01",
+      "_years": 19.561943874058862,
+      "url": "http://www.sophiamedi.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "玉川台エリア",
+        "日曜日も訪問",
+        "訪問看護"
+      ]
     }
   ],
   "faq": [
@@ -1684,11 +3288,11 @@
     },
     {
       "q": "世田谷区には訪問看護ステーションが何件ありますか？",
-      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で世田谷区内に119件の訪問看護ステーションが指定を受けています。本ページではそのうち60件を連絡先つきで掲載しています。"
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で世田谷区内に119件の訪問看護ステーションが指定を受けています。本ページでは119件すべてを連絡先つきで掲載しています。"
     },
     {
       "q": "世田谷区の掲載事業所は、どこを見て絞り込めばいいですか？",
-      "a": "まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。世田谷区の掲載60件では営利法人が48件、医療法人が5件、指定から20年以上の事業所が9件です。そのうえで、ご自宅の町名を伝えて世田谷区内の対応エリアに入っているかを確認してください。"
+      "a": "まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。世田谷区の掲載119件では営利法人が93件、医療法人が15件、指定から20年以上の事業所が17件です。そのうえで、ご自宅の町名を伝えて世田谷区内の対応エリアに入っているかを確認してください。"
     }
   ],
   "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/setagaya/\">世田谷区の訪問介護<small>自宅に来てもらう・区内237件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/setagaya/\">世田谷区のデイサービス<small>日帰りで通う・区内99件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/setagaya/\">世田谷区のショートステイ<small>数日あずける・区内31件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/setagaya/\">世田谷区の福祉用具<small>借りる・買う・区内35件</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/setagaya/\">世田谷区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/setagaya/\">世田谷区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
@@ -1705,7 +3309,7 @@
     "東京都福祉局「介護保険事業状況報告（月報）」令和8年6月分（保険者別・第1号被保険者数／要介護認定者数）",
     "区内事業所数：東京都公表の指定事業所一覧にもとづく実数（2026年9月1日時点）"
   ],
-  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず主治医に相談を</h4>\n        <p>訪問看護は主治医の指示書が起点です。制度の分岐はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>世田谷区内のステーションは約119件</li>\n          <li>起点は主治医の訪問看護指示書</li>\n          <li>30分未満の訪問で約537円（1割）</li>\n          <li>掲載60件のうち医療法人は5件</li>\n          <li>主治医が未定ならあんしんすこやかセンターへ</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/houmon-kango-chigai/\">訪問介護と訪問看護の違い</a></li>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}guide/houmon-kaigo-dekirukoto/\">ヘルパーに頼めること</a></li>\n          <li><a href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみ</a></li>\n        </ul>\n      </div>",
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず主治医に相談を</h4>\n        <p>訪問看護は主治医の指示書が起点です。制度の分岐はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>世田谷区内のステーションは約119件</li>\n          <li>起点は主治医の訪問看護指示書</li>\n          <li>30分未満の訪問で約537円（1割）</li>\n          <li>掲載119件のうち医療法人は15件</li>\n          <li>主治医が未定ならあんしんすこやかセンターへ</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/houmon-kango-chigai/\">訪問介護と訪問看護の違い</a></li>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}guide/houmon-kaigo-dekirukoto/\">ヘルパーに頼めること</a></li>\n          <li><a href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみ</a></li>\n        </ul>\n      </div>",
   "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
   "hero_image": "assets/ogp-houmon-kango.jpg",
   "towns": {

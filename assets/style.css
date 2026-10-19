@@ -361,3 +361,7 @@ details.more .tw{margin:0;padding:0 10px 10px}
 .ks-big{margin:0 0 8px;font-size:16px}
 .ks-big b{font-size:26px;color:var(--c-d);margin-left:6px}
 .ks-row label{white-space:nowrap;flex:1 1 150px}
+
+/* 件数の多い区：61件目以降は「すべて表示」まで畳む */
+.bizlist .card.fold{display:none}
+.more-all{display:block;width:100%;margin:6px 0 18px;padding:14px;font-size:16px}

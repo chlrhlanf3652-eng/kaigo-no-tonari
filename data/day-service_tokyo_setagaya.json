@@ -12,19 +12,19 @@
     "city_name": "世田谷区"
   },
   "seo": {
-    "title": "世田谷区のデイサービス一覧（60件）｜日曜対応4件・定員と送迎",
-    "description": "世田谷区の通所介護（デイサービス）事業所60件を、電話番号・地図つきで一覧にしました。日曜も通える事業所は4件、土曜まで含めると50件。定員の内訳も示しました。区内99件の中から選ぶための所在町域・運営法人・開設年数の内訳と、1級地での自己負担、見学で聞くことをまとめました。",
+    "title": "世田谷区のデイサービス一覧（全99件）｜日曜対応7件・定員と送迎",
+    "description": "世田谷区の通所介護（デイサービス）事業所99件すべてを、電話番号・地図つきで一覧にしました。日曜も通える事業所は7件、土曜まで含めると81件。定員の内訳も示しました。区内99件の中から選ぶための所在町域・運営法人・開設年数の内訳と、1級地での自己負担、見学で聞くことをまとめました。",
     "canonical": "https://kaigonotonari.com/day-service/tokyo/setagaya/",
     "og_title": "世田谷区のデイサービス一覧｜送迎範囲と費用の見方",
-    "og_description": "世田谷区の通所介護事業所60件を掲載。送迎範囲・入浴設備・開設年数から選ぶ順番と、保険外費用を含めた費用の見方を解説します。",
+    "og_description": "世田谷区の通所介護事業所全99件を掲載。送迎範囲・入浴設備・開設年数から選ぶ順番と、保険外費用を含めた費用の見方を解説します。",
     "og_image": "https://kaigonotonari.com/assets/ogp-day-service.jpg"
   },
   "h1": "世田谷区のデイサービス一覧｜送迎範囲と費用の見方",
   "published": "2026-09-22",
   "modified": "2026-09-22",
-  "count_label": "掲載：60事業所",
-  "lead": "東京都世田谷区で通所介護（デイサービス）を探している方へ。東京都の指定を受けた99件から60件を電話番号・地図つきで掲載し、所在町域・運営法人・開設からの年数の内訳と、1級地での自己負担をまとめました。デイサービスでいちばん多い壁は<strong>本人が行きたがらないこと</strong>です。選ぶ順番は近い順ではなく、通い続けられる条件の順になります。",
-  "listing_note": "世田谷区内の通所介護事業所から60件を掲載しています（東京都公表・2026年9月1日時点）。区内には99件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。定員18人以下の地域密着型通所介護は区が指定するため、この一覧には含まれていません。掲載順は事業所の優劣を示すものではありません。",
+  "count_label": "掲載：99事業所",
+  "lead": "東京都世田谷区で通所介護（デイサービス）を探している方へ。東京都の指定を受けた99件すべてを電話番号・地図つきで掲載し、所在町域・運営法人・開設からの年数の内訳と、1級地での自己負担をまとめました。デイサービスでいちばん多い壁は<strong>本人が行きたがらないこと</strong>です。選ぶ順番は近い順ではなく、通い続けられる条件の順になります。",
+  "listing_note": "世田谷区内で指定を受けている通所介護事業所99件をすべて掲載しています（東京都公表・2026年9月1日時点）。区内には99件が指定を受けており、そのすべてを掲載しています。定員18人以下の地域密着型通所介護は区が指定するため、この一覧には含まれていません。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
@@ -82,6 +82,29 @@
       "_tags": [
         "上馬エリア",
         "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "鎌田ケアセンター",
+      "telephone": "03-3709-9611",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "鎌田３－３５－１"
+      },
+      "parentOrganization": "社会福祉法人古木会",
+      "identifier": "1371201284",
+      "_town": "鎌田",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-03-01",
+      "_years": 26.559890485968516,
+      "_tags": [
+        "鎌田エリア",
         "20年以上",
         "デイサービス"
       ]
@@ -149,6 +172,37 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "高齢者在宅サービスセンター　デイ・ホーム玉川田園調布",
+      "telephone": "03-3722-7881",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "玉川田園調布２－１６－１２"
+      },
+      "parentOrganization": "社会福祉法人老後を幸せにする会",
+      "identifier": "1371201417",
+      "_town": "玉川田園調布",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-03-01",
+      "_years": 26.559890485968516,
+      "url": "http://rougo-happy.or.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 35,
+      "_tags": [
+        "玉川田園調布エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "高齢者在宅サービスセンター　デイ・ホーム中町",
       "telephone": "03-5758-3611",
       "address": {
@@ -172,6 +226,37 @@
       ],
       "_tags": [
         "中町エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "高齢者在宅サービスセンター　デイ・ホーム等々力",
+      "telephone": "03-3705-1055",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "等々力５－１９－１１"
+      },
+      "parentOrganization": "社会福祉法人老後を幸せにする会",
+      "identifier": "1371201433",
+      "_town": "等々力",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-03-01",
+      "_years": 26.559890485968516,
+      "url": "http://rougo-happy.or.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 28,
+      "_tags": [
+        "等々力エリア",
         "土曜日も営業",
         "20年以上",
         "デイサービス"
@@ -241,6 +326,37 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "高齢者在宅サービスセンターデイ・ホーム太子堂",
+      "telephone": "03-5486-8254",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "太子堂５－２４－２０"
+      },
+      "parentOrganization": "社会福祉法人世田谷区社会福祉事業団",
+      "identifier": "1371201516",
+      "_town": "太子堂",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-03-01",
+      "_years": 26.559890485968516,
+      "url": "https://www.setagayaj.or.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 30,
+      "_tags": [
+        "太子堂エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "デイ・ホーム千歳",
       "telephone": "03-3307-2282",
       "address": {
@@ -265,6 +381,37 @@
       "_capacity": 42,
       "_tags": [
         "給田エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "高齢者在宅サービスセンター　デイ・ホーム上北沢",
+      "telephone": "03-3306-5166",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "上北沢１－２８－１７"
+      },
+      "parentOrganization": "社会福祉法人世田谷区社会福祉事業団",
+      "identifier": "1371201599",
+      "_town": "上北沢",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "url": "http://www.setagayaj.or.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 30,
+      "_tags": [
+        "上北沢エリア",
         "土曜日も営業",
         "20年以上",
         "デイサービス"
@@ -334,6 +481,37 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ニチイケアセンター烏山",
+      "telephone": "03-5315-2653",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "北烏山６－１－１６"
+      },
+      "parentOrganization": "株式会社ニチイ学館",
+      "identifier": "1371202126",
+      "_town": "北烏山",
+      "_kind": "営利法人",
+      "_designated": "2001-01-01",
+      "_years": 25.72210814510609,
+      "url": "http://www.nichiigakkan.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "北烏山エリア",
+        "日曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "デイ・ホーム池尻",
       "telephone": "03-5433-2511",
       "address": {
@@ -357,6 +535,36 @@
       ],
       "_tags": [
         "池尻エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイ･ホーム中丸",
+      "telephone": "03-5486-7400",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "野沢三丁目２５番１０"
+      },
+      "parentOrganization": "社会福祉法人日本フレンズ奉仕団",
+      "identifier": "1371202233",
+      "_town": "野沢",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2001-04-01",
+      "_years": 25.475701574264203,
+      "url": "http://www.n-friennds.or.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "野沢エリア",
         "土曜日も営業",
         "20年以上",
         "デイサービス"
@@ -425,6 +633,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "デイサービスセンターきたざわ苑",
+      "telephone": "03-5453-5620",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "北沢５－２４－１８"
+      },
+      "parentOrganization": "社会福祉法人正吉福祉会",
+      "identifier": "1371202316",
+      "_town": "北沢",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2001-04-01",
+      "_years": 25.475701574264203,
+      "url": "http://www.shoukichi.org",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "北沢エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "株式会社ケアサービス　デイサービスセンター東玉川",
       "telephone": "03-5754-3860",
       "address": {
@@ -449,6 +687,37 @@
       "_capacity": 5,
       "_tags": [
         "東玉川エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社ケアサービス　デイサービスセンター経堂",
+      "telephone": "03-5451-5020",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "経堂１－５－１２"
+      },
+      "parentOrganization": "株式会社ケアサービス",
+      "identifier": "1371202860",
+      "_town": "経堂",
+      "_kind": "営利法人",
+      "_designated": "2002-04-01",
+      "_years": 24.476386036960985,
+      "url": "http://www.care.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 26,
+      "_tags": [
+        "経堂エリア",
         "土曜日も営業",
         "20年以上",
         "デイサービス"
@@ -515,6 +784,37 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "正和クラブ深沢",
+      "telephone": "03-5758-6512",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "深沢４－９－３"
+      },
+      "parentOrganization": "正和ライフサービス株式会社",
+      "identifier": "1371203397",
+      "_town": "深沢",
+      "_kind": "営利法人",
+      "_designated": "2003-04-01",
+      "_years": 23.477070499657767,
+      "url": "http://www.seiwaclub.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 252,
+      "_tags": [
+        "深沢エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "東京敬寿園",
       "telephone": "03-5313-0008",
       "address": {
@@ -539,6 +839,37 @@
       "_capacity": 29,
       "_tags": [
         "上祖師谷エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービス　ヨウコー千歳船橋",
+      "telephone": "03-5426-5339",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "経堂４－１９－５"
+      },
+      "parentOrganization": "株式会社ヨウコーアソシエイツ",
+      "identifier": "1371204502",
+      "_town": "経堂",
+      "_kind": "営利法人",
+      "_designated": "2004-05-01",
+      "_years": 22.392881587953458,
+      "url": "https://magokoro.club-t.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 100,
+      "_tags": [
+        "経堂エリア",
         "土曜日も営業",
         "20年以上",
         "デイサービス"
@@ -607,6 +938,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "デイサービス　ヨウコー梅丘",
+      "telephone": "03-3322-7556",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "松原６－５－１１"
+      },
+      "parentOrganization": "株式会社ヨウコーアソシエイツ",
+      "identifier": "1371204973",
+      "_town": "松原",
+      "_kind": "営利法人",
+      "_designated": "2004-12-01",
+      "_years": 21.806981519507186,
+      "url": "https://kaigo-youko.com/ds_umegaoka.html",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "松原エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "デイホーム奥沢",
       "telephone": "03-5726-3011",
       "address": {
@@ -631,6 +992,37 @@
       "_capacity": 39,
       "_tags": [
         "奥沢エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "老人デイサービスセンターフォーライフ桃郷",
+      "telephone": "03-3300-1600",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "北烏山７－８－１１"
+      },
+      "parentOrganization": "社会福祉法人寿心会",
+      "identifier": "1371205665",
+      "_town": "北烏山",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2005-10-01",
+      "_years": 20.974674880219027,
+      "url": "https://www.jyusinkai.or.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 28,
+      "_tags": [
+        "北烏山エリア",
         "土曜日も営業",
         "20年以上",
         "デイサービス"
@@ -698,6 +1090,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ライフタイム上馬デイサービスセンター",
+      "telephone": "03-5787-2237",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "上馬５－３９－１１"
+      },
+      "parentOrganization": "株式会社ライフタイムメディ",
+      "identifier": "1371207562",
+      "_town": "上馬",
+      "_kind": "営利法人",
+      "_designated": "2008-08-01",
+      "_years": 18.140999315537304,
+      "url": "http://www.gc-lifetime.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 35,
+      "_tags": [
+        "上馬エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "デイサービスセンター　ひばり三軒茶屋",
       "telephone": "03-5779-7895",
       "address": {
@@ -758,6 +1180,35 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "介護予防センター・タケダ",
+      "telephone": "03-3708-8795",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "玉川３－３９－７パールハイツ玉川４０４"
+      },
+      "parentOrganization": "有限会社メディカル・ワーク・システム",
+      "identifier": "1371208123",
+      "_town": "玉川",
+      "_kind": "営利法人",
+      "_designated": "2009-09-01",
+      "_years": 17.05681040383299,
+      "url": "http://www.takeda-os.jp/",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_capacity": 28,
+      "_tags": [
+        "玉川エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ニチイケアセンター用賀",
       "telephone": "03-5491-5170",
       "address": {
@@ -783,6 +1234,37 @@
       "_tags": [
         "用賀エリア",
         "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ゆめふる　駒場店",
+      "telephone": "05017538191",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "池尻４－２９－２２"
+      },
+      "parentOrganization": "株式会社やさしい手",
+      "identifier": "1371208289",
+      "_town": "池尻",
+      "_kind": "営利法人",
+      "_designated": "2010-02-01",
+      "_years": 16.637919233401778,
+      "url": "http://www.yasashiite.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_capacity": 33,
+      "_tags": [
+        "池尻エリア",
+        "日曜日も営業",
         "デイサービス"
       ]
     },
@@ -847,6 +1329,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "せたがや給田乃杜（デイサービス）",
+      "telephone": "03-5384-7277",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "給田５－３－５"
+      },
+      "parentOrganization": "社会福祉法人七日会",
+      "identifier": "1371208628",
+      "_town": "給田",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2010-06-01",
+      "_years": 16.309377138945926,
+      "url": "http://www.nanokakai.jp",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_capacity": 20,
+      "_tags": [
+        "給田エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "奉優デイサービス池尻",
       "telephone": "03-5779-9131",
       "address": {
@@ -871,6 +1381,36 @@
       "_capacity": 30,
       "_tags": [
         "池尻エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "正和クラブ駒沢公園",
+      "telephone": "03-5752-0651",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "深沢２－１９－５"
+      },
+      "parentOrganization": "正和ライフサービス株式会社",
+      "identifier": "1371209980",
+      "_town": "深沢",
+      "_kind": "営利法人",
+      "_designated": "2011-11-01",
+      "_years": 14.8911704312115,
+      "url": "http://seiwaclub.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 20,
+      "_tags": [
+        "深沢エリア",
         "土曜日も営業",
         "デイサービス"
       ]
@@ -937,6 +1477,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "アースサポート千歳烏山",
+      "telephone": "03-3309-9500",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "北烏山８－１－５"
+      },
+      "parentOrganization": "アースサポート株式会社",
+      "identifier": "1371210806",
+      "_town": "北烏山",
+      "_kind": "営利法人",
+      "_designated": "2012-11-01",
+      "_years": 13.88911704312115,
+      "url": "https://www.earthsupport.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 30,
+      "_tags": [
+        "北烏山エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "デイ・ホーム　モア　世田谷瀬田",
       "telephone": "03-6411-7474",
       "address": {
@@ -962,6 +1532,36 @@
       "_tags": [
         "瀬田エリア",
         "日曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ふきのとうデイホーム",
+      "telephone": "03-5426-3625",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "上用賀６－１９－２１"
+      },
+      "parentOrganization": "社会福祉法人ふきのとうの会",
+      "identifier": "1371210889",
+      "_town": "上用賀",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2012-12-01",
+      "_years": 13.806981519507186,
+      "url": "http://fukinotoh.mow.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 25,
+      "_tags": [
+        "上用賀エリア",
+        "土曜日も営業",
         "デイサービス"
       ]
     },
@@ -1025,6 +1625,32 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "夢のみずうみ村新樹苑デイサービスセンター",
+      "telephone": "03-6379-9822",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "八幡山３－１８－２７"
+      },
+      "parentOrganization": "社会福祉法人夢のみずうみ村",
+      "identifier": "1371211440",
+      "_town": "八幡山",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2013-07-01",
+      "_years": 13.22655715263518,
+      "url": "http://www.yumenomizuumi.com/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "八幡山エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "レッツ倶楽部自由が丘",
       "telephone": "03-5754-5780",
       "address": {
@@ -1049,6 +1675,36 @@
       "_capacity": 28,
       "_tags": [
         "奥沢エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ゆめふる千歳烏山店",
+      "telephone": "05017538192",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "南烏山６－１０－９コーシャハイム千歳烏山９号棟１階"
+      },
+      "parentOrganization": "株式会社やさしい手",
+      "identifier": "1371212018",
+      "_town": "南烏山",
+      "_kind": "営利法人",
+      "_designated": "2014-04-01",
+      "_years": 12.476386036960985,
+      "url": "http://www.yasashiite.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 34,
+      "_tags": [
+        "南烏山エリア",
         "土曜日も営業",
         "デイサービス"
       ]
@@ -1115,6 +1771,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "デイ・ライフ　モア　世田谷用賀",
+      "telephone": "03-6805-7134",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "玉川台２－１７－２"
+      },
+      "parentOrganization": "株式会社ｍｏｒｅ",
+      "identifier": "1371213289",
+      "_town": "玉川台",
+      "_kind": "営利法人",
+      "_designated": "2015-12-01",
+      "_years": 10.809034907597535,
+      "url": "https://more-g.co.jp/service/dl-yoga/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 24,
+      "_tags": [
+        "玉川台エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "通所介護　ビバ・フローラ南館",
       "telephone": "03-3706-7039",
       "address": {
@@ -1138,6 +1824,35 @@
       ],
       "_tags": [
         "世田谷エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "水車の家　デイサービス",
+      "telephone": "03-6413-6560",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "桜新町２－２６－２"
+      },
+      "parentOrganization": "株式会社水車の家",
+      "identifier": "1371213545",
+      "_town": "桜新町",
+      "_kind": "営利法人",
+      "_designated": "2016-05-01",
+      "_years": 10.392881587953456,
+      "url": "http://www.suishanoie.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "桜新町エリア",
         "土曜日も営業",
         "デイサービス"
       ]
@@ -1203,6 +1918,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "デイサービスセンターなごやか三軒茶屋",
+      "telephone": "03-5779-6623",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "太子堂５－１７－１６クリーン太子堂"
+      },
+      "parentOrganization": "なごやかケアリンク株式会社",
+      "identifier": "1371213628",
+      "_town": "太子堂",
+      "_kind": "営利法人",
+      "_designated": "2016-06-01",
+      "_years": 10.30800821355236,
+      "url": "https://www.nagoyaka-link.co.jp/club/sangenjyaya/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 31,
+      "_tags": [
+        "太子堂エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "デイサービスセンター　いろどり",
       "telephone": "03-6453-2691",
       "address": {
@@ -1227,6 +1972,36 @@
       "_capacity": 25,
       "_tags": [
         "上馬エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ゆめふる東松原店",
+      "telephone": "05017538189",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "松原５－２６－１５松原パレス１０７"
+      },
+      "parentOrganization": "株式会社やさしい手",
+      "identifier": "1371213768",
+      "_town": "松原",
+      "_kind": "営利法人",
+      "_designated": "2016-09-01",
+      "_years": 10.056125941136209,
+      "url": "http://www.yasashiite.com/subdomains/section/365/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 28,
+      "_tags": [
+        "松原エリア",
         "土曜日も営業",
         "デイサービス"
       ]
@@ -1291,6 +2066,35 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "レッツ倶楽部三軒茶屋",
+      "telephone": "03-5432-7280",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "三軒茶屋２－３６－１"
+      },
+      "parentOrganization": "株式会社寶亭",
+      "identifier": "1371213925",
+      "_town": "三軒茶屋",
+      "_kind": "営利法人",
+      "_designated": "2016-10-01",
+      "_years": 9.973990417522245,
+      "url": "http://www.lets-club.jp/shop/sangenjaya/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "三軒茶屋エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ＪＡ東京中央リハビリデイサービス　リハプライド烏山",
       "telephone": "03-5315-7552",
       "address": {
@@ -1347,6 +2151,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "リハビリデイサービス梅のさと",
+      "telephone": "03-6279-5671",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "粕谷３－３１－１１ソルティハイム１Ｆ"
+      },
+      "parentOrganization": "株式会社ウメックスメディカルグループ",
+      "identifier": "1371214493",
+      "_town": "粕谷",
+      "_kind": "営利法人",
+      "_designated": "2017-06-01",
+      "_years": 9.308692676249144,
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "粕谷エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "リハビリテーション　ＡＹＵＭＵ　経堂店",
       "telephone": "03-6413-9820",
       "address": {
@@ -1370,6 +2202,35 @@
       "_capacity": 19,
       "_tags": [
         "経堂エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ワイズ・パーク芦花公園",
+      "telephone": "03-6304-6491",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "粕谷１－７－２６"
+      },
+      "parentOrganization": "株式会社ワイズ・スポーツ＆エンターテイメント",
+      "identifier": "1371214774",
+      "_town": "粕谷",
+      "_kind": "営利法人",
+      "_designated": "2017-11-01",
+      "_years": 8.889801505817934,
+      "url": "http://ys-park.net",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_capacity": 21,
+      "_tags": [
+        "粕谷エリア",
+        "土曜日も営業",
         "デイサービス"
       ]
     },
@@ -1433,6 +2294,37 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ＡＩリハ　尾山台",
+      "telephone": "03-6809-7086",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "等々力２－１９－２宝光ビル１Ｆ"
+      },
+      "parentOrganization": "ＡＩケアサービス株式会社",
+      "identifier": "1371215375",
+      "_town": "等々力",
+      "_kind": "営利法人",
+      "_designated": "2018-11-01",
+      "_years": 7.8904859685147155,
+      "url": "http://aicare.info/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_capacity": 20,
+      "_tags": [
+        "等々力エリア",
+        "日曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "グリーンデイ上町",
       "telephone": "03-6432-6256",
       "address": {
@@ -1456,6 +2348,36 @@
       ],
       "_tags": [
         "世田谷エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "Ｌｅｔ’ｓリハ！世田谷桜上水",
+      "telephone": "03-6304-6028",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "桜上水１－７－１０クールセリシエ　１階Ｂ号室"
+      },
+      "parentOrganization": "株式会社桜十字",
+      "identifier": "1371215706",
+      "_town": "桜上水",
+      "_kind": "営利法人",
+      "_designated": "2019-09-01",
+      "_years": 7.058179329226557,
+      "url": "https://www.lets-reha.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 22,
+      "_tags": [
+        "桜上水エリア",
         "土曜日も営業",
         "デイサービス"
       ]
@@ -1520,6 +2442,32 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ワイズ・パーク芦花公園駅前",
+      "telephone": "03-6909-1412",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "南烏山３－４－１０ＶＩＣ芦花公園　１階Ａ号室"
+      },
+      "parentOrganization": "株式会社ワイズ・スポーツ＆エンターテイメント",
+      "identifier": "1371216399",
+      "_town": "南烏山",
+      "_kind": "営利法人",
+      "_designated": "2021-08-01",
+      "_years": 5.1416837782340865,
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "南烏山エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "デイサービスセンター悠ゆう",
       "telephone": "03-5315-8220",
       "address": {
@@ -1542,6 +2490,33 @@
       ],
       "_tags": [
         "南烏山エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ウェルビスタ　ケア　スタジオ　上北沢",
+      "telephone": "03-5316-2060",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "上北沢４－１６－１２小宮ビル"
+      },
+      "parentOrganization": "株式会社ＳＯＹＯＫＡＺＥ",
+      "identifier": "1371216548",
+      "_town": "上北沢",
+      "_kind": "営利法人",
+      "_designated": "2022-01-01",
+      "_years": 4.722792607802875,
+      "url": "https://wellbista-cs.com/",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "上北沢エリア",
         "デイサービス"
       ]
     },
@@ -1604,6 +2579,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "Ｔｅｎｏｎからすやま",
+      "telephone": "03-5314-1560",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "南烏山６－３８－１０ピュアエリート１階"
+      },
+      "parentOrganization": "株式会社まいくるケア",
+      "identifier": "1371216951",
+      "_town": "南烏山",
+      "_kind": "営利法人",
+      "_designated": "2023-06-01",
+      "_years": 3.3100616016427105,
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南烏山エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "高齢者在宅サービスセンター　デイ・ホーム世田谷",
       "telephone": "03-3439-3358",
       "address": {
@@ -1628,6 +2631,35 @@
       "_tags": [
         "世田谷エリア",
         "土曜日も営業",
+        "開設3年以内",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＮＡＮＡＩＲＯ　ＣＯＯＫＩＮＧ　ＳＴＵＤＩＯ　成城",
+      "telephone": "03-5490-7166",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "千歳台３－６－１"
+      },
+      "parentOrganization": "株式会社ＳＯＹＯＫＡＺＥ",
+      "identifier": "1371217272",
+      "_town": "千歳台",
+      "_kind": "営利法人",
+      "_designated": "2024-07-01",
+      "_years": 2.2258726899383983,
+      "url": "https://www.sykz.co.jp/nanairo/facility-guide/",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_capacity": 20,
+      "_tags": [
+        "千歳台エリア",
         "開設3年以内",
         "デイサービス"
       ]
@@ -1694,6 +2726,33 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "レインフォース千歳",
+      "telephone": "03-5349-1320",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "千歳台３－９－６サングレース千歳台１０２"
+      },
+      "parentOrganization": "レインフォース株式会社",
+      "identifier": "1371217348",
+      "_town": "千歳台",
+      "_kind": "営利法人",
+      "_designated": "2024-08-01",
+      "_years": 2.1409993155373033,
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "千歳台エリア",
+        "開設3年以内",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ウェルビスタ　ケアスタジオ　桜新町",
       "telephone": "03-5420-5070",
       "address": {
@@ -1716,6 +2775,35 @@
       ],
       "_tags": [
         "桜新町エリア",
+        "開設3年以内",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "リハプレイスＧｅｎ．",
+      "telephone": "03-6425-9176",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "東玉川１－６－１１"
+      },
+      "parentOrganization": "株式会社Ｇｅｎ．",
+      "identifier": "1371217504",
+      "_town": "東玉川",
+      "_kind": "営利法人",
+      "_designated": "2024-12-01",
+      "_years": 1.8069815195071868,
+      "url": "https://hp.kaipoke.biz/4gt/",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "東玉川エリア",
+        "土曜日も営業",
         "開設3年以内",
         "デイサービス"
       ]
@@ -1777,6 +2865,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "Ｇｒａｓｉｓ等々力",
+      "telephone": "03-6432-2712",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "野毛１－９－２７サンフラッツ多摩川１Ｆ"
+      },
+      "parentOrganization": "ジャパンボディテクノロジー株式会社",
+      "identifier": "1371217751",
+      "_town": "野毛",
+      "_kind": "営利法人",
+      "_designated": "2025-08-01",
+      "_years": 1.1416837782340863,
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 20,
+      "_tags": [
+        "野毛エリア",
+        "土曜日も営業",
+        "開設3年以内",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "デイ・リンク　モア　世田谷経堂",
       "telephone": "03-6379-2646",
       "address": {
@@ -1797,6 +2915,29 @@
         "開設3年以内",
         "デイサービス"
       ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "Ｇｅｎ．　ＮＥＸＴ",
+      "telephone": "03-6425-7037",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "世田谷区",
+        "streetAddress": "東玉川２－５－６ユナイトビル東玉川１Ｆ"
+      },
+      "parentOrganization": "株式会社Ｇｅｎ．",
+      "identifier": "1371218114",
+      "_town": "東玉川",
+      "_kind": "営利法人",
+      "_designated": "2026-09-01",
+      "_years": 0.057494866529774126,
+      "_tags": [
+        "東玉川エリア",
+        "開設3年以内",
+        "デイサービス"
+      ]
     }
   ],
   "faq": [
@@ -1806,11 +2947,11 @@
     },
     {
       "q": "世田谷区にデイサービスは何件ありますか？",
-      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で世田谷区内に99件の通所介護事業所が指定を受けています。本ページではそのうち60件を連絡先つきで掲載しています。なお定員18人以下の地域密着型通所介護は区が指定するため、この件数には含まれていません。"
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で世田谷区内に99件の通所介護事業所が指定を受けています。本ページでは99件すべてを連絡先つきで掲載しています。なお定員18人以下の地域密着型通所介護は区が指定するため、この件数には含まれていません。"
     },
     {
       "q": "世田谷区の掲載事業所は、どこを見て絞り込めばいいですか？",
-      "a": "まず送迎範囲に自宅が入るかで絞り、次に入浴設備（個浴か機械浴か）で絞るのが順番です。世田谷区の掲載60件では営利法人が40件と最も多く、指定から20年以上の事業所も21件あります。長く続いているところは空きが出にくい一方、新しいところは空きがあります。"
+      "a": "まず送迎範囲に自宅が入るかで絞り、次に入浴設備（個浴か機械浴か）で絞るのが順番です。世田谷区の掲載99件では営利法人が68件と最も多く、指定から20年以上の事業所も34件あります。長く続いているところは空きが出にくい一方、新しいところは空きがあります。"
     }
   ],
   "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/setagaya/\">世田谷区の訪問介護<small>自宅に来てもらう・区内237件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/setagaya/\">世田谷区の訪問看護<small>医療ケアが必要な方へ・区内119件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/setagaya/\">世田谷区のショートステイ<small>数日あずける・区内31件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/setagaya/\">世田谷区の福祉用具<small>借りる・買う・区内35件</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/setagaya/\">世田谷区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/setagaya/\">世田谷区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",

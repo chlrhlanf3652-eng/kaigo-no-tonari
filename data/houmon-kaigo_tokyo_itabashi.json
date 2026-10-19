@@ -12,19 +12,19 @@
     "city_name": "板橋区"
   },
   "seo": {
-    "title": "板橋区の訪問介護一覧（60件）｜日曜対応46件・料金の目安",
-    "description": "板橋区の訪問介護（ホームヘルプ）事業所60件を、電話番号・地図つきで一覧にしました。日曜も対応する事業所は46件、土曜まで含めると50件です。区内158件の中から選ぶための料金の目安、頼めること・頼めないこと、おとしより相談センターへの相談から利用開始までの流れを解説します。",
+    "title": "板橋区の訪問介護一覧（全158件）｜日曜対応119件・料金の目安",
+    "description": "板橋区の訪問介護（ホームヘルプ）事業所158件すべてを、電話番号・地図つきで一覧にしました。日曜も対応する事業所は119件、土曜まで含めると129件です。区内158件の中から選ぶための料金の目安、頼めること・頼めないこと、おとしより相談センターへの相談から利用開始までの流れを解説します。",
     "canonical": "https://kaigonotonari.com/houmon-kaigo/tokyo/itabashi/",
     "og_title": "板橋区の訪問介護事業所一覧｜料金の目安と選び方",
-    "og_description": "板橋区の訪問介護事業所60件を掲載。料金の目安、できること・できないこと、利用開始までの流れを解説します。",
+    "og_description": "板橋区の訪問介護事業所全158件を掲載。料金の目安、できること・できないこと、利用開始までの流れを解説します。",
     "og_image": "https://kaigonotonari.com/assets/ogp-houmon-kaigo.jpg"
   },
   "h1": "板橋区の訪問介護事業所一覧｜料金の目安と選び方",
   "published": "2026-09-21",
   "modified": "2026-09-21",
-  "count_label": "掲載：60事業所",
-  "lead": "東京都板橋区で訪問介護（ホームヘルプ）を探している方へ。区内にある事業所158件から60件を電話番号・地図つきで掲載し、あわせて自己負担額の目安、ヘルパーに頼めること・頼めないこと、相談から利用開始までの流れをまとめました。はじめて介護保険を使う方は、まず「おとしより相談センター」への相談から始めるのが近道です。",
-  "listing_note": "板橋区内の訪問介護事業所から60件を掲載しています（2026年9月時点）。区内の全件から事業所番号の順に等間隔で抽出しています。区内には158件の事業所があり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
+  "count_label": "掲載：158事業所",
+  "lead": "東京都板橋区で訪問介護（ホームヘルプ）を探している方へ。区内にある事業所158件すべてを電話番号・地図つきで掲載し、あわせて自己負担額の目安、ヘルパーに頼めること・頼めないこと、相談から利用開始までの流れをまとめました。はじめて介護保険を使う方は、まず「おとしより相談センター」への相談から始めるのが近道です。",
+  "listing_note": "板橋区内で指定を受けている訪問介護事業所158件をすべて掲載しています（2026年9月時点）。最新の指定状況は厚生労働省「介護サービス情報公表システム」でも確認できます。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
@@ -50,6 +50,34 @@
       ],
       "_tags": [
         "稲荷台エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヨウコーフォレスト西台　訪問介護",
+      "telephone": "03-5922-6410",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "高島平１－３－１１"
+      },
+      "parentOrganization": "株式会社ヨウコーフォレスト竹の塚",
+      "identifier": "1370601500",
+      "_town": "高島平",
+      "_kind": "営利法人",
+      "url": "http://rehabili-youko.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "高島平エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -84,6 +112,61 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ハート・ケア　みその",
+      "telephone": "03-3939-1102",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "成増５－６－３みどりの杜１Ｆ"
+      },
+      "parentOrganization": "医療法人社団翠会",
+      "identifier": "1371900208",
+      "_town": "成増",
+      "_kind": "医療法人",
+      "url": "http://www.mhcg.or.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "成増エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "泰心訪問介護センター",
+      "telephone": "03-5943-6770",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "大山東町５３－７坪井ビル２階"
+      },
+      "parentOrganization": "有限会社泰心",
+      "identifier": "1371900307",
+      "_town": "大山東町",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "大山東町エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ベスト・ケアー　ヘルパーステーション",
       "telephone": "03-3554-8121",
       "address": {
@@ -106,6 +189,33 @@
       ],
       "_tags": [
         "小茂根エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "有限会社　徳丸ｹｱｽﾀｯﾌｻｰﾋﾞｽ",
+      "telephone": "03-5922-6239",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "徳丸５－３３－１８"
+      },
+      "parentOrganization": "有限会社　徳丸ケアスタッフサービス",
+      "identifier": "1371900554",
+      "_town": "徳丸",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "徳丸エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -140,6 +250,62 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "アイケアセンター小豆沢",
+      "telephone": "03-3965-5453",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "小豆沢２－１９－７"
+      },
+      "parentOrganization": "株式会社ケアフレンド",
+      "identifier": "1371900604",
+      "_town": "小豆沢",
+      "_kind": "営利法人",
+      "url": "https://aicarecenter.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "小豆沢エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ハートケアサービス有限会社",
+      "telephone": "03-5917-6777",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "常盤台１－１９－３シャトール常盤台１Ｆ"
+      },
+      "parentOrganization": "ハートケアサービス有限会社",
+      "identifier": "1371900612",
+      "_town": "常盤台",
+      "_kind": "営利法人",
+      "url": "http://hcs-kaigo.net/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "常盤台エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ワーカーズコープ　パル板橋",
       "telephone": "03-3579-5531",
       "address": {
@@ -162,6 +328,54 @@
       "_tags": [
         "栄町エリア",
         "土曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "舟渡ヘルパーステーション",
+      "telephone": "03-3969-3120",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "舟渡３－４－８"
+      },
+      "parentOrganization": "社会福祉法人不二健育会",
+      "identifier": "1371900869",
+      "_town": "舟渡",
+      "_kind": "社会福祉法人（社協以外）",
+      "url": "http://www.fujikenikukai.or.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "舟渡エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ニチイケアセンター中板橋",
+      "telephone": "03-5917-5806",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "大山西町５８－１０中島ビル１階"
+      },
+      "parentOrganization": "株式会社ニチイ学館",
+      "identifier": "1371901008",
+      "_town": "大山西町",
+      "_kind": "営利法人",
+      "_tags": [
+        "大山西町エリア",
         "訪問介護"
       ]
     },
@@ -194,6 +408,33 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "大谷口ケアサービス",
+      "telephone": "03-5964-5355",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "大谷口北町６３－１１"
+      },
+      "parentOrganization": "有限会社エスアイシー",
+      "identifier": "1371901289",
+      "_town": "大谷口北町",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "大谷口北町エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "こもねヘルパーステーション",
       "telephone": "03-3959-7498",
       "address": {
@@ -216,6 +457,61 @@
       ],
       "_tags": [
         "小茂根エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ハルエ企画　ホームヘルパーサービス",
+      "telephone": "03-5968-3687",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "三園１－４７－７　木村整形外科２Ｆ"
+      },
+      "parentOrganization": "有限会社ハルエ企画",
+      "identifier": "1371901321",
+      "_town": "三園",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "三園エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "音羽台高齢者在宅サービスセンター",
+      "telephone": "03-3939-9461",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "成増４－３３－１"
+      },
+      "parentOrganization": "社会福祉法人翠生会",
+      "identifier": "1371901560",
+      "_town": "成増",
+      "_kind": "社会福祉法人（社協以外）",
+      "url": "http://suisei-kai.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "成増エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -250,6 +546,62 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "有限会社　めぐりあい",
+      "telephone": "03-5917-6309",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "仲町３７－７"
+      },
+      "parentOrganization": "有限会社　めぐりあい",
+      "identifier": "1371902386",
+      "_town": "仲町",
+      "_kind": "営利法人",
+      "url": "http://www.geocities.jp/himikomeguriai/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "仲町エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "スローステップ　ケアセンター",
+      "telephone": "03-5916-0980",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "蓮根２－１７－７"
+      },
+      "parentOrganization": "株式会社スローステップ",
+      "identifier": "1371902428",
+      "_town": "蓮根",
+      "_kind": "営利法人",
+      "url": "http://slowstep2000.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "蓮根エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "アイ・ヘルパーサービス",
       "telephone": "03-5943-5281",
       "address": {
@@ -271,6 +623,34 @@
       ],
       "_tags": [
         "板橋エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアタウン成増",
+      "telephone": "03-3939-6471",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "成増４－１４－１８"
+      },
+      "parentOrganization": "社会福祉法人みその福祉会",
+      "identifier": "1371902535",
+      "_town": "成増",
+      "_kind": "社会福祉法人（社協以外）",
+      "url": "http://www.misono-fukushikai.or.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "成増エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -305,6 +685,61 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "特定非営利活動法人　生活サポートひまわり",
+      "telephone": "03-6905-6246",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "中板橋２０－１モダ・ビエント中板橋プラシア１０５"
+      },
+      "parentOrganization": "特定非営利活動法人生活サポートひまわり",
+      "identifier": "1371902873",
+      "_town": "中板橋",
+      "_kind": "非営利法人（NPO）",
+      "url": "http://care-net.biz/13/npohimawari/index.php",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "中板橋エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "有限会社　希ケアーサービス",
+      "telephone": "03-3956-2159",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "幸町２０－１４"
+      },
+      "parentOrganization": "有限会社希ケアーサービス",
+      "identifier": "1371902964",
+      "_town": "幸町",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "幸町エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ヘルパーステーション　上板橋",
       "telephone": "03-5945-9511",
       "address": {
@@ -333,6 +768,32 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "めだかの学校　蓮根",
+      "telephone": "03-5914-1336",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "蓮根２－１０－１５"
+      },
+      "parentOrganization": "有限会社はな",
+      "identifier": "1371903277",
+      "_town": "蓮根",
+      "_kind": "営利法人",
+      "url": "http://hana-inc.com/medaka/",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "蓮根エリア",
+        "土曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ぐうにいずケアセンター",
       "telephone": "03-3550-5336",
       "address": {
@@ -355,6 +816,60 @@
       ],
       "_tags": [
         "西台エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "有限会社　赤塚ケアサービス",
+      "telephone": "03-5904-5391",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "赤塚６－６－３３"
+      },
+      "parentOrganization": "有限会社　赤塚ケアサービス",
+      "identifier": "1371903418",
+      "_town": "赤塚",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "赤塚エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "社会福祉法人三共会　たつの子ライフ・サービス",
+      "telephone": "03-3960-9058",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "常盤台３－２４－１"
+      },
+      "parentOrganization": "社会福祉法人三共会",
+      "identifier": "1371903459",
+      "_town": "常盤台",
+      "_kind": "社会福祉法人（社協以外）",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "常盤台エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -389,6 +904,61 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ヘルパーステーション　マイライフ徳丸",
+      "telephone": "03-5921-1065",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "徳丸３－３２－２８"
+      },
+      "parentOrganization": "社会福祉法人北野会",
+      "identifier": "1371903517",
+      "_town": "徳丸",
+      "_kind": "社会福祉法人（社協以外）",
+      "url": "http://kitanokai.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "徳丸エリア",
+        "土曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "サンベストビレッジ浮間公園",
+      "telephone": "03-5918-8616",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "舟渡１－１９－９　２階"
+      },
+      "parentOrganization": "株式会社サンベスト東信",
+      "identifier": "1371903632",
+      "_town": "舟渡",
+      "_kind": "営利法人",
+      "url": "http://www.yamate-gp.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "舟渡エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "有限会社　さくら苑",
       "telephone": "03-5921-2133",
       "address": {
@@ -410,6 +980,33 @@
       ],
       "_tags": [
         "上板橋エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社オレンジ・ケアサービス",
+      "telephone": "03-5921-2268",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "徳丸７－２４－１５徳丸ビル２階"
+      },
+      "parentOrganization": "株式会社オレンジ・ケアサービス",
+      "identifier": "1371903830",
+      "_town": "徳丸",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "徳丸エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -444,6 +1041,58 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ケア２１　板橋",
+      "telephone": "03-6756-8621",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "大山西町９－３"
+      },
+      "parentOrganization": "株式会社ケア２１",
+      "identifier": "1371903889",
+      "_town": "大山西町",
+      "_kind": "営利法人",
+      "url": "http://www.care21.co.jp",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "大山西町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "テルウェル東日本　板橋介護センタ",
+      "telephone": "03-5964-8415",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "南常盤台２－１４－１　マサルコーポ１０２号"
+      },
+      "parentOrganization": "テルウェル東日本株式会社",
+      "identifier": "1371903897",
+      "_town": "南常盤台",
+      "_kind": "営利法人",
+      "url": "http://www.telwel-east.co.jp/kaigo/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南常盤台エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "レインボーブリッジ　板橋ケアセンター",
       "telephone": "03-5943-2951",
       "address": {
@@ -472,6 +1121,53 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "さくらヘルプケア",
+      "telephone": "03-3935-2201",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "高島平１－４８－５　コーポ高島平１０２"
+      },
+      "parentOrganization": "有限会社　たちばな会",
+      "identifier": "1371904069",
+      "_town": "高島平",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "高島平エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ミクロケア　いたばし",
+      "telephone": "03-5944-7880",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "板橋２－１－１３コスモ板橋１０５"
+      },
+      "parentOrganization": "有限会社　パートナー",
+      "identifier": "1371904275",
+      "_town": "板橋",
+      "_kind": "営利法人",
+      "_tags": [
+        "板橋エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "灯の会",
       "telephone": "03-3931-5678",
       "address": {
@@ -490,6 +1186,34 @@
       ],
       "_tags": [
         "高島平エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "医療法人財団　朔望会　訪問介護エーデルワイス四葉",
+      "telephone": "03-3930-1737",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "四葉２－２１－１７　１階"
+      },
+      "parentOrganization": "医療法人財団朔望会",
+      "identifier": "1371904440",
+      "_town": "四葉",
+      "_kind": "医療法人",
+      "url": "http://www.tshnet.or.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "四葉エリア",
+        "日曜日も対応",
         "訪問介護"
       ]
     },
@@ -522,6 +1246,54 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "高島平介護センター",
+      "telephone": "03-5921-0637",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "高島平２－３３－１－２０５"
+      },
+      "parentOrganization": "有限会社介護福祉サービス",
+      "identifier": "1371904788",
+      "_town": "高島平",
+      "_kind": "営利法人",
+      "url": "https://www.itabasi-kaigo.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "高島平エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あい介護サービス板橋",
+      "telephone": "03-5917-8005",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "東新町２－５７－７ＴＦビル１Ｆ"
+      },
+      "parentOrganization": "有限会社ハートフル中野",
+      "identifier": "1371904853",
+      "_town": "東新町",
+      "_kind": "営利法人",
+      "_tags": [
+        "東新町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ブリッジ",
       "telephone": "03-3959-3853",
       "address": {
@@ -549,6 +1321,61 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "さわやかケア成増・訪問介護",
+      "telephone": "03-5968-8231",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "成増１－１５－３　プラゼール成増"
+      },
+      "parentOrganization": "ウエルシアパートナーズ株式会社",
+      "identifier": "1371905348",
+      "_town": "成増",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "成増エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "有限会社　フレッシュケアサービス",
+      "telephone": "03-5914-2002",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "志村１－１３－１２ライオンズマンション志村坂上２０１"
+      },
+      "parentOrganization": "有限会社フレッシュケアサービス",
+      "identifier": "1371905470",
+      "_town": "志村",
+      "_kind": "営利法人",
+      "url": "http://freshcare.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "志村エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ＡＬＳＯＫケアステーション板橋",
       "telephone": "03-5399-7223",
       "address": {
@@ -570,6 +1397,33 @@
       ],
       "_tags": [
         "上板橋エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケーアイサポート介護事業部",
+      "telephone": "03-6905-1054",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "大和町１０－１１　パラストネオ板橋２０２"
+      },
+      "parentOrganization": "ケーアイサポート株式会社",
+      "identifier": "1371905785",
+      "_town": "大和町",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "大和町エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -604,6 +1458,61 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "セントケア板橋北",
+      "telephone": "03-5921-1041",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "高島平１－７２－８時田ビル３階"
+      },
+      "parentOrganization": "セントケア東京株式会社",
+      "identifier": "1371905835",
+      "_town": "高島平",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "高島平エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ときわ介護サービス",
+      "telephone": "03-6751-5504",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "常盤台３－１９－１３中尾ビル１０２"
+      },
+      "parentOrganization": "株式会社ぐりーんりーふ",
+      "identifier": "1371905934",
+      "_town": "常盤台",
+      "_kind": "営利法人",
+      "url": "https://greenleaf.tokyo/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "常盤台エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問介護・みよこ",
       "telephone": "03-3967-4255",
       "address": {
@@ -625,6 +1534,33 @@
       ],
       "_tags": [
         "蓮根エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社もみの木",
+      "telephone": "03-3960-4487",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "常盤台１－３３－４"
+      },
+      "parentOrganization": "株式会社もみの木",
+      "identifier": "1371906155",
+      "_town": "常盤台",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "常盤台エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -659,6 +1595,59 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "にこにこケアーシップ",
+      "telephone": "03-5248-6065",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "氷川町４７－９ライオンズマンション大山氷川町１０１"
+      },
+      "parentOrganization": "株式会社ケアーシップ",
+      "identifier": "1371906296",
+      "_town": "氷川町",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "氷川町エリア",
+        "土曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ニチイケアセンター板橋本町",
+      "telephone": "03-6905-5586",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "大和町２６－８コーポ小林１階"
+      },
+      "parentOrganization": "株式会社ニチイ学館",
+      "identifier": "1371906528",
+      "_town": "大和町",
+      "_kind": "営利法人",
+      "url": "http://www.nichiigakkan.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "大和町エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ニチイケアセンター赤塚",
       "telephone": "03-5968-5130",
       "address": {
@@ -680,6 +1669,60 @@
       ],
       "_tags": [
         "赤塚エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アジアの風",
+      "telephone": "03-6671-4563",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "四葉１－２７－２９第二藤コーポ２０１"
+      },
+      "parentOrganization": "合同会社アジアの風",
+      "identifier": "1371906775",
+      "_town": "四葉",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "四葉エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "そらヘルパーステーション",
+      "telephone": "03-6784-1000",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "坂下３－３１－１"
+      },
+      "parentOrganization": "有限会社インテリア片山",
+      "identifier": "1371906957",
+      "_town": "坂下",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "坂下エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -713,6 +1756,31 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ヘルパーステーション　スワ",
+      "telephone": "03-3962-5994",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "双葉町４１－１２"
+      },
+      "parentOrganization": "株式会社諏訪",
+      "identifier": "1371907336",
+      "_town": "双葉町",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "双葉町エリア",
+        "土曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ヘルパーステーション　花のまる",
       "telephone": "03-5970-4337",
       "address": {
@@ -735,6 +1803,62 @@
       ],
       "_tags": [
         "志村エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアサポート・モア　板橋",
+      "telephone": "03-5948-7891",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "蓮根３－４－７リブリ・ＭＯＲＥ　２ｎｄ　１Ｆ"
+      },
+      "parentOrganization": "株式会社ＭＯＲＥ",
+      "identifier": "1371907583",
+      "_town": "蓮根",
+      "_kind": "営利法人",
+      "url": "https://www.more-kaigo.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "蓮根エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ジョイライフ高島平ケアサービス事業部",
+      "telephone": "03-5967-3832",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "新河岸３－１２－９"
+      },
+      "parentOrganization": "株式会社ジョイライフ",
+      "identifier": "1371907690",
+      "_town": "新河岸",
+      "_kind": "営利法人",
+      "url": "https://joylife-jp.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "新河岸エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -769,6 +1893,57 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "株式会社　福ぶくろ　介護のたくみ",
+      "telephone": "03-6906-4182",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "上板橋２－３０－２"
+      },
+      "parentOrganization": "株式会社福ぶくろ",
+      "identifier": "1371907880",
+      "_town": "上板橋",
+      "_kind": "営利法人",
+      "url": "http://www.fukubukuro-takumi.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "上板橋エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "プラスワン・ケア",
+      "telephone": "03-6909-9865",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "高島平４－２５－２"
+      },
+      "parentOrganization": "株式会社生活向上委員会",
+      "identifier": "1371907955",
+      "_town": "高島平",
+      "_kind": "営利法人",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "高島平エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ホームヘルプサービス　ソラストときわ台",
       "telephone": "03-5914-6273",
       "address": {
@@ -791,6 +1966,34 @@
       ],
       "_tags": [
         "前野町エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問介護　すみれケア",
+      "telephone": "03-5914-6052",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "小豆沢４－５－４"
+      },
+      "parentOrganization": "株式会社チャレンジ",
+      "identifier": "1371908169",
+      "_town": "小豆沢",
+      "_kind": "営利法人",
+      "url": "http://www.challenge-home.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "小豆沢エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -824,6 +2027,62 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ツクイ板橋",
+      "telephone": "03-5944-1140",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "氷川町４－８メゾンタカノハ３０５"
+      },
+      "parentOrganization": "株式会社ツクイ",
+      "identifier": "1371908193",
+      "_town": "氷川町",
+      "_kind": "営利法人",
+      "url": "http://www.tsukui.net",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "氷川町エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "けあビジョン浮間舟渡",
+      "telephone": "03-5914-3090",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "舟渡２－１９－７　１Ｆ"
+      },
+      "parentOrganization": "株式会社ビジュアルビジョン",
+      "identifier": "1371908227",
+      "_town": "舟渡",
+      "_kind": "営利法人",
+      "url": "http://www.carevision.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "舟渡エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "きらきらケアサービス",
       "telephone": "03-6281-0604",
       "address": {
@@ -846,6 +2105,62 @@
       ],
       "_tags": [
         "赤塚エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "めいと板橋訪問介護事業所",
+      "telephone": "03-3977-3700",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "三園１－２５－８"
+      },
+      "parentOrganization": "株式会社めいとケア",
+      "identifier": "1371908417",
+      "_town": "三園",
+      "_kind": "営利法人",
+      "url": "http://www.mate-care.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "三園エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケア２１　本蓮沼",
+      "telephone": "03-5944-4121",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "清水町７７－４プラザ板橋１階"
+      },
+      "parentOrganization": "株式会社ケア２１",
+      "identifier": "1371908441",
+      "_town": "清水町",
+      "_kind": "営利法人",
+      "url": "http://www.care21.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "清水町エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -880,6 +2195,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "アップルケア東京サービスセンター",
+      "telephone": "03-6858-6511",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "上板橋２－１３－３－１０７"
+      },
+      "parentOrganization": "株式会社シノケンウェルネス",
+      "identifier": "1371908714",
+      "_town": "上板橋",
+      "_kind": "営利法人",
+      "url": "https://www.applecare-kaigo.com/visit/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "上板橋エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ケアセンスヘルパーステーション",
       "telephone": "03-6454-9681",
       "address": {
@@ -895,6 +2238,61 @@
       "_kind": "営利法人",
       "_tags": [
         "蓮根エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問介護事業所むかいはら",
+      "telephone": "03-5917-0751",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "向原３－７－７"
+      },
+      "parentOrganization": "社会福祉法人こうほうえん",
+      "identifier": "1371908862",
+      "_town": "向原",
+      "_kind": "社会福祉法人（社協以外）",
+      "url": "http://www.kohoen.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "向原エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "介護サービス　ぶどうの木",
+      "telephone": "03-6326-8146",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "大山町３８－８メゾン大野１０１"
+      },
+      "parentOrganization": "株式会社ぶどうの木",
+      "identifier": "1371909084",
+      "_town": "大山町",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "大山町エリア",
+        "日曜日も対応",
         "訪問介護"
       ]
     },
@@ -928,6 +2326,32 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ひかりヘルプケア",
+      "telephone": "03-5918-9020",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "小豆沢２－５－１－４１１号"
+      },
+      "parentOrganization": "株式会社ひかりヘルプケア",
+      "identifier": "1371909274",
+      "_town": "小豆沢",
+      "_kind": "営利法人",
+      "url": "https://hikari-helpcare.com",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "小豆沢エリア",
+        "土曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "クローバーのさと　カウピリ板橋　訪問介護ステーション",
       "telephone": "03-3955-9682",
       "address": {
@@ -956,6 +2380,62 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "つながりホームヘルプ",
+      "telephone": "03-5926-4006",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "氷川町２５－１７星野ビル１階"
+      },
+      "parentOrganization": "株式会社ダイヤＰＬＵＳ",
+      "identifier": "1371909555",
+      "_town": "氷川町",
+      "_kind": "営利法人",
+      "url": "http://tunagarihelp.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "氷川町エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "やさしい手上板橋訪問介護事業所",
+      "telephone": "05017521338",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "上板橋１－１２－２"
+      },
+      "parentOrganization": "株式会社やさしい手",
+      "identifier": "1371909571",
+      "_town": "上板橋",
+      "_kind": "営利法人",
+      "url": "http://www.yasashiite.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "上板橋エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "バタフライ板橋",
       "telephone": "03-6905-7691",
       "address": {
@@ -971,6 +2451,54 @@
       "_kind": "営利法人",
       "_tags": [
         "板橋エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "さくら・介護ステーション上板橋",
+      "telephone": "03-6281-0841",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "若木２－９－１０"
+      },
+      "parentOrganization": "株式会社エムアイ",
+      "identifier": "1371909886",
+      "_town": "若木",
+      "_kind": "営利法人",
+      "_tags": [
+        "若木エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアリッツ高島平",
+      "telephone": "03-6909-2773",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "高島平７－４７－６三高ビル１０１"
+      },
+      "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
+      "identifier": "1371909936",
+      "_town": "高島平",
+      "_kind": "営利法人",
+      "url": "https://www.careritz.co.jp/station/branch/takashimadaira/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "高島平エリア",
+        "日曜日も対応",
         "訪問介護"
       ]
     },
@@ -1003,6 +2531,33 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "介護サービス　よりどころ",
+      "telephone": "03-5964-5230",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "南町１５－７サカエ荘１０２号"
+      },
+      "parentOrganization": "アイリン株式会社",
+      "identifier": "1371909993",
+      "_town": "南町",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南町エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "東京海上日動みずたま介護ＳＴ板橋",
       "telephone": "03-5943-1055",
       "address": {
@@ -1017,6 +2572,62 @@
       "_town": "板橋",
       "_kind": "営利法人",
       "url": "http://www.mizutama-kaigo.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "板橋エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "東京海上日動みずたま介護ＳＴときわ台",
+      "telephone": "03-5917-8870",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "南常盤台１－３７－２第二渡部ビル２階"
+      },
+      "parentOrganization": "東京海上日動ベターライフサービス株式会社",
+      "identifier": "1371910298",
+      "_town": "南常盤台",
+      "_kind": "営利法人",
+      "url": "http://www.mizutama-kaigo.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南常盤台エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "トータルケアサービス板橋事業所",
+      "telephone": "03-6905-7333",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "板橋２－６２－５林ビル２０２"
+      },
+      "parentOrganization": "株式会社ティーシーエス",
+      "identifier": "1371910413",
+      "_town": "板橋",
+      "_kind": "営利法人",
+      "url": "http://www.total-care-servise.co.jp",
       "_days": [
         "平日",
         "土曜日",
@@ -1054,6 +2665,53 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ケアサポートわくわく",
+      "telephone": "03-6909-7058",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "徳丸１－２０－２０シュウカーネルⅡ２０７号"
+      },
+      "parentOrganization": "一般社団法人俊羽会",
+      "identifier": "1371910660",
+      "_town": "徳丸",
+      "_kind": "社団・財団",
+      "_tags": [
+        "徳丸エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問介護　一笑苑",
+      "telephone": "03-6338-0892",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "清水町６１－９"
+      },
+      "parentOrganization": "株式会社香楽園",
+      "identifier": "1371910710",
+      "_town": "清水町",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "清水町エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ケアリッツ小豆沢",
       "telephone": "03-6454-5931",
       "address": {
@@ -1076,6 +2734,33 @@
       ],
       "_tags": [
         "小豆沢エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "介護事業所　樹林",
+      "telephone": "03-5926-9600",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "仲町４１－６レックス中板橋１０１号"
+      },
+      "parentOrganization": "株式会社未輝",
+      "identifier": "1371910793",
+      "_town": "仲町",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "仲町エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -1109,6 +2794,57 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ホームビジットケア　こころね",
+      "telephone": "03-5918-9893",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "坂下２－２２－２"
+      },
+      "parentOrganization": "有限会社イマイ",
+      "identifier": "1371910868",
+      "_town": "坂下",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "坂下エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "さんあい",
+      "telephone": "03-5914-2300",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "小豆沢１－１２－６－８０１プラッセ小豆沢"
+      },
+      "parentOrganization": "合同会社さんあい",
+      "identifier": "1371910892",
+      "_town": "小豆沢",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "小豆沢エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問介護ステーションなごやか板橋",
       "telephone": "03-5995-6630",
       "address": {
@@ -1137,6 +2873,27 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ＳＯＭＰＯケア　徳丸　訪問介護",
+      "telephone": "03-5922-6247",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "徳丸２－１７－９"
+      },
+      "parentOrganization": "ＳＯＭＰＯケア株式会社",
+      "identifier": "1371910991",
+      "_town": "徳丸",
+      "_kind": "営利法人",
+      "url": "https://www.sompocare.com",
+      "_tags": [
+        "徳丸エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "金太郎ケアサービス",
       "telephone": "03-6909-6088",
       "address": {
@@ -1152,6 +2909,61 @@
       "_kind": "営利法人",
       "_tags": [
         "栄町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "医心館　訪問介護ステーション　成増",
+      "telephone": "03-6904-0205",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "成増３－１９－１９"
+      },
+      "parentOrganization": "株式会社アンビス",
+      "identifier": "1371911148",
+      "_town": "成増",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "成増エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ハピネスケア大山",
+      "telephone": "03-6905-8524",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "大山町９－４－３Ｆ"
+      },
+      "parentOrganization": "株式会社ハピネスケア",
+      "identifier": "1371911304",
+      "_town": "大山町",
+      "_kind": "営利法人",
+      "url": "http://www.happinesscare.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "大山町エリア",
+        "日曜日も対応",
         "訪問介護"
       ]
     },
@@ -1178,6 +2990,61 @@
       ],
       "_tags": [
         "小豆沢エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "高島平ヘルパーステーションえがお",
+      "telephone": "03-5921-2550",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "高島平８－１－１"
+      },
+      "parentOrganization": "医療法人財団健康文化会",
+      "identifier": "1371911486",
+      "_town": "高島平",
+      "_kind": "医療法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "高島平エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＳＯＭＰＯケア　若木　訪問介護",
+      "telephone": "03-5922-3397",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "若木３－３－１"
+      },
+      "parentOrganization": "ＳＯＭＰＯケア株式会社",
+      "identifier": "1371911569",
+      "_town": "若木",
+      "_kind": "営利法人",
+      "url": "https://www.sompocare.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "若木エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -1212,6 +3079,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ケアリッツときわ台",
+      "telephone": "03-5926-3261",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "南常盤台１－２０－４ミナミ常盤台マンション２０１"
+      },
+      "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
+      "identifier": "1371911619",
+      "_town": "南常盤台",
+      "_kind": "営利法人",
+      "url": "https://www.careritz.co.jp/station/branch/tokiwadai/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南常盤台エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "マルシモホームヘルプサービス板橋",
       "telephone": "03-5926-7799",
       "address": {
@@ -1240,6 +3135,54 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ホームケア土屋　関東",
+      "telephone": "05031842632",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "小豆沢３－６－７小豆沢ローズハイム１０３号室"
+      },
+      "parentOrganization": "株式会社土屋",
+      "identifier": "1371911742",
+      "_town": "小豆沢",
+      "_kind": "営利法人",
+      "url": "https://homecare-tsuchiya.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "小豆沢エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "介護侍",
+      "telephone": "03-5918-9332",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "小豆沢２－３２－４　３階"
+      },
+      "parentOrganization": "ＲＡＩＳＥ株式会社",
+      "identifier": "1371911791",
+      "_town": "小豆沢",
+      "_kind": "営利法人",
+      "_tags": [
+        "小豆沢エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問介護まめの木",
       "telephone": "03-6909-2171",
       "address": {
@@ -1261,6 +3204,61 @@
       "_tags": [
         "赤塚エリア",
         "土曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアリッツ成増",
+      "telephone": "03-6915-6121",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "成増１－１－９シャルムドミール成増１階"
+      },
+      "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
+      "identifier": "1371911825",
+      "_town": "成増",
+      "_kind": "営利法人",
+      "url": "https://www.careritz.co.jp/station/branch/narimasu/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "成増エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あいケア",
+      "telephone": "03-5917-0513",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "大山金井町５１－３"
+      },
+      "parentOrganization": "株式会社泉谷",
+      "identifier": "1371911841",
+      "_town": "大山金井町",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "大山金井町エリア",
+        "日曜日も対応",
         "訪問介護"
       ]
     },
@@ -1294,6 +3292,29 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ヘルパーステーション　りーふ",
+      "telephone": "03-6781-7270",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "赤塚８－３－３Ａｖｅｎｉｒ　１Ｆ"
+      },
+      "parentOrganization": "株式会社ＢＬＯＯＭ",
+      "identifier": "1371911957",
+      "_town": "赤塚",
+      "_kind": "営利法人",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "赤塚エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問介護はっぴいす",
       "telephone": "03-6906-4154",
       "address": {
@@ -1316,6 +3337,54 @@
       "_tags": [
         "徳丸エリア",
         "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアリッツ上板橋",
+      "telephone": "03-6281-0920",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "上板橋３－２０－７リバティフラット１階"
+      },
+      "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
+      "identifier": "1371912013",
+      "_town": "上板橋",
+      "_kind": "営利法人",
+      "url": "https://www.careritz.co.jp/station/branch/kamiitabashi/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "上板橋エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ベルケア訪問介護",
+      "telephone": "03-6454-9910",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "蓮根３－２６－２４ハイツ西台Ｂ棟２０３"
+      },
+      "parentOrganization": "有限会社光永オート",
+      "identifier": "1371912039",
+      "_town": "蓮根",
+      "_kind": "営利法人",
+      "_tags": [
+        "蓮根エリア",
         "訪問介護"
       ]
     },
@@ -1349,6 +3418,54 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ケアステーション　ぴすたちお大山",
+      "telephone": "03-5944-1516",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "大山東町７－５ヴェネフィット大山１０１号"
+      },
+      "parentOrganization": "合同会社ＲＥＡＴＨＩＣＳＪＡＰＡＮ",
+      "identifier": "1371912070",
+      "_town": "大山東町",
+      "_kind": "営利法人",
+      "_tags": [
+        "大山東町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "楓ケアサポート",
+      "telephone": "03-6381-4861",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "成増１－２８－１５林家ビル５０２"
+      },
+      "parentOrganization": "株式会社楓",
+      "identifier": "1371912088",
+      "_town": "成増",
+      "_kind": "営利法人",
+      "url": "https://www.kaedecare.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "成増エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ケアワーク板橋",
       "telephone": "03-5930-9419",
       "address": {
@@ -1371,6 +3488,26 @@
       "_tags": [
         "仲町エリア",
         "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問介護ファミリー・ホスピス西台",
+      "telephone": "03-6906-4861",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "西台１－４０－８"
+      },
+      "parentOrganization": "ファミリー・ホスピス株式会社",
+      "identifier": "1371912153",
+      "_town": "西台",
+      "_kind": "営利法人",
+      "_tags": [
+        "西台エリア",
         "訪問介護"
       ]
     },
@@ -1404,6 +3541,53 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "セカンドライフ",
+      "telephone": "03-4503-6556",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "蓮根２－９－２５－２０２号室"
+      },
+      "parentOrganization": "株式会社ジョイセカンド",
+      "identifier": "1371912187",
+      "_town": "蓮根",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "蓮根エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ひまわり訪問介護事業所",
+      "telephone": "03-6909-6510",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "中板橋２８－１２"
+      },
+      "parentOrganization": "株式会社宍戸工務店",
+      "identifier": "1371912195",
+      "_town": "中板橋",
+      "_kind": "営利法人",
+      "_tags": [
+        "中板橋エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ホームケアソレイユ上板橋",
       "telephone": "03-6906-6739",
       "address": {
@@ -1426,6 +3610,34 @@
       ],
       "_tags": [
         "上板橋エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "介護サービス円樹いたばし四葉",
+      "telephone": "03-5967-1404",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "四葉１－１８－１"
+      },
+      "parentOrganization": "シニアライフサポート株式会社",
+      "identifier": "1371912344",
+      "_town": "四葉",
+      "_kind": "営利法人",
+      "url": "https://www.enju-itabashiyotsuba.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "四葉エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -1460,6 +3672,56 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ホームケア　ひより",
+      "telephone": "03-6825-2642",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "幸町１－４"
+      },
+      "parentOrganization": "株式会社日和",
+      "identifier": "1371912369",
+      "_town": "幸町",
+      "_kind": "営利法人",
+      "url": "https://kaigohiyori.com/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "幸町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアステーションおひさま",
+      "telephone": "03-6909-3761",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "南町４６－１４ミヤビヒルズ大山４０６号室"
+      },
+      "parentOrganization": "株式会社ＨＩＮＡＴＡ",
+      "identifier": "1371912385",
+      "_town": "南町",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南町エリア",
+        "土曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ユースタイルケア　板橋センター",
       "telephone": "03-6912-4220",
       "address": {
@@ -1478,6 +3740,61 @@
       ],
       "_tags": [
         "板橋エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "スナグルケア株式会社",
+      "telephone": "03-6909-3669",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "小茂根２－９－２ヴィレッジ小茂根３０２"
+      },
+      "parentOrganization": "スナグルケア株式会社",
+      "identifier": "1371912427",
+      "_town": "小茂根",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "小茂根エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アサヒソーシャルワークス　ケアいたばし",
+      "telephone": "03-5944-2621",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "板橋２－４４－１０ヴァンクール板橋６０１"
+      },
+      "parentOrganization": "株式会社アサヒソーシャルワークス",
+      "identifier": "1371912450",
+      "_town": "板橋",
+      "_kind": "営利法人",
+      "url": "https://asahi-sw.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "板橋エリア",
+        "日曜日も対応",
         "訪問介護"
       ]
     },
@@ -1510,6 +3827,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ＣＬＡＳＷＥＬＬ　小竹向原　訪問介護事業所",
+      "telephone": "03-5926-7082",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "向原２－１１－１１"
+      },
+      "parentOrganization": "ＫＣ－Ｗｅｌｆａｒｅ株式会社",
+      "identifier": "1371912534",
+      "_town": "向原",
+      "_kind": "営利法人",
+      "url": "https://kc-welfare.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "向原エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "医心館　訪問介護ステーション　上板橋",
       "telephone": "03-6281-0805",
       "address": {
@@ -1525,6 +3870,61 @@
       "_kind": "営利法人",
       "_tags": [
         "上板橋エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "リクラス東京　訪問介護よつば",
+      "telephone": "03-5944-1766",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "中板橋２２－９堀越ビル１０２"
+      },
+      "parentOrganization": "株式会社ＭＥＤＩ－ＦＵＬＬ",
+      "identifier": "1371912617",
+      "_town": "中板橋",
+      "_kind": "営利法人",
+      "url": "https://yotuba-kaigo.wixsite.com/my-site",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "中板橋エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "リッシュ",
+      "telephone": "03-6904-0559",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "成増３－４－１６フジコーポ成増　１０３号室"
+      },
+      "parentOrganization": "株式会社為共",
+      "identifier": "1371912625",
+      "_town": "成増",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "成増エリア",
+        "日曜日も対応",
         "訪問介護"
       ]
     },
@@ -1546,6 +3946,56 @@
       "url": "https://bestday.co.jp/",
       "_tags": [
         "坂下エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "みなみ訪問介護センター",
+      "telephone": "03-6909-4622",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "幸町２３－７イイダハイツ２０３"
+      },
+      "parentOrganization": "医療法人社団経仁会",
+      "identifier": "1371912666",
+      "_town": "幸町",
+      "_kind": "医療法人",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "幸町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問介護リベル　板橋西台",
+      "telephone": "03-6906-8448",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "西台３－１－１４"
+      },
+      "parentOrganization": "株式会社リベルケア",
+      "identifier": "1371912682",
+      "_town": "西台",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "西台エリア",
+        "日曜日も対応",
         "訪問介護"
       ]
     },
@@ -1578,6 +4028,33 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "やすら樹訪問介護",
+      "telephone": "03-6281-0208",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "桜川３－５－１５"
+      },
+      "parentOrganization": "有限会社人智開発研究所",
+      "identifier": "1371912716",
+      "_town": "桜川",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "桜川エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "メディホス訪問介護板橋",
       "telephone": "03-6454-5382",
       "address": {
@@ -1593,6 +4070,46 @@
       "_kind": "営利法人",
       "_tags": [
         "前野町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問介護ステーション　グリーンプラス板橋",
+      "telephone": "03-6906-7178",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "徳丸７－２－４　７Ｃａｒａｔ　Ｓｔａｔｅ　３０５"
+      },
+      "parentOrganization": "介護ジャパン株式会社",
+      "identifier": "1371912849",
+      "_town": "徳丸",
+      "_kind": "営利法人",
+      "_tags": [
+        "徳丸エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問介護トントン",
+      "telephone": "03-6915-7855",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "上板橋１－２－４クリア上板Ｃ棟"
+      },
+      "parentOrganization": "株式会社アークネクスト",
+      "identifier": "1371912856",
+      "_town": "上板橋",
+      "_kind": "営利法人",
+      "_tags": [
+        "上板橋エリア",
         "訪問介護"
       ]
     },
@@ -1615,6 +4132,62 @@
         "高島平エリア",
         "訪問介護"
       ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "みちおい訪問介護事業所",
+      "telephone": "03-6909-7880",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "徳丸３－３８－３４ヒルサイドハイツＢ１Ｆ"
+      },
+      "parentOrganization": "合同会社道生舎",
+      "identifier": "1372012953",
+      "_town": "徳丸",
+      "_kind": "営利法人",
+      "url": "https://www.mitioisya.tokyo/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "徳丸エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "クリップス・パートナーズ",
+      "telephone": "05058098090",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "赤塚新町３－２０－９"
+      },
+      "parentOrganization": "ＦｕｓｈａＣｏｎｓｕｌｔｉｎｇ合同会社",
+      "identifier": "1372013951",
+      "_town": "赤塚新町",
+      "_kind": "営利法人",
+      "url": "https://clipsgroup.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "赤塚新町エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
     }
   ],
   "faq": [
@@ -1624,7 +4197,7 @@
     },
     {
       "q": "板橋区には訪問介護事業所が何件ありますか？",
-      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で板橋区内に158件の訪問介護事業所が指定を受けています。本ページではそのうち60件を連絡先つきで掲載しています。全件は厚生労働省「介護サービス情報公表システム」で確認できます。"
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で板橋区内に158件の訪問介護事業所が指定を受けています。本ページでは158件すべてを連絡先つきで掲載しています。最新の指定状況は厚生労働省「介護サービス情報公表システム」でも確認できます。"
     },
     {
       "q": "板橋区の担当窓口は、どうやって調べればいいですか？",
@@ -1632,7 +4205,7 @@
     },
     {
       "q": "板橋区の掲載事業所は、どこを見て絞り込めばいいですか？",
-      "a": "上の内訳表が目安になります。日曜にもヘルパーに来てほしい場合は46件、土曜まででよければ50件が対象です。そのうえで、ご自宅の町名を伝えて対応エリアに入っているかを確認するのが確実です。曜日はサービスを提供する日で、事務所の電話がつながる時間帯とは別です。"
+      "a": "上の内訳表が目安になります。日曜にもヘルパーに来てほしい場合は119件、土曜まででよければ129件が対象です。そのうえで、ご自宅の町名を伝えて対応エリアに入っているかを確認するのが確実です。曜日はサービスを提供する日で、事務所の電話がつながる時間帯とは別です。"
     }
   ],
   "related": "<a href=\"{{ROOT}}houmon-kango/tokyo/itabashi/\">板橋区の訪問看護<small>医療ケアが必要な方へ・区内89件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/itabashi/\">板橋区のデイサービス<small>日帰りで通う・区内70件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/itabashi/\">板橋区のショートステイ<small>数日あずける・区内24件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/itabashi/\">板橋区の福祉用具<small>借りる・買う・区内27件</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/itabashi/\">板橋区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/itabashi/\">板橋区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",

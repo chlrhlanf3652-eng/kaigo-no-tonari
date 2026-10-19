@@ -219,13 +219,13 @@ STATIC = [
      "事業所番号での突き合わせ、金額を2つ以上の資料で検算する決まり、そして空き状況や24時間対応の可否を"
      "あえて載せていない理由までまとめました。",
      "どのデータを、どう確かめて載せているか。<strong>載せていないことも含めて</strong>公開します。", None),
-    ("opendata", "オープンデータ配布", "東京23区の介護事業所データ3,999件（CSV・CC BY 4.0）｜かいごのとなり",
-     "東京都福祉局と厚生労働省の2つの公開データを事業所番号で突き合わせた、東京23区の介護サービス事業所3,999件のCSVを配布しています。"
+    ("opendata", "オープンデータ配布", "東京23区の介護事業所データ全5,489件（CSV・CC BY 4.0）｜かいごのとなり",
+     "東京都福祉局と厚生労働省の2つの公開データを事業所番号で突き合わせた、東京23区の介護サービス事業所5,489件（全件）のCSVを配布しています。"
      "利用可能曜日・定員・公式サイト・緯度経度つき。CC BY 4.0、商用利用可。列の埋まり具合と注意点も明記しています。",
      "突き合わせた結果そのものをCSVで配ります。<strong>CC BY 4.0・商用利用可</strong>です。", None),
     ("ad-policy", "広告について", "広告について｜かいごのとなり",
-     "当サイトの広告表記、掲載している広告の種類、掲載順に報酬を反映しないという原則、表現上の注意について説明しています。ステルスマーケティング規制への対応も記載しています。",
-     "当サイトはアフィリエイトプログラムと広告配信を利用しています。<strong>掲載順は報酬では決めません。</strong>", None),
+     "当サイトには現在、広告も掲載料もありません。今後広告を載せる場合の表記方法、掲載順に報酬を反映しないという原則、表現上の注意を説明しています。",
+     "現在、当サイトに広告はありません。<strong>掲載料・紹介料も受け取っていません。</strong>", None),
     ("guide", "制度ガイド", "介護制度ガイド｜かいごのとなり",
      "介護保険の手続き、費用のしくみ、介護食、高齢者の住まいについて、制度のしくみと手続きの順番をまとめたガイド一覧です。事業者を探す前に全体像をつかめます。",
      "制度のしくみ、手続きの順番、用語の意味をまとめています。事業者一覧を読む前にどうぞ。", "ogp-guide.jpg"),
@@ -257,6 +257,9 @@ STATIC = [
      "介護保険で1か月に使えるサービスの上限＝区分支給限度基準額を、要介護度別の単位数と東京23区（1級地）での金額でまとめました。"
      "限度額に入らないサービス、処遇改善加算が枠外であること、超えたときに全額自己負担になる理由まで、出典つきで解説します。",
      "上限は金額ではなく<strong>単位</strong>で決まっています。超えた分は1割負担の方でも全額自己負担です。", None),
+    ("tokyo/hikaku", "東京23区の介護サービス比較", "東京23区の介護事業所数を比較｜高齢者1万人あたり・日曜対応の割合【2026年】",
+     "東京23区の訪問介護・訪問看護・デイサービス・ショートステイ・福祉用具の事業所5,489件を区ごとに数え、65歳以上1万人あたりの数、高齢化率、認定率、日曜日も提供する事業所の割合を一覧表で比較しました。CSVも配布しています。",
+     "区ごとの事業所数を、高齢者の人数と並べて比べられる表です。<strong>CSVで自由に使えます。</strong>", None),
     ("keisan", "介護保険の自己負担計算", "介護保険の自己負担計算｜東京23区で1か月いくら？上限超えも判定",
      "要介護度と負担割合を選び、訪問介護・訪問看護・デイサービス・ショートステイの回数を入れると、東京23区での1か月の自己負担と、区分支給限度基準額を超えるかどうかがすぐわかります。単位数は令和6年度改定の告示どおり。",
      "回数を入れるだけで、1か月の自己負担の目安と上限を超えるかどうかがわかります。", None),
@@ -302,12 +305,17 @@ MODIFIED = {
     "guide/kachin-hosho": "2026-10-01",
     "guide/housing-safety-net": "2026-10-01",
     "guide/koreisha-chintai-kotowarareru": "2026-10-01",
+    "opendata": "2026-10-19",
+    "data-sources": "2026-10-19",
+    "ad-policy": "2026-10-19",
+    "privacy": "2026-10-19",
 }
 
 
 # 2026-09-21 の公開後に追加したページの公開日
 PUBLISHED = {
     "keisan": "2026-10-16",
+    "tokyo/hikaku": "2026-10-19",
     "guide/houmon-kango-chigai": "2026-09-30",
     "guide/fukushi-yogu-kariru-kau": "2026-09-30",
     "guide/short-stay-hiyou": "2026-09-30",
@@ -329,8 +337,10 @@ def build_static():
         pub = PUBLISHED.get(slug, "2026-09-21")
         mod = max(MODIFIED.get(slug, pub), pub)
         crumb = [("ホーム", root)]
-        if "/" in slug:
+        if slug.startswith("guide/"):
             crumb.append(("制度ガイド", f"{root}guide/"))
+        elif slug.startswith("tokyo/"):
+            crumb.append(("東京都", f"{root}tokyo/"))
         crumb.append((name, None))
         graph = [
             {"@type": "WebSite", "@id": f"{SITE}/#website", "url": f"{SITE}/",
@@ -341,7 +351,7 @@ def build_static():
             {"@type": "BreadcrumbList", "itemListElement": [
                 {"@type": "ListItem", "position": i + 1, "name": n,
                  # 最後以外の項目には item(URL) が必須（無いとGoogleが「無効な項目」と判定する）
-                 **({"item": f"{SITE}/" + ("guide/" if i == 1 else "")} if i < len(crumb) - 1 else {})}
+                 **({"item": f"{SITE}/" + ((slug.split("/")[0] + "/") if i == 1 else "")} if i < len(crumb) - 1 else {})}
                 for i, (n, _) in enumerate(crumb)]},
         ]
         content = "  " + partial(key, root).strip() + "\n"
@@ -387,7 +397,7 @@ def build_top():
         '  <p>区を選ぶと、その区で使える介護サービスと事業所数、最初の相談窓口の名前がわかります。'
         '現在は東京23区を掲載しています。</p>\n'
         f'  <div class="lg tight">\n      {wards}\n  </div>\n'
-        '  <div class="note"><strong>1か月いくらかかる？</strong>　要介護度と回数を入れるだけで自己負担の目安がわかる<a href="{{ROOT}}keisan/">介護保険の自己負担計算</a>もどうぞ。</div>\n  <h2 id="cat">サービスから探す</h2>\n'
+        '  <div class="note"><strong>1か月いくらかかる？</strong>　要介護度と回数を入れるだけで自己負担の目安がわかる<a href="{{ROOT}}keisan/">介護保険の自己負担計算</a>もどうぞ。区ごとの事業所数は<a href="{{ROOT}}tokyo/hikaku/">東京23区の介護サービス比較</a>で比べられます。</div>\n  <h2 id="cat">サービスから探す</h2>\n'
         '  <div class="cats">' + "".join(cards) + "</div>\n"
         + partial("hub_top", root)
     )
@@ -542,6 +552,8 @@ def build_area(pref_id):
         '高齢化率は東京都総務局統計部「住民基本台帳による東京都の世帯と人口」'
         '（令和8年1月1日現在）、事業所数は東京都福祉局「居宅サービス事業所一覧」'
         '（2026年9月1日時点）によります。</p>\n'
+        '  <div class="note"><strong>高齢者1万人あたりで比べると？</strong>　事業所数を65歳以上の人口で割った数や、日曜日も提供する事業所の割合は'
+        '<a href="hikaku/">東京23区の介護サービス比較</a>にまとめています（CSVあり）。</div>\n'
         f'  <h2 id="service">サービスから探す</h2>\n  <div class="lg">'
         + "".join(f'<a href="{root}{c["id"]}/{pref_id}/">{pref["name"]}の{c["name"]}'
                   f'<small>{c["tagline"]}</small></a>' for c in cats)
@@ -653,6 +665,33 @@ def build_ward_hub(pref_id, wid):
             f'      <tr><th><a href="{root}{cat}/{pref_id}/{wid}/">{cname}</a></th>'
             f'<td class="num">{c[wid]:,}件</td><td class="num">{KO._rank(c, wid)}位</td>'
             f'<td class="num">{per[wid]:.1f}件</td><td class="num">{KO._rank(per, wid)}位</td></tr>\n')
+    # 区の特徴を一文で（23区平均と比べて多い・少ないサービス、日曜も来てくれる訪問介護の割合）
+    feat = ""
+    if rank_rows and st:
+        import facts as FX
+        hi, lo = [], []
+        for cat, (_, cname, _) in LG.CATS.items():
+            c = LG.counts(cat)
+            per = {w: c[w] / KO.stats(w)["p65"] * 10000 for w in c if KO.stats(w)}
+            if wid not in per:
+                continue
+            avg = sum(per.values()) / len(per)
+            r = per[wid] / avg
+            if r >= 1.15:
+                hi.append(cname)
+            elif r <= 0.85:
+                lo.append(cname)
+        bits = []
+        if hi:
+            bits.append(f'65歳以上の人口あたりで23区平均より<strong>多い</strong>のは{"・".join(hi)}')
+        if lo:
+            bits.append(("" if hi else "65歳以上の人口あたりで23区平均より") + f'<strong>少ない</strong>のは{"・".join(lo)}')
+        sun = FX._sunday_share("houmon-kaigo")
+        if wid in sun:
+            order = sorted(sun, key=sun.get, reverse=True)
+            bits.append(f'日曜日も訪問する訪問介護事業所の割合は{sun[wid]*100:.0f}%（23区中{order.index(wid) + 1}位）')
+        if bits:
+            feat = f'  <p><b>{ward}の特徴</b>：' + "、".join(bits) + 'です。</p>\n'
     rank_html = ""
     if rank_rows:
         rank_html = (
@@ -662,7 +701,9 @@ def build_ward_hub(pref_id, wid):
             '  <div class="tw">\n  <table>\n'
             '    <thead><tr><th>サービス</th><th>区内の事業所</th><th>23区中</th><th>65歳以上<br>1万人あたり</th><th>23区中</th></tr></thead>\n'
             '    <tbody>\n' + "".join(rank_rows) + '    </tbody>\n  </table>\n  </div>\n'
-            '  <p class="tiny">事業所数は東京都福祉局の指定事業所一覧（2026年9月1日時点）、人口は住民基本台帳（2026年1月1日時点）から計算しています。</p>\n')
+            + feat +
+            '  <p class="tiny">事業所数は東京都福祉局の指定事業所一覧（2026年9月1日時点）、人口は住民基本台帳（2026年1月1日時点）から計算しています。'
+            '23区すべての数字は<a href="{{ROOT}}tokyo/hikaku/">東京23区の介護サービス比較</a>で見られます。</p>\n')
 
     others = "\n      ".join(
         f'<a href="{root}{pref_id}/{x}/">{w["name"]}</a>' for x, w in W.items() if x != wid)

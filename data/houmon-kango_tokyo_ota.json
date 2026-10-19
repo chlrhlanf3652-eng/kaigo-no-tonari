@@ -12,19 +12,19 @@
     "city_name": "大田区"
   },
   "seo": {
-    "title": "大田区の訪問看護一覧（60件）｜日曜対応16件・指示書の流れ",
-    "description": "大田区の訪問看護ステーション60件を、電話番号・地図つきで一覧にしました。日曜も訪問する事業所は16件、土曜まで含めると28件です。区内99件の中から選ぶための所在町域・運営法人・開設年数・定期訪問の曜日の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
+    "title": "大田区の訪問看護一覧（全99件）｜日曜対応26件・指示書の流れ",
+    "description": "大田区の訪問看護ステーション99件すべてを、電話番号・地図つきで一覧にしました。日曜も訪問する事業所は26件、土曜まで含めると46件です。区内99件の中から選ぶための所在町域・運営法人・開設年数・定期訪問の曜日の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
     "canonical": "https://kaigonotonari.com/houmon-kango/tokyo/ota/",
     "og_title": "大田区の訪問看護ステーション一覧｜選び方と始め方",
-    "og_description": "大田区の訪問看護ステーション60件を掲載。対応できる医療処置の確認と、主治医の指示書から始める流れを解説します。",
+    "og_description": "大田区の訪問看護ステーション全99件を掲載。対応できる医療処置の確認と、主治医の指示書から始める流れを解説します。",
     "og_image": "https://kaigonotonari.com/assets/ogp-houmon-kango.jpg"
   },
   "h1": "大田区の訪問看護ステーション一覧｜選び方と始め方",
   "published": "2026-09-21",
   "modified": "2026-09-21",
-  "count_label": "掲載：60事業所",
-  "lead": "東京都大田区で訪問看護を探している方へ。区内にあるステーション99件から60件を電話番号・地図つきで掲載し、そのうち<strong>日曜日も定期訪問があるのは16件</strong>であることまで示しました。主治医の指示書から利用開始までの流れもまとめています。訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
-  "listing_note": "大田区内の訪問看護ステーションから60件を掲載しています（東京都公表・2026年9月1日時点）。区内には99件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。掲載順は事業所の優劣を示すものではありません。",
+  "count_label": "掲載：99事業所",
+  "lead": "東京都大田区で訪問看護を探している方へ。区内にあるステーション99件すべてを電話番号・地図つきで掲載し、そのうち<strong>日曜日も定期訪問があるのは26件</strong>であることまで示しました。主治医の指示書から利用開始までの流れもまとめています。訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
+  "listing_note": "大田区内で指定を受けている訪問看護ステーション99件をすべて掲載しています（東京都公表・2026年9月1日時点）。区内には99件が指定を受けており、そのすべてを掲載しています。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
@@ -78,6 +78,32 @@
       "_tags": [
         "大森西エリア",
         "土曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ナースステーションまどか",
+      "telephone": "03-5713-3628",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "西蒲田６－２１－４"
+      },
+      "parentOrganization": "株式会社きゅあカンパニー",
+      "identifier": "1361190034",
+      "_town": "西蒲田",
+      "_kind": "営利法人",
+      "_designated": "2008-03-01",
+      "_years": 18.559890485968516,
+      "url": "http://www.cure-company.com/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "西蒲田エリア",
         "訪問看護"
       ]
     },
@@ -142,6 +168,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ソフィアメディ訪問看護ステーション雪谷",
+      "telephone": "03-5754-4325",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "南雪谷２－１－１１ＳＨビル３０１"
+      },
+      "parentOrganization": "ソフィアメディ株式会社",
+      "identifier": "1361190067",
+      "_town": "南雪谷",
+      "_kind": "営利法人",
+      "_designated": "2009-07-01",
+      "_years": 17.22655715263518,
+      "url": "http://www.sophiamedi.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南雪谷エリア",
+        "日曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "トータルライフケア蒲田　訪問看護ステーション",
       "telephone": "03-6424-8408",
       "address": {
@@ -167,6 +223,28 @@
       "_tags": [
         "多摩川エリア",
         "日曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　デューン大森",
+      "telephone": "03-6404-9805",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "東蒲田２－２－１２翔侑啓ビル５０１号室"
+      },
+      "parentOrganization": "株式会社Ｎ・フィールド",
+      "identifier": "1361190125",
+      "_town": "東蒲田",
+      "_kind": "営利法人",
+      "_designated": "2011-11-01",
+      "_years": 14.8911704312115,
+      "_tags": [
+        "東蒲田エリア",
         "訪問看護"
       ]
     },
@@ -224,6 +302,35 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　スマイルケア",
+      "telephone": "03-5754-5163",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "東雪谷２－７－５東興ビル１Ｆ"
+      },
+      "parentOrganization": "有限会社スマイルケア",
+      "identifier": "1361190174",
+      "_town": "東雪谷",
+      "_kind": "営利法人",
+      "_designated": "2013-11-01",
+      "_years": 12.889801505817934,
+      "url": "http://www.smile1165.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "東雪谷エリア",
+        "土曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ナスコ訪問看護リハビリステーション",
       "telephone": "03-6429-2828",
       "address": {
@@ -245,6 +352,32 @@
       ],
       "_tags": [
         "中央エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あすリハ訪問看護ステーション",
+      "telephone": "03-6715-7692",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "仲六郷１－１１－１４青木ビル２階"
+      },
+      "parentOrganization": "株式会社ハピネスライフ",
+      "identifier": "1361190224",
+      "_town": "仲六郷",
+      "_kind": "営利法人",
+      "_designated": "2014-07-01",
+      "_years": 12.227241615331964,
+      "url": "https://hl-care.com/nursing/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "仲六郷エリア",
         "訪問看護"
       ]
     },
@@ -306,6 +439,35 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "サンケア・イーライフ訪問看護ステーション",
+      "telephone": "03-6425-9997",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "田園調布１－１４－５武井ビル１階"
+      },
+      "parentOrganization": "株式会社早稲田エルダリーヘルス事業団",
+      "identifier": "1361190315",
+      "_town": "田園調布",
+      "_kind": "営利法人",
+      "_designated": "2015-06-01",
+      "_years": 11.31006160164271,
+      "url": "https://recruit.waseda-e-life.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "田園調布エリア",
+        "土曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "和光の園　訪問看護ステーション",
       "telephone": "03-6410-8525",
       "address": {
@@ -323,6 +485,36 @@
       "_years": 10.225872689938399,
       "_tags": [
         "大森西エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "Ｃｕｒｅ　Ｅｉｒ　．ｃｏｍ",
+      "telephone": "03-6410-2993",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "池上４－１６－８　２階"
+      },
+      "parentOrganization": "ノーマライズ株式会社",
+      "identifier": "1361190398",
+      "_town": "池上",
+      "_kind": "営利法人",
+      "_designated": "2016-11-01",
+      "_years": 9.88911704312115,
+      "url": "http://www.normalize.biz/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "池上エリア",
+        "日曜日も訪問",
         "訪問看護"
       ]
     },
@@ -380,6 +572,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "医療法人社団松和会訪問看護ステーションかけはし",
+      "telephone": "03-5747-1230",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "池上６－２６－１５"
+      },
+      "parentOrganization": "医療法人社団松和会",
+      "identifier": "1361190430",
+      "_town": "池上",
+      "_kind": "医療法人",
+      "_designated": "2017-06-01",
+      "_years": 9.308692676249144,
+      "url": "https://showakai.or.jp/wp-content/themes/showakai/assets/pdf/kakehashi.pdf",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "池上エリア",
+        "土曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問看護ステーション　デライト蒲田",
       "telephone": "03-6424-9510",
       "address": {
@@ -404,6 +624,36 @@
       "_tags": [
         "蒲田エリア",
         "土曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "在宅看護センター　ひまわり",
+      "telephone": "03-6424-8830",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "仲六郷２－８－１０ＴＯＩＳＨＩ　１０２"
+      },
+      "parentOrganization": "Ｋ＆Ｙ株式会社",
+      "identifier": "1361190489",
+      "_town": "仲六郷",
+      "_kind": "営利法人",
+      "_designated": "2018-04-01",
+      "_years": 8.476386036960985,
+      "url": "https://himawari-nurse.com/company/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "仲六郷エリア",
+        "日曜日も訪問",
         "訪問看護"
       ]
     },
@@ -457,6 +707,32 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "訪問看護事業所　アイケア蒲田",
+      "telephone": "03-3738-2945",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "蒲田３－２３－７松本ビル２Ｆ"
+      },
+      "parentOrganization": "株式会社アイケア京浜",
+      "identifier": "1361190521",
+      "_town": "蒲田",
+      "_kind": "営利法人",
+      "_designated": "2018-05-01",
+      "_years": 8.394250513347023,
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "蒲田エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ソフィアメディ訪問看護ステーション大鳥居",
       "telephone": "03-5735-7570",
       "address": {
@@ -482,6 +758,34 @@
       "_tags": [
         "西糀谷エリア",
         "日曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーションセントラル大森西",
+      "telephone": "03-5763-5511",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "大森西４－３－５"
+      },
+      "parentOrganization": "社会医療法人若竹会",
+      "identifier": "1361190596",
+      "_town": "大森西",
+      "_kind": "医療法人",
+      "_designated": "2019-02-01",
+      "_years": 7.638603696098563,
+      "url": "https://central.or.jp/facilities/omorinishi02.php",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "大森西エリア",
+        "土曜日も訪問",
         "訪問看護"
       ]
     },
@@ -539,6 +843,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "京浜病院訪問看護ステーションよろこび",
+      "telephone": "03-6423-2131",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "大森南１－１６－３マンション奥島３階３０４号"
+      },
+      "parentOrganization": "医療法人社団京浜会",
+      "identifier": "1361190620",
+      "_town": "大森南",
+      "_kind": "医療法人",
+      "_designated": "2019-07-01",
+      "_years": 7.227926078028747,
+      "url": "http://www.keihin-hospital.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "大森南エリア",
+        "日曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問看護ステーション　コルディアーレ大田",
       "telephone": "03-6715-7901",
       "address": {
@@ -556,6 +890,36 @@
       "_years": 6.891170431211499,
       "_tags": [
         "西蒲田エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ソフィアメディ訪問看護ステーション西馬込",
+      "telephone": "03-5746-6219",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "南馬込５－３５－９"
+      },
+      "parentOrganization": "ソフィアメディ株式会社",
+      "identifier": "1361190695",
+      "_town": "南馬込",
+      "_kind": "営利法人",
+      "_designated": "2020-03-01",
+      "_years": 6.5598904859685145,
+      "url": "http://www.sophiamedi.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南馬込エリア",
+        "日曜日も訪問",
         "訪問看護"
       ]
     },
@@ -608,6 +972,32 @@
       ],
       "_tags": [
         "南蒲田エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "みんなのしあわせ訪問看護リハビリステーション",
+      "telephone": "03-6423-6680",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "西糀谷４－２６－８エクセルエイト３０６号"
+      },
+      "parentOrganization": "株式会社聖コーポレーション",
+      "identifier": "1361190729",
+      "_town": "西糀谷",
+      "_kind": "営利法人",
+      "_designated": "2020-04-01",
+      "_years": 6.4750171115674195,
+      "url": "https://minnanosiawase.com/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "西糀谷エリア",
         "訪問看護"
       ]
     },
@@ -669,6 +1059,32 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ハーネス訪問看護ステーション",
+      "telephone": "03-6425-8634",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "南千束１－７－２１レミネハイム１０３"
+      },
+      "parentOrganization": "株式会社ハーネスケア",
+      "identifier": "1361190786",
+      "_town": "南千束",
+      "_kind": "営利法人",
+      "_designated": "2021-02-01",
+      "_years": 5.637234770704997,
+      "url": "https://harness-care.com",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "南千束エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問看護　ＡＩナース",
       "telephone": "03-5755-3700",
       "address": {
@@ -690,6 +1106,36 @@
       ],
       "_tags": [
         "下丸子エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ソフィアメディ訪問看護ステーション大森町",
+      "telephone": "03-6423-0513",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "大森西５－３－１１グランメゾンタムラ１Ｆ"
+      },
+      "parentOrganization": "ソフィアメディ株式会社",
+      "identifier": "1361190802",
+      "_town": "大森西",
+      "_kind": "営利法人",
+      "_designated": "2021-04-01",
+      "_years": 5.475701574264202,
+      "url": "http://www.sophiamedi.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "大森西エリア",
+        "日曜日も訪問",
         "訪問看護"
       ]
     },
@@ -750,6 +1196,32 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ココファンナーシング南千束",
+      "telephone": "03-3727-2140",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "南千束１－２１－９"
+      },
+      "parentOrganization": "株式会社学研ココファン",
+      "identifier": "1361190844",
+      "_town": "南千束",
+      "_kind": "営利法人",
+      "_designated": "2021-07-01",
+      "_years": 5.2265571526351815,
+      "url": "https://www.cocofump.co.jp",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "南千束エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "よぞら訪問看護ステーション",
       "telephone": "03-6424-7972",
       "address": {
@@ -774,6 +1246,33 @@
       "_tags": [
         "蒲田エリア",
         "日曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "わくわく訪問看護ステーション",
+      "telephone": "03-6820-0675",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "蒲田５－２６－８－４０３号室"
+      },
+      "parentOrganization": "株式会社ＷＡＲＡＫＵ",
+      "identifier": "1361190885",
+      "_town": "蒲田",
+      "_kind": "営利法人",
+      "_designated": "2021-10-01",
+      "_years": 4.974674880219028,
+      "url": "https://wakuwaku-station.jp/",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "蒲田エリア",
         "訪問看護"
       ]
     },
@@ -831,6 +1330,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "カラーズ訪問看護ステーション",
+      "telephone": "03-5763-5755",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "大森西３－１９－２１"
+      },
+      "parentOrganization": "株式会社カラーズ",
+      "identifier": "1361190919",
+      "_town": "大森西",
+      "_kind": "営利法人",
+      "_designated": "2022-04-01",
+      "_years": 4.476386036960986,
+      "url": "https://www.colors-g.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "大森西エリア",
+        "土曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問看護ステーション　かなで",
       "telephone": "03-6417-1418",
       "address": {
@@ -852,6 +1379,28 @@
       ],
       "_tags": [
         "中央エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　らんぷ",
+      "telephone": "03-6715-6240",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "田園調布５－４５－１０"
+      },
+      "parentOrganization": "社会福祉法人むそう",
+      "identifier": "1361190935",
+      "_town": "田園調布",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2022-04-01",
+      "_years": 4.476386036960986,
+      "_tags": [
+        "田園調布エリア",
         "訪問看護"
       ]
     },
@@ -914,6 +1463,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "メディクロコ訪問看護ステーション",
+      "telephone": "03-6715-1460",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "東糀谷３－５－１２ホームビル１階"
+      },
+      "parentOrganization": "株式会社メディクロコ",
+      "identifier": "1361190976",
+      "_town": "東糀谷",
+      "_kind": "営利法人",
+      "_designated": "2022-07-01",
+      "_years": 4.227241615331964,
+      "url": "https://www.medi-kuro.jp/",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "東糀谷エリア",
+        "土曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問看護　いと",
       "telephone": "03-6410-9511",
       "address": {
@@ -931,6 +1508,36 @@
       "_years": 4.227241615331964,
       "_tags": [
         "中央エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　いち凛",
+      "telephone": "03-6423-0953",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "大森西３－２１－１８"
+      },
+      "parentOrganization": "合同会社ＳＴＡＹＣＬＯＳＥ",
+      "identifier": "1361190992",
+      "_town": "大森西",
+      "_kind": "営利法人",
+      "_designated": "2022-12-01",
+      "_years": 3.808350444900753,
+      "url": "https://stayclose.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "大森西エリア",
+        "日曜日も訪問",
         "訪問看護"
       ]
     },
@@ -992,6 +1599,32 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　ｈａｒｕ　ｓｔｙｌｅ　大田池上",
+      "telephone": "03-6824-5457",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "池上４－３２－９ｔｒｉａｓ４３２　１０３号室"
+      },
+      "parentOrganization": "Ｋ．Ｇ．Ｓｔｙｌｅ株式会社",
+      "identifier": "1361191024",
+      "_town": "池上",
+      "_kind": "営利法人",
+      "_designated": "2023-06-01",
+      "_years": 3.3100616016427105,
+      "url": "https://ikegami.haru-style.jp",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "池上エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問看護ゆう",
       "telephone": "03-4335-9117",
       "address": {
@@ -1009,6 +1642,35 @@
       "_years": 3.3100616016427105,
       "_tags": [
         "千鳥エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　デライト雪が谷",
+      "telephone": "03-6421-9090",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "南雪谷４－５－３多田ビル１階Ｂ区画"
+      },
+      "parentOrganization": "株式会社Ｈ＆Ｈホールディングス",
+      "identifier": "1361191040",
+      "_town": "南雪谷",
+      "_kind": "営利法人",
+      "_designated": "2023-08-01",
+      "_years": 3.143052703627652,
+      "url": "http://hokan-delight.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南雪谷エリア",
+        "土曜日も訪問",
         "訪問看護"
       ]
     },
@@ -1070,6 +1732,33 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "キュエル訪問看護ステーション",
+      "telephone": "03-6715-0930",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "多摩川２－３－６アネックス２０２"
+      },
+      "parentOrganization": "有限会社キュエル",
+      "identifier": "1361191073",
+      "_town": "多摩川",
+      "_kind": "営利法人",
+      "_designated": "2023-12-01",
+      "_years": 2.809034907597536,
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "多摩川エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問看護ステーション　デューン大森北",
       "telephone": "03-6450-0661",
       "address": {
@@ -1094,6 +1783,37 @@
       "_tags": [
         "大森北エリア",
         "土曜日も訪問",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "みなみ訪問看護リハビリステーション",
+      "telephone": "03-6424-4766",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "南蒲田１－６－１０グレースいしかわ１０３"
+      },
+      "parentOrganization": "プログレス株式会社",
+      "identifier": "1361191099",
+      "_town": "南蒲田",
+      "_kind": "営利法人",
+      "_designated": "2024-04-01",
+      "_years": 2.4750171115674195,
+      "url": "https://minami-houkan.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南蒲田エリア",
+        "日曜日も訪問",
         "開設3年以内",
         "訪問看護"
       ]
@@ -1150,6 +1870,33 @@
       ],
       "_tags": [
         "多摩川エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社仁済　訪問看護ステーション蒲田",
+      "telephone": "03-6428-6215",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "蒲田３－１５－１２蒲田３丁目事務所"
+      },
+      "parentOrganization": "株式会社仁済",
+      "identifier": "1361191123",
+      "_town": "蒲田",
+      "_kind": "営利法人",
+      "_designated": "2024-09-01",
+      "_years": 2.0561259411362083,
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "蒲田エリア",
         "開設3年以内",
         "訪問看護"
       ]
@@ -1216,6 +1963,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　あんじゅ",
+      "telephone": "03-4500-8951",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "山王３－３５－７八景坂マンション３０１"
+      },
+      "parentOrganization": "合同会社あんじゅ",
+      "identifier": "1361191156",
+      "_town": "山王",
+      "_kind": "営利法人",
+      "_designated": "2025-04-01",
+      "_years": 1.4757015742642026,
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "山王エリア",
+        "日曜日も訪問",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "はぐもり訪問看護ステーション",
       "telephone": "03-6715-0304",
       "address": {
@@ -1240,6 +2017,37 @@
       ],
       "_tags": [
         "下丸子エリア",
+        "日曜日も訪問",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "東京小児訪問看護ステーション　赤ずきん",
+      "telephone": "03-6555-1331",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "山王１－５－２４レコール山王１０３"
+      },
+      "parentOrganization": "株式会社太陽",
+      "identifier": "1361191172",
+      "_town": "山王",
+      "_kind": "営利法人",
+      "_designated": "2025-07-01",
+      "_years": 1.2265571526351813,
+      "url": "https://taiyou-33.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "山王エリア",
         "日曜日も訪問",
         "開設3年以内",
         "訪問看護"
@@ -1301,6 +2109,33 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "愛の家みらい訪問看護ステーション　大森",
+      "telephone": "03-6271-6637",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "大森西３－２１－１７サンライズ野口１０３"
+      },
+      "parentOrganization": "メディカル・ケア・サービス株式会社",
+      "identifier": "1361191214",
+      "_town": "大森西",
+      "_kind": "営利法人",
+      "_designated": "2026-02-01",
+      "_years": 0.6379192334017796,
+      "url": "https://mcs-ainoie.com/mirai/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "大森西エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ツクイ蒲田訪問看護ステーション",
       "telephone": "03-6428-7125",
       "address": {
@@ -1325,6 +2160,33 @@
       "_tags": [
         "西蒲田エリア",
         "日曜日も訪問",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "メディカルライブラリ東京訪問看護事業所",
+      "telephone": "03-6271-6212",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "大森北４－２０－４桜ハイツ　２０２号室"
+      },
+      "parentOrganization": "株式会社メディカルプラットフォーム",
+      "identifier": "1361191230",
+      "_town": "大森北",
+      "_kind": "営利法人",
+      "_designated": "2026-03-01",
+      "_years": 0.5612594113620808,
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "大森北エリア",
         "開設3年以内",
         "訪問看護"
       ]
@@ -1377,6 +2239,29 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "シーサーケア訪問看護リハビリステーション",
+      "telephone": "08046090833",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "西糀谷４－２６－３メゾンＨＡＹＡＳＨＩ２０２号室"
+      },
+      "parentOrganization": "合同会社Ｕｍｉｌｅｂｅｎ",
+      "identifier": "1361191263",
+      "_town": "西糀谷",
+      "_kind": "営利法人",
+      "_designated": "2026-08-01",
+      "_years": 0.14236824093086928,
+      "_tags": [
+        "西糀谷エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ヒスイ訪問看護ステーション",
       "telephone": "03-6225-2099",
       "address": {
@@ -1394,6 +2279,29 @@
       "_years": 0.057494866529774126,
       "_tags": [
         "大森北エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ナシラ訪問看護かまた",
+      "telephone": "03-6824-0561",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "東矢口２－６－１４コンフォール１　３０１号室"
+      },
+      "parentOrganization": "フロントエンド株式会社",
+      "identifier": "1361191289",
+      "_town": "東矢口",
+      "_kind": "営利法人",
+      "_designated": "2026-09-01",
+      "_years": 0.057494866529774126,
+      "_tags": [
+        "東矢口エリア",
         "開設3年以内",
         "訪問看護"
       ]
@@ -1458,6 +2366,35 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "牧田訪問看護ステーション",
+      "telephone": "03-5748-5024",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "西蒲田４－２９－１"
+      },
+      "parentOrganization": "社会医療法人財団仁医会",
+      "identifier": "1367191497",
+      "_town": "西蒲田",
+      "_kind": "医療法人",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "url": "http://www.makita-hosp.or.jp/nearh/k-index.html",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "西蒲田エリア",
+        "土曜日も訪問",
+        "20年以上",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "けいひん訪問看護ステーション",
       "telephone": "03-3730-1333",
       "address": {
@@ -1481,6 +2418,32 @@
       "_tags": [
         "南六郷エリア",
         "土曜日も訪問",
+        "20年以上",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "社会福祉法人　平成会雪谷訪問看護ステーション",
+      "telephone": "03-3729-3685",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "南雪谷２－１－１１篠崎ビル３階"
+      },
+      "parentOrganization": "社会福祉法人平成会",
+      "identifier": "1367191885",
+      "_town": "南雪谷",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "南雪谷エリア",
         "20年以上",
         "訪問看護"
       ]
@@ -1541,6 +2504,33 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "セコム大田訪問看護ステーション",
+      "telephone": "03-5713-1762",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "蒲田１－３－２第二遠藤ビル"
+      },
+      "parentOrganization": "セコム医療システム株式会社",
+      "identifier": "1367195407",
+      "_town": "蒲田",
+      "_kind": "営利法人",
+      "_designated": "2000-06-01",
+      "_years": 26.308008213552363,
+      "url": "http://medical.secom.co.jp/homon.html",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "蒲田エリア",
+        "20年以上",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "医療法人社団　涓泉会　Ｒ訪問看護ステーション",
       "telephone": "03-5718-1365",
       "address": {
@@ -1564,6 +2554,34 @@
       "_tags": [
         "東雪谷エリア",
         "土曜日も訪問",
+        "20年以上",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "中央リハ訪問看護ステーション",
+      "telephone": "03-5747-2444",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "池上１－２８－１０堤方ビル３階"
+      },
+      "parentOrganization": "有限会社再",
+      "identifier": "1367196066",
+      "_town": "池上",
+      "_kind": "営利法人",
+      "_designated": "2001-06-01",
+      "_years": 25.308692676249144,
+      "url": "https://www.chuohreha.com",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "池上エリア",
         "20年以上",
         "訪問看護"
       ]
@@ -1628,6 +2646,33 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "セコム田園調布訪問看護ステーション",
+      "telephone": "03-5483-5211",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "田園調布１－５－５エスポワール田園調布Ⅱ１"
+      },
+      "parentOrganization": "セコム医療システム株式会社",
+      "identifier": "1367197593",
+      "_town": "田園調布",
+      "_kind": "営利法人",
+      "_designated": "2005-01-01",
+      "_years": 21.72210814510609,
+      "url": "http://medical.secom.co.jp/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "田園調布エリア",
+        "20年以上",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ソフィアメディ訪問看護ステーション山王",
       "telephone": "03-5746-2012",
       "address": {
@@ -1656,6 +2701,32 @@
         "20年以上",
         "訪問看護"
       ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "月のうさぎ訪問看護リハビリステーション",
+      "telephone": "03-6715-4332",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "大田区",
+        "streetAddress": "南久が原２－１２－２"
+      },
+      "parentOrganization": "有限会社月のうさぎ",
+      "identifier": "1367198781",
+      "_town": "南久が原",
+      "_kind": "営利法人",
+      "_designated": "2006-10-01",
+      "_years": 19.975359342915812,
+      "url": "https://www.tsukinousagi.tokyo",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "南久が原エリア",
+        "訪問看護"
+      ]
     }
   ],
   "faq": [
@@ -1665,11 +2736,11 @@
     },
     {
       "q": "大田区には訪問看護ステーションが何件ありますか？",
-      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で大田区内に99件の訪問看護ステーションが指定を受けています。本ページではそのうち60件を連絡先つきで掲載しています。"
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で大田区内に99件の訪問看護ステーションが指定を受けています。本ページでは99件すべてを連絡先つきで掲載しています。"
     },
     {
       "q": "大田区の掲載事業所は、どこを見て絞り込めばいいですか？",
-      "a": "まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。大田区の掲載60件では営利法人が51件、医療法人が7件、指定から20年以上の事業所が9件です。そのうえで、ご自宅の町名を伝えて大田区内の対応エリアに入っているかを確認してください。"
+      "a": "まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。大田区の掲載99件では営利法人が84件、医療法人が11件、指定から20年以上の事業所が14件です。そのうえで、ご自宅の町名を伝えて大田区内の対応エリアに入っているかを確認してください。"
     }
   ],
   "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/ota/\">大田区の訪問介護<small>自宅に来てもらう・区内138件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/ota/\">大田区のデイサービス<small>日帰りで通う・区内83件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/ota/\">大田区のショートステイ<small>数日あずける・区内18件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/ota/\">大田区の福祉用具<small>借りる・買う・区内32件</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/ota/\">大田区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/ota/\">大田区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
@@ -1686,7 +2757,7 @@
     "東京都福祉局「介護保険事業状況報告（月報）」令和8年6月分（保険者別・第1号被保険者数／要介護認定者数）",
     "区内事業所数：東京都公表の指定事業所一覧にもとづく実数（2026年9月1日時点）"
   ],
-  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず主治医に相談を</h4>\n        <p>訪問看護は主治医の指示書が起点です。制度の分岐はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>大田区内のステーションは約99件</li>\n          <li>起点は主治医の訪問看護指示書</li>\n          <li>30分未満の訪問で約537円（1割）</li>\n          <li>掲載60件のうち医療法人は7件</li>\n          <li>主治医が未定なら地域包括支援センター（さわやかサポート）へ</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/houmon-kango-chigai/\">訪問介護と訪問看護の違い</a></li>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}guide/houmon-kaigo-dekirukoto/\">ヘルパーに頼めること</a></li>\n          <li><a href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみ</a></li>\n        </ul>\n      </div>",
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず主治医に相談を</h4>\n        <p>訪問看護は主治医の指示書が起点です。制度の分岐はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>大田区内のステーションは約99件</li>\n          <li>起点は主治医の訪問看護指示書</li>\n          <li>30分未満の訪問で約537円（1割）</li>\n          <li>掲載99件のうち医療法人は11件</li>\n          <li>主治医が未定なら地域包括支援センター（さわやかサポート）へ</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/houmon-kango-chigai/\">訪問介護と訪問看護の違い</a></li>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}guide/houmon-kaigo-dekirukoto/\">ヘルパーに頼めること</a></li>\n          <li><a href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみ</a></li>\n        </ul>\n      </div>",
   "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
   "hero_image": "assets/ogp-houmon-kango.jpg",
   "towns": {

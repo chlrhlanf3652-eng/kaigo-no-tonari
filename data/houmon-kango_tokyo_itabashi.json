@@ -12,19 +12,19 @@
     "city_name": "板橋区"
   },
   "seo": {
-    "title": "板橋区の訪問看護一覧（60件）｜日曜対応17件・指示書の流れ",
-    "description": "板橋区の訪問看護ステーション60件を、電話番号・地図つきで一覧にしました。日曜も訪問する事業所は17件、土曜まで含めると30件です。区内89件の中から選ぶための所在町域・運営法人・開設年数・定期訪問の曜日の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
+    "title": "板橋区の訪問看護一覧（全89件）｜日曜対応27件・指示書の流れ",
+    "description": "板橋区の訪問看護ステーション89件すべてを、電話番号・地図つきで一覧にしました。日曜も訪問する事業所は27件、土曜まで含めると45件です。区内89件の中から選ぶための所在町域・運営法人・開設年数・定期訪問の曜日の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
     "canonical": "https://kaigonotonari.com/houmon-kango/tokyo/itabashi/",
     "og_title": "板橋区の訪問看護ステーション一覧｜選び方と始め方",
-    "og_description": "板橋区の訪問看護ステーション60件を掲載。対応できる医療処置の確認と、主治医の指示書から始める流れを解説します。",
+    "og_description": "板橋区の訪問看護ステーション全89件を掲載。対応できる医療処置の確認と、主治医の指示書から始める流れを解説します。",
     "og_image": "https://kaigonotonari.com/assets/ogp-houmon-kango.jpg"
   },
   "h1": "板橋区の訪問看護ステーション一覧｜選び方と始め方",
   "published": "2026-09-21",
   "modified": "2026-09-21",
-  "count_label": "掲載：60事業所",
-  "lead": "東京都板橋区で訪問看護を探している方へ。区内にあるステーション89件から60件を電話番号・地図つきで掲載し、そのうち<strong>日曜日も定期訪問があるのは17件</strong>であることまで示しました。主治医の指示書から利用開始までの流れもまとめています。訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
-  "listing_note": "板橋区内の訪問看護ステーションから60件を掲載しています（東京都公表・2026年9月1日時点）。区内には89件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。掲載順は事業所の優劣を示すものではありません。",
+  "count_label": "掲載：89事業所",
+  "lead": "東京都板橋区で訪問看護を探している方へ。区内にあるステーション89件すべてを電話番号・地図つきで掲載し、そのうち<strong>日曜日も定期訪問があるのは27件</strong>であることまで示しました。主治医の指示書から利用開始までの流れもまとめています。訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
+  "listing_note": "板橋区内で指定を受けている訪問看護ステーション89件をすべて掲載しています（東京都公表・2026年9月1日時点）。区内には89件が指定を受けており、そのすべてを掲載しています。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
@@ -109,6 +109,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "セントケア訪問看護ステーション板橋",
+      "telephone": "03-5922-1081",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "上板橋１－１６－６町田ビル１Ｆ"
+      },
+      "parentOrganization": "セントケア東京株式会社",
+      "identifier": "1361990052",
+      "_town": "上板橋",
+      "_kind": "営利法人",
+      "_designated": "2013-05-01",
+      "_years": 13.39356605065024,
+      "url": "https://www.saint-care.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "上板橋エリア",
+        "日曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "イムス訪問看護ステーション東京",
       "telephone": "03-3955-9681",
       "address": {
@@ -161,6 +191,32 @@
       "_tags": [
         "仲町エリア",
         "土曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "在宅療養支援ステーション楓の風　高島平",
+      "telephone": "03-5968-6810",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "赤塚８－１０－２プラサ清華禎１０１号室"
+      },
+      "parentOrganization": "楓の風在宅療養支援株式会社",
+      "identifier": "1361990110",
+      "_town": "赤塚",
+      "_kind": "営利法人",
+      "_designated": "2015-04-01",
+      "_years": 11.477070499657769,
+      "url": "https://kaede-homenursing.co.jp",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "赤塚エリア",
         "訪問看護"
       ]
     },
@@ -220,6 +276,28 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　うぇるびーいんぐ",
+      "telephone": "03-6909-7244",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "徳丸４－８－１１正司ビル１Ｆ"
+      },
+      "parentOrganization": "株式会社ツリーフィールド",
+      "identifier": "1361990169",
+      "_town": "徳丸",
+      "_kind": "営利法人",
+      "_designated": "2016-08-01",
+      "_years": 10.140999315537304,
+      "_tags": [
+        "徳丸エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問看護ステーション　デューン板橋",
       "telephone": "03-6909-6745",
       "address": {
@@ -259,6 +337,33 @@
       "_years": 9.141683778234086,
       "_tags": [
         "板橋エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ビコー訪問看護リハビリステーション",
+      "telephone": "03-5944-2442",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "常盤台１－１１－１３"
+      },
+      "parentOrganization": "株式会社ビコー",
+      "identifier": "1361990243",
+      "_town": "常盤台",
+      "_kind": "営利法人",
+      "_designated": "2018-01-01",
+      "_years": 8.722792607802875,
+      "url": "https://bikou-group.com/",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "常盤台エリア",
         "訪問看護"
       ]
     },
@@ -322,6 +427,28 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "クローバー訪問看護ステーション板橋",
+      "telephone": "03-6337-6155",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "東新町１－１１－４志村コーポ２０１"
+      },
+      "parentOrganization": "一般社団法人フォーリーフ",
+      "identifier": "1361990276",
+      "_town": "東新町",
+      "_kind": "社団・財団",
+      "_designated": "2018-04-01",
+      "_years": 8.476386036960985,
+      "_tags": [
+        "東新町エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ＳＯＭＰＯケア　徳丸　訪問看護",
       "telephone": "03-5922-6249",
       "address": {
@@ -373,6 +500,32 @@
       "_tags": [
         "南常盤台エリア",
         "日曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "一般社団法人すこやか在宅看護センター板橋",
+      "telephone": "05017459040",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "清水町７９－２パールコート２０４号室"
+      },
+      "parentOrganization": "一般社団法人すこやか",
+      "identifier": "1361990334",
+      "_town": "清水町",
+      "_kind": "社団・財団",
+      "_designated": "2018-10-01",
+      "_years": 7.975359342915811,
+      "url": "https://sukoyaca.biz/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "清水町エリア",
         "訪問看護"
       ]
     },
@@ -434,6 +587,28 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　デューン東武練馬",
+      "telephone": "03-6906-7211",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "徳丸３－１３－１０中村ビル１０１号室"
+      },
+      "parentOrganization": "株式会社Ｎ・フィールド",
+      "identifier": "1361990383",
+      "_town": "徳丸",
+      "_kind": "営利法人",
+      "_designated": "2019-06-01",
+      "_years": 7.310061601642711,
+      "_tags": [
+        "徳丸エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "みちおい訪問看護ステーション",
       "telephone": "03-6909-7071",
       "address": {
@@ -485,6 +660,35 @@
       ],
       "_tags": [
         "板橋エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "おうちでよかった訪問看護",
+      "telephone": "03-5926-4822",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "大原町４４－３"
+      },
+      "parentOrganization": "医療法人社団焔",
+      "identifier": "1361990417",
+      "_town": "大原町",
+      "_kind": "医療法人",
+      "_designated": "2020-04-01",
+      "_years": 6.4750171115674195,
+      "url": "https://nurse.teamblue.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "大原町エリア",
+        "土曜日も訪問",
         "訪問看護"
       ]
     },
@@ -550,6 +754,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　はな　メンタルケア　下赤塚",
+      "telephone": "03-6822-6710",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "赤塚２－９－３"
+      },
+      "parentOrganization": "株式会社はな",
+      "identifier": "1361990441",
+      "_town": "赤塚",
+      "_kind": "営利法人",
+      "_designated": "2020-09-01",
+      "_years": 6.056125941136208,
+      "url": "https://www.hana-kango.com/index.html",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "赤塚エリア",
+        "日曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ｓｔｅｌｌａ訪問看護ステーション",
       "telephone": "03-5944-2698",
       "address": {
@@ -601,6 +835,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "アップルパイ訪問看護ステーション",
+      "telephone": "03-6820-0300",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "板橋２－３８－１０パークハイツ１階"
+      },
+      "parentOrganization": "合同会社ＢＬＥＳＳ",
+      "identifier": "1361990474",
+      "_town": "板橋",
+      "_kind": "営利法人",
+      "_designated": "2021-01-01",
+      "_years": 5.722108145106092,
+      "url": "https://apple.blessllc.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "板橋エリア",
+        "日曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "アイル訪問看護ステーション",
       "telephone": "03-6281-0838",
       "address": {
@@ -644,6 +908,36 @@
       ],
       "_tags": [
         "板橋エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "健祐会訪問看護ステーション",
+      "telephone": "03-6909-4211",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "南常盤台１－７－１４南ときわ台ビルＢ１Ｆ"
+      },
+      "parentOrganization": "株式会社健祐会",
+      "identifier": "1361990516",
+      "_town": "南常盤台",
+      "_kind": "営利法人",
+      "_designated": "2021-04-01",
+      "_years": 5.475701574264202,
+      "url": "https://kenyukai.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南常盤台エリア",
+        "日曜日も訪問",
         "訪問看護"
       ]
     },
@@ -706,6 +1000,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "スターク訪問看護ステーション板橋徳丸",
+      "telephone": "03-6859-1780",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "徳丸４－２５－１３新三洋ビル２Ｆ"
+      },
+      "parentOrganization": "ＳｔａｒＱケア株式会社",
+      "identifier": "1361990557",
+      "_town": "徳丸",
+      "_kind": "営利法人",
+      "_designated": "2021-10-01",
+      "_years": 4.974674880219028,
+      "url": "https://star-q.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "徳丸エリア",
+        "日曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "サンウェルズ板橋訪問看護ステーション",
       "telephone": "03-5967-1317",
       "address": {
@@ -758,6 +1082,33 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ねこのて訪問看護ステーション成増",
+      "telephone": "03-6904-1137",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "成増１－３５－２５志幸７６ＭＡＮＤＡＲＩＮ成増１０５"
+      },
+      "parentOrganization": "株式会社ＮＥＫＯＮＯＴＥ",
+      "identifier": "1361990599",
+      "_town": "成増",
+      "_kind": "営利法人",
+      "_designated": "2022-02-01",
+      "_years": 4.63791923340178,
+      "url": "https://nekonote-kango.jp/",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "成増エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "マイナビ訪問看護ステーション常盤台",
       "telephone": "03-6906-9351",
       "address": {
@@ -804,6 +1155,28 @@
       "_years": 4.142368240930869,
       "_tags": [
         "向原エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ファミリー・ホスピス西台",
+      "telephone": "03-6906-4860",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "西台１－４０－８"
+      },
+      "parentOrganization": "ファミリー・ホスピス株式会社",
+      "identifier": "1361990631",
+      "_town": "西台",
+      "_kind": "営利法人",
+      "_designated": "2022-11-01",
+      "_years": 3.890485968514716,
+      "_tags": [
+        "西台エリア",
         "訪問看護"
       ]
     },
@@ -891,6 +1264,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "Ｌｉｎｋ板橋訪問看護",
+      "telephone": "03-6905-7119",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "中板橋４－１５藤井ビル１０５"
+      },
+      "parentOrganization": "ｃａｒｅｌｉｎｋ株式会社",
+      "identifier": "1361990706",
+      "_town": "中板橋",
+      "_kind": "営利法人",
+      "_designated": "2023-08-01",
+      "_years": 3.143052703627652,
+      "url": "https://carelinkteizyun.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "中板橋エリア",
+        "日曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "アワー訪問看護ステーション板橋",
       "telephone": "03-6906-4661",
       "address": {
@@ -940,6 +1343,37 @@
       "_tags": [
         "舟渡エリア",
         "土曜日も訪問",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "すみれ訪問看護ステーション",
+      "telephone": "03-6909-3096",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "熊野町１５－１２"
+      },
+      "parentOrganization": "合同会社ＨＳホームケア",
+      "identifier": "1361990730",
+      "_town": "熊野町",
+      "_kind": "営利法人",
+      "_designated": "2024-01-01",
+      "_years": 2.724161533196441,
+      "url": "https://hshomecare.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "熊野町エリア",
+        "日曜日も訪問",
         "開設3年以内",
         "訪問看護"
       ]
@@ -1006,6 +1440,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "訪問看護ステーション宝珠",
+      "telephone": "03-6909-7870",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "西台２－２８－２０楽寿ビル"
+      },
+      "parentOrganization": "株式会社ＳＢＳＮ",
+      "identifier": "1361990763",
+      "_town": "西台",
+      "_kind": "営利法人",
+      "_designated": "2024-04-01",
+      "_years": 2.4750171115674195,
+      "url": "https://www.sbsn-kango.com",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "西台エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問看護ステーションプラスワン",
       "telephone": "03-5918-9466",
       "address": {
@@ -1056,6 +1518,35 @@
       "_tags": [
         "徳丸エリア",
         "日曜日も訪問",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "Ｗｉｓｈ－Ｔｒｅｅ訪問看護ステーション板橋",
+      "telephone": "03-5944-1363",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "大山東町３８－８石塚ビル１階"
+      },
+      "parentOrganization": "ＷｉｓｈＴｒｅｅ株式会社",
+      "identifier": "1361990805",
+      "_town": "大山東町",
+      "_kind": "営利法人",
+      "_designated": "2024-11-01",
+      "_years": 1.88911704312115,
+      "url": "https://wish-tree.jp/#Top",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "大山東町エリア",
+        "土曜日も訪問",
         "開設3年以内",
         "訪問看護"
       ]
@@ -1120,6 +1611,37 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "Ｃ－ｙｕ訪問看護ステーション",
+      "telephone": "03-6909-3396",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "小茂根１－２９－１６バンブー　１０１号"
+      },
+      "parentOrganization": "株式会社ＳｍｉｌｅＨｕｍａｎｉｔｙ",
+      "identifier": "1361990839",
+      "_town": "小茂根",
+      "_kind": "営利法人",
+      "_designated": "2025-01-01",
+      "_years": 1.7221081451060918,
+      "url": "https://smilehumanity.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "小茂根エリア",
+        "日曜日も訪問",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ファミリーナース板橋",
       "telephone": "05036454417",
       "address": {
@@ -1169,6 +1691,29 @@
       "_tags": [
         "大山金井町エリア",
         "土曜日も訪問",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "医心館　訪問看護ステーション　上板橋",
+      "telephone": "03-6281-0805",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "上板橋２－５－８"
+      },
+      "parentOrganization": "株式会社アンビス",
+      "identifier": "1361990862",
+      "_town": "上板橋",
+      "_kind": "営利法人",
+      "_designated": "2025-03-01",
+      "_years": 1.5605749486652978,
+      "_tags": [
+        "上板橋エリア",
         "開設3年以内",
         "訪問看護"
       ]
@@ -1232,6 +1777,35 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "訪問看護ステーションようき",
+      "telephone": "07085606439",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "氷川町４１－３後藤ビル２０２"
+      },
+      "parentOrganization": "合同会社陽暉",
+      "identifier": "1361990896",
+      "_town": "氷川町",
+      "_kind": "営利法人",
+      "_designated": "2025-05-01",
+      "_years": 1.3935660506502396,
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "氷川町エリア",
+        "土曜日も訪問",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "リクラス東京　訪問看護よつば",
       "telephone": "03-5944-1764",
       "address": {
@@ -1279,6 +1853,36 @@
       ],
       "_tags": [
         "舟渡エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護かえりえ上板橋",
+      "telephone": "05017074378",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "上板橋１－１２－２"
+      },
+      "parentOrganization": "株式会社やさしい手",
+      "identifier": "1361990920",
+      "_town": "上板橋",
+      "_kind": "営利法人",
+      "_designated": "2025-08-01",
+      "_years": 1.1416837782340863,
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "上板橋エリア",
+        "日曜日も訪問",
         "開設3年以内",
         "訪問看護"
       ]
@@ -1345,6 +1949,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "いつも訪問看護ステーション",
+      "telephone": "03-6784-3658",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "成増４－６－２０Ａ－アパートメント２０１"
+      },
+      "parentOrganization": "株式会社ｈｏｎｏｋａ",
+      "identifier": "1361990953",
+      "_town": "成増",
+      "_kind": "営利法人",
+      "_designated": "2026-02-01",
+      "_years": 0.6379192334017796,
+      "url": "https://itsumo-houmon.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "成増エリア",
+        "土曜日も訪問",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問看護ステーションＨＹ板橋徳丸",
       "telephone": "03-6281-0684",
       "address": {
@@ -1385,6 +2019,29 @@
       "_years": 0.3942505133470226,
       "_tags": [
         "前野町エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアセンス訪問看護リハビリステーション",
+      "telephone": "03-6454-5385",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "蓮根３－１１－２５東久蓮根ハイツ１階Ｂ"
+      },
+      "parentOrganization": "株式会社ケアセンス",
+      "identifier": "1361990995",
+      "_town": "蓮根",
+      "_kind": "営利法人",
+      "_designated": "2026-06-01",
+      "_years": 0.30937713894592744,
+      "_tags": [
+        "蓮根エリア",
         "開設3年以内",
         "訪問看護"
       ]
@@ -1432,6 +2089,36 @@
       "_tags": [
         "西台エリア",
         "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　ホームケア光が丘",
+      "telephone": "03-5967-0068",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "成増２－１７－１０タカスビル８Ｆ"
+      },
+      "parentOrganization": "株式会社ミレニア",
+      "identifier": "1362090456",
+      "_town": "成増",
+      "_kind": "営利法人",
+      "_designated": "2015-11-01",
+      "_years": 10.8911704312115,
+      "url": "https://www.millennia-corporation.jp/houmon/index.html",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "成増エリア",
+        "日曜日も訪問",
         "訪問看護"
       ]
     },
@@ -1489,6 +2176,35 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "小豆沢病院訪問看護ステーション",
+      "telephone": "03-3968-7011",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "小豆沢１－９－１４"
+      },
+      "parentOrganization": "医療法人財団健康文化会",
+      "identifier": "1367191315",
+      "_town": "小豆沢",
+      "_kind": "医療法人",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "url": "https://kenbun.or.jp/corp/office/nursestation/",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "小豆沢エリア",
+        "土曜日も訪問",
+        "20年以上",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "上板橋訪問看護リハビリステーション",
       "telephone": "03-5398-0557",
       "address": {
@@ -1539,6 +2255,33 @@
       ],
       "_tags": [
         "三園エリア",
+        "20年以上",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーションエーデルワイス",
+      "telephone": "03-3930-1590",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "四葉２－２１－１６"
+      },
+      "parentOrganization": "医療法人財団朔望会",
+      "identifier": "1367192586",
+      "_town": "四葉",
+      "_kind": "医療法人",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "url": "http://www.tshnet.or.jp",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "四葉エリア",
         "20年以上",
         "訪問看護"
       ]
@@ -1601,6 +2344,33 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　つゆくさ",
+      "telephone": "03-5986-7334",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "幸町１０－６"
+      },
+      "parentOrganization": "有限会社つゆくさ",
+      "identifier": "1367196116",
+      "_town": "幸町",
+      "_kind": "営利法人",
+      "_designated": "2001-07-01",
+      "_years": 25.22655715263518,
+      "url": "http://www.tuyukusa.co.jp",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "幸町エリア",
+        "20年以上",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "板橋リハビリ訪問看護ステーション",
       "telephone": "03-5943-3151",
       "address": {
@@ -1654,6 +2424,33 @@
         "20年以上",
         "訪問看護"
       ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "こもね訪問看護ステーション",
+      "telephone": "03-3959-7439",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "板橋区",
+        "streetAddress": "小茂根４－１１－１１"
+      },
+      "parentOrganization": "社会福祉法人小茂根の郷",
+      "identifier": "1367197742",
+      "_town": "小茂根",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2005-04-01",
+      "_years": 21.475701574264203,
+      "url": "http://www.komonenosato.com",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "小茂根エリア",
+        "20年以上",
+        "訪問看護"
+      ]
     }
   ],
   "faq": [
@@ -1663,11 +2460,11 @@
     },
     {
       "q": "板橋区には訪問看護ステーションが何件ありますか？",
-      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で板橋区内に89件の訪問看護ステーションが指定を受けています。本ページではそのうち60件を連絡先つきで掲載しています。"
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で板橋区内に89件の訪問看護ステーションが指定を受けています。本ページでは89件すべてを連絡先つきで掲載しています。"
     },
     {
       "q": "板橋区の掲載事業所は、どこを見て絞り込めばいいですか？",
-      "a": "まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。板橋区の掲載60件では営利法人が50件、医療法人が7件、指定から20年以上の事業所が6件です。そのうえで、ご自宅の町名を伝えて板橋区内の対応エリアに入っているかを確認してください。"
+      "a": "まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。板橋区の掲載89件では営利法人が73件、医療法人が10件、指定から20年以上の事業所が10件です。そのうえで、ご自宅の町名を伝えて板橋区内の対応エリアに入っているかを確認してください。"
     }
   ],
   "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/itabashi/\">板橋区の訪問介護<small>自宅に来てもらう・区内158件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/itabashi/\">板橋区のデイサービス<small>日帰りで通う・区内70件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/itabashi/\">板橋区のショートステイ<small>数日あずける・区内24件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/itabashi/\">板橋区の福祉用具<small>借りる・買う・区内27件</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/itabashi/\">板橋区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/itabashi/\">板橋区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
@@ -1684,7 +2481,7 @@
     "東京都福祉局「介護保険事業状況報告（月報）」令和8年6月分（保険者別・第1号被保険者数／要介護認定者数）",
     "区内事業所数：東京都公表の指定事業所一覧にもとづく実数（2026年9月1日時点）"
   ],
-  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず主治医に相談を</h4>\n        <p>訪問看護は主治医の指示書が起点です。制度の分岐はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>板橋区内のステーションは約89件</li>\n          <li>起点は主治医の訪問看護指示書</li>\n          <li>30分未満の訪問で約537円（1割）</li>\n          <li>掲載60件のうち医療法人は7件</li>\n          <li>主治医が未定ならおとしより相談センターへ</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/houmon-kango-chigai/\">訪問介護と訪問看護の違い</a></li>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}guide/houmon-kaigo-dekirukoto/\">ヘルパーに頼めること</a></li>\n          <li><a href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみ</a></li>\n        </ul>\n      </div>",
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず主治医に相談を</h4>\n        <p>訪問看護は主治医の指示書が起点です。制度の分岐はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>板橋区内のステーションは約89件</li>\n          <li>起点は主治医の訪問看護指示書</li>\n          <li>30分未満の訪問で約537円（1割）</li>\n          <li>掲載89件のうち医療法人は10件</li>\n          <li>主治医が未定ならおとしより相談センターへ</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/houmon-kango-chigai/\">訪問介護と訪問看護の違い</a></li>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}guide/houmon-kaigo-dekirukoto/\">ヘルパーに頼めること</a></li>\n          <li><a href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみ</a></li>\n        </ul>\n      </div>",
   "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
   "hero_image": "assets/ogp-houmon-kango.jpg",
   "towns": {

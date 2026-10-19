@@ -12,19 +12,19 @@
     "city_name": "江戸川区"
   },
   "seo": {
-    "title": "江戸川区の訪問看護一覧（60件）｜日曜対応11件・指示書の流れ",
-    "description": "江戸川区の訪問看護ステーション60件を、電話番号・地図つきで一覧にしました。日曜も訪問する事業所は11件、土曜まで含めると22件です。区内87件の中から選ぶための所在町域・運営法人・開設年数・定期訪問の曜日の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
+    "title": "江戸川区の訪問看護一覧（全87件）｜日曜対応16件・指示書の流れ",
+    "description": "江戸川区の訪問看護ステーション87件すべてを、電話番号・地図つきで一覧にしました。日曜も訪問する事業所は16件、土曜まで含めると31件です。区内87件の中から選ぶための所在町域・運営法人・開設年数・定期訪問の曜日の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
     "canonical": "https://kaigonotonari.com/houmon-kango/tokyo/edogawa/",
     "og_title": "江戸川区の訪問看護ステーション一覧｜選び方と始め方",
-    "og_description": "江戸川区の訪問看護ステーション60件を掲載。対応できる医療処置の確認と、主治医の指示書から始める流れを解説します。",
+    "og_description": "江戸川区の訪問看護ステーション全87件を掲載。対応できる医療処置の確認と、主治医の指示書から始める流れを解説します。",
     "og_image": "https://kaigonotonari.com/assets/ogp-houmon-kango.jpg"
   },
   "h1": "江戸川区の訪問看護ステーション一覧｜選び方と始め方",
   "published": "2026-09-21",
   "modified": "2026-09-21",
-  "count_label": "掲載：60事業所",
-  "lead": "東京都江戸川区で訪問看護を探している方へ。区内にあるステーション87件から60件を電話番号・地図つきで掲載し、そのうち<strong>日曜日も定期訪問があるのは11件</strong>であることまで示しました。主治医の指示書から利用開始までの流れもまとめています。訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
-  "listing_note": "江戸川区内の訪問看護ステーションから60件を掲載しています（東京都公表・2026年9月1日時点）。区内には87件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。掲載順は事業所の優劣を示すものではありません。",
+  "count_label": "掲載：87事業所",
+  "lead": "東京都江戸川区で訪問看護を探している方へ。区内にあるステーション87件すべてを電話番号・地図つきで掲載し、そのうち<strong>日曜日も定期訪問があるのは16件</strong>であることまで示しました。主治医の指示書から利用開始までの流れもまとめています。訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
+  "listing_note": "江戸川区内で指定を受けている訪問看護ステーション87件をすべて掲載しています（東京都公表・2026年9月1日時点）。区内には87件が指定を受けており、そのすべてを掲載しています。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
@@ -106,6 +106,33 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "訪問看護ステーション泰山",
+      "telephone": "03-5622-1165",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "北小岩５－３４－１０"
+      },
+      "parentOrganization": "社会福祉法人白秋会",
+      "identifier": "1362390054",
+      "_town": "北小岩",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2010-10-01",
+      "_years": 15.97535934291581,
+      "url": "http://www.hakusyuu.jimusho.jp",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "北小岩エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問看護ステーション　ナース花きりん",
       "telephone": "03-3869-1730",
       "address": {
@@ -153,6 +180,32 @@
       ],
       "_tags": [
         "東葛西エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　つぐみ",
+      "telephone": "03-6456-0972",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "清新町２－２－２０－１１１号"
+      },
+      "parentOrganization": "株式会社つぐみ",
+      "identifier": "1362390112",
+      "_town": "清新町",
+      "_kind": "営利法人",
+      "_designated": "2013-04-01",
+      "_years": 13.475701574264203,
+      "url": "http://houkantsugumi.com",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "清新町エリア",
         "訪問看護"
       ]
     },
@@ -213,6 +266,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "船堀ホームナース　にじ",
+      "telephone": "03-5878-1035",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "一之江８－８－２Ｑスクエア１Ｆ"
+      },
+      "parentOrganization": "合同会社Ｇｒｏｗ",
+      "identifier": "1362390153",
+      "_town": "一之江",
+      "_kind": "営利法人",
+      "_designated": "2014-06-01",
+      "_years": 12.309377138945928,
+      "url": "http://niji-grow.com/",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "一之江エリア",
+        "土曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "医療法人社団城東桐和会　タムス訪問看護ステーション江戸川",
       "telephone": "03-6231-8471",
       "address": {
@@ -261,6 +342,31 @@
       ],
       "_tags": [
         "松江エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "フロランス訪問看護ステーション",
+      "telephone": "03-3613-3525",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "平井２－８－１４共栄コーポ３０３号室"
+      },
+      "parentOrganization": "有限会社久留米製作所",
+      "identifier": "1362390229",
+      "_town": "平井",
+      "_kind": "営利法人",
+      "_designated": "2015-12-01",
+      "_years": 10.809034907597535,
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "平井エリア",
         "訪問看護"
       ]
     },
@@ -350,6 +456,28 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　デューン江戸川",
+      "telephone": "03-6638-8106",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "瑞江２－２－２広島ビル２階"
+      },
+      "parentOrganization": "株式会社Ｎ・フィールド",
+      "identifier": "1362390294",
+      "_town": "瑞江",
+      "_kind": "営利法人",
+      "_designated": "2016-12-01",
+      "_years": 9.806981519507186,
+      "_tags": [
+        "瑞江エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問看護ステーションみなもと",
       "telephone": "03-6677-2517",
       "address": {
@@ -408,6 +536,32 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "せんじゅ訪問看護",
+      "telephone": "03-6801-7450",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "北小岩８－２１－６仙寿庵２０２"
+      },
+      "parentOrganization": "株式会社仙寿",
+      "identifier": "1362390336",
+      "_town": "北小岩",
+      "_kind": "営利法人",
+      "_designated": "2017-04-01",
+      "_years": 9.475701574264203,
+      "url": "https://senju-houmonkango.webnode.jp",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "北小岩エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ナースステーションふれにあ本舗",
       "telephone": "03-5879-4970",
       "address": {
@@ -451,6 +605,36 @@
       ],
       "_tags": [
         "船堀エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　こころ",
+      "telephone": "03-5879-3763",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "一之江２－８－１４エポメック２０３"
+      },
+      "parentOrganization": "ファーマケアリンク株式会社",
+      "identifier": "1362390385",
+      "_town": "一之江",
+      "_kind": "営利法人",
+      "_designated": "2017-11-01",
+      "_years": 8.889801505817934,
+      "url": "https://www.cocoro-nursing.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "一之江エリア",
+        "日曜日も訪問",
         "訪問看護"
       ]
     },
@@ -512,6 +696,35 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "おひさまナースステーション",
+      "telephone": "03-6677-1634",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "西一之江２－３０－２３"
+      },
+      "parentOrganization": "株式会社ハートワーカー",
+      "identifier": "1362390435",
+      "_town": "西一之江",
+      "_kind": "営利法人",
+      "_designated": "2018-04-01",
+      "_years": 8.476386036960985,
+      "url": "https://ohisama-ns.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "西一之江エリア",
+        "土曜日も訪問",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問看護ステーション心音",
       "telephone": "03-5875-0337",
       "address": {
@@ -563,6 +776,33 @@
       ],
       "_tags": [
         "松江エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "なの花訪問看護ステーション",
+      "telephone": "03-5636-8177",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "南篠崎町２－３７－３ＴＭ店舗１Ｆ"
+      },
+      "parentOrganization": "株式会社あしたば介護サービス",
+      "identifier": "1362390476",
+      "_town": "南篠崎町",
+      "_kind": "営利法人",
+      "_designated": "2018-06-01",
+      "_years": 8.309377138945928,
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "南篠崎町エリア",
+        "土曜日も訪問",
         "訪問看護"
       ]
     },
@@ -642,6 +882,28 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "訪問看護ステーション　デューン江戸川西",
+      "telephone": "03-6231-5301",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "一之江３－２－２一之江Ｓビル２０７号室"
+      },
+      "parentOrganization": "株式会社Ｎ・フィールド",
+      "identifier": "1362390534",
+      "_town": "一之江",
+      "_kind": "営利法人",
+      "_designated": "2019-03-01",
+      "_years": 7.561943874058864,
+      "_tags": [
+        "一之江エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問看護ステーション　はな　小岩",
       "telephone": "03-6822-6558",
       "address": {
@@ -687,6 +949,32 @@
       "_years": 7.310061601642711,
       "_tags": [
         "南篠崎町エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "しろひげファミリー訪問看護ステーション",
+      "telephone": "03-6638-7110",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "東瑞江１－３８－４２庄電ビル１号室"
+      },
+      "parentOrganization": "医療法人社団しろひげファミリー",
+      "identifier": "1362390633",
+      "_town": "東瑞江",
+      "_kind": "医療法人",
+      "_designated": "2020-02-01",
+      "_years": 6.639288158795345,
+      "url": "https://shirohige.clinic/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "東瑞江エリア",
         "訪問看護"
       ]
     },
@@ -740,6 +1028,32 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "城東訪問看護ステーションみずえ",
+      "telephone": "03-5879-8225",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "南篠崎町３－９－３京葉鈴木ビル１階"
+      },
+      "parentOrganization": "有限会社ラビット",
+      "identifier": "1362390666",
+      "_town": "南篠崎町",
+      "_kind": "営利法人",
+      "_designated": "2020-06-01",
+      "_years": 6.308008213552362,
+      "url": "http://www.rabbit-jp.net",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "南篠崎町エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "リニエ訪問看護ステーション江戸川",
       "telephone": "03-5612-5225",
       "address": {
@@ -787,6 +1101,35 @@
       ],
       "_tags": [
         "松江エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "医心館　訪問看護ステーション　瑞江",
+      "telephone": "03-6638-6212",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "南篠崎町４－１７－１"
+      },
+      "parentOrganization": "株式会社アンビス",
+      "identifier": "1362390724",
+      "_town": "南篠崎町",
+      "_kind": "営利法人",
+      "_designated": "2021-11-01",
+      "_years": 4.889801505817933,
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南篠崎町エリア",
+        "日曜日も訪問",
         "訪問看護"
       ]
     },
@@ -875,6 +1218,33 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "こまつな訪問看護リハビリステーション",
+      "telephone": "03-6231-4888",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "松江６－４－２０　３Ｆ"
+      },
+      "parentOrganization": "野口株式会社",
+      "identifier": "1362390765",
+      "_town": "松江",
+      "_kind": "営利法人",
+      "_designated": "2022-03-01",
+      "_years": 4.561259411362081,
+      "url": "https://www.noguchi-net.co.jp",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "松江エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ＫＡＺＯＫＵナースステーション",
       "telephone": "03-3672-0101",
       "address": {
@@ -927,6 +1297,32 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "リハビリ訪問看護ステーション　ＨＩＲＯ’Ｓ",
+      "telephone": "03-5622-7710",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "南小岩５－１７－２０三好屋南小岩ビル４０５号室"
+      },
+      "parentOrganization": "日本医療地域連携支援合同会社",
+      "identifier": "1362390799",
+      "_town": "南小岩",
+      "_kind": "営利法人",
+      "_designated": "2022-07-01",
+      "_years": 4.227241615331964,
+      "url": "http://rehabili-care.co.jp",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "南小岩エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問看護ステーション　デライト葛西",
       "telephone": "03-6661-3606",
       "address": {
@@ -971,6 +1367,36 @@
       ],
       "_tags": [
         "平井エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "てとめ　訪問看護ステーション　江戸川",
+      "telephone": "03-6801-7596",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "南小岩６－２８－１４杉本ビル３Ｆ"
+      },
+      "parentOrganization": "株式会社Ｔｅ＆Ｍｅ",
+      "identifier": "1362390831",
+      "_town": "南小岩",
+      "_kind": "営利法人",
+      "_designated": "2023-01-01",
+      "_years": 3.7234770704996576,
+      "url": "https://www.tetome.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南小岩エリア",
+        "日曜日も訪問",
         "訪問看護"
       ]
     },
@@ -1032,6 +1458,28 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "訪問看護ステーションひばり　一之江",
+      "telephone": "03-6824-0865",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "一之江８－１１－２９"
+      },
+      "parentOrganization": "株式会社中川",
+      "identifier": "1362390864",
+      "_town": "一之江",
+      "_kind": "営利法人",
+      "_designated": "2023-04-01",
+      "_years": 3.477070499657769,
+      "_tags": [
+        "一之江エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問看護ステーション　えにしや",
       "telephone": "03-5876-7407",
       "address": {
@@ -1083,6 +1531,33 @@
       ],
       "_tags": [
         "中央エリア",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "しろひげ想い出がいっぱい　訪問看護ステーション",
+      "telephone": "03-6808-7590",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "江戸川６－２３－７"
+      },
+      "parentOrganization": "医療法人社団しろひげファミリー",
+      "identifier": "1362390906",
+      "_town": "江戸川",
+      "_kind": "医療法人",
+      "_designated": "2023-12-01",
+      "_years": 2.809034907597536,
+      "url": "https://shirohige.clinic",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "江戸川エリア",
+        "開設3年以内",
         "訪問看護"
       ]
     },
@@ -1171,6 +1646,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "きんぎょ訪問看護ステーション",
+      "telephone": "03-6657-5945",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "平井６－１６－４"
+      },
+      "parentOrganization": "株式会社あさまずめ",
+      "identifier": "1362390948",
+      "_town": "平井",
+      "_kind": "営利法人",
+      "_designated": "2025-02-01",
+      "_years": 1.6372347707049966,
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "平井エリア",
+        "日曜日も訪問",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問看護ステーション　コルディアーレ江戸川",
       "telephone": "03-5879-3085",
       "address": {
@@ -1225,6 +1730,32 @@
       "_tags": [
         "平井エリア",
         "土曜日も訪問",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ドットライフ　小岩（訪問看護・リハビリ）",
+      "telephone": "03-5876-7062",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "西小岩１－９－１６"
+      },
+      "parentOrganization": "株式会社ドットライン",
+      "identifier": "1362390971",
+      "_town": "西小岩",
+      "_kind": "営利法人",
+      "_designated": "2025-05-01",
+      "_years": 1.3935660506502396,
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "西小岩エリア",
         "開設3年以内",
         "訪問看護"
       ]
@@ -1288,6 +1819,29 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "訪問看護ファミリー・ホスピス西葛西",
+      "telephone": "03-6661-4745",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "西葛西３－４－９"
+      },
+      "parentOrganization": "ファミリー・ホスピス株式会社",
+      "identifier": "1362391003",
+      "_town": "西葛西",
+      "_kind": "営利法人",
+      "_designated": "2025-08-01",
+      "_years": 1.1416837782340863,
+      "_tags": [
+        "西葛西エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ＩＣＨＩ訪問看護ステーション",
       "telephone": "08096462820",
       "address": {
@@ -1335,6 +1889,36 @@
       "_years": 0.8898015058179329,
       "_tags": [
         "北小岩エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "医心館　訪問看護ステーション　篠崎",
+      "telephone": "03-5879-8062",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "篠崎町２－３１－３医心館　篠崎"
+      },
+      "parentOrganization": "株式会社アンビス",
+      "identifier": "1362391045",
+      "_town": "篠崎町",
+      "_kind": "営利法人",
+      "_designated": "2025-11-01",
+      "_years": 0.8898015058179329,
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "篠崎町エリア",
+        "日曜日も訪問",
         "開設3年以内",
         "訪問看護"
       ]
@@ -1417,6 +2001,29 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ベストリハ訪問看護ステーション瑞江",
+      "telephone": "03-5879-7816",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "南篠崎町４－２８－８"
+      },
+      "parentOrganization": "ベストリハ株式会社",
+      "identifier": "1362391086",
+      "_town": "南篠崎町",
+      "_kind": "営利法人",
+      "_designated": "2026-06-01",
+      "_years": 0.30937713894592744,
+      "_tags": [
+        "南篠崎町エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "らいくゆうホームケア",
       "telephone": "03-6638-6317",
       "address": {
@@ -1457,6 +2064,29 @@
       "_years": 0.14236824093086928,
       "_tags": [
         "松江エリア",
+        "開設3年以内",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "総合ケアステーション大慈　小岩",
+      "telephone": "07015024418",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "南小岩７－６－３京屋ビル１０２"
+      },
+      "parentOrganization": "株式会社大慈学苑",
+      "identifier": "1362391110",
+      "_town": "南小岩",
+      "_kind": "営利法人",
+      "_designated": "2026-09-01",
+      "_years": 0.057494866529774126,
+      "_tags": [
+        "南小岩エリア",
         "開設3年以内",
         "訪問看護"
       ]
@@ -1520,6 +2150,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "トーリツ訪問看護ステーション江戸川",
+      "telephone": "03-5663-5757",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "中央２－４－１８"
+      },
+      "parentOrganization": "株式会社トーリツ",
+      "identifier": "1367194087",
+      "_town": "中央",
+      "_kind": "営利法人",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "url": "http://www.to-ritsu.co.jp",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "中央エリア",
+        "20年以上",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "江戸川病院訪問看護ステーション・マックスライフ",
       "telephone": "03-3673-4174",
       "address": {
@@ -1570,6 +2228,32 @@
       ],
       "_tags": [
         "中央エリア",
+        "20年以上",
+        "訪問看護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "医療法人社団　なかた会　ひだまり訪問看護ステーション",
+      "telephone": "03-3611-3121",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "平井５－１４－１２大島園マンション３０５"
+      },
+      "parentOrganization": "医療法人社団なかた会",
+      "identifier": "1367195266",
+      "_town": "平井",
+      "_kind": "医療法人",
+      "_designated": "2003-04-01",
+      "_years": 23.477070499657767,
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "平井エリア",
         "20年以上",
         "訪問看護"
       ]
@@ -1634,6 +2318,35 @@
         "20年以上",
         "訪問看護"
       ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "医療法人社団東京育明会　くすの木訪問看護ステーション",
+      "telephone": "03-5609-6162",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "江戸川区",
+        "streetAddress": "平井２－２４－１６東京育明会ビル２階"
+      },
+      "parentOrganization": "医療法人社団東京育明会",
+      "identifier": "1367198252",
+      "_town": "平井",
+      "_kind": "医療法人",
+      "_designated": "2006-01-01",
+      "_years": 20.722792607802873,
+      "url": "http://www.ikumeikai.tokyo/kusunoki",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "平井エリア",
+        "土曜日も訪問",
+        "20年以上",
+        "訪問看護"
+      ]
     }
   ],
   "faq": [
@@ -1643,11 +2356,11 @@
     },
     {
       "q": "江戸川区には訪問看護ステーションが何件ありますか？",
-      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で江戸川区内に87件の訪問看護ステーションが指定を受けています。本ページではそのうち60件を連絡先つきで掲載しています。"
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で江戸川区内に87件の訪問看護ステーションが指定を受けています。本ページでは87件すべてを連絡先つきで掲載しています。"
     },
     {
       "q": "江戸川区の掲載事業所は、どこを見て絞り込めばいいですか？",
-      "a": "まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。江戸川区の掲載60件では営利法人が47件、医療法人が8件、指定から20年以上の事業所が6件です。そのうえで、ご自宅の町名を伝えて江戸川区内の対応エリアに入っているかを確認してください。"
+      "a": "まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。江戸川区の掲載87件では営利法人が69件、医療法人が12件、指定から20年以上の事業所が9件です。そのうえで、ご自宅の町名を伝えて江戸川区内の対応エリアに入っているかを確認してください。"
     }
   ],
   "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/edogawa/\">江戸川区の訪問介護<small>自宅に来てもらう・区内154件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/edogawa/\">江戸川区のデイサービス<small>日帰りで通う・区内81件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/edogawa/\">江戸川区のショートステイ<small>数日あずける・区内25件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/edogawa/\">江戸川区の福祉用具<small>借りる・買う・区内34件</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/edogawa/\">江戸川区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/edogawa/\">江戸川区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
@@ -1664,7 +2377,7 @@
     "東京都福祉局「介護保険事業状況報告（月報）」令和8年6月分（保険者別・第1号被保険者数／要介護認定者数）",
     "区内事業所数：東京都公表の指定事業所一覧にもとづく実数（2026年9月1日時点）"
   ],
-  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず主治医に相談を</h4>\n        <p>訪問看護は主治医の指示書が起点です。制度の分岐はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>江戸川区内のステーションは約87件</li>\n          <li>起点は主治医の訪問看護指示書</li>\n          <li>30分未満の訪問で約537円（1割）</li>\n          <li>掲載60件のうち医療法人は8件</li>\n          <li>主治医が未定なら熟年相談室へ</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/houmon-kango-chigai/\">訪問介護と訪問看護の違い</a></li>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}guide/houmon-kaigo-dekirukoto/\">ヘルパーに頼めること</a></li>\n          <li><a href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみ</a></li>\n        </ul>\n      </div>",
+  "sidebar": "<div class=\"side cta-side\">\n        <h4>まず主治医に相談を</h4>\n        <p>訪問看護は主治医の指示書が起点です。制度の分岐はハブにまとめています。</p>\n        <a class=\"btn\" href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみを見る</a>\n      </div>\n      <div class=\"side\">\n        <h4>このページの要点</h4>\n        <ul>\n          <li>江戸川区内のステーションは約87件</li>\n          <li>起点は主治医の訪問看護指示書</li>\n          <li>30分未満の訪問で約537円（1割）</li>\n          <li>掲載87件のうち医療法人は12件</li>\n          <li>主治医が未定なら熟年相談室へ</li>\n        </ul>\n      </div>\n      <div class=\"side\">\n        <h4>関連ガイド</h4>\n        <ul>\n          <li><a href=\"{{ROOT}}guide/houmon-kango-chigai/\">訪問介護と訪問看護の違い</a></li>\n          <li><a href=\"{{ROOT}}guide/youkaigo-nintei/\">要介護認定の申請方法</a></li>\n          <li><a href=\"{{ROOT}}guide/soudan-madoguchi/\">相談窓口の探し方</a></li>\n          <li><a href=\"{{ROOT}}guide/houmon-kaigo-dekirukoto/\">ヘルパーに頼めること</a></li>\n          <li><a href=\"{{ROOT}}houmon-kango/\">訪問看護のしくみ</a></li>\n        </ul>\n      </div>",
   "mcta": "<a class=\"m1\" href=\"#s2\">事業所一覧</a>\n  <a class=\"m2\" href=\"#s4\">自己負担の目安</a>",
   "hero_image": "assets/ogp-houmon-kango.jpg",
   "towns": {

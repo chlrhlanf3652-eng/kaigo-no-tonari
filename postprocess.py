@@ -69,6 +69,11 @@ def main():
                     f'<em class="soon-tag">準備中</em></span>')
 
         out = A_TAG.sub(repl, html)
+        # 宅配弁当・高齢者賃貸の「区ページ」は掲載が4〜7件で区ごとの差が小さいため、
+        # 検索結果には出さない（ページとリンクは残す）。区をまたぐ説明はカテゴリページとガイドが担う。
+        if re.fullmatch(r"(takuhai-bento|koreisha-chintai)/tokyo/[a-z]+", here):
+            out = out.replace('<meta name="robots" content="index,follow,max-image-preview:large">',
+                              '<meta name="robots" content="noindex,follow">')
         if out != html:
             p.write_text(out, encoding="utf-8")
             changed += 1

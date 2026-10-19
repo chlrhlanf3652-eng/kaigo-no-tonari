@@ -20,6 +20,26 @@
     if (top) top.style.scrollMarginTop = h + 8 + "px";
   }
 
+  // 件数が多い区では最初の60件だけ見せ、残りは「すべて表示」で開く。
+  // HTMLには全件が入っている（JSが動かなければ全件が見える）。絞り込み中は全件から探す。
+  var CAP = 60, opened = cards.length <= CAP, more = null;
+  if (!opened) {
+    more = document.createElement("button");
+    more.type = "button";
+    more.className = "btn more-all";
+    more.textContent = "残り" + (cards.length - CAP) + "件をすべて表示（全" + cards.length + "件）";
+    cards[cards.length - 1].parentNode.appendChild(more);
+    more.addEventListener("click", function () {
+      opened = true; apply();
+      if (typeof gtag === "function") gtag("event", "list_more", { total: cards.length });
+    });
+    // 地図の「一覧で見る」などで畳んだカードへ飛ぶときは先に開く
+    document.addEventListener("click", function (e) {
+      var a = e.target.closest && e.target.closest('a[href^="#b"]');
+      if (a && !opened) { opened = true; apply(); }
+    });
+  }
+
   function apply(ev) {
     var want = {}, any = false;
     sels.forEach(function (s) {
@@ -32,9 +52,11 @@
         var v = (c.getAttribute("data-" + f) || "").split("|");
         if (v.indexOf(want[f]) < 0) { ok = false; break; }
       }
-      c.hidden = !ok;
       if (ok) n++;
+      c.hidden = !ok;
+      c.classList.toggle("fold", ok && !opened && !any && n > CAP);
     });
+    if (more) more.hidden = opened || any;
     out.textContent = n;
     reset.hidden = !any;
     if (empty) empty.hidden = n > 0;

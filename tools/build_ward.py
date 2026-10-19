@@ -178,8 +178,8 @@ def build(wid, site):
          "a": (f"東京都が公表している指定事業所一覧では、2026年9月1日時点で{ward}内に{total}件の"
                f"訪問介護事業所が指定を受けています。" if real else
                f"2026年9月時点で、介護情報サイトの掲載ベースで約{total}件の訪問介護事業所が{ward}内にあります。")
-              + f"本ページではそのうち{n}件を連絡先つきで掲載しています。"
-              + "全件は厚生労働省「介護サービス情報公表システム」で確認できます。"},
+              + f"本ページでは{n}件すべてを連絡先つきで掲載しています。"
+              + "最新の指定状況は厚生労働省「介護サービス情報公表システム」でも確認できます。"},
         {"q": f"{ward}の担当窓口は、どうやって調べればいいですか？",
          "a": (f"{madoguchi}は区内に{centers}か所あり、担当地区が町名で決まっています。"
                if centers else f"{madoguchi}は区内各地に置かれ、担当地区が町名で決まっています。")
@@ -244,14 +244,14 @@ def build(wid, site):
         "category": {"id": "houmon-kaigo", "name": "訪問介護", "path": "/houmon-kaigo/"},
         "area": {"pref_id": "tokyo", "pref_name": "東京都", "city_id": wid, "city_name": ward},
         "seo": {
-            "title": f"{ward}の訪問介護一覧（{n}件）｜{facet}・料金の目安",
-            "description": f"{ward}の訪問介護（ホームヘルプ）事業所{n}件を、電話番号・地図つきで一覧にしました。"
+            "title": f"{ward}の訪問介護一覧（全{n}件）｜{facet}・料金の目安",
+            "description": f"{ward}の訪問介護（ホームヘルプ）事業所{n}件すべてを、電話番号・地図つきで一覧にしました。"
                            f"日曜も対応する事業所は{sunday}件、土曜まで含めると{weekend}件です。"
                            f"区内{total}件の中から選ぶための料金の目安、頼めること・頼めないこと、"
                            f"{madoguchi}への相談から利用開始までの流れを解説します。",
             "canonical": f"https://kaigonotonari.com/houmon-kaigo/tokyo/{wid}/",
             "og_title": f"{ward}の訪問介護事業所一覧｜料金の目安と選び方",
-            "og_description": f"{ward}の訪問介護事業所{n}件を掲載。料金の目安、できること・できないこと、"
+            "og_description": f"{ward}の訪問介護事業所全{n}件を掲載。料金の目安、できること・できないこと、"
                               "利用開始までの流れを解説します。",
             "og_image": "https://kaigonotonari.com/assets/ogp-houmon-kaigo.jpg",
         },
@@ -262,11 +262,11 @@ def build(wid, site):
                 f"電話番号・地図つきで掲載し、あわせて自己負担額の目安、ヘルパーに頼めること・頼めないこと、"
                 f"相談から利用開始までの流れをまとめました。はじめて介護保険を使う方は、"
                 f"まず「{madoguchi}」への相談から始めるのが近道です。",
-        "listing_note": f"{ward}内の訪問介護事業所から{n}件を掲載しています（2026年9月時点）。"
+        "listing_note": f"{ward}内で指定を受けている訪問介護事業所{n}件をすべて掲載しています（2026年9月時点）。"
                         + ("区内の全件から事業所番号の順に等間隔で抽出しています。"
                            if real and total > n else "")
-                        + f"区内には{total}件の事業所があり、全件は厚生労働省"
-                        "「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
+                        + "最新の指定状況は厚生労働省"
+                        "「介護サービス情報公表システム」でも確認できます。掲載順は事業所の優劣を示すものではありません。",
         "items": items, "faq": faq, "related": related,
         "nearby_heading": "東京23区から訪問介護を探す", "nearby": nearby,
         "sources": ([rec["source"]] if rec.get("source") else

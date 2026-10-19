@@ -12,19 +12,19 @@
     "city_name": "葛飾区"
   },
   "seo": {
-    "title": "葛飾区の訪問介護一覧（60件）｜日曜対応42件・料金の目安",
-    "description": "葛飾区の訪問介護（ホームヘルプ）事業所60件を、電話番号・地図つきで一覧にしました。日曜も対応する事業所は42件、土曜まで含めると48件です。区内153件の中から選ぶための料金の目安、頼めること・頼めないこと、高齢者総合相談センターへの相談から利用開始までの流れを解説します。",
+    "title": "葛飾区の訪問介護一覧（全153件）｜日曜対応106件・料金の目安",
+    "description": "葛飾区の訪問介護（ホームヘルプ）事業所153件すべてを、電話番号・地図つきで一覧にしました。日曜も対応する事業所は106件、土曜まで含めると114件です。区内153件の中から選ぶための料金の目安、頼めること・頼めないこと、高齢者総合相談センターへの相談から利用開始までの流れを解説します。",
     "canonical": "https://kaigonotonari.com/houmon-kaigo/tokyo/katsushika/",
     "og_title": "葛飾区の訪問介護事業所一覧｜料金の目安と選び方",
-    "og_description": "葛飾区の訪問介護事業所60件を掲載。料金の目安、できること・できないこと、利用開始までの流れを解説します。",
+    "og_description": "葛飾区の訪問介護事業所全153件を掲載。料金の目安、できること・できないこと、利用開始までの流れを解説します。",
     "og_image": "https://kaigonotonari.com/assets/ogp-houmon-kaigo.jpg"
   },
   "h1": "葛飾区の訪問介護事業所一覧｜料金の目安と選び方",
   "published": "2026-09-21",
   "modified": "2026-09-21",
-  "count_label": "掲載：60事業所",
-  "lead": "東京都葛飾区で訪問介護（ホームヘルプ）を探している方へ。区内にある事業所153件から60件を電話番号・地図つきで掲載し、あわせて自己負担額の目安、ヘルパーに頼めること・頼めないこと、相談から利用開始までの流れをまとめました。はじめて介護保険を使う方は、まず「高齢者総合相談センター」への相談から始めるのが近道です。",
-  "listing_note": "葛飾区内の訪問介護事業所から60件を掲載しています（2026年9月時点）。区内の全件から事業所番号の順に等間隔で抽出しています。区内には153件の事業所があり、全件は厚生労働省「介護サービス情報公表システム」で確認できます。掲載順は事業所の優劣を示すものではありません。",
+  "count_label": "掲載：153事業所",
+  "lead": "東京都葛飾区で訪問介護（ホームヘルプ）を探している方へ。区内にある事業所153件すべてを電話番号・地図つきで掲載し、あわせて自己負担額の目安、ヘルパーに頼めること・頼めないこと、相談から利用開始までの流れをまとめました。はじめて介護保険を使う方は、まず「高齢者総合相談センター」への相談から始めるのが近道です。",
+  "listing_note": "葛飾区内で指定を受けている訪問介護事業所153件をすべて掲載しています（2026年9月時点）。最新の指定状況は厚生労働省「介護サービス情報公表システム」でも確認できます。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
@@ -49,6 +49,33 @@
       ],
       "_tags": [
         "西亀有エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "たんぽぽケア",
+      "telephone": "03-6662-8925",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "奥戸４－２４－７"
+      },
+      "parentOrganization": "株式会社Ｅ＆Ｍ",
+      "identifier": "1372108256",
+      "_town": "奥戸",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "奥戸エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -83,6 +110,56 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "有限会社　ヘルパーステーション高砂",
+      "telephone": "03-3673-2200",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "高砂２－１９－４コーポセキネ３０１"
+      },
+      "parentOrganization": "有限会社ヘルパーステーション高砂",
+      "identifier": "1372200053",
+      "_town": "高砂",
+      "_kind": "営利法人",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "高砂エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "有限会社　佐護シルバーケアサービス",
+      "telephone": "03-3602-4886",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "亀有２－７７－６"
+      },
+      "parentOrganization": "有限会社　佐護シルバーケアサービス",
+      "identifier": "1372200095",
+      "_town": "亀有",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "亀有エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "株式会社　愛和　介護事業本部",
       "telephone": "03-6458-9901",
       "address": {
@@ -105,6 +182,34 @@
       ],
       "_tags": [
         "細田エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "エフ・ティー介護サービス",
+      "telephone": "03-5660-0213",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "東金町１－３６－１－１１０"
+      },
+      "parentOrganization": "株式会社エフ・ティー介護サービス",
+      "identifier": "1372200277",
+      "_town": "東金町",
+      "_kind": "営利法人",
+      "url": "http://care-net.biz/13/ftkaigo/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "東金町エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -139,6 +244,58 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ミサワ薬局　リボーンケアサービス",
+      "telephone": "03-5650-6700",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "青戸３－３９－７一周ビル一階"
+      },
+      "parentOrganization": "株式会社ミサワ薬局",
+      "identifier": "1372200574",
+      "_town": "青戸",
+      "_kind": "営利法人",
+      "url": "http://www.misawa-jp.com/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "青戸エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヘルパーステーション　虹の輪",
+      "telephone": "03-5629-7229",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "白鳥２－３－６"
+      },
+      "parentOrganization": "東京葛飾医療生活協同組合",
+      "identifier": "1372200624",
+      "_town": "白鳥",
+      "_kind": "生協",
+      "url": "https://www.katuseikyou.or.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "白鳥エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "やさしい手葛飾訪問介護事業所",
       "telephone": "05017521311",
       "address": {
@@ -161,6 +318,34 @@
       ],
       "_tags": [
         "金町エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヘルパーステーション　ゆいま～る葛飾",
+      "telephone": "03-3690-6263",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "堀切７－５－１８第３Ｊ＆Ｊビル"
+      },
+      "parentOrganization": "株式会社トータルケアサービス加島",
+      "identifier": "1372200749",
+      "_town": "堀切",
+      "_kind": "営利法人",
+      "url": "http://www1.ocn.ne.jp/~yuimaru/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "堀切エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -195,6 +380,57 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ニチイケアセンター新小岩",
+      "telephone": "03-5671-5307",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "奥戸４－２１－２０"
+      },
+      "parentOrganization": "株式会社ニチイ学館",
+      "identifier": "1372200921",
+      "_town": "奥戸",
+      "_kind": "営利法人",
+      "url": "http://www.nichiigakkan.co.jp",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "奥戸エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あん介護サービスセンター",
+      "telephone": "03-5613-8588",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "西亀有４－１６－１５林マンション１階"
+      },
+      "parentOrganization": "株式会社ヘルスアンドメディカル",
+      "identifier": "1372200970",
+      "_town": "西亀有",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "西亀有エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ホームヘルプサービス　ソラスト葛飾",
       "telephone": "03-5629-5851",
       "address": {
@@ -217,6 +453,34 @@
       ],
       "_tags": [
         "お花茶屋エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ひなたぼっこ在宅介護サービス　金町",
+      "telephone": "03-5648-5350",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "東金町１－３６－２－１"
+      },
+      "parentOrganization": "株式会社マルワメディカルサービス",
+      "identifier": "1372201234",
+      "_town": "東金町",
+      "_kind": "営利法人",
+      "url": "http://www.hinataboko.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "東金町エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -250,6 +514,62 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "トーリツ訪問介護　お花茶屋",
+      "telephone": "03-6657-7080",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "堀切３－２６－１"
+      },
+      "parentOrganization": "株式会社トーリツ",
+      "identifier": "1372201457",
+      "_town": "堀切",
+      "_kind": "営利法人",
+      "url": "http://www.to-ritsu.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "堀切エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ニチイケアセンターせせらぎ",
+      "telephone": "03-5671-8801",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "細田２－２－４"
+      },
+      "parentOrganization": "株式会社ニチイ学館",
+      "identifier": "1372201556",
+      "_town": "細田",
+      "_kind": "営利法人",
+      "url": "http://www.nichiigakkan.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "細田エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ＳＩＬＶＥＲ　ＳＵＰＰＯＲＴ　ＧＡＲＤＥＮＳ　みつばち",
       "telephone": "03-5693-3636",
       "address": {
@@ -272,6 +592,34 @@
       "_tags": [
         "高砂エリア",
         "土曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "やさしい手新小岩訪問介護事業所",
+      "telephone": "05017521312",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "新小岩１－４０－１０リバティーヌ喜久屋２Ｆ"
+      },
+      "parentOrganization": "株式会社やさしい手",
+      "identifier": "1372201671",
+      "_town": "新小岩",
+      "_kind": "営利法人",
+      "url": "http://www.yasashiite.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "新小岩エリア",
+        "日曜日も対応",
         "訪問介護"
       ]
     },
@@ -305,6 +653,62 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "癒しの森  訪問介護事業所",
+      "telephone": "03-5648-2051",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "南水元１－１１－７"
+      },
+      "parentOrganization": "株式会社癒しの森",
+      "identifier": "1372201804",
+      "_town": "南水元",
+      "_kind": "営利法人",
+      "url": "https://www.iyashi-m.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南水元エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問介護ステーションまごころ",
+      "telephone": "03-5671-0692",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "立石５－８－１８"
+      },
+      "parentOrganization": "有限会社三愛薬局",
+      "identifier": "1372201929",
+      "_town": "立石",
+      "_kind": "営利法人",
+      "url": "http://www.kaigo-magokoro.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "立石エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "セーフティー　ヘルパーステーション",
       "telephone": "03-5660-2584",
       "address": {
@@ -326,6 +730,61 @@
       ],
       "_tags": [
         "水元エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "オリーブ介護サービス　亀有",
+      "telephone": "03-5629-5177",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "亀有３－１６－１５　１階"
+      },
+      "parentOrganization": "有限会社ケアシス",
+      "identifier": "1372201978",
+      "_town": "亀有",
+      "_kind": "営利法人",
+      "url": "http://www.olivekaigo.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "亀有エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "コスモ介護サービス",
+      "telephone": "03-5629-3961",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "亀有２－６８－５サンハイツ亀有１０２"
+      },
+      "parentOrganization": "株式会社コスモハウジング",
+      "identifier": "1372201994",
+      "_town": "亀有",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "亀有エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -359,6 +818,33 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "西亀有ヘルパーステーション",
+      "telephone": "03-3601-0970",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "西亀有２－３５－７"
+      },
+      "parentOrganization": "社会福祉法人葛飾学園",
+      "identifier": "1372202091",
+      "_town": "西亀有",
+      "_kind": "社会福祉法人（社協以外）",
+      "url": "http://www.k-gakuen.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "西亀有エリア",
+        "土曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ベストケアかつしか",
       "telephone": "03-3603-1461",
       "address": {
@@ -382,6 +868,53 @@
       "_tags": [
         "青戸エリア",
         "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ベル東堀切ヘルパーステーション",
+      "telephone": "03-3602-2595",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "東堀切１－１９－４"
+      },
+      "parentOrganization": "有限会社ベル",
+      "identifier": "1372202174",
+      "_town": "東堀切",
+      "_kind": "営利法人",
+      "url": "https://bell-care.jp/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "東堀切エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "なかよしケアサービス",
+      "telephone": "03-5612-1566",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "柴又４－３４－２１"
+      },
+      "parentOrganization": "株式会社なかよしケアサービス",
+      "identifier": "1372202257",
+      "_town": "柴又",
+      "_kind": "営利法人",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "柴又エリア",
         "訪問介護"
       ]
     },
@@ -414,6 +947,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ふれあい　葛飾営業所",
+      "telephone": "03-5876-6608",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "東金町１－２５－４フラワーハイツ１階"
+      },
+      "parentOrganization": "有限会社ふれあい",
+      "identifier": "1372202372",
+      "_town": "東金町",
+      "_kind": "営利法人",
+      "url": "http://www.fureai-ayase.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "東金町エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ヘルパーステーション　けいあい",
       "telephone": "03-5668-2988",
       "address": {
@@ -432,6 +993,62 @@
       ],
       "_tags": [
         "柴又エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアステーション　ダッシュ",
+      "telephone": "03-6661-3370",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "お花茶屋１－５－１０"
+      },
+      "parentOrganization": "有限会社　ダッシュ",
+      "identifier": "1372202513",
+      "_town": "お花茶屋",
+      "_kind": "営利法人",
+      "url": "http://www2.plala.or.jp/kaigo-dash/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "お花茶屋エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケア２１　葛飾",
+      "telephone": "03-5671-0180",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "立石１－９－２０　Ｏ．ＩビルＡ号室"
+      },
+      "parentOrganization": "株式会社ケア２１",
+      "identifier": "1372202539",
+      "_town": "立石",
+      "_kind": "営利法人",
+      "url": "http://www.care21.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "立石エリア",
+        "日曜日も対応",
         "訪問介護"
       ]
     },
@@ -465,6 +1082,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "介護ステーション太陽",
+      "telephone": "03-5889-8568",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "柴又４－１０－５"
+      },
+      "parentOrganization": "有限会社ヒューマンメディケア",
+      "identifier": "1372202646",
+      "_town": "柴又",
+      "_kind": "営利法人",
+      "url": "https://hmtaiyo.wixsite.com/toppage",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "柴又エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ヘルパーステーション末広",
       "telephone": "03-3608-3871",
       "address": {
@@ -487,6 +1132,53 @@
       "_tags": [
         "金町エリア",
         "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問介護ほのぼのステーション",
+      "telephone": "03-5648-3077",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "柴又３－４－１４　１Ｆ"
+      },
+      "parentOrganization": "株式会社ほのぼの",
+      "identifier": "1372202703",
+      "_town": "柴又",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "柴又エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アコール介護サービス",
+      "telephone": "03-3608-7887",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "西水元三丁目１８番９号"
+      },
+      "parentOrganization": "アコール株式会社",
+      "identifier": "1372202836",
+      "_town": "西水元",
+      "_kind": "営利法人",
+      "_tags": [
+        "西水元エリア",
         "訪問介護"
       ]
     },
@@ -520,6 +1212,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "オンリー・ワン",
+      "telephone": "03-5654-0016",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "東立石３－１３－８サニービル２Ｆ"
+      },
+      "parentOrganization": "株式会社ｏｎｌｙｏｎｅ",
+      "identifier": "1372203206",
+      "_town": "東立石",
+      "_kind": "営利法人",
+      "url": "http://www.onlyone0927.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "東立石エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "山手ケアサービス葛飾",
       "telephone": "03-5671-0058",
       "address": {
@@ -543,6 +1263,58 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "あしすとケア",
+      "telephone": "03-5648-2075",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "水元３－６－１ヘルシーコーポ１０１"
+      },
+      "parentOrganization": "有限会社ライフシーン",
+      "identifier": "1372203487",
+      "_town": "水元",
+      "_kind": "営利法人",
+      "url": "https://katsushika-kaigo.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "水元エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "さわやかケア立石・訪問介護",
+      "telephone": "03-5698-3191",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "立石１－９－６"
+      },
+      "parentOrganization": "ウエルシアパートナーズ株式会社",
+      "identifier": "1372203578",
+      "_town": "立石",
+      "_kind": "営利法人",
+      "url": "http://www.welcia-partners.co.jp/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "立石エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問介護あいちぐら",
       "telephone": "03-5648-2103",
       "address": {
@@ -557,6 +1329,57 @@
       "_town": "高砂",
       "_kind": "営利法人",
       "url": "https://www.aitigura.net",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "高砂エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "東京愛育苑ヘルパーステーション",
+      "telephone": "03-5660-3491",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "水元３－１３－２"
+      },
+      "parentOrganization": "社会福祉法人東京愛育苑",
+      "identifier": "1372203669",
+      "_town": "水元",
+      "_kind": "社会福祉法人（社協以外）",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "水元エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "さくら・介護ステーション高砂",
+      "telephone": "03-6914-8897",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "高砂８－２９－１７"
+      },
+      "parentOrganization": "有限会社アイ･ケア企画",
+      "identifier": "1372203701",
+      "_town": "高砂",
+      "_kind": "営利法人",
+      "url": "http://www.sakura-aicare.co.jp",
       "_days": [
         "平日",
         "土曜日",
@@ -599,6 +1422,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ラック金町",
+      "telephone": "03-6689-0184",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "東金町１－３６－２号棟－１０２"
+      },
+      "parentOrganization": "株式会社ラックコーポレーション",
+      "identifier": "1372203941",
+      "_town": "東金町",
+      "_kind": "営利法人",
+      "url": "http://www.lac-corp.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "東金町エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ケアサービスきりん",
       "telephone": "03-6662-8452",
       "address": {
@@ -622,6 +1473,58 @@
       "_tags": [
         "堀切エリア",
         "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社きずな介護サービス",
+      "telephone": "03-3697-3331",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "立石８－１９－１ロカヒラニ１０１"
+      },
+      "parentOrganization": "株式会社きずな介護サービス",
+      "identifier": "1372204105",
+      "_town": "立石",
+      "_kind": "営利法人",
+      "url": "http://kaigodb.com/jigyousho/1372204105-110/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "立石エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あさひ介護センター",
+      "telephone": "03-3826-4188",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "東金町３－１９－６　本山ビル１階"
+      },
+      "parentOrganization": "有限会社あさひ介護センター",
+      "identifier": "1372204113",
+      "_town": "東金町",
+      "_kind": "営利法人",
+      "url": "https://asahi-care.jp/",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "東金町エリア",
         "訪問介護"
       ]
     },
@@ -652,6 +1555,33 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "居宅介護サービス　アイビー",
+      "telephone": "03-3691-9179",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "立石２－７－１１　リグランド京成立石１０２号室"
+      },
+      "parentOrganization": "株式会社アイビー",
+      "identifier": "1372204352",
+      "_town": "立石",
+      "_kind": "営利法人",
+      "url": "https://www.ivy-ivy.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "立石エリア",
+        "土曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "介護の要さん",
       "telephone": "03-3600-2240",
       "address": {
@@ -673,6 +1603,61 @@
       ],
       "_tags": [
         "南水元エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社かなまち介護センター",
+      "telephone": "03-5648-3901",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "東金町５－１５－１１　丸竹マンション１０２号室"
+      },
+      "parentOrganization": "株式会社かなまち介護センター",
+      "identifier": "1372204394",
+      "_town": "東金町",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "東金町エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ニチイケアセンター青戸",
+      "telephone": "03-5654-8341",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "青戸１－９－１０　かめしんビル１０１"
+      },
+      "parentOrganization": "株式会社ニチイ学館",
+      "identifier": "1372204428",
+      "_town": "青戸",
+      "_kind": "営利法人",
+      "url": "http://www.nichiigakkan.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "青戸エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -707,6 +1692,30 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ケア２１　新小岩",
+      "telephone": "03-5672-4331",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "東新小岩１－５－１５　ＭＫ第２ビル１階"
+      },
+      "parentOrganization": "株式会社ケア２１",
+      "identifier": "1372204451",
+      "_town": "東新小岩",
+      "_kind": "営利法人",
+      "url": "http://www.care21.co.jp",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "東新小岩エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "癒しのヘルパーステーション葛飾",
       "telephone": "03-5672-2642",
       "address": {
@@ -735,6 +1744,62 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ソレイユケアサービス",
+      "telephone": "03-5671-2940",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "立石５－２２－７太陽ビル１階"
+      },
+      "parentOrganization": "特定非営利活動法人シティウイング",
+      "identifier": "1372204659",
+      "_town": "立石",
+      "_kind": "非営利法人（NPO）",
+      "url": "http://www.city-wing.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "立石エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケア２１　金町",
+      "telephone": "03-3826-2091",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "東金町１－２１－１０ライオンズ笠原ビル２階"
+      },
+      "parentOrganization": "株式会社ケア２１",
+      "identifier": "1372204741",
+      "_town": "東金町",
+      "_kind": "営利法人",
+      "url": "http://www.care21.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "東金町エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "喜楽里・けあ",
       "telephone": "03-5671-3955",
       "address": {
@@ -750,6 +1815,33 @@
       "_kind": "営利法人",
       "_tags": [
         "立石エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ホームヘルプ　マメール",
+      "telephone": "03-5876-3286",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "東金町１－２７－１０金町マンション５００号室"
+      },
+      "parentOrganization": "株式会社マメール",
+      "identifier": "1372204907",
+      "_town": "東金町",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "東金町エリア",
+        "日曜日も対応",
         "訪問介護"
       ]
     },
@@ -777,6 +1869,54 @@
       "_tags": [
         "青戸エリア",
         "土曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アースサポート葛飾",
+      "telephone": "03-3695-7401",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "宝町２－１９－６"
+      },
+      "parentOrganization": "アースサポート株式会社",
+      "identifier": "1372205151",
+      "_town": "宝町",
+      "_kind": "営利法人",
+      "_tags": [
+        "宝町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアサービスきりん青砥",
+      "telephone": "03-6662-9448",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "青戸４－２１－６"
+      },
+      "parentOrganization": "株式会社リガード",
+      "identifier": "1372205193",
+      "_town": "青戸",
+      "_kind": "営利法人",
+      "url": "http://kirin2007.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "青戸エリア",
+        "日曜日も対応",
         "訪問介護"
       ]
     },
@@ -810,6 +1950,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "フルール細田　ケアセンター",
+      "telephone": "03-5889-8732",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "細田１－１６－９"
+      },
+      "parentOrganization": "スミカフルール・ケア株式会社",
+      "identifier": "1372205706",
+      "_town": "細田",
+      "_kind": "営利法人",
+      "url": "http://smica-fleur.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "細田エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ハーツ・ケア",
       "telephone": "03-6240-7841",
       "address": {
@@ -828,6 +1996,61 @@
       ],
       "_tags": [
         "西亀有エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケア２１　お花茶屋",
+      "telephone": "03-5629-6121",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "お花茶屋１－１２－１４第一久松ビル１階"
+      },
+      "parentOrganization": "株式会社ケア２１",
+      "identifier": "1372205912",
+      "_town": "お花茶屋",
+      "_kind": "営利法人",
+      "url": "http://www.care21.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "お花茶屋エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "学研ココファン水元ヘルパーセンター",
+      "telephone": "03-5660-7050",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "水元４－５－１"
+      },
+      "parentOrganization": "株式会社学研ココファン",
+      "identifier": "1372205995",
+      "_town": "水元",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "水元エリア",
+        "日曜日も対応",
         "訪問介護"
       ]
     },
@@ -855,6 +2078,60 @@
       ],
       "_tags": [
         "新小岩エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アキケアサービス",
+      "telephone": "03-3696-3948",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "東新小岩７－１９－３"
+      },
+      "parentOrganization": "合同会社安藝",
+      "identifier": "1372206084",
+      "_town": "東新小岩",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "東新小岩エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問介護　太陽",
+      "telephone": "03-6662-4111",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "小菅１－２７－５"
+      },
+      "parentOrganization": "株式会社アーサ",
+      "identifier": "1372206100",
+      "_town": "小菅",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "小菅エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -889,6 +2166,26 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "亀青介護サービス",
+      "telephone": "03-5849-3606",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "亀有５－６０－２コーポ森２０２号室"
+      },
+      "parentOrganization": "合同会社オーバービレッジ",
+      "identifier": "1372206266",
+      "_town": "亀有",
+      "_kind": "営利法人",
+      "_tags": [
+        "亀有エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ミアヘルサ　ホームヘルプ東新小岩",
       "telephone": "03-5654-7465",
       "address": {
@@ -911,6 +2208,61 @@
       ],
       "_tags": [
         "東新小岩エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ルピナス訪問介護",
+      "telephone": "03-6662-7031",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "亀有１－２６－２４ムーンマリコ５－１０５"
+      },
+      "parentOrganization": "株式会社ルピナス",
+      "identifier": "1372206423",
+      "_town": "亀有",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "亀有エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "コンフォートケアサービスセンター新柴又",
+      "telephone": "03-5612-1771",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "柴又５－８－１３"
+      },
+      "parentOrganization": "株式会社コンフォート",
+      "identifier": "1372206589",
+      "_town": "柴又",
+      "_kind": "営利法人",
+      "url": "http://www.conffort.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "柴又エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -945,6 +2297,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ケアリッツ亀有",
+      "telephone": "03-6662-9255",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "亀有４－１９－４カトウビル１階"
+      },
+      "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
+      "identifier": "1372206712",
+      "_town": "亀有",
+      "_kind": "営利法人",
+      "url": "https://www.careritz.co.jp/station/branch/kameari/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "亀有エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "アシアム",
       "telephone": "03-5654-6354",
       "address": {
@@ -967,6 +2347,54 @@
       ],
       "_tags": [
         "四つ木エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヘルパーステーション和",
+      "telephone": "03-3600-3677",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "新宿５－１４－１"
+      },
+      "parentOrganization": "Ｐ．Ｓ．株式会社",
+      "identifier": "1372207249",
+      "_town": "新宿",
+      "_kind": "営利法人",
+      "_tags": [
+        "新宿エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "花しょうぶ訪問介護事業所",
+      "telephone": "03-6356-5630",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "西亀有２－３２－１８"
+      },
+      "parentOrganization": "合同会社みやざきケアプランニング",
+      "identifier": "1372207314",
+      "_town": "西亀有",
+      "_kind": "営利法人",
+      "url": "http://hanasiyoubu.life.coocan.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "西亀有エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -1001,6 +2429,26 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ファミリーサポートセンターもも",
+      "telephone": "03-5660-7601",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "東金町３－２１－５"
+      },
+      "parentOrganization": "合資会社ファミリーサポートセンターもも",
+      "identifier": "1372207454",
+      "_town": "東金町",
+      "_kind": "営利法人",
+      "_tags": [
+        "東金町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問介護事業所ハートフル葛飾",
       "telephone": "03-6657-8718",
       "address": {
@@ -1023,6 +2471,59 @@
       "_tags": [
         "高砂エリア",
         "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ツルガ・立石店",
+      "telephone": "03-5875-7225",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "東立石４－２５－１０南雲マンション１０１"
+      },
+      "parentOrganization": "株式会社ツルガ",
+      "identifier": "1372207603",
+      "_town": "東立石",
+      "_kind": "営利法人",
+      "url": "https://tsuruga-care.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "東立石エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヘルパーステーション　デュオハート",
+      "telephone": "03-5876-3385",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "東金町１－３８－６宇羽野ビル５階"
+      },
+      "parentOrganization": "株式会社ウッディ",
+      "identifier": "1372207686",
+      "_town": "東金町",
+      "_kind": "営利法人",
+      "url": "http://homonkango-heart.com/corporate/index.html",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "東金町エリア",
         "訪問介護"
       ]
     },
@@ -1056,6 +2557,26 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "あい・ケアサービス",
+      "telephone": "03-5654-6147",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "堀切５－１９－１山本ビル１Ｆ"
+      },
+      "parentOrganization": "株式会社ケイアンドケイ",
+      "identifier": "1372207710",
+      "_town": "堀切",
+      "_kind": "営利法人",
+      "_tags": [
+        "堀切エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ケアステーションスマイル",
       "telephone": "03-6657-7217",
       "address": {
@@ -1077,6 +2598,54 @@
       ],
       "_tags": [
         "四つ木エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "Ｎｏｃｅ",
+      "telephone": "03-6801-7315",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "高砂５－５４－３"
+      },
+      "parentOrganization": "エクセルアロウズ株式会社",
+      "identifier": "1372207843",
+      "_town": "高砂",
+      "_kind": "営利法人",
+      "_tags": [
+        "高砂エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ウィズ・ユー葛飾",
+      "telephone": "03-6662-6962",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "お花茶屋１－２０－５"
+      },
+      "parentOrganization": "株式会社春",
+      "identifier": "1372207868",
+      "_town": "お花茶屋",
+      "_kind": "営利法人",
+      "url": "http://halmed.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "お花茶屋エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -1111,6 +2680,62 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ケアリッツ金町",
+      "telephone": "03-5876-6288",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "東金町３－９－３シャトーテル１階"
+      },
+      "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
+      "identifier": "1372208122",
+      "_town": "東金町",
+      "_kind": "営利法人",
+      "url": "https://www.careritz.co.jp/station/branch/kanamachi/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "東金町エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "つなぐ介護かつしか",
+      "telephone": "03-6458-0208",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "細田３－２７－１０"
+      },
+      "parentOrganization": "株式会社つなぐケア",
+      "identifier": "1372208155",
+      "_town": "細田",
+      "_kind": "営利法人",
+      "url": "https://tsunagucare.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "細田エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "グランフレア金町",
       "telephone": "03-5876-0888",
       "address": {
@@ -1133,6 +2758,34 @@
       ],
       "_tags": [
         "金町エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ウェルフォース訪問介護ステーション",
+      "telephone": "03-6662-5285",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "白鳥２－１０－７"
+      },
+      "parentOrganization": "株式会社ウェルフォース",
+      "identifier": "1372208288",
+      "_town": "白鳥",
+      "_kind": "営利法人",
+      "url": "https://elsol-group.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "白鳥エリア",
         "日曜日も対応",
         "訪問介護"
       ]
@@ -1167,6 +2820,61 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "マイケアプラン",
+      "telephone": "03-5856-3041",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "亀有５－２６－３"
+      },
+      "parentOrganization": "誠心合同会社",
+      "identifier": "1372208346",
+      "_town": "亀有",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "亀有エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアリッツ高砂",
+      "telephone": "03-6231-3921",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "高砂５－４４－１田辺ビル１階"
+      },
+      "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
+      "identifier": "1372208353",
+      "_town": "高砂",
+      "_kind": "営利法人",
+      "url": "https://www.careritz.co.jp/station/branch/takasago/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "高砂エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ニチイライフケア柴又ヘルパーステーション",
       "telephone": "03-6458-9645",
       "address": {
@@ -1190,6 +2898,30 @@
       "_tags": [
         "柴又エリア",
         "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "くるみ介護サービス",
+      "telephone": "03-5876-9823",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "水元４－２６－１３　２階"
+      },
+      "parentOrganization": "株式会社小次郎",
+      "identifier": "1372208411",
+      "_town": "水元",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "水元エリア",
         "訪問介護"
       ]
     },
@@ -1223,6 +2955,61 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ツクイ葛飾新小岩",
+      "telephone": "03-5654-1400",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "東新小岩３－１４－１０"
+      },
+      "parentOrganization": "株式会社ツクイ",
+      "identifier": "1372208502",
+      "_town": "東新小岩",
+      "_kind": "営利法人",
+      "url": "https://www.tsukui.net",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "東新小岩エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "なないろケア",
+      "telephone": "03-5875-6441",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "西新小岩４－４０－２０マンションサンエイドＡ２０２号"
+      },
+      "parentOrganization": "合同会社なないろ",
+      "identifier": "1372208635",
+      "_town": "西新小岩",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "西新小岩エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "アローズケア訪問介護事業所",
       "telephone": "09091469068",
       "address": {
@@ -1242,6 +3029,34 @@
       ],
       "_tags": [
         "宝町エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "エヌサポート葛飾",
+      "telephone": "03-5876-5841",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "金町３－２６－５－１０１コーポ８８"
+      },
+      "parentOrganization": "株式会社エヌサポート",
+      "identifier": "1372208692",
+      "_town": "金町",
+      "_kind": "営利法人",
+      "url": "https://nskatsushika.wixsite.com/website",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "金町エリア",
+        "日曜日も対応",
         "訪問介護"
       ]
     },
@@ -1267,6 +3082,62 @@
       "_tags": [
         "亀有エリア",
         "土曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ティーエイチケアー介護サービス",
+      "telephone": "03-5648-5628",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "新宿５－７－２０メゾン東洋２０３"
+      },
+      "parentOrganization": "株式会社ティーエイチケアー介護サービス",
+      "identifier": "1372208734",
+      "_town": "新宿",
+      "_kind": "営利法人",
+      "url": "https://thk-kaigo.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "新宿エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ヘルパーステーションＬｉｅＮ高砂",
+      "telephone": "03-6231-3525",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "高砂７－３－１０"
+      },
+      "parentOrganization": "株式会社ＬｉｅＮ",
+      "identifier": "1372208759",
+      "_town": "高砂",
+      "_kind": "営利法人",
+      "url": "https://lien-g.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "高砂エリア",
+        "日曜日も対応",
         "訪問介護"
       ]
     },
@@ -1299,6 +3170,26 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "和楽　訪問介護ステーション",
+      "telephone": "03-6240-7820",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "お花茶屋１－２０－８　２０１"
+      },
+      "parentOrganization": "株式会社和楽",
+      "identifier": "1372208809",
+      "_town": "お花茶屋",
+      "_kind": "営利法人",
+      "_tags": [
+        "お花茶屋エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ウィズ・ユー南水元訪問介護事業所",
       "telephone": "03-6802-6253",
       "address": {
@@ -1314,6 +3205,54 @@
       "_kind": "営利法人",
       "_tags": [
         "南水元エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "Ｍａｈａｎａケア　訪問介護サービス",
+      "telephone": "03-6770-7626",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "西新小岩５－２１－３"
+      },
+      "parentOrganization": "株式会社Ｍａｈａｎａケア",
+      "identifier": "1372208858",
+      "_town": "西新小岩",
+      "_kind": "営利法人",
+      "_tags": [
+        "西新小岩エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ミモザヘルパーステーション葛飾奥戸",
+      "telephone": "03-5654-9565",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "奥戸７－１６－８"
+      },
+      "parentOrganization": "ミモザ株式会社",
+      "identifier": "1372208874",
+      "_town": "奥戸",
+      "_kind": "営利法人",
+      "url": "https://www.mimoza-care.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "奥戸エリア",
+        "日曜日も対応",
         "訪問介護"
       ]
     },
@@ -1347,6 +3286,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "訪問介護　ケアミー",
+      "telephone": "03-5876-9651",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "東金町２－５－６ＳＴ．ロイヤルマンション　１０１号室"
+      },
+      "parentOrganization": "株式会社ケアミー介護",
+      "identifier": "1372208924",
+      "_town": "東金町",
+      "_kind": "営利法人",
+      "url": "https://care-me-2.jimdosite.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "東金町エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ヘルパーステーションあろはな",
       "telephone": "03-6662-8160",
       "address": {
@@ -1374,6 +3341,62 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "エルケア青戸ケアセンター",
+      "telephone": "03-6662-4505",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "青戸３－４１－１１和光ビル１階１号"
+      },
+      "parentOrganization": "エルケア株式会社",
+      "identifier": "1372209104",
+      "_town": "青戸",
+      "_kind": "営利法人",
+      "url": "http://l-care.jp/office/kaigo_other.html",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "青戸エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "わかばケアセンター立石",
+      "telephone": "03-6662-8364",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "立石３－３１－８"
+      },
+      "parentOrganization": "株式会社わかばケアセンター",
+      "identifier": "1372209112",
+      "_town": "立石",
+      "_kind": "営利法人",
+      "url": "https://wakaba-care.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "立石エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "しらゆりステーション",
       "telephone": "03-5654-7364",
       "address": {
@@ -1394,6 +3417,57 @@
       "_tags": [
         "堀切エリア",
         "土曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "なつ訪問介護",
+      "telephone": "03-5876-3972",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "東水元５－３７－２"
+      },
+      "parentOrganization": "株式会社ＮＡＴＳＵ",
+      "identifier": "1372209146",
+      "_town": "東水元",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "東水元エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＡＩ訪問介護事業所",
+      "telephone": "03-6231-2815",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "亀有３－２－５ラ・プリエ１０３号室"
+      },
+      "parentOrganization": "株式会社ＡＩ",
+      "identifier": "1372209153",
+      "_town": "亀有",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "亀有エリア",
         "訪問介護"
       ]
     },
@@ -1426,6 +3500,33 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ＳＨＩＮＣかつしか",
+      "telephone": "03-6458-0712",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "高砂２－１４－２"
+      },
+      "parentOrganization": "株式会社ＳＨＩＮＣ",
+      "identifier": "1372209203",
+      "_town": "高砂",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "高砂エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "訪問介護　一瞬",
       "telephone": "03-5856-1440",
       "address": {
@@ -1444,6 +3545,61 @@
       ],
       "_tags": [
         "亀有エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あしたも笑顔ホームケアサービス",
+      "telephone": "03-5876-6747",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "新宿５－７－２０リバーサイド新宿1Ｆ"
+      },
+      "parentOrganization": "シンビオシス株式会社",
+      "identifier": "1372209245",
+      "_town": "新宿",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "新宿エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアリッツ四つ木",
+      "telephone": "03-5654-6925",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "四つ木３－９－１ルーベンス２０２"
+      },
+      "parentOrganization": "株式会社ケアリッツ・アンド・パートナーズ",
+      "identifier": "1372209278",
+      "_town": "四つ木",
+      "_kind": "営利法人",
+      "url": "https://www.careritz.co.jp/station/branch/yotsugi/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "四つ木エリア",
+        "日曜日も対応",
         "訪問介護"
       ]
     },
@@ -1476,6 +3632,30 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ケアステーション　ベア",
+      "telephone": "03-4296-1550",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "堀切７－１５－８"
+      },
+      "parentOrganization": "株式会社ワイアンドエム",
+      "identifier": "1372209310",
+      "_town": "堀切",
+      "_kind": "営利法人",
+      "url": "https://www.caretbear.com",
+      "_days": [
+        "平日"
+      ],
+      "_tags": [
+        "堀切エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ソワン訪問介護センター２",
       "telephone": "07064000278",
       "address": {
@@ -1494,6 +3674,61 @@
       ],
       "_tags": [
         "青戸エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアステーション皆信",
+      "telephone": "03-6657-8086",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "高砂２－４－１８ボヌールアカネ２０１号室"
+      },
+      "parentOrganization": "株式会社ｗｅｌＳＯＬ",
+      "identifier": "1372209369",
+      "_town": "高砂",
+      "_kind": "営利法人",
+      "url": "https://welsol.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "高砂エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "訪問介護ステーションおにぎり",
+      "telephone": "03-6231-3323",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "東水元５－１１－８　２階"
+      },
+      "parentOrganization": "ウコウコヤオ株式会社",
+      "identifier": "1372209385",
+      "_town": "東水元",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "東水元エリア",
+        "日曜日も対応",
         "訪問介護"
       ]
     },
@@ -1522,6 +3757,26 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "Ｃａｒｅ１ｓｔ",
+      "telephone": "03-6662-6157",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "亀有２－６７－１１　１０３号室"
+      },
+      "parentOrganization": "株式会社Ｃａｒｅ１ｓｔ",
+      "identifier": "1372209476",
+      "_town": "亀有",
+      "_kind": "営利法人",
+      "_tags": [
+        "亀有エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "鶴亀訪問介護くをん",
       "telephone": "03-5607-7033",
       "address": {
@@ -1536,6 +3791,60 @@
       "_town": "新小岩",
       "_kind": "営利法人",
       "url": "https://www.tatsuto.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "新小岩エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "アムールリアン訪問介護事業所",
+      "telephone": "03-5672-9201",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "柴又１－５－１２"
+      },
+      "parentOrganization": "株式会社ＲＨ",
+      "identifier": "1372209609",
+      "_town": "柴又",
+      "_kind": "営利法人",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "柴又エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "Ｒａｋｕｅ新小岩",
+      "telephone": "03-5879-9037",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "新小岩２－３１－４　１階"
+      },
+      "parentOrganization": "ソラノニジ株式会社",
+      "identifier": "1372209674",
+      "_town": "新小岩",
+      "_kind": "営利法人",
       "_days": [
         "平日",
         "土曜日",
@@ -1570,6 +3879,26 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "メディカルステーション",
+      "telephone": "03-6662-7520",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "青戸５－１４－８ファミーユ小池１０５"
+      },
+      "parentOrganization": "医療法人社団淳友会",
+      "identifier": "1372209716",
+      "_town": "青戸",
+      "_kind": "医療法人",
+      "_tags": [
+        "青戸エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "水元ファインライフ",
       "telephone": "03-3627-8151",
       "address": {
@@ -1585,6 +3914,46 @@
       "_kind": "医療法人",
       "_tags": [
         "水元エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ひだまり結庵　青砥店",
+      "telephone": "05036463860",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "青戸５－２５－１０サクスィード３０１"
+      },
+      "parentOrganization": "株式会社エムシーツー",
+      "identifier": "1372209757",
+      "_town": "青戸",
+      "_kind": "営利法人",
+      "_tags": [
+        "青戸エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "あい訪問介護事業所",
+      "telephone": "03-5654-6937",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "宝町２－３０－９－１０１山田ビル"
+      },
+      "parentOrganization": "Ｈｅａｒｔ合同会社",
+      "identifier": "1372209765",
+      "_town": "宝町",
+      "_kind": "営利法人",
+      "_tags": [
+        "宝町エリア",
         "訪問介護"
       ]
     },
@@ -1607,6 +3976,54 @@
         "西水元エリア",
         "訪問介護"
       ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ライズケア",
+      "telephone": "09043359183",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "奥戸３－３－１１白根荘２階１０号"
+      },
+      "parentOrganization": "株式会社ライズ・コーポレーション",
+      "identifier": "1372209781",
+      "_town": "奥戸",
+      "_kind": "営利法人",
+      "_tags": [
+        "奥戸エリア",
+        "訪問介護"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "タウンケア",
+      "telephone": "03-6662-8456",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "立石６－２７－４"
+      },
+      "parentOrganization": "株式会社マイルストーン",
+      "identifier": "1372305647",
+      "_town": "立石",
+      "_kind": "営利法人",
+      "url": "https://tc-milestone.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "立石エリア",
+        "日曜日も対応",
+        "訪問介護"
+      ]
     }
   ],
   "faq": [
@@ -1616,7 +4033,7 @@
     },
     {
       "q": "葛飾区には訪問介護事業所が何件ありますか？",
-      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で葛飾区内に153件の訪問介護事業所が指定を受けています。本ページではそのうち60件を連絡先つきで掲載しています。全件は厚生労働省「介護サービス情報公表システム」で確認できます。"
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で葛飾区内に153件の訪問介護事業所が指定を受けています。本ページでは153件すべてを連絡先つきで掲載しています。最新の指定状況は厚生労働省「介護サービス情報公表システム」でも確認できます。"
     },
     {
       "q": "葛飾区の担当窓口は、どうやって調べればいいですか？",
@@ -1624,7 +4041,7 @@
     },
     {
       "q": "葛飾区の掲載事業所は、どこを見て絞り込めばいいですか？",
-      "a": "上の内訳表が目安になります。日曜にもヘルパーに来てほしい場合は42件、土曜まででよければ48件が対象です。そのうえで、ご自宅の町名を伝えて対応エリアに入っているかを確認するのが確実です。曜日はサービスを提供する日で、事務所の電話がつながる時間帯とは別です。"
+      "a": "上の内訳表が目安になります。日曜にもヘルパーに来てほしい場合は106件、土曜まででよければ114件が対象です。そのうえで、ご自宅の町名を伝えて対応エリアに入っているかを確認するのが確実です。曜日はサービスを提供する日で、事務所の電話がつながる時間帯とは別です。"
     }
   ],
   "related": "<a href=\"{{ROOT}}houmon-kango/tokyo/katsushika/\">葛飾区の訪問看護<small>医療ケアが必要な方へ・区内66件</small></a>\n      <a href=\"{{ROOT}}day-service/tokyo/katsushika/\">葛飾区のデイサービス<small>日帰りで通う・区内71件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/katsushika/\">葛飾区のショートステイ<small>数日あずける・区内25件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/katsushika/\">葛飾区の福祉用具<small>借りる・買う・区内31件</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/katsushika/\">葛飾区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/katsushika/\">葛飾区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",

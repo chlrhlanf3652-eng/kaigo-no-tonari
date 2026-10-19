@@ -12,19 +12,19 @@
     "city_name": "足立区"
   },
   "seo": {
-    "title": "足立区のデイサービス一覧（60件）｜日曜対応6件・定員と送迎",
-    "description": "足立区の通所介護（デイサービス）事業所60件を、電話番号・地図つきで一覧にしました。日曜も通える事業所は6件、土曜まで含めると43件。定員の内訳も示しました。区内107件の中から選ぶための所在町域・運営法人・開設年数の内訳と、1級地での自己負担、見学で聞くことをまとめました。",
+    "title": "足立区のデイサービス一覧（全107件）｜日曜対応13件・定員と送迎",
+    "description": "足立区の通所介護（デイサービス）事業所107件すべてを、電話番号・地図つきで一覧にしました。日曜も通える事業所は13件、土曜まで含めると81件。定員の内訳も示しました。区内107件の中から選ぶための所在町域・運営法人・開設年数の内訳と、1級地での自己負担、見学で聞くことをまとめました。",
     "canonical": "https://kaigonotonari.com/day-service/tokyo/adachi/",
     "og_title": "足立区のデイサービス一覧｜送迎範囲と費用の見方",
-    "og_description": "足立区の通所介護事業所60件を掲載。送迎範囲・入浴設備・開設年数から選ぶ順番と、保険外費用を含めた費用の見方を解説します。",
+    "og_description": "足立区の通所介護事業所全107件を掲載。送迎範囲・入浴設備・開設年数から選ぶ順番と、保険外費用を含めた費用の見方を解説します。",
     "og_image": "https://kaigonotonari.com/assets/ogp-day-service.jpg"
   },
   "h1": "足立区のデイサービス一覧｜送迎範囲と費用の見方",
   "published": "2026-09-22",
   "modified": "2026-09-22",
-  "count_label": "掲載：60事業所",
-  "lead": "東京都足立区で通所介護（デイサービス）を探している方へ。東京都の指定を受けた107件から60件を電話番号・地図つきで掲載し、所在町域・運営法人・開設からの年数の内訳と、1級地での自己負担をまとめました。デイサービスでいちばん多い壁は<strong>本人が行きたがらないこと</strong>です。選ぶ順番は近い順ではなく、通い続けられる条件の順になります。",
-  "listing_note": "足立区内の通所介護事業所から60件を掲載しています（東京都公表・2026年9月1日時点）。区内には107件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。定員18人以下の地域密着型通所介護は区が指定するため、この一覧には含まれていません。掲載順は事業所の優劣を示すものではありません。",
+  "count_label": "掲載：107事業所",
+  "lead": "東京都足立区で通所介護（デイサービス）を探している方へ。東京都の指定を受けた107件すべてを電話番号・地図つきで掲載し、所在町域・運営法人・開設からの年数の内訳と、1級地での自己負担をまとめました。デイサービスでいちばん多い壁は<strong>本人が行きたがらないこと</strong>です。選ぶ順番は近い順ではなく、通い続けられる条件の順になります。",
+  "listing_note": "足立区内で指定を受けている通所介護事業所107件をすべて掲載しています（東京都公表・2026年9月1日時点）。区内には107件が指定を受けており、そのすべてを掲載しています。定員18人以下の地域密着型通所介護は区が指定するため、この一覧には含まれていません。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
@@ -90,6 +90,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "足立区さのデイ・サービスセンター",
+      "telephone": "03-5682-0657",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "佐野２－３０－１２"
+      },
+      "parentOrganization": "社会福祉法人東京蒼生会",
+      "identifier": "1372101475",
+      "_town": "佐野",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-03-01",
+      "_years": 26.559890485968516,
+      "url": "http://www.t-souseikai.or.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "佐野エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "足立区日の出デイ・サービスセンター",
       "telephone": "03-3870-1121",
       "address": {
@@ -120,6 +150,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "デイサービスセンター扇",
+      "telephone": "03-3856-1144",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "扇一丁目５２番２３号"
+      },
+      "parentOrganization": "社会福祉法人聖風会",
+      "identifier": "1372101517",
+      "_town": "扇",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-03-01",
+      "_years": 26.559890485968516,
+      "url": "http://www.seifuukai.or.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "扇エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "社会福祉法人　愛寿会　西綾瀬在宅サービスセンター",
       "telephone": "03-5681-2020",
       "address": {
@@ -143,6 +203,36 @@
       ],
       "_tags": [
         "西綾瀬エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "社会福祉法人　愛寿会　紫磨園在宅サービスセンター",
+      "telephone": "03-3857-8419",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "入谷３－３－６"
+      },
+      "parentOrganization": "社会福祉法人愛寿会",
+      "identifier": "1372101533",
+      "_town": "入谷",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2000-03-01",
+      "_years": 26.559890485968516,
+      "url": "http://www.aijukai.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "入谷エリア",
         "土曜日も営業",
         "20年以上",
         "デイサービス"
@@ -212,6 +302,35 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "こまどりデイサービスセンター",
+      "telephone": "03-5647-1505",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "西伊興４－７－２１"
+      },
+      "parentOrganization": "医療法人社団福寿会",
+      "identifier": "1372101764",
+      "_town": "西伊興",
+      "_kind": "医療法人",
+      "_designated": "2000-04-01",
+      "_years": 26.47501711156742,
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "西伊興エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "デイサービスセンターさくら",
       "telephone": "03-5691-7150",
       "address": {
@@ -235,6 +354,35 @@
       ],
       "_tags": [
         "皿沼エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスきたがわ",
+      "telephone": "03-5813-2300",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "千住橋戸町３４－１"
+      },
+      "parentOrganization": "株式会社ブルーミア",
+      "identifier": "1372102127",
+      "_town": "千住橋戸町",
+      "_kind": "営利法人",
+      "_designated": "2000-09-01",
+      "_years": 26.05612594113621,
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "千住橋戸町エリア",
         "土曜日も営業",
         "20年以上",
         "デイサービス"
@@ -272,6 +420,37 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "高齢者在宅サービスセンターはごろも",
+      "telephone": "03-5837-8910",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "西新井５－３４－１"
+      },
+      "parentOrganization": "社会福祉法人互恵会",
+      "identifier": "1372102341",
+      "_town": "西新井",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2001-05-01",
+      "_years": 25.39356605065024,
+      "url": "http://www.gokeikai.or.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 40,
+      "_tags": [
+        "西新井エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ウエルガーデン　伊興園",
       "telephone": "03-5691-9501",
       "address": {
@@ -295,6 +474,36 @@
       ],
       "_tags": [
         "伊興エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "イーストピア東和",
+      "telephone": "03-5613-1230",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "東和４－７－２３"
+      },
+      "parentOrganization": "社会福祉法人健修会",
+      "identifier": "1372102549",
+      "_town": "東和",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2001-11-01",
+      "_years": 24.889801505817932,
+      "url": "http://kenshukai.kir.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "東和エリア",
         "土曜日も営業",
         "20年以上",
         "デイサービス"
@@ -363,6 +572,37 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "高齢者在宅サービスセンター　西新井",
+      "telephone": "03-5837-5131",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "西新井２－５－５"
+      },
+      "parentOrganization": "社会福祉法人西新井だいわ会",
+      "identifier": "1372103414",
+      "_town": "西新井",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2003-04-01",
+      "_years": 23.477070499657767,
+      "url": "http://www.nishiaraidaiwakai.or.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 54,
+      "_tags": [
+        "西新井エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ツクイ足立西新井",
       "telephone": "03-5839-3535",
       "address": {
@@ -395,6 +635,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "デイサービス　ソラスト竹ノ塚",
+      "telephone": "03-5831-6411",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "竹の塚１－３０－２０泰尚ビル３階"
+      },
+      "parentOrganization": "株式会社ソラスト",
+      "identifier": "1372104008",
+      "_town": "竹の塚",
+      "_kind": "営利法人",
+      "_designated": "2004-03-01",
+      "_years": 22.559890485968516,
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 40,
+      "_tags": [
+        "竹の塚エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ケアセンターつどい　谷中",
       "telephone": "03-5613-8332",
       "address": {
@@ -419,6 +689,38 @@
       "_tags": [
         "谷中エリア",
         "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ツクイ足立佐野",
+      "telephone": "03-5673-3960",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "佐野１－３３－７"
+      },
+      "parentOrganization": "株式会社ツクイ",
+      "identifier": "1372104321",
+      "_town": "佐野",
+      "_kind": "営利法人",
+      "_designated": "2004-08-01",
+      "_years": 22.140999315537304,
+      "url": "https://www.tsukui.net",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_capacity": 30,
+      "_tags": [
+        "佐野エリア",
+        "日曜日も営業",
         "20年以上",
         "デイサービス"
       ]
@@ -486,6 +788,35 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "老人デイサービスセンタープレミア扇",
+      "telephone": "03-3890-3333",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "扇一丁目３番５号"
+      },
+      "parentOrganization": "社会福祉法人白寿会",
+      "identifier": "1372105344",
+      "_town": "扇",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2006-02-01",
+      "_years": 20.637919233401778,
+      "url": "http://www.100.or.jp",
+      "_days": [
+        "平日",
+        "土曜日"
+      ],
+      "_tags": [
+        "扇エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "デイサービスセンターハピネスあだち",
       "telephone": "03-5839-1560",
       "address": {
@@ -509,6 +840,37 @@
       ],
       "_tags": [
         "江北エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスわかば平野",
+      "telephone": "03-5686-2263",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "平野２－８－２"
+      },
+      "parentOrganization": "株式会社わかばケアセンター",
+      "identifier": "1372105500",
+      "_town": "平野",
+      "_kind": "営利法人",
+      "_designated": "2006-05-01",
+      "_years": 20.39425051334702,
+      "url": "http://wakaba-care.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 5,
+      "_tags": [
+        "平野エリア",
         "土曜日も営業",
         "20年以上",
         "デイサービス"
@@ -547,6 +909,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "日介ケアセンター本木",
+      "telephone": "03-5845-5700",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "本木１－２０－５"
+      },
+      "parentOrganization": "株式会社日本介護センター",
+      "identifier": "1372106052",
+      "_town": "本木",
+      "_kind": "営利法人",
+      "_designated": "2006-11-01",
+      "_years": 19.890485968514717,
+      "url": "http://www.nikkai-center.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 33,
+      "_tags": [
+        "本木エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "百笑はるかぜ",
       "telephone": "03-3883-8918",
       "address": {
@@ -570,6 +962,36 @@
       "_capacity": 30,
       "_tags": [
         "東保木間エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンター朝日",
+      "telephone": "03-3880-6888",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "興野１－１８－１２"
+      },
+      "parentOrganization": "有限会社足立同胞サービス",
+      "identifier": "1372106334",
+      "_town": "興野",
+      "_kind": "営利法人",
+      "_designated": "2007-05-01",
+      "_years": 19.394934976043807,
+      "url": "http://hp.kaipoke.biz/6bx/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 30,
+      "_tags": [
+        "興野エリア",
+        "土曜日も営業",
         "デイサービス"
       ]
     },
@@ -631,6 +1053,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ケアセンターつどい足立入谷",
+      "telephone": "03-5647-3022",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "入谷１－２７－１８"
+      },
+      "parentOrganization": "メディカル・ケア・プランニング株式会社",
+      "identifier": "1372106441",
+      "_town": "入谷",
+      "_kind": "営利法人",
+      "_designated": "2007-06-01",
+      "_years": 19.310061601642712,
+      "url": "http://www.mcp-net.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 30,
+      "_tags": [
+        "入谷エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "株式会社ケアサービス　デイサービスセンターたくみ",
       "telephone": "03-5851-1580",
       "address": {
@@ -656,6 +1108,37 @@
       "_tags": [
         "南花畑エリア",
         "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ケアパートナー花畑",
+      "telephone": "03-3859-2838",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "南花畑１－１３－２０"
+      },
+      "parentOrganization": "ケアパートナー株式会社",
+      "identifier": "1372106474",
+      "_town": "南花畑",
+      "_kind": "営利法人",
+      "_designated": "2007-07-01",
+      "_years": 19.227926078028748,
+      "url": "http://www.care-partner.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_capacity": 60,
+      "_tags": [
+        "南花畑エリア",
+        "日曜日も営業",
         "デイサービス"
       ]
     },
@@ -691,6 +1174,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ジョイリハＳＰＡ北綾瀬",
+      "telephone": "03-5697-9151",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "谷中２－１０－１７　アイリスセゾン１階"
+      },
+      "parentOrganization": "株式会社ヤマウチ",
+      "identifier": "1372106714",
+      "_town": "谷中",
+      "_kind": "営利法人",
+      "_designated": "2007-12-01",
+      "_years": 18.809034907597535,
+      "url": "https://joyreha.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 35,
+      "_tags": [
+        "谷中エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "株式会社ケアサービス　デイサービスセンター江北",
       "telephone": "03-5838-2511",
       "address": {
@@ -715,6 +1228,36 @@
       "_capacity": 37,
       "_tags": [
         "江北エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "株式会社ケアサービス　デイサービスセンター西保木間",
+      "telephone": "03-5831-1091",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "西保木間１－２３－４"
+      },
+      "parentOrganization": "株式会社ケアサービス",
+      "identifier": "1372107118",
+      "_town": "西保木間",
+      "_kind": "営利法人",
+      "_designated": "2009-05-01",
+      "_years": 17.39356605065024,
+      "url": "http://www.care.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 33,
+      "_tags": [
+        "西保木間エリア",
         "土曜日も営業",
         "デイサービス"
       ]
@@ -778,6 +1321,35 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ミモザ大谷田",
+      "telephone": "03-5856-3691",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "大谷田１－１－３－１０２号"
+      },
+      "parentOrganization": "ミモザ株式会社",
+      "identifier": "1372107324",
+      "_town": "大谷田",
+      "_kind": "営利法人",
+      "_designated": "2009-09-01",
+      "_years": 17.05681040383299,
+      "url": "http://www.mimoza-care.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "大谷田エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ニチイケアセンター中川",
       "telephone": "03-5629-6721",
       "address": {
@@ -808,6 +1380,37 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ツクイ足立古千谷",
+      "telephone": "03-5838-2022",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "古千谷本町４－７－５"
+      },
+      "parentOrganization": "株式会社ツクイ",
+      "identifier": "1372107696",
+      "_town": "古千谷本町",
+      "_kind": "営利法人",
+      "_designated": "2010-08-01",
+      "_years": 16.142368240930868,
+      "url": "https://www.tsukui.net/home-care/2482",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_capacity": 57,
+      "_tags": [
+        "古千谷本町エリア",
+        "日曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "健遊館　大平湯",
       "telephone": "03-5888-3500",
       "address": {
@@ -832,6 +1435,35 @@
       "_capacity": 30,
       "_tags": [
         "青井エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ＳＨＩＢＵＹＡ　デイサービスセンター",
+      "telephone": "03-5809-4524",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "舎人６－２－１１"
+      },
+      "parentOrganization": "株式会社ＳＨＩＢＵＹＡ",
+      "identifier": "1372107894",
+      "_town": "舎人",
+      "_kind": "営利法人",
+      "_designated": "2011-02-01",
+      "_years": 15.638603696098563,
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 25,
+      "_tags": [
+        "舎人エリア",
         "土曜日も営業",
         "デイサービス"
       ]
@@ -896,6 +1528,37 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ツクイ足立弘道",
+      "telephone": "03-5845-5336",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "弘道１－２９－１"
+      },
+      "parentOrganization": "株式会社ツクイ",
+      "identifier": "1372108009",
+      "_town": "弘道",
+      "_kind": "営利法人",
+      "_designated": "2011-05-01",
+      "_years": 15.394934976043805,
+      "url": "http://www.tsukui.net",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_capacity": 45,
+      "_tags": [
+        "弘道エリア",
+        "日曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ベストリハ五反野",
       "telephone": "03-3880-1755",
       "address": {
@@ -920,6 +1583,34 @@
       "_capacity": 35,
       "_tags": [
         "足立エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンター　たのしいデイ　うめじま",
+      "telephone": "03-5845-5221",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "梅島２－３－１５岩立ビル１階"
+      },
+      "parentOrganization": "株式会社ケア２１",
+      "identifier": "1372108611",
+      "_town": "梅島",
+      "_kind": "営利法人",
+      "_designated": "2012-04-01",
+      "_years": 14.47501711156742,
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "梅島エリア",
         "土曜日も営業",
         "デイサービス"
       ]
@@ -956,6 +1647,35 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "デイサービスセンター　ケアサポートあだち",
+      "telephone": "03-5284-3865",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "千住河原町２２－３"
+      },
+      "parentOrganization": "ケアサポート株式会社",
+      "identifier": "1372108827",
+      "_town": "千住河原町",
+      "_kind": "営利法人",
+      "_designated": "2012-07-01",
+      "_years": 14.225872689938399,
+      "url": "http://www.care-support.biz",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "千住河原町エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "デイサービスきたえるーむ竹ノ塚",
       "telephone": "03-5856-4713",
       "address": {
@@ -978,6 +1698,28 @@
       "_capacity": 30,
       "_tags": [
         "六月エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "香夢デイサービス千住元町",
+      "telephone": "03-5284-4067",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "千住元町６－１ミヤカーサ元町１Ｆ"
+      },
+      "parentOrganization": "株式会社メディカル・ワン・アップ",
+      "identifier": "1372109205",
+      "_town": "千住元町",
+      "_kind": "営利法人",
+      "_designated": "2013-03-01",
+      "_years": 13.560574948665298,
+      "_tags": [
+        "千住元町エリア",
         "デイサービス"
       ]
     },
@@ -1043,6 +1785,35 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "きららデイサービス花畑",
+      "telephone": "03-5809-6051",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "南花畑４－１８－７"
+      },
+      "parentOrganization": "株式会社グッドスタッフ",
+      "identifier": "1372109429",
+      "_town": "南花畑",
+      "_kind": "営利法人",
+      "_designated": "2013-05-01",
+      "_years": 13.39356605065024,
+      "url": "https://kirara-kaigo.net",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "南花畑エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "癒しのデイサービス足立",
       "telephone": "03-5888-6548",
       "address": {
@@ -1073,6 +1844,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "デイサービスセンター　ピオーネ西新井",
+      "telephone": "03-6807-1213",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "西新井１－３３－１５"
+      },
+      "parentOrganization": "社会福祉法人桃山福祉会",
+      "identifier": "1372110005",
+      "_town": "西新井",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2014-03-01",
+      "_years": 12.56125941136208,
+      "url": "https://www.isto.or.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 40,
+      "_tags": [
+        "西新井エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "平成デイサービスセンター足立",
       "telephone": "03-3853-6800",
       "address": {
@@ -1097,6 +1898,36 @@
       "_capacity": 22,
       "_tags": [
         "入谷エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ドーミーＣａｒｅ　Ｌｅｖｉ亀有",
+      "telephone": "03-5613-8371",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "東和１－１７－２６"
+      },
+      "parentOrganization": "株式会社共立メンテナンス",
+      "identifier": "1372110641",
+      "_town": "東和",
+      "_kind": "営利法人",
+      "_designated": "2015-03-01",
+      "_years": 11.561943874058864,
+      "url": "http://www.dormy-senior.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 22,
+      "_tags": [
+        "東和エリア",
         "土曜日も営業",
         "デイサービス"
       ]
@@ -1161,6 +1992,37 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ケアパートナー西新井",
+      "telephone": "03-5837-1551",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "西新井４－２６－２１"
+      },
+      "parentOrganization": "ケアパートナー株式会社",
+      "identifier": "1372111094",
+      "_town": "西新井",
+      "_kind": "営利法人",
+      "_designated": "2015-10-01",
+      "_years": 10.976043805612594,
+      "url": "http://www.care-partner.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_capacity": 60,
+      "_tags": [
+        "西新井エリア",
+        "日曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "セカンドジムプラス　西新井",
       "telephone": "03-5647-5600",
       "address": {
@@ -1186,6 +2048,34 @@
       "_tags": [
         "西新井エリア",
         "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "フィットネスデイ　フェニックス梅島",
+      "telephone": "03-5888-6801",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "梅田７－１９－９"
+      },
+      "parentOrganization": "医療法人社団福寿会",
+      "identifier": "1372111896",
+      "_town": "梅田",
+      "_kind": "医療法人",
+      "_designated": "2017-05-01",
+      "_years": 9.39356605065024,
+      "url": "http://www.fukujukaigr.or.jp/",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_capacity": 20,
+      "_tags": [
+        "梅田エリア",
         "デイサービス"
       ]
     },
@@ -1220,6 +2110,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ベストリハ竹ノ塚",
+      "telephone": "03-3860-5007",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "竹の塚２－９－１トータス竹の塚１階"
+      },
+      "parentOrganization": "ベストリハ株式会社",
+      "identifier": "1372112357",
+      "_town": "竹の塚",
+      "_kind": "営利法人",
+      "_designated": "2018-07-01",
+      "_years": 8.227241615331964,
+      "url": "http://bestreha.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 50,
+      "_tags": [
+        "竹の塚エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "サンライズのデイサービス陽光",
       "telephone": "03-6807-2600",
       "address": {
@@ -1244,6 +2164,37 @@
       "_tags": [
         "西綾瀬エリア",
         "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービス桜花乃郷　足立江北",
+      "telephone": "03-6803-1098",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "江北４－５－４シャトー江北１階"
+      },
+      "parentOrganization": "株式会社おうかのさと",
+      "identifier": "1372112548",
+      "_town": "江北",
+      "_kind": "営利法人",
+      "_designated": "2018-10-01",
+      "_years": 7.975359342915811,
+      "url": "http://www.okanosato.com/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_capacity": 20,
+      "_tags": [
+        "江北エリア",
+        "日曜日も営業",
         "デイサービス"
       ]
     },
@@ -1306,6 +2257,35 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "デイサービス　ラスベガス足立",
+      "telephone": "03-5851-1870",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "島根１－１－８"
+      },
+      "parentOrganization": "日本シニアライフ株式会社",
+      "identifier": "1372112712",
+      "_town": "島根",
+      "_kind": "営利法人",
+      "_designated": "2019-02-01",
+      "_years": 7.638603696098563,
+      "url": "http://las-vegas.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "島根エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "デイホームゆりの木竹ノ塚",
       "telephone": "03-3885-7191",
       "address": {
@@ -1330,6 +2310,35 @@
       ],
       "_tags": [
         "竹の塚エリア",
+        "日曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービス桜花乃郷　足立五反野",
+      "telephone": "03-6807-2047",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "西綾瀬２－２０－１２ＭＹビル１階２階"
+      },
+      "parentOrganization": "株式会社おうかのさと",
+      "identifier": "1372112969",
+      "_town": "西綾瀬",
+      "_kind": "営利法人",
+      "_designated": "2019-09-01",
+      "_years": 7.058179329226557,
+      "_days": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "西綾瀬エリア",
         "日曜日も営業",
         "デイサービス"
       ]
@@ -1364,6 +2373,35 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "デイサービスわかば佐野",
+      "telephone": "03-5856-2645",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "佐野２－４３－８"
+      },
+      "parentOrganization": "株式会社わかばケアセンター",
+      "identifier": "1372113132",
+      "_town": "佐野",
+      "_kind": "営利法人",
+      "_designated": "2020-04-01",
+      "_years": 6.4750171115674195,
+      "url": "https://wakaba-care.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "佐野エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "コンパスウォーク保木間",
       "telephone": "03-5856-6649",
       "address": {
@@ -1387,6 +2425,32 @@
       "_capacity": 35,
       "_tags": [
         "保木間エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービス竹ノ塚　シャンティ",
+      "telephone": "03-5856-6325",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "竹の塚３－３－９"
+      },
+      "parentOrganization": "プルメリア訪問介護株式会社",
+      "identifier": "1372113173",
+      "_town": "竹の塚",
+      "_kind": "営利法人",
+      "_designated": "2020-05-01",
+      "_years": 6.392881587953457,
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "竹の塚エリア",
         "デイサービス"
       ]
     },
@@ -1448,6 +2512,35 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "レッツ倶楽部江北",
+      "telephone": "03-6316-7686",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "江北１－２０－９－１０１号"
+      },
+      "parentOrganization": "株式会社ａｅｅグループ",
+      "identifier": "1372113496",
+      "_town": "江北",
+      "_kind": "営利法人",
+      "_designated": "2021-04-01",
+      "_years": 5.475701574264202,
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 32,
+      "_tags": [
+        "江北エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ジョイリハプラス大師前",
       "telephone": "03-6806-3351",
       "address": {
@@ -1476,6 +2569,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "デイサービスまゆら本店",
+      "telephone": "03-5647-9511",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "西竹の塚２－１２－１６グランドソレイユ１階"
+      },
+      "parentOrganization": "ＡＬ１株式会社",
+      "identifier": "1372113520",
+      "_town": "西竹の塚",
+      "_kind": "営利法人",
+      "_designated": "2021-05-01",
+      "_years": 5.393566050650239,
+      "url": "https://al1jp.wordpress.com/",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_capacity": 30,
+      "_tags": [
+        "西竹の塚エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "クレア足立デイサービスセンター",
       "telephone": "03-5647-8050",
       "address": {
@@ -1499,6 +2620,34 @@
       "_tags": [
         "入谷エリア",
         "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "コンパスウォーク東和",
+      "telephone": "03-5856-3185",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "東和３－１８－２"
+      },
+      "parentOrganization": "株式会社フォー・ツリーズ",
+      "identifier": "1372113660",
+      "_town": "東和",
+      "_kind": "営利法人",
+      "_designated": "2021-10-01",
+      "_years": 4.974674880219028,
+      "url": "https://4trees.jp/service/care-work/",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_capacity": 200,
+      "_tags": [
+        "東和エリア",
         "デイサービス"
       ]
     },
@@ -1557,6 +2706,32 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "福寿江北",
+      "telephone": "03-5647-9159",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "江北４－１０ー１０"
+      },
+      "parentOrganization": "真心ケア合同会社",
+      "identifier": "1372114072",
+      "_town": "江北",
+      "_kind": "営利法人",
+      "_designated": "2023-05-01",
+      "_years": 3.3949349760438055,
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "江北エリア",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ヒューマンライフケア西新井",
       "telephone": "03-6853-5651",
       "address": {
@@ -1581,6 +2756,36 @@
       "_capacity": 23,
       "_tags": [
         "栗原エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "わくわく倶楽部等潤",
+      "telephone": "03-5851-0320",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "一ツ家４－２－１１"
+      },
+      "parentOrganization": "社会医療法人社団慈生会",
+      "identifier": "1372114221",
+      "_town": "一ツ家",
+      "_kind": "医療法人",
+      "_designated": "2023-09-01",
+      "_years": 3.058179329226557,
+      "url": "https://www.jiseikai-phcc.jp/tojun_hospital/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 45,
+      "_tags": [
+        "一ツ家エリア",
         "土曜日も営業",
         "デイサービス"
       ]
@@ -1617,6 +2822,35 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "デイサービスセンターロイヤル足立",
+      "telephone": "03-6807-1375",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "舎人３－１－１９"
+      },
+      "parentOrganization": "社会福祉法人愛心会",
+      "identifier": "1372114544",
+      "_town": "舎人",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2024-11-01",
+      "_years": 1.88911704312115,
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "舎人エリア",
+        "土曜日も営業",
+        "開設3年以内",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "デイサービスセンター　ｏｎｅＨｅａｒｔ",
       "telephone": "03-5851-6033",
       "address": {
@@ -1640,6 +2874,36 @@
       ],
       "_tags": [
         "花畑エリア",
+        "土曜日も営業",
+        "開設3年以内",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスわかば西新井",
+      "telephone": "03-5837-4385",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "西新井４－２０－１"
+      },
+      "parentOrganization": "株式会社わかばケアセンター",
+      "identifier": "1372114890",
+      "_town": "西新井",
+      "_kind": "営利法人",
+      "_designated": "2025-10-01",
+      "_years": 0.974674880219028,
+      "url": "https://wakaba-care.co.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "西新井エリア",
         "土曜日も営業",
         "開設3年以内",
         "デイサービス"
@@ -1698,6 +2962,34 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "こまどり・フェニックスデイサービスセンター南花畑",
+      "telephone": "03-5856-6535",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "南花畑３－３５－１０－１階"
+      },
+      "parentOrganization": "医療法人社団福寿会",
+      "identifier": "1372115087",
+      "_town": "南花畑",
+      "_kind": "医療法人",
+      "_designated": "2026-03-01",
+      "_years": 0.5612594113620808,
+      "url": "http://www.fukujukaigr.or.jp/",
+      "_days": [
+        "平日",
+        "祝日"
+      ],
+      "_tags": [
+        "南花畑エリア",
+        "開設3年以内",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ヒーローいきいき",
       "telephone": "03-3605-7826",
       "address": {
@@ -1721,6 +3013,29 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ヒーローあおぞら",
+      "telephone": "03-3628-1192",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "大谷田３－１９－１５"
+      },
+      "parentOrganization": "合同会社認知症総合研究所",
+      "identifier": "1372115202",
+      "_town": "大谷田",
+      "_kind": "営利法人",
+      "_designated": "2026-04-01",
+      "_years": 0.47638603696098564,
+      "_tags": [
+        "大谷田エリア",
+        "開設3年以内",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "デイサービスセンターエクラシア足立保木間",
       "telephone": "05068619190",
       "address": {
@@ -1738,6 +3053,29 @@
       "_years": 0.30937713894592744,
       "_tags": [
         "保木間エリア",
+        "開設3年以内",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンターエクラシア足立舎人",
+      "telephone": "05068753214",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "舎人４－９－２３"
+      },
+      "parentOrganization": "株式会社エクラシア",
+      "identifier": "1372115244",
+      "_town": "舎人",
+      "_kind": "営利法人",
+      "_designated": "2026-06-01",
+      "_years": 0.30937713894592744,
+      "_tags": [
+        "舎人エリア",
         "開設3年以内",
         "デイサービス"
       ]
@@ -1771,6 +3109,36 @@
         "土曜日も営業",
         "デイサービス"
       ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "デイサービスセンター　バンビ　加平店",
+      "telephone": "03-6231-2015",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "足立区",
+        "streetAddress": "西加平２－４－２１"
+      },
+      "parentOrganization": "株式会社ワールドケアサービス",
+      "identifier": "1372206167",
+      "_town": "西加平",
+      "_kind": "営利法人",
+      "_designated": "2013-09-01",
+      "_years": 13.05681040383299,
+      "url": "http://wcs-bambi.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 30,
+      "_tags": [
+        "西加平エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
     }
   ],
   "faq": [
@@ -1780,11 +3148,11 @@
     },
     {
       "q": "足立区にデイサービスは何件ありますか？",
-      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で足立区内に107件の通所介護事業所が指定を受けています。本ページではそのうち60件を連絡先つきで掲載しています。なお定員18人以下の地域密着型通所介護は区が指定するため、この件数には含まれていません。"
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で足立区内に107件の通所介護事業所が指定を受けています。本ページでは107件すべてを連絡先つきで掲載しています。なお定員18人以下の地域密着型通所介護は区が指定するため、この件数には含まれていません。"
     },
     {
       "q": "足立区の掲載事業所は、どこを見て絞り込めばいいですか？",
-      "a": "まず送迎範囲に自宅が入るかで絞り、次に入浴設備（個浴か機械浴か）で絞るのが順番です。足立区の掲載60件では営利法人が43件と最も多く、指定から20年以上の事業所も17件あります。長く続いているところは空きが出にくい一方、新しいところは空きがあります。"
+      "a": "まず送迎範囲に自宅が入るかで絞り、次に入浴設備（個浴か機械浴か）で絞るのが順番です。足立区の掲載107件では営利法人が77件と最も多く、指定から20年以上の事業所も29件あります。長く続いているところは空きが出にくい一方、新しいところは空きがあります。"
     }
   ],
   "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/adachi/\">足立区の訪問介護<small>自宅に来てもらう・区内213件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/adachi/\">足立区の訪問看護<small>医療ケアが必要な方へ・区内120件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/adachi/\">足立区のショートステイ<small>数日あずける・区内44件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/adachi/\">足立区の福祉用具<small>借りる・買う・区内52件</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/adachi/\">足立区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/adachi/\">足立区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",

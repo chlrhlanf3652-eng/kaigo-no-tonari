@@ -198,7 +198,7 @@ def build(wid, site):
         {"q": f"{ward}には訪問看護ステーションが何件ありますか？",
          "a": f"東京都が公表している指定事業所一覧では、2026年9月1日時点で{ward}内に{total}件の"
               f"訪問看護ステーションが指定を受けています。"
-              f"本ページではそのうち{n}件を連絡先つきで掲載しています。"},
+              f"本ページでは{n}件すべてを連絡先つきで掲載しています。"},
         {"q": f"{ward}の掲載事業所は、どこを見て絞り込めばいいですか？",
          "a": f"まず必要な医療処置に対応できるかで絞り、次に距離で絞るのが順番です。"
               f"{ward}の掲載{n}件では{top_org}が{top_n}件、医療法人が{iryo}件、"
@@ -266,14 +266,14 @@ def build(wid, site):
         "category": {"id": "houmon-kango", "name": "訪問看護", "path": "/houmon-kango/"},
         "area": {"pref_id": "tokyo", "pref_name": "東京都", "city_id": wid, "city_name": ward},
         "seo": {
-            "title": f"{ward}の訪問看護一覧（{n}件）｜{facet}・指示書の流れ",
-            "description": f"{ward}の訪問看護ステーション{n}件を、電話番号・地図つきで一覧にしました。"
+            "title": f"{ward}の訪問看護一覧（全{n}件）｜{facet}・指示書の流れ",
+            "description": f"{ward}の訪問看護ステーション{n}件すべてを、電話番号・地図つきで一覧にしました。"
                            f"日曜も訪問する事業所は{sunday}件、土曜まで含めると{weekend}件です。"
                            f"区内{total}件の中から選ぶための所在町域・運営法人・開設年数・"
                            "定期訪問の曜日の内訳と、主治医の指示書から利用開始までの流れをまとめました。",
             "canonical": f"https://kaigonotonari.com/houmon-kango/tokyo/{wid}/",
             "og_title": f"{ward}の訪問看護ステーション一覧｜選び方と始め方",
-            "og_description": f"{ward}の訪問看護ステーション{n}件を掲載。対応できる医療処置の確認と、"
+            "og_description": f"{ward}の訪問看護ステーション全{n}件を掲載。対応できる医療処置の確認と、"
                               "主治医の指示書から始める流れを解説します。",
             "og_image": "https://kaigonotonari.com/assets/ogp-houmon-kango.jpg",
         },
@@ -285,7 +285,7 @@ def build(wid, site):
                 f"{sunday}件</strong>であることまで示しました。"
                 f"主治医の指示書から利用開始までの流れもまとめています。"
                 f"訪問看護は事業所選びより先に<strong>主治医への相談</strong>が要ります。",
-        "listing_note": f"{ward}内の訪問看護ステーションから{n}件を掲載しています"
+        "listing_note": f"{ward}内で指定を受けている訪問看護ステーション{n}件をすべて掲載しています"
                         "（東京都公表・2026年9月1日時点）。"
                         + (f"区内には{total}件が指定を受けており、事業所番号の順に等間隔で抽出したため、"
                            "開設の古い事業所と新しい事業所が混ざっています。"

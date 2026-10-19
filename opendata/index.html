@@ -3,15 +3,15 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>東京23区の介護事業所データ3,999件（CSV・CC BY 4.0）｜かいごのとなり</title>
-<meta name="description" content="東京都福祉局と厚生労働省の2つの公開データを事業所番号で突き合わせた、東京23区の介護サービス事業所3,999件のCSVを配布しています。利用可能曜日・定員・公式サイト・緯度経度つき。CC BY 4.0、商用利用可。列の埋まり具合と注意点も明記しています。">
+<title>東京23区の介護事業所データ全5,489件（CSV・CC BY 4.0）｜かいごのとなり</title>
+<meta name="description" content="東京都福祉局と厚生労働省の2つの公開データを事業所番号で突き合わせた、東京23区の介護サービス事業所5,489件（全件）のCSVを配布しています。利用可能曜日・定員・公式サイト・緯度経度つき。CC BY 4.0、商用利用可。列の埋まり具合と注意点も明記しています。">
 <meta name="robots" content="index,follow,max-image-preview:large">
 <link rel="canonical" href="https://kaigonotonari.com/opendata/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="かいごのとなり">
 <meta property="og:locale" content="ja_JP">
 <meta property="og:title" content="オープンデータ配布">
-<meta property="og:description" content="東京都福祉局と厚生労働省の2つの公開データを事業所番号で突き合わせた、東京23区の介護サービス事業所3,999件のCSVを配布しています。利用可能曜日・定員・公式サイト・緯度経度つき。CC BY 4.0、商用利用可。列の埋まり具合と注意点も明記しています。">
+<meta property="og:description" content="東京都福祉局と厚生労働省の2つの公開データを事業所番号で突き合わせた、東京23区の介護サービス事業所5,489件（全件）のCSVを配布しています。利用可能曜日・定員・公式サイト・緯度経度つき。CC BY 4.0、商用利用可。列の埋まり具合と注意点も明記しています。">
 <meta property="og:url" content="https://kaigonotonari.com/opendata/">
 <meta property="og:image" content="https://kaigonotonari.com/assets/ogp-home.jpg">
 <meta name="twitter:card" content="summary_large_image">
@@ -40,7 +40,7 @@ try{var _fs=localStorage.getItem("kt-fs");if(_fs==="l")document.documentElement.
     "@id": "https://kaigonotonari.com/#website"
    },
    "datePublished": "2026-09-21",
-   "dateModified": "2026-09-21",
+   "dateModified": "2026-10-19",
    "inLanguage": "ja"
   },
   {
@@ -71,7 +71,7 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
 </head>
 <body data-cat="" data-area="opendata" data-ptype="static">
 <a class="skip" href="#main">本文へスキップ</a>
-<div class="pr">本サイトはアフィリエイトプログラムを利用しており、広告（PR）を含みます。掲載情報は各事業者・自治体の公表情報をもとに作成しています。</div>
+<div class="pr">掲載情報は東京都・厚生労働省・各区の公表データをもとに作成しています。掲載料・紹介料は受け取っていません。</div>
 
 <div class="util">
   <div class="wrap">
@@ -115,11 +115,11 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
     <p class="lead">突き合わせた結果そのものをCSVで配ります。<strong>CC BY 4.0・商用利用可</strong>です。</p>
   </div>
   <h2 id="s1">配っているもの</h2>
-  <p>東京23区の介護サービス事業所<strong>3,999件</strong>を1本のCSVにまとめたものです。東京都と厚生労働省が別々に公開しているデータを、事業所番号で突き合わせて作りました。どちらか一方だけでは揃わない項目（利用可能曜日・定員・公式サイト・緯度経度）が入っています。</p>
+  <p>東京23区の介護サービス事業所<strong>5,489件（23区で指定を受けている全件）</strong>を1本のCSVにまとめたものです。東京都と厚生労働省が別々に公開しているデータを、事業所番号で突き合わせて作りました。どちらか一方だけでは揃わない項目（利用可能曜日・定員・公式サイト・緯度経度）が入っています。</p>
 
   <div class="note">
     <strong><a href="../opendata/kaigonotonari-tokyo23-kaigo.csv" download>kaigonotonari-tokyo23-kaigo.csv をダウンロード</a></strong><br>
-    3,999行／約1.2MB／UTF-8（BOMつき・Excelでそのまま開けます）／最終更新 2026年9月26日
+    5,489行／約1.7MB／UTF-8（BOMつき・Excelでそのまま開けます）／最終更新 2026年10月19日
   </div>
 
   <h2 id="s2">収録範囲</h2>
@@ -128,22 +128,22 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
     <caption class="tiny" style="text-align:left;padding-bottom:6px">サービス種類ごとの収録件数</caption>
     <thead><tr><th>サービス種類</th><th class="num">収録</th><th class="num">23区の全指定数</th></tr></thead>
     <tbody>
-      <tr><th>訪問介護</th><td class="num">1,261</td><td class="num">2,292</td></tr>
-      <tr><th>訪問看護</th><td class="num">1,037</td><td class="num">1,325</td></tr>
-      <tr><th>通所介護（デイサービス）</th><td class="num">836</td><td class="num">1,007</td></tr>
+      <tr><th>訪問介護</th><td class="num">2,292</td><td class="num">2,292</td></tr>
+      <tr><th>訪問看護</th><td class="num">1,325</td><td class="num">1,325</td></tr>
+      <tr><th>通所介護（デイサービス）</th><td class="num">1,007</td><td class="num">1,007</td></tr>
       <tr><th>短期入所生活介護</th><td class="num">385</td><td class="num">385</td></tr>
       <tr><th>福祉用具貸与・特定福祉用具販売</th><td class="num">480</td><td class="num">480</td></tr>
-      <tr><th>合計</th><td class="num">3,999</td><td class="num">5,489</td></tr>
+      <tr><th>合計</th><td class="num">5,489</td><td class="num">5,489</td></tr>
     </tbody>
   </table>
   </div>
-  <p>1区あたり60件を上限にしています。短期入所生活介護と福祉用具は全区で全件、通所介護と訪問看護も大半の区で全件が入ります。訪問介護は事業所数の多い区で上限に当たります。抽出は事業所番号の順に等間隔で行っており、先頭から詰めていません（古い事業所ばかりになるのを避けるため）。</p>
+  <p>2026年10月19日の更新から、上限を設けず<strong>23区で指定を受けている事業所をすべて</strong>収録しています（それまでは1区60件まで）。</p>
 
   <h2 id="s3">列と、埋まっている割合</h2>
   <p>公表データに記載のない項目は<strong>空欄のまま</strong>にしています。「なし」と書くと「提供していない」という別の意味になってしまうためです。</p>
   <div class="tw">
   <table>
-    <caption class="tiny" style="text-align:left;padding-bottom:6px">全16列。記載あり件数は3,999件に対する割合</caption>
+    <caption class="tiny" style="text-align:left;padding-bottom:6px">全16列。記載あり件数は5,489件に対する割合</caption>
     <thead><tr><th style="width:24%">列</th><th class="num">記載あり</th><th>出どころ・注意</th></tr></thead>
     <tbody>
       <tr><th>サービス種類</th><td class="num">100%</td><td>福祉用具は「貸与」「販売」の両方を扱う事業所を「・」で連結</td></tr>
@@ -154,11 +154,11 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
       <tr><th>事業所番号</th><td class="num">100%</td><td>2つのデータを結ぶキー</td></tr>
       <tr><th>住所／電話番号</th><td class="num">100%</td><td>東京都</td></tr>
       <tr><th>指定年月日</th><td class="num">100%</td><td>東京都。開設年数の目安になります</td></tr>
-      <tr><th>事業所種別</th><td class="num">35.6%</td><td>東京都。短期入所生活介護でのみ「特養の空床利用型」等が入ります</td></tr>
-      <tr><th>利用可能曜日</th><td class="num">80.8%</td><td>厚生労働省。<strong>事務所の営業日ではなくサービス提供日</strong></td></tr>
-      <tr><th>定員</th><td class="num">31.9%</td><td>厚生労働省。通所介護・短期入所以外では意味が異なるため要注意</td></tr>
-      <tr><th>公式サイト</th><td class="num">74.1%</td><td>厚生労働省。ホスト名が壊れているものは除いています</td></tr>
-      <tr><th>緯度／経度</th><td class="num">90.4%</td><td>厚生労働省</td></tr>
+      <tr><th>事業所種別</th><td class="num">31.2%</td><td>東京都。短期入所生活介護でのみ「特養の空床利用型」等が入ります</td></tr>
+      <tr><th>利用可能曜日</th><td class="num">82.5%</td><td>厚生労働省。<strong>事務所の営業日ではなくサービス提供日</strong></td></tr>
+      <tr><th>定員</th><td class="num">31.4%</td><td>厚生労働省。通所介護・短期入所以外では意味が異なるため要注意</td></tr>
+      <tr><th>公式サイト</th><td class="num">72.1%</td><td>厚生労働省。ホスト名が壊れているものは除いています</td></tr>
+      <tr><th>緯度／経度</th><td class="num">89.9%</td><td>厚生労働省</td></tr>
     </tbody>
   </table>
   </div>
@@ -170,7 +170,7 @@ gtag('js',new Date());gtag('config','G-9M1VPRMRSD');
     <li><b>「定員」はサービス種類で意味が変わる</b>通所介護なら1日の受け入れ人数ですが、訪問看護では別のものが入ります。<code>0</code> は「定員0人」ではなく「該当なし・未記載」です。</li>
     <li><b>空き状況は入っていません</b>公表データにないものは作れないため、載せていません。</li>
   </ul>
-  <p>この判断の経緯は<a href="../data-sources/">データの作り方</a>に、もう少し詳しく書いています。</p>
+  <p>区ごとに集計した数字は<a href="../tokyo/hikaku/">東京23区の介護サービス比較</a>（CSVあり）にまとめています。この判断の経緯は<a href="../data-sources/">データの作り方</a>に、もう少し詳しく書いています。</p>
 
   <h2 id="s5">ライセンスと出典の書き方</h2>
   <p>このCSVは<strong>クリエイティブ・コモンズ 表示 4.0 国際（CC BY 4.0）</strong>で公開します。商用・非商用を問わず、複製・改変・再配布できます。出典を書いていただくことが条件です。</p>

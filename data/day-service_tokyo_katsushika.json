@@ -12,19 +12,19 @@
     "city_name": "葛飾区"
   },
   "seo": {
-    "title": "葛飾区のデイサービス一覧（60件）｜日曜対応11件・定員と送迎",
-    "description": "葛飾区の通所介護（デイサービス）事業所60件を、電話番号・地図つきで一覧にしました。日曜も通える事業所は11件、土曜まで含めると53件。定員の内訳も示しました。区内71件の中から選ぶための所在町域・運営法人・開設年数の内訳と、1級地での自己負担、見学で聞くことをまとめました。",
+    "title": "葛飾区のデイサービス一覧（全71件）｜日曜対応11件・定員と送迎",
+    "description": "葛飾区の通所介護（デイサービス）事業所71件すべてを、電話番号・地図つきで一覧にしました。日曜も通える事業所は11件、土曜まで含めると63件。定員の内訳も示しました。区内71件の中から選ぶための所在町域・運営法人・開設年数の内訳と、1級地での自己負担、見学で聞くことをまとめました。",
     "canonical": "https://kaigonotonari.com/day-service/tokyo/katsushika/",
     "og_title": "葛飾区のデイサービス一覧｜送迎範囲と費用の見方",
-    "og_description": "葛飾区の通所介護事業所60件を掲載。送迎範囲・入浴設備・開設年数から選ぶ順番と、保険外費用を含めた費用の見方を解説します。",
+    "og_description": "葛飾区の通所介護事業所全71件を掲載。送迎範囲・入浴設備・開設年数から選ぶ順番と、保険外費用を含めた費用の見方を解説します。",
     "og_image": "https://kaigonotonari.com/assets/ogp-day-service.jpg"
   },
   "h1": "葛飾区のデイサービス一覧｜送迎範囲と費用の見方",
   "published": "2026-09-22",
   "modified": "2026-09-22",
-  "count_label": "掲載：60事業所",
-  "lead": "東京都葛飾区で通所介護（デイサービス）を探している方へ。東京都の指定を受けた71件から60件を電話番号・地図つきで掲載し、所在町域・運営法人・開設からの年数の内訳と、1級地での自己負担をまとめました。デイサービスでいちばん多い壁は<strong>本人が行きたがらないこと</strong>です。選ぶ順番は近い順ではなく、通い続けられる条件の順になります。",
-  "listing_note": "葛飾区内の通所介護事業所から60件を掲載しています（東京都公表・2026年9月1日時点）。区内には71件が指定を受けており、事業所番号の順に等間隔で抽出したため、開設の古い事業所と新しい事業所が混ざっています。定員18人以下の地域密着型通所介護は区が指定するため、この一覧には含まれていません。掲載順は事業所の優劣を示すものではありません。",
+  "count_label": "掲載：71事業所",
+  "lead": "東京都葛飾区で通所介護（デイサービス）を探している方へ。東京都の指定を受けた71件すべてを電話番号・地図つきで掲載し、所在町域・運営法人・開設からの年数の内訳と、1級地での自己負担をまとめました。デイサービスでいちばん多い壁は<strong>本人が行きたがらないこと</strong>です。選ぶ順番は近い順ではなく、通い続けられる条件の順になります。",
+  "listing_note": "葛飾区内で指定を受けている通所介護事業所71件をすべて掲載しています（東京都公表・2026年9月1日時点）。区内には71件が指定を受けており、そのすべてを掲載しています。定員18人以下の地域密着型通所介護は区が指定するため、この一覧には含まれていません。掲載順は事業所の優劣を示すものではありません。",
   "items": [
     {
       "@type": "LocalBusiness",
@@ -208,6 +208,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "東堀切在宅サービスセンター",
+      "telephone": "03-3838-8591",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "東堀切２－２８－６－１０１"
+      },
+      "parentOrganization": "社会福祉法人仁生社",
+      "identifier": "1372200830",
+      "_town": "東堀切",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2002-04-01",
+      "_years": 24.476386036960985,
+      "url": "http://www.jinseisha.jp/day_horikiri/index.htm",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "東堀切エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "東四つ木在宅サービスセンター",
       "telephone": "03-5670-3531",
       "address": {
@@ -357,6 +387,36 @@
       "_tags": [
         "青戸エリア",
         "日曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "癒しの森　水元",
+      "telephone": "03-5648-2242",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "水元１－５－１９"
+      },
+      "parentOrganization": "株式会社癒しの森",
+      "identifier": "1372201812",
+      "_town": "水元",
+      "_kind": "営利法人",
+      "_designated": "2002-04-01",
+      "_years": 24.476386036960985,
+      "url": "https://www.iyashi-m.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "水元エリア",
+        "土曜日も営業",
         "20年以上",
         "デイサービス"
       ]
@@ -541,6 +601,37 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "デイサービスセンターかなまち",
+      "telephone": "03-5648-2081",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "東金町２－２３－１５"
+      },
+      "parentOrganization": "社会福祉法人すこやか福祉会",
+      "identifier": "1372202943",
+      "_town": "東金町",
+      "_kind": "社会福祉法人（社協以外）",
+      "_designated": "2004-12-01",
+      "_years": 21.806981519507186,
+      "url": "http://www.sukoyaka-fu.or.jp/index.html",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 43,
+      "_tags": [
+        "東金町エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ジョイリハＳＰＡ新小岩",
       "telephone": "03-5672-2031",
       "address": {
@@ -679,6 +770,36 @@
       "_kind": "営利法人",
       "_designated": "2006-01-01",
       "_years": 20.722792607802873,
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "金町エリア",
+        "土曜日も営業",
+        "20年以上",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ほのぼのデイサービス",
+      "telephone": "03-5648-5752",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "金町１－２３－１８　１階"
+      },
+      "parentOrganization": "株式会社ほのぼの",
+      "identifier": "1372203677",
+      "_town": "金町",
+      "_kind": "営利法人",
+      "_designated": "2006-05-01",
+      "_years": 20.39425051334702,
+      "url": "http://hp.kaipoke.biz/yg3/",
       "_days": [
         "平日",
         "土曜日",
@@ -873,6 +994,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "ＤａｙＲｏｏｍエフ・ティー介護東金町",
+      "telephone": "03-5660-0213",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "東金町１－３６－１－１０５"
+      },
+      "parentOrganization": "株式会社エフ・ティー介護サービス",
+      "identifier": "1372204915",
+      "_town": "東金町",
+      "_kind": "営利法人",
+      "_designated": "2010-07-01",
+      "_years": 16.227241615331966,
+      "url": "http://care-net.biz/13/ftkaigo/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 45,
+      "_tags": [
+        "東金町エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "いろりの里",
       "telephone": "03-5654-7178",
       "address": {
@@ -1017,6 +1168,35 @@
       "_capacity": 30,
       "_tags": [
         "細田エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ジョイリハＳＰＡ亀有",
+      "telephone": "03-5629-5855",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "青戸８－３－１３"
+      },
+      "parentOrganization": "株式会社ヤマウチ",
+      "identifier": "1372205532",
+      "_town": "青戸",
+      "_kind": "営利法人",
+      "_designated": "2012-07-01",
+      "_years": 14.225872689938399,
+      "url": "http://www.joyreha.co.jp/",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "青戸エリア",
         "土曜日も営業",
         "デイサービス"
       ]
@@ -1199,6 +1379,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "デイサービスセンター　たのしいデイ　ほりきり",
+      "telephone": "03-5671-1712",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "堀切３－４－８ゲートウェイタワー堀切菖蒲園１階"
+      },
+      "parentOrganization": "株式会社ケア２１",
+      "identifier": "1372206746",
+      "_town": "堀切",
+      "_kind": "営利法人",
+      "_designated": "2014-12-01",
+      "_years": 11.808350444900753,
+      "url": "http://www.care21.co.jp/facilities/A/B/day/horikiri/index.html",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 30,
+      "_tags": [
+        "堀切エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "デイサービスあゆみ",
       "telephone": "03-5672-2678",
       "address": {
@@ -1339,6 +1549,35 @@
       "_capacity": 25,
       "_tags": [
         "新小岩エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "湯ったりデイサービス　櫻舞",
+      "telephone": "03-6662-6262",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "亀有１－２２－２２"
+      },
+      "parentOrganization": "株式会社櫻舞",
+      "identifier": "1372207793",
+      "_town": "亀有",
+      "_kind": "営利法人",
+      "_designated": "2017-05-01",
+      "_years": 9.39356605065024,
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_capacity": 29,
+      "_tags": [
+        "亀有エリア",
         "土曜日も営業",
         "デイサービス"
       ]
@@ -1521,6 +1760,35 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "デイホームゆりの木柴又",
+      "telephone": "03-3658-7290",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "柴又７－１－８　１Ｆ"
+      },
+      "parentOrganization": "株式会社日本エルダリーケアサービス",
+      "identifier": "1372208213",
+      "_town": "柴又",
+      "_kind": "営利法人",
+      "_designated": "2019-04-01",
+      "_years": 7.477070499657769,
+      "url": "http://www.elderly.jp",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "柴又エリア",
+        "土曜日も営業",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "シルバー茶論　パークハイム",
       "telephone": "03-6662-5912",
       "address": {
@@ -1669,6 +1937,36 @@
     },
     {
       "@type": "LocalBusiness",
+      "name": "アズハイム葛飾白鳥デイサービスセンター",
+      "telephone": "03-6662-7061",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "白鳥４－１５－１９"
+      },
+      "parentOrganization": "株式会社アズパートナーズ",
+      "identifier": "1372209401",
+      "_town": "白鳥",
+      "_kind": "営利法人",
+      "_designated": "2025-01-01",
+      "_years": 1.7221081451060918,
+      "url": "http://www.as-heim.com",
+      "_days": [
+        "平日",
+        "土曜日",
+        "祝日"
+      ],
+      "_tags": [
+        "白鳥エリア",
+        "土曜日も営業",
+        "開設3年以内",
+        "デイサービス"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
       "name": "ＢＥＳＴジム花瑞季",
       "telephone": "03-6657-8878",
       "address": {
@@ -1811,6 +2109,29 @@
         "開設3年以内",
         "デイサービス"
       ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "ブルーミングケア奥戸ホームズ　梅の花",
+      "telephone": "03-6662-8812",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "JP",
+        "addressRegion": "東京都",
+        "addressLocality": "葛飾区",
+        "streetAddress": "奥戸６－９－１１"
+      },
+      "parentOrganization": "株式会社マイルストーン",
+      "identifier": "1372209708",
+      "_town": "奥戸",
+      "_kind": "営利法人",
+      "_designated": "2026-05-01",
+      "_years": 0.3942505133470226,
+      "_tags": [
+        "奥戸エリア",
+        "開設3年以内",
+        "デイサービス"
+      ]
     }
   ],
   "faq": [
@@ -1820,11 +2141,11 @@
     },
     {
       "q": "葛飾区にデイサービスは何件ありますか？",
-      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で葛飾区内に71件の通所介護事業所が指定を受けています。本ページではそのうち60件を連絡先つきで掲載しています。なお定員18人以下の地域密着型通所介護は区が指定するため、この件数には含まれていません。"
+      "a": "東京都が公表している指定事業所一覧では、2026年9月1日時点で葛飾区内に71件の通所介護事業所が指定を受けています。本ページでは71件すべてを連絡先つきで掲載しています。なお定員18人以下の地域密着型通所介護は区が指定するため、この件数には含まれていません。"
     },
     {
       "q": "葛飾区の掲載事業所は、どこを見て絞り込めばいいですか？",
-      "a": "まず送迎範囲に自宅が入るかで絞り、次に入浴設備（個浴か機械浴か）で絞るのが順番です。葛飾区の掲載60件では営利法人が46件と最も多く、指定から20年以上の事業所も23件あります。長く続いているところは空きが出にくい一方、新しいところは空きがあります。"
+      "a": "まず送迎範囲に自宅が入るかで絞り、次に入浴設備（個浴か機械浴か）で絞るのが順番です。葛飾区の掲載71件では営利法人が55件と最も多く、指定から20年以上の事業所も27件あります。長く続いているところは空きが出にくい一方、新しいところは空きがあります。"
     }
   ],
   "related": "<a href=\"{{ROOT}}houmon-kaigo/tokyo/katsushika/\">葛飾区の訪問介護<small>自宅に来てもらう・区内153件</small></a>\n      <a href=\"{{ROOT}}houmon-kango/tokyo/katsushika/\">葛飾区の訪問看護<small>医療ケアが必要な方へ・区内66件</small></a>\n      <a href=\"{{ROOT}}short-stay/tokyo/katsushika/\">葛飾区のショートステイ<small>数日あずける・区内25件</small></a>\n      <a href=\"{{ROOT}}fukushi-yogu/tokyo/katsushika/\">葛飾区の福祉用具<small>借りる・買う・区内31件</small></a>\n      <a href=\"{{ROOT}}takuhai-bento/tokyo/katsushika/\">葛飾区の宅配弁当<small>高齢者向け配食サービス</small></a>\n      <a href=\"{{ROOT}}mimamori/tokyo/katsushika/\">葛飾区の見守りサービス<small>ひとり暮らしの安否確認</small></a>",
