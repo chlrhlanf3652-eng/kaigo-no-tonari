@@ -254,6 +254,7 @@ def build(wid, site):
         '          <li><a href="{{ROOT}}guide/soudan-madoguchi/">相談窓口の探し方</a></li>\n'
         '          <li><a href="{{ROOT}}guide/houmon-kaigo-dekirukoto/">ヘルパーに頼めること</a></li>\n'
         '          <li><a href="{{ROOT}}houmon-kango/">訪問看護のしくみ</a></li>\n'
+        '          <li><a href="{{ROOT}}tokyo/houmon-kango-zouka/">23区の訪問看護、約半数が2021年以降</a></li>\n'
         '        </ul>\n'
         '      </div>')
 

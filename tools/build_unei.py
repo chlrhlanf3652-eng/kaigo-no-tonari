@@ -132,7 +132,7 @@ def main():
         f'<li><b>運営しているのは{n_hojin:,}法人</b>事業所数の多い上位10法人で{top10n:,}件（全体の{pct(top10n, N)}）。'
         f'最も多いのは{top[0][0]}の{top[0][1]}件です。</li>',
         f'<li><b>直近1年で新しく指定されたのは{new_all}件</b>（{NEW_FROM[:4]}年9月〜{NEW_TO[:4]}年9月）。'
-        f'訪問看護{new_by["訪問看護"]}件、訪問介護{new_by["訪問介護"]}件など。</li>',
+        f'訪問看護{new_by["訪問看護"]}件、訪問介護{new_by["訪問介護"]}件など（<a href="{{{{ROOT}}}}tokyo/houmon-kango-zouka/">訪問看護の指定年</a>）。</li>',
         f'<li><b>営利法人の割合は区で差がある</b>最も高いのは{lead_w[0]}（{pct(lead_w[3], lead_w[1])}）、'
         f'最も低いのは{low_w[0]}（{pct(low_w[3], low_w[1])}）です。</li>',
     ]
