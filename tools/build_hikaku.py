@@ -86,7 +86,7 @@ def main():
 {table(["区"] + [NAME[c] for c in SUN_CATS], t4, "曜日の登録がある事業所が3件未満の区は「—」")}
   <h2 id="dl">データのダウンロード</h2>
   <p>この表のもとになった数字は、CSVで自由に使えます（<a href="https://creativecommons.org/licenses/by/4.0/deed.ja" rel="noopener">CC BY 4.0</a>。出典「かいごのとなり（東京都・厚生労働省の公表データをもとに作成）」の表記をお願いします）。</p>
-  <div class="lg"><a href="{{{{ROOT}}}}opendata/tokyo23-kaigo-hikaku.csv" download>23区比較データ（CSV）<small>23行・区ごとの件数と人口</small></a><a href="{{{{ROOT}}}}opendata/">事業所データ（CSV）<small>事業所1件ずつの一覧</small></a></div>
+  <div class="lg"><a href="{{{{ROOT}}}}opendata/tokyo23-kaigo-hikaku.csv" download>23区比較データ（CSV）<small>23行・区ごとの件数と人口</small></a><a href="{{{{ROOT}}}}tokyo/unei-hojin/">運営法人の比較<small>株式会社の割合と大手15法人</small></a><a href="{{{{ROOT}}}}opendata/">事業所データ（CSV）<small>事業所1件ずつの一覧</small></a></div>
   <div class="src"><strong>参考・出典</strong><ul>
     <li>東京都福祉局「居宅サービス事業所一覧」（CC BY 4.0／2026年9月1日時点）</li>
     {"".join(f"<li>{s}</li>" for s in KO.SOURCES)}
