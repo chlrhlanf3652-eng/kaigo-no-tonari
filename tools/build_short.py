@@ -310,7 +310,9 @@ def build(wid, site):
         cap_note = "掲載分に定員が公表されている事業所がありませんでした。"
 
     from short_tpl import SHORT_STAY
+    import kinkyu_short as KS
     content = SHORT_STAY % dict(
+        kinkyu=KS.section(wid, ward, madoguchi),
         facts=FX.facts("short-stay", wid, ward, items, "ショートステイ"),
         caps=cap_rows, cap_note=cap_note,
         senyo=n - kuushou, ratio_note=ratio_note, town_note=town_note,

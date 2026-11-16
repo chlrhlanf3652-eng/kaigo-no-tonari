@@ -26,6 +26,8 @@ SHORT_STAY = """<h2 id="s1">%(ward)sでショートステイを探すとき、�
     </div>
     <p class="tiny">ショートステイの種類（生活介護と療養介護の違い）、連続利用の上限、緊急時の預け先、認知症のある方の受け入れは<a href="{{ROOT}}short-stay/">ショートステイを地域から探す</a>にまとめています。%(ward)sに限らず共通の内容です。</p>
 
+    %(kinkyu)s
+    <p class="tiny">23区すべての数と区の事業は<a href="{{ROOT}}tokyo/short-stay-hikaku/">東京23区のショートステイ比較</a>で見られます。</p>
     <h2 id="s2">%(ward)sのショートステイ一覧</h2>
     {{LISTING}}
 
